@@ -1,0 +1,5 @@
+apple	15
+orange	10
+apple	15
+orange	16
+banana	100

@@ -1,0 +1,1468 @@
+[/N The/D Tragedie/R of/P Macbeth/R by/P William/R Shakespeare/R 1603/O ]/N
+Actus/R Primus/R ./O
+Scoena/R Prima/R ./O
+Thunder/R and/C Lightning/R ./O
+Enter/R three/O Witches/N ./O
+1/O ./O
+When/O shall/O we/Q three/O meet/V againe/N ?/O
+In/P Thunder/R ,/O Lightning/R ,/O or/C in/P Raine/R ?/O
+2/O ./O
+When/O the/D Hurley-burley/R 's/O done/V ,/O When/O the/D Battaile/R 's/O lost/V ,/O and/C wonne/R 3/O ./O
+That/D will/O be/V ere/A the/D set/N of/P Sunne/R 1/O ./O
+Where/O the/D place/N ?/O
+2/O ./O
+Vpon/P the/D Heath/R 3/O ./O
+There/O to/P meet/V with/P Macbeth/R 1/O ./O
+I/Q come/V ,/O Gray-Malkin/R All/R ./O
+Padock/R calls/V anon/N :/O faire/N is/V foule/G ,/O and/C foule/N is/V faire/N ,/O Houer/R through/P the/D fogge/N and/C filthie/N ayre/N ./O
+Exeunt/R ./O
+Scena/N Secunda/R ./O
+Alarum/N within/P ./O
+Enter/R King/R Malcome/R ,/O Donalbaine/R ,/O Lenox/R ,/O with/P attendants/N ,/O meeting/V a/D bleeding/N Captaine/N ./O
+King/R ./O
+What/Q bloody/G man/N is/V that/P ?/O
+he/Q can/O report/V ,/O As/P seemeth/N by/P his/Q plight/N ,/O of/P the/D Reuolt/R The/D newest/G state/N Mal/R ./O
+This/D is/V the/D Serieant/N ,/O Who/Q like/P a/D good/G and/C hardie/G Souldier/N fought/V `/O Gainst/G my/Q Captiuitie/R :/O Haile/R braue/R friend/N ;/O Say/V to/P the/D King/R ,/O the/D knowledge/N of/P the/D Broyle/R ,/O As/P thou/D didst/N leaue/N it/Q Cap/R ./O
+Doubtfull/A it/Q stood/V ,/O As/P two/O spent/V Swimmers/N ,/O that/P doe/N cling/V together/A ,/O And/C choake/V their/Q Art/N :/O The/D mercilesse/N Macdonwald/R (/O Worthie/R to/P be/V a/D Rebell/N ,/O for/P to/P that/D The/D multiplying/G Villanies/N of/P Nature/R Doe/R swarme/N vpon/P him/Q )/O from/P the/D Westerne/R Isles/R Of/P Kernes/R and/C Gallowgrosses/R is/V supply/N 'd/R ,/O And/C Fortune/R on/P his/Q damned/G Quarry/N smiling/V ,/O Shew/R 'd/R like/P a/D Rebells/R Whore/N :/O but/C all/D 's/V too/A weake/G :/O For/P braue/N Macbeth/R (/O well/A hee/N deserues/V that/P Name/N )/O Disdayning/N Fortune/R ,/O with/P his/Q brandisht/N Steele/R ,/O Which/O smoak/V 'd/R with/P bloody/G execution/N (/O Like/P Valours/R Minion/R )/O caru/R 'd/R out/P his/Q passage/N ,/O Till/R hee/R fac/R 'd/V the/D Slaue/R :/O Which/O neu/N '/O r/N shooke/V hands/N ,/O nor/C bad/G farwell/N to/P him/Q ,/O Till/R he/Q vnseam/V 'd/R him/Q from/P the/D Naue/G toth/N '/O Chops/N ,/O And/C fix/V 'd/O his/Q Head/N vpon/P our/Q Battlements/N King/R ./O
+O/R valiant/G Cousin/N ,/O worthy/G Gentleman/R Cap/R ./O
+As/P whence/P the/D Sunne/R `/O gins/V his/Q reflection/N ,/O Shipwracking/R Stormes/R ,/O and/C direfull/G Thunders/N :/O So/A from/P that/D Spring/R ,/O whence/N comfort/N seem/V 'd/R to/P come/V ,/O Discomfort/R swells/V :/O Marke/R King/R of/P Scotland/R ,/O marke/N ,/O No/D sooner/A Iustice/R had/V ,/O with/P Valour/R arm/N 'd/R ,/O Compell/R 'd/V these/D skipping/V Kernes/N to/P trust/V their/Q heeles/N ,/O But/C the/D Norweyan/R Lord/R ,/O surueying/N vantage/N ,/O With/P furbusht/N Armes/N ,/O and/C new/G supplyes/N of/P men/N ,/O Began/P a/D fresh/G assault/N King/R ./O
+Dismay/R 'd/R not/A this/D our/Q Captaines/N ,/O Macbeth/R and/C Banquoh/R ?/O
+Cap/R ./O
+Yes/A ,/O as/P Sparrowes/R ,/O Eagles/R ;/O Or/C the/D Hare/R ,/O the/D Lyon/R :/O If/P I/Q say/V sooth/G ,/O I/Q must/O report/V they/Q were/V As/P Cannons/R ouer-charg/R 'd/R with/P double/G Cracks/N ,/O So/P they/Q doubly/A redoubled/V stroakes/N vpon/P the/D Foe/R :/O Except/P they/Q meant/V to/P bathe/N in/P reeking/V Wounds/N ,/O Or/C memorize/V another/D Golgotha/R ,/O I/Q can/O not/A tell/V :/O but/C I/Q am/V faint/G ,/O My/Q Gashes/N cry/V for/P helpe/R King/R ./O
+So/A well/A thy/G words/N become/V thee/N ,/O as/P thy/G wounds/N ,/O They/Q smack/V of/P Honor/R both/C :/O Goe/R get/V him/Q Surgeons/N ./O
+Enter/R Rosse/R and/C Angus/R ./O
+Who/Q comes/V here/A ?/O
+Mal/R ./O
+The/D worthy/G Thane/N of/P Rosse/R Lenox/R ./O
+What/Q a/D haste/N lookes/V through/P his/Q eyes/N ?/O
+So/A should/O he/Q looke/V ,/O that/P seemes/N to/P speake/V things/N strange/G Rosse/R ./O
+God/R saue/N the/D King/R King/R ./O
+Whence/N cam/N `/O st/G thou/N ,/O worthy/G Thane/N ?/O
+Rosse/R ./O
+From/P Fiffe/R ,/O great/G King/R ,/O Where/O the/D Norweyan/R Banners/R flowt/V the/D Skie/R ,/O And/C fanne/R our/Q people/N cold/G ./O
+Norway/R himselfe/N ,/O with/P terrible/G numbers/N ,/O Assisted/V by/P that/D most/G disloyall/N Traytor/N ,/O The/D Thane/N of/P Cawdor/R ,/O began/V a/D dismall/G Conflict/N ,/O Till/R that/P Bellona/R 's/O Bridegroome/R ,/O lapt/N in/P proofe/N ,/O Confronted/V him/Q with/P selfe-comparisons/N ,/O Point/R against/P Point/R ,/O rebellious/G Arme/R `/O gainst/N Arme/N ,/O Curbing/V his/Q lauish/G spirit/N :/O and/C to/P conclude/V ,/O The/D Victorie/R fell/V on/P vs/R King/R ./O
+Great/R happinesse/R Rosse/R ./O
+That/D now/A Sweno/G ,/O the/D Norwayes/R King/R ,/O Craues/R composition/N :/O Nor/C would/O we/Q deigne/V him/Q buriall/N of/P his/Q men/N ,/O Till/R he/Q disbursed/V ,/O at/P Saint/R Colmes/R ynch/R ,/O Ten/O thousand/O Dollars/N ,/O to/P our/Q generall/G vse/N King/R ./O
+No/D more/A that/P Thane/N of/P Cawdor/R shall/O deceiue/V Our/Q Bosome/G interest/N :/O Goe/R pronounce/V his/Q present/G death/N ,/O And/C with/P his/Q former/G Title/R greet/N Macbeth/R Rosse/R ./O
+Ile/G see/V it/Q done/V King/R ./O
+What/Q he/Q hath/N lost/V ,/O Noble/G Macbeth/R hath/N wonne/N ./O
+Exeunt/R ./O
+Scena/N Tertia/R ./O
+Thunder/N ./O
+Enter/P the/D three/O Witches/N ./O
+1/O ./O
+Where/O hast/G thou/N beene/N ,/O Sister/R ?/O
+2/O ./O
+Killing/R Swine/R 3/O ./O
+Sister/R ,/O where/O thou/N ?/O
+1/O ./O
+A/D Saylors/R Wife/R had/V Chestnuts/R in/P her/Q Lappe/N ,/O And/C mouncht/R ,/O &/C mouncht/R ,/O and/C mouncht/N :/O Giue/R me/Q ,/O quoth/D I./R Aroynt/R thee/O ,/O Witch/R ,/O the/D rumpe-fed/G Ronyon/R cryes/N ./O
+Her/Q Husband/N 's/V to/P Aleppo/R gone/V ,/O Master/R o'/V th/N '/O Tiger/R :/O But/C in/P a/D Syue/G Ile/G thither/G sayle/N ,/O And/C like/P a/D Rat/R without/P a/D tayle/N ,/O Ile/R doe/R ,/O Ile/R doe/R ,/O and/C Ile/R doe/R 2/O ./O
+Ile/G giue/N thee/O a/D Winde/R 1/O ./O
+Th/R `/O art/N kinde/N 3/O ./O
+And/C I/Q another/D 1/O ./O
+I/Q my/Q selfe/V haue/N all/A the/D other/G ,/O And/C the/D very/A Ports/N they/Q blow/V ,/O All/D the/D Quarters/N that/O they/Q know/V ,/O I'/G th/N '/O Ship-mans/R Card/R ./O
+Ile/G dreyne/N him/Q drie/V as/P Hay/R :/O Sleepe/N shall/O neyther/A Night/R nor/C Day/R Hang/R vpon/P his/Q Pent-house/R Lid/R :/O He/Q shall/O liue/V a/D man/N forbid/V :/O Wearie/R Seu/R `/O nights/N ,/O nine/O times/N nine/O ,/O Shall/R he/Q dwindle/V ,/O peake/N ,/O and/C pine/N :/O Though/P his/Q Barke/R can/O not/A be/V lost/V ,/O Yet/C it/Q shall/O be/V Tempest-tost/G ./O
+Looke/V what/Q I/Q haue/V 2/O ./O
+Shew/R me/Q ,/O shew/V me/Q 1/O ./O
+Here/A I/Q haue/V a/D Pilots/R Thumbe/R ,/O Wrackt/R ,/O as/P homeward/N he/Q did/V come/V ./O
+Drum/N within/P ./O
+3/O ./O
+A/D Drumme/R ,/O a/D Drumme/N :/O Macbeth/R doth/R come/V All/D ./O
+The/D weyward/G Sisters/N ,/O hand/N in/P hand/N ,/O Posters/N of/P the/D Sea/R and/C Land/R ,/O Thus/A doe/G goe/N ,/O about/A ,/O about/A ,/O Thrice/R to/P thine/V ,/O and/C thrice/N to/P mine/N ,/O And/C thrice/N againe/N ,/O to/P make/V vp/G nine/O ./O
+Peace/R ,/O the/D Charme/R 's/O wound/N vp/N ./O
+Enter/R Macbeth/R and/C Banquo/R ./O
+Macb/R ./O
+So/A foule/G and/C faire/N a/D day/N I/Q haue/V not/A seene/V Banquo/R ./O
+How/O farre/R is/V '/O t/N call/N 'd/V to/P Soris/R ?/O
+What/Q are/V these/D ,/O So/A wither/P 'd/R ,/O and/C so/A wilde/G in/P their/Q attyre/N ,/O That/D looke/N not/A like/P th/N '/O Inhabitants/N o'/P th/N '/O Earth/R ,/O And/C yet/A are/V o/A n't/A ?/O
+Liue/R you/Q ,/O or/C are/V you/Q aught/O That/D man/N may/O question/V ?/O
+you/Q seeme/V to/P vnderstand/V me/Q ,/O By/P each/D at/P once/A her/Q choppie/N finger/N laying/V Vpon/P her/Q skinnie/N Lips/N :/O you/Q should/O be/V Women/N ,/O And/C yet/A your/Q Beards/N forbid/V me/Q to/P interprete/V That/P you/Q are/V so/A Mac/R ./O
+Speake/N if/P you/Q can/O :/O what/Q are/V you/Q ?/O
+1/O ./O
+All/D haile/G Macbeth/R ,/O haile/N to/P thee/V Thane/N of/P Glamis/R 2/O ./O
+All/D haile/G Macbeth/R ,/O haile/N to/P thee/V Thane/N of/P Cawdor/R 3/O ./O
+All/D haile/G Macbeth/R ,/O that/D shalt/N be/V King/R hereafter/P Banq/R ./O
+Good/R Sir/R ,/O why/O doe/N you/Q start/V ,/O and/C seeme/N to/P feare/N Things/N that/P doe/N sound/N so/P faire/N ?/O
+i'/P th/R '/O name/N of/P truth/N Are/V ye/Q fantasticall/V ,/O or/C that/P indeed/A Which/O outwardly/A ye/Q shew/V ?/O
+My/Q Noble/G Partner/N You/Q greet/V with/P present/G Grace/R ,/O and/C great/G prediction/N Of/P Noble/G hauing/O ,/O and/C of/P Royall/R hope/N ,/O That/D he/Q seemes/V wrapt/G withall/N :/O to/P me/Q you/Q speake/V not/A ./O
+If/P you/Q can/O looke/V into/P the/D Seedes/R of/P Time/R ,/O And/C say/V ,/O which/O Graine/R will/O grow/V ,/O and/C which/O will/O not/A ,/O Speake/V then/A to/P me/Q ,/O who/Q neyther/V begge/N ,/O nor/C feare/V Your/Q fauors/N ,/O nor/C your/Q hate/N 1/O ./O
+Hayle/R 2/O ./O
+Hayle/R 3/O ./O
+Hayle/R 1/O ./O
+Lesser/A than/P Macbeth/R ,/O and/C greater/G 2/O ./O
+Not/A so/A happy/G ,/O yet/A much/G happyer/P 3/O ./O
+Thou/P shalt/N get/V Kings/N ,/O though/P thou/V be/V none/N :/O So/A all/D haile/N Macbeth/R ,/O and/C Banquo/R 1/O ./O
+Banquo/R ,/O and/C Macbeth/R ,/O all/D haile/N Macb/R ./O
+Stay/R you/Q imperfect/V Speakers/N ,/O tell/V me/Q more/A :/O By/P Sinells/R death/N ,/O I/Q know/V I/Q am/V Thane/D of/P Glamis/R ,/O But/C how/O ,/O of/P Cawdor/R ?/O
+the/D Thane/N of/P Cawdor/R liues/V A/D prosperous/G Gentleman/N :/O And/C to/P be/V King/R ,/O Stands/R not/A within/P the/D prospect/N of/P beleefe/R ,/O No/D more/A then/A to/P be/V Cawdor/R ./O
+Say/V from/P whence/N You/Q owe/V this/D strange/G Intelligence/N ,/O or/C why/O Vpon/P this/D blasted/V Heath/N you/Q stop/V our/Q way/N With/P such/G Prophetique/G greeting/N ?/O
+Speake/R ,/O I/Q charge/V you/Q ./O
+Witches/N vanish/V ./O
+Banq/R ./O
+The/D Earth/R hath/N bubbles/N ,/O as/P the/D Water/R ha/R 's/O ,/O And/C these/D are/V of/P them/Q :/O whither/G are/V they/Q vanish/V 'd/R ?/O
+Macb/R ./O
+Into/P the/D Ayre/R :/O and/C what/Q seem/V 'd/R corporall/R ,/O Melted/R ,/O as/P breath/N into/P the/D Winde/R ./O
+Would/O they/Q had/V stay/N 'd/R Banq/R ./O
+Were/V such/G things/N here/A ,/O as/P we/Q doe/V speake/N about/P ?/O
+Or/C haue/V we/Q eaten/V on/P the/D insane/G Root/N ,/O That/D takes/V the/D Reason/N Prisoner/N ?/O
+Macb/R ./O
+Your/Q Children/N shall/O be/V Kings/R Banq/R ./O
+You/Q shall/O be/V King/R Macb/R ./O
+And/C Thane/N of/P Cawdor/R too/A :/O went/V it/Q not/A so/A ?/O
+Banq/R ./O
+Toth/R '/O selfe-same/G tune/N and/C words/N :/O who/Q 's/V here/A ?/O
+Enter/R Rosse/R and/C Angus/R ./O
+Rosse/R ./O
+The/D King/R hath/N happily/A receiu/R 'd/R ,/O Macbeth/R ,/O The/D newes/N of/P thy/G successe/N :/O and/C when/O he/Q reades/V Thy/G personall/N Venture/R in/P the/D Rebels/N sight/N ,/O His/Q Wonders/N and/C his/Q Prayses/N doe/N contend/V ,/O Which/O should/O be/V thine/N ,/O or/C his/Q :/O silenc/R 'd/R with/P that/D ,/O In/P viewing/V o'/N re/V the/D rest/N o'/P th/R '/O selfe-same/G day/N ,/O He/Q findes/V thee/N in/P the/D stout/N Norweyan/R Rankes/R ,/O Nothing/N afeard/N of/P what/Q thy/G selfe/G didst/N make/V Strange/G Images/N of/P death/N ,/O as/P thick/G as/P Tale/N Can/O post/V with/P post/N ,/O and/C euery/N one/N did/V beare/N Thy/N prayses/N in/P his/Q Kingdomes/N great/G defence/N ,/O And/C powr/R 'd/R them/Q downe/A before/P him/Q Ang/G ./O
+Wee/R are/V sent/V ,/O To/P giue/V thee/N from/P our/Q Royall/R Master/R thanks/N ,/O Onely/A to/P harrold/V thee/N into/P his/Q sight/N ,/O Not/A pay/V thee/D Rosse/R ./O
+And/C for/P an/D earnest/N of/P a/D greater/G Honor/N ,/O He/Q bad/G me/Q ,/O from/P him/Q ,/O call/V thee/D Thane/N of/P Cawdor/R :/O In/P which/O addition/N ,/O haile/N most/G worthy/G Thane/N ,/O For/P it/Q is/V thine/N Banq/R ./O
+What/Q ,/O can/O the/D Deuill/N speake/N true/G ?/O
+Macb/R ./O
+The/D Thane/N of/P Cawdor/R liues/N :/O Why/O doe/V you/Q dresse/V me/Q in/P borrowed/V Robes/N ?/O
+Ang/R ./O
+Who/Q was/V the/D Thane/N ,/O liues/N yet/A ,/O But/C vnder/P heauie/N Iudgement/N beares/V that/P Life/R ,/O Which/O he/Q deserues/V to/P loose/V ./O
+Whether/P he/Q was/V combin/R 'd/R with/P those/D of/P Norway/R ,/O Or/C did/V lyne/V the/D Rebell/R with/P hidden/G helpe/N ,/O And/C vantage/N ;/O or/C that/P with/P both/D he/Q labour/N 'd/O In/P his/Q Countreyes/N wracke/V ,/O I/Q know/V not/A :/O But/C Treasons/R Capitall/R ,/O confess/V 'd/R ,/O and/C prou/A 'd/R ,/O Haue/R ouerthrowne/V him/Q Macb/R ./O
+Glamys/R ,/O and/C Thane/N of/P Cawdor/R :/O The/D greatest/G is/V behinde/A ./O
+Thankes/N for/P your/Q paines/N ./O
+Doe/R you/Q not/A hope/V your/Q Children/N shall/O be/V Kings/N ,/O When/O those/D that/O gaue/V the/D Thane/N of/P Cawdor/N to/P me/Q ,/O Promis/R 'd/V no/D lesse/N to/P them/Q Banq/R ./O
+That/D trusted/V home/N ,/O Might/A yet/A enkindle/V you/Q vnto/P the/D Crowne/R ,/O Besides/P the/D Thane/N of/P Cawdor/R ./O
+But/C `/O tis/O strange/G :/O And/C oftentimes/N ,/O to/P winne/V vs/N to/P our/Q harme/N ,/O The/D Instruments/R of/P Darknesse/G tell/V vs/N Truths/N ,/O Winne/R vs/V with/P honest/G Trifles/N ,/O to/P betray/R 's/O In/P deepest/G consequence/N ./O
+Cousins/N ,/O a/D word/N ,/O I/Q pray/V you/Q Macb/R ./O
+Two/O Truths/N are/V told/V ,/O As/P happy/G Prologues/N to/P the/D swelling/V Act/R Of/P the/D Imperiall/R Theame/R ./O
+I/Q thanke/P you/Q Gentlemen/N :/O This/D supernaturall/N solliciting/N Can/O not/A be/V ill/A ;/O can/O not/A be/V good/G ./O
+If/P ill/A ?/O
+why/O hath/N it/Q giuen/V me/Q earnest/G of/P successe/R ,/O Commencing/V in/P a/D Truth/R ?/O
+I/Q am/V Thane/D of/P Cawdor/R ./O
+If/P good/G ?/O
+why/O doe/N I/Q yeeld/V to/P that/D suggestion/N ,/O Whose/D horrid/G Image/N doth/P vnfixe/G my/Q Heire/R ,/O And/C make/V my/Q seated/V Heart/N knock/N at/P my/Q Ribbes/N ,/O Against/P the/D vse/N of/P Nature/R ?/O
+Present/P Feares/N Are/V lesse/P then/A horrible/G Imaginings/N :/O My/Q Thought/R ,/O whose/Q Murther/G yet/A is/V but/C fantasticall/N ,/O Shakes/N so/P my/Q single/G state/N of/P Man/N ,/O That/D Function/N is/V smother/G 'd/R in/P surmise/N ,/O And/C nothing/N is/V ,/O but/C what/Q is/V not/A Banq/R ./O
+Looke/V how/O our/Q Partner/R 's/O rapt/G Macb/R ./O
+If/P Chance/R will/O haue/V me/Q King/R ,/O Why/O Chance/R may/O Crowne/V me/Q ,/O Without/P my/Q stirre/N Banq/R ./O
+New/R Honors/N come/V vpon/P him/Q Like/P our/Q strange/G Garments/N ,/O cleaue/G not/A to/P their/Q mould/N ,/O But/C with/P the/D aid/N of/P vse/G Macb/R ./O
+Come/V what/Q come/V may/O ,/O Time/R ,/O and/C the/D Houre/N ,/O runs/V through/P the/D roughest/R Day/R Banq/R ./O
+Worthy/G Macbeth/R ,/O wee/N stay/N vpon/P your/Q leysure/N Macb/N ./O
+Giue/N me/Q your/Q fauour/N :/O My/Q dull/G Braine/R was/V wrought/V with/P things/N forgotten/V ./O
+Kinde/R Gentlemen/R ,/O your/Q paines/N are/V registred/V ,/O Where/O euery/N day/N I/Q turne/V the/D Leafe/R ,/O To/P reade/V them/Q ./O
+Let/V vs/N toward/P the/D King/R :/O thinke/G vpon/N What/Q hath/N chanc/N 'd/R :/O and/C at/P more/G time/N ,/O The/D Interim/R hauing/V weigh/V 'd/R it/Q ,/O let/V vs/N speake/V Our/Q free/G Hearts/N each/D to/P other/G Banq/R ./O
+Very/A gladly/A Macb/R ./O
+Till/R then/A enough/A :/O Come/V friends/N ./O
+Exeunt/R ./O
+Scena/N Quarta/N ./O
+Flourish/R ./O
+Enter/R King/R ,/O Lenox/R ,/O Malcolme/R ,/O Donalbaine/R ,/O and/C Attendants/N ./O
+King/R ./O
+Is/V execution/N done/V on/P Cawdor/R ?/O
+Or/C not/A those/D in/P Commission/R yet/A return/V 'd/R ?/O
+Mal/R ./O
+My/Q Liege/N ,/O they/Q are/V not/A yet/A come/V back/A ./O
+But/C I/Q haue/V spoke/N with/P one/O that/O saw/V him/Q die/V :/O Who/Q did/V report/V ,/O that/P very/A frankly/A hee/V Confess/R 'd/O his/Q Treasons/N ,/O implor/R 'd/R your/V Highnesse/R Pardon/R ,/O And/C set/V forth/O a/D deepe/G Repentance/N :/O Nothing/N in/P his/Q Life/R became/V him/Q ,/O Like/P the/D leauing/V it/Q ./O
+Hee/R dy/O `/O de/O ,/O As/P one/O that/O had/V beene/N studied/V in/P his/Q death/N ,/O To/P throw/V away/O the/D dearest/N thing/N he/Q ow/V 'd/R ,/O As/P `/O twere/V a/D carelesse/N Trifle/A King/R ./O
+There/O 's/V no/D Art/N ,/O To/P finde/V the/D Mindes/N construction/N in/P the/D Face/N ./O
+He/Q was/V a/D Gentleman/N ,/O on/P whom/Q I/Q built/V An/D absolute/G Trust/R ./O
+Enter/R Macbeth/R ,/O Banquo/R ,/O Rosse/R ,/O and/C Angus/R ./O
+O/R worthyest/N Cousin/N ,/O The/D sinne/N of/P my/Q Ingratitude/N euen/N now/A Was/V heauie/N on/P me/Q ./O
+Thou/D art/N so/A farre/G before/A ,/O That/D swiftest/N Wing/N of/P Recompence/R is/V slow/G ,/O To/P ouertake/V thee/N ./O
+Would/O thou/A hadst/V lesse/R deseru/R 'd/R ,/O That/P the/D proportion/N both/D of/P thanks/N ,/O and/C payment/N ,/O Might/G haue/N beene/N mine/N :/O onely/P I/Q haue/V left/V to/P say/V ,/O More/G is/V thy/G due/G ,/O then/A more/A then/A all/D can/O pay/V Macb/R ./O
+The/D seruice/N ,/O and/C the/D loyaltie/N I/Q owe/V ,/O In/P doing/V it/Q ,/O payes/V it/Q selfe/G ./O
+Your/Q Highnesse/G part/N ,/O is/V to/P receiue/V our/Q Duties/N :/O And/C our/Q Duties/N are/V to/P your/Q Throne/R ,/O and/C State/R ,/O Children/R ,/O and/C Seruants/R ;/O which/O doe/N but/C what/Q they/Q should/O ,/O By/P doing/V euery/G thing/N safe/G toward/P your/Q Loue/G And/C Honor/R King/R ./O
+Welcome/V hither/N :/O I/Q haue/V begun/V to/P plant/V thee/N ,/O and/C will/O labour/V To/P make/V thee/D full/G of/P growing/V ./O
+Noble/G Banquo/R ,/O That/D hast/V no/D lesse/N deseru/N 'd/R ,/O nor/C must/O be/V knowne/V No/D lesse/N to/P haue/V done/V so/A :/O Let/V me/Q enfold/V thee/D ,/O And/C hold/V thee/N to/P my/Q Heart/R Banq/R ./O
+There/O if/P I/Q grow/V ,/O The/D Haruest/R is/V your/Q owne/N King/R ./O
+My/Q plenteous/G Ioyes/N ,/O Wanton/R in/P fulnesse/R ,/O seeke/N to/P hide/V themselues/V In/P drops/N of/P sorrow/N ./O
+Sonnes/R ,/O Kinsmen/R ,/O Thanes/R ,/O And/C you/Q whose/Q places/N are/V the/D nearest/G ,/O know/V ,/O We/Q will/O establish/V our/Q Estate/R vpon/N Our/Q eldest/G ,/O Malcolme/R ,/O whom/Q we/Q name/N hereafter/A ,/O The/D Prince/R of/P Cumberland/R :/O which/O Honor/R must/O Not/A vnaccompanied/V ,/O inuest/N him/Q onely/A ,/O But/C signes/N of/P Noblenesse/R ,/O like/P Starres/N ,/O shall/O shine/V On/P all/D deseruers/N ./O
+From/P hence/A to/P Envernes/N ,/O And/C binde/G vs/N further/A to/P you/Q Macb/R ./O
+The/D Rest/R is/V Labor/R ,/O which/O is/V not/A vs/G 'd/R for/P you/Q :/O Ile/O be/V my/Q selfe/N the/D Herbenger/R ,/O and/C make/V ioyfull/G The/D hearing/N of/P my/Q Wife/N ,/O with/P your/Q approach/N :/O So/A humbly/A take/V my/Q leaue/N King/R ./O
+My/Q worthy/G Cawdor/N Macb/R ./O
+The/D Prince/R of/P Cumberland/R :/O that/O is/V a/D step/N ,/O On/P which/O I/Q must/O fall/V downe/N ,/O or/C else/A o'/G re-leape/N ,/O For/P in/P my/Q way/N it/Q lyes/V ./O
+Starres/N hide/V your/Q fires/N ,/O Let/V not/A Light/N see/V my/Q black/G and/C deepe/G desires/N :/O The/D Eye/R winke/N at/P the/D Hand/R :/O yet/A let/V that/D bee/N ,/O Which/O the/D Eye/R feares/N ,/O when/O it/Q is/V done/V to/P see/V ./O
+Enter/R ./O
+King/R ./O
+True/G worthy/G Banquo/R :/O he/Q is/V full/G so/P valiant/G ,/O And/C in/P his/Q commendations/N ,/O I/Q am/V fed/V :/O It/Q is/V a/D Banquet/N to/P me/Q ./O
+Let/V 's/Q after/P him/Q ,/O Whose/D care/N is/V gone/V before/A ,/O to/P bid/V vs/N welcome/G :/O It/Q is/V a/D peerelesse/G Kinsman/N ./O
+Flourish/R ./O
+Exeunt/R ./O
+Scena/N Quinta/R ./O
+Enter/R Macbeths/R Wife/R alone/A with/P a/D Letter/R ./O
+Lady/R ./O
+They/Q met/V me/Q in/P the/D day/N of/P successe/N :/O and/C I/Q haue/V learn/V 'd/R by/P the/D perfect/G `/O st/G report/N ,/O they/Q haue/V more/G in/P them/Q ,/O then/A mortall/G knowledge/N ./O
+When/O I/Q burnt/V in/P desire/N to/P question/V them/Q further/G ,/O they/Q made/V themselues/R Ayre/R ,/O into/P which/O they/Q vanish/V 'd/R ./O
+Whiles/N I/Q stood/V rapt/G in/P the/D wonder/N of/P it/Q ,/O came/V Missiues/R from/P the/D King/R ,/O who/Q all-hail/A 'd/V me/Q Thane/V of/P Cawdor/R ,/O by/P which/O Title/R before/P ,/O these/D weyward/G Sisters/N saluted/V me/Q ,/O and/C referr/N 'd/V me/Q to/P the/D comming/N on/P of/P time/N ,/O with/P haile/G King/R that/P shalt/N be/V ./O
+This/D haue/N I/Q thought/V good/G to/P deliuer/V thee/N (/O my/Q dearest/N Partner/N of/P Greatnesse/R )/O that/P thou/Q might/O `/O st/V not/A loose/V the/D dues/N of/P reioycing/N by/P being/V ignorant/G of/P what/Q Greatnesse/R is/V promis/V 'd/R thee/N ./O
+Lay/P it/Q to/P thy/G heart/N and/C farewell/N ./O
+Glamys/R thou/P art/N ,/O and/C Cawdor/R ,/O and/C shalt/N be/V What/Q thou/P art/N promis/V 'd/R :/O yet/A doe/V I/Q feare/V thy/G Nature/N ,/O It/Q is/V too/A full/G o'/P th/N '/O Milke/N of/P humane/G kindnesse/N ,/O To/P catch/V the/D neerest/N way/N ./O
+Thou/Q would/O `/O st/V be/V great/G ,/O Art/R not/A without/P Ambition/N ,/O but/C without/P The/D illnesse/N should/O attend/V it/Q ./O
+What/Q thou/Q would/O `/O st/V highly/A ,/O That/D would/O `/O st/V thou/D holily/N :/O would/O `/O st/V not/A play/V false/G ,/O And/C yet/A would/O `/O st/V wrongly/A winne/N ./O
+Thould/D `/O st/G haue/N ,/O great/G Glamys/N ,/O that/P which/O cryes/N ,/O Thus/A thou/A must/O doe/V ,/O if/P thou/Q haue/V it/Q ;/O And/C that/P which/O rather/A thou/O do/V `/O st/V feare/N to/P doe/V ,/O Then/A wishest/V should/O be/V vndone/V ./O
+High/R thee/V hither/G ,/O That/P I/Q may/O powre/V my/Q Spirits/N in/P thine/N Eare/N ,/O And/C chastise/N with/P the/D valour/N of/P my/Q Tongue/N All/D that/O impeides/V thee/N from/P the/D Golden/R Round/R ,/O Which/O Fate/R and/C Metaphysicall/R ayde/R doth/P seeme/R To/P haue/V thee/D crown/N 'd/O withall/V ./O
+Enter/R Messenger/R ./O
+What/Q is/V your/Q tidings/N ?/O
+Mess/R ./O
+The/D King/R comes/V here/A to/P Night/R Lady/R ./O
+Thou/D `/O rt/N mad/G to/P say/V it/Q ./O
+Is/V not/A thy/G Master/N with/P him/Q ?/O
+who/Q ,/O wer/N '/O t/N so/A ,/O Would/O haue/V inform/V 'd/R for/P preparation/N Mess/N ./O
+So/A please/V you/Q ,/O it/Q is/V true/G :/O our/Q Thane/N is/V comming/V :/O One/O of/P my/Q fellowes/N had/V the/D speed/N of/P him/Q ;/O Who/Q almost/A dead/G for/P breath/N ,/O had/V scarcely/A more/A Then/A would/O make/V vp/P his/Q Message/N Lady/R ./O
+Giue/R him/Q tending/V ,/O He/Q brings/V great/G newes/N ,/O Exit/N Messenger/N ./O
+The/D Rauen/R himselfe/N is/V hoarse/G ,/O That/D croakes/V the/D fatall/G entrance/N of/P Duncan/R Vnder/P my/Q Battlements/N ./O
+Come/V you/Q Spirits/N ,/O That/O tend/V on/P mortall/G thoughts/N ,/O vnsex/N me/Q here/A ,/O And/C fill/V me/Q from/P the/D Crowne/R to/P the/D Toe/R ,/O top-full/G Of/P direst/N Crueltie/N :/O make/V thick/G my/Q blood/N ,/O Stop/R vp/R th/R '/O accesse/N ,/O and/C passage/N to/P Remorse/V ,/O That/D no/A compunctious/G visitings/N of/P Nature/R Shake/R my/Q fell/G purpose/N ,/O nor/C keepe/V peace/N betweene/N Th/O '/O effect/N ,/O and/C hit/V ./O
+Come/V to/P my/Q Womans/R Brests/N ,/O And/C take/V my/Q Milke/N for/P Gall/R ,/O you/Q murth/V `/O ring/N Ministers/N ,/O Where-euer/R ,/O in/P your/Q sightlesse/N substances/N ,/O You/Q wait/V on/P Natures/N Mischiefe/R ./O
+Come/V thick/G Night/R ,/O And/C pall/N thee/N in/P the/D dunnest/N smoake/N of/P Hell/R ,/O That/P my/Q keene/V Knife/R see/V not/A the/D Wound/N it/Q makes/V ,/O Nor/C Heauen/R peepe/V through/P the/D Blanket/N of/P the/D darke/N ,/O To/P cry/V ,/O hold/V ,/O hold/V ./O
+Enter/R Macbeth/R ./O
+Great/R Glamys/R ,/O worthy/G Cawdor/R ,/O Greater/R then/A both/D ,/O by/P the/D all-haile/G hereafter/N ,/O Thy/R Letters/R haue/N transported/V me/Q beyond/P This/D ignorant/G present/G ,/O and/C I/Q feele/V now/A The/D future/N in/P the/D instant/N Macb/N ./O
+My/Q dearest/N Loue/N ,/O Duncan/R comes/V here/A to/P Night/R Lady/R ./O
+And/C when/O goes/V hence/A ?/O
+Macb/R ./O
+To/P morrow/N ,/O as/P he/Q purposes/N Lady/R ./O
+O/R neuer/N ,/O Shall/R Sunne/R that/P Morrow/R see/V ./O
+Your/Q Face/N ,/O my/Q Thane/N ,/O is/V as/P a/D Booke/R ,/O where/O men/N May/O reade/V strange/G matters/N ,/O to/P beguile/V the/D time/N ./O
+Looke/R like/P the/D time/N ,/O beare/N welcome/N in/P your/Q Eye/R ,/O Your/Q Hand/R ,/O your/Q Tongue/N :/O looke/V like/P th/N '/O innocent/G flower/N ,/O But/C be/V the/D Serpent/G vnder/N `/O t./N He/Q that/O 's/V comming/N ,/O Must/O be/V prouided/V for/P :/O and/C you/Q shall/O put/V This/D Nights/R great/G Businesse/R into/P my/Q dispatch/N ,/O Which/O shall/O to/P all/D our/Q Nights/N ,/O and/C Dayes/N to/P come/V ,/O Giue/R solely/A soueraigne/G sway/N ,/O and/C Masterdome/R Macb/R ./O
+We/Q will/O speake/V further/A ,/O Lady/R ./O
+Onely/A looke/V vp/G cleare/N :/O To/P alter/V fauor/N ,/O euer/N is/V to/P feare/N :/O Leaue/V all/D the/D rest/N to/P me/Q ./O
+Exeunt/R ./O
+Scena/N Sexta/R ./O
+Hoboyes/N ,/O and/C Torches/N ./O
+Enter/R King/R ,/O Malcolme/R ,/O Donalbaine/R ,/O Banquo/R ,/O Lenox/R ,/O Macduff/R ,/O Rosse/R ,/O Angus/R ,/O and/C Attendants/N ./O
+King/R ./O
+This/D Castle/R hath/N a/D pleasant/G seat/N ,/O The/D ayre/N nimbly/A and/C sweetly/A recommends/V it/Q selfe/G Vnto/P our/Q gentle/G sences/N Banq/R ./O
+This/D Guest/N of/P Summer/R ,/O The/D Temple-haunting/R Barlet/R does/V approue/V ,/O By/P his/Q loued/G Mansonry/R ,/O that/P the/D Heauens/R breath/N Smells/N wooingly/A here/A :/O no/D Iutty/G frieze/N ,/O Buttrice/R ,/O nor/C Coigne/R of/P Vantage/R ,/O but/C this/D Bird/R Hath/R made/V his/Q pendant/G Bed/R ,/O and/C procreant/N Cradle/N ,/O Where/O they/Q must/O breed/V ,/O and/C haunt/N :/O I/Q haue/V obseru/R 'd/R The/D ayre/N is/V delicate/G ./O
+Enter/R Lady/R ./O
+King/R ./O
+See/V ,/O see/V our/Q honor/N 'd/R Hostesse/R :/O The/D Loue/N that/P followes/R vs/R ,/O sometime/A is/V our/Q trouble/N ,/O Which/O still/A we/Q thanke/V as/P Loue/R ./O
+Herein/A I/Q teach/V you/Q ,/O How/O you/Q shall/O bid/V God-eyld/R vs/N for/P your/Q paines/N ,/O And/C thanke/P vs/N for/P your/Q trouble/N Lady/R ./O
+All/D our/Q seruice/N ,/O In/P euery/N point/N twice/A done/V ,/O and/C then/A done/V double/A ,/O Were/V poore/A ,/O and/C single/G Businesse/R ,/O to/P contend/V Against/P those/D Honors/N deepe/V ,/O and/C broad/G ,/O Wherewith/P your/Q Maiestie/R loades/N our/Q House/R :/O For/P those/D of/P old/G ,/O and/C the/D late/G Dignities/N ,/O Heap/R 'd/R vp/V to/P them/Q ,/O we/Q rest/V your/Q Ermites/N King/R ./O
+Where/O 's/V the/D Thane/N of/P Cawdor/R ?/O
+We/Q courst/P him/Q at/P the/D heeles/N ,/O and/C had/V a/D purpose/N To/P be/V his/Q Purueyor/N :/O But/C he/Q rides/N well/A ,/O And/C his/Q great/G Loue/N (/O sharpe/N as/P his/Q Spurre/N )/O hath/N holp/V him/Q To/P his/Q home/N before/P vs/N :/O Faire/R and/C Noble/R Hostesse/R We/Q are/V your/Q guest/N to/P night/N La./R ./O
+Your/Q Seruants/R euer/N ,/O Haue/R theirs/Q ,/O themselues/V ,/O and/C what/Q is/V theirs/G in/P compt/G ,/O To/P make/V their/Q Audit/N at/P your/Q Highnesse/G pleasure/N ,/O Still/A to/P returne/V your/Q owne/N King/R ./O
+Giue/N me/Q your/Q hand/N :/O Conduct/V me/Q to/P mine/G Host/N we/Q loue/V him/Q highly/A ,/O And/C shall/O continue/V ,/O our/Q Graces/N towards/P him/Q ./O
+By/P your/Q leaue/G Hostesse/R ./O
+Exeunt/R ./O
+Scena/N Septima/R ./O
+Hoboyes/N ./O
+Torches/N ./O
+Enter/R a/D Sewer/R ,/O and/C diuers/N Seruants/O with/P Dishes/N and/C Seruice/N ouer/P the/D Stage/R ./O
+Then/A enter/V Macbeth/R Macb/R ./O
+If/P it/Q were/V done/V ,/O when/O `/O tis/N done/V ,/O then/A `/O twer/A well/A ,/O It/Q were/V done/V quickly/A :/O If/P th/R '/O Assassination/R Could/O trammell/V vp/P the/D Consequence/R ,/O and/C catch/V With/P his/Q surcease/N ,/O Successe/R :/O that/D but/C this/D blow/N Might/N be/V the/D be/V all/D ,/O and/C the/D end/N all/A ./O
+Heere/R ,/O But/C heere/V ,/O vpon/P this/D Banke/R and/C Schoole/R of/P time/N ,/O Wee/R `/O ld/O iumpe/V the/D life/N to/P come/V ./O
+But/C in/P these/D Cases/N ,/O We/Q still/A haue/V iudgement/N heere/A ,/O that/P we/Q but/C teach/V Bloody/R Instructions/R ,/O which/O being/V taught/V ,/O returne/N To/P plague/V th/N '/O Inuenter/N ,/O this/D euen-handed/G Iustice/N Commends/N th/P '/O Ingredience/N of/P our/Q poyson/R 'd/R Challice/R To/P our/Q owne/N lips/N ./O
+Hee/R 's/O heere/N in/P double/G trust/N ;/O First/R ,/O as/P I/Q am/V his/Q Kinsman/N ,/O and/C his/Q Subiect/G ,/O Strong/G both/D against/P the/D Deed/R :/O Then/A ,/O as/P his/Q Host/N ,/O Who/Q should/O against/P his/Q Murtherer/R shut/V the/D doore/N ,/O Not/A beare/V the/D knife/N my/Q selfe/N ./O
+Besides/P ,/O this/D Duncane/R Hath/R borne/V his/Q Faculties/N so/P meeke/G ;/O hath/N bin/N So/A cleere/A in/P his/Q great/G Office/R ,/O that/P his/Q Vertues/N Will/O pleade/V like/P Angels/R ,/O Trumpet-tongu/R 'd/R against/P The/D deepe/G damnation/N of/P his/Q taking/V off/O :/O And/C Pitty/R ,/O like/P a/D naked/G New-borne-Babe/R ,/O Striding/V the/D blast/N ,/O or/C Heauens/R Cherubin/R ,/O hors/N 'd/O Vpon/V the/D sightlesse/N Curriors/N of/P the/D Ayre/R ,/O Shall/R blow/V the/D horrid/G deed/N in/P euery/G eye/N ,/O That/P teares/N shall/O drowne/V the/D winde/N ./O
+I/Q haue/V no/D Spurre/N To/P pricke/V the/D sides/N of/P my/Q intent/N ,/O but/C onely/G Vaulting/N Ambition/N ,/O which/O ore-leapes/V it/Q selfe/G ,/O And/C falles/N on/P th/N '/O other/G ./O
+Enter/R Lady/R ./O
+How/O now/A ?/O
+What/Q Newes/R ?/O
+La./R ./O
+He/Q has/V almost/A supt/G :/O why/O haue/V you/Q left/V the/D chamber/N ?/O
+Mac/R ./O
+Hath/P he/Q ask/V 'd/O for/P me/Q ?/O
+La./R ./O
+Know/R you/Q not/A ,/O he/Q ha/N 's/O ?/O
+Mac/R ./O
+We/Q will/O proceed/V no/D further/G in/P this/D Businesse/N :/O He/Q hath/N Honour/A 'd/V me/Q of/P late/A ,/O and/C I/Q haue/V bought/V Golden/R Opinions/N from/P all/D sorts/N of/P people/N ,/O Which/O would/O be/V worne/G now/A in/P their/Q newest/G glosse/N ,/O Not/A cast/V aside/O so/A soone/A La./R ./O
+Was/V the/D hope/N drunke/G ,/O Wherein/P you/Q drest/V your/Q selfe/N ?/O
+Hath/P it/Q slept/V since/P ?/O
+And/C wakes/V it/Q now/A to/P looke/V so/A greene/G ,/O and/C pale/G ,/O At/P what/Q it/Q did/V so/A freely/A ?/O
+From/P this/D time/N ,/O Such/G I/Q account/V thy/G loue/N ./O
+Art/R thou/P affear/R 'd/R To/P be/V the/D same/G in/P thine/N owne/N Act/R ,/O and/C Valour/R ,/O As/P thou/D art/N in/P desire/N ?/O
+Would/O `/O st/V thou/D haue/N that/O Which/O thou/Q esteem/V `/O st/V the/D Ornament/N of/P Life/R ,/O And/C liue/P a/D Coward/R in/P thine/N owne/N Esteeme/R ?/O
+Letting/V I/Q dare/V not/A ,/O wait/V vpon/P I/Q would/O ,/O Like/P the/D poore/G Cat/R i'/P th/R '/O Addage/R Macb/R ./O
+Prythee/R peace/N :/O I/Q dare/V do/V all/D that/D may/O become/V a/D man/N ,/O Who/Q dares/O do/V more/G ,/O is/V none/N La./R ./O
+What/Q Beast/R was/V '/O t/N then/A That/D made/V you/Q breake/V this/D enterprize/N to/P me/Q ?/O
+When/O you/Q durst/A do/V it/Q ,/O then/A you/Q were/V a/D man/N :/O And/C to/P be/V more/A then/A what/Q you/Q were/V ,/O you/Q would/O Be/V so/A much/A more/A the/D man/N ./O
+Nor/C time/N ,/O nor/C place/N Did/V then/A adhere/A ,/O and/C yet/A you/Q would/O make/V both/D :/O They/Q haue/V made/V themselues/V ,/O and/C that/P their/Q fitnesse/N now/A Do/V 's/O vnmake/R you/Q ./O
+I/Q haue/V giuen/G Sucke/R ,/O and/C know/V How/O tender/N `/O tis/N to/P loue/V the/D Babe/R that/O milkes/V me/Q ,/O I/Q would/O ,/O while/P it/Q was/V smyling/V in/P my/Q Face/N ,/O Haue/R pluckt/V my/Q Nipple/N from/P his/Q Bonelesse/R Gummes/R ,/O And/C dasht/P the/D Braines/R out/P ,/O had/V I/Q so/A sworne/G As/P you/Q haue/V done/V to/P this/D Macb/N ./O
+If/P we/Q should/O faile/V ?/O
+Lady/R ./O
+We/Q faile/A ?/O
+But/C screw/V your/Q courage/N to/P the/D sticking/N place/N ,/O And/C wee/N `/O le/N not/A fayle/G :/O when/O Duncan/R is/V asleepe/N ,/O (/O Whereto/P the/D rather/A shall/O his/Q dayes/N hard/G Iourney/N Soundly/A inuite/A him/Q )/O his/Q two/O Chamberlaines/N Will/O I/Q with/P Wine/N ,/O and/C Wassell/R ,/O so/P conuince/G ,/O That/D Memorie/N ,/O the/D Warder/N of/P the/D Braine/R ,/O Shall/R be/V a/D Fume/N ,/O and/C the/D Receit/N of/P Reason/R A/R Lymbeck/R onely/N :/O when/O in/P Swinish/G sleepe/N ,/O Their/Q drenched/V Natures/N lyes/N as/P in/P a/D Death/N ,/O What/Q can/O not/A you/Q and/C I/Q performe/V vpon/P Th/R '/O vnguarded/G Duncan/R ?/O
+What/Q not/A put/V vpon/P His/Q spungie/N Officers/N ?/O
+who/Q shall/O beare/V the/D guilt/N Of/P our/Q great/G quell/N Macb/R ./O
+Bring/V forth/A Men-Children/P onely/G :/O For/P thy/G vndaunted/G Mettle/R should/O compose/V Nothing/N but/C Males/N ./O
+Will/O it/Q not/A be/V receiu/V 'd/R ,/O When/O we/Q haue/V mark/N 'd/O with/P blood/N those/D sleepie/G two/O Of/P his/Q owne/N Chamber/R ,/O and/C vs/R 'd/V their/Q very/A Daggers/N ,/O That/P they/Q haue/V do/V n't/A ?/O
+Lady/R ./O
+Who/Q dares/O receiue/V it/Q other/G ,/O As/P we/Q shall/O make/V our/Q Griefes/N and/C Clamor/N rore/N ,/O Vpon/P his/Q Death/N ?/O
+Macb/R ./O
+I/Q am/V settled/V ,/O and/C bend/N vp/N Each/D corporall/G Agent/G to/P this/D terrible/G Feat/N ./O
+Away/R ,/O and/C mock/V the/D time/N with/P fairest/N show/N ,/O False/G Face/N must/O hide/V what/Q the/D false/G Heart/N doth/P know/V ./O
+Exeunt/R ./O
+Actus/R Secundus/R ./O
+Scena/N Prima/R ./O
+Enter/R Banquo/R ,/O and/C Fleance/R ,/O with/P a/D Torch/N before/P him/Q ./O
+Banq/R ./O
+How/O goes/V the/D Night/R ,/O Boy/R ?/O
+Fleance/N ./O
+The/D Moone/R is/V downe/N :/O I/Q haue/V not/A heard/V the/D Clock/R Banq/R ./O
+And/C she/Q goes/V downe/A at/P Twelue/R Fleance/R ./O
+I/Q take/V `/O t/N ,/O `/O tis/N later/A ,/O Sir/R Banq/R ./O
+Hold/V ,/O take/V my/Q Sword/N :/O There/O 's/V Husbandry/G in/P Heauen/R ,/O Their/Q Candles/N are/V all/D out/A :/O take/V thee/N that/P too/A ./O
+A/D heauie/N Summons/R lyes/N like/P Lead/N vpon/P me/Q ,/O And/C yet/A I/Q would/O not/A sleepe/V :/O Mercifull/R Powers/R ,/O restraine/N in/P me/Q the/D cursed/V thoughts/N That/P Nature/N giues/N way/N to/P in/P repose/N ./O
+Enter/R Macbeth/R ,/O and/C a/D Seruant/G with/P a/D Torch/N ./O
+Giue/N me/Q my/Q Sword/N :/O who/Q 's/V there/O ?/O
+Macb/R ./O
+A/D Friend/R Banq/R ./O
+What/Q Sir/R ,/O not/A yet/A at/P rest/N ?/O
+the/D King/R 's/O a/D bed/N ./O
+He/Q hath/N beene/N in/P vnusuall/G Pleasure/N ,/O And/C sent/V forth/O great/G Largesse/G to/P your/Q Offices/N ./O
+This/D Diamond/N he/Q greetes/V your/Q Wife/N withall/N ,/O By/P the/D name/N of/P most/G kind/N Hostesse/P ,/O And/C shut/V vp/A in/P measurelesse/N content/N Mac/R ./O
+Being/V vnprepar/R 'd/R ,/O Our/Q will/O became/V the/D seruant/G to/P defect/V ,/O Which/O else/A should/O free/V haue/N wrought/N Banq/R ./O
+All/D 's/V well/A ./O
+I/Q dreamt/V last/G Night/R of/P the/D three/O weyward/G Sisters/N :/O To/P you/Q they/Q haue/V shew/R 'd/V some/D truth/N Macb/N ./O
+I/Q thinke/V not/A of/P them/Q :/O Yet/A when/O we/Q can/O entreat/V an/D houre/N to/P serue/V ,/O We/Q would/O spend/V it/Q in/P some/D words/N vpon/P that/D Businesse/R ,/O If/P you/Q would/O graunt/V the/D time/N Banq/R ./O
+At/P your/Q kind/N `/O st/N leysure/N Macb/R ./O
+If/P you/Q shall/O cleaue/V to/P my/Q consent/N ,/O When/O `/O tis/N ,/O it/Q shall/O make/V Honor/R for/P you/Q Banq/R ./O
+So/A I/Q lose/V none/N ,/O In/P seeking/V to/P augment/V it/Q ,/O but/C still/A keepe/V My/Q Bosome/G franchis/N 'd/V ,/O and/C Allegeance/R cleare/N ,/O I/Q shall/O be/V counsail/N 'd/R Macb/R ./O
+Good/G repose/N the/D while/N Banq/R ./O
+Thankes/R Sir/R :/O the/D like/G to/P you/Q ./O
+Exit/N Banquo/R ./O
+Macb/R ./O
+Goe/R bid/N thy/P Mistresse/R ,/O when/O my/Q drinke/N is/V ready/G ,/O She/Q strike/V vpon/P the/D Bell/R ./O
+Get/V thee/V to/P bed/N ./O
+Enter/R ./O
+Is/V this/D a/D Dagger/N ,/O which/O I/Q see/V before/P me/Q ,/O The/D Handle/R toward/P my/Q Hand/R ?/O
+Come/V ,/O let/V me/Q clutch/V thee/N :/O I/Q haue/V thee/D not/A ,/O and/C yet/A I/Q see/V thee/D still/A ./O
+Art/R thou/P not/A fatall/G Vision/R ,/O sensible/G To/P feeling/V ,/O as/P to/P sight/N ?/O
+or/C art/N thou/N but/C A/D Dagger/N of/P the/D Minde/R ,/O a/D false/G Creation/N ,/O Proceeding/V from/P the/D heat-oppressed/G Braine/R ?/O
+I/Q see/V thee/D yet/A ,/O in/P forme/G as/P palpable/G ,/O As/P this/D which/O now/A I/Q draw/V ./O
+Thou/Q marshall/O `/O st/V me/Q the/D way/N that/P I/Q was/V going/V ,/O And/C such/D an/D Instrument/N I/Q was/V to/P vse/V ./O
+Mine/R Eyes/N are/V made/V the/D fooles/N o'/P th/N '/O other/G Sences/N ,/O Or/C else/A worth/G all/D the/D rest/N :/O I/Q see/V thee/D still/A ;/O And/C on/P thy/G Blade/R ,/O and/C Dudgeon/R ,/O Gouts/N of/P Blood/R ,/O Which/O was/V not/A so/A before/A ./O
+There/O 's/V no/D such/G thing/N :/O It/Q is/V the/D bloody/G Businesse/R ,/O which/O informes/V Thus/A to/P mine/G Eyes/N ./O
+Now/A o'/O re/V the/D one/O halfe/N World/R Nature/R seemes/V dead/G ,/O and/C wicked/G Dreames/N abuse/N The/D Curtain/R 'd/R sleepe/V :/O Witchcraft/R celebrates/V Pale/R Heccats/R Offrings/R :/O and/C wither/R 'd/R Murther/R ,/O Alarum/R 'd/R by/P his/Q Centinell/R ,/O the/D Wolfe/R ,/O Whose/D howle/R 's/O his/Q Watch/N ,/O thus/A with/P his/Q stealthy/G pace/N ,/O With/P Tarquins/R rauishing/V sides/N ,/O towards/P his/Q designe/N Moues/N like/P a/D Ghost/N ./O
+Thou/P sowre/N and/C firme-set/N Earth/R Heare/R not/A my/Q steps/N ,/O which/O they/Q may/O walke/V ,/O for/P feare/N Thy/P very/A stones/N prate/N of/P my/Q where-about/N ,/O And/C take/V the/D present/G horror/N from/P the/D time/N ,/O Which/O now/A sutes/V with/P it/Q ./O
+Whiles/N I/Q threat/N ,/O he/Q liues/V :/O Words/N to/P the/D heat/N of/P deedes/N too/A cold/G breath/N giues/N ./O
+A/D Bell/R rings/N ./O
+I/Q goe/V ,/O and/C it/Q is/V done/V :/O the/D Bell/R inuites/V me/Q ./O
+Heare/R it/Q not/A ,/O Duncan/R ,/O for/P it/Q is/V a/D Knell/R ,/O That/D summons/N thee/V to/P Heauen/R ,/O or/C to/P Hell/R ./O
+Enter/R ./O
+Scena/N Secunda/R ./O
+Enter/R Lady/R ./O
+La./R ./O
+That/P which/O hath/N made/V the/D [/G m/N ]/P drunk/G ,/O hath/N made/V me/Q bold/G :/O What/Q hath/N quench/N 'd/V them/Q ,/O hath/N giuen/P me/Q fire/N ./O
+Hearke/R ,/O peace/N :/O it/Q was/V the/D Owle/G that/P shriek/R 'd/R ,/O The/D fatall/G Bell-man/R ,/O which/O giues/V the/D stern/G `/O st/G good-night/N ./O
+He/Q is/V about/P it/Q ,/O the/D Doores/N are/V open/G :/O And/C the/D surfeted/G Groomes/N doe/V mock/V their/Q charge/N With/P Snores/N ./O
+I/Q haue/V drugg/N 'd/O their/Q Possets/N ,/O That/D Death/N and/C Nature/N doe/N contend/V about/P them/Q ,/O Whether/P they/Q liue/V ,/O or/C dye/N ./O
+Enter/R Macbeth/R ./O
+Macb/R ./O
+Who/Q 's/V there/O ?/O
+what/Q hoa/N ?/O
+Lady/R ./O
+Alack/R ,/O I/Q am/V afraid/G they/Q haue/V awak/R 'd/R ,/O And/C `/O tis/O not/A done/V :/O th/P '/O attempt/N ,/O and/C not/A the/D deed/N ,/O Confounds/R vs/R :/O hearke/N :/O I/Q lay/V 'd/O their/Q Daggers/N ready/G ,/O He/Q could/O not/A misse/V 'em/Q ./O
+Had/V he/Q not/A resembled/V My/Q Father/R as/P he/Q slept/V ,/O I/Q had/V do/N n't/A ./O
+My/Q Husband/R ?/O
+Macb/R ./O
+I/Q haue/V done/V the/D deed/N :/O Didst/N thou/N not/A heare/V a/D noyse/N ?/O
+Lady/R ./O
+I/Q heard/V the/D Owle/G schreame/N ,/O and/C the/D Crickets/G cry/N ./O
+Did/V not/A you/Q speake/V ?/O
+Macb/R ./O
+When/O ?/O
+Lady/R ./O
+Now/A Macb/R ./O
+As/P I/Q descended/V ?/O
+Lady/R ./O
+I/Q Macb/R ./O
+Hearke/R ,/O who/Q lyes/V i'/G th/N '/O second/G Chamber/R ?/O
+Lady/R ./O
+Donalbaine/R Mac/R ./O
+This/D is/V a/D sorry/G sight/N Lady/R ./O
+A/D foolish/G thought/N ,/O to/P say/V a/D sorry/G sight/N Macb/R ./O
+There/O 's/V one/O did/V laugh/N in/P 's/O sleepe/N ,/O And/C one/O cry/N 'd/R Murther/R ,/O that/P they/Q did/V wake/N each/D other/G :/O I/Q stood/V ,/O and/C heard/V them/Q :/O But/C they/Q did/V say/V their/Q Prayers/N ,/O And/C addrest/N them/Q againe/V to/P sleepe/V Lady/R ./O
+There/O are/V two/O lodg/R 'd/O together/A Macb/R ./O
+One/O cry/N 'd/R God/R blesse/V vs/N ,/O and/C Amen/G the/D other/G ,/O As/P they/Q had/V seene/V me/Q with/P these/D Hangmans/N hands/N :/O Listning/V their/Q feare/N ,/O I/Q could/O not/A say/V Amen/G ,/O When/O they/Q did/V say/V God/R blesse/V vs/N Lady/R ./O
+Consider/V it/Q not/A so/A deepely/A Mac/R ./O
+But/C wherefore/Q could/O not/A I/Q pronounce/V Amen/O ?/O
+I/Q had/V most/G need/N of/P Blessing/N ,/O and/C Amen/G stuck/V in/P my/Q throat/N Lady/R ./O
+These/D deeds/N must/O not/A be/V thought/V After/P these/D wayes/N :/O so/A ,/O it/Q will/O make/V vs/N mad/G Macb/R ./O
+Me/Q thought/V I/Q heard/V a/D voyce/G cry/N ,/O Sleep/V no/D more/G :/O Macbeth/R does/V murther/A Sleepe/V ,/O the/D innocent/G Sleepe/N ,/O Sleepe/R that/O knits/V vp/P the/D rauel/R 'd/R Sleeue/R of/P Care/R ,/O The/D death/N of/P each/D dayes/N Life/R ,/O sore/G Labors/N Bath/R ,/O Balme/R of/P hurt/N Mindes/N ,/O great/G Natures/N second/G Course/N ,/O Chiefe/R nourisher/R in/P Life/R 's/O Feast/G Lady/R ./O
+What/Q doe/V you/Q meane/V ?/O
+Macb/R ./O
+Still/A it/Q cry/V 'd/R ,/O Sleepe/D no/A more/G to/P all/D the/D House/R :/O Glamis/R hath/R murther/R 'd/R Sleepe/R ,/O and/C therefore/A Cawdor/R Shall/R sleepe/V no/D more/G :/O Macbeth/N shall/O sleepe/V no/D more/G Lady/R ./O
+Who/Q was/V it/Q ,/O that/P thus/A cry/V 'd/R ?/O
+why/O worthy/G Thane/N ,/O You/Q doe/V vnbend/N your/Q Noble/G strength/N ,/O to/P thinke/V So/A braine-sickly/A of/P things/N :/O Goe/N get/V some/D Water/R ,/O And/C wash/V this/D filthie/N Witnesse/V from/P your/Q Hand/R ./O
+Why/O did/V you/Q bring/V these/D Daggers/N from/P the/D place/N ?/O
+They/Q must/O lye/V there/A :/O goe/N carry/V them/Q ,/O and/C smeare/N The/D sleepie/N Groomes/V with/P blood/N Macb/N ./O
+Ile/R goe/V no/D more/A :/O I/Q am/V afraid/G ,/O to/P thinke/V what/Q I/Q haue/V done/V :/O Looke/R o/A n't/A againe/V ,/O I/Q dare/V not/A Lady/R ./O
+Infirme/R of/P purpose/N :/O Giue/R me/Q the/D Daggers/N :/O the/D sleeping/N ,/O and/C the/D dead/G ,/O Are/V but/C as/P Pictures/R :/O `/O tis/O the/D Eye/R of/P Childhood/R ,/O That/D feares/V a/D painted/G Deuill/N ./O
+If/P he/Q doe/V bleed/V ,/O Ile/R guild/V the/D Faces/N of/P the/D Groomes/R withall/R ,/O For/P it/Q must/O seeme/V their/Q Guilt/R ./O
+Enter/R ./O
+Knocke/N within/P ./O
+Macb/R ./O
+Whence/N is/V that/P knocking/V ?/O
+How/O is/V '/O t/N with/P me/Q ,/O when/O euery/N noyse/N appalls/V me/Q ?/O
+What/Q Hands/R are/V here/A ?/O
+hah/N :/O they/Q pluck/V out/O mine/G Eyes/N ./O
+Will/O all/D great/G Neptunes/R Ocean/R wash/V this/D blood/N Cleane/N from/P my/Q Hand/R ?/O
+no/D :/O this/D my/Q Hand/R will/O rather/A The/D multitudinous/G Seas/R incarnardine/N ,/O Making/V the/D Greene/R one/O ,/O Red/R ./O
+Enter/R Lady/R ./O
+Lady/R ./O
+My/Q Hands/N are/V of/P your/Q colour/N :/O but/C I/Q shame/N To/P weare/V a/D Heart/N so/A white/G ./O
+Knocke/R ./O
+I/Q heare/V a/D knocking/V at/P the/D South/R entry/N :/O Retyre/R we/Q to/P our/Q Chamber/R :/O A/D little/G Water/R cleares/V vs/N of/P this/D deed/N ./O
+How/O easie/R is/V it/Q then/A ?/O
+your/Q Constancie/R Hath/R left/V you/Q vnattended/V ./O
+Knocke/R ./O
+Hearke/R ,/O more/G knocking/N ./O
+Get/V on/P your/Q Night-Gowne/G ,/O least/G occasion/N call/N vs/N ,/O And/C shew/R vs/N to/P be/V Watchers/N :/O be/V not/A lost/V So/A poorely/A in/P your/Q thoughts/N Macb/A ./O
+To/P know/V my/Q deed/N ,/O Knocke/R ./O
+`/O Twere/R best/G not/A know/V my/Q selfe/N ./O
+Wake/R Duncan/R with/P thy/G knocking/V :/O I/Q would/O thou/V could/O `/O st./R Exeunt/R ./O
+Scena/N Tertia/R ./O
+Enter/R a/D Porter/R ./O
+Knocking/N within/P ./O
+Porter/R ./O
+Here/A 's/V a/D knocking/V indeede/N :/O if/P a/D man/N were/V Porter/R of/P Hell/R Gate/R ,/O hee/N should/O haue/V old/G turning/V the/D Key/N ./O
+Knock/R ./O
+Knock/R ,/O Knock/R ,/O Knock/R ./O
+Who/Q 's/V there/O i'/V th/N '/O name/N of/P Belzebub/R ?/O
+Here/A 's/V a/D Farmer/N ,/O that/O hang/V 'd/R himselfe/V on/P th/N '/O expectation/N of/P Plentie/R :/O Come/V in/P time/N ,/O haue/N Napkins/R enow/V about/P you/Q ,/O here/A you/Q `/O le/G sweat/N for/P `/O t./N Knock/N ./O
+Knock/R ,/O knock/N ./O
+Who/Q 's/V there/O in/P th/N '/O other/G Deuils/N Name/N ?/O
+Faith/R here/A 's/V an/D Equiuocator/R ,/O that/O could/O sweare/V in/P both/C the/D Scales/N against/P eyther/G Scale/R ,/O who/Q committed/V Treason/D enough/G for/P Gods/N sake/N ,/O yet/C could/O not/A equiuocate/V to/P Heauen/R :/O oh/O come/V in/A ,/O Equiuocator/R ./O
+Knock/R ./O
+Knock/R ,/O Knock/R ,/O Knock/R ./O
+Who/Q 's/V there/O ?/O
+`/O Faith/R here/A 's/V an/D English/R Taylor/R come/V hither/G ,/O for/P stealing/V out/P of/P a/D French/G Hose/N :/O Come/V in/P Taylor/R ,/O here/A you/Q may/O rost/V your/Q Goose/G ./O
+Knock/R ./O
+Knock/R ,/O Knock/R ./O
+Neuer/R at/P quiet/G :/O What/Q are/V you/Q ?/O
+but/C this/D place/N is/V too/A cold/G for/P Hell/R ./O
+Ile/R Deuill-Porter/P it/Q no/D further/G :/O I/Q had/V thought/V to/P haue/V let/V in/P some/D of/P all/D Professions/N ,/O that/O goe/V the/D Primrose/G way/N to/P th/R '/O euerlasting/N Bonfire/N ./O
+Knock/R ./O
+Anon/R ,/O anon/R ,/O I/Q pray/V you/Q remember/V the/D Porter/R ./O
+Enter/R Macduff/R ,/O and/C Lenox/R ./O
+Macd/R ./O
+Was/V it/Q so/A late/A ,/O friend/N ,/O ere/R you/Q went/V to/P Bed/R ,/O That/P you/Q doe/V lye/N so/A late/A ?/O
+Port/R ./O
+Faith/R Sir/R ,/O we/Q were/V carowsing/V till/P the/D second/G Cock/N :/O And/C Drinke/R ,/O Sir/R ,/O is/V a/D great/G prouoker/N of/P three/O things/N Macd/A ./O
+What/Q three/O things/N does/V Drinke/D especially/A prouoke/N ?/O
+Port/R ./O
+Marry/R ,/O Sir/R ,/O Nose-painting/R ,/O Sleepe/R ,/O and/C Vrine/R ./O
+Lecherie/R ,/O Sir/R ,/O it/Q prouokes/V ,/O and/C vnprouokes/N :/O it/Q prouokes/V the/D desire/N ,/O but/C it/Q takes/V away/A the/D performance/N ./O
+Therefore/A much/G Drinke/N may/O be/V said/V to/P be/V an/D Equiuocator/N with/P Lecherie/R :/O it/Q makes/V him/Q ,/O and/C it/Q marres/V him/Q ;/O it/Q sets/V him/Q on/P ,/O and/C it/Q takes/V him/Q off/O ;/O it/Q perswades/V him/Q ,/O and/C dis-heartens/N him/Q ;/O makes/V him/Q stand/V too/A ,/O and/C not/A stand/V too/A :/O in/P conclusion/N ,/O equiuocates/N him/Q in/P a/D sleepe/N ,/O and/C giuing/V him/Q the/D Lye/R ,/O leaues/V him/Q Macd/A ./O
+I/Q beleeue/V ,/O Drinke/G gaue/N thee/O the/D Lye/R last/G Night/R Port/R ./O
+That/D it/Q did/V ,/O Sir/R ,/O i'/V the/D very/A Throat/R on/P me/Q :/O but/C I/Q requited/V him/Q for/P his/Q Lye/N ,/O and/C (/O I/Q thinke/V )/O being/V too/A strong/G for/P him/Q ,/O though/P he/Q tooke/V vp/P my/Q Legges/N sometime/A ,/O yet/C I/Q made/V a/D Shift/G to/P cast/V him/Q ./O
+Enter/R Macbeth/R ./O
+Macd/R ./O
+Is/V thy/G Master/N stirring/N ?/O
+Our/Q knocking/V ha/N 's/O awak/N 'd/V him/Q :/O here/A he/Q comes/V Lenox/R ./O
+Good/G morrow/N ,/O Noble/R Sir/R Macb/R ./O
+Good/G morrow/N both/D Macd/R ./O
+Is/V the/D King/R stirring/N ,/O worthy/G Thane/N ?/O
+Macb/R ./O
+Not/A yet/A Macd/R ./O
+He/Q did/V command/V me/Q to/P call/V timely/G on/P him/Q ,/O I/Q haue/V almost/A slipt/V the/D houre/N Macb/R ./O
+Ile/N bring/V you/Q to/P him/Q Macd/R ./O
+I/Q know/V this/D is/V a/D ioyfull/G trouble/N to/P you/Q :/O But/C yet/A `/O tis/O one/O Macb/R ./O
+The/D labour/N we/Q delight/N in/P ,/O Physicks/R paine/R :/O This/D is/V the/D Doore/R Macd/R ./O
+Ile/R make/V so/A bold/G to/P call/V ,/O for/P `/O tis/O my/Q limitted/G seruice/N ./O
+Exit/N Macduffe/R ./O
+Lenox/R ./O
+Goes/N the/D King/R hence/A to/P day/N ?/O
+Macb/R ./O
+He/Q does/V :/O he/Q did/V appoint/V so/A Lenox/A ./O
+The/D Night/R ha/R 's/O been/V vnruly/A :/O Where/O we/Q lay/V ,/O our/Q Chimneys/N were/V blowne/V downe/P ,/O And/C (/O as/P they/Q say/V )/O lamentings/N heard/V i'/P th/R '/O Ayre/R ;/O Strange/R Schreemes/R of/P Death/R ,/O And/C Prophecying/G ,/O with/P Accents/N terrible/G ,/O Of/P dyre/G Combustion/R ,/O and/C confus/R 'd/R Euents/N ,/O New/R hatch/N 'd/R toth/V '/O wofull/G time/N ./O
+The/D obscure/G Bird/R clamor/N 'd/V the/D liue-long/G Night/R ./O
+Some/D say/V ,/O the/D Earth/R was/V Feuorous/G ,/O And/C did/V shake/N Macb/N ./O
+'Twas/P a/D rough/G Night/R Lenox/R ./O
+My/Q young/G remembrance/N can/O not/A paralell/V A/D fellow/N to/P it/Q ./O
+Enter/R Macduff/R ./O
+Macd/R ./O
+O/R horror/N ,/O horror/N ,/O horror/N ,/O Tongue/R nor/C Heart/R can/O not/A conceiue/V ,/O nor/C name/N thee/N Macb/R ./O
+and/C Lenox/R ./O
+What/Q 's/V the/D matter/N ?/O
+Macd/R ./O
+Confusion/R now/A hath/N made/V his/Q Master-peece/R :/O Most/G sacrilegious/G Murther/G hath/N broke/V ope/N The/D Lords/R anoynted/V Temple/R ,/O and/C stole/V thence/D The/D Life/R o'/P th/R '/O Building/R Macb/R ./O
+What/Q is/V '/O t/N you/Q say/V ,/O the/D Life/R ?/O
+Lenox/R ./O
+Meane/N you/Q his/Q Maiestie/R ?/O
+Macd/R ./O
+Approch/R the/D Chamber/R ,/O and/C destroy/V your/Q sight/N With/P a/D new/G Gorgon/N ./O
+Doe/R not/A bid/V me/Q speake/V :/O See/V ,/O and/C then/A speake/V your/Q selues/N :/O awake/G ,/O awake/A ,/O Exeunt/R ./O
+Macbeth/R and/C Lenox/R ./O
+Ring/V the/D Alarum/R Bell/R :/O Murther/R ,/O and/C Treason/R ,/O Banquo/R ,/O and/C Donalbaine/R :/O Malcolme/R awake/A ,/O Shake/R off/P this/D Downey/R sleepe/V ,/O Deaths/R counterfeit/N ,/O And/C looke/V on/P Death/N it/Q selfe/V :/O vp/N ,/O vp/N ,/O and/C see/V The/D great/G Doomes/N Image/N :/O Malcolme/R ,/O Banquo/R ,/O As/P from/P your/Q Graues/N rise/V vp/A ,/O and/C walke/N like/P Sprights/R ,/O To/P countenance/V this/D horror/N ./O
+Ring/V the/D Bell/R ./O
+Bell/R rings/N ./O
+Enter/R Lady/R ./O
+Lady/R ./O
+What/Q 's/V the/D Businesse/R ?/O
+That/D such/G a/D hideous/G Trumpet/R calls/V to/P parley/R The/D sleepers/N of/P the/D House/R ?/O
+speake/N ,/O speake/N Macd/R ./O
+O/R gentle/G Lady/R ,/O `/O Tis/R not/A for/P you/Q to/P heare/V what/Q I/Q can/O speake/V :/O The/D repetition/N in/P a/D Womans/R eare/N ,/O Would/O murther/A as/P it/Q fell/V ./O
+Enter/R Banquo/R ./O
+O/R Banquo/R ,/O Banquo/R ,/O Our/Q Royall/R Master/R 's/O murther/G 'd/R Lady/R ./O
+Woe/R ,/O alas/R :/O What/Q ,/O in/P our/Q House/R ?/O
+Ban/R ./O
+Too/A cruell/V ,/O any/D where/O ./O
+Deare/R Duff/R ,/O I/Q prythee/V contradict/N thy/G selfe/N ,/O And/C say/V ,/O it/Q is/V not/A so./R ./O
+Enter/R Macbeth/R ,/O Lenox/R ,/O and/C Rosse/R ./O
+Macb/R ./O
+Had/V I/Q but/C dy/O 'd/V an/D houre/N before/P this/D chance/N ,/O I/Q had/V liu/R 'd/R a/D blessed/V time/N :/O for/P from/P this/D instant/N ,/O There/O 's/V nothing/N serious/G in/P Mortalitie/R :/O All/D is/V but/C Toyes/R :/O Renowne/R and/C Grace/R is/V dead/G ,/O The/D Wine/N of/P Life/R is/V drawne/G ,/O and/C the/D meere/N Lees/N Is/V left/V this/D Vault/N ,/O to/P brag/V of/P ./O
+Enter/R Malcolme/R and/C Donalbaine/R ./O
+Donal/R ./O
+What/Q is/V amisse/N ?/O
+Macb/R ./O
+You/Q are/V ,/O and/C doe/N not/A know/V `/O t/N :/O The/D Spring/N ,/O the/D Head/R ,/O the/D Fountaine/R of/P your/Q Blood/N Is/V stopt/N ,/O the/D very/G Source/N of/P it/Q is/V stopt/G Macd/R ./O
+Your/Q Royall/R Father/R 's/O murther/G 'd/R Mal/R ./O
+Oh/O ,/O by/P whom/Q ?/O
+Lenox/R ./O
+Those/D of/P his/Q Chamber/R ,/O as/P it/Q seem/V 'd/R ,/O had/V do/N n't/A :/O Their/Q Hands/N and/C Faces/N were/V all/D badg/G 'd/R with/P blood/N ,/O So/A were/V their/Q Daggers/N ,/O which/O vnwip/R 'd/R ,/O we/Q found/V Vpon/P their/Q Pillowes/N :/O they/Q star/V 'd/R ,/O and/C were/V distracted/V ,/O No/D mans/N Life/N was/V to/P be/V trusted/V with/P them/Q Macb/A ./O
+O/R ,/O yet/C I/Q doe/V repent/P me/Q of/P my/Q furie/N ,/O That/P I/Q did/V kill/V them/Q Macd/A ./O
+Wherefore/O did/V you/Q so/A ?/O
+Macb/R ./O
+Who/Q can/O be/V wise/G ,/O amaz/R 'd/R ,/O temp/V `/O rate/N ,/O &/C furious/G ,/O Loyall/R ,/O and/C Neutrall/R ,/O in/P a/D moment/N ?/O
+No/D man/N :/O Th/R '/O expedition/N of/P my/Q violent/G Loue/N Out-run/P the/D pawser/N ,/O Reason/R ./O
+Here/A lay/V Duncan/R ,/O His/Q Siluer/N skinne/N ,/O lac/R 'd/R with/P His/Q Golden/G Blood/N ,/O And/C his/Q gash/N 'd/R Stabs/R ,/O look/V 'd/O like/V a/D Breach/R in/P Nature/R ,/O For/P Ruines/N wastfull/G entrance/N :/O there/O the/D Murtherers/N ,/O Steep/R 'd/R in/P the/D Colours/N of/P their/Q Trade/R ;/O their/Q Daggers/N Vnmannerly/A breech/V 'd/R with/P gore/N :/O who/Q could/O refraine/V ,/O That/O had/V a/D heart/N to/P loue/N ;/O and/C in/P that/D heart/N ,/O Courage/R ,/O to/P make/V 's/O loue/G knowne/N ?/O
+Lady/R ./O
+Helpe/R me/Q hence/A ,/O hoa/R Macd/R ./O
+Looke/R to/P the/D Lady/R Mal/R ./O
+Why/O doe/N we/Q hold/V our/Q tongues/N ,/O That/D most/A may/O clayme/V this/D argument/N for/P ours/Q ?/O
+Donal/R ./O
+What/Q should/O be/V spoken/V here/A ,/O Where/O our/Q Fate/N hid/V in/P an/D augure/N hole/N ,/O May/R rush/N ,/O and/C seize/V vs/N ?/O
+Let/V 's/Q away/A ,/O Our/Q Teares/N are/V not/A yet/A brew/V 'd/R Mal/R ./O
+Nor/C our/Q strong/G Sorrow/N Vpon/P the/D foot/N of/P Motion/R Banq/R ./O
+Looke/R to/P the/D Lady/R :/O And/C when/O we/Q haue/V our/Q naked/G Frailties/N hid/V ,/O That/D suffer/V in/P exposure/N ;/O let/V vs/N meet/V ,/O And/C question/N this/D most/A bloody/G piece/N of/P worke/N ,/O To/P know/V it/Q further/A ./O
+Feares/N and/C scruples/N shake/N vs/N :/O In/P the/D great/G Hand/R of/P God/R I/Q stand/V ,/O and/C thence/N ,/O Against/P the/D vndivulg/R 'd/R pretence/N ,/O I/Q fight/V Of/P Treasonous/R Mallice/R Macd/R ./O
+And/C so/A doe/V I/Q All/D ./O
+So/A all/D Macb/R ./O
+Let/V 's/Q briefely/A put/V on/P manly/G readinesse/N ,/O And/C meet/V i'/G th/N '/O Hall/R together/A All/D ./O
+Well/A contented/V ./O
+Exeunt/R ./O
+Malc/R ./O
+What/Q will/O you/Q doe/V ?/O
+Let/V 's/O not/A consort/N with/P them/Q :/O To/P shew/V an/D vnfelt/G Sorrow/N ,/O is/V an/D Office/R Which/O the/D false/G man/N do/V 's/V easie/R ./O
+Ile/R to/P England/R Don/R ./O
+To/P Ireland/R ,/O I/Q :/O Our/Q seperated/G fortune/N shall/O keepe/V vs/N both/D the/D safer/G :/O Where/O we/Q are/V ,/O there/O 's/V Daggers/N in/P mens/N smiles/V ;/O The/D neere/N in/P blood/N ,/O the/D neerer/N bloody/G Malc/R ./O
+This/D murtherous/G Shaft/R that/O 's/V shot/N ,/O Hath/R not/A yet/A lighted/V :/O and/C our/Q safest/G way/N ,/O Is/V to/P auoid/V the/D ayme/N ./O
+Therefore/A to/P Horse/R ,/O And/C let/V vs/N not/A be/V daintie/G of/P leaue-taking/N ,/O But/C shift/V away/A :/O there/O 's/V warrant/N in/P that/D Theft/R ,/O Which/O steales/V it/Q selfe/V ,/O when/O there/O 's/V no/D mercie/N left/V ./O
+Exeunt/R ./O
+Scena/N Quarta/N ./O
+Enter/R Rosse/R ,/O with/P an/D Old/R man/N ./O
+Old/R man/N ./O
+Threescore/R and/C ten/O I/Q can/O remember/V well/A ,/O Within/P the/D Volume/N of/P which/O Time/R ,/O I/Q haue/V seene/N Houres/N dreadfull/G ,/O and/C things/N strange/G :/O but/C this/D sore/G Night/R Hath/R trifled/V former/G knowings/N Rosse/R ./O
+Ha/R ,/O good/G Father/R ,/O Thou/R seest/V the/D Heauens/R ,/O as/P troubled/V with/P mans/R Act/R ,/O Threatens/V his/Q bloody/G Stage/N :/O byth/N '/O Clock/N `/O tis/O Day/R ,/O And/C yet/A darke/G Night/R strangles/V the/D trauailing/N Lampe/N :/O Is/V '/O t/N Nights/N predominance/N ,/O or/C the/D Dayes/N shame/N ,/O That/D Darknesse/N does/V the/D face/N of/P Earth/R intombe/R ,/O When/O liuing/V Light/N should/O kisse/V it/Q ?/O
+Old/R man/N ./O
+`/O Tis/R vnnaturall/N ,/O Euen/R like/P the/D deed/N that/O 's/V done/V :/O On/P Tuesday/R last/G ,/O A/D Faulcon/R towring/N in/P her/Q pride/N of/P place/N ,/O Was/V by/P a/D Mowsing/G Owle/G hawkt/N at/P ,/O and/C kill/V 'd/R Rosse/R ./O
+And/C Duncans/R Horses/R ,/O (/O A/D thing/N most/A strange/G ,/O and/C certaine/R )/O Beauteous/R ,/O and/C swift/N ,/O the/D Minions/N of/P their/Q Race/N ,/O Turn/R 'd/R wilde/V in/P nature/N ,/O broke/V their/Q stalls/N ,/O flong/V out/O ,/O Contending/V `/O gainst/N Obedience/N ,/O as/P they/Q would/O Make/V Warre/G with/P Mankinde/R Old/R man/N ./O
+`/O Tis/R said/V ,/O they/Q eate/V each/D other/G Rosse/R ./O
+They/Q did/V so/A :/O To/P th/R '/O amazement/N of/P mine/G eyes/N that/O look/V 'd/O vpo/A n't/A ./O
+Enter/R Macduffe/R ./O
+Heere/R comes/V the/D good/G Macduffe/N ./O
+How/O goes/V the/D world/N Sir/R ,/O now/A ?/O
+Macd/R ./O
+Why/O see/V you/Q not/A ?/O
+Ross/R ./O
+Is/V '/O t/N known/V who/Q did/V this/D more/A then/A bloody/G deed/N ?/O
+Macd/R ./O
+Those/D that/D Macbeth/R hath/N slaine/N Ross/R ./O
+Alas/P the/D day/N ,/O What/Q good/N could/O they/Q pretend/V ?/O
+Macd/R ./O
+They/Q were/V subborned/V ,/O Malcolme/R ,/O and/C Donalbaine/R the/D Kings/R two/O Sonnes/N Are/V stolne/V away/A and/C fled/V ,/O which/O puts/V vpon/N them/Q Suspition/N of/P the/D deed/G Rosse/R ./O
+`/O Gainst/R Nature/R still/A ,/O Thriftlesse/R Ambition/R ,/O that/O will/O rauen/V vp/G Thine/R owne/N liues/V meanes/N :/O Then/A `/O tis/O most/A like/V ,/O The/D Soueraignty/N will/O fall/V vpon/P Macbeth/R Macd/R ./O
+He/Q is/V already/A nam/V 'd/R ,/O and/C gone/V to/P Scone/R To/P be/V inuested/V Rosse/R ./O
+Where/O is/V Duncans/R body/N ?/O
+Macd/R ./O
+Carried/V to/P Colmekill/R ,/O The/D Sacred/R Store-house/R of/P his/Q Predecessors/N ,/O And/C Guardian/R of/P their/Q Bones/N Rosse/N ./O
+Will/O you/Q to/P Scone/V ?/O
+Macd/R ./O
+No/D Cosin/N ,/O Ile/R to/P Fife/R Rosse/R ./O
+Well/A ,/O I/Q will/O thither/V Macd/R ./O
+Well/A may/O you/Q see/V things/N wel/N done/V there/A :/O Adieu/N Least/R our/Q old/G Robes/N sit/V easier/G then/A our/Q new/G Rosse/R ./O
+Farewell/R ,/O Father/R Old/R M./R Gods/R benyson/N go/V with/P you/Q ,/O and/C with/P those/D That/D would/O make/V good/G of/P bad/G ,/O and/C Friends/N of/P Foes/N ./O
+Exeunt/R ./O
+omnes/N Actus/R Tertius/R ./O
+Scena/N Prima/R ./O
+Enter/R Banquo/R ./O
+Banq/R ./O
+Thou/Q hast/V it/Q now/A ,/O King/R ,/O Cawdor/R ,/O Glamis/R ,/O all/D ,/O As/P the/D weyard/R Women/R promis/R 'd/R ,/O and/C I/Q feare/V Thou/P playd/N `/O st/N most/G fowly/A for/P `/O t/N :/O yet/A it/Q was/V saide/A It/Q should/O not/A stand/V in/P thy/G Posterity/R ,/O But/C that/P my/Q selfe/N should/O be/V the/D Roote/N ,/O and/C Father/R Of/P many/G Kings/N ./O
+If/P there/O come/V truth/N from/P them/Q ,/O As/P vpon/P thee/D Macbeth/R ,/O their/Q Speeches/N shine/V ,/O Why/O by/P the/D verities/N on/P thee/D made/V good/G ,/O May/O they/Q not/A be/V my/Q Oracles/N as/A well/A ,/O And/C set/V me/Q vp/V in/P hope/N ./O
+But/C hush/N ,/O no/D more/G ./O
+Senit/R sounded/V ./O
+Enter/R Macbeth/R as/P King/R ,/O Lady/R Lenox/R ,/O Rosse/R ,/O Lords/R ,/O and/C Attendants/N ./O
+Macb/R ./O
+Heere/D 's/V our/Q chiefe/N Guest/N La./R ./O
+If/P he/Q had/V beene/V forgotten/V ,/O It/Q had/V bene/N as/P a/D gap/N in/P our/Q great/G Feast/N ,/O And/C all-thing/G vnbecomming/N Macb/R ./O
+To/P night/A we/Q hold/V a/D solemne/G Supper/N sir/N ,/O And/C Ile/R request/N your/Q presence/N Banq/R ./O
+Let/V your/Q Highnesse/R Command/R vpon/P me/Q ,/O to/P the/D which/O my/Q duties/N Are/V with/P a/D most/A indissoluble/G tye/N For/P euer/N knit/V Macb/R ./O
+Ride/R you/Q this/D afternoone/N ?/O
+Ban/R ./O
+I/Q ,/O my/Q good/G Lord/R Macb/R ./O
+We/Q should/O haue/V else/A desir/P 'd/R your/V good/G aduice/N (/O Which/O still/A hath/V been/V both/D graue/N ,/O and/C prosperous/G )/O In/P this/D dayes/N Councell/N :/O but/C wee/V `/O le/V take/V to/P morrow/N ./O
+Is/V '/O t/N farre/N you/Q ride/V ?/O
+Ban/R ./O
+As/P farre/N ,/O my/Q Lord/R ,/O as/A will/O fill/V vp/V the/D time/N `/O Twixt/A this/D ,/O and/C Supper/R ./O
+Goe/R not/A my/Q Horse/N the/D better/G ,/O I/Q must/O become/V a/D borrower/N of/P the/D Night/R ,/O For/P a/D darke/G houre/N ,/O or/C twaine/R Macb/R ./O
+Faile/N not/A our/Q Feast/N Ban/R ./O
+My/Q Lord/R ,/O I/Q will/O not/A Macb/R ./O
+We/Q heare/V our/Q bloody/G Cozens/N are/V bestow/A 'd/O In/P England/R ,/O and/C in/P Ireland/R ,/O not/A confessing/V Their/Q cruell/N Parricide/N ,/O filling/V their/Q hearers/N With/P strange/G inuention/N ./O
+But/C of/P that/D to/P morrow/N ,/O When/O therewithall/A ,/O we/Q shall/O haue/V cause/N of/P State/R ,/O Crauing/R vs/R ioyntly/A ./O
+Hye/R you/Q to/P Horse/R :/O Adieu/R ,/O till/P you/Q returne/V at/P Night/R ./O
+Goes/N Fleance/N with/P you/Q ?/O
+Ban/R ./O
+I/Q ,/O my/Q good/G Lord/N :/O our/Q time/N does/V call/V vpon/N 's/O Macb/R ./O
+I/Q wish/V your/Q Horses/N swift/G ,/O and/C sure/G of/P foot/N :/O And/C so/A I/Q doe/V commend/V you/Q to/P their/Q backs/N ./O
+Farwell/R ./O
+Exit/N Banquo/R ./O
+Let/V euery/R man/V be/V master/N of/P his/Q time/N ,/O Till/R seuen/R at/P Night/R ,/O to/P make/V societie/G The/D sweeter/N welcome/N :/O We/Q will/O keepe/V our/Q selfe/N till/P Supper/N time/N alone/A :/O While/P then/A ,/O God/R be/V with/P you/Q ./O
+Exeunt/R ./O
+Lords/N ./O
+Sirrha/R ,/O a/D word/N with/P you/Q :/O Attend/V those/D men/N Our/Q pleasure/N ?/O
+Seruant/G ./O
+They/Q are/V ,/O my/Q Lord/R ,/O without/P the/D Pallace/R Gate/R Macb/R ./O
+Bring/V them/Q before/P vs./N Exit/N Seruant/N ./O
+To/P be/V thus/A ,/O is/V nothing/N ,/O but/C to/P be/V safely/A thus/A Our/Q feares/N in/P Banquo/R sticke/R deepe/R ,/O And/C in/P his/Q Royaltie/R of/P Nature/R reignes/N that/P Which/O would/O be/V fear/N 'd/R ./O
+`/O Tis/R much/A he/Q dares/V ,/O And/C to/P that/D dauntlesse/G temper/N of/P his/Q Minde/R ,/O He/Q hath/V a/D Wisdome/R ,/O that/P doth/D guide/N his/Q Valour/G ,/O To/P act/V in/P safetie/N ./O
+There/O is/V none/N but/C he/Q ,/O Whose/P being/V I/Q doe/V feare/N :/O and/C vnder/P him/Q ,/O My/Q Genius/N is/V rebuk/R 'd/R ,/O as/P it/Q is/V said/V Mark/R Anthonies/N was/V by/P Caesar/R ./O
+He/Q chid/V the/D Sisters/N ,/O When/O first/A they/Q put/V the/D Name/N of/P King/R vpon/P me/Q ,/O And/C bad/G them/Q speake/V to/P him/Q ./O
+Then/A Prophet-like/G ,/O They/Q hayl/V 'd/R him/Q Father/R to/P a/D Line/R of/P Kings/R ./O
+Vpon/P my/Q Head/N they/Q plac/R 'd/V a/D fruitlesse/N Crowne/R ,/O And/C put/V a/D barren/G Scepter/N in/P my/Q Gripe/N ,/O Thence/R to/P be/V wrencht/V with/P an/D vnlineall/G Hand/R ,/O No/D Sonne/R of/P mine/N succeeding/V :/O if/P '/O t/N be/V so/A ,/O For/P Banquo/R 's/O Issue/N haue/N I/Q fil/V 'd/R my/Q Minde/R ,/O For/P them/Q ,/O the/D gracious/G Duncan/R haue/N I/Q murther/V 'd/R ,/O Put/V Rancours/N in/P the/D Vessell/N of/P my/Q Peace/N Onely/A for/P them/Q ,/O and/C mine/Q eternall/V Iewell/R Giuen/R to/P the/D common/G Enemie/R of/P Man/R ,/O To/P make/V them/Q Kings/N ,/O the/D Seedes/R of/P Banquo/R Kings/R ./O
+Rather/A then/A so/A ,/O come/V Fate/N into/P the/D Lyst/N ,/O And/C champion/N me/Q to/P th/R '/O vtterance/N ./O
+Who/Q 's/V there/O ?/O
+Enter/R Seruant/R ,/O and/C two/O Murtherers/N ./O
+Now/A goe/N to/P the/D Doore/R ,/O and/C stay/V there/A till/P we/Q call/V ./O
+Exit/N Seruant/N ./O
+Was/V it/Q not/A yesterday/N we/Q spoke/V together/A ?/O
+Murth/R ./O
+It/Q was/V ,/O so/A please/V your/Q Highnesse/R Macb/R ./O
+Well/A then/A ,/O Now/A haue/V you/Q consider/V 'd/R of/P my/Q speeches/N :/O Know/R ,/O that/P it/Q was/V he/Q ,/O in/P the/D times/N past/N ,/O Which/O held/V you/Q so/A vnder/P fortune/N ,/O Which/O you/Q thought/V had/V been/V our/Q innocent/G selfe/N ./O
+This/D I/Q made/V good/G to/P you/Q ,/O in/P our/Q last/G conference/N ,/O Past/R in/P probation/N with/P you/Q :/O How/O you/Q were/V borne/V in/P hand/N ,/O how/O crost/N :/O The/D Instruments/R :/O who/Q wrought/V with/P them/Q :/O And/C all/D things/N else/A ,/O that/O might/O To/P halfe/V a/D Soule/N ,/O and/C to/P a/D Notion/N craz/N 'd/R ,/O Say/V ,/O Thus/A did/V Banquo/R 1/O ./O
+Murth/R ./O
+You/Q made/V it/Q knowne/V to/P vs/R Macb/R ./O
+I/Q did/V so/A :/O And/C went/V further/A ,/O which/O is/V now/A Our/Q point/N of/P second/G meeting/N ./O
+Doe/R you/Q finde/V your/Q patience/N so/A predominant/G ,/O In/P your/Q nature/N ,/O that/P you/Q can/O let/V this/D goe/N ?/O
+Are/V you/Q so/A Gospell/R 'd/R ,/O to/P pray/V for/P this/D good/G man/N ,/O And/C for/P his/Q Issue/N ,/O whose/Q heauie/G hand/N Hath/R bow/V 'd/R you/V to/P the/D Graue/R ,/O and/C begger/R 'd/R Yours/R for/P euer/N ?/O
+1/O ./O
+Murth/R ./O
+We/Q are/V men/N ,/O my/Q Liege/N Macb/N ./O
+I/Q ,/O in/P the/D Catalogue/N ye/Q goe/V for/P men/N ,/O As/P Hounds/N ,/O and/C Greyhounds/R ,/O Mungrels/R ,/O Spaniels/R ,/O Curres/R ,/O Showghes/R ,/O Water-Rugs/R ,/O and/C Demy-Wolues/N are/V clipt/V All/D by/P the/D Name/N of/P Dogges/N :/O the/D valued/V file/N Distinguishes/N the/D swift/N ,/O the/D slow/G ,/O the/D subtle/G ,/O The/D House-keeper/R ,/O the/D Hunter/R ,/O euery/N one/O According/V to/P the/D gift/N ,/O which/O bounteous/V Nature/R Hath/R in/P him/Q clos/G 'd/R :/O whereby/O he/Q does/V receiue/G Particular/R addition/N ,/O from/P the/D Bill/R ,/O That/D writes/V them/Q all/D alike/A :/O and/C so/P of/P men/N ./O
+Now/A ,/O if/P you/Q haue/V a/D station/N in/P the/D file/N ,/O Not/A i'/P th/R '/O worst/G ranke/N of/P Manhood/R ,/O say/V `/O t/N ,/O And/C I/Q will/O put/V that/D Businesse/R in/P your/Q Bosomes/N ,/O Whose/G execution/N takes/V your/Q Enemie/R off/O ,/O Grapples/R you/Q to/P the/D heart/N ;/O and/C loue/N of/P vs/N ,/O Who/Q weare/V our/Q Health/R but/C sickly/A in/P his/Q Life/R ,/O Which/O in/P his/Q Death/N were/V perfect/G 2/O ./O
+Murth/R ./O
+I/Q am/V one/O ,/O my/Q Liege/N ,/O Whom/P the/D vile/N Blowes/N and/C Buffets/N of/P the/D World/R Hath/R so/A incens/V 'd/R ,/O that/P I/Q am/V recklesse/G what/Q I/Q doe/V ,/O To/P spight/V the/D World/R 1/O ./O
+Murth/R ./O
+And/C I/Q another/D ,/O So/A wearie/G with/P Disasters/N ,/O tugg/R 'd/R with/P Fortune/R ,/O That/P I/Q would/O set/V my/Q Life/N on/P any/D Chance/R ,/O To/P mend/V it/Q ,/O or/C be/V rid/G o/P n't/A Macb/R ./O
+Both/D of/P you/Q know/V Banquo/R was/V your/Q Enemie/R Murth/R ./O
+True/O ,/O my/Q Lord/R Macb/R ./O
+So/A is/V he/Q mine/N :/O and/C in/P such/G bloody/G distance/N ,/O That/D euery/N minute/N of/P his/Q being/V ,/O thrusts/N Against/P my/Q neer/N `/O st/N of/P Life/R :/O and/C though/P I/Q could/O With/P bare-fac/G 'd/R power/N sweepe/N him/Q from/P my/Q sight/N ,/O And/C bid/V my/Q will/O auouch/V it/Q ;/O yet/A I/Q must/O not/A ,/O For/P certaine/G friends/N that/O are/V both/D his/Q ,/O and/C mine/N ,/O Whose/D loues/N I/Q may/O not/A drop/V ,/O but/C wayle/P his/Q fall/N ,/O Who/Q I/Q my/Q selfe/V struck/V downe/N :/O and/C thence/V it/Q is/V ,/O That/P I/Q to/P your/Q assistance/N doe/N make/V loue/G ,/O Masking/V the/D Businesse/R from/P the/D common/G Eye/R ,/O For/P sundry/G weightie/N Reasons/N 2/O ./O
+Murth/R ./O
+We/Q shall/O ,/O my/Q Lord/R ,/O Performe/P what/Q you/Q command/N vs/N 1/O ./O
+Murth/R ./O
+Though/P our/Q Liues/N -/O Macb/N ./O
+Your/Q Spirits/N shine/V through/P you/Q ./O
+Within/P this/D houre/N ,/O at/P most/G ,/O I/Q will/O aduise/V you/Q where/O to/P plant/V your/Q selues/N ,/O Acquaint/R you/Q with/P the/D perfect/G Spy/G o'/G th/N '/O time/N ,/O The/D moment/N o/P n't/A ,/O for/P '/O t/N must/O be/V done/V to/P Night/R ,/O And/C something/N from/P the/D Pallace/R :/O alwayes/R thought/V ,/O That/P I/Q require/V a/D clearenesse/N ;/O and/C with/P him/Q ,/O To/P leaue/V no/D Rubs/N nor/C Botches/N in/P the/D Worke/R :/O Fleans/R ,/O his/Q Sonne/R ,/O that/O keepes/V him/Q companie/V ,/O Whose/D absence/N is/V no/D lesse/N materiall/N to/P me/Q ,/O Then/A is/V his/Q Fathers/N ,/O must/O embrace/V the/D fate/N Of/P that/D darke/G houre/N :/O resolue/N your/Q selues/N apart/A ,/O Ile/R come/V to/P you/Q anon/P Murth/R ./O
+We/Q are/V resolu/R 'd/R ,/O my/Q Lord/R Macb/R ./O
+Ile/G call/N vpon/P you/Q straight/A :/O abide/V within/P ,/O It/Q is/V concluded/V :/O Banquo/R ,/O thy/G Soules/R flight/N ,/O If/P it/Q finde/V Heauen/R ,/O must/O finde/V it/Q out/O to/P Night/R ./O
+Exeunt/R ./O
+Scena/N Secunda/R ./O
+Enter/R Macbeths/N Lady/R ,/O and/C a/D Seruant/G ./O
+Lady/R ./O
+Is/V Banquo/R gone/V from/P Court/R ?/O
+Seruant/G ./O
+I/Q ,/O Madame/R ,/O but/C returnes/N againe/V to/P Night/R Lady/R ./O
+Say/V to/P the/D King/R ,/O I/Q would/O attend/V his/Q leysure/N ,/O For/P a/D few/G words/N Seruant/G ./O
+Madame/R ,/O I/Q will/O ./O
+Enter/R ./O
+Lady/R ./O
+Nought/R 's/O had/V ,/O all/D 's/V spent/V ./O
+Where/O our/Q desire/N is/V got/V without/P content/N :/O `/O Tis/R safer/G ,/O to/P be/V that/P which/O we/Q destroy/V ,/O Then/A by/P destruction/N dwell/V in/P doubtfull/G ioy/N ./O
+Enter/R Macbeth/R ./O
+How/O now/A ,/O my/Q Lord/R ,/O why/O doe/N you/Q keepe/V alone/A ?/O
+Of/P sorryest/G Fancies/N your/Q Companions/N making/V ,/O Vsing/V those/D Thoughts/N ,/O which/O should/O indeed/A haue/V dy/O 'd/O With/P them/Q they/Q thinke/V on/P :/O things/N without/P all/D remedie/N Should/O be/V without/P regard/N :/O what/Q 's/V done/V ,/O is/V done/V Macb/R ./O
+We/Q haue/V scorch/N 'd/V the/D Snake/N ,/O not/A kill/V 'd/R it/Q :/O Shee/R `/O le/G close/N ,/O and/C be/V her/Q selfe/N ,/O whilest/P our/Q poore/G Mallice/N Remaines/N in/P danger/N of/P her/Q former/G Tooth/N ./O
+But/C let/V the/D frame/N of/P things/N dis-ioynt/G ,/O Both/D the/D Worlds/R suffer/V ,/O Ere/P we/Q will/O eate/V our/Q Meale/N in/P feare/N ,/O and/C sleepe/V In/P the/D affliction/N of/P these/D terrible/G Dreames/N ,/O That/D shake/N vs/N Nightly/A :/O Better/A be/V with/P the/D dead/G ,/O Whom/P we/Q ,/O to/P gayne/V our/Q peace/N ,/O haue/N sent/V to/P peace/N ,/O Then/A on/P the/D torture/N of/P the/D Minde/R to/P lye/V In/P restlesse/N extasie/N ./O
+Duncane/R is/V in/P his/Q Graue/N :/O After/P Lifes/R fitfull/G Feuer/N ,/O he/Q sleepes/V well/A ,/O Treason/R ha/N 's/O done/V his/Q worst/G :/O nor/C Steele/R ,/O nor/C Poyson/R ,/O Mallice/R domestique/R ,/O forraine/R Leuie/R ,/O nothing/N ,/O Can/O touch/V him/Q further/G Lady/R ./O
+Come/V on/P :/O Gentle/G my/Q Lord/R ,/O sleeke/N o'/N re/V your/Q rugged/G Lookes/N ,/O Be/V bright/G and/C Iouiall/G among/P your/Q Guests/N to/P Night/R Macb/R ./O
+So/A shall/O I/Q Loue/R ,/O and/C so/A I/Q pray/V be/V you/Q :/O Let/V your/Q remembrance/V apply/V to/P Banquo/R ,/O Present/R him/Q Eminence/R ,/O both/D with/P Eye/R and/C Tongue/R :/O Vnsafe/G the/D while/N ,/O that/P wee/N must/O laue/V Our/Q Honors/N in/P these/D flattering/G streames/N ,/O And/C make/V our/Q Faces/N Vizards/N to/P our/Q Hearts/N ,/O Disguising/V what/Q they/Q are/V Lady/R ./O
+You/Q must/O leaue/V this/D Macb/N ./O
+O/R ,/O full/G of/P Scorpions/N is/V my/Q Minde/R ,/O deare/N Wife/N :/O Thou/Q know/V `/O st/N ,/O that/P Banquo/R and/C his/Q Fleans/N liues/V Lady/R ./O
+But/C in/P them/Q ,/O Natures/R Coppie/R 's/O not/A eterne/G Macb/R ./O
+There/O 's/V comfort/N yet/A ,/O they/Q are/V assaileable/G ,/O Then/A be/V thou/D iocund/N :/O ere/R the/D Bat/R hath/N flowne/N His/Q Cloyster/R 'd/R flight/N ,/O ere/R to/P black/G Heccats/N summons/N The/D shard-borne/G Beetle/R ,/O with/P his/Q drowsie/N hums/N ,/O Hath/R rung/R Nights/R yawning/N Peale/R ,/O There/O shall/O be/V done/V a/D deed/N of/P dreadfull/G note/N Lady/R ./O
+What/Q 's/V to/P be/V done/V ?/O
+Macb/R ./O
+Be/V innocent/G of/P the/D knowledge/N ,/O dearest/N Chuck/R ,/O Till/R thou/N applaud/V the/D deed/N :/O Come/V ,/O seeling/V Night/R ,/O Skarfe/R vp/V the/D tender/N Eye/N of/P pittifull/G Day/R ,/O And/C with/P thy/G bloodie/N and/C inuisible/G Hand/R Cancell/R and/C teare/V to/P pieces/N that/P great/G Bond/R ,/O Which/O keepes/V me/Q pale/V ./O
+Light/N thickens/N ,/O And/C the/D Crow/R makes/V Wing/R toth/R '/O Rookie/R Wood/R :/O Good/G things/N of/P Day/R begin/V to/P droope/V ,/O and/C drowse/N ,/O Whiles/R Nights/R black/G Agents/N to/P their/Q Prey/R 's/O doe/N rowse/N ./O
+Thou/Q maruell/V `/O st/N at/P my/Q words/N :/O but/C hold/V thee/N still/A ,/O Things/N bad/G begun/V ,/O make/V strong/G themselues/N by/P ill/G :/O So/A prythee/G goe/N with/P me/Q ./O
+Exeunt/R ./O
+Scena/N Tertia/R ./O
+Enter/R three/O Murtherers/N ./O
+1/O ./O
+But/C who/Q did/V bid/V thee/D ioyne/N with/P vs/N ?/O
+3/O ./O
+Macbeth/R 2/O ./O
+He/Q needes/V not/A our/Q mistrust/N ,/O since/P he/Q deliuers/V Our/Q Offices/N ,/O and/C what/Q we/Q haue/V to/P doe/V ,/O To/P the/D direction/N iust/P 1/O ./O
+Then/A stand/V with/P vs/N :/O The/D West/R yet/A glimmers/N with/P some/D streakes/N of/P Day/R ./O
+Now/A spurres/V the/D lated/G Traueller/R apace/N ,/O To/P gayne/V the/D timely/G Inne/R ,/O and/C neere/V approches/N The/D subiect/N of/P our/Q Watch/R 3/O ./O
+Hearke/R ,/O I/Q heare/V Horses/N Banquo/N within/P ./O
+Giue/R vs/V a/D Light/N there/A ,/O hoa/N 2/O ./O
+Then/A `/O tis/O hee/V :/O The/D rest/N ,/O that/O are/V within/P the/D note/N of/P expectation/N ,/O Alreadie/R are/V i'/G th/N '/O Court/R 1/O ./O
+His/Q Horses/N goe/V about/P 3/O ./O
+Almost/A a/D mile/N :/O but/C he/Q does/V vsually/A ,/O So/P all/D men/N doe/N ,/O from/P hence/A toth/O '/O Pallace/R Gate/R Make/V it/Q their/Q Walke/N ./O
+Enter/R Banquo/R and/C Fleans/R ,/O with/P a/D Torch/N ./O
+2/O ./O
+A/D Light/N ,/O a/D Light/N 3/O ./O
+`/O Tis/R hee/N 1/O ./O
+Stand/R too/A '/O t/G Ban/R ./O
+It/Q will/O be/V Rayne/R to/P Night/R 1/O ./O
+Let/V it/Q come/V downe/G Ban/R ./O
+O/R ,/O Trecherie/R !/O
+Flye/R good/G Fleans/N ,/O flye/R ,/O flye/R ,/O flye/R ,/O Thou/R may/O `/O st/V reuenge/N ./O
+O/R Slaue/R !/O
+3/O ./O
+Who/Q did/V strike/V out/O the/D Light/N ?/O
+1/O ./O
+Was/V '/O t/N not/A the/D way/N ?/O
+3/O ./O
+There/O 's/V but/C one/O downe/N :/O the/D Sonne/R is/V fled/V 2/O ./O
+We/Q haue/V lost/V Best/R halfe/N of/P our/Q Affaire/R 1/O ./O
+Well/O ,/O let/V 's/O away/A ,/O and/C say/V how/O much/G is/V done/V ./O
+Exeunt/R ./O
+Scaena/R Quarta/R ./O
+Banquet/R prepar/P 'd/R ./O
+Enter/R Macbeth/R ,/O Lady/R ,/O Rosse/R ,/O Lenox/R ,/O Lords/R ,/O and/C Attendants/N ./O
+Macb/R ./O
+You/Q know/V your/Q owne/N degrees/N ,/O sit/V downe/N :/O At/P first/G and/C last/G ,/O the/D hearty/N welcome/G Lords/N ./O
+Thankes/N to/P your/Q Maiesty/R Macb/R ./O
+Our/Q selfe/N will/O mingle/V with/P Society/R ,/O And/C play/V the/D humble/G Host/N :/O Our/Q Hostesse/R keepes/V her/Q State/N ,/O but/C in/P best/G time/N We/Q will/O require/V her/Q welcome/G La./R ./O
+Pronounce/N it/Q for/P me/Q Sir/R ,/O to/P all/D our/Q Friends/N ,/O For/P my/Q heart/N speakes/N ,/O they/Q are/V welcome/G ./O
+Enter/R first/A Murtherer/R ./O
+Macb/R ./O
+See/V they/Q encounter/V thee/N with/P their/Q harts/N thanks/N Both/D sides/N are/V euen/V :/O heere/P Ile/R sit/V i'/P th/N '/O mid/G `/O st/N ,/O Be/V large/G in/P mirth/N ,/O anon/R wee/R '/O l/N drinke/N a/D Measure/N The/D Table/N round/N ./O
+There/O 's/V blood/N vpon/N thy/G face/N Mur/R ./O
+`/O Tis/R Banquo/R 's/O then/A Macb/R ./O
+`/O Tis/R better/A thee/V without/P ,/O then/A he/Q within/P ./O
+Is/V he/Q dispatch/V 'd/R ?/O
+Mur/R ./O
+My/Q Lord/R his/Q throat/N is/V cut/V ,/O that/P I/Q did/V for/P him/Q Mac/R ./O
+Thou/P art/N the/D best/G o'/G th/N '/O Cut-throats/N ,/O Yet/C hee/V 's/O good/G that/P did/V the/D like/G for/P Fleans/N :/O If/P thou/Q did/V `/O st/N it/Q ,/O thou/P art/N the/D Non-pareill/R Mur/R ./O
+Most/G Royall/R Sir/R Fleans/R is/V scap/G 'd/R Macb/R ./O
+Then/A comes/V my/Q Fit/G againe/N :/O I/Q had/V else/A beene/V perfect/G ;/O Whole/G as/P the/D Marble/R ,/O founded/V as/P the/D Rocke/R ,/O As/P broad/G ,/O and/C generall/A ,/O as/P the/D casing/N Ayre/N :/O But/C now/A I/Q am/V cabin/N 'd/R ,/O crib/N 'd/R ,/O confin/R 'd/R ,/O bound/V in/P To/R sawcy/O doubts/N ,/O and/C feares/N ./O
+But/C Banquo/R 's/O safe/G ?/O
+Mur/R ./O
+I/Q ,/O my/Q good/G Lord/R :/O safe/N in/P a/D ditch/N he/Q bides/V ,/O With/P twenty/O trenched/V gashes/N on/P his/Q head/N ;/O The/D least/G a/D Death/N to/P Nature/R Macb/R ./O
+Thankes/N for/P that/D :/O There/O the/D growne/N Serpent/P lyes/N ,/O the/D worme/N that/O 's/V fled/V Hath/R Nature/R that/P in/P time/N will/O Venom/R breed/N ,/O No/D teeth/N for/P th/R '/O present/N ./O
+Get/V thee/D gone/V ,/O to/P morrow/R Wee/R '/O l/G heare/N our/Q selues/N againe/N ./O
+Exit/N Murderer/N ./O
+Lady/R ./O
+My/Q Royall/R Lord/R ,/O You/Q do/V not/A giue/V the/D Cheere/R ,/O the/D Feast/N is/V sold/V That/D is/V not/A often/A vouch/G 'd/R ,/O while/P `/O tis/O a/O making/V :/O `/O Tis/R giuen/N ,/O with/P welcome/G :/O to/P feede/V were/V best/A at/P home/N :/O From/P thence/N ,/O the/D sawce/N to/P meate/N is/V Ceremony/N ,/O Meeting/V were/V bare/G without/P it/Q ./O
+Enter/P the/D Ghost/N of/P Banquo/R ,/O and/C sits/V in/P Macbeths/N place/N ./O
+Macb/R ./O
+Sweet/R Remembrancer/R :/O Now/A good/G digestion/N waite/N on/P Appetite/R ,/O And/C health/N on/P both/D Lenox/R ./O
+May/R '/O t/N please/V your/Q Highnesse/R sit/V Macb/R ./O
+Here/A had/V we/Q now/A our/Q Countries/N Honor/C ,/O roof/N 'd/R ,/O Were/V the/D grac/R 'd/R person/N of/P our/Q Banquo/R present/N :/O Who/Q ,/O may/O I/Q rather/A challenge/V for/P vnkindnesse/R ,/O Then/A pitty/G for/P Mischance/R Rosse/R ./O
+His/Q absence/N (/O Sir/R )/O Layes/R blame/N vpon/P his/Q promise/N ./O
+Pleas/R '/O t/N your/Q Highnesse/R To/P grace/V vs/N with/P your/Q Royall/R Company/N ?/O
+Macb/R ./O
+The/D Table/N 's/O full/G Lenox/R ./O
+Heere/R is/V a/D place/N reseru/R 'd/R Sir/R Macb/R ./O
+Where/O ?/O
+Lenox/R ./O
+Heere/P my/Q good/G Lord/R ./O
+What/Q is/V '/O t/N that/O moues/V your/Q Highnesse/R ?/O
+Macb/R ./O
+Which/O of/P you/Q haue/V done/V this/D ?/O
+Lords/N ./O
+What/Q ,/O my/Q good/G Lord/R ?/O
+Macb/R ./O
+Thou/D canst/N not/A say/V I/Q did/V it/Q :/O neuer/N shake/N Thy/G goary/G lockes/N at/P me/Q Rosse/R ./O
+Gentlemen/R rise/N ,/O his/Q Highnesse/R is/V not/A well/A Lady/R ./O
+Sit/R worthy/G Friends/R :/O my/Q Lord/R is/V often/A thus/A ,/O And/C hath/N beene/N from/P his/Q youth/N ./O
+Pray/R you/Q keepe/V Seat/R ,/O The/D fit/N is/V momentary/G ,/O vpon/P a/D thought/N He/Q will/O againe/V be/V well/A ./O
+If/P much/G you/Q note/V him/Q You/Q shall/O offend/V him/Q ,/O and/C extend/V his/Q Passion/N ,/O Feed/R ,/O and/C regard/V him/Q not/A ./O
+Are/V you/Q a/D man/N ?/O
+Macb/R ./O
+I/Q ,/O and/C a/D bold/G one/O ,/O that/P dare/N looke/N on/P that/D Which/O might/O appall/V the/D Diuell/R La./R ./O
+O/R proper/G stuffe/N :/O This/D is/V the/D very/G painting/N of/P your/Q feare/N :/O This/D is/V the/D Ayre-drawne-Dagger/N which/O you/Q said/V Led/V you/Q to/P Duncan/R ./O
+O/R ,/O these/D flawes/N and/C starts/N (/O Impostors/N to/P true/G feare/N )/O would/O well/A become/V A/D womans/N story/N ,/O at/P a/D Winters/R fire/N Authoriz/R 'd/R by/P her/Q Grandam/R :/O shame/N it/Q selfe/V ,/O Why/O do/V you/Q make/V such/G faces/N ?/O
+When/O all/D 's/V done/V You/Q looke/V but/C on/P a/D stoole/N Macb/N ./O
+Prythee/R see/V there/O :/O Behold/N ,/O looke/N ,/O loe/N ,/O how/O say/V you/Q :/O Why/O what/Q care/N I/Q ,/O if/P thou/D canst/N nod/N ,/O speake/N too/A ./O
+If/P Charnell/R houses/N ,/O and/C our/Q Graues/N must/O send/V Those/D that/P we/Q bury/V ,/O backe/A ;/O our/Q Monuments/N Shall/O be/V the/D Mawes/N of/P Kytes/N La./R ./O
+What/Q ?/O
+quite/A vnmann/R 'd/R in/P folly/R Macb/R ./O
+If/P I/Q stand/V heere/A ,/O I/Q saw/V him/Q La./R ./O
+Fie/G for/P shame/N Macb/R ./O
+Blood/R hath/N bene/N shed/V ere/R now/A ,/O i'/G th/N '/O olden/G time/N Ere/G humane/N Statute/R purg/R 'd/V the/D gentle/G Weale/N :/O I/Q ,/O and/C since/P too/A ,/O Murthers/N haue/V bene/N perform/V 'd/R Too/A terrible/G for/P the/D eare/N ./O
+The/D times/N has/V bene/N ,/O That/D when/O the/D Braines/N were/V out/A ,/O the/D man/N would/O dye/V ,/O And/C there/O an/D end/N :/O But/C now/A they/Q rise/V againe/P With/P twenty/O mortall/G murthers/N on/P their/Q crownes/N ,/O And/C push/N vs/N from/P our/Q stooles/N ./O
+This/D is/V more/A strange/G Then/A such/G a/D murther/N is/V La./R ./O
+My/Q worthy/G Lord/R Your/Q Noble/N Friends/N do/V lacke/N you/Q Macb/R ./O
+I/Q do/V forget/V :/O Do/V not/A muse/V at/P me/Q my/Q most/A worthy/G Friends/R ,/O I/Q haue/V a/D strange/G infirmity/N ,/O which/O is/V nothing/N To/P those/D that/O know/V me/Q ./O
+Come/V ,/O loue/N and/C health/N to/P all/D ,/O Then/A Ile/R sit/V downe/N :/O Giue/V me/Q some/D Wine/N ,/O fill/N full/G :/O Enter/N Ghost/N ./O
+I/Q drinke/V to/P th/R '/O generall/G ioy/N o'/P th/N '/O whole/G Table/N ,/O And/C to/P our/Q deere/G Friend/R Banquo/R ,/O whom/Q we/Q misse/V :/O Would/O he/Q were/V heere/A :/O to/P all/D ,/O and/C him/Q we/Q thirst/A ,/O And/C all/D to/P all/D Lords/N ./O
+Our/Q duties/N ,/O and/C the/D pledge/N Mac/R ./O
+Auant/G ,/O &/C quit/V my/Q sight/N ,/O let/V the/D earth/N hide/V thee/N :/O Thy/G bones/N are/V marrowlesse/G ,/O thy/G blood/N is/V cold/G :/O Thou/D hast/V no/D speculation/N in/P those/D eyes/N Which/O thou/V dost/N glare/N with/P La./R ./O
+Thinke/R of/P this/D good/G Peeres/N But/C as/P a/D thing/N of/P Custome/N :/O `/O Tis/R no/D other/G ,/O Onely/A it/Q spoyles/V the/D pleasure/N of/P the/D time/N Macb/R ./O
+What/Q man/N dare/N ,/O I/Q dare/V :/O Approach/D thou/N like/P the/D rugged/G Russian/G Beare/R ,/O The/D arm/N 'd/R Rhinoceros/R ,/O or/C th/N '/O Hircan/R Tiger/R ,/O Take/V any/D shape/N but/C that/P ,/O and/C my/Q firme/N Nerues/N Shall/R neuer/N tremble/N ./O
+Or/C be/V aliue/G againe/P ,/O And/C dare/V me/Q to/P the/D Desart/N with/P thy/G Sword/N :/O If/P trembling/V I/Q inhabit/V then/A ,/O protest/N mee/N The/D Baby/R of/P a/D Girle/R ./O
+Hence/A horrible/G shadow/N ,/O Vnreall/D mock/G `/O ry/N hence/A ./O
+Why/O so/A ,/O being/V gone/V I/Q am/V a/D man/N againe/N :/O pray/N you/Q sit/V still/A La./R ./O
+You/Q haue/V displac/R 'd/R the/D mirth/N ,/O Broke/P the/D good/G meeting/N ,/O with/P most/G admir/V 'd/R disorder/N Macb/R ./O
+Can/O such/D things/N be/V ,/O And/C ouercome/N vs/N like/P a/D Summers/R Clowd/R ,/O Without/P our/Q speciall/G wonder/N ?/O
+You/Q make/V me/Q strange/G Euen/N to/P the/D disposition/N that/P I/Q owe/V ,/O When/O now/A I/Q thinke/V you/Q can/O behold/V such/G sights/N ,/O And/C keepe/V the/D naturall/G Rubie/R of/P your/Q Cheekes/R ,/O When/O mine/Q is/V blanch/G 'd/R with/P feare/N Rosse/R ./O
+What/Q sights/N ,/O my/Q Lord/R ?/O
+La./R ./O
+I/Q pray/V you/Q speake/V not/A :/O he/Q growes/V worse/G &/C worse/G Question/R enrages/V him/Q :/O at/P once/A ,/O goodnight/N ./O
+Stand/R not/A vpon/P the/D order/N of/P your/Q going/V ,/O But/C go/V at/P once/A Len/R ./O
+Good/G night/N ,/O and/C better/G health/N Attend/V his/Q Maiesty/R La./R ./O
+A/D kinde/N goodnight/N to/P all/D ./O
+Exit/N Lords/N ./O
+Macb/R ./O
+It/Q will/O haue/V blood/N they/Q say/V :/O Blood/R will/O haue/V Blood/R :/O Stones/R haue/R beene/R knowne/N to/P moue/V ,/O &/C Trees/R to/P speake/V :/O Augures/R ,/O and/C vnderstood/R Relations/R ,/O haue/R By/P Maggot/R Pyes/R ,/O &/C Choughes/R ,/O &/C Rookes/R brought/V forth/O The/D secret/G `/O st/G man/N of/P Blood/R ./O
+What/Q is/V the/D night/N ?/O
+La./R ./O
+Almost/A at/P oddes/N with/P morning/N ,/O which/O is/V which/O Macb/R ./O
+How/O say/V `/O st/G thou/N that/O Macduff/R denies/V his/Q person/N At/P our/Q great/G bidding/N La./R ./O
+Did/V you/Q send/V to/P him/Q Sir/R ?/O
+Macb/R ./O
+I/Q heare/V it/Q by/P the/D way/N :/O But/C I/Q will/O send/V :/O There/O 's/V not/A a/D one/N of/P them/Q but/C in/P his/Q house/N I/Q keepe/V a/D Seruant/G Feed/R ./O
+I/Q will/O to/P morrow/N (/O And/C betimes/N I/Q will/O )/O to/P the/D weyard/N Sisters/N ./O
+More/A shall/O they/Q speake/V :/O for/P now/A I/Q am/V bent/G to/P know/V By/P the/D worst/G meanes/N ,/O the/D worst/G ,/O for/P mine/N owne/P good/G ,/O All/D causes/N shall/O giue/V way/N ./O
+I/Q am/V in/P blood/N Stept/N in/P so/A farre/G ,/O that/P should/O I/Q wade/V no/D more/G ,/O Returning/R were/V as/A tedious/G as/P go/G ore/N :/O Strange/G things/N I/Q haue/V in/P head/N ,/O that/O will/O to/P hand/N ,/O Which/O must/O be/V acted/V ,/O ere/V they/Q may/O be/V scand/G La./R ./O
+You/Q lacke/V the/D season/N of/P all/D Natures/N ,/O sleepe/V Macb/R ./O
+Come/V ,/O wee/R '/O l/G to/P sleepe/V :/O My/Q strange/G &/C self-abuse/G Is/V the/D initiate/V feare/N ,/O that/O wants/V hard/G vse/N :/O We/Q are/V yet/A but/C yong/A indeed/A ./O
+Exeunt/R ./O
+Scena/N Quinta/R ./O
+Thunder/N ./O
+Enter/P the/D three/O Witches/N ,/O meeting/N Hecat/N ./O
+1/O ./O
+Why/O how/O now/A Hecat/Q ,/O you/Q looke/V angerly/A ?/O
+Hec/R ./O
+Haue/N I/Q not/A reason/N (/O Beldams/R )/O as/P you/Q are/V ?/O
+Sawcy/R ,/O and/C ouer-bold/G ,/O how/O did/V you/Q dare/N To/P Trade/R ,/O and/C Trafficke/R with/P Macbeth/R ,/O In/P Riddles/R ,/O and/C Affaires/R of/P death/N ;/O And/C I/Q the/D Mistris/R of/P your/Q Charmes/R ,/O The/D close/G contriuer/N of/P all/D harmes/N ,/O Was/V neuer/N call/N 'd/V to/P beare/V my/Q part/N ,/O Or/C shew/V the/D glory/N of/P our/Q Art/N ?/O
+And/C which/O is/V worse/G ,/O all/D you/Q haue/V done/V Hath/R bene/N but/C for/P a/D wayward/N Sonne/R ,/O Spightfull/R ,/O and/C wrathfull/G ,/O who/Q (/O as/P others/N do/V )/O Loues/N for/P his/Q owne/N ends/V ,/O not/A for/P you/Q ./O
+But/C make/V amends/N now/A :/O Get/V you/Q gon/V ,/O And/C at/P the/D pit/N of/P Acheron/R Meete/R me/Q i'/P th/N '/O Morning/V :/O thither/P he/Q Will/O come/V ,/O to/P know/V his/Q Destinie/R ./O
+Your/Q Vessels/R ,/O and/C your/Q Spels/N prouide/V ,/O Your/Q Charmes/N ,/O and/C euery/G thing/N beside/P ;/O I/Q am/V for/P th/N '/O Ayre/R :/O This/D night/N Ile/P spend/V Vnto/P a/D dismall/G ,/O and/C a/D Fatall/G end/N ./O
+Great/R businesse/N must/O be/V wrought/V ere/R Noone/R ./O
+Vpon/P the/D Corner/R of/P the/D Moone/R There/A hangs/V a/D vap/N `/O rous/G drop/N ,/O profound/G ,/O Ile/G catch/N it/Q ere/V it/Q come/V to/P ground/N ;/O And/C that/D distill/R 'd/R by/P Magicke/R slights/N ,/O Shall/R raise/V such/G Artificiall/G Sprights/N ,/O As/P by/P the/D strength/N of/P their/Q illusion/N ,/O Shall/R draw/V him/Q on/P to/P his/Q Confusion/N ./O
+He/Q shall/O spurne/V Fate/R ,/O scorne/G Death/N ,/O and/C beare/N His/Q hopes/N `/O boue/N Wisedome/N ,/O Grace/R ,/O and/C Feare/N :/O And/C you/Q all/D know/V ,/O Security/R Is/V Mortals/N cheefest/G Enemie/R ./O
+Musicke/R ,/O and/C a/D Song/R ./O
+Hearke/R ,/O I/Q am/V call/G 'd/R :/O my/Q little/G Spirit/N see/V Sits/N in/P Foggy/N cloud/N ,/O and/C stayes/N for/P me/Q ./O
+Sing/V within/P ./O
+Come/V away/A ,/O come/V away/A ,/O &/C c./R 1/O Come/V ,/O let/V 's/O make/V hast/G ,/O shee/N '/O l/N soone/A be/V Backe/R againe/R ./O
+Exeunt/R ./O
+Scaena/R Sexta/R ./O
+Enter/R Lenox/R ,/O and/C another/D Lord/R ./O
+Lenox/R ./O
+My/Q former/G Speeches/N ,/O Haue/R but/C hit/V your/Q Thoughts/N Which/O can/O interpret/V farther/A :/O Onely/A I/Q say/V Things/N haue/V bin/N strangely/A borne/V ./O
+The/D gracious/G Duncan/R Was/V pittied/V of/P Macbeth/R :/O marry/V he/Q was/V dead/G :/O And/C the/D right/N valiant/N Banquo/R walk/V 'd/R too/A late/A ,/O Whom/P you/Q may/O say/V (/O if/P '/O t/N please/V you/Q )/O Fleans/R kill/V 'd/R ,/O For/P Fleans/N fled/V :/O Men/N must/O not/A walke/V too/A late/G ./O
+Who/Q can/O not/A want/V the/D thought/N ,/O how/O monstrous/G It/Q was/V for/P Malcolme/R ,/O and/C for/P Donalbane/R To/P kill/V their/Q gracious/G Father/R ?/O
+Damned/V Fact/N ,/O How/O it/Q did/V greeue/G Macbeth/R ?/O
+Did/V he/Q not/A straight/A In/P pious/G rage/N ,/O the/D two/O delinquents/N teare/N ,/O That/O were/V the/D Slaues/N of/P drinke/N ,/O and/C thralles/N of/P sleepe/N ?/O
+Was/V not/A that/A Nobly/A done/V ?/O
+I/Q ,/O and/C wisely/A too/A :/O For/P `/O twould/G haue/N anger/N 'd/V any/D heart/N aliue/N To/P heare/V the/D men/N deny/V `/O t./N So/P that/P I/Q say/V ,/O He/Q ha/N 's/O borne/V all/D things/N well/A ,/O and/C I/Q do/V thinke/N ,/O That/D had/V he/Q Duncans/R Sonnes/R vnder/P his/Q Key/N ,/O (/O As/P ,/O and/C '/O t/N please/V Heauen/P he/Q shall/O not/A )/O they/Q should/O finde/V What/Q `/O twere/V to/P kill/V a/D Father/R :/O So/A should/O Fleans/N ./O
+But/C peace/N ;/O for/P from/P broad/G words/N ,/O and/C cause/V he/Q fayl/N 'd/O His/Q presence/N at/P the/D Tyrants/N Feast/N ,/O I/Q heare/V Macduffe/G liues/N in/P disgrace/N ./O
+Sir/R ,/O can/O you/Q tell/V Where/O he/Q bestowes/V himselfe/N ?/O
+Lord/R ./O
+The/D Sonnes/R of/P Duncane/R (/O From/P whom/Q this/D Tyrant/N holds/V the/D due/G of/P Birth/R )/O Liues/N in/P the/D English/R Court/R ,/O and/C is/V receyu/R 'd/R Of/P the/D most/A Pious/G Edward/R ,/O with/P such/G grace/N ,/O That/P the/D maleuolence/N of/P Fortune/R ,/O nothing/N Takes/V from/P his/Q high/G respect/N ./O
+Thither/D Macduffe/R Is/V gone/V ,/O to/P pray/V the/D Holy/R King/R ,/O vpon/P his/Q ayd/N To/P wake/V Northumberland/R ,/O and/C warlike/P Seyward/R ,/O That/D by/P the/D helpe/N of/P these/D (/O with/P him/Q aboue/O )/O To/P ratifie/V the/D Worke/R )/O we/Q may/O againe/V Giue/N to/P our/Q Tables/N meate/N ,/O sleepe/V to/P our/Q Nights/N :/O Free/A from/P our/Q Feasts/N ,/O and/C Banquets/R bloody/G kniues/N ;/O Do/V faithfull/N Homage/N ,/O and/C receiue/G free/G Honors/N ,/O All/D which/O we/Q pine/N for/P now/A ./O
+And/C this/D report/N Hath/P so/A exasperate/V their/Q King/R ,/O that/P hee/N Prepares/N for/P some/D attempt/N of/P Warre/R Len/R ./O
+Sent/N he/Q to/P Macduffe/R ?/O
+Lord/R ./O
+He/Q did/V :/O and/C with/P an/D absolute/G Sir/R ,/O not/A I/Q The/D clowdy/N Messenger/N turnes/V me/Q his/Q backe/N ,/O And/C hums/N ;/O as/P who/Q should/O say/V ,/O you/Q '/O l/N rue/P the/D time/N That/P clogges/N me/Q with/P this/D Answer/N Lenox/R ./O
+And/C that/D well/A might/O Aduise/V him/Q to/P a/D Caution/N ,/O t'/A hold/V what/Q distance/N His/Q wisedome/N can/O prouide/V ./O
+Some/D holy/G Angell/R Flye/R to/P the/D Court/R of/P England/R ,/O and/C vnfold/V His/Q Message/N ere/V he/Q come/V ,/O that/P a/D swift/G blessing/N May/O soone/A returne/V to/P this/D our/Q suffering/N Country/N ,/O Vnder/P a/D hand/N accurs/V 'd/R Lord/R ./O
+Ile/Q send/V my/Q Prayers/N with/P him/Q ./O
+Exeunt/R ./O
+Actus/R Quartus/N ./O
+Scena/N Prima/R ./O
+Thunder/N ./O
+Enter/P the/D three/O Witches/N ./O
+1/O Thrice/N the/D brinded/G Cat/R hath/N mew/R 'd/R 2/O Thrice/N ,/O and/C once/A the/D Hedge-Pigge/G whin/R 'd/R 3/O Harpier/R cries/N ,/O `/O tis/N time/N ,/O `/O tis/N time/N 1/O Round/N about/P the/D Caldron/R go/N :/O In/P the/D poysond/N Entrailes/N throw/V Toad/A ,/O that/P vnder/N cold/G stone/N ,/O Dayes/R and/C Nights/R ,/O ha/R 's/O thirty/O one/O :/O Sweltred/R Venom/R sleeping/V got/V ,/O Boyle/R thou/V first/A i'/G th/N '/O charmed/V pot/N All/A ./O
+Double/A ,/O double/G ,/O toile/N and/C trouble/N ;/O Fire/R burne/R ,/O and/C Cauldron/R bubble/N 2/O Fillet/N of/P a/D Fenny/R Snake/N ,/O In/P the/D Cauldron/N boyle/N and/C bake/N :/O Eye/R of/P Newt/R ,/O and/C Toe/R of/P Frogge/R ,/O Wooll/R of/P Bat/R ,/O and/C Tongue/R of/P Dogge/R :/O Adders/R Forke/R ,/O and/C Blinde-wormes/R Sting/R ,/O Lizards/R legge/R ,/O and/C Howlets/N wing/N :/O For/P a/D Charme/N of/P powrefull/G trouble/N ,/O Like/P a/D Hell-broth/R ,/O boyle/N and/C bubble/N All/D ./O
+Double/A ,/O double/G ,/O toyle/N and/C trouble/N ,/O Fire/R burne/R ,/O and/C Cauldron/R bubble/N 3/O Scale/N of/P Dragon/R ,/O Tooth/D of/P Wolfe/R ,/O Witches/N Mummey/A ,/O Maw/R ,/O and/C Gulfe/R Of/P the/D rauin/R 'd/R salt/N Sea/R sharke/R :/O Roote/R of/P Hemlocke/R ,/O digg/R 'd/R i'/V th/N '/O darke/N :/O Liuer/R of/P Blaspheming/R Iew/R ,/O Gall/R of/P Goate/R ,/O and/C Slippes/N of/P Yew/R ,/O Sliuer/R 'd/R in/P the/D Moones/R Ecclipse/R :/O Nose/N of/P Turke/R ,/O and/C Tartars/R lips/N :/O Finger/R of/P Birth-strangled/G Babe/R ,/O Ditch-deliuer/R 'd/R by/P a/D Drab/R ,/O Make/V the/D Grewell/R thicke/N ,/O and/C slab/N ./O
+Adde/R thereto/O a/D Tigers/R Chawdron/R ,/O For/P th/N '/O Ingredience/N of/P our/Q Cawdron/R All/R ./O
+Double/A ,/O double/G ,/O toyle/N and/C trouble/N ,/O Fire/R burne/R ,/O and/C Cauldron/R bubble/N 2/O Coole/N it/Q with/P a/D Baboones/R blood/N ,/O Then/A the/D Charme/R is/V firme/G and/C good/G ./O
+Enter/R Hecat/R ,/O and/C the/D other/G three/O Witches/N ./O
+Hec/R ./O
+O/R well/A done/V :/O I/Q commend/V your/Q paines/N ,/O And/C euery/V one/O shall/O share/V i'/P th/N '/O gaines/N :/O And/C now/A about/P the/D Cauldron/N sing/V Like/P Elues/N and/C Fairies/N in/P a/D Ring/N ,/O Inchanting/V all/D that/D you/Q put/V in/O ./O
+Musicke/R and/C a/D Song/R ./O
+Blacke/R Spirits/N ,/O &/C c./R 2/O By/P the/D pricking/N of/P my/Q Thumbes/N ,/O Something/N wicked/G this/D way/N comes/V :/O Open/V Lockes/R ,/O who/Q euer/V knockes/N ./O
+Enter/R Macbeth/R ./O
+Macb/R ./O
+How/O now/A you/Q secret/G ,/O black/G ,/O &/C midnight/N Hags/N ?/O
+What/Q is/V '/O t/N you/Q do/V ?/O
+All/D ./O
+A/D deed/N without/P a/D name/N Macb/N ./O
+I/Q coniure/V you/Q ,/O by/P that/P which/O you/Q Professe/R ,/O (/O How/O ere/R you/Q come/V to/P know/V it/Q )/O answer/V me/Q :/O Though/P you/Q vntye/V the/D Windes/R ,/O and/C let/V them/Q fight/V Against/P the/D Churches/N :/O Though/P the/D yesty/N Waues/N Confound/O and/C swallow/V Nauigation/N vp/N :/O Though/P bladed/V Corne/R be/V lodg/G 'd/R ,/O &/C Trees/R blown/G downe/N ,/O Though/P Castles/N topple/V on/P their/Q Warders/N heads/N :/O Though/P Pallaces/N ,/O and/C Pyramids/N do/V slope/N Their/Q heads/N to/P their/Q Foundations/N :/O Though/P the/D treasure/N Of/P Natures/R Germaine/R ,/O tumble/N altogether/A ,/O Euen/R till/P destruction/N sicken/G :/O Answer/R me/Q To/P what/Q I/Q aske/V you/Q 1/O Speake/R 2/O Demand/N 3/O Wee/R '/O l/G answer/N 1/O Say/V ,/O if/P th/N `/O hadst/N rather/A heare/V it/Q from/P our/Q mouthes/N ,/O Or/C from/P our/Q Masters/N Macb/A ./O
+Call/V 'em/Q :/O let/V me/Q see/V 'em/Q 1/O Powre/N in/P Sowes/R blood/N ,/O that/P hath/N eaten/V Her/Q nine/O Farrow/R :/O Greaze/R that/O 's/V sweaten/N From/P the/D Murderers/N Gibbet/N ,/O throw/V Into/P the/D Flame/R All/R ./O
+Come/V high/G or/C low/G :/O Thy/G Selfe/R and/C Office/R deaftly/A show/V ./O
+Thunder/N ./O
+1/O ./O
+Apparation/R ,/O an/D Armed/R Head/R ./O
+Macb/R ./O
+Tell/V me/Q ,/O thou/D vnknowne/N power/N 1/O He/Q knowes/V thy/G thought/V :/O Heare/V his/Q speech/N ,/O but/C say/V thou/P nought/N 1/O Appar/N ./O
+Macbeth/R ,/O Macbeth/R ,/O Macbeth/R :/O Beware/R Macduffe/R ,/O Beware/N the/D Thane/N of/P Fife/R :/O dismisse/V me/Q ./O
+Enough/R ./O
+He/Q Descends/V ./O
+Macb/R ./O
+What/Q ere/V thou/D art/N ,/O for/P thy/G good/G caution/N ,/O thanks/N Thou/P hast/G harp/G 'd/R my/Q feare/N aright/N ./O
+But/C one/O word/N more/G 1/O He/Q will/O not/A be/V commanded/V :/O heere/R 's/O another/D More/A potent/G then/A the/D first/G ./O
+Thunder/N ./O
+2/O Apparition/N ,/O a/D Bloody/R Childe/R ./O
+2/O Appar/G ./O
+Macbeth/R ,/O Macbeth/R ,/O Macbeth/R Macb/R ./O
+Had/V I/Q three/O eares/N ,/O Il/R 'd/R heare/V thee/D Appar/R ./O
+Be/V bloody/G ,/O bold/G ,/O &/C resolute/V :/O Laugh/R to/P scorne/G The/D powre/N of/P man/N :/O For/P none/N of/P woman/N borne/V Shall/R harme/N Macbeth/R ./O
+Descends/N ./O
+Mac/R ./O
+Then/A liue/G Macduffe/R :/O what/Q need/V I/Q feare/V of/P thee/N ?/O
+But/C yet/A Ile/G make/N assurance/N :/O double/G sure/G ,/O And/C take/V a/D Bond/N of/P Fate/R :/O thou/D shalt/N not/A liue/G ,/O That/P I/Q may/O tell/V pale-hearted/G Feare/N ,/O it/Q lies/V ;/O And/C sleepe/V in/P spight/N of/P Thunder/R ./O
+Thunder/P 3/O Apparation/N ,/O a/D Childe/R Crowned/R ,/O with/P a/D Tree/R in/P his/Q hand/N ./O
+What/Q is/V this/D ,/O that/P rises/N like/P the/D issue/N of/P a/D King/R ,/O And/C weares/N vpon/P his/Q Baby-brow/N ,/O the/D round/N And/C top/N of/P Soueraignty/N ?/O
+All/D ./O
+Listen/V ,/O but/C speake/V not/A too/A '/O t/P 3/O Appar/G ./O
+Be/V Lyon/R metled/V ,/O proud/G ,/O and/C take/V no/D care/N :/O Who/Q chafes/R ,/O who/Q frets/V ,/O or/C where/O Conspirers/N are/V :/O Macbeth/R shall/O neuer/V vanquish/N 'd/O be/V ,/O vntill/A Great/G Byrnam/R Wood/R ,/O to/P high/G Dunsmane/N Hill/R Shall/R come/V against/P him/Q ./O
+Descend/R ./O
+Macb/R ./O
+That/D will/O neuer/V bee/N :/O Who/Q can/O impresse/V the/D Forrest/R ,/O bid/V the/D Tree/R Vnfixe/P his/Q earth-bound/G Root/N ?/O
+Sweet/R boadments/N ,/O good/G :/O Rebellious/G dead/G ,/O rise/N neuer/N till/P the/D Wood/R Of/P Byrnan/R rise/N ,/O and/C our/Q high/G plac/N 'd/O Macbeth/R Shall/R liue/V the/D Lease/N of/P Nature/R ,/O pay/V his/Q breath/N To/P time/N ,/O and/C mortall/G Custome/N ./O
+Yet/C my/Q Hart/R Throbs/N to/P know/V one/O thing/N :/O Tell/V me/Q ,/O if/P your/Q Art/N Can/O tell/V so/A much/G :/O Shall/R Banquo/R 's/O issue/N euer/N Reigne/N in/P this/D Kingdome/R ?/O
+All/D ./O
+Seeke/N to/P know/V no/D more/G Macb/N ./O
+I/Q will/O be/V satisfied/V ./O
+Deny/R me/Q this/D ,/O And/C an/D eternall/G Curse/G fall/N on/P you/Q :/O Let/V me/Q know/V ./O
+Why/O sinkes/N that/O Caldron/R ?/O
+&/C what/Q noise/N is/V this/D ?/O
+Hoboyes/N 1/O Shew/R 2/O Shew/R 3/O Shew/R All/R ./O
+Shew/P his/Q Eyes/N ,/O and/C greeue/V his/Q Hart/R ,/O Come/V like/P shadowes/N ,/O so/P depart/N ./O
+A/D shew/N of/P eight/O Kings/N ,/O and/C Banquo/R last/G ,/O with/P a/D glasse/N in/P his/Q hand/N ./O
+Macb/R ./O
+Thou/P art/N too/A like/P the/D Spirit/N of/P Banquo/R :/O Down/R :/O Thy/R Crowne/R do/V 's/O seare/N mine/N Eye-bals/N ./O
+And/C thy/G haire/N Thou/P other/G Gold-bound-brow/R ,/O is/V like/P the/D first/G :/O A/D third/G ,/O is/V like/P the/D former/G ./O
+Filthy/R Hagges/N ,/O Why/O do/V you/Q shew/V me/Q this/D ?/O
+-/O A/D fourth/G ?/O
+Start/V eyes/N !/O
+What/Q will/O the/D Line/R stretch/N out/P to/P `/O th/N '/O cracke/N of/P Doome/R ?/O
+Another/D yet/A ?/O
+A/D seauenth/N ?/O
+Ile/G see/V no/D more/G :/O And/C yet/A the/D eighth/G appeares/N ,/O who/Q beares/V a/D glasse/N ,/O Which/O shewes/V me/Q many/G more/G :/O and/C some/D I/Q see/V ,/O That/D two-fold/G Balles/R ,/O and/C trebble/G Scepters/N carry/V ./O
+Horrible/G sight/N :/O Now/A I/Q see/V `/O tis/O true/G ,/O For/P the/D Blood-bolter/R 'd/R Banquo/R smiles/V vpon/P me/Q ,/O And/C points/N at/P them/Q for/P his/Q ./O
+What/Q ?/O
+is/V this/D so/A ?/O
+1/O I/Q Sir/R ,/O all/D this/D is/V so./R ./O
+But/C why/O Stands/R Macbeth/R thus/A amazedly/A ?/O
+Come/V Sisters/N ,/O cheere/A we/Q vp/V his/Q sprights/N ,/O And/C shew/V the/D best/G of/P our/Q delights/N ./O
+Ile/R Charme/R the/D Ayre/R to/P giue/V a/D sound/N ,/O While/P you/Q performe/V your/Q Antique/G round/N :/O That/P this/D great/G King/R may/O kindly/A say/V ,/O Our/Q duties/N ,/O did/V his/Q welcome/G pay/N ./O
+Musicke/R ./O
+The/D Witches/N Dance/N ,/O and/C vanish/V ./O
+Macb/R ./O
+Where/O are/V they/Q ?/O
+Gone/N ?/O
+Let/V this/D pernitious/G houre/N ,/O Stand/R aye/R accursed/V in/P the/D Kalender/N ./O
+Come/V in/P ,/O without/P there/O ./O
+Enter/R Lenox/R ./O
+Lenox/R ./O
+What/Q 's/V your/Q Graces/N will/O Macb/V ./O
+Saw/N you/Q the/D Weyard/N Sisters/N ?/O
+Lenox/R ./O
+No/D my/Q Lord/R Macb/R ./O
+Came/N they/Q not/A by/P you/Q ?/O
+Lenox/R ./O
+No/D indeed/A my/Q Lord/R Macb/R ./O
+Infected/V be/V the/D Ayre/G whereon/N they/Q ride/V ,/O And/C damn/A 'd/V all/D those/D that/O trust/V them/Q ./O
+I/Q did/V heare/N The/D gallopping/N of/P Horse/R ./O
+Who/Q was/V '/O t/N came/V by/P ?/O
+Len/R ./O
+`/O Tis/R two/O or/C three/O my/Q Lord/R ,/O that/O bring/V you/Q word/N :/O Macduff/R is/V fled/V to/P England/R Macb/R ./O
+Fled/G to/P England/R ?/O
+Len/R ./O
+I/Q ,/O my/Q good/G Lord/R Macb/R ./O
+Time/R ,/O thou/P anticipat/G `/O st/G my/Q dread/N exploits/V :/O The/D flighty/N purpose/N neuer/N is/V o'/G re-tooke/N Vnlesse/P the/D deed/N go/V with/P it/Q ./O
+From/P this/D moment/N ,/O The/D very/G firstlings/N of/P my/Q heart/N shall/O be/V The/D firstlings/N of/P my/Q hand/N ./O
+And/C euen/A now/A To/P Crown/R my/Q thoughts/N with/P Acts/N :/O be/V it/Q thoght/A &/C done/V :/O The/D Castle/R of/P Macduff/R ,/O I/Q will/O surprize/V ./O
+Seize/D vpon/N Fife/N ;/O giue/N to/P th/R '/O edge/N o'/P th/N '/O Sword/N His/Q Wife/N ,/O his/Q Babes/N ,/O and/C all/D vnfortunate/G Soules/N That/P trace/N him/Q in/P his/Q Line/N ./O
+No/D boasting/N like/P a/D Foole/R ,/O This/D deed/V Ile/R do/V ,/O before/P this/D purpose/N coole/N ,/O But/C no/D more/G sights/N ./O
+Where/O are/V these/D Gentlemen/N ?/O
+Come/V bring/V me/Q where/O they/Q are/V ./O
+Exeunt/R ./O
+Scena/N Secunda/R ./O
+Enter/R Macduffes/R Wife/R ,/O her/Q Son/R ,/O and/C Rosse/R ./O
+Wife/N ./O
+What/Q had/V he/Q done/A ,/O to/P make/V him/Q fly/V the/D Land/R ?/O
+Rosse/R ./O
+You/Q must/O haue/V patience/N Madam/R Wife/R ./O
+He/Q had/V none/N :/O His/Q flight/N was/V madnesse/R :/O when/O our/Q Actions/N do/V not/A ,/O Our/Q feares/N do/V make/V vs/N Traitors/N Rosse/R ./O
+You/Q know/V not/A Whether/P it/Q was/V his/Q wisedome/G ,/O or/C his/Q feare/N Wife/N ./O
+Wisedom/N ?/O
+to/P leaue/V his/Q wife/N ,/O to/P leaue/V his/Q Babes/N ,/O His/Q Mansion/R ,/O and/C his/Q Titles/N ,/O in/P a/D place/N From/P whence/N himselfe/P do/V 's/O flye/V ?/O
+He/Q loues/V vs/P not/A ,/O He/Q wants/V the/D naturall/G touch/N ./O
+For/P the/D poore/G Wren/R (/O The/D most/A diminitiue/G of/P Birds/N )/O will/O fight/V ,/O Her/Q yong/G ones/N in/P her/Q Nest/N ,/O against/P the/D Owle/R :/O All/D is/V the/D Feare/N ,/O and/C nothing/N is/V the/D Loue/N ;/O As/P little/A is/V the/D Wisedome/R ,/O where/O the/D flight/N So/P runnes/N against/P all/D reason/N Rosse/R ./O
+My/Q deerest/N Cooz/N ,/O I/Q pray/V you/Q schoole/V your/Q selfe/N ./O
+But/C for/P your/Q Husband/N ,/O He/Q is/V Noble/G ,/O Wise/R ,/O Iudicious/G ,/O and/C best/G knowes/N The/D fits/V o'/P th/N '/O Season/N ./O
+I/Q dare/V not/A speake/V much/A further/A ,/O But/C cruell/R are/V the/D times/N ,/O when/O we/Q are/V Traitors/N And/C do/V not/A know/V our/Q selues/N :/O when/O we/Q hold/V Rumor/N From/P what/Q we/Q feare/V ,/O yet/C know/V not/A what/Q we/Q feare/V ,/O But/C floate/V vpon/P a/D wilde/N and/C violent/G Sea/R Each/D way/N ,/O and/C moue/N ./O
+I/Q take/V my/Q leaue/N of/P you/Q :/O Shall/R not/A be/V long/G but/C Ile/A be/V heere/G againe/N :/O Things/N at/P the/D worst/G will/O cease/V ,/O or/C else/A climbe/V vpward/G ,/O To/P what/Q they/Q were/V before/P ./O
+My/Q pretty/G Cosine/N ,/O Blessing/V vpon/P you/Q Wife/V ./O
+Father/R 'd/R he/Q is/V ,/O And/C yet/A hee/N 's/O Father-lesse/R Rosse/R ./O
+I/Q am/V so/A much/G a/D Foole/N ,/O should/O I/Q stay/V longer/A It/Q would/O be/V my/Q disgrace/N ,/O and/C your/Q discomfort/N ./O
+I/Q take/V my/Q leaue/N at/P once/A ./O
+Exit/N Rosse/R ./O
+Wife/N ./O
+Sirra/R ,/O your/Q Fathers/N dead/G ,/O And/C what/Q will/O you/Q do/V now/A ?/O
+How/O will/O you/Q liue/V ?/O
+Son/R ./O
+As/P Birds/N do/V Mother/R Wife/R ./O
+What/Q with/P Wormes/R ,/O and/C Flyes/R ?/O
+Son/R ./O
+With/P what/Q I/Q get/V I/Q meane/V ,/O and/C so/A do/V they/Q Wife/A ./O
+Poore/R Bird/R ,/O Thou/D `/O dst/N neuer/N Feare/N the/D Net/N ,/O nor/C Lime/R ,/O The/D Pitfall/N ,/O nor/C the/D Gin/R Son/R ./O
+Why/O should/O I/Q Mother/R ?/O
+Poore/R Birds/N they/Q are/V not/A set/V for/P :/O My/Q Father/R is/V not/A dead/G for/P all/D your/Q saying/V Wife/N ./O
+Yes/O ,/O he/Q is/V dead/G :/O How/O wilt/G thou/N do/V for/P a/D Father/R ?/O
+Son/R ./O
+Nay/R how/O will/O you/Q do/V for/P a/D Husband/R ?/O
+Wife/N ./O
+Why/O I/Q can/O buy/V me/Q twenty/O at/P any/D Market/R Son/R ./O
+Then/A you/Q '/O l/N by/P 'em/Q to/P sell/V againe/R Wife/R ./O
+Thou/Q speak/V `/O st/V withall/D thy/G wit/N ,/O And/C yet/A I'/G faith/N with/P wit/N enough/A for/P thee/D Son/R ./O
+Was/V my/Q Father/R a/D Traitor/R ,/O Mother/R ?/O
+Wife/N ./O
+I/Q ,/O that/P he/Q was/V Son/R ./O
+What/Q is/V a/D Traitor/N ?/O
+Wife/N ./O
+Why/O one/O that/O sweares/V ,/O and/C lyes/N Son/R ./O
+And/C be/V all/D Traitors/N ,/O that/O do/V so/A Wife/A ./O
+Euery/A one/O that/O do/V 's/V so/A ,/O is/V a/D Traitor/N ,/O And/C must/O be/V hang/V 'd/R Son/R ./O
+And/C must/O they/Q all/D be/V hang/V 'd/R ,/O that/O swear/V and/C lye/V ?/O
+Wife/N ./O
+Euery/D one/O Son/R ./O
+Who/Q must/O hang/V them/Q ?/O
+Wife/N ./O
+Why/O ,/O the/D honest/G men/N Son/R ./O
+Then/A the/D Liars/N and/C Swearers/N are/V Fools/N :/O for/P there/O are/V Lyars/N and/C Swearers/N enow/A ,/O to/P beate/V the/D honest/G men/N ,/O and/C hang/V vp/P them/Q Wife/A ./O
+Now/A God/R helpe/R thee/O ,/O poore/G Monkie/R :/O But/C how/O wilt/G thou/N do/V for/P a/D Father/R ?/O
+Son/R ./O
+If/P he/Q were/V dead/G ,/O youl/G 'd/R weepe/N for/P him/Q :/O if/P you/Q would/O not/A ,/O it/Q were/V a/D good/G signe/N ,/O that/P I/Q should/O quickely/A haue/V a/D new/G Father/R Wife/R ./O
+Poore/R pratler/N ,/O how/O thou/Q talk/V `/O st/N ?/O
+Enter/R a/D Messenger/R ./O
+Mes/N ./O
+Blesse/R you/Q faire/V Dame/G :/O I/Q am/V not/A to/P you/Q known/V ,/O Though/R in/P your/Q state/N of/P Honor/R I/Q am/V perfect/G ;/O I/Q doubt/V some/D danger/N do/V 's/O approach/N you/Q neerely/A ./O
+If/P you/Q will/O take/V a/D homely/G mans/N aduice/N ,/O Be/V not/A found/V heere/N :/O Hence/A with/P your/Q little/G ones/N To/P fright/V you/Q thus/A ./O
+Me/Q thinkes/V I/Q am/V too/A sauage/G :/O To/P do/V worse/G to/P you/Q ,/O were/V fell/V Cruelty/R ,/O Which/O is/V too/A nie/V your/Q person/N ./O
+Heauen/R preserue/N you/Q ,/O I/Q dare/V abide/N no/A longer/A ./O
+Exit/N Messenger/R Wife/R ./O
+Whether/R should/O I/Q flye/V ?/O
+I/Q haue/V done/V no/D harme/N ./O
+But/C I/Q remember/V now/A I/Q am/V in/P this/D earthly/G world/N :/O where/O to/P do/V harme/N Is/V often/A laudable/G ,/O to/P do/V good/G sometime/A Accounted/V dangerous/G folly/N ./O
+Why/O then/A (/O alas/O )/O Do/V I/Q put/V vp/G that/P womanly/N defence/N ,/O To/P say/V I/Q haue/V done/V no/D harme/N ?/O
+What/Q are/V these/D faces/N ?/O
+Enter/R Murtherers/N ./O
+Mur/R ./O
+Where/O is/V your/Q Husband/N ?/O
+Wife/N ./O
+I/Q hope/V in/P no/D place/N so/A vnsanctified/V ,/O Where/O such/G as/P thou/Q may/O `/O st/V finde/V him/Q Mur/R ./O
+He/Q 's/V a/D Traitor/N Son/R ./O
+Thou/P ly/A `/O st/G thou/O shagge-ear/G 'd/R Villaine/R Mur/R ./O
+What/Q you/Q Egge/R ?/O
+Yong/R fry/N of/P Treachery/R ?/O
+Son/R ./O
+He/Q ha/N 's/O kill/N 'd/V me/Q Mother/R ,/O Run/R away/A I/Q pray/V you/Q ./O
+Exit/N crying/V Murther/G ./O
+Scaena/R Tertia/R ./O
+Enter/R Malcolme/R and/C Macduffe/R ./O
+Mal/R ./O
+Let/V vs/R seeke/V out/O some/D desolate/G shade/N ,/O &/C there/O Weepe/R our/Q sad/G bosomes/N empty/G Macd/R ./O
+Let/V vs/N rather/A Hold/V fast/A the/D mortall/G Sword/N :/O and/C like/P good/G men/N ,/O Bestride/P our/Q downfall/N Birthdome/N :/O each/D new/G Morne/R ,/O New/R Widdowes/R howle/R ,/O new/G Orphans/N cry/V ,/O new/G sorowes/N Strike/P heauen/N on/P the/D face/N ,/O that/P it/Q resounds/V As/P if/P it/Q felt/V with/P Scotland/R ,/O and/C yell/N 'd/O out/O Like/P Syllable/G of/P Dolour/R Mal/R ./O
+What/Q I/Q beleeue/V ,/O Ile/G waile/N ;/O What/Q know/V ,/O beleeue/V ;/O and/C what/Q I/Q can/O redresse/V ,/O As/P I/Q shall/O finde/V the/D time/N to/P friend/N :/O I/Q wil/V ./O
+What/Q you/Q haue/V spoke/N ,/O it/Q may/O be/V so/A perchance/A ./O
+This/D Tyrant/N ,/O whose/Q sole/G name/N blisters/V our/Q tongues/N ,/O Was/V once/A thought/V honest/G :/O you/Q haue/V lou/N 'd/O him/Q well/A ,/O He/Q hath/V not/A touch/V 'd/R you/V yet/A ./O
+I/Q am/V yong/G ,/O but/C something/N You/Q may/O discerne/V of/P him/Q through/P me/Q ,/O and/C wisedome/G To/P offer/V vp/P a/D weake/N ,/O poore/A innocent/G Lambe/R T'/N appease/V an/D angry/G God/R Macd/R ./O
+I/Q am/V not/A treacherous/G Malc/R ./O
+But/C Macbeth/R is/V ./O
+A/D good/G and/C vertuous/G Nature/N may/O recoyle/V In/P an/D Imperiall/G charge/N ./O
+But/C I/Q shall/O craue/V your/Q pardon/N :/O That/P which/O you/Q are/V ,/O my/Q thoughts/N can/O not/A transpose/V ;/O Angels/R are/V bright/G still/A ,/O though/P the/D brightest/G fell/N ./O
+Though/P all/D things/N foule/G ,/O would/O wear/V the/D brows/N of/P grace/N Yet/C Grace/R must/O still/A looke/V so/A Macd/G ./O
+I/Q haue/V lost/V my/Q Hopes/N Malc/N ./O
+Perchance/N euen/N there/A Where/O I/Q did/V finde/V my/Q doubts/N ./O
+Why/O in/P that/D rawnesse/N left/V you/Q Wife/R ,/O and/C Childe/R ?/O
+Those/D precious/G Motiues/N ,/O those/D strong/G knots/N of/P Loue/R ,/O Without/P leaue-taking/N ./O
+I/Q pray/V you/Q ,/O Let/V not/A my/Q Iealousies/N ,/O be/V your/Q Dishonors/N ,/O But/C mine/G owne/N Safeties/N :/O you/Q may/O be/V rightly/A iust/A ,/O What/Q euer/V I/Q shall/O thinke/V Macd/R ./O
+Bleed/R ,/O bleed/V poore/G Country/N ,/O Great/R Tyrrany/R ,/O lay/V thou/P thy/G basis/N sure/A ,/O For/P goodnesse/N dare/N not/A check/V thee/N :/O wear/N y/N thy/G wrongs/N ,/O The/D Title/R ,/O is/V affear/G 'd/R ./O
+Far/A thee/A well/A Lord/R ,/O I/Q would/O not/A be/V the/D Villaine/R that/P thou/Q think/V `/O st/N ,/O For/P the/D whole/G Space/R that/O 's/V in/P the/D Tyrants/N Graspe/P ,/O And/C the/D rich/G East/R to/P boot/N Mal/R ./O
+Be/V not/A offended/V :/O I/Q speake/V not/A as/A in/P absolute/G feare/N of/P you/Q :/O I/Q thinke/V our/Q Country/N sinkes/N beneath/P the/D yoake/N ,/O It/Q weepes/V ,/O it/Q bleeds/V ,/O and/C each/D new/G day/N a/D gash/N Is/V added/V to/P her/Q wounds/N ./O
+I/Q thinke/V withall/R ,/O There/O would/O be/V hands/N vplifted/V in/P my/Q right/N :/O And/C heere/V from/P gracious/G England/R haue/V I/Q offer/V Of/P goodly/G thousands/N ./O
+But/C for/P all/D this/D ,/O When/O I/Q shall/O treade/V vpon/P the/D Tyrants/N head/N ,/O Or/C weare/V it/Q on/P my/Q Sword/N ;/O yet/A my/Q poore/G Country/N Shall/R haue/V more/G vices/N then/A it/Q had/V before/P ,/O More/G suffer/V ,/O and/C more/A sundry/G wayes/N then/A euer/A ,/O By/P him/Q that/D shall/O succeede/V Macd/R ./O
+What/Q should/O he/Q be/V ?/O
+Mal/R ./O
+It/Q is/V my/Q selfe/N I/Q meane/V :/O in/P whom/Q I/Q know/V All/D the/D particulars/N of/P Vice/R so/P grafted/G ,/O That/D when/O they/Q shall/O be/V open/G 'd/R ,/O blacke/R Macbeth/R Will/O seeme/V as/A pure/G as/P Snow/R ,/O and/C the/D poore/G State/R Esteeme/R him/Q as/P a/D Lambe/R ,/O being/V compar/N 'd/O With/P my/Q confinelesse/N harmes/V Macd/R ./O
+Not/A in/P the/D Legions/N Of/P horrid/G Hell/R ,/O can/O come/V a/D Diuell/R more/A damn/A 'd/O In/P euils/N ,/O to/P top/V Macbeth/R Mal/R ./O
+I/Q grant/V him/Q Bloody/A ,/O Luxurious/G ,/O Auaricious/G ,/O False/G ,/O Deceitfull/R ,/O Sodaine/R ,/O Malicious/R ,/O smacking/N of/P euery/N sinne/N That/P ha/N 's/O a/D name/N ./O
+But/C there/O 's/V no/D bottome/N ,/O none/N In/P my/Q Voluptuousnesse/N :/O Your/Q Wiues/N ,/O your/Q Daughters/N ,/O Your/Q Matrons/N ,/O and/C your/Q Maides/N ,/O could/O not/A fill/V vp/G The/D Cesterne/N of/P my/Q Lust/N ,/O and/C my/Q Desire/N All/D continent/N Impediments/N would/O ore-beare/V That/D did/V oppose/V my/Q will/N ./O
+Better/R Macbeth/R ,/O Then/A such/G an/D one/N to/P reigne/N Macd/R ./O
+Boundlesse/R intemperance/N In/P Nature/R is/V a/D Tyranny/G :/O It/Q hath/N beene/R Th/R '/O vntimely/G emptying/N of/P the/D happy/G Throne/R ,/O And/C fall/N of/P many/G Kings/N ./O
+But/C feare/N not/A yet/A To/P take/V vpon/N you/Q what/Q is/V yours/G :/O you/Q may/O Conuey/V your/Q pleasures/N in/P a/D spacious/G plenty/N ,/O And/C yet/A seeme/G cold/N ./O
+The/D time/N you/Q may/O so/A hoodwinke/V :/O We/Q haue/V willing/G Dames/N enough/A :/O there/O can/O not/A be/V That/D Vulture/N in/P you/Q ,/O to/P deuoure/V so/A many/G As/A will/O to/P Greatnesse/R dedicate/N themselues/V ,/O Finding/V it/Q so/A inclinde/V Mal/R ./O
+With/P this/D ,/O there/O growes/V In/P my/Q most/A ill-composd/G Affection/N ,/O such/G A/D stanchlesse/N Auarice/N ,/O that/O were/V I/Q King/R ,/O I/Q should/O cut/V off/O the/D Nobles/N for/P their/Q Lands/N ,/O Desire/P his/Q Iewels/N ,/O and/C this/D others/N House/R ,/O And/C my/Q more-hauing/G ,/O would/O be/V as/P a/D Sawce/N To/P make/V me/Q hunger/N more/A ,/O that/P I/Q should/O forge/V Quarrels/N vniust/A against/P the/D Good/G and/C Loyall/A ,/O Destroying/V them/Q for/P wealth/N Macd/R ./O
+This/D Auarice/N stickes/V deeper/G :/O growes/N with/P more/G pernicious/G roote/N Then/A Summer-seeming/G Lust/N :/O and/C it/Q hath/N bin/N The/D Sword/N of/P our/Q slaine/N Kings/N :/O yet/A do/V not/A feare/V ,/O Scotland/R hath/N Foysons/N ,/O to/P fill/V vp/G your/Q will/O Of/P your/Q meere/G Owne/N ./O
+All/D these/D are/V portable/G ,/O With/P other/G Graces/N weigh/V 'd/R Mal/R ./O
+But/C I/Q haue/V none/N ./O
+The/D King-becoming/G Graces/N ,/O As/P Iustice/R ,/O Verity/R ,/O Temp/R `/O rance/N ,/O Stablenesse/R ,/O Bounty/R ,/O Perseuerance/R ,/O Mercy/R ,/O Lowlinesse/R ,/O Deuotion/R ,/O Patience/R ,/O Courage/R ,/O Fortitude/R ,/O I/Q haue/V no/D rellish/G of/P them/Q ,/O but/C abound/P In/P the/D diuision/N of/P each/D seuerall/G Crime/N ,/O Acting/V it/Q many/G wayes/N ./O
+Nay/R ,/O had/V I/Q powre/V ,/O I/Q should/O Poure/V the/D sweet/G Milke/N of/P Concord/R ,/O into/P Hell/R ,/O Vprore/P the/D vniuersall/G peace/N ,/O confound/N All/D vnity/N on/P earth/N Macd/R ./O
+O/R Scotland/R ,/O Scotland/R Mal/R ./O
+If/P such/G a/D one/N be/V fit/G to/P gouerne/R ,/O speake/N :/O I/Q am/V as/P I/Q haue/V spoken/V Mac/R ./O
+Fit/R to/P gouern/V ?/O
+No/D not/A to/P liue/V ./O
+O/R Natio/R [/R n/N ]/N miserable/G !/O
+With/P an/D vntitled/G Tyrant/N ,/O bloody/G Sceptred/R ,/O When/O shalt/N thou/N see/V thy/G wholsome/G dayes/N againe/N ?/O
+Since/P that/P the/D truest/N Issue/N of/P thy/G Throne/R By/P his/Q owne/N Interdiction/N stands/V accust/G ,/O And/C do/V 's/O blaspheme/N his/Q breed/N ?/O
+Thy/R Royall/R Father/R Was/V a/D most/A Sainted-King/G :/O the/D Queene/R that/P bore/V thee/N ,/O Oftner/N vpon/P her/Q knees/N ,/O then/A on/P her/Q feet/N ,/O Dy/P `/O de/O euery/O day/N she/Q liu/V 'd/R ./O
+Fare/R thee/O well/A ,/O These/D Euils/N thou/P repeat/N `/O st/G vpon/N thy/G selfe/N ,/O Hath/R banish/V 'd/R me/Q from/P Scotland/R ./O
+O/R my/Q Brest/N ,/O Thy/G hope/N ends/V heere/D Mal/R ./O
+Macduff/R ,/O this/D Noble/G passion/N Childe/N of/P integrity/N ,/O hath/N from/P my/Q soule/N Wip/N 'd/V the/D blacke/N Scruples/N ,/O reconcil/N 'd/R my/Q thoughts/N To/P thy/V good/G Truth/N ,/O and/C Honor/R ./O
+Diuellish/G Macbeth/R ,/O By/P many/G of/P these/D traines/N ,/O hath/N sought/V to/P win/V me/Q Into/P his/Q power/N :/O and/C modest/G Wisedome/N pluckes/V me/Q From/P ouer-credulous/G hast/N :/O but/C God/R aboue/R Deale/R betweene/R thee/O and/C me/Q ;/O For/P euen/N now/A I/Q put/V my/Q selfe/N to/P thy/G Direction/R ,/O and/C Vnspeake/R mine/N owne/N detraction/N ./O
+Heere/R abiure/N The/D taints/N ,/O and/C blames/V I/Q laide/V vpon/P my/Q selfe/N ,/O For/P strangers/N to/P my/Q Nature/N ./O
+I/Q am/V yet/A Vnknowne/G to/P Woman/R ,/O neuer/N was/V forsworne/G ,/O Scarsely/A haue/V coueted/V what/Q was/V mine/G owne/N ./O
+At/P no/D time/N broke/V my/Q Faith/R ,/O would/O not/A betray/V The/D Deuill/N to/P his/Q Fellow/G ,/O and/C delight/N No/D lesse/N in/P truth/N then/A life/N ./O
+My/Q first/G false/G speaking/N Was/V this/D vpon/P my/Q selfe/N ./O
+What/Q I/Q am/V truly/A Is/V thine/N ,/O and/C my/Q poore/G Countries/N to/P command/V :/O Whither/R indeed/A ,/O before/P they/Q heere/V approach/N Old/R Seyward/R with/P ten/O thousand/O warlike/G men/N Already/A at/P a/D point/N ,/O was/V setting/V foorth/N :/O Now/A wee/N '/O l/N together/A ,/O and/C the/D chance/N of/P goodnesse/N Be/V like/P our/Q warranted/G Quarrell/N ./O
+Why/O are/V you/Q silent/G ?/O
+Macd/R ./O
+Such/G welcome/G ,/O and/C vnwelcom/R things/N at/P once/A `/O Tis/R hard/G to/P reconcile/V ./O
+Enter/R a/D Doctor/R ./O
+Mal/R ./O
+Well/A ,/O more/G anon/N ./O
+Comes/V the/D King/R forth/A I/Q pray/V you/Q ?/O
+Doct/R ./O
+I/Q Sir/R :/O there/O are/V a/D crew/N of/P wretched/G Soules/N That/P stay/N his/Q Cure/N :/O their/Q malady/N conuinces/N The/D great/G assay/N of/P Art/R ./O
+But/C at/P his/Q touch/N ,/O Such/G sanctity/N hath/N Heauen/R giuen/P his/Q hand/N ,/O They/Q presently/A amend/V ./O
+Enter/R ./O
+Mal/R ./O
+I/Q thanke/P you/Q Doctor/R Macd/R ./O
+What/Q 's/V the/D Disease/N he/Q meanes/V ?/O
+Mal/R ./O
+Tis/R call/N 'd/V the/D Euill/N ./O
+A/D most/A myraculous/G worke/N in/P this/D good/G King/R ,/O Which/O often/A since/P my/Q heere/G remaine/N in/P England/R ,/O I/Q haue/V seene/N him/Q do/V :/O How/O he/Q solicites/V heauen/A Himselfe/D best/G knowes/N :/O but/C strangely/A visited/V people/N All/D swolne/N and/C Vlcerous/G ,/O pittifull/G to/P the/D eye/N ,/O The/D meere/G dispaire/N of/P Surgery/R ,/O he/Q cures/V ,/O Hanging/V a/D golden/G stampe/N about/P their/Q neckes/N ,/O Put/V on/O with/P holy/G Prayers/N ,/O and/C `/O tis/O spoken/V To/P the/D succeeding/V Royalty/N he/Q leaues/V The/D healing/N Benediction/N ./O
+With/P this/D strange/G vertue/N ,/O He/Q hath/V a/D heauenly/G guift/N of/P Prophesie/R ,/O And/C sundry/G Blessings/N hang/V about/P his/Q Throne/N ,/O That/D speake/N him/Q full/G of/P Grace/R ./O
+Enter/R Rosse/R ./O
+Macd/R ./O
+See/V who/Q comes/V heere/A Malc/G ./O
+My/Q Countryman/R :/O but/C yet/A I/Q know/V him/Q not/A Macd/R ./O
+My/Q euer/N gentle/G Cozen/N ,/O welcome/G hither/G Malc/N ./O
+I/Q know/V him/Q now/A ./O
+Good/R God/R betimes/V remoue/G The/D meanes/V that/P makes/V vs/N Strangers/N Rosse/R ./O
+Sir/R ,/O Amen/G Macd/R ./O
+Stands/N Scotland/R where/O it/Q did/V ?/O
+Rosse/R ./O
+Alas/R poore/G Countrey/R ,/O Almost/A affraid/N to/P know/V it/Q selfe/G ./O
+It/Q can/O not/A Be/V call/N 'd/V our/Q Mother/N ,/O but/C our/Q Graue/N ;/O where/O nothing/N But/C who/Q knowes/V nothing/N ,/O is/V once/A seene/V to/P smile/V :/O Where/O sighes/N ,/O and/C groanes/N ,/O and/C shrieks/V that/P rent/N the/D ayre/N Are/V made/V ,/O not/A mark/N 'd/O :/O Where/O violent/G sorrow/N seemes/V A/D Moderne/R extasie/N :/O The/D Deadmans/R knell/R ,/O Is/V there/O scarse/N ask/V 'd/R for/P who/Q ,/O and/C good/G mens/N liues/N Expire/N before/P the/D Flowers/N in/P their/Q Caps/N ,/O Dying/V ,/O or/C ere/V they/Q sicken/G Macd/N ./O
+Oh/O Relation/R ;/O too/A nice/G ,/O and/C yet/A too/A true/G Malc/R ./O
+What/Q 's/V the/D newest/G griefe/N ?/O
+Rosse/R ./O
+That/D of/P an/D houres/N age/N ,/O doth/V hisse/P the/D speaker/N ,/O Each/D minute/N teemes/N a/D new/G one/O Macd/N ./O
+How/O do/V 's/V my/Q Wife/N ?/O
+Rosse/R ./O
+Why/O well/A Macd/G ./O
+And/C all/D my/Q Children/N ?/O
+Rosse/R ./O
+Well/A too/A Macd/G ./O
+The/D Tyrant/R ha/N 's/O not/A batter/N 'd/V at/P their/Q peace/N ?/O
+Rosse/R ./O
+No/D ,/O they/Q were/V wel/G at/P peace/N ,/O when/O I/Q did/V leaue/V 'em/Q Macd/A ./O
+Be/V not/A a/D niggard/N of/P your/Q speech/N :/O How/O gos/N `/O t/N ?/O
+Rosse/R ./O
+When/O I/Q came/V hither/A to/P transport/V the/D Tydings/N Which/O I/Q haue/V heauily/A borne/V ,/O there/O ran/V a/D Rumour/R Of/P many/G worthy/G Fellowes/N ,/O that/O were/V out/O ,/O Which/O was/V to/P my/Q beleefe/N witnest/O the/D rather/A ,/O For/P that/D I/Q saw/V the/D Tyrants/N Power/N a-foot/N ./O
+Now/A is/V the/D time/N of/P helpe/N :/O your/Q eye/N in/P Scotland/R Would/O create/V Soldiours/N ,/O make/V our/Q women/N fight/N ,/O To/P doffe/V their/Q dire/G distresses/N Malc/G ./O
+Bee/R '/O t/P their/Q comfort/N We/Q are/V comming/V thither/G :/O Gracious/G England/R hath/N Lent/R vs/R good/G Seyward/R ,/O and/C ten/O thousand/O men/N ,/O An/D older/G ,/O and/C a/D better/G Souldier/N ,/O none/N That/P Christendome/R giues/V out/O Rosse/R ./O
+Would/O I/Q could/O answer/V This/D comfort/N with/P the/D like/G ./O
+But/C I/Q haue/V words/N That/O would/O be/V howl/R 'd/R out/P in/P the/D desert/N ayre/N ,/O Where/O hearing/N should/O not/A latch/V them/Q Macd/A ./O
+What/Q concerne/N they/Q ,/O The/D generall/G cause/N ,/O or/C is/V it/Q a/D Fee-griefe/G Due/G to/P some/D single/G brest/N ?/O
+Rosse/R ./O
+No/D minde/N that/O 's/V honest/G But/C in/P it/Q shares/V some/D woe/G ,/O though/P the/D maine/G part/N Pertaines/N to/P you/Q alone/A Macd/R ./O
+If/P it/Q be/V mine/G Keepe/N it/Q not/A from/P me/Q ,/O quickly/A let/V me/Q haue/V it/Q Rosse/R ./O
+Let/V not/A your/Q eares/N dispise/V my/Q tongue/N for/P euer/N ,/O Which/O shall/O possesse/V them/Q with/P the/D heauiest/G sound/N that/O euer/V yet/A they/Q heard/V Macd/R ./O
+Humh/R :/O I/Q guesse/V at/P it/Q Rosse/A ./O
+Your/Q Castle/R is/V surpriz/R 'd/R :/O your/Q Wife/N ,/O and/C Babes/R Sauagely/R slaughter/N 'd/R :/O To/P relate/V the/D manner/N Were/V on/P the/D Quarry/N of/P these/D murther/G 'd/R Deere/R To/P adde/V the/D death/N of/P you/Q Malc/R ./O
+Mercifull/R Heauen/R :/O What/Q man/N ,/O ne/N 're/V pull/V your/Q hat/N vpon/P your/Q browes/N :/O Giue/G sorrow/N words/N ;/O the/D griefe/N that/P do/N 's/O not/A speake/N ,/O Whispers/P the/D o'/G re-fraught/G heart/N ,/O and/C bids/N it/Q breake/V Macd/R ./O
+My/Q Children/N too/A ?/O
+Ro/R ./O
+Wife/R ,/O Children/R ,/O Seruants/R ,/O all/D that/O could/O be/V found/V Macd/R ./O
+And/C I/Q must/O be/V from/P thence/N ?/O
+My/Q wife/N kil/N 'd/O too/A ?/O
+Rosse/R ./O
+I/Q haue/V said/V Malc/R ./O
+Be/V comforted/G ./O
+Let/V 's/Q make/V vs/N Med/V `/O cines/N of/P our/Q great/G Reuenge/N ,/O To/P cure/V this/D deadly/G greefe/N Macd/R ./O
+He/Q ha/N 's/O no/D Children/N ./O
+All/D my/Q pretty/G ones/N ?/O
+Did/V you/Q say/V All/D ?/O
+Oh/O Hell-Kite/O !/O
+All/D ?/O
+What/Q ,/O All/D my/Q pretty/G Chickens/R ,/O and/C their/Q Damme/N At/P one/O fell/G swoope/N ?/O
+Malc/R ./O
+Dispute/V it/Q like/P a/D man/N Macd/R ./O
+I/Q shall/O do/V so/A :/O But/C I/Q must/O also/A feele/V it/Q as/P a/D man/N ;/O I/Q can/O not/A but/A remember/V such/G things/N were/V That/D were/V most/A precious/G to/P me/Q :/O Did/V heauen/G looke/N on/P ,/O And/C would/O not/A take/V their/Q part/N ?/O
+Sinfull/G Macduff/R ,/O They/Q were/V all/D strooke/G for/P thee/N :/O Naught/N that/P I/Q am/V ,/O Not/A for/P their/Q owne/N demerits/N ,/O but/C for/P mine/G Fell/R slaughter/N on/P their/Q soules/N :/O Heauen/R rest/V them/Q now/A Mal/R ./O
+Be/V this/D the/D Whetstone/R of/P your/Q sword/N ,/O let/V griefe/N Conuert/N to/P anger/N :/O blunt/V not/A the/D heart/N ,/O enrage/N it/Q Macd/R ./O
+O/R I/Q could/O play/V the/D woman/N with/P mine/G eyes/N ,/O And/C Braggart/R with/P my/Q tongue/N ./O
+But/C gentle/G Heauens/N ,/O Cut/R short/A all/D intermission/N :/O Front/R to/P Front/R ,/O Bring/V thou/P this/D Fiend/N of/P Scotland/R ,/O and/C my/Q selfe/N Within/P my/Q Swords/N length/N set/V him/Q ,/O if/P he/Q scape/V Heauen/R forgiue/V him/Q too/A Mal/R ./O
+This/D time/N goes/V manly/A :/O Come/V go/V we/Q to/P the/D King/R ,/O our/Q Power/N is/V ready/G ,/O Our/Q lacke/N is/V nothing/N but/C our/Q leaue/N ./O
+Macbeth/R Is/V ripe/G for/P shaking/V ,/O and/C the/D Powres/N aboue/V Put/V on/O their/Q Instruments/R :/O Receiue/G what/Q cheere/V you/Q may/O ,/O The/D Night/R is/V long/A ,/O that/P neuer/N findes/V the/D Day/R ./O
+Exeunt/R ./O
+Actus/R Quintus/R ./O
+Scena/N Prima/R ./O
+Enter/R a/D Doctor/R of/P Physicke/R ,/O and/C a/D Wayting/N Gentlewoman/N ./O
+Doct/R ./O
+I/Q haue/V too/A Nights/R watch/V 'd/R with/P you/Q ,/O but/C can/O perceiue/V no/D truth/N in/P your/Q report/N ./O
+When/O was/V it/Q shee/G last/G walk/N 'd/R ?/O
+Gent/R ./O
+Since/P his/Q Maiesty/R went/V into/P the/D Field/N ,/O I/Q haue/V seene/P her/Q rise/N from/P her/Q bed/N ,/O throw/V her/Q Night-Gown/G vppon/P her/Q ,/O vnlocke/P her/Q Closset/N ,/O take/V foorth/G paper/N ,/O folde/G it/Q ,/O write/V vpo/G n't/A ,/O read/V it/Q ,/O afterwards/A Seale/P it/Q ,/O and/C againe/R returne/R to/P bed/N ;/O yet/A all/D this/D while/N in/P a/D most/A fast/G sleepe/N Doct/R ./O
+A/D great/G perturbation/N in/P Nature/R ,/O to/P receyue/V at/P once/A the/D benefit/N of/P sleep/N ,/O and/C do/V the/D effects/N of/P watching/V ./O
+In/P this/D slumbry/N agitation/N ,/O besides/P her/Q walking/N ,/O and/C other/G actuall/G performances/N ,/O what/Q (/O at/P any/D time/N )/O haue/V you/Q heard/V her/Q say/V ?/O
+Gent/R ./O
+That/D Sir/R ,/O which/O I/Q will/O not/A report/V after/P her/Q Doct/N ./O
+You/Q may/O to/P me/Q ,/O and/C `/O tis/O most/G meet/V you/Q should/O Gent/V ./O
+Neither/C to/P you/Q ,/O nor/C any/D one/O ,/O hauing/V no/D witnesse/N to/P confirme/V my/Q speech/N ./O
+Enter/R Lady/R ,/O with/P a/D Taper/N ./O
+Lo/R you/Q ,/O heere/V she/Q comes/V :/O This/D is/V her/Q very/A guise/N ,/O and/C vpon/P my/Q life/N fast/A asleepe/V :/O obserue/V her/Q ,/O stand/V close/G Doct/N ./O
+How/O came/V she/Q by/P that/D light/N ?/O
+Gent/R ./O
+Why/O it/Q stood/V by/P her/Q :/O she/Q ha/N 's/O light/N by/P her/Q continually/A ,/O `/O tis/O her/Q command/N Doct/N ./O
+You/Q see/V her/Q eyes/N are/V open/G Gent/N ./O
+I/Q ,/O but/C their/Q sense/N are/V shut/V Doct/R ./O
+What/Q is/V it/Q she/Q do/V 's/V now/A ?/O
+Looke/R how/O she/Q rubbes/V her/Q hands/N Gent/N ./O
+It/Q is/V an/D accustom/G 'd/R action/N with/P her/Q ,/O to/P seeme/V thus/A washing/V her/Q hands/N :/O I/Q haue/V knowne/V her/Q continue/V in/P this/D a/D quarter/N of/P an/D houre/N Lad/R ./O
+Yet/C heere/R 's/O a/D spot/N Doct/N ./O
+Heark/R ,/O she/Q speaks/V ,/O I/Q will/O set/V downe/P what/Q comes/V from/P her/Q ,/O to/P satisfie/V my/Q remembrance/V the/D more/A strongly/A La./R ./O
+Out/P damned/G spot/N :/O out/O I/Q say/V ./O
+One/O :/O Two/O :/O Why/O then/A `/O tis/O time/N to/P doo/V `/O t/N :/O Hell/R is/V murky/G ./O
+Fye/R ,/O my/Q Lord/R ,/O fie/N ,/O a/D Souldier/N ,/O and/C affear/V 'd/R ?/O
+what/Q need/N we/Q feare/V ?/O
+who/Q knowes/V it/Q ,/O when/O none/N can/O call/V our/Q powre/N to/P accompt/V :/O yet/A who/Q would/O haue/V thought/V the/D olde/G man/N to/P haue/V had/V so/A much/G blood/N in/P him/Q Doct/R ./O
+Do/V you/Q marke/V that/P ?/O
+Lad/R ./O
+The/D Thane/N of/P Fife/R ,/O had/V a/D wife/N :/O where/O is/V she/Q now/A ?/O
+What/Q will/O these/D hands/N ne/N 're/V be/V cleane/A ?/O
+No/D more/A o'/A that/P my/Q Lord/R ,/O no/D more/G o'/N that/O :/O you/Q marre/V all/D with/P this/D starting/V Doct/R ./O
+Go/V too/A ,/O go/V too/A :/O You/Q haue/V knowne/V what/Q you/Q should/O not/A Gent/V ./O
+She/Q ha/N 's/O spoke/V what/Q shee/N should/O not/A ,/O I/Q am/V sure/G of/P that/D :/O Heauen/R knowes/V what/Q she/Q ha/N 's/O knowne/N La./R ./O
+Heere/R 's/O the/D smell/N of/P the/D blood/N still/A :/O all/D the/D perfumes/N of/P Arabia/R will/O not/A sweeten/V this/D little/G hand/N ./O
+Oh/O ,/O oh/O ,/O oh/O Doct/R ./O
+What/Q a/D sigh/N is/V there/A ?/O
+The/D hart/N is/V sorely/A charg/G 'd/R Gent/R ./O
+I/Q would/O not/A haue/V such/G a/D heart/N in/P my/Q bosome/G ,/O for/P the/D dignity/N of/P the/D whole/G body/N Doct/R ./O
+Well/A ,/O well/A ,/O well/A Gent/N ./O
+Pray/R God/R it/Q be/V sir/N Doct/N ./O
+This/D disease/N is/V beyond/P my/Q practise/N :/O yet/A I/Q haue/V knowne/V those/D which/O haue/V walkt/N in/P their/Q sleep/N ,/O who/Q haue/V dyed/V holily/A in/P their/Q beds/N Lad/R ./O
+Wash/R your/Q hands/N ,/O put/V on/P your/Q Night-Gowne/R ,/O looke/V not/A so/A pale/G :/O I/Q tell/V you/Q yet/A againe/V Banquo/R 's/O buried/V ;/O he/Q can/O not/A come/V out/A on/P 's/O graue/N Doct/N ./O
+Euen/R so/A ?/O
+Lady/R ./O
+To/P bed/N ,/O to/P bed/N :/O there/O 's/V knocking/V at/P the/D gate/N :/O Come/V ,/O come/V ,/O come/V ,/O come/V ,/O giue/V me/Q your/Q hand/N :/O What/Q 's/V done/V ,/O can/O not/A be/V vndone/V ./O
+To/P bed/N ,/O to/P bed/N ,/O to/P bed/N ./O
+Exit/N Lady/R ./O
+Doct/R ./O
+Will/O she/Q go/V now/A to/P bed/N ?/O
+Gent/R ./O
+Directly/A Doct/R ./O
+Foule/N whisp/V `/O rings/N are/V abroad/A :/O vnnaturall/G deeds/N Do/V breed/N vnnaturall/N troubles/N :/O infected/G mindes/N To/P their/Q deafe/G pillowes/N will/O discharge/V their/Q Secrets/N :/O More/A needs/V she/Q the/D Diuine/G ,/O then/A the/D Physitian/R :/O God/R ,/O God/R forgiue/O vs/N all/D ./O
+Looke/R after/P her/Q ,/O Remoue/R from/P her/Q the/D meanes/N of/P all/D annoyance/N ,/O And/C still/A keepe/V eyes/N vpon/P her/Q :/O So/P goodnight/N ,/O My/Q minde/N she/Q ha/N 's/O mated/G ,/O and/C amaz/N 'd/V my/Q sight/N ./O
+I/Q thinke/V ,/O but/C dare/V not/A speake/V Gent/N ./O
+Good/G night/N good/G Doctor/N ./O
+Exeunt/R ./O
+Scena/N Secunda/R ./O
+Drum/R and/C Colours/R ./O
+Enter/R Menteth/R ,/O Cathnes/R ,/O Angus/R ,/O Lenox/R ,/O Soldiers/N ./O
+Ment/R ./O
+The/D English/R powre/N is/V neere/G ,/O led/V on/P by/P Malcolm/R ,/O His/Q Vnkle/N Seyward/N ,/O and/C the/D good/G Macduff/N ./O
+Reuenges/N burne/V in/P them/Q :/O for/P their/Q deere/G causes/N Would/O to/P the/D bleeding/N ,/O and/C the/D grim/G Alarme/R Excite/P the/D mortified/G man/N Ang/R ./O
+Neere/R Byrnan/R wood/N Shall/R we/Q well/A meet/V them/Q ,/O that/P way/N are/V they/Q comming/G Cath/N ./O
+Who/Q knowes/V if/P Donalbane/R be/V with/P his/Q brother/N ?/O
+Len/R ./O
+For/P certaine/N Sir/R ,/O he/Q is/V not/A :/O I/Q haue/V a/D File/R Of/P all/D the/D Gentry/N ;/O there/O is/V Seywards/R Sonne/R ,/O And/C many/G vnruffe/G youths/N ,/O that/P euen/N now/A Protest/O their/Q first/G of/P Manhood/R Ment/R ./O
+What/Q do/V 's/V the/D Tyrant/R Cath/R ./O
+Great/R Dunsinane/R he/Q strongly/A Fortifies/V :/O Some/D say/V hee/N 's/O mad/G :/O Others/N ,/O that/P lesser/G hate/N him/Q ,/O Do/V call/V it/Q valiant/G Fury/N ,/O but/C for/P certaine/G He/Q can/O not/A buckle/V his/Q distemper/N 'd/O cause/V Within/P the/D belt/N of/P Rule/R Ang/R ./O
+Now/A do/V 's/V he/Q feele/V His/Q secret/G Murthers/N sticking/V on/P his/Q hands/N ,/O Now/A minutely/A Reuolts/N vpbraid/V his/Q Faith-breach/G :/O Those/D he/Q commands/V ,/O moue/V onely/G in/P command/N ,/O Nothing/N in/P loue/N :/O Now/A do/V 's/V he/Q feele/V his/Q Title/R Hang/R loose/G about/P him/Q ,/O like/P a/D Giants/R Robe/R Vpon/P a/D dwarfish/N Theefe/P Ment/R ./O
+Who/Q then/A shall/O blame/V His/Q pester/N 'd/V Senses/N to/P recoyle/V ,/O and/C start/N ,/O When/O all/D that/D is/V within/P him/Q ,/O do/V 's/P condemne/N It/Q selfe/V ,/O for/P being/V there/A Cath/R ./O
+Well/A ,/O march/V we/Q on/O ,/O To/P giue/V Obedience/N ,/O where/O `/O tis/N truly/A ow/G 'd/R :/O Meet/R we/Q the/D Med/R `/O cine/N of/P the/D sickly/G Weale/R ,/O And/C with/P him/Q poure/V we/Q in/P our/Q Countries/N purge/N ,/O Each/D drop/N of/P vs/G Lenox/R ./O
+Or/C so/A much/G as/P it/Q needes/V ,/O To/P dew/V the/D Soueraigne/R Flower/R ,/O and/C drowne/V the/D Weeds/N :/O Make/V we/Q our/Q March/R towards/P Birnan/R ./O
+Exeunt/R ./O
+marching/N ./O
+Scaena/R Tertia/R ./O
+Enter/R Macbeth/R ,/O Doctor/R ,/O and/C Attendants/N ./O
+Macb/R ./O
+Bring/V me/Q no/D more/A Reports/R ,/O let/V them/Q flye/V all/D :/O Till/R Byrnane/R wood/N remoue/N to/P Dunsinane/R ,/O I/Q can/O not/A taint/V with/P Feare/N ./O
+What/Q 's/V the/D Boy/R Malcolme/R ?/O
+Was/V he/Q not/A borne/V of/P woman/N ?/O
+The/D Spirits/N that/O know/V All/D mortall/G Consequences/N ,/O haue/N pronounc/N 'd/V me/Q thus/A :/O Feare/N not/A Macbeth/R ,/O no/D man/N that/O 's/V borne/N of/P woman/N Shall/R ere/R haue/N power/N vpon/P thee/N ./O
+Then/A fly/V false/G Thanes/N ,/O And/C mingle/G with/P the/D English/R Epicures/R ,/O The/D minde/N I/Q sway/V by/P ,/O and/C the/D heart/N I/Q beare/V ,/O Shall/R neuer/N sagge/N with/P doubt/N ,/O nor/C shake/N with/P feare/N ./O
+Enter/R Seruant/R ./O
+The/D diuell/R damne/N thee/O blacke/R ,/O thou/O cream-fac/R 'd/R Loone/R :/O Where/O got/V `/O st/G thou/N that/O Goose-looke/R Ser/R ./O
+There/O is/V ten/O thousand/O Macb/R ./O
+Geese/N Villaine/R ?/O
+Ser/R ./O
+Souldiers/R Sir/R Macb/R ./O
+Go/V pricke/N thy/G face/N ,/O and/C ouer-red/G thy/G feare/N Thou/P Lilly-liuer/R 'd/R Boy/R ./O
+What/Q Soldiers/R ,/O Patch/R ?/O
+Death/N of/P thy/G Soule/N ,/O those/D Linnen/R cheekes/N of/P thine/N Are/V Counsailers/N to/P feare/N ./O
+What/Q Soldiers/R Whay-face/N ?/O
+Ser/R ./O
+The/D English/R Force/R ,/O so/A please/V you/Q Macb/A ./O
+Take/V thy/G face/N hence/A ./O
+Seyton/R ,/O I/Q am/V sick/G at/P hart/R ,/O When/O I/Q behold/V :/O Seyton/R ,/O I/Q say/V ,/O this/D push/N Will/O cheere/V me/Q euer/V ,/O or/C dis-eate/N me/Q now/A ./O
+I/Q haue/V liu/Q 'd/O long/A enough/A :/O my/Q way/N of/P life/N Is/V falne/N into/P the/D Seare/R ,/O the/D yellow/G Leafe/N ,/O And/C that/P which/O should/O accompany/V Old-Age/R ,/O As/P Honor/R ,/O Loue/R ,/O Obedience/N ,/O Troopes/N of/P Friends/R ,/O I/Q must/O not/A looke/V to/P haue/V :/O but/C in/P their/Q steed/G ,/O Curses/N ,/O not/A lowd/G but/C deepe/A ,/O Mouth-honor/R ,/O breath/N Which/O the/D poore/G heart/N would/O faine/V deny/V ,/O and/C dare/N not/A ./O
+Seyton/R ?/O
+Enter/R Seyton/R ./O
+Sey/R ./O
+What/Q 's/V your/Q gracious/G pleasure/N ?/O
+Macb/R ./O
+What/Q Newes/V more/G ?/O
+Sey/R ./O
+All/D is/V confirm/V 'd/O my/Q Lord/R ,/O which/O was/V reported/V Macb/R ./O
+Ile/R fight/N ,/O till/P from/P my/Q bones/N ,/O my/Q flesh/N be/V hackt/A ./O
+Giue/N me/Q my/Q Armor/N Seyt/N ./O
+`/O Tis/R not/A needed/V yet/A Macb/R ./O
+Ile/R put/V it/Q on/P :/O Send/Q out/P moe/N Horses/N ,/O skirre/N the/D Country/N round/N ,/O Hang/R those/D that/O talke/V of/P Feare/N ./O
+Giue/R me/Q mine/G Armor/N :/O How/O do/V 's/V your/Q Patient/G ,/O Doctor/R ?/O
+Doct/R ./O
+Not/A so/A sicke/P my/Q Lord/R ,/O As/P she/Q is/V troubled/V with/P thicke-comming/G Fancies/N That/P keepe/V her/Q from/P her/Q rest/N Macb/N ./O
+Cure/R of/P that/D :/O Can/O `/O st/V thou/P not/A Minister/R to/P a/D minde/G diseas/G 'd/R ,/O Plucke/R from/P the/D Memory/N a/D rooted/G Sorrow/N ,/O Raze/V out/O the/D written/V troubles/N of/P the/D Braine/R ,/O And/C with/P some/D sweet/G Obliuious/G Antidote/R Cleanse/R the/D stufft/N bosome/G ,/O of/P that/D perillous/G stuffe/N Which/O weighes/V vpon/P the/D heart/N ?/O
+Doct/R ./O
+Therein/P the/D Patient/G Must/G minister/N to/P himselfe/R Macb/R ./O
+Throw/V Physicke/R to/P the/D Dogs/N ,/O Ile/G none/N of/P it/Q ./O
+Come/V ,/O put/V mine/G Armour/N on/P :/O giue/N me/Q my/Q Staffe/R :/O Seyton/R ,/O send/V out/O :/O Doctor/R ,/O the/D Thanes/R flye/N from/P me/Q :/O Come/V sir/N ,/O dispatch/N ./O
+If/P thou/Q could/O `/O st/V Doctor/N ,/O cast/N The/D Water/N of/P my/Q Land/R ,/O finde/R her/Q Disease/N ,/O And/C purge/V it/Q to/P a/D sound/N and/C pristine/G Health/R ,/O I/Q would/O applaud/V thee/N to/P the/D very/A Eccho/G ,/O That/D should/O applaud/V againe/N ./O
+Pull/R '/O t/N off/P I/Q say/V ,/O What/Q Rubarb/N ,/O Cyme/R ,/O or/C what/Q Purgatiue/R drugge/N Would/O scowre/V these/D English/G hence/A :/O hear/V `/O st/G y/N of/P them/Q ?/O
+Doct/R ./O
+I/Q my/Q good/G Lord/R :/O your/Q Royall/R Preparation/R Makes/R vs/R heare/N something/N Macb/R ./O
+Bring/V it/Q after/P me/Q :/O I/Q will/O not/A be/V affraid/G of/P Death/R and/C Bane/R ,/O Till/R Birnane/R Forrest/R come/V to/P Dunsinane/R Doct/R ./O
+Were/V I/Q from/P Dunsinane/R away/A ,/O and/C cleere/A ,/O Profit/R againe/R should/O hardly/A draw/V me/Q heere/A ./O
+Exeunt/R ./O
+Scena/N Quarta/N ./O
+Drum/R and/C Colours/R ./O
+Enter/R Malcolme/R ,/O Seyward/R ,/O Macduffe/R ,/O Seywards/R Sonne/R ,/O Menteth/R ,/O Cathnes/R ,/O Angus/R ,/O and/C Soldiers/R Marching/R ./O
+Malc/R ./O
+Cosins/N ,/O I/Q hope/V the/D dayes/N are/V neere/V at/P hand/N That/P Chambers/N will/O be/V safe/G Ment/N ./O
+We/Q doubt/V it/Q nothing/N Seyw/R ./O
+What/Q wood/N is/V this/D before/P vs/N ?/O
+Ment/R ./O
+The/D wood/N of/P Birnane/R Malc/R ./O
+Let/V euery/R Souldier/R hew/V him/Q downe/P a/D Bough/R ,/O And/C bear/N '/O t/N before/P him/Q ,/O thereby/A shall/O we/Q shadow/V The/D numbers/N of/P our/Q Hoast/N ,/O and/C make/V discouery/N Erre/N in/P report/N of/P vs/R Sold/R ./O
+It/Q shall/O be/V done/V Syw/A ./O
+We/Q learne/V no/D other/G ,/O but/C the/D confident/G Tyrant/N Keepes/N still/A in/P Dunsinane/R ,/O and/C will/O indure/V Our/Q setting/V downe/G befor/P '/O t/N Malc/R ./O
+`/O Tis/R his/Q maine/G hope/N :/O For/P where/O there/O is/V aduantage/N to/P be/V giuen/V ,/O Both/D more/G and/C lesse/R haue/N giuen/N him/Q the/D Reuolt/N ,/O And/C none/N serue/N with/P him/Q ,/O but/C constrained/V things/N ,/O Whose/D hearts/N are/V absent/G too/A Macd/R ./O
+Let/V our/Q iust/V Censures/N Attend/V the/D true/G euent/G ,/O and/C put/V we/Q on/P Industrious/G Souldiership/N Sey/R ./O
+The/D time/N approaches/V ,/O That/D will/N with/P due/G decision/N make/V vs/N know/V What/Q we/Q shall/O say/V we/Q haue/V ,/O and/C what/Q we/Q owe/V :/O Thoughts/R speculatiue/N ,/O their/Q vnsure/N hopes/V relate/V ,/O But/C certaine/G issue/N ,/O stroakes/N must/O arbitrate/V ,/O Towards/N which/O ,/O aduance/N the/D warre/N ./O
+Exeunt/R ./O
+marching/V Scena/N Quinta/R ./O
+Enter/R Macbeth/R ,/O Seyton/R ,/O &/C Souldiers/R ,/O with/P Drum/R and/C Colours/R ./O
+Macb/R ./O
+Hang/R out/P our/Q Banners/N on/P the/D outward/G walls/N ,/O The/D Cry/R is/V still/A ,/O they/Q come/V :/O our/Q Castles/N strength/N Will/O laugh/V a/D Siedge/N to/P scorne/V :/O Heere/R let/V them/Q lye/V ,/O Till/R Famine/R and/C the/D Ague/N eate/V them/Q vp/V :/O Were/V they/Q not/A forc/R 'd/O with/P those/D that/O should/O be/V ours/G ,/O We/Q might/O haue/V met/V them/Q darefull/A ,/O beard/N to/P beard/N ,/O And/C beate/V them/Q backward/G home/N ./O
+What/Q is/V that/P noyse/N ?/O
+A/D Cry/N within/P of/P Women/R ./O
+Sey/R ./O
+It/Q is/V the/D cry/N of/P women/N ,/O my/Q good/G Lord/R Macb/R ./O
+I/Q haue/V almost/A forgot/V the/D taste/N of/P Feares/N :/O The/D time/N ha/N 's/O beene/N ,/O my/Q sences/N would/O haue/V cool/G 'd/R To/P heare/V a/D Night-shrieke/R ,/O and/C my/Q Fell/N of/P haire/N Would/O at/P a/D dismall/G Treatise/R rowze/N ,/O and/C stirre/V As/P life/N were/V i/R n't/A ./O
+I/Q haue/V supt/G full/G with/P horrors/N ,/O Direnesse/R familiar/G to/P my/Q slaughterous/G thoughts/N Can/O not/A once/A start/V me/Q ./O
+Wherefore/R was/V that/P cry/N ?/O
+Sey/R ./O
+The/D Queene/R (/O my/Q Lord/R )/O is/V dead/G Macb/N ./O
+She/Q should/O haue/V dy/O `/O de/O heereafter/N ;/O There/O would/O haue/V beene/P a/D time/N for/P such/G a/D word/N :/O To/P morrow/O ,/O and/C to/P morrow/R ,/O and/C to/P morrow/R ,/O Creepes/R in/P this/D petty/G pace/N from/P day/N to/P day/N ,/O To/P the/D last/G Syllable/G of/P Recorded/G time/N :/O And/C all/D our/Q yesterdayes/N ,/O haue/N lighted/V Fooles/R The/D way/N to/P dusty/G death/N ./O
+Out/P ,/O out/P ,/O breefe/N Candle/R ,/O Life/R 's/O but/C a/D walking/N Shadow/N ,/O a/D poore/G Player/R ,/O That/D struts/N and/C frets/V his/Q houre/N vpon/P the/D Stage/R ,/O And/C then/A is/V heard/V no/D more/G ./O
+It/Q is/V a/D Tale/G Told/N by/P an/D Ideot/N ,/O full/G of/P sound/N and/C fury/N Signifying/N nothing/N ./O
+Enter/R a/D Messenger/R ./O
+Thou/P com/N `/O st/N to/P vse/V thy/G Tongue/N :/O thy/R Story/R quickly/A Mes/R ./O
+Gracious/G my/Q Lord/R ,/O I/Q should/O report/V that/P which/O I/Q say/V I/Q saw/V ,/O But/C know/V not/A how/O to/P doo/N '/O t/N Macb/N ./O
+Well/A ,/O say/V sir/N Mes/N ./O
+As/P I/Q did/V stand/V my/Q watch/N vpon/P the/D Hill/R I/Q look/V 'd/O toward/P Byrnane/R ,/O and/C anon/P me/Q thought/V The/D Wood/R began/V to/P moue/V Macb/R ./O
+Lyar/R ,/O and/C Slaue/R Mes/R ./O
+Let/V me/Q endure/V your/Q wrath/N ,/O if/P '/O t/N be/V not/A so/A :/O Within/P this/D three/O Mile/R may/O you/Q see/V it/Q comming/G ./O
+I/Q say/V ,/O a/D mouing/V Groue/R Macb/R ./O
+If/P thou/Q speak/V `/O st/V false/G ,/O Vpon/P the/D next/G Tree/N shall/O thou/A hang/V aliue/G Till/R Famine/R cling/V thee/D :/O If/P thy/G speech/N be/V sooth/G ,/O I/Q care/V not/A if/P thou/D dost/N for/P me/Q as/P much/G ./O
+I/Q pull/V in/P Resolution/R ,/O and/C begin/V To/P doubt/V th/N '/O Equiuocation/N of/P the/D Fiend/G ,/O That/D lies/V like/P truth/N ./O
+Feare/N not/A ,/O till/P Byrnane/R Wood/R Do/V come/V to/P Dunsinane/R ,/O and/C now/A a/D Wood/R Comes/V toward/P Dunsinane/R ./O
+Arme/R ,/O Arme/R ,/O and/C out/P ,/O If/P this/D which/O he/Q auouches/V ,/O do/V 's/O appeare/N ,/O There/O is/V nor/C flying/V hence/A ,/O nor/C tarrying/V here/A ./O
+I/Q `/O ginne/N to/P be/V a-weary/G of/P the/D Sun/R ,/O And/C wish/N th/N '/O estate/N o'/P th/N '/O world/N were/V now/A vndon/O ./O
+Ring/V the/D Alarum/R Bell/R ,/O blow/N Winde/R ,/O come/V wracke/N ,/O At/P least/G wee/N '/O l/G dye/N with/P Harnesse/R on/P our/Q backe/N ./O
+Exeunt/R ./O
+Scena/N Sexta/R ./O
+Drumme/R and/C Colours/R ./O
+Enter/R Malcolme/R ,/O Seyward/R ,/O Macduffe/R ,/O and/C their/Q Army/R ,/O with/P Boughes/R ./O
+Mal/R ./O
+Now/A neere/D enough/G :/O Your/Q leauy/N Skreenes/N throw/V downe/P ,/O And/C shew/N like/P those/D you/Q are/V :/O You/Q (/O worthy/G Vnkle/N )/O Shall/R with/P my/Q Cosin/R your/Q right/N Noble/G Sonne/N Leade/R our/Q first/G Battell/R ./O
+Worthy/G Macduffe/R ,/O and/C wee/N Shall/R take/V vpon/N 's/O what/Q else/A remaines/V to/P do/V ,/O According/V to/P our/Q order/N Sey/R ./O
+Fare/R you/Q well/A :/O Do/V we/Q but/C finde/V the/D Tyrants/N power/N to/P night/N ,/O Let/V vs/N be/V beaten/V ,/O if/P we/Q can/O not/A fight/V Macd/R ./O
+Make/V all/D our/Q Trumpets/N speak/V ,/O giue/V the/D [/N m/N ]/P all/D breath/N Those/D clamorous/G Harbingers/N of/P Blood/R ,/O &/C Death/R ./O
+Exeunt/R ./O
+Alarums/N continued/V ./O
+Scena/N Septima/R ./O
+Enter/R Macbeth/R ./O
+Macb/R ./O
+They/Q haue/V tied/V me/Q to/P a/D stake/N ,/O I/Q can/O not/A flye/V ,/O But/C Beare-like/P I/Q must/O fight/V the/D course/N ./O
+What/Q 's/V he/Q That/D was/V not/A borne/V of/P Woman/R ?/O
+Such/G a/D one/O Am/V I/Q to/P feare/V ,/O or/C none/N ./O
+Enter/R young/G Seyward/R ./O
+Y.Sey/R ./O
+What/Q is/V thy/G name/N ?/O
+Macb/R ./O
+Thou/P `/O lt/V be/V affraid/G to/P heare/V it/Q Y.Sey/A ./O
+No/D :/O though/P thou/Q call/V `/O st/G thy/N selfe/V a/D hoter/N name/N Then/A any/D is/V in/P hell/N Macb/R ./O
+My/Q name/N 's/O Macbeth/R Y.Sey/R ./O
+The/D diuell/R himselfe/N could/O not/A pronounce/V a/D Title/R More/A hatefull/G to/P mine/G eare/N Macb/R ./O
+No/D :/O nor/C more/G fearefull/G Y.Sey/N ./O
+Thou/D lyest/N abhorred/V Tyrant/R ,/O with/P my/Q Sword/N Ile/N proue/P the/D lye/N thou/P speak/V `/O st./N Fight/N ,/O and/C young/G Seyward/R slaine/R ./O
+Macb/R ./O
+Thou/R was/V '/O t/G borne/N of/P woman/N ;/O But/C Swords/N I/Q smile/V at/P ,/O Weapons/N laugh/N to/P scorne/V ,/O Brandish/R 'd/R by/P man/N that/D 's/V of/P a/D Woman/R borne/N ./O
+Enter/R ./O
+Alarums/N ./O
+Enter/R Macduffe/R ./O
+Macd/R ./O
+That/D way/N the/D noise/N is/V :/O Tyrant/R shew/R thy/G face/N ,/O If/P thou/D beest/N slaine/N ,/O and/C with/P no/D stroake/N of/P mine/N ,/O My/Q Wife/N and/C Childrens/N Ghosts/N will/O haunt/V me/Q still/A :/O I/Q can/O not/A strike/V at/P wretched/G Kernes/R ,/O whose/Q armes/N Are/V hyr/P 'd/R to/P beare/V their/Q Staues/N ;/O either/C thou/P Macbeth/R ,/O Or/C else/A my/Q Sword/N with/P an/D vnbattered/G edge/N I/Q sheath/V againe/G vndeeded/V ./O
+There/O thou/N should/O `/O st/V be/V ,/O By/P this/D great/G clatter/N ,/O one/O of/P greatest/G note/N Seemes/V bruited/V ./O
+Let/V me/Q finde/V him/Q Fortune/R ,/O And/C more/A I/Q begge/V not/A ./O
+Exit/N ./O
+Alarums/N ./O
+Enter/R Malcolme/R and/C Seyward/R ./O
+Sey/R ./O
+This/D way/N my/Q Lord/R ,/O the/D Castles/R gently/A rendred/V :/O The/D Tyrants/N people/N ,/O on/P both/D sides/N do/V fight/N ,/O The/D Noble/G Thanes/N do/V brauely/A in/P the/D Warre/R ,/O The/D day/N almost/A it/Q selfe/G professes/N yours/Q ,/O And/C little/A is/V to/P do/V Malc/R ./O
+We/Q haue/V met/V with/P Foes/N That/P strike/N beside/P vs/R Sey/R ./O
+Enter/R Sir/R ,/O the/D Castle/R ./O
+Exeunt/R ./O
+Alarum/R Enter/R Macbeth/R ./O
+Macb/R ./O
+Why/O should/O I/Q play/V the/D Roman/R Foole/N ,/O and/C dye/N On/P mine/N owne/N sword/N ?/O
+whiles/N I/Q see/V liues/N ,/O the/D gashes/N Do/V better/G vpon/P them/Q ./O
+Enter/R Macduffe/R ./O
+Macd/R ./O
+Turne/R Hell-hound/R ,/O turne/R Macb/R ./O
+Of/P all/D men/N else/A I/Q haue/V auoyded/G thee/N :/O But/C get/V thee/D backe/N ,/O my/Q soule/N is/V too/A much/G charg/N 'd/O With/P blood/N of/P thine/N already/A Macd/R ./O
+I/Q haue/V no/D words/N ,/O My/Q voice/N is/V in/P my/Q Sword/N ,/O thou/P bloodier/N Villaine/R Then/A tearmes/V can/O giue/V thee/V out/O ./O
+Fight/N :/O Alarum/R Macb/R ./O
+Thou/P loosest/N labour/N As/P easie/R may/O `/O st/V thou/P the/D intrenchant/N Ayre/N With/P thy/G keene/N Sword/N impresse/N ,/O as/P make/V me/Q bleed/V :/O Let/V fall/N thy/G blade/N on/P vulnerable/G Crests/N ,/O I/Q beare/V a/D charmed/V Life/R ,/O which/O must/O not/A yeeld/V To/P one/O of/P woman/N borne/V Macd/R ./O
+Dispaire/R thy/R Charme/R ,/O And/C let/V the/D Angell/N whom/Q thou/V still/A hast/G seru/R 'd/R Tell/V thee/D ,/O Macduffe/R was/V from/P his/Q Mothers/N womb/N Vntimely/A ript/G Macb/R ./O
+Accursed/V be/V that/P tongue/N that/P tels/N mee/V so/A ;/O For/P it/Q hath/V Cow/R 'd/R my/Q better/G part/N of/P man/N :/O And/C be/V these/D Iugling/G Fiends/N no/A more/A beleeu/P 'd/R ,/O That/D palter/N with/P vs/N in/P a/D double/G sence/N ,/O That/D keepe/V the/D word/N of/P promise/N to/P our/Q eare/N ,/O And/C breake/V it/Q to/P our/Q hope/N ./O
+Ile/G not/A fight/N with/P thee/D Macd/R ./O
+Then/A yeeld/V thee/D Coward/R ,/O And/C liue/N to/P be/V the/D shew/N ,/O and/C gaze/V o'/G th/N '/O time/N ./O
+Wee/R '/O l/G haue/N thee/N ,/O as/P our/Q rarer/N Monsters/N are/V Painted/V vpon/P a/D pole/N ,/O and/C vnder-writ/N ,/O Heere/R may/O you/Q see/V the/D Tyrant/G Macb/R ./O
+I/Q will/O not/A yeeld/V To/P kisse/V the/D ground/N before/P young/G Malcolmes/R feet/N ,/O And/C to/P be/V baited/V with/P the/D Rabbles/N curse/N ./O
+Though/P Byrnane/R wood/N be/V come/V to/P Dunsinane/R ,/O And/C thou/O oppos/N 'd/V ,/O being/V of/P no/D woman/N borne/V ,/O Yet/C I/Q will/O try/V the/D last/G ./O
+Before/P my/Q body/N ,/O I/Q throw/V my/Q warlike/G Shield/R :/O Lay/N on/P Macduffe/R ,/O And/C damn/A 'd/O be/V him/Q ,/O that/P first/G cries/N hold/V ,/O enough/A ./O
+Exeunt/R ./O
+fighting/V ./O
+Alarums/N ./O
+Enter/R Fighting/N ,/O and/C Macbeth/R slaine/R ./O
+Retreat/R ,/O and/C Flourish/R ./O
+Enter/R with/P Drumme/R and/C Colours/R ,/O Malcolm/R ,/O Seyward/R ,/O Rosse/R ,/O Thanes/R ,/O &/C Soldiers/R ./O
+Mal/R ./O
+I/Q would/O the/D Friends/R we/Q misse/V ,/O were/V safe/G arriu/N 'd/R Sey/R ./O
+Some/D must/O go/V off/O :/O and/C yet/A by/P these/D I/Q see/V ,/O So/A great/G a/D day/N as/P this/D is/V cheapely/A bought/V Mal/R ./O
+Macduffe/R is/V missing/V ,/O and/C your/Q Noble/G Sonne/R Rosse/R ./O
+Your/Q son/N my/Q Lord/R ,/O ha/N 's/V paid/V a/D souldiers/N debt/N ,/O He/Q onely/A liu/R 'd/R but/C till/P he/Q was/V a/D man/N ,/O The/D which/O no/A sooner/A had/V his/Q Prowesse/R confirm/V 'd/R In/P the/D vnshrinking/N station/N where/O he/Q fought/V ,/O But/C like/P a/D man/N he/Q dy/O `/O de/O Sey/R ./O
+Then/A he/Q is/V dead/G ?/O
+Rosse/R ./O
+I/Q ,/O and/C brought/V off/O the/D field/N :/O your/Q cause/N of/P sorrow/N Must/O not/A be/V measur/V 'd/R by/P his/Q worth/N ,/O for/P then/A It/Q hath/P no/D end/N Sey/A ./O
+Had/V he/Q his/Q hurts/V before/P ?/O
+Rosse/R ./O
+I/Q ,/O on/P the/D Front/R Sey/R ./O
+Why/O then/A ,/O Gods/N Soldier/A be/V he/Q :/O Had/V I/Q as/P many/G Sonnes/N ,/O as/P I/Q haue/V haires/N ,/O I/Q would/O not/A wish/V them/Q to/P a/D fairer/N death/N :/O And/C so/P his/Q Knell/R is/V knoll/R 'd/R Mal/R ./O
+Hee/R 's/O worth/N more/G sorrow/N ,/O and/C that/P Ile/R spend/V for/P him/Q Sey/R ./O
+He/Q 's/V worth/G no/D more/G ,/O They/Q say/V he/Q parted/V well/A ,/O and/C paid/V his/Q score/N ,/O And/C so/A God/R be/V with/P him/Q ./O
+Here/A comes/V newer/G comfort/N ./O
+Enter/R Macduffe/R ,/O with/P Macbeths/N head/N ./O
+Macd/R ./O
+Haile/R King/R ,/O for/P so/A thou/P art/N ./O
+Behold/N where/O stands/V Th/R '/O Vsurpers/N cursed/V head/N :/O the/D time/N is/V free/G :/O I/Q see/V thee/D compast/N with/P thy/G Kingdomes/N Pearle/R ,/O That/D speake/N my/Q salutation/N in/P their/Q minds/N :/O Whose/G voyces/N I/Q desire/V alowd/N with/P mine/N ./O
+Haile/R King/R of/P Scotland/R All/R ./O
+Haile/R King/R of/P Scotland/R ./O
+Flourish/R ./O
+Mal/R ./O
+We/Q shall/O not/A spend/V a/D large/G expence/N of/P time/N ,/O Before/P we/Q reckon/V with/P your/Q seuerall/G loues/N ,/O And/C make/V vs/G euen/N with/P you/Q ./O
+My/Q Thanes/N and/C Kinsmen/N Henceforth/A be/V Earles/N ,/O the/D first/G that/P euer/N Scotland/R In/P such/D an/D Honor/R nam/R 'd/R :/O What/Q 's/V more/G to/P do/V ,/O Which/O would/O be/V planted/V newly/A with/P the/D time/N ,/O As/P calling/V home/N our/Q exil/N 'd/O Friends/R abroad/A ,/O That/D fled/V the/D Snares/N of/P watchfull/N Tyranny/R ,/O Producing/V forth/O the/D cruell/G Ministers/N Of/P this/D dead/G Butcher/R ,/O and/C his/Q Fiend-like/G Queene/R ;/O Who/Q (/O as/P `/O tis/O thought/V )/O by/P selfe/N and/C violent/G hands/N ,/O Tooke/R off/P her/Q life/N ./O
+This/D ,/O and/C what/Q need/V full/G else/G That/P call/N 's/O vpon/N vs/N ,/O by/P the/D Grace/R of/P Grace/R ,/O We/Q will/O performe/V in/P measure/N ,/O time/N ,/O and/C place/N :/O So/A thankes/N to/P all/D at/P once/A ,/O and/C to/P each/D one/O ,/O Whom/P we/Q inuite/V ,/O to/P see/V vs/N Crown/R 'd/R at/P Scone/R ./O
+Flourish/R ./O
+Exeunt/R Omnes/R ./O
+FINIS/N ./O
+THE/D TRAGEDIE/N OF/P MACBETH/R ./O

@@ -1,0 +1,5 @@
+source("wfreq_spacy.R")
+hist(wfreq)
+hist(wfreq[wfreq < 10000])
+plot(wfreq)
+plot(wfreq, log = "xy")

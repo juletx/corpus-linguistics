@@ -1,0 +1,1 @@
+python3 pmi.py bigrams.txt | sort -k 3 -gr | head -n 30
