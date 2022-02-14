@@ -2,7 +2,7 @@
 
 # Usage: ./create_tfidf.sh
 
-inDir=gutenberg
+inDir=../../data/gutenberg
 outDir=out
 dfFile=word.df
 
@@ -30,4 +30,3 @@ done
 # Create similarity matrix
 
 python3 docSimilarityMatrix.py out/* > docsim.csv
-

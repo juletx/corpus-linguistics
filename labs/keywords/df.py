@@ -47,12 +47,12 @@ def do_file(fname, word_docfreq):
         #   document_words.add('hello')
         #
         #   adds the word 'hello' to the 'document_words' set.
-        pass # REMOVE THIS LINE
-        # ENDTODO
+        for token in sentence:
+            document_words.add(token)
     # TODO: Once we've recorded all the words in the document, update
     #       'word_docfreq' with the words in 'document_words'
-    pass # REMOVE THIS LINE
-    # ENDTODO
+    for word in document_words:
+        word_docfreq[word] += 1
 
 word_docfreq = defaultdict(int) # (word -> number_of_documents_where_the_word_appears)
 number_documents = 0

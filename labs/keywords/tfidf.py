@@ -56,8 +56,7 @@ def idf(df_fname):
         #           documents (doc_freq), and df is the document frequency
         #           of the word
         #
-        pass # REMOVE THIS LINE
-        # ENDTODO
+        idf[word] = log(doc_n/df)
     return idf # return dictionary
 
 if len(sys.argv) != 3:
@@ -76,6 +75,5 @@ for word in word_tf:
     if word_idf[word] == 0:
         continue
     # TODO calculate tfifd value and store it in the tfidf variable
-    # tfidf = log(tf + 1)*idf
-    # ENDTODO
+    tfidf = log(word_tf[word] + 1) * word_idf[word]
     print("{}\t{}".format(word, tfidf))
