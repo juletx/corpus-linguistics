@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE NAF SYSTEM "naf.dtd">
 <NAF xml:lang="en" doc="KyotoKafEng_3/1159">
   <raw><![CDATA[Training Module 2 Searching for Scientific Research Using:]]></raw>
 <text>
@@ -44,38 +45,32 @@
    </span>
   </term>
   <term id="t7" type="open" lemma="research" pos="N">
-   <spans>
+   <span>
     <target id="w7"/>
-   </spans>
+   </span>
   </term>
   <term id="t8" type="open" lemma="use" pos="V">
    <span>
     <target id="w8"/>
-    <target id="w20"/>
    </span>
   </term>
  </terms>
  <deps>
     <dep from="t1" to="t2" rfunc="dobj"/>
     <dep from="t7" to="t6" rfunc="mod"/>
-    <chunk id="ch" head="t1" phrase="VP">
-      <span>
-        <target id="t1"/>
-      </span>
-    </chunk>
  </deps>
  <chunks>
-    <chunk id="1" head="t1" phrase="VP">
+    <chunk id="ch1" head="t1" phrase="VP">
       <span>
         <target id="t1"/>
       </span>
     </chunk>
-    <chunk id="2" head="t2" phrase="NP">
+    <chunk id="ch2" head="t2" phrase="NP">
       <span>
         <target id="t2"/>
       </span>
     </chunk>
-    <chunk cid="3" head="t3" phrase="NP">
+    <chunk id="ch3" head="t3" phrase="NP">
       <span>
         <target id="t3"/>
       </span>

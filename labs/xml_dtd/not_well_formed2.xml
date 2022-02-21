@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE context SYSTEM "s3aw.dtd">
 <context filename="d000" source="senseval3">
   <s snum="48">
@@ -8,20 +8,20 @@
   <token id="d000.s048.t015" pos="v" lemma="know" interp="1">
     <lexsn>know%2:31:01::</lexsn>
     <wf>knows</wf>
-  </tokena>
+  </token>
   <token id="d000.na.22" pos="d">
     <wf>that</wf>
   </token>
   <token id="d000.na.23" pos="n">
-    <wf>two < three</wf>
+    <wf>two &lt; three</wf>
   </token>
   <punc>.</punc>
   </s>
   <s snum="140">
     <token id="d000.na.2302" pos="n" lemma="Haney">
-      <wf>Haney<wf>
+      <wf>Haney</wf>
     </token>
-    <token id="d000.s159.t001" pos="v" lemma="swish" interp="1" pos="n">
+    <token id="d000.s159.t001" pos="v" lemma="swish" interp="1">
       <lexsn>swish%2:39:00::</lexsn>
       <wf>swished</wf>
     </token>
@@ -38,7 +38,7 @@
     <token id="d000.na.2307" pos="d">
       <wf>the</wf>
     </token>
-    <token id=d000.s159.t006 pos="n" lemma="bottom" interp="1">
+    <token id="d000.s159.t006" pos="n" lemma="bottom" interp="1">
       <lexsn>bottom%1:15:01::</lexsn>
       <wf>bottom</wf>
     </token>
@@ -53,4 +53,5 @@
       <wf>glass</wf>
     </token>
     <punc>.</punc>
+  </s>
 </context>

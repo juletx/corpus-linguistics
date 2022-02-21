@@ -1,0 +1,9 @@
+<!ELEMENT context (s)+>
+
+<!ELEMENT s (token|punc)+>
+
+<!ELEMENT token (wf)>
+
+<!ELEMENT wf (#PCDATA)>
+
+<!ELEMENT punc (#PCDATA)>

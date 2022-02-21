@@ -1,1 +1,2 @@
-<!ELEMENT ...>
+<!ELEMENT example (inside)>
+<!ELEMENT inside (#PCDATA)>

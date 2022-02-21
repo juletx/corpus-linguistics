@@ -1,5 +1,16 @@
-<!ELEMENT elem_name ...>
-<!ATTLIST elem_name
-		  attr1_name attr1_type attr1_val
-		  ... >
+<!ELEMENT context (s)+>
+<!ATTLIST context 
+    filename CDATA #REQUIRED
+    source CDATA #REQUIRED>
 
+<!ELEMENT s (punc|token)+>
+<!ATTLIST s snum CDATA #REQUIRED>
+
+<!ELEMENT punc (#PCDATA)>
+
+<!ELEMENT token (wf)>
+<!ATTLIST token id ID #REQUIRED
+	        pos CDATA #REQUIRED
+	        lemma CDATA #IMPLIED>
+
+<!ELEMENT wf (#PCDATA)>
