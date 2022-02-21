@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE context SYSTEM "s3aw.dtd">
+<context filename="d000" source="senseval3">
+  <s snum="48">
+  <token id="d000.na.21" pos="p">
+    <wf>He</wf>
+  </token>
+  <token id="d000.s048.t015" pos="v" lemma="know" interp="1">
+    <lexsn>know%2:31:01::</lexsn>
+    <wf>knows</wf>
+  </tokena>
+  <token id="d000.na.22" pos="d">
+    <wf>that</wf>
+  </token>
+  <token id="d000.na.23" pos="n">
+    <wf>two < three</wf>
+  </token>
+  <punc>.</punc>
+  </s>
+  <s snum="140">
+    <token id="d000.na.2302" pos="n" lemma="Haney">
+      <wf>Haney<wf>
+    </token>
+    <token id="d000.s159.t001" pos="v" lemma="swish" interp="1" pos="n">
+      <lexsn>swish%2:39:00::</lexsn>
+      <wf>swished</wf>
+    </token>
+    <token id="d000.na.2304" pos="d">
+      <wf>the</wf>
+    </token>
+    <token id="d000.s159.t003" pos="n" lemma="liquor" interp="1">
+      <lexsn>liquor%1:1300::</lexsn>
+      <wf>liquor</wf>
+    </token>
+    <token id="d000.na.2306" pos="i">
+      <wf>in</wf>
+    </token>
+    <token id="d000.na.2307" pos="d">
+      <wf>the</wf>
+    </token>
+    <token id=d000.s159.t006 pos="n" lemma="bottom" interp="1">
+      <lexsn>bottom%1:15:01::</lexsn>
+      <wf>bottom</wf>
+    </token>
+    <token id="d000.na.2309" pos="i">
+      <wf>of</wf>
+    </token>
+    <token id="d000.na.2310" pos="p">
+      <wf>his</wf>
+    </token>
+    <token id="d000.s159.t009" pos="n" lemma="glass" interp="1">
+      <lexsn>glass%1:06:00::</lexsn>
+      <wf>glass</wf>
+    </token>
+    <punc>.</punc>
+</context>

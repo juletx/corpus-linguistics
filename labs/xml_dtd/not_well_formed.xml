@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ein SYSTEM "s3aw.dtd">
+<context filename="d000" source="senseval3">
+  <s snum="0">
+    <token id="d000.na.0" pos="d">
+      <wf>That</wf>
+    </token>
+    <token id="d000.s000.t001" pos="v" lemma="be" interp="1">
+      <lexsn>be%2:42:03::</lexsn>
+      <wf>'s</wf>
+    </token>
+    <token id="d000.na.2" pos="w">
+      <wf>what</wf>
+    </token>
+    <token id="d000.na.3" pos="d">
+      <wf>the</wf>
+    </token>
+    <token id="d000.s000.t004" pos="n" lemma="man" interp="1">
+      <wf>man<lexsn></wf>man%1:18:00::</lexsn>
+    </token>
+    <token id="d000.na.5" pos="v" lemma="have" pos="n">
+      <wf>had</wf>
+    </token>
+    <token id="d000.s000.t<006" pos="v" lemma="say" interp="1">
+      <lexsn>say%2:32:01::</lexsn>
+      <wf>said</wf>
+    </tokena>
+    <punc>.</punc>
+</context>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE context SYSTEM "s3aw.dtd">
+<context filename="d000" source="senseval3">
+  <s snum="3">
+    <token id="d000.s003.t000" pos="v" lemma="be" interp="1">
+      <lexsn>be%2:42:03::</lexsn>
+      <wf>Was</wf>
+    </token>
+    <token id="d000.na.39" pos="d">
+      <wf>the</wf>
+    </token>
+    <token id="d000.s003.t002" pos="n" lemma="man" interp="1">
+      <lexsn>man%1:18:00::</lexsn>
+      <wf>man</wf>
+    </token>
+    <token id="d000.s003.t003" pos="a" lemma="drunk" interp="1">
+      <lexsn>drunk%3:00:00::</lexsn>
+      <wf>drunk</wf>
+    </token>
+    <token id="d000.na.42" pos="c">
+      <wf>or</wf>
+    </token>
+    <token id="d000.s003.t005" pos="a" lemma="crazy" interp="1">
+      <lexsn>crazy%5:00:00:insane:00</lexsn>
+      <wf>crazy</wf>
+    </token>
+    <token id="d000.na.44" pos="c">
+      <wf>or</wf>
+    </token>
+    <token id="d000.na.45" pos="d">
+      <wf>both</wf>
+    </token>
+    <punc>?</punc>
+    <punc>?</punc>
+    <token id="d000.na.48" pos="c">
+      <wf>But</wf>
+    </token>
+    <token id="d000.na.49" pos="p">
+      <wf>his</wf>
+    </token>
+    <token id="d000.s004.t002" pos="a" lemma="newfound" interp="1">
+      <lexsn>newfound%5:00:00:new:00</lexsn>
+      <wf>new-found</wf>
+    </token>
+    <token id="d000.s004.t003" pos="n" lemma="buddy" interp="1">
+      <lexsn>buddy%1:18:00::</lexsn>
+      <wf>buddy</wf>
+    </token>
+    <token id="d000.na.52" pos="v" lemma="have">
+      <wf>had</wf>
+    </token>
+    <token id="d000.s004.t005" pos="v" lemma="match" interp="1">
+      <lexsn>match%2:42:00::</lexsn>
+      <wf>matched</wf>
+    </token>
+    <token id="d000.na.54" pos="p">
+      <wf>him</wf>
+    </token>
+    <token id="d000.s004.t007" pos="n" lemma="drink" interp="1">
+      <lexsn>drink%1:13:04::</lexsn>
+      <wf>drink</wf>
+    </token>
+    <token id="d000.na.56" pos="i">
+      <wf>for</wf>
+    </token>
+    <token id="d000.s004.t009" pos="n" lemma="drink" interp="1">
+      <lexsn>drink%1:13:04::</lexsn>
+      <wf>drink</wf>
+    </token>
+    <token id="d000.na.58" pos="i">
+      <wf>until</wf>
+    </token>
+    <token id="d000.na.59" pos="p">
+      <wf>he</wf>
+    </token>
+    <token id="d000.s004.t012" pos="v" lemma="lose" interp="1">
+      <lexsn>lose%2:40:02::</lexsn>
+      <wf>lost</wf>
+    </token>
+    <token id="d000.s004.t013" pos="n" lemma="count" interp="1">
+      <lexsn>count%1:23:00::</lexsn>
+      <wf>count</wf>
+    </token>
+    <punc>,</punc>
+    <token id="d000.na.63" pos="c">
+      <wf>and</wf>
+    </token>
+    <token id="d000.na.64" pos="d">
+      <wf>the</wf>
+    </token>
+    <token id="d000.s004.t017" pos="n" lemma="man" interp="1">
+      <lexsn>man%1:18:00::</lexsn>
+      <wf>man</wf>
+    </token>
+    <token id="d000.na.66" pos="p">
+      <wf>'s</wf>
+    </token>
+    <token id="d000.s004.t019" pos="n" lemma="eye" interp="1">
+      <lexsn>eye%1:08:00::</lexsn>
+      <wf>eyes</wf>
+    </token>
+    <token id="d000.s004.t020" pos="v" lemma="be" interp="1">
+      <lexsn>be%2:42:03::</lexsn>
+      <wf>were</wf>
+    </token>
+    <token id="d000.na.69" pos="r" lemma="still">
+      <wf>still</wf>
+    </token>
+    <token id="d000.s004.t022" pos="a" lemma="clear" interp="1">
+      <lexsn>clear%3:00:02::</lexsn>
+      <wf>clear</wf>
+    </token>
+    <punc>.</punc>
+  </s>
+  <s snum="140">
+    <token id="d000.na.2302" pos="n" lemma="Haney">
+      <wf>Haney</wf>
+    </token>
+    <token id="d000.s159.t001" pos="v" lemma="swish" interp="1">
+      <lexsn>swish%2:39:00::</lexsn>
+      <wf>swished</wf>
+    </token>
+    <token id="d000.na.2304" pos="d">
+      <wf>the</wf>
+    </token>
+    <token id="d000.s159.t003" pos="n" lemma="liquor" interp="1">
+      <lexsn>liquor%1:13:00::</lexsn>
+      <wf>liquor</wf>
+    </token>
+    <token id="d000.na.2306" pos="i">
+      <wf>in</wf>
+    </token>
+    <token id="d000.na.2307" pos="d">
+      <wf>the</wf>
+    </token>
+    <token id="d000.s159.t006" pos="n" lemma="bottom" interp="1">
+      <lexsn>bottom%1:15:01::</lexsn>
+      <wf>bottom</wf>
+    </token>
+    <token id="d000.na.2309" pos="i">
+      <wf>of</wf>
+    </token>
+    <token id="d000.na.2310" pos="p">
+      <wf>his</wf>
+    </token>
+    <token id="d000.s159.t009" pos="n" lemma="glass" interp="1">
+      <lexsn>glass%1:06:00::</lexsn>
+      <wf>glass</wf>
+    </token>
+    <punc>.</punc>
+  </s>
+</context>

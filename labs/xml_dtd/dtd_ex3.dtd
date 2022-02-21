@@ -1,0 +1,5 @@
+<!ELEMENT elem_name ...>
+<!ATTLIST elem_name
+		  attr1_name attr1_type attr1_val
+		  ... >
+

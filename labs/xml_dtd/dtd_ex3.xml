@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE context SYSTEM "dtd_ex3.dtd">
+<context filename="d000" source="senseval3">
+  <s snum="159">
+    <token id="d000.na.2302" pos="n" lemma="Haney">
+      <wf>Haney</wf>
+    </token>
+    <token id="d000.s159.t001" pos="v" lemma="swish">
+      <wf>swished</wf>
+    </token>
+    <token id="d000.na.2304" pos="d">
+      <wf>the</wf>
+    </token>
+    <token id="d000.s159.t003" pos="n" lemma="liquor">
+      <wf>liquor</wf>
+    </token>
+    <token id="d000.na.2306" pos="i">
+      <wf>in</wf>
+    </token>
+    <token id="d000.na.2307" pos="d">
+      <wf>the</wf>
+    </token>
+    <token id="d000.s159.t006" pos="n" lemma="bottom">
+      <wf>bottom</wf>
+    </token>
+    <token id="d000.na.2309" pos="i">
+      <wf>of</wf>
+    </token>
+    <token id="d000.na.2310" pos="p">
+      <wf>his</wf>
+    </token>
+    <token id="d000.s159.t009" pos="n" lemma="glass">
+      <wf>glass</wf>
+    </token>
+    <punc>.</punc>
+  </s>
+</context>

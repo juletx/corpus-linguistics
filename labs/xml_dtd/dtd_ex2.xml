@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE context SYSTEM "dtd_ex2.dtd">
+<context>
+  <s>
+    <token>
+      <wf>Haney</wf>
+    </token>
+    <token>
+      <wf>swished</wf>
+    </token>
+    <token>
+      <wf>the</wf>
+    </token>
+    <token>
+      <wf>liquor</wf>
+    </token>
+    <token>
+      <wf>in</wf>
+    </token>
+    <token>
+      <wf>the</wf>
+    </token>
+    <token>
+      <wf>bottom</wf>
+    </token>
+    <token>
+      <wf>of</wf>
+    </token>
+    <token>
+      <wf>his</wf>
+    </token>
+    <token>
+      <wf>glass</wf>
+    </token>
+    <punc>.</punc>
+  </s>
+</context>
