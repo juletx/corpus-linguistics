@@ -1,0 +1,2061 @@
+<?xml version='1.0' ?>
+<!DOCTYPE eh SYSTEM "EH.dtd">
+<eh>
+  <entry>
+    <form><orth>x</orth><pron>ixa</pron></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <def>Euskal alfabetoko hogeita bosgarren letra.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xabal</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1677</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zabala.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xabalina</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <form type="variant"><orth>txabalina</orth><usg type="time">*1746</usg></form>
+    <form type="variant"><orth>xabolina</orth><usg type="time">*1976</usg></form>
+    <def>Lehen arma gisa eta gaur egun atletismo ariketetan erabiltzen den haga edo makila moduko atal luzea, eskuz jaurtikitzen dena.</def>
+    <eg><q>Xabalina jaurti.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xaboi</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1905, 1977</usg>
+    <def>Garbitzeko eta koipea kentzeko erabiltzen den produktua, alkali batek gantz bati eraginez lortzen dena.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>salboin</ref></xr>
+    <eg><q>Xaboi bigunak eta gogorrak.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xabor</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1905, 1908</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zaborra, legarra.</def>
+    <sense n="n1">
+      <GramGrp><pos>izond.</pos></GramGrp>
+      <usg type="time">1894</usg>
+      <usg type="geo">Zub.</usg>
+      <def>Hauskorra.</def>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xafla</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XVII ea.</usg>
+    <sense n="1">
+      <usg type="geo">Ipar.</usg>
+      <usg type="plev">Zah.; G. er.</usg>
+      <def>Herskailua.</def>
+    </sense>
+    <sense n="2">
+      <usg type="time">1859</usg>
+      <def>Gai baten, <hi rend="italic">berezk.</hi> metal baten zati mehea eta laua.</def>
+      <eg><q>Hagak estaliko dituzu urre xaflaz.</q></eg>
+    </sense>
+    <sense n="3">
+      <usg type="time">1930</usg>
+      <usg type="geo">Ipar.</usg>
+      <def>Xerra.</def>
+      <xr type="syn"><lbl>Ik.</lbl><ref>zafla 1</ref></xr>
+      <eg><q>Xingar xafla ederrak.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xagu</orth></form>
+    <note type="HBren_arabera">xagu* e. sagu</note>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1905, 1950</usg>
+    <usg type="geo">Heg.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Sagua.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xahako</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1848</usg>
+    <note type="alderatu"><lbl>cf.</lbl>xahato <hi rend="normal">1859</hi></note>
+    <usg type="geo">Ipar.</usg>
+    <def>Zahatoa.</def>
+    <eg><q>Bi xahako arno eta hamabi sardina. Xahakotik edan. Erori da xahakoa mokoz ipurdi naski odolusturik.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xahal</orth></form>
+    <note type="HBren_arabera">xahal* e. txahal</note>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XVII ea., 1775</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Txahala.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xahar</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1757</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zaharra.</def>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xahatu</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>xahutu</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xahu</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1545</usg>
+    <usg type="geo">Ipar.</usg>
+    <sense n="1">
+      <def>Garbia.</def>
+      <eg><q>Estali zuen gorputz saindu hura mihise xahu batez. Toki xahu bat non bazkariteko jar. Bihotz xahu batekin. Birjina Maria xahuaganik sortua. Arimak xahurik, xuritan jantziak.</q></eg>
+      <sense n="n1">
+        <usg type="ohar_gram.">Adizlagun gisa.</usg>
+        <eg><q>Ene bihotza eta ene gorputza xahu begira itzazu.</q></eg>
+      </sense>
+    </sense>
+    <sense n="2">
+      <usg type="esamolde_azalpen"><hi rend="italic">Xahu naiz, gara</hi> (1894): galdua naiz, galduak gara.</usg>
+      <eg><q>Aditzen bagaituzte, xahu gara.</q></eg>
+      <sense n="n1">
+        <eg><q>Xahu zirela oraingoan, errege etorriko zitzaiela, eta bortizki gaztigatuak izanen zirela.</q></eg>
+      </sense>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xahuarazi, xahuaraz, xahuarazten</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1960</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Xahutzera behartu.</def>
+    <eg><q>Baketze horrek xahuarazi dizkio Frantziari miliarrak milaka!</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xahubide</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1931</usg>
+    <form type="variant"><orth>xahupide</orth><usg type="time">1961</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Xahutzea, gastua.</def>
+    <eg><q>Xahubideak eta irabazpideak.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xahugarri</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">XIX b.</usg>
+    <form type="variant"><orth>xahukarri</orth><usg type="time">1905</usg></form>
+    <def>Xahutzen (adiera guztietan) duena.</def>
+    <eg><q>Seme bat zuen, eta hura etxearen xahugarri.</q></eg>
+    <sense n="n1">
+      <GramGrp><pos>iz.</pos></GramGrp>
+      <usg type="time">1905</usg>
+      <def>Garbigailua.</def>
+      <eg><q>Labea garbi ezazu xahugarriarekin.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xahuki</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <note type="alderatu"><lbl>cf.</lbl>xauro <hi rend="normal">1609</hi></note>
+    <usg type="geo">Ipar.</usg>
+    <def>Garbiki, xahutasunez.</def>
+    <eg><q>Xahuki erran dizut eta ez dut bilatu estalkirik.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xahupen</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1859</usg>
+    <sense n="1">
+      <usg type="geo">Ipar.</usg>
+      <def>Xahutzea, garbitzea.</def>
+    </sense>
+    <sense n="2">
+      <usg type="geo">Ipar.</usg>
+      <def>Xahutzea, hondamendia.</def>
+    </sense>
+    <sense n="3">
+      <usg type="time">1957</usg>
+      <def>Xahutzea, gastua, xahubidea.</def>
+      <eg><q>Irabaziak eta xahupenak.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xahutasun</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1630</usg>
+    <def>Garbitasuna, xahua denaren nolakotasuna.</def>
+    <eg><q>Gelaren xahutasuna. <usg type="esr_zah.">Emaztearen edertasuna, xahutasuna.</usg></q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xahutu, xahu <hi rend="normal">edo</hi> xahutu, xahutzen</orth></form>
+    <GramGrp><subc>da-du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1545</usg>
+    <sense n="1">
+      <usg type="geo">Ipar. edo Goi.</usg>
+      <def>Garbitu.</def>
+      <eg><q>Eskuak xahutu. Xahu ezazu ene lizuntasuna. Nota guztietarik xahutua.</q></eg>
+    </sense>
+    <sense n="2">
+      <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+      <usg type="geo">Batez ere Ipar.</usg>
+      <def>Ondasunez eta mintzatuz, ahitu.</def>
+      <xr type="syn"><lbl>Ik.</lbl><ref>1 eralgi; gastatu 1</ref></xr>
+      <eg><q>Irabazi guztiak edaritan xahutu. Gisu labe ttipiak xahutzen du arauka handiak baino errekin gehiago. Deus ez dakienak zerbait dakienari eta, zerbait hura ikasteko, anitz urte edo diru xahutu duenari bizibidea kentzea, ez da hori ohointza? Bidez bide diru xahutzen eta denbora galtzen ibili.</q></eg>
+      <sense n="n1">
+        <usg type="geo">Ipar.</usg>
+        <def>Hondatu; suntsitu.</def>
+        <eg><q>Gerlateetan xahutu da arbola franko. Goseak zituen xahutuak, bi hilabetez, Alemania barnean. Aspaldian barneko min batek xahutzen ari zuen Inazio. Izurrite izugarri batek jendeak xahutzen zituen. Lurraren gainetik xahutuko dut egin izan dudan gizona. Bazterrak xahutu eta xehatu zituzten.</q></eg>
+      </sense>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xahutzaile</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1858</usg>
+    <def>Xahutzen duena.</def>
+    <eg><q>Non da artzaina baino xahutzaile gaiztoagorik?: beroaldi bat hartzeko tantai gazterik ederrena ondotik eramanen du.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xahutze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xahutu</hi> ad.-aren aditz izena.</usg>
+    <sense n="n1">
+      <GramGrp><pos>iz.</pos></GramGrp>
+      <usg type="time">1906</usg>
+      <eg><q>Diru xahutze handiak. Lurreko erregeek odol isurtze eta herri xahutzetan dituzte handitasunak.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xai</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1857</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Sotoa, upategia.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xake</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1965, 1977</usg>
+    <def>Hamaseina irudi zuri edo beltz dituzten bi jokalariren arteko jokoa, hirurogeita lau laukitxo zuri-beltzeko taula batean, jokalari bakoitzak bere irudiak mugituz eta aurkariarenak harrapatzen saiatuz jokatzen dena.</def>
+    <eg><q>Xake jokoan jokatu.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xaki</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1905, 1930</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Marka, seinalea.</def>
+    <eg><q>Artaldeari xakia ezartzen.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xakolin</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txakolin</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xakur</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1643</usg>
+    <usg type="geo">Ipar. (Zub. izan ezik).</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zakurra.</def>
+    <note type="izendapen_zientifikoa">Canis familiaris</note>
+  </entry>
+
+  <entry>
+    <hom n="1">
+      <form><orth>xalant</orth></form>
+      <GramGrp><pos>iz.</pos></GramGrp>
+      <usg type="time">1853</usg>
+      <usg type="geo">Ipar.</usg>
+      <def>Txanela.</def>
+      <eg><q>Zaldizkoak eta tresnak xalantez eramanen dira, doazelarik igerika zaldiak. Eramaten zuela xalanta jendez eta gauzaz kargaturik Ustaritzetik Baionara.</q></eg>
+    </hom>
+  </entry>
+
+  <entry>
+    <hom n="2">
+      <form><orth>xalant</orth></form>
+      <GramGrp><pos>iz.</pos></GramGrp>
+      <usg type="time">XVIII</usg>
+      <def>Galaia.</def>
+    </hom>
+  </entry>
+
+  <entry>
+    <form><orth>xalantzain</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1905</usg>
+    <form type="variant"><orth>xalanta-xain</orth><usg type="time">1925</usg></form>
+    <def>Xalanta daraman pertsona, xalant patroia.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xalantzaingo</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1905</usg>
+    <note type="alderatu"><lbl>cf.</lbl>xalantiergo <hi rend="normal">1877</hi></note>
+    <def>Xalantzainaren lanbidea.</def>
+    <eg><q>Xalantzaingoan ibili.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xalo</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">*1905, 1930</usg>
+    <sense n="1">
+      <def>Tolesgabea, la&#241;oa.</def>
+      <eg><q>Usoak bezain xalo. Aitortze xalo hori ederrago baita nik jakin nahi nukeena baino. Ipuin xaloa.</q></eg>
+    </sense>
+    <sense n="2">
+      <def>Jendearekiko harremanetan gozoa, atsegina, maitagarria dena.</def>
+      <xr type="syn"><lbl>Ik.</lbl><ref>2 apatz</ref></xr>
+      <eg><q>Neskatila xaloa.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xaloki</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">1930</usg>
+    <def>Xalotasunez.</def>
+    <eg><q>Xaloki esan zigun: aupa lagunak!</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xalotasun</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1932</usg>
+    <sense n="1">
+      <def>Tolesgabetasuna.</def>
+      <eg><q>Zerura nahi badugu, haurren idurikoak izan behar dugu apaltasunean, xalotasunean.</q></eg>
+    </sense>
+    <sense n="2">
+      <def>Xaloa edo atsegina denaren nolakotasuna.</def>
+      <eg><q>Neskatilaren xalotasuna.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xalupa</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txalupa</ref></xr>
+  </entry>
+
+  <entry>
+    <hom n="1">
+      <form><orth>xamar</orth></form>
+      <GramGrp><pos>iz.</pos></GramGrp>
+      <usg type="time">1853</usg>
+      <usg type="geo">Ipar.</usg>
+      <def>Gizonezkoen soineko luze mahukaduna, atorraren gainean jartzen dena.</def>
+      <xr type="form"><lbl>Ik.</lbl><ref>blusa</ref></xr>
+      <eg><q>Gizon gaixoek atorra dute gerrian xamar petik ageri. Atorra xuri, gerriko gorri gainetik xamarra, lerden eta bipilik beti garaztarra. Ile xuri luzeak; xamarra brida gorriekin.</q></eg>
+    </hom>
+  </entry>
+
+  <entry>
+    <hom n="2">
+      <form><orth>xamar</orth></form>
+      <GramGrp><pos>adlag.</pos></GramGrp>
+      <usg type="time">1842</usg>
+      <usg type="style">Adkor.</usg>
+      <def>Samarra.</def>
+      <eg><q>Arlote xamarra zen.</q></eg>
+    </hom>
+  </entry>
+
+  <entry>
+    <form><orth>xamardun</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1909</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Xamarra janzten duena; baserritarra.</def>
+    <eg><q>Gure euskaldun begientzat ez da halako festarik, nola hiriko karriketan bonetun, xamardun zenbait ikustea; beti bere haiek bakoitzari eder.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xamur</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">~1860</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Samurra.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xanbelan</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="lang">erd.</usg>
+    <def>Ganberazaina.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xanfarin</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1858</usg>
+    <form type="variant"><orth>xangarin</orth><usg type="time">1926</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Buruarina, eroxka, ganoragabea.</def>
+    <eg><q>Neska ergel, xanfarin batekin. Euskaldun kanore txikiena gabeko aire xanfarin batzuk.</q></eg>
+  </entry>
+
+  <entry>
+    <hom n="1">
+      <form><orth>xango</orth></form>
+      <GramGrp><pos>iz.</pos></GramGrp>
+      <usg type="time">~1880</usg>
+      <usg type="geo">Batez ere Ipar.</usg>
+      <def>Kartetan, erregearen eta zaldunaren frantses kartetan anderearen ondoko karta, mutil edo morroi baten irudia duena.</def>
+      <xr type="syn"><lbl>Ik.</lbl><ref>2 txota</ref></xr>
+      <eg><q>Errege, xango, bateko, bateko heldu zaizkio. Xango, andere, errege.</q></eg>
+    </hom>
+  </entry>
+
+  <entry>
+    <hom n="2">
+      <form><orth>xango</orth></form>
+      <GramGrp><pos>iz.</pos></GramGrp>
+      <usg type="time">1677</usg>
+      <usg type="geo">Ipar.</usg>
+      <usg type="style">Adkor.</usg>
+      <def>Zangoa.</def>
+    </hom>
+  </entry>
+
+  <entry>
+    <form><orth>xangre</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1924</usg>
+    <form type="variant"><orth>xankre</orth><usg type="time">*XIX ea.</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Minbizia.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xangrin</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1852</usg>
+    <form type="variant"><orth>xagrin</orth><usg type="time">1750</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Bihozmina, atsekabea.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xanpaina</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1953, 1977</usg>
+    <form type="variant"><orth>xanpa&#241;a</orth><usg type="time">1977</usg></form>
+    <form type="variant"><orth>xanpa&#241;</orth><usg type="time">1950</usg></form>
+    <form type="variant"><orth>txanpain</orth><usg type="time">1977</usg></form>
+    <form type="variant"><orth>txanpa&#241;</orth><usg type="time">1912</usg></form>
+    <def>Jatorriz Frantziako Champagnekoa den ardo zuri aparduna.</def>
+    <eg><q>Xanpaina botila bat hutsa.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xanpu</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1977</usg>
+    <usg type="lang">nart.</usg>
+    <def>Ilea garbitzeko erabiltzen den xaboi isurkari berezia.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xantre</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1852</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Eliz kantaria.</def>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xapel</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txapel</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xapelet</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1664</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">Zah.</usg>
+    <def>Arrosarioa, kondera.</def>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xar</orth></form>
+    <note type="HBren_arabera">xar* e. txar</note>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1630</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Oso balio, gorabehera, nolakotasun edo prestutasun gutxikoa; txarra.</def>
+    <eg><q>Lastozko etxola xar batean. Solas bat xarra eta behar ez den bezalakoa. Hoberenak lehenbizikoan kokatzen dira, lerroan, xarrenak azkenean.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xara</orth></form>
+    <note type="HBren_arabera">xara* e. txara</note>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1858</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Txara.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xaramela</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XIX b., 1924</usg>
+    <usg type="geo">Ipar.</usg>
+    <sense n="1">
+      <def>Txirula bakuna, txilibitua.</def>
+    </sense>
+    <sense n="2">
+      <def>Kantua, doinua.</def>
+      <eg><q>Badut zenbait xaramela aterarik ene ardien inguruan. Eta hitz beraren xaramela bakoitzak zerbait berezi erran nahi! Jaun errienta ez da gehiago xaramelan ari herriko elizan.</q></eg>
+    </sense>
+    <sense n="3">
+      <def>Kantuaren apaindura, silaba bakar baten gainean laster eta arin abesten den nota saila.</def>
+      <eg><q>Egun hartan Haritxabaletek uzten zituen xaramelak eta ezartzen zuen bere boz nasaia.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xaramelatu, xaramela <hi rend="normal">edo</hi> xaramelatu, xaramelatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1920</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Abestu, kantatu.</def>
+    <sense n="n1">
+      <def>Xaramelak eginez abestu.</def>
+      <eg><q>Nire alaba Mariak erresinolak bezala xaramelatzen du goizetik arrats.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xaramelatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xaramelatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xarbo</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XVII ea., 1853</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zarboa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xardina</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1853</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Sardina.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xaribari</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1957</usg>
+    <usg type="geo">Ipar.</usg>
+    <sense n="1">
+      <def>Zalaparta, zarata.</def>
+      <eg><q>Deabruen xaribaria.</q></eg>
+    </sense>
+    <sense n="2">
+      <def>Asto-lasterrak, tobera-mustra.</def>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xarlango</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1888</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Erbi zakurra.</def>
+    <eg><q>Artzain zakur eta zakur xarlango guztiek. Bazuela xarlangoaren itxuraz besterik.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xarma</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1686</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Erakartzen, atsegina sortzen duen zeraren nolakotasuna.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>lilura</ref></xr>
+    <eg><q>Munduko xarma emeak higuinarazteko. Harentzat xarma gutxi baitzuen Inazioren bizimodu garratzak.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xarmadura</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1692</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Aztikeria.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>xirmi-xarma</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xarmagarri</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1720</usg>
+    <form type="variant"><orth>xarmegarri</orth><usg type="time">~1840</usg></form>
+    <form type="variant"><orth>xarmangarri</orth><usg type="time">~1840</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Xarma sortzen duena.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>xarmant; liluragarri; xoragarri</ref></xr>
+    <eg><q>Arrabita baten soinu xarmagarria. Lausengu xarmagarriei belarria tapatzea.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xarmant</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1686</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Xarmagarria.</def>
+    <eg><q>Andre gazte xarmanta.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xarmatu, xarma edo xarmatu, xarmatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1666</usg>
+    <usg type="geo">Ipar.</usg>
+    <sense n="1">
+      <def>Sorgindu, sorginkeriaz menderatu.</def>
+      <eg><q>Ezkila xarmatua.</q></eg>
+    </sense>
+    <sense n="2">
+      <def>Norbaiten edo zerbaiten xarmak erakarri edo menderatu.</def>
+      <xr type="syn"><lbl>Ik.</lbl><ref>liluratu; limurtu 2; xoratu</ref></xr>
+      <eg><q>Gure arimak xarmatzeko eta galtzeko gorputzak. Eztitasunez betea da eta, guztiak ditu xarmatzen. Zuk, Jauna, zuk xarmatzen nauzu Zeruko xarma puxantez. Nire bi begiak dauzka xarmatuak ikusiaren itxurak.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xarmatzaile</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1686</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Xarmatzen duena.</def>
+    <eg><q>Urreak eta diamanteak, begien xarmatzaileak.</q></eg>
+    <sense n="n1">
+      <usg type="time">1775</usg>
+      <def>Aztia.</def>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xarmatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xarmatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xarpa</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Ehunezko zerrenda zabala, eskuineko besaburutik ezkerreko aldakara pasatzen dena, edo gerrian lotzen dena, ezaugarri gisa erabiltzen dena.</def>
+    <eg><q>Jaun meraren xarpa.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xarxeta</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1953</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Zertzeta, zerzela.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xatar</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1664</usg>
+    <def>Haur oihala.</def>
+    <eg><q>Haur txikitxo bat saski batean xatar tartian jarria.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xaxari</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">~1890</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Pilota partidetan tantoak kontatzen dituena.</def>
+    <sense n="n1">
+      <eg><q>Azken oren arte, Guy Mollet ministroaren xaxariak oihu egin ahalko zuen: "Jaun-andereak parioak libro!"</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xaxatu, xaxa, xaxatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1933</usg>
+    <usg type="geo">Heg.</usg>
+    <def>Zirikatu.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>haizatu 5</ref></xr>
+    <eg><q>Zakurra xaxatu.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xaxatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xaxatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xedarratu, xedarra, xedarratzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">*XIX b., 1957</usg>
+    <form type="variant"><orth>xederratu</orth><usg type="time">1858</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Inausi, murriztu.</def>
+    <eg><q>Arbola fruitudunak xedarratzen. Bide-bazterrak xedarratu eta garbitu.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xedarratze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xedarratu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xedarri</orth></form>
+    <note type="HBren_arabera">xedarri* e. zedarri</note>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1712</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Mugarria.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xedatu, xeda, xedatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <usg type="geo">Ipar.</usg>
+    <sense n="1">
+      <def>Mugatu.</def>
+    </sense>
+    <sense n="2">
+      <usg type="time">*XVII ea., ~1660</usg>
+      <def>Zuzendu; helburutzat izan.</def>
+      <eg><q>Guztien gaineko zuhurtzia da zeruko erresumara gogoz eta obraz xedatzea. Ea haren baitan diren ontasunak xedatzen diren umiltasunera. Etekinak ekoiztera xedaturiko edozein ondasun.</q></eg>
+      <sense n="n1">
+        <def>Izendatu, bereizi.</def>
+        <eg><q>Bakoitzari bere eginbeharra xedatu zion. Bere proba hasiko duen eguna xedatzeko.</q></eg>
+      </sense>
+    </sense>
+    <sense n="3">
+      <usg type="time">1898</usg>
+      <def>Horretarako esku duenak zerbait egin behar den ala ez, edo nola egin behar den adierazi.</def>
+      <eg><q>Jauna jarraituko natzaizu, baina lehenik utz nazazu xeda edo mana dezadan etxean ditudan gauzez. Gizonak asma, Jainkoak xeda.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xedatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xedatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xede</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <sense n="1">
+      <usg type="geo">Ipar. edo Goi.</usg>
+      <def>Helburua.</def>
+      <eg><q>Orain, xedera, bizitzaren bazterrera eta adinaren finera hurbildu naizenean. Xedera heldu. Kritika horrek bi xede ditu: hizkuntza eta ideiak. Gure gutizien jomuga eta xedea. Nik izan behar dut zure xede azkena.</q></eg>
+    </sense>
+    <sense n="2">
+      <usg type="geo">Ipar.</usg>
+      <def>Asmoa, egitasmoa.</def>
+      <eg><q>Xede onez beteak direla. Dabidek gordetzen zuela zenbait xede gaizto adiskidetasunaren itzalean. Eta hartu zuten Jesus hilarazteko xede izugarria. Xede berri hauek ongi begiratzeko indazu otoi grazia. Hiria Espainiari kentzeko xedetan. Sainduki bizitzeko xede zina.</q></eg>
+    </sense>
+    <sense n="3">
+      <usg type="plev">G. er.</usg>
+      <def>Marra, muga.</def>
+    </sense>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xedeba</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>xedera</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xedera</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1785</usg>
+    <usg type="geo">Ipar. edo Goi.</usg>
+    <def>Lakioa, segada, artea.</def>
+    <eg><q>Eulia hartzen da argian, txoria xederan. Nik eramanen zaitut xedera laxaturik, ohiko bortutik, ororen gainetik.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xehakarazi, xehakaraz, xehakarazten</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1890</usg>
+    <form type="variant"><orth>xehekerazi</orth><usg type="time">1895</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Xehakatzera behartu, xeharazi.</def>
+    <eg><q>Abiarazi zuen saindua karrikaz karrika, xehakaraziz, azote eta makila ukaldika, karrikak gurutzatzen ziren toki guztietan.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xehakatu, xehaka, xehakatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1712</usg>
+    <form type="variant"><orth>xehekatu</orth><usg type="time">1571</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Xehatu, suntsitu.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>funditu</ref></xr>
+    <eg><q>Zernahi tresna dorpez joka xehakatu dute, pusketan ezarri Seminarioko borta handia. Dabiden armadak xehakatu zuen Absalonena.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xehakatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xehakatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xehakor</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1993</usg>
+    <form type="variant"><orth>xeekor</orth><usg type="time">*1981</usg></form>
+    <def>Erraz xehatzen dena, xehatzeko joera duena.</def>
+    <eg><q>Gatza xehakorra da.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xeharazi, xeharaz, xeharazten</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1777</usg>
+    <def>Xehatzera behartu.</def>
+    <eg><q>Gure Gernika, eta geroztik beste zenbait Gernika, xehatu eta xeharazi dituztenei.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xehatu, xeha, xehatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <usg type="geo">Ipar.</usg>
+    <sense n="1">
+      <def>Puska xehetan zatitu, desegin, birrindu.</def>
+      <xr type="syn"><lbl>Ik.</lbl><ref>xehakatu; zehatu 2; apurtu 2; porrokatu 1</ref></xr>
+      <eg><q>Azukrearen iduriko harri-koskor xuri bat eman zion, eta ahoan xehatu nahiz, hortzak kraskatu zitzaizkion. Malba hosto pixka bat xehatzea eta olio gutti batekin liga bezala egitea. Lasto xehatzekoa bezalako tresna batez. Harrika xehatu zituzten berinak. Hezurrak xehatu arren laster dira osatzen. Bekatuz gogortu den bihotza, damuaz xehatzen baita. Jainkoaren hitzaren ogia gelditzen da euskaldunentzat, xehatu gabez probetxurik gabea. Bazterrak xahutu eta xehatu zituzten.</q></eg>
+    </sense>
+    <sense n="2">
+      <def>Xehetasunez azaldu; azaldu.</def>
+      <eg><q>Tauletara iganik hasi zaigu xehatu nahiz zertaz den aldi honetan bertsolarien gudua. Geroxeago xehatuko dizkizut hilabetean hilabeteko lanak. Xeha ezazu landako irakaren parabola. Hiri bortitz hura, Alberto Handiak xehatzen duen bezala, da Birjina.</q></eg>
+      <sense n="n1">
+        <eg><q>Hitzak ongi xehatuz ihardetsi zion.</q></eg>
+      </sense>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xehatzaile</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1854</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Xehatzen, azaltzen duena.</def>
+    <eg><q>Liburu Sakratuen xehatzaile eta argitzaile jakintsu batek.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xehatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xehatu</hi> ad.-aren aditz izena.</usg>
+    <sense n="n1">
+      <GramGrp><pos>iz.</pos></GramGrp>
+      <usg type="time">1840</usg>
+      <eg><q>Ematen du xehatze bat gure solasera doana.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xehe</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <form type="variant"><orth>txe</orth><usg type="time">1656</usg></form>
+    <sense n="1">
+      <usg type="geo">Ipar. edo Goi.</usg>
+      <def>Tamaina, pisu, gorabehera, garrantzi txikikoa.</def>
+      <xr type="ant"><lbl>Ant.</lbl><ref>larri</ref></xr>
+      <eg><q>Harri xeheak. Jesusek argituko du beste guztien artean, ilargi beteak nola izar xeheen gainean. Handi eta xehe, orotarik han bazen; gazteriak zeukan apezpikua inguraturik, zer gerta ere. Azienda xehea. Arrautzetatik ateratzen dira har xehe-xehe batzuk. Lurra legartsu, asko tokitan irina bezain xehe. Huts xeheak. Arlo baten saihets xeheenak alderen alde aztertu ohi zituen.</q></eg>
+      <eg><q>Ilar xehea.</q><xr type="form"><lbl>Ik.</lbl><ref>ilar</ref></xr></eg>
+      <eg><q>Diru xehea.</q><xr type="form"><lbl>Ik.</lbl><ref>diru</ref></xr></eg>
+      <sense n="n1">
+        <usg type="esamolde_azalpen"><hi rend="italic">Xehea</hi> (iz.; Ipar.): diru xehea.</usg>
+        <eg><q>Piarresek eman zion etxeko andreari hamar soseko xuri bat, eta andre horrek bihurtu zioenan xehea...</q></eg>
+      </sense>
+      <sense n="n2">
+        <def>Pertsonez mintzatuz, laua, xaloa dena.</def>
+        <eg><q>La&#241;oa zelako eta xehea ezin gehiago, maite zuten orok.</q></eg>
+      </sense>
+      <sense n="n3">
+        <usg type="esamolde_azalpen"><hi rend="italic">Herri, jende xehea</hi>: goi mailakoa edo landua ez den herriaren alderdi edo zatia.</usg> 
+        <eg><q>Herri xehea, nekazariak eta, ez ziren abertzaleak. Herri xeheari azken hitza eman nahi diotenak. Urrikariago du jende xehea botere dutenak baino.</q></eg>
+      </sense>
+      <sense n="n4">
+        <usg type="ohar_gram.">Adizlagun gisa.</usg>
+        <eg><q>Ohore daukat xehe eta apal agertzea mundu guziaren begietan.</q></eg>
+      </sense>
+    </sense>
+    <sense n="2">
+      <def>Xehetasunez egina edo emana.</def>
+      <xr type="syn"><lbl>Ik.</lbl><ref>zehatz</ref></xr>
+      <eg><q>Erregela xehea. Azalpen aberatsa eta xehea, ehunka gertaera banan-banan erakusten dizkiguna, noiz, non, nola eta noren artean gertatu ziren zehatz aditzera ematen diguna.</q></eg>
+      <sense n="n1">
+        <usg type="ohar_gram.">Adizlagun gisa.</usg>
+        <eg><q>Kontuak xehe egin. Bizitzean egin 'tuen hutsak ditu kontatzen, xehe-xehe daramatza bat ez zaio ahanzten. Xehe so eginez.</q></eg>
+      </sense>
+      <sense n="n2">
+        <usg type="esamolde_azalpen"><hi rend="italic">Xehe-xehea</hi> (Ipar.): xehetasun handiz.</usg>
+        <eg><q>Erran zion xehe-xehea zer behar zuen egin halako orduetan.</q></eg>
+      </sense>
+    </sense>
+    <sense n="3">
+      <usg type="esamolde_azalpen"><hi rend="italic">Letra xehea</hi>: eskuarki erabiltzen den tamaina eta formakoa, larria ez dena.</usg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xeheka</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">*XIX ea.</usg>
+    <usg type="geo">Zub.</usg>
+    <def>Kopuru txikietan.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>xehera</ref></xr>
+    <eg><q>Xeheka saldu.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xehekatu</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>xehakatu</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xehekeria</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XIXb., ~1930</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Funts edo gorabeherarik gabeko xehetasuna, huskeria, txikikeria.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xeheki</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <sense n="1">
+      <usg type="geo">Ipar.</usg>
+      <def>Puska xehetan.</def>
+      <eg><q>Hauts itzazu hezurrak eta xeha xeheki.</q></eg>
+    </sense>
+    <sense n="2">
+      <usg type="geo">Ipar. edo Goi.</usg>
+      <def>Xehetasunez.</def>
+      <eg><q>Jo hara, jo hona, miatuko zituzten xeheki oihanak. Xeheki adierazia. Mintzo da xeheki gauza ezdeusez.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xehera</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">xehiala 1908</usg>
+    <usg type="geo">Zub.</usg>
+    <def>Kopuru txikietan.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>xeheka</ref></xr>
+    <eg><q>Xehera saldu.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xeheria</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1715</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Gauza xeheen multzoa.</def>
+    <sense n="n1">
+      <def>Ume taldea.</def>
+      <eg><q>Jausten gara, besoez baztertuz xeheria ausarta.</q></eg>
+    </sense>
+    <sense n="n2">
+      <eg><q>Atean jo bezain sarri, han zuten nagusia, haur xehekeria bat ondotik.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xehero</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">Zah.</usg>
+    <def>Xeheki.</def>
+    <eg><q>Xehero kontatu.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xeheroki</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">~1660</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Xehero, xeheki.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xehetasun</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1777</usg>
+    <form type="variant"><orth>zeetasun</orth><usg type="time">1800</usg></form>
+    <def>Zerbaiten berri jakiten laguntzen duten alde xeheetako bakoitza.</def>
+    <eg><q>Erabateko erantzun garbirik ez dago; zenbait xehetasun halaz ere, argi daudelakoan nago. Xehetasunetan sartuz gero. Xehetasun handietan sartu gabe. Gehiagoko xehetasunetan sartu gabe. Bekatuen xehetasunak behar dira erran? Xehetasunak galdetu. Laborantzari dihoazkion zenbait xehetasun. Ezin xehetasun guztiak gogoan eduki. Haren bizitzari buruzko zenbait xehetasun. Mila esker xehetasun balios hauek eman dizkigun Lafitte jaunari. Xehetasun guztiak Erromara igorri zituen. Behar den xehetasun guztiarekin konfesatu.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xehetu</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>xehatu</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xeila</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1910</usg>
+    <form type="variant"><orth>xehela</orth><usg type="time">1890</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Gereta.</def>
+    <eg><q>Xeila baten barneko aldean.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xelebre</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1950</usg>
+    <usg type="geo">Heg.</usg>
+    <usg type="reg">Beh.</usg>
+    <def>Bitxia.</def>
+    <eg><q>Berebizikoa zen izan ere, Chueca, paregabea; gizon xelebrea beste aldetik. Gauza xelebrea gertatu zitzaion. Badu gure jendeak halako umore xelebre bat.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xelebrekeria</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1950</usg>
+    <usg type="geo">Heg.</usg>
+    <usg type="reg">Beh.</usg>
+    <def>Bitxikeria.</def>
+    <eg><q>Xelebrekeria xelebrea gertatu zait.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xendra</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XIX b., ~1925</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Bidezidorra, bide-xendra.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xenofobia</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1977</usg>
+    <usg type="lang">erd.</usg>
+    <def>Atzerritarren eta atzerriko gauzen kontrako joera, gorrotoa nahiz beldurra.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xenoi</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <form type="variant"><orth>xenon</orth><usg type="time">*1977, 1980</usg></form>
+    <usg type="dom">Kim.</usg>
+    <usg type="lang">nart.</usg>
+    <def>Gai bakuna, airean oso proportzio txikietan dagoen gas geldoa (<hi rend="italic">Xe</hi>; at. z. 54; at. m. 131).</def>
+  </entry>
+
+  <entry>
+    <form><orth>xentimo</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1886</usg>
+    <usg type="geo">Heg.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zentimoa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xerka</orth></form>
+    <GramGrp><pos>adlag.</pos></GramGrp>
+    <usg type="time">1784</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Bila.</def>
+    <eg><q>Gure xerka dabil.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xerkatu, xerka, xerkatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">*XVII ea., 1666</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Bilatu.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xerlo</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1635</usg>
+    <form type="variant"><orth>xirlo</orth><usg type="time">1664</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Besteetatik bereizten den ile multzoa.</def>
+    <eg><q>Juduek bizarra buruko xerloekin batean atera zizkizutenean.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xerografia</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1992</usg>
+    <usg type="lang">nart.</usg>
+    <def>Agiri, testu, irudi eta abarren kopia egiteko prozedura.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xerra</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1838</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zerra, zati mehea.</def>
+    <eg><q>Haragi xerra bana. Hiru xerra ogi txigortu.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xerraka</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">1894</usg>
+    <def>Xerrak eginez.</def>
+    <eg><q>Xerraka-xerraka pikatu, ebaki.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xerrenda</orth></form>
+    <note type="HBren_arabera">xerrenda* e. zerrenda</note>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1712</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zerrenda.</def>
+    <eg><q>Larru zerrenda batzuetan idatzia.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xerri</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">~1800</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zerria.</def>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xerto</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txerto</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xextra</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1957</usg>
+    <def>Eztabaida, kalapita.</def>
+    <eg><q>Gure artean hainbeste xextra eta eztabaida izan ez bagenitu.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xidor</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <usg type="style">Adkor.</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Zidorra, bidezidorra.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xifritu, xifri, xifritzen</orth></form>
+    <GramGrp><subc>da-du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1904</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Kezkatu, larritu, bere onetik atera.</def>
+    <eg><q>Buruaren gaineko nire argiak mihiseari su eman beldurrez, xifritua nengoen.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xifritze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xifritu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xigortu</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txigortu</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xikiro</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1664</usg>
+    <note type="alderatu"><lbl>cf.</lbl>xikiratu <hi rend="normal">1571</hi></note>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zikiroa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xilintxa</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <form type="variant"><orth>txilintxa</orth><usg type="time">*1745, 1930</usg></form>
+    <usg type="geo">Batez ere Ipar.</usg>
+    <def>Txintxarria, txilina.</def>
+    <eg><q>Xilintxa hotsa. Xilintxa aditzean.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xilko</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>zilko</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xilofono</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1977</usg>
+    <form type="variant"><orth>xilofonu</orth><usg type="time">*1965</usg></form>
+    <usg type="lang">nart.</usg>
+    <def>Musika tresna, bi mailukaz jotzen diren eta luzera ezberdina duten zurezko edo metalezko xaflaz osatua.</def>
+    <eg><q>Xilofono-jotzailea.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xilografia</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1977</usg>
+    <usg type="lang">nart.</usg>
+    <def>Zurean grabatzeko antzea.</def>
+  </entry>
+
+  <entry>
+    <form><orth>ximel</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">*XIX b., 1930</usg>
+    <form type="variant"><orth>ximal</orth><usg type="time">1571</usg></form>
+    <usg type="style">Adkor.</usg>
+    <def>Zimela.</def>
+  </entry>
+
+  <entry>
+    <form><orth>ximiko</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <usg type="geo">Batez ere Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zimikoa.</def>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>ximinia</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>tximinia</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>ximino</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1643</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Ziminoa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>ximinokeria</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1852</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Ziminokeria.</def>
+  </entry>
+
+  <entry>
+    <form><orth>ximista</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1784</usg>
+    <form type="variant"><orth>ximixta</orth><usg type="time">1636</usg></form>
+    <form type="variant"><orth>ximizta</orth><usg type="time">1853</usg></form>
+    <form type="variant"><orth>xixmixta</orth><usg type="time">1627</usg></form>
+    <form type="variant"><orth>xizmista</orth><usg type="time">1686</usg></form>
+    <form type="variant"><orth>xizmizta</orth><usg type="time">1686</usg></form>
+    <form type="variant"><orth>xismist</orth><usg type="time">1571</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Tximista.</def>
+    <eg><q>Denbora iragaten da ximista bat bezala.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>ximur</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1858</usg>
+    <note type="alderatu"><lbl>cf.</lbl>ximurtu <hi rend="normal">~1820</hi></note>
+    <usg type="style">Adkor.</usg>
+    <def>Zimurra.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xinaurri</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1643</usg>
+    <usg type="geo">Ipar. (Zub. izan ezik).</usg>
+    <def>Txindurria, talde handietan bizi den intsektu txikia.</def>
+    <note type="izendapen_zientifikoa">Formicidae fam.</note>
+    <xr type="syn"><lbl>Ik.</lbl><ref>inurri</ref></xr>
+    <eg><q>Hegaldunak dantzari, xinaurriak lanean, lerro-lerro xendrari bero gogorrenean.</q></eg>
+    <sense n="n1">
+      <eg><q>Xinaurri xuria.</q><xr type="syn"><lbl>Ik.</lbl><ref>termite</ref></xr></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xinaurritegi</orth></form>
+    <note type="HBren_arabera">xinaurritegi* e. inurritegi</note>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1970</usg>
+    <form type="variant"><orth>xinurritegi</orth><usg type="time">1955</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Txindurritegia, inurrien bizilekua.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xingar</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XVII ea., 1852</usg>
+    <form type="variant"><orth>zingar</orth><usg type="time">*1746, 1852</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Zerri haragia; <hi rend="italic">berezk.,</hi> urdaia.</def>
+    <eg><q>Xingar azalak. Ez du mehe egunean sartuko, ustekabean, xingar hezurrik eltzean.</q></eg>
+    <usg type="esamolde_azalpen"><hi rend="italic">Xingar azpia</hi>: urdaiazpikoa.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xingarki</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1898</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Zerri haragi ondua.</def>
+    <eg><q>Salda gizena eta xingarkia.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xingola</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XVII ea., 1664</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Oihal edo ehunezko zerrenda luze eta mehea.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>zinta 1</ref></xr>
+    <eg><q>Zetazko xingola. Atorra bat, gainetik dena xingola, urre eta girgileriaz apaindurik. Errienta, bere paperak eskuan, antzoki zolan izanen da, beltzez bezti, xingola bat seinale, eginkizunen kudeatzeko. Adats horail dizdizaria, xingola batek lepondoan batua. Xingola darie makila multzoei. Bidea eta ibaia, bi xingola mehar irudikoak.</q></eg>
+    <sense n="n1">
+      <usg type="ohar_sem.">Ohore gisa ezarria.</usg>
+      <eg><q>Ohorezko medaila eta gurutze, xingola eder eta holako sari horietarik. Kargudun xingoladuna. Gerriko xingola urdina.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xingoma</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1992</usg>
+    <def>Gomaren antzeko gaia, azukre eta aromaduna, mastekatzen dena, mastekatzeko goma.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xinple</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1720</usg>
+    <usg type="geo">Batez ere Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Sinplea, bakuna.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xintximari</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1924</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Izaina.</def>
+    <note type="izendapen_zientifikoa">Hirudo medicinalis</note>
+    <sense n="n1">
+      <GramGrp><number>Pl.</number></GramGrp>
+      <usg type="reg">Beh.</usg>
+      <def>Larrialdiak, nahigabeak.</def>
+      <eg><q>Xintximariak ikusi, pairatu.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xinurri</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>xinaurri</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xipi</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">Zah.</usg>
+    <def>Ttipia, txikia.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xiri</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1858</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Ziria.</def>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xirikorda</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txirikorda</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xirimola</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1750</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zirimola.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xiringa</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1905, 1958</usg>
+    <form type="variant"><orth>siringa</orth><usg type="time">*1745</usg></form>
+    <form type="variant"><orth>ziringa</orth><usg type="time">*1745</usg></form>
+    <def>Gorputzean isurkariak barneratzeko sendagintzan erabiltzen den ponpa txikia.</def>
+    <eg><q>Xiringaz ziztatu.</q></eg>
+    <sense n="n1">
+      <eg><q>Elizak ez du xiringazko ereintzarik onartzen kabalentzat baizik.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xiringatu, xiringa <hi rend="normal">edo</hi> xiringatu, xiringatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">*1953, 1963</usg>
+    <form type="variant"><orth>ziringatu</orth><usg type="time">1959</usg></form>
+    <def>Xiringaren bidez isurkari bat gorputzean barneratu.</def>
+    <eg><q>Egungo egunean, eskuz xiringatuz ematen zaio behiari zezenaren ume-hazia.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xiringatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xiringatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xirio</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XVII ea., 1664</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Kandela, tortxa.</def>
+    <eg><q>Aldarean suak urtu xirioaren pare. Geldirik iduri zuen xirio bat, zebilenean, xarlango bat.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xirla</orth></form>
+    <note type="HBren_arabera">xirla* e. txirla</note>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">?1627; *XVII ea.</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Txirla.</def>
+    <note type="izendapen_zientifikoa">Tapes, Venus, Mytilus <hi rend="normal">jeneroak</hi>.</note>
+  </entry>
+
+  <entry>
+    <form><orth>xirmi-xarma</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1960</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Aztikeria.</def>
+    <eg><q>Ez dugula gutartean sorginik, xirmi-xarmaz diru sortzeko.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xirola</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txirula</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xirribika</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1712</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Arrabita.</def>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xirrika</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txirrika</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xirripa</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XVII ea., 1664</usg>
+    <form type="variant"><orth>txirripa</orth><usg type="time">*1745, 1956</usg></form>
+    <usg type="geo">Batez ere Ipar.</usg>
+    <def>Ur-laster txikia, erreka.</def>
+    <eg><q>Xirripa baten hegian.</q></eg>
+    <usg type="esamolde_azalpen"><hi rend="italic">Ur xirripa</hi>: ur-laster txikia.</usg>
+    <eg><q>Zelaian zehar doan ur xirripa.</q></eg>
+    <sense n="n1">
+      <eg><q>Negar xirripak.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xirula</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txirula</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xisma</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1809</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Zisma.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xismatiko</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">~1780</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Zismatikoa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xispildu, xispil, xispiltzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1643</usg>
+    <form type="variant"><orth>xizpildu</orth><usg type="time">*XVII ea.</usg></form>
+    <form type="variant"><orth>xixpildu</orth><usg type="time">1664</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Kiskali.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xispiltze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xispildu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xistera</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1643</usg>
+    <usg type="geo">Ipar.</usg>
+    <sense n="1">
+      <usg type="plev">G. er.</usg>
+      <def>Ohea, etzauntza.</def>
+    </sense>
+    <sense n="2">
+      <def>Saskia.</def>
+    </sense>
+    <sense n="3">
+      <usg type="time">*1926</usg>
+      <form type="variant"><orth>xixtera</orth><usg type="time">1890</usg></form>
+      <def>Errebotean-eta jokatzeko tresna, eskuan sartzen den zumitzezko saski moduko atal luze-estua.</def>
+      <eg><q>Eskuz, eskularruz eta xisteraz berdin trebe zen. Xisteraz pleka ari direnak. Diote zenbaitek oraingo xistereekilako jokoa errebotean gaitzegia dela.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xita, xito. </orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txito</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xitu, xit, xitzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="plev">Zah.</usg>
+    <def>Gainditu, garaitu, nagusitu.</def>
+    <eg><q>Eguzkiak beste izarrak xitzen dituen bezala.</q></eg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xixa</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>ziza</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xixari</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zizarea.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xixpa</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">~1925</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zizpa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xixta</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1857</usg>
+    <usg type="style">Adkor.</usg>
+    <sense n="1">
+      <def>Zizta.</def>
+      <eg><q>Elorri xixta baten beldur zara.</q></eg>
+    </sense>
+    <sense n="2">
+      <def>Ebakuntzetako lanabesa, bi ahoko xafla punta-zorrotz batez osatua.</def>
+      <eg><q>Xixtaz odola atera.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xixter</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1910</usg>
+    <form type="variant"><orth>xister</orth><usg type="time">1864</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <usg type="esamolde_azalpen"><hi rend="italic">Baratxuri xixterra</hi>: baratxuri atala.</usg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xixtu</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txistu</ref></xr>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xoil</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>soil</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xoko</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1630</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zokoa.</def>
+    <eg><q>Supazter xokoan.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xomorro</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1923</usg>
+    <usg type="geo">Heg.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zomorroa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xoragarri</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1720</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zoragarria.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xoratu, xora, xoratzen</orth></form>
+    <GramGrp><subc>da-du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1775</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Liluratu.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>zoratu</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xoratze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xoratu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xori</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>txori</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xoro</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zoroa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xorrotx</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1750</usg>
+    <form type="variant"><orth>xorroits</orth><usg type="time">1677</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zorrotza.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xorta</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <sense n="1">
+      <usg type="geo">Ipar.</usg>
+      <def>Tanta.</def>
+      <eg><q>Ur xorta bat. Ardo xorta bat, ahoaren hezagarri. Edari on xorta bat ematen die. Azken xortaraino.</q></eg>
+    </sense>
+    <sense n="2">
+      <usg type="time">1935</usg>
+      <usg type="geo">Heg.</usg>
+      <usg type="style">Adkor.</usg>
+      <def>Sorta.</def>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xortaka</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">1664</usg>
+    <def>Tantaka.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xotx</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1858</usg>
+    <usg type="geo">Ipar. (Zub. izan ezik).</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zotza.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xuhur</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1853</usg>
+    <usg type="geo">Batez ere Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zuhurra, zikoitza.</def>
+    <eg><q>Bost hilabetez mahaia xuhur, ohea gogor.</q></eg>
+    <sense n="n1">
+      <usg type="ohar_gram.">Adizlagun gisa.</usg>
+      <eg><q>Ogi gutti sartu da; artoa ere xuhur.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xukadera</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1907</usg>
+    <form type="variant"><orth>xukhadera</orth><usg type="time">1857</usg></form>
+    <form type="variant"><orth>xukhador</orth><usg type="time">1896</usg></form>
+    <form type="variant"><orth>xukhadar</orth><usg type="time">*1857</usg></form>
+    <usg type="geo">Ipar.</usg>
+    <def>Eskuzapia.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xukagarri</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">~1880</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Xukatzen duena.</def>
+    <eg><q>Aitaren izerdien xukagarriak.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xukarazi, xukaraz, xukarazten</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1890</usg>
+    <note type="alderatu"><lbl>cf.</lbl>xukarazitzaille <hi rend="normal">1627</hi></note>
+    <def>Xukatzera behartu.</def>
+    <eg><q>Negarrez ari zen batez, profetak xukarazi zizkion bere negarrak.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xukatu, xuka, xukatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1627</usg>
+    <usg type="geo">Ipar.</usg>
+    <sense n="1">
+      <def>Lehortu, bustitasuna edo hezetasuna kendu.</def>
+      <eg><q>Sukaldeko ontziak xukatu. Esku-gibelaz kopeta xukatu. Jesus maitearen begitartea oihal zuriz xukatzera. Eta apezak behar ditu xukatu aitama eta senar zaurtuen negarrak. Bakailao puska egosiak oihal batean xuka itzazu.</q></eg>
+    </sense>
+    <sense n="2">
+      <def>Idortu; agortu.</def>
+      <eg><q>Nola lur xukatu eta idortu bat euriaren beharrean.</q></eg>
+      <sense n="n1">
+        <eg><q>Bere odol guztia edaten, xukatzen. Juduek xukatzen dute Frantziaren aberastasuna.</q></eg>
+      </sense>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xukatzaile</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1664</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Xukatzen duena.</def>
+    <eg><q>Sos-harrapatzailea, jendeen xukatzailea.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xukatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xukatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xuko</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">1858</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Lehor; agorturik; ahiturik.</def>
+    <eg><q>Zerua garbi, bidea xuko. Ene saria izango dut, xuko-xukoa.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xularme</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1745</usg>
+    <usg type="plev">G. er.</usg>
+    <def>Poroa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xume</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">*XVII ea., 1664</usg>
+    <usg type="geo">Ipar. edo Goi.</usg>
+    <def>Aski txikia; apala.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>xehe 1</ref></xr>
+    <eg><q>Zortzi urteko haur xume bat. Dorre handi bat eta bi xume. Frantziako herririk xumeetaraino. Xehetasun xumeenak. Huts xumeak. Galdera xume bat egin nahi dizuet. Handiak eta xumeak, aberatsak eta pobreak. Herri xume jatorrari goitik behera begiratzen dioten horietakoa. Hautsa eta errautsa baino xumeago. Har dezagun xumeena: artzaingoa. Den laboraririk xumeenak. Baina honetan ere handizkiak handizki eta xumeak xume. Errege handi hura ez da oroitzen bere apaltasunaz baizik; laket du xume agertzea munduaren begietan.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xumetasun</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1826</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Xumea denaren nolakotasuna, txikitasuna.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xumetto</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1749</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="ohar_gram."><hi rend="italic">Xume</hi>-ren txikigarria.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xumetu, xume <hi rend="normal">edo</hi> xumetu, xumetzen</orth></form>
+    <GramGrp><subc>da-du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">1677</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Gutxitu.</def>
+    <eg><q>Berrogeita hamar egunen buruan urak xumetu ziren.</q></eg>
+    <sense n="n1">
+      <def>Xume edo xumeago bihurtu.</def>
+      <eg><q>Hemen, ordea, antzinatik datorren alegian ez bezala, bere burua estaltzeko eta xumetzeko eskatuak ziren lumak: txori lumak, ez arrano lumak.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xumetze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xumetu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xurgagailu</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1994</usg>
+    <sense n="1">
+      <def>Animalia batzuek, ibiltzeko edo jatekoa hartzeko duten organo xurgatzailea.</def>
+    </sense>
+    <sense n="2">
+      <def>Kanpai formako ontzia, airez hustutzean, gorputz bati atxikitzen zaiona.</def>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xurgatu, xurga, xurgatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">~1880</usg>
+    <form type="variant"><orth>zurgatu</orth><usg type="time">1859</usg></form>
+    <def>(Zerbaitek daukan isurkaria) ezpainen bidez eta ahoan hutsartea eginez erakarri; zerbaitek bere baitan inguruko isurkaria hartu.</def>
+    <eg><q>Odola xurgatzen.</q></eg>
+    <eg><q>Esnea xurgatu.</q><xr type="syn"><lbl>Ik.</lbl><ref>murtxatu; edoski</ref></xr></eg>
+    <eg><q>Ez dun ez, horma xurgatuz biribildu muturra.</q></eg>
+    <sense n="n1">
+      <eg><q>Goizero egunsentiari argi berria xurgatzen diot. Eguna, euria bezala, mendiak xurgatu zuten, poliki-poliki.</q></eg>
+    </sense>
+  </entry>
+
+  <entry>
+    <form><orth>xurgatzaile</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1907</usg>
+    <form type="variant"><orth>zurgatzaile</orth><usg type="time">*XIX b.</usg></form>
+    <def>Xurgatzen duena.</def>
+    <eg><q>Izainak eta gainerako zizare xurgatzaileak. Laborarien odolaren xurgatzaileak.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xurgatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xurgatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xuri</orth></form>
+    <note type="HBren_arabera">xuri* e. zuri</note>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zuria.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>txuri</ref></xr>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xuringo</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>zuringo</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xurrupa</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*1905, 1935</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zurrupa, hurrupa.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xurrupatu, xurrupa <hi rend="normal">edo</hi> xurrupatu, xurrupatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">*XIX b., 1960</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zurrupatu, hurrupatu.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xurrupatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xurrupatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+
+  <entry>
+    <form><orth>xut</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <GramGrp><pos>adlag.</pos></GramGrp>
+    <usg type="time">*XVII ea., 1664</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zuta; zut.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xutik</orth></form>
+    <GramGrp><subc>nola</subc><pos>adlag.</pos></GramGrp>
+    <usg type="time">~1620</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zutik.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xuxen</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <usg type="geo">Ipar.</usg>
+    <usg type="style">Adkor.</usg>
+    <def>Zuzena.</def>
+  </entry>
+
+  <entry>
+    <form type="dead"><orth>xuxpertu</orth></form>
+    <xr type="standard"><lbl>Ik.</lbl><ref>zuzpertu</ref></xr>
+  </entry>
+
+  <entry>
+    <form><orth>xuxurla</orth></form>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">1571</usg>
+    <def>Xuxurlatzea, marmarra.</def>
+    <xr type="syn"><lbl>Ik.</lbl><ref>gurguria</ref></xr>
+    <eg><q>Haizearen xuxurla hostailetan.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xuxurlari</orth></form>
+    <GramGrp><pos>izond.</pos></GramGrp>
+    <GramGrp><pos>iz.</pos></GramGrp>
+    <usg type="time">*XVII ea.</usg>
+    <usg type="geo">Ipar.</usg>
+    <def>Xuxurlatzen duena.</def>
+  </entry>
+
+  <entry>
+    <form><orth>xuxurlatu, xuxurla, xuxurlatzen</orth></form>
+    <GramGrp><subc>du</subc><pos>ad.</pos></GramGrp>
+    <usg type="time">*XIX b., 1988</usg>
+    <def>Ahapeka, ia ezpainak higitu gabe hitz egin, marmar egin.</def>
+    <eg><q>Soldadu bat sartu zen, atean jo eta, aretora; zerbait xuxurlatzen hasi zitzaizun, nik ez entzuteko moduan.</q></eg>
+  </entry>
+
+  <entry>
+    <form><orth>xuxurlatze</orth></form>
+    <usg type="ohar_gram."><hi rend="italic">xuxurlatu</hi> ad.-aren aditz izena.</usg>
+  </entry>
+</eh>

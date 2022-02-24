@@ -1,0 +1,3690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tokens>
+  <w id="w1">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w2">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w3">
+    <forma>Agiria</forma>
+  </w>
+  <w id="w4">
+    <forma>onartu</forma>
+  </w>
+  <w id="w5">
+    <forma>dute</forma>
+  </w>
+  <w id="w6">
+    <forma>hamabost</forma>
+  </w>
+  <w id="w7">
+    <forma>estatuek</forma>
+  </w>
+  <w id="w8">
+    <forma>.</forma>
+  </w>
+  <w id="w9">
+    <forma>Eztabaida</forma>
+  </w>
+  <w id="w10">
+    <forma>gogorrenak</forma>
+  </w>
+  <w id="w11">
+    <forma>gaur</forma>
+  </w>
+  <w id="w12">
+    <forma>arratsaldean</forma>
+  </w>
+  <w id="w13">
+    <forma>hasiko</forma>
+  </w>
+  <w id="w14">
+    <forma>dira</forma>
+  </w>
+  <w id="w15">
+    <forma>,</forma>
+  </w>
+  <w id="w16">
+    <forma>Europako</forma>
+  </w>
+  <w id="w17">
+    <forma>Batasunaren</forma>
+  </w>
+  <mw id="mw1" type="Correct" targets="w16 w17">
+    <forma>Europako_Batasunaren</forma>
+  </mw>
+  <w id="w18">
+    <forma>erreformaren</forma>
+  </w>
+  <w id="w19">
+    <forma>gaiari</forma>
+  </w>
+  <w id="w20">
+    <forma>helduko</forma>
+  </w>
+  <w id="w21">
+    <forma>baitiote</forma>
+  </w>
+  <w id="w22">
+    <forma>EBko</forma>
+  </w>
+  <w id="w23">
+    <forma>kideek</forma>
+  </w>
+  <w id="w24">
+    <forma>.</forma>
+  </w>
+  <w id="w25">
+    <forma>Agentziak</forma>
+  </w>
+  <w id="w26">
+    <forma>/</forma>
+  </w>
+  <w id="w27">
+    <forma>Niza</forma>
+  </w>
+  <w id="w28">
+    <forma>.</forma>
+  </w>
+  <w id="w29">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w30">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w31">
+    <forma>Agiria</forma>
+  </w>
+  <w id="w32">
+    <forma>onartu</forma>
+  </w>
+  <w id="w33">
+    <forma>zuten</forma>
+  </w>
+  <w id="w34">
+    <forma>atzo</forma>
+  </w>
+  <w id="w35">
+    <forma>Europako</forma>
+  </w>
+  <w id="w36">
+    <forma>Batasuneko</forma>
+  </w>
+  <mw id="mw2" type="Correct" targets="w35 w36">
+    <forma>Europako_Batasuneko</forma>
+  </mw>
+  <w id="w37">
+    <forma>hamabost</forma>
+  </w>
+  <w id="w38">
+    <forma>estatu</forma>
+  </w>
+  <w id="w39">
+    <forma>kideetako</forma>
+  </w>
+  <w id="w40">
+    <forma>Gobernu</forma>
+  </w>
+  <w id="w41">
+    <forma>eta</forma>
+  </w>
+  <w id="w42">
+    <forma>estatuburuek</forma>
+  </w>
+  <w id="w43">
+    <forma>,</forma>
+  </w>
+  <w id="w44">
+    <forma>Nizan</forma>
+  </w>
+  <w id="w45">
+    <forma>egiten</forma>
+  </w>
+  <w id="w46">
+    <forma>ari</forma>
+  </w>
+  <w id="w47">
+    <forma>diren</forma>
+  </w>
+  <mw id="mw3" type="Correct" targets="w46 w47">
+    <forma>ari_diren</forma>
+  </mw>
+  <w id="w48">
+    <forma>goi</forma>
+  </w>
+  <w id="w49">
+    <forma>bileran</forma>
+  </w>
+  <w id="w50">
+    <forma>.</forma>
+  </w>
+  <w id="w51">
+    <forma>Europako</forma>
+  </w>
+  <w id="w52">
+    <forma>herritarrei</forma>
+  </w>
+  <w id="w53">
+    <forma>54</forma>
+  </w>
+  <w id="w54">
+    <forma>eskubide</forma>
+  </w>
+  <w id="w55">
+    <forma>zibil</forma>
+  </w>
+  <w id="w56">
+    <forma>,</forma>
+  </w>
+  <w id="w57">
+    <forma>ekonomiko</forma>
+  </w>
+  <w id="w58">
+    <forma>,</forma>
+  </w>
+  <w id="w59">
+    <forma>sozial</forma>
+  </w>
+  <w id="w60">
+    <forma>eta</forma>
+  </w>
+  <w id="w61">
+    <forma>politiko</forma>
+  </w>
+  <w id="w62">
+    <forma>aitortzen</forma>
+  </w>
+  <w id="w63">
+    <forma>die</forma>
+  </w>
+  <w id="w64">
+    <forma>agiriak</forma>
+  </w>
+  <w id="w65">
+    <forma>,</forma>
+  </w>
+  <w id="w66">
+    <forma>baina</forma>
+  </w>
+  <w id="w67">
+    <forma>deklarazio</forma>
+  </w>
+  <w id="w68">
+    <forma>politiko</forma>
+  </w>
+  <w id="w69">
+    <forma>huts</forma>
+  </w>
+  <w id="w70">
+    <forma>izango</forma>
+  </w>
+  <w id="w71">
+    <forma>da</forma>
+  </w>
+  <w id="w72">
+    <forma>oraingoz</forma>
+  </w>
+  <w id="w73">
+    <forma>,</forma>
+  </w>
+  <w id="w74">
+    <forma>ez</forma>
+  </w>
+  <w id="w75">
+    <forma>baitu</forma>
+  </w>
+  <w id="w76">
+    <forma>indar</forma>
+  </w>
+  <w id="w77">
+    <forma>loteslerik</forma>
+  </w>
+  <w id="w78">
+    <forma>izango</forma>
+  </w>
+  <w id="w79">
+    <forma>.</forma>
+  </w>
+  <w id="w80">
+    <forma>Zenbait</forma>
+  </w>
+  <w id="w81">
+    <forma>kidek</forma>
+  </w>
+  <w id="w82">
+    <forma>-</forma>
+  </w>
+  <w id="w83">
+    <forma>Erresuma</forma>
+  </w>
+  <w id="w84">
+    <forma>Batuak</forma>
+  </w>
+  <w id="w85">
+    <forma>,</forma>
+  </w>
+  <w id="w86">
+    <forma>batez</forma>
+  </w>
+  <w id="w87">
+    <forma>ere</forma>
+  </w>
+  <mw id="mw4" type="Correct" targets="w86 w87">
+    <forma>batez_ere</forma>
+  </mw>
+  <w id="w88">
+    <forma>-</forma>
+  </w>
+  <w id="w89">
+    <forma>ez</forma>
+  </w>
+  <w id="w90">
+    <forma>dute</forma>
+  </w>
+  <w id="w91">
+    <forma>onartzen</forma>
+  </w>
+  <w id="w92">
+    <forma>estatuengan</forma>
+  </w>
+  <w id="w93">
+    <forma>eragina</forma>
+  </w>
+  <w id="w94">
+    <forma>izatea</forma>
+  </w>
+  <w id="w95">
+    <forma>;</forma>
+  </w>
+  <w id="w96">
+    <forma>Frantziak</forma>
+  </w>
+  <w id="w97">
+    <forma>,</forma>
+  </w>
+  <w id="w98">
+    <forma>Holandak</forma>
+  </w>
+  <w id="w99">
+    <forma>eta</forma>
+  </w>
+  <w id="w100">
+    <forma>Alemaniak</forma>
+  </w>
+  <w id="w101">
+    <forma>,</forma>
+  </w>
+  <w id="w102">
+    <forma>aldiz</forma>
+  </w>
+  <w id="w103">
+    <forma>,</forma>
+  </w>
+  <w id="w104">
+    <forma>indar</forma>
+  </w>
+  <w id="w105">
+    <forma>legala</forma>
+  </w>
+  <w id="w106">
+    <forma>eman</forma>
+  </w>
+  <mw id="mw5" type="NoSure" targets="w104 w106">
+    <forma>indar_eman</forma>
+  </mw>
+  <w id="w107">
+    <forma>nahi</forma>
+  </w>
+  <w id="w108">
+    <forma>diote</forma>
+  </w>
+  <mw id="mw6" type="Correct" targets="w107 w108">
+    <forma>nahi_diote</forma>
+  </mw>
+  <w id="w109">
+    <forma>.</forma>
+  </w>
+  <w id="w110">
+    <forma>Kritikoen</forma>
+  </w>
+  <w id="w111">
+    <forma>ustez</forma>
+  </w>
+  <w id="w112">
+    <forma>,</forma>
+  </w>
+  <w id="w113">
+    <forma>Europa</forma>
+  </w>
+  <w id="w114">
+    <forma>osorako</forma>
+  </w>
+  <w id="w115">
+    <forma>Konstituzio</forma>
+  </w>
+  <w id="w116">
+    <forma>baten</forma>
+  </w>
+  <w id="w117">
+    <forma>aurrekaria</forma>
+  </w>
+  <w id="w118">
+    <forma>da</forma>
+  </w>
+  <w id="w119">
+    <forma>agiria</forma>
+  </w>
+  <w id="w120">
+    <forma>.</forma>
+  </w>
+  <w id="w121">
+    <forma>Nizan</forma>
+  </w>
+  <w id="w122">
+    <forma>hitzarmenik</forma>
+  </w>
+  <w id="w123">
+    <forma>egitea</forma>
+  </w>
+  <w id="w124">
+    <forma>lortuko</forma>
+  </w>
+  <w id="w125">
+    <forma>balitz</forma>
+  </w>
+  <w id="w126">
+    <forma>,</forma>
+  </w>
+  <w id="w127">
+    <forma>agiria</forma>
+  </w>
+  <w id="w128">
+    <forma>ez</forma>
+  </w>
+  <w id="w129">
+    <forma>litzateke</forma>
+  </w>
+  <w id="w130">
+    <forma>barruan</forma>
+  </w>
+  <w id="w131">
+    <forma>sartuko</forma>
+  </w>
+  <w id="w132">
+    <forma>.</forma>
+  </w>
+  <w id="w133">
+    <forma>Baina</forma>
+  </w>
+  <w id="w134">
+    <forma>hitzaurreak</forma>
+  </w>
+  <w id="w135">
+    <forma>azpimarratzen</forma>
+  </w>
+  <w id="w136">
+    <forma>duenez</forma>
+  </w>
+  <w id="w137">
+    <forma>,</forma>
+  </w>
+  <w id="w138">
+    <forma>«</forma>
+  </w>
+  <w id="w139">
+    <forma>Europako</forma>
+  </w>
+  <w id="w140">
+    <forma>Kontseiluak</forma>
+  </w>
+  <w id="w141">
+    <forma>uste</forma>
+  </w>
+  <w id="w142">
+    <forma>du</forma>
+  </w>
+  <mw id="mw7" type="Correct" targets="w141 w142">
+    <forma>uste_du</forma>
+  </mw>
+  <w id="w143">
+    <forma>agiria</forma>
+  </w>
+  <w id="w144">
+    <forma>hitzarmenean</forma>
+  </w>
+  <w id="w145">
+    <forma>sartu</forma>
+  </w>
+  <w id="w146">
+    <forma>beharko</forma>
+  </w>
+  <w id="w147">
+    <forma>litzatekeela</forma>
+  </w>
+  <w id="w148">
+    <forma>,</forma>
+  </w>
+  <w id="w149">
+    <forma>indar</forma>
+  </w>
+  <w id="w150">
+    <forma>legala</forma>
+  </w>
+  <w id="w151">
+    <forma>izateko</forma>
+  </w>
+  <w id="w152">
+    <forma>Europako</forma>
+  </w>
+  <w id="w153">
+    <forma>Batasuneko</forma>
+  </w>
+  <mw id="mw8" type="Correct" targets="w152 w153">
+    <forma>Europako_Batasuneko</forma>
+  </mw>
+  <w id="w154">
+    <forma>agintarien</forma>
+  </w>
+  <w id="w155">
+    <forma>gainean</forma>
+  </w>
+  <w id="w156">
+    <forma>eta</forma>
+  </w>
+  <w id="w157">
+    <forma>edozein</forma>
+  </w>
+  <w id="w158">
+    <forma>herritarrek</forma>
+  </w>
+  <w id="w159">
+    <forma>auzitegietara</forma>
+  </w>
+  <w id="w160">
+    <forma>jotzeko</forma>
+  </w>
+  <w id="w161">
+    <forma>oinarria</forma>
+  </w>
+  <w id="w162">
+    <forma>izan</forma>
+  </w>
+  <w id="w163">
+    <forma>dadin</forma>
+  </w>
+  <w id="w164">
+    <forma>»</forma>
+  </w>
+  <w id="w165">
+    <forma>.</forma>
+  </w>
+  <w id="w166">
+    <forma>Hala</forma>
+  </w>
+  <w id="w167">
+    <forma>egingo</forma>
+  </w>
+  <w id="w168">
+    <forma>balitz</forma>
+  </w>
+  <w id="w169">
+    <forma>,</forma>
+  </w>
+  <w id="w170">
+    <forma>Turkiari</forma>
+  </w>
+  <w id="w171">
+    <forma>Batasuneko</forma>
+  </w>
+  <w id="w172">
+    <forma>kide</forma>
+  </w>
+  <w id="w173">
+    <forma>izateko</forma>
+  </w>
+  <w id="w174">
+    <forma>aurrebaldintzatzat</forma>
+  </w>
+  <w id="w175">
+    <forma>ezarriko</forma>
+  </w>
+  <w id="w176">
+    <forma>lioke</forma>
+  </w>
+  <w id="w177">
+    <forma>heriotz</forma>
+  </w>
+  <w id="w178">
+    <forma>zigorra</forma>
+  </w>
+  <w id="w179">
+    <forma>eta</forma>
+  </w>
+  <w id="w180">
+    <forma>exekuzioak</forma>
+  </w>
+  <w id="w181">
+    <forma>bertan</forma>
+  </w>
+  <w id="w182">
+    <forma>behera</forma>
+  </w>
+  <w id="w183">
+    <forma>uztea</forma>
+  </w>
+  <mw id="mw9" type="Correct" targets="w181 w182 w183">
+    <forma>bertan_behera_uztea</forma>
+  </mw>
+  <w id="w184">
+    <forma>.</forma>
+  </w>
+  <w id="w185">
+    <forma>Adierazpen</forma>
+  </w>
+  <w id="w186">
+    <forma>eta</forma>
+  </w>
+  <w id="w187">
+    <forma>pentsamendu</forma>
+  </w>
+  <w id="w188">
+    <forma>askatasuna</forma>
+  </w>
+  <w id="w189">
+    <forma>zein</forma>
+  </w>
+  <w id="w190">
+    <forma>legearen</forma>
+  </w>
+  <w id="w191">
+    <forma>aurrean</forma>
+  </w>
+  <w id="w192">
+    <forma>berdintasun</forma>
+  </w>
+  <w id="w193">
+    <forma>printzipioa</forma>
+  </w>
+  <w id="w194">
+    <forma>dira</forma>
+  </w>
+  <w id="w195">
+    <forma>agiriak</forma>
+  </w>
+  <w id="w196">
+    <forma>jasotzen</forma>
+  </w>
+  <w id="w197">
+    <forma>dituen</forma>
+  </w>
+  <w id="w198">
+    <forma>beste</forma>
+  </w>
+  <w id="w199">
+    <forma>eskubideetako</forma>
+  </w>
+  <w id="w200">
+    <forma>batzuk</forma>
+  </w>
+  <w id="w201">
+    <forma>.</forma>
+  </w>
+  <w id="w202">
+    <forma>Goi</forma>
+  </w>
+  <w id="w203">
+    <forma>agintariak</forma>
+  </w>
+  <w id="w204">
+    <forma>bilera</forma>
+  </w>
+  <w id="w205">
+    <forma>egiten</forma>
+  </w>
+  <w id="w206">
+    <forma>ari</forma>
+  </w>
+  <w id="w207">
+    <forma>ziren</forma>
+  </w>
+  <mw id="mw10" type="Correct" targets="w206 w207">
+    <forma>ari_ziren</forma>
+  </mw>
+  <w id="w208">
+    <forma>eraikinaren</forma>
+  </w>
+  <w id="w209">
+    <forma>aurrean</forma>
+  </w>
+  <w id="w210">
+    <forma>elkartu</forma>
+  </w>
+  <w id="w211">
+    <forma>ziren</forma>
+  </w>
+  <w id="w212">
+    <forma>milaka</forma>
+  </w>
+  <w id="w213">
+    <forma>manifestarik</forma>
+  </w>
+  <w id="w214">
+    <forma>-</forma>
+  </w>
+  <w id="w215">
+    <forma>ezkertiarrak</forma>
+  </w>
+  <w id="w216">
+    <forma>eta</forma>
+  </w>
+  <w id="w217">
+    <forma>globalizazioaren</forma>
+  </w>
+  <w id="w218">
+    <forma>aurkakoak</forma>
+  </w>
+  <w id="w219">
+    <forma>-</forma>
+  </w>
+  <w id="w220">
+    <forma>salatu</forma>
+  </w>
+  <w id="w221">
+    <forma>zuten</forma>
+  </w>
+  <w id="w222">
+    <forma>agiriak</forma>
+  </w>
+  <w id="w223">
+    <forma>ez</forma>
+  </w>
+  <w id="w224">
+    <forma>dituela</forma>
+  </w>
+  <w id="w225">
+    <forma>bizi</forma>
+  </w>
+  <w id="w226">
+    <forma>baldintza</forma>
+  </w>
+  <w id="w227">
+    <forma>hobeak</forma>
+  </w>
+  <w id="w228">
+    <forma>ekarriko</forma>
+  </w>
+  <w id="w229">
+    <forma>eta</forma>
+  </w>
+  <w id="w230">
+    <forma>bakarrik</forma>
+  </w>
+  <w id="w231">
+    <forma>eskubide</forma>
+  </w>
+  <w id="w232">
+    <forma>jakin</forma>
+  </w>
+  <w id="w233">
+    <forma>batzuk</forma>
+  </w>
+  <w id="w234">
+    <forma>aitortzen</forma>
+  </w>
+  <w id="w235">
+    <forma>dituela</forma>
+  </w>
+  <w id="w236">
+    <forma>.</forma>
+  </w>
+  <w id="w237">
+    <forma>Manifestazio</forma>
+  </w>
+  <w id="w238">
+    <forma>baketsuen</forma>
+  </w>
+  <w id="w239">
+    <forma>bitartez</forma>
+  </w>
+  <w id="w240">
+    <forma>hasi</forma>
+  </w>
+  <w id="w241">
+    <forma>zituzten</forma>
+  </w>
+  <w id="w242">
+    <forma>protesta</forma>
+  </w>
+  <w id="w243">
+    <forma>ekintzak</forma>
+  </w>
+  <w id="w244">
+    <forma>«</forma>
+  </w>
+  <w id="w245">
+    <forma>Europa</forma>
+  </w>
+  <w id="w246">
+    <forma>ez</forma>
+  </w>
+  <w id="w247">
+    <forma>da</forma>
+  </w>
+  <w id="w248">
+    <forma>merkantzia</forma>
+  </w>
+  <w id="w249">
+    <forma>»</forma>
+  </w>
+  <w id="w250">
+    <forma>mezua</forma>
+  </w>
+  <w id="w251">
+    <forma>helerazteko</forma>
+  </w>
+  <w id="w252">
+    <forma>,</forma>
+  </w>
+  <w id="w253">
+    <forma>baina</forma>
+  </w>
+  <w id="w254">
+    <forma>polizia</forma>
+  </w>
+  <w id="w255">
+    <forma>eta</forma>
+  </w>
+  <w id="w256">
+    <forma>jendarmeekin</forma>
+  </w>
+  <w id="w257">
+    <forma>liskarrak</forma>
+  </w>
+  <w id="w258">
+    <forma>izan</forma>
+  </w>
+  <w id="w259">
+    <forma>zituzten</forma>
+  </w>
+  <w id="w260">
+    <forma>gero</forma>
+  </w>
+  <w id="w261">
+    <forma>.</forma>
+  </w>
+  <w id="w262">
+    <forma>Manifestariek</forma>
+  </w>
+  <w id="w263">
+    <forma>harriak</forma>
+  </w>
+  <w id="w264">
+    <forma>eta</forma>
+  </w>
+  <w id="w265">
+    <forma>botilak</forma>
+  </w>
+  <w id="w266">
+    <forma>jaurti</forma>
+  </w>
+  <w id="w267">
+    <forma>zizkieten</forma>
+  </w>
+  <w id="w268">
+    <forma>,</forma>
+  </w>
+  <w id="w269">
+    <forma>eta</forma>
+  </w>
+  <w id="w270">
+    <forma>poliziek</forma>
+  </w>
+  <w id="w271">
+    <forma>gas</forma>
+  </w>
+  <w id="w272">
+    <forma>negar</forma>
+  </w>
+  <w id="w273">
+    <forma>eragilea</forma>
+  </w>
+  <w id="w274">
+    <forma>.</forma>
+  </w>
+  <w id="w275">
+    <forma>Ondorioz</forma>
+  </w>
+  <w id="w276">
+    <forma>,</forma>
+  </w>
+  <w id="w277">
+    <forma>20</forma>
+  </w>
+  <w id="w278">
+    <forma>bat</forma>
+  </w>
+  <w id="w279">
+    <forma>polizia</forma>
+  </w>
+  <w id="w280">
+    <forma>eta</forma>
+  </w>
+  <w id="w281">
+    <forma>jendarme</forma>
+  </w>
+  <w id="w282">
+    <forma>zauritu</forma>
+  </w>
+  <w id="w283">
+    <forma>ziren</forma>
+  </w>
+  <w id="w284">
+    <forma>eta</forma>
+  </w>
+  <w id="w285">
+    <forma>45</forma>
+  </w>
+  <w id="w286">
+    <forma>manifestari</forma>
+  </w>
+  <w id="w287">
+    <forma>atxilotu</forma>
+  </w>
+  <w id="w288">
+    <forma>zituzten</forma>
+  </w>
+  <w id="w289">
+    <forma>-</forma>
+  </w>
+  <w id="w290">
+    <forma>16</forma>
+  </w>
+  <w id="w291">
+    <forma>euskal</forma>
+  </w>
+  <w id="w292">
+    <forma>herritar</forma>
+  </w>
+  <mw id="mw11" type="Correct" targets="w291 w292">
+    <forma>euskal_herritar</forma>
+  </mw>
+  <w id="w293">
+    <forma>-</forma>
+  </w>
+  <w id="w294">
+    <forma>.</forma>
+  </w>
+  <w id="w295">
+    <forma>Liskarrek</forma>
+  </w>
+  <w id="w296">
+    <forma>oihartzuna</forma>
+  </w>
+  <w id="w297">
+    <forma>izan</forma>
+  </w>
+  <w id="w298">
+    <forma>zuten</forma>
+  </w>
+  <w id="w299">
+    <forma>goi</forma>
+  </w>
+  <w id="w300">
+    <forma>bileran</forma>
+  </w>
+  <w id="w301">
+    <forma>.</forma>
+  </w>
+  <w id="w302">
+    <forma>Romano</forma>
+  </w>
+  <w id="w303">
+    <forma>Prodi</forma>
+  </w>
+  <w id="w304">
+    <forma>Europako</forma>
+  </w>
+  <w id="w305">
+    <forma>Batzordeko</forma>
+  </w>
+  <w id="w306">
+    <forma>presidenteak</forma>
+  </w>
+  <w id="w307">
+    <forma>,</forma>
+  </w>
+  <w id="w308">
+    <forma>Frantziako</forma>
+  </w>
+  <w id="w309">
+    <forma>lehen</forma>
+  </w>
+  <w id="w310">
+    <forma>ministro</forma>
+  </w>
+  <mw id="mw12" type="Correct" targets="w309 w310">
+    <forma>lehen_ministro</forma>
+  </mw>
+  <w id="w311">
+    <forma>Lionel</forma>
+  </w>
+  <w id="w312">
+    <forma>Jospinek</forma>
+  </w>
+  <w id="w313">
+    <forma>eta</forma>
+  </w>
+  <w id="w314">
+    <forma>Europako</forma>
+  </w>
+  <w id="w315">
+    <forma>Batasuneko</forma>
+  </w>
+  <mw id="mw13" type="Correct" targets="w314 w315">
+    <forma>Europako_Batasuneko</forma>
+  </mw>
+  <w id="w316">
+    <forma>txandakako</forma>
+  </w>
+  <w id="w317">
+    <forma>lehendakaritzako</forma>
+  </w>
+  <w id="w318">
+    <forma>buru</forma>
+  </w>
+  <w id="w319">
+    <forma>Jacques</forma>
+  </w>
+  <w id="w320">
+    <forma>Chiracek</forma>
+  </w>
+  <w id="w321">
+    <forma>manifestarien</forma>
+  </w>
+  <w id="w322">
+    <forma>«</forma>
+  </w>
+  <w id="w323">
+    <forma>indarkeria</forma>
+  </w>
+  <w id="w324">
+    <forma>ekintzak</forma>
+  </w>
+  <w id="w325">
+    <forma>»</forma>
+  </w>
+  <w id="w326">
+    <forma>gaitzetsi</forma>
+  </w>
+  <w id="w327">
+    <forma>zituzten</forma>
+  </w>
+  <w id="w328">
+    <forma>.</forma>
+  </w>
+  <w id="w329">
+    <forma>Europako</forma>
+  </w>
+  <w id="w330">
+    <forma>Batasuneko</forma>
+  </w>
+  <mw id="mw14" type="Correct" targets="w329 w330">
+    <forma>Europako_Batasuneko</forma>
+  </mw>
+  <w id="w331">
+    <forma>kideen</forma>
+  </w>
+  <w id="w332">
+    <forma>eta</forma>
+  </w>
+  <w id="w333">
+    <forma>eskubideen</forma>
+  </w>
+  <w id="w334">
+    <forma>agiriaren</forma>
+  </w>
+  <w id="w335">
+    <forma>«</forma>
+  </w>
+  <w id="w336">
+    <forma>printzipio</forma>
+  </w>
+  <w id="w337">
+    <forma>demokratikoen</forma>
+  </w>
+  <w id="w338">
+    <forma>aurkakoak</forma>
+  </w>
+  <w id="w339">
+    <forma>»</forma>
+  </w>
+  <w id="w340">
+    <forma>zirela</forma>
+  </w>
+  <w id="w341">
+    <forma>nabarmendu</forma>
+  </w>
+  <w id="w342">
+    <forma>zuen</forma>
+  </w>
+  <w id="w343">
+    <forma>Chiracek</forma>
+  </w>
+  <w id="w344">
+    <forma>.</forma>
+  </w>
+  <w id="w345">
+    <forma>Jospinek</forma>
+  </w>
+  <w id="w346">
+    <forma>bat</forma>
+  </w>
+  <w id="w347">
+    <forma>egin</forma>
+  </w>
+  <mw id="mw15" type="NoSure" targets="w346 w347">
+    <forma>bat_egin</forma>
+  </mw>
+  <w id="w348">
+    <forma>zuen</forma>
+  </w>
+  <w id="w349">
+    <forma>herenegun</forma>
+  </w>
+  <w id="w350">
+    <forma>«</forma>
+  </w>
+  <w id="w351">
+    <forma>demokratikoki</forma>
+  </w>
+  <w id="w352">
+    <forma>eta</forma>
+  </w>
+  <w id="w353">
+    <forma>era</forma>
+  </w>
+  <w id="w354">
+    <forma>baketsuan</forma>
+  </w>
+  <w id="w355">
+    <forma>»</forma>
+  </w>
+  <w id="w356">
+    <forma>manifestatu</forma>
+  </w>
+  <w id="w357">
+    <forma>zirenekin</forma>
+  </w>
+  <w id="w358">
+    <forma>.</forma>
+  </w>
+  <w id="w359">
+    <forma>«</forma>
+  </w>
+  <w id="w360">
+    <forma>Herenegun</forma>
+  </w>
+  <w id="w361">
+    <forma>demokratikoki</forma>
+  </w>
+  <w id="w362">
+    <forma>eta</forma>
+  </w>
+  <w id="w363">
+    <forma>era</forma>
+  </w>
+  <w id="w364">
+    <forma>baketsuan</forma>
+  </w>
+  <w id="w365">
+    <forma>manifestatu</forma>
+  </w>
+  <w id="w366">
+    <forma>zirenak</forma>
+  </w>
+  <w id="w367">
+    <forma>etorri</forma>
+  </w>
+  <w id="w368">
+    <forma>ziren</forma>
+  </w>
+  <w id="w369">
+    <forma>beraien</forma>
+  </w>
+  <w id="w370">
+    <forma>pentsamenduaren</forma>
+  </w>
+  <w id="w371">
+    <forma>zilegitasun</forma>
+  </w>
+  <w id="w372">
+    <forma>osoarekin</forma>
+  </w>
+  <w id="w373">
+    <forma>eskatzera</forma>
+  </w>
+  <w id="w374">
+    <forma>Europa</forma>
+  </w>
+  <w id="w375">
+    <forma>gehiago</forma>
+  </w>
+  <w id="w376">
+    <forma>kezkatzeko</forma>
+  </w>
+  <w id="w377">
+    <forma>arlo</forma>
+  </w>
+  <w id="w378">
+    <forma>sozialaz</forma>
+  </w>
+  <w id="w379">
+    <forma>»</forma>
+  </w>
+  <w id="w380">
+    <forma>.</forma>
+  </w>
+  <w id="w381">
+    <forma>Defentsa</forma>
+  </w>
+  <w id="w382">
+    <forma>eta</forma>
+  </w>
+  <w id="w383">
+    <forma>eztabaidagai</forma>
+  </w>
+  <w id="w384">
+    <forma>nagusiak</forma>
+  </w>
+  <w id="w385">
+    <forma>.</forma>
+  </w>
+  <w id="w386">
+    <forma>Eztabaida</forma>
+  </w>
+  <w id="w387">
+    <forma>handirik</forma>
+  </w>
+  <w id="w388">
+    <forma>ez</forma>
+  </w>
+  <w id="w389">
+    <forma>zuen</forma>
+  </w>
+  <w id="w390">
+    <forma>eragin</forma>
+  </w>
+  <w id="w391">
+    <forma>atzo</forma>
+  </w>
+  <w id="w392">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w393">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w394">
+    <forma>Agiriak</forma>
+  </w>
+  <w id="w395">
+    <forma>;</forma>
+  </w>
+  <w id="w396">
+    <forma>gaur</forma>
+  </w>
+  <w id="w397">
+    <forma>,</forma>
+  </w>
+  <w id="w398">
+    <forma>ordea</forma>
+  </w>
+  <w id="w399">
+    <forma>,</forma>
+  </w>
+  <w id="w400">
+    <forma>estatuen</forma>
+  </w>
+  <w id="w401">
+    <forma>interesen</forma>
+  </w>
+  <w id="w402">
+    <forma>arteko</forma>
+  </w>
+  <w id="w403">
+    <forma>eztabaida</forma>
+  </w>
+  <w id="w404">
+    <forma>azaleratzea</forma>
+  </w>
+  <w id="w405">
+    <forma>espero</forma>
+  </w>
+  <w id="w406">
+    <forma>da</forma>
+  </w>
+  <mw id="mw16" type="Correct" targets="w405 w406">
+    <forma>espero_da</forma>
+  </mw>
+  <w id="w407">
+    <forma>.</forma>
+  </w>
+  <w id="w408">
+    <forma>Goizean</forma>
+  </w>
+  <w id="w409">
+    <forma>defentsa</forma>
+  </w>
+  <w id="w410">
+    <forma>arloko</forma>
+  </w>
+  <w id="w411">
+    <forma>neurriak</forma>
+  </w>
+  <w id="w412">
+    <forma>hitzartuko</forma>
+  </w>
+  <w id="w413">
+    <forma>dituzte</forma>
+  </w>
+  <w id="w414">
+    <forma>-</forma>
+  </w>
+  <w id="w415">
+    <forma>erantzun</forma>
+  </w>
+  <w id="w416">
+    <forma>azkarreko</forma>
+  </w>
+  <w id="w417">
+    <forma>indarrak</forma>
+  </w>
+  <w id="w418">
+    <forma>eta</forma>
+  </w>
+  <w id="w419">
+    <forma>NATOrekiko</forma>
+  </w>
+  <w id="w420">
+    <forma>harremanak</forma>
+  </w>
+  <w id="w421">
+    <forma>-</forma>
+  </w>
+  <w id="w422">
+    <forma>,</forma>
+  </w>
+  <w id="w423">
+    <forma>aurreikuspenen</forma>
+  </w>
+  <w id="w424">
+    <forma>arabera</forma>
+  </w>
+  <w id="w425">
+    <forma>,</forma>
+  </w>
+  <w id="w426">
+    <forma>eta</forma>
+  </w>
+  <w id="w427">
+    <forma>arratsaldean</forma>
+  </w>
+  <w id="w428">
+    <forma>orain</forma>
+  </w>
+  <w id="w429">
+    <forma>arte</forma>
+  </w>
+  <w id="w430">
+    <forma>gatazkatsuen</forma>
+  </w>
+  <w id="w431">
+    <forma>izan</forma>
+  </w>
+  <w id="w432">
+    <forma>diren</forma>
+  </w>
+  <w id="w433">
+    <forma>auziei</forma>
+  </w>
+  <w id="w434">
+    <forma>helduko</forma>
+  </w>
+  <w id="w435">
+    <forma>diete</forma>
+  </w>
+  <w id="w436">
+    <forma>:</forma>
+  </w>
+  <w id="w437">
+    <forma>betoa</forma>
+  </w>
+  <w id="w438">
+    <forma>kentzea</forma>
+  </w>
+  <w id="w439">
+    <forma>,</forma>
+  </w>
+  <w id="w440">
+    <forma>gehiengo</forma>
+  </w>
+  <w id="w441">
+    <forma>bikoitzez</forma>
+  </w>
+  <w id="w442">
+    <forma>onartzea</forma>
+  </w>
+  <w id="w443">
+    <forma>proposamenak</forma>
+  </w>
+  <w id="w444">
+    <forma>,</forma>
+  </w>
+  <w id="w445">
+    <forma>eta</forma>
+  </w>
+  <w id="w446">
+    <forma>Europako</forma>
+  </w>
+  <w id="w447">
+    <forma>Batzordearen</forma>
+  </w>
+  <w id="w448">
+    <forma>osaketa</forma>
+  </w>
+  <w id="w449">
+    <forma>zehaztea</forma>
+  </w>
+  <w id="w450">
+    <forma>.</forma>
+  </w>
+  <w id="w451">
+    <forma>Azken</forma>
+  </w>
+  <w id="w452">
+    <forma>gai</forma>
+  </w>
+  <w id="w453">
+    <forma>horietan</forma>
+  </w>
+  <w id="w454">
+    <forma>ados</forma>
+  </w>
+  <w id="w455">
+    <forma>jartzea</forma>
+  </w>
+  <mw id="mw17" type="Correct" targets="w454 w455">
+    <forma>ados_jartzea</forma>
+  </mw>
+  <w id="w456">
+    <forma>ezinbestekoa</forma>
+  </w>
+  <w id="w457">
+    <forma>da</forma>
+  </w>
+  <w id="w458">
+    <forma>EBn</forma>
+  </w>
+  <w id="w459">
+    <forma>beste</forma>
+  </w>
+  <w id="w460">
+    <forma>hamabi</forma>
+  </w>
+  <w id="w461">
+    <forma>estatu</forma>
+  </w>
+  <w id="w462">
+    <forma>sartzeko</forma>
+  </w>
+  <w id="w463">
+    <forma>.</forma>
+  </w>
+  <w id="w464">
+    <forma>Horretarako</forma>
+  </w>
+  <w id="w465">
+    <forma>data</forma>
+  </w>
+  <w id="w466">
+    <forma>jartzea</forma>
+  </w>
+  <w id="w467">
+    <forma>da</forma>
+  </w>
+  <w id="w468">
+    <forma>bileraren</forma>
+  </w>
+  <w id="w469">
+    <forma>xedea</forma>
+  </w>
+  <w id="w470">
+    <forma>.</forma>
+  </w>
+  <w id="w471">
+    <forma>Ezadostasunak</forma>
+  </w>
+  <w id="w472">
+    <forma>eragin</forma>
+  </w>
+  <w id="w473">
+    <forma>ditzakeen</forma>
+  </w>
+  <w id="w474">
+    <forma>gaietako</forma>
+  </w>
+  <w id="w475">
+    <forma>bat</forma>
+  </w>
+  <w id="w476">
+    <forma>da</forma>
+  </w>
+  <w id="w477">
+    <forma>ea</forma>
+  </w>
+  <w id="w478">
+    <forma>kide</forma>
+  </w>
+  <w id="w479">
+    <forma>guztiak</forma>
+  </w>
+  <w id="w480">
+    <forma>maila</forma>
+  </w>
+  <w id="w481">
+    <forma>berean</forma>
+  </w>
+  <w id="w482">
+    <forma>ariko</forma>
+  </w>
+  <w id="w483">
+    <forma>diren</forma>
+  </w>
+  <w id="w484">
+    <forma>elkarlanean</forma>
+  </w>
+  <w id="w485">
+    <forma>edo</forma>
+  </w>
+  <w id="w486">
+    <forma>integrazio</forma>
+  </w>
+  <w id="w487">
+    <forma>estuaren</forma>
+  </w>
+  <w id="w488">
+    <forma>aldekoak</forma>
+  </w>
+  <w id="w489">
+    <forma>diren</forma>
+  </w>
+  <w id="w490">
+    <forma>estatuak</forma>
+  </w>
+  <w id="w491">
+    <forma>haien</forma>
+  </w>
+  <w id="w492">
+    <forma>artean</forma>
+  </w>
+  <w id="w493">
+    <forma>harremanetan</forma>
+  </w>
+  <w id="w494">
+    <forma>jarriko</forma>
+  </w>
+  <w id="w495">
+    <forma>diren</forma>
+  </w>
+  <w id="w496">
+    <forma>eta</forma>
+  </w>
+  <w id="w497">
+    <forma>autonomia</forma>
+  </w>
+  <w id="w498">
+    <forma>handiagoari</forma>
+  </w>
+  <w id="w499">
+    <forma>eutsi</forma>
+  </w>
+  <w id="w500">
+    <forma>nahi</forma>
+  </w>
+  <w id="w501">
+    <forma>diotenak</forma>
+  </w>
+  <mw id="mw18" type="Correct" targets="w500 w501">
+    <forma>nahi_diotenak</forma>
+  </mw>
+  <w id="w502">
+    <forma>baztertuko</forma>
+  </w>
+  <w id="w503">
+    <forma>dituzten</forma>
+  </w>
+  <w id="w504">
+    <forma>(</forma>
+  </w>
+  <w id="w505">
+    <forma>bi</forma>
+  </w>
+  <w id="w506">
+    <forma>abiadurako</forma>
+  </w>
+  <w id="w507">
+    <forma>Europa</forma>
+  </w>
+  <w id="w508">
+    <forma>)</forma>
+  </w>
+  <w id="w509">
+    <forma>.</forma>
+  </w>
+  <w id="w510">
+    <forma>Betoaren</forma>
+  </w>
+  <w id="w511">
+    <forma>auziak</forma>
+  </w>
+  <w id="w512">
+    <forma>arazo</forma>
+  </w>
+  <w id="w513">
+    <forma>gehiago</forma>
+  </w>
+  <w id="w514">
+    <forma>sortuko</forma>
+  </w>
+  <w id="w515">
+    <forma>dituela</forma>
+  </w>
+  <w id="w516">
+    <forma>espero</forma>
+  </w>
+  <w id="w517">
+    <forma>da</forma>
+  </w>
+  <mw id="mw19" type="Correct" targets="w516 w517">
+    <forma>espero_da</forma>
+  </mw>
+  <w id="w518">
+    <forma>,</forma>
+  </w>
+  <w id="w519">
+    <forma>zenbait</forma>
+  </w>
+  <w id="w520">
+    <forma>kidek</forma>
+  </w>
+  <w id="w521">
+    <forma>eutsi</forma>
+  </w>
+  <w id="w522">
+    <forma>egin</forma>
+  </w>
+  <w id="w523">
+    <forma>nahi</forma>
+  </w>
+  <w id="w524">
+    <forma>diotelako</forma>
+  </w>
+  <mw id="mw20" type="Correct" targets="w523 w524">
+    <forma>nahi_diotelako</forma>
+  </mw>
+  <w id="w525">
+    <forma>beren</forma>
+  </w>
+  <w id="w526">
+    <forma>interes</forma>
+  </w>
+  <w id="w527">
+    <forma>nazionalak</forma>
+  </w>
+  <w id="w528">
+    <forma>defendatzeko</forma>
+  </w>
+  <w id="w529">
+    <forma>.</forma>
+  </w>
+  <w id="w530">
+    <forma>Tony</forma>
+  </w>
+  <w id="w531">
+    <forma>Blair</forma>
+  </w>
+  <w id="w532">
+    <forma>Erresuma</forma>
+  </w>
+  <w id="w533">
+    <forma>Batuko</forma>
+  </w>
+  <w id="w534">
+    <forma>lehen</forma>
+  </w>
+  <w id="w535">
+    <forma>ministroak</forma>
+  </w>
+  <mw id="mw21" type="Correct" targets="w534 w535">
+    <forma>lehen_ministroak</forma>
+  </mw>
+  <w id="w536">
+    <forma>adierazi</forma>
+  </w>
+  <w id="w537">
+    <forma>zuen</forma>
+  </w>
+  <w id="w538">
+    <forma>ez</forma>
+  </w>
+  <w id="w539">
+    <forma>zuela</forma>
+  </w>
+  <w id="w540">
+    <forma>amore</forma>
+  </w>
+  <w id="w541">
+    <forma>emango</forma>
+  </w>
+  <mw id="mw22" type="Correct" targets="w540 w541">
+    <forma>amore_emango</forma>
+  </mw>
+  <w id="w542">
+    <forma>garrantzitsuentzat</forma>
+  </w>
+  <w id="w543">
+    <forma>jotzen</forma>
+  </w>
+  <w id="w544">
+    <forma>dituen</forma>
+  </w>
+  <w id="w545">
+    <forma>sei</forma>
+  </w>
+  <w id="w546">
+    <forma>alorretan</forma>
+  </w>
+  <w id="w547">
+    <forma>.</forma>
+  </w>
+  <w id="w548">
+    <forma>Bestetik</forma>
+  </w>
+  <w id="w549">
+    <forma>,</forma>
+  </w>
+  <w id="w550">
+    <forma>Italia</forma>
+  </w>
+  <w id="w551">
+    <forma>eta</forma>
+  </w>
+  <w id="w552">
+    <forma>Espainiako</forma>
+  </w>
+  <w id="w553">
+    <forma>Gobernuek</forma>
+  </w>
+  <w id="w554">
+    <forma>gutun</forma>
+  </w>
+  <w id="w555">
+    <forma>bat</forma>
+  </w>
+  <w id="w556">
+    <forma>helarazi</forma>
+  </w>
+  <w id="w557">
+    <forma>zioten</forma>
+  </w>
+  <w id="w558">
+    <forma>atzo</forma>
+  </w>
+  <w id="w559">
+    <forma>Chiraci</forma>
+  </w>
+  <w id="w560">
+    <forma>,</forma>
+  </w>
+  <w id="w561">
+    <forma>muga</forma>
+  </w>
+  <w id="w562">
+    <forma>komunetan</forma>
+  </w>
+  <w id="w563">
+    <forma>inmigranteak</forma>
+  </w>
+  <w id="w564">
+    <forma>kontrolatzen</forma>
+  </w>
+  <w id="w565">
+    <forma>laguntzeko</forma>
+  </w>
+  <w id="w566">
+    <forma>dei</forma>
+  </w>
+  <w id="w567">
+    <forma>egiteko</forma>
+  </w>
+  <mw id="mw23" type="NoSure" targets="w566 w567">
+    <forma>dei_egiteko</forma>
+  </mw>
+  <w id="w568">
+    <forma>.</forma>
+  </w>
+  <w id="w569">
+    <forma>Artikuluak</forma>
+  </w>
+  <w id="w570">
+    <forma>.</forma>
+  </w>
+  <w id="w571">
+    <forma>Agiriak</forma>
+  </w>
+  <w id="w572">
+    <forma>Mendebaldeko</forma>
+  </w>
+  <w id="w573">
+    <forma>oinarrizko</forma>
+  </w>
+  <w id="w574">
+    <forma>baloreak</forma>
+  </w>
+  <w id="w575">
+    <forma>biltzen</forma>
+  </w>
+  <w id="w576">
+    <forma>ditu</forma>
+  </w>
+  <w id="w577">
+    <forma>,</forma>
+  </w>
+  <w id="w578">
+    <forma>adierazpen</forma>
+  </w>
+  <w id="w579">
+    <forma>eta</forma>
+  </w>
+  <w id="w580">
+    <forma>pentsamendu</forma>
+  </w>
+  <w id="w581">
+    <forma>askatasuna</forma>
+  </w>
+  <w id="w582">
+    <forma>eta</forma>
+  </w>
+  <w id="w583">
+    <forma>legearen</forma>
+  </w>
+  <w id="w584">
+    <forma>aurreko</forma>
+  </w>
+  <w id="w585">
+    <forma>berdintasuna</forma>
+  </w>
+  <w id="w586">
+    <forma>horien</forma>
+  </w>
+  <w id="w587">
+    <forma>artean</forma>
+  </w>
+  <w id="w588">
+    <forma>.</forma>
+  </w>
+  <w id="w589">
+    <forma>Greba</forma>
+  </w>
+  <w id="w590">
+    <forma>eskubidea</forma>
+  </w>
+  <w id="w591">
+    <forma>eta</forma>
+  </w>
+  <w id="w592">
+    <forma>bidezko</forma>
+  </w>
+  <w id="w593">
+    <forma>lan</forma>
+  </w>
+  <w id="w594">
+    <forma>baldintzen</forma>
+  </w>
+  <w id="w595">
+    <forma>bermatzea</forma>
+  </w>
+  <w id="w596">
+    <forma>ere</forma>
+  </w>
+  <w id="w597">
+    <forma>jasotzen</forma>
+  </w>
+  <w id="w598">
+    <forma>dira</forma>
+  </w>
+  <w id="w599">
+    <forma>testuan</forma>
+  </w>
+  <w id="w600">
+    <forma>.</forma>
+  </w>
+  <w id="w601">
+    <forma>Ugalketa</forma>
+  </w>
+  <w id="w602">
+    <forma>xede</forma>
+  </w>
+  <w id="w603">
+    <forma>duen</forma>
+  </w>
+  <w id="w604">
+    <forma>klonazioa</forma>
+  </w>
+  <w id="w605">
+    <forma>debekatzen</forma>
+  </w>
+  <w id="w606">
+    <forma>du</forma>
+  </w>
+  <w id="w607">
+    <forma>.</forma>
+  </w>
+  <w id="w608">
+    <forma>Agiriarekin</forma>
+  </w>
+  <w id="w609">
+    <forma>kritikoak</forma>
+  </w>
+  <w id="w610">
+    <forma>diren</forma>
+  </w>
+  <w id="w611">
+    <forma>askok</forma>
+  </w>
+  <w id="w612">
+    <forma>,</forma>
+  </w>
+  <w id="w613">
+    <forma>eta</forma>
+  </w>
+  <w id="w614">
+    <forma>baita</forma>
+  </w>
+  <w id="w615">
+    <forma>horren</forma>
+  </w>
+  <w id="w616">
+    <forma>aldeko</forma>
+  </w>
+  <w id="w617">
+    <forma>batzuek</forma>
+  </w>
+  <w id="w618">
+    <forma>ere</forma>
+  </w>
+  <mw id="mw24" type="Correct" targets="w614 w618">
+    <forma>baita_ere</forma>
+  </mw>
+  <w id="w619">
+    <forma>,</forma>
+  </w>
+  <w id="w620">
+    <forma>Europarako</forma>
+  </w>
+  <w id="w621">
+    <forma>konstituzio</forma>
+  </w>
+  <w id="w622">
+    <forma>enbrionariotzat</forma>
+  </w>
+  <w id="w623">
+    <forma>hartu</forma>
+  </w>
+  <w id="w624">
+    <forma>dute</forma>
+  </w>
+  <w id="w625">
+    <forma>hori</forma>
+  </w>
+  <w id="w626">
+    <forma>.</forma>
+  </w>
+  <w id="w627">
+    <forma>Agiriak</forma>
+  </w>
+  <w id="w628">
+    <forma>54</forma>
+  </w>
+  <w id="w629">
+    <forma>artikulutan</forma>
+  </w>
+  <w id="w630">
+    <forma>eta</forma>
+  </w>
+  <w id="w631">
+    <forma>sei</forma>
+  </w>
+  <w id="w632">
+    <forma>kapitulutan</forma>
+  </w>
+  <w id="w633">
+    <forma>biltzen</forma>
+  </w>
+  <w id="w634">
+    <forma>ditu</forma>
+  </w>
+  <w id="w635">
+    <forma>eskubide</forma>
+  </w>
+  <w id="w636">
+    <forma>guztiak</forma>
+  </w>
+  <w id="w637">
+    <forma>.</forma>
+  </w>
+  <w id="w638">
+    <forma>Kapitulu</forma>
+  </w>
+  <w id="w639">
+    <forma>horien</forma>
+  </w>
+  <w id="w640">
+    <forma>izenburuak</forma>
+  </w>
+  <w id="w641">
+    <forma>duintasuna</forma>
+  </w>
+  <w id="w642">
+    <forma>,</forma>
+  </w>
+  <w id="w643">
+    <forma>askatasunak</forma>
+  </w>
+  <w id="w644">
+    <forma>,</forma>
+  </w>
+  <w id="w645">
+    <forma>berdintasuna</forma>
+  </w>
+  <w id="w646">
+    <forma>,</forma>
+  </w>
+  <w id="w647">
+    <forma>elkartasuna</forma>
+  </w>
+  <w id="w648">
+    <forma>,</forma>
+  </w>
+  <w id="w649">
+    <forma>herritarren</forma>
+  </w>
+  <w id="w650">
+    <forma>eskubideak</forma>
+  </w>
+  <w id="w651">
+    <forma>eta</forma>
+  </w>
+  <w id="w652">
+    <forma>justizia</forma>
+  </w>
+  <w id="w653">
+    <forma>dira</forma>
+  </w>
+  <w id="w654">
+    <forma>.</forma>
+  </w>
+  <w id="w655">
+    <forma>Artikulu</forma>
+  </w>
+  <w id="w656">
+    <forma>esanguratsuenak</forma>
+  </w>
+  <w id="w657">
+    <forma>hauek</forma>
+  </w>
+  <w id="w658">
+    <forma>dira</forma>
+  </w>
+  <w id="w659">
+    <forma>:</forma>
+  </w>
+  <w id="w660">
+    <forma>2.</forma>
+  </w>
+  <w id="w661">
+    <forma>artikulua</forma>
+  </w>
+  <w id="w662">
+    <forma>.</forma>
+  </w>
+  <w id="w663">
+    <forma>Pertsona</forma>
+  </w>
+  <w id="w664">
+    <forma>guztiek</forma>
+  </w>
+  <w id="w665">
+    <forma>dute</forma>
+  </w>
+  <w id="w666">
+    <forma>bizitzarako</forma>
+  </w>
+  <w id="w667">
+    <forma>eskubidea</forma>
+  </w>
+  <w id="w668">
+    <forma>.</forma>
+  </w>
+  <w id="w669">
+    <forma>Ez</forma>
+  </w>
+  <w id="w670">
+    <forma>da</forma>
+  </w>
+  <w id="w671">
+    <forma>inor</forma>
+  </w>
+  <w id="w672">
+    <forma>heriotza</forma>
+  </w>
+  <w id="w673">
+    <forma>zigorrera</forma>
+  </w>
+  <w id="w674">
+    <forma>kondenatuko</forma>
+  </w>
+  <w id="w675">
+    <forma>.</forma>
+  </w>
+  <w id="w676">
+    <forma>14.</forma>
+  </w>
+  <w id="w677">
+    <forma>artikulua</forma>
+  </w>
+  <w id="w678">
+    <forma>.</forma>
+  </w>
+  <w id="w679">
+    <forma>Pertsona</forma>
+  </w>
+  <w id="w680">
+    <forma>guztiek</forma>
+  </w>
+  <w id="w681">
+    <forma>dute</forma>
+  </w>
+  <w id="w682">
+    <forma>hezkuntza</forma>
+  </w>
+  <w id="w683">
+    <forma>jasotzeko</forma>
+  </w>
+  <w id="w684">
+    <forma>eskubidea</forma>
+  </w>
+  <w id="w685">
+    <forma>.</forma>
+  </w>
+  <w id="w686">
+    <forma>23.</forma>
+  </w>
+  <w id="w687">
+    <forma>artikulua</forma>
+  </w>
+  <w id="w688">
+    <forma>.</forma>
+  </w>
+  <w id="w689">
+    <forma>Gizonezkoen</forma>
+  </w>
+  <w id="w690">
+    <forma>eta</forma>
+  </w>
+  <w id="w691">
+    <forma>emakumezkoen</forma>
+  </w>
+  <w id="w692">
+    <forma>arteko</forma>
+  </w>
+  <w id="w693">
+    <forma>berdintasuna</forma>
+  </w>
+  <w id="w694">
+    <forma>arlo</forma>
+  </w>
+  <w id="w695">
+    <forma>guztietan</forma>
+  </w>
+  <w id="w696">
+    <forma>bermatuko</forma>
+  </w>
+  <w id="w697">
+    <forma>da</forma>
+  </w>
+  <w id="w698">
+    <forma>,</forma>
+  </w>
+  <w id="w699">
+    <forma>baita</forma>
+  </w>
+  <w id="w700">
+    <forma>lan</forma>
+  </w>
+  <w id="w701">
+    <forma>arloan</forma>
+  </w>
+  <w id="w702">
+    <forma>ere</forma>
+  </w>
+  <mw id="mw25" type="Correct" targets="w699 w702">
+    <forma>baita_ere</forma>
+  </mw>
+  <w id="w703">
+    <forma>.</forma>
+  </w>
+  <w id="w704">
+    <forma>Kontratatua</forma>
+  </w>
+  <w id="w705">
+    <forma>izateko</forma>
+  </w>
+  <w id="w706">
+    <forma>aukera</forma>
+  </w>
+  <w id="w707">
+    <forma>eta</forma>
+  </w>
+  <w id="w708">
+    <forma>lan</forma>
+  </w>
+  <w id="w709">
+    <forma>baldintza</forma>
+  </w>
+  <w id="w710">
+    <forma>berdinak</forma>
+  </w>
+  <w id="w711">
+    <forma>izatea</forma>
+  </w>
+  <w id="w712">
+    <forma>eta</forma>
+  </w>
+  <w id="w713">
+    <forma>soldata</forma>
+  </w>
+  <w id="w714">
+    <forma>bera</forma>
+  </w>
+  <w id="w715">
+    <forma>jasotzea</forma>
+  </w>
+  <w id="w716">
+    <forma>bermatuko</forma>
+  </w>
+  <w id="w717">
+    <forma>dira</forma>
+  </w>
+  <w id="w718">
+    <forma>.</forma>
+  </w>
+  <w id="w719">
+    <forma>28.</forma>
+  </w>
+  <w id="w720">
+    <forma>artikulua</forma>
+  </w>
+  <w id="w721">
+    <forma>.</forma>
+  </w>
+  <w id="w722">
+    <forma>Langileek</forma>
+  </w>
+  <w id="w723">
+    <forma>eta</forma>
+  </w>
+  <w id="w724">
+    <forma>enpresariek</forma>
+  </w>
+  <w id="w725">
+    <forma>negoziatzeko</forma>
+  </w>
+  <w id="w726">
+    <forma>eta</forma>
+  </w>
+  <w id="w727">
+    <forma>akordio</forma>
+  </w>
+  <w id="w728">
+    <forma>kolektiboak</forma>
+  </w>
+  <w id="w729">
+    <forma>lortzeko</forma>
+  </w>
+  <w id="w730">
+    <forma>eskubidea</forma>
+  </w>
+  <w id="w731">
+    <forma>dute</forma>
+  </w>
+  <w id="w732">
+    <forma>.</forma>
+  </w>
+  <w id="w733">
+    <forma>Interes</forma>
+  </w>
+  <w id="w734">
+    <forma>desberdinen</forma>
+  </w>
+  <w id="w735">
+    <forma>arteko</forma>
+  </w>
+  <w id="w736">
+    <forma>gatazka</forma>
+  </w>
+  <w id="w737">
+    <forma>gertatuz</forma>
+  </w>
+  <w id="w738">
+    <forma>gero</forma>
+  </w>
+  <w id="w739">
+    <forma>,</forma>
+  </w>
+  <w id="w740">
+    <forma>lanuztea</forma>
+  </w>
+  <w id="w741">
+    <forma>bezalako</forma>
+  </w>
+  <w id="w742">
+    <forma>ekintza</forma>
+  </w>
+  <w id="w743">
+    <forma>kolektiboak</forma>
+  </w>
+  <w id="w744">
+    <forma>egiteko</forma>
+  </w>
+  <w id="w745">
+    <forma>eskubidea</forma>
+  </w>
+  <w id="w746">
+    <forma>bermatuko</forma>
+  </w>
+  <w id="w747">
+    <forma>da</forma>
+  </w>
+  <w id="w748">
+    <forma>.</forma>
+  </w>
+  <w id="w749">
+    <forma>32.</forma>
+  </w>
+  <w id="w750">
+    <forma>artikulua</forma>
+  </w>
+  <w id="w751">
+    <forma>.</forma>
+  </w>
+  <w id="w752">
+    <forma>Debekatua</forma>
+  </w>
+  <w id="w753">
+    <forma>dago</forma>
+  </w>
+  <w id="w754">
+    <forma>haurrak</forma>
+  </w>
+  <w id="w755">
+    <forma>lanerako</forma>
+  </w>
+  <w id="w756">
+    <forma>kontratatzea</forma>
+  </w>
+  <w id="w757">
+    <forma>.</forma>
+  </w>
+  <w id="w758">
+    <forma>35.</forma>
+  </w>
+  <w id="w759">
+    <forma>artikulua</forma>
+  </w>
+  <w id="w760">
+    <forma>.</forma>
+  </w>
+  <w id="w761">
+    <forma>Pertsona</forma>
+  </w>
+  <w id="w762">
+    <forma>guztiek</forma>
+  </w>
+  <w id="w763">
+    <forma>dute</forma>
+  </w>
+  <w id="w764">
+    <forma>osasun</forma>
+  </w>
+  <w id="w765">
+    <forma>artatzea</forma>
+  </w>
+  <w id="w766">
+    <forma>izateko</forma>
+  </w>
+  <w id="w767">
+    <forma>eta</forma>
+  </w>
+  <w id="w768">
+    <forma>tratamendu</forma>
+  </w>
+  <w id="w769">
+    <forma>medikua</forma>
+  </w>
+  <w id="w770">
+    <forma>jasotzeko</forma>
+  </w>
+  <w id="w771">
+    <forma>eskubidea</forma>
+  </w>
+  <w id="w772">
+    <forma>.</forma>
+  </w>
+  <w id="w773">
+    <forma>37.</forma>
+  </w>
+  <w id="w774">
+    <forma>artikulua</forma>
+  </w>
+  <w id="w775">
+    <forma>.</forma>
+  </w>
+  <w id="w776">
+    <forma>Batasunaren</forma>
+  </w>
+  <w id="w777">
+    <forma>politikak</forma>
+  </w>
+  <w id="w778">
+    <forma>ingurugiroaren</forma>
+  </w>
+  <w id="w779">
+    <forma>babesa</forma>
+  </w>
+  <w id="w780">
+    <forma>eta</forma>
+  </w>
+  <w id="w781">
+    <forma>ingurune-baldintzen</forma>
+  </w>
+  <w id="w782">
+    <forma>hobekuntza</forma>
+  </w>
+  <w id="w783">
+    <forma>bilduko</forma>
+  </w>
+  <w id="w784">
+    <forma>ditu</forma>
+  </w>
+  <w id="w785">
+    <forma>.</forma>
+  </w>
+  <w id="w786">
+    <forma>Agiria</forma>
+  </w>
+  <w id="w787">
+    <forma>eztabaidagai</forma>
+  </w>
+  <w id="w788">
+    <forma>Alemaniako</forma>
+  </w>
+  <w id="w789">
+    <forma>prentsan</forma>
+  </w>
+  <w id="w790">
+    <forma>.</forma>
+  </w>
+  <w id="w791">
+    <forma>Nizako</forma>
+  </w>
+  <w id="w792">
+    <forma>goi</forma>
+  </w>
+  <w id="w793">
+    <forma>bileran</forma>
+  </w>
+  <w id="w794">
+    <forma>onartutako</forma>
+  </w>
+  <w id="w795">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w796">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w797">
+    <forma>Agiriari</forma>
+  </w>
+  <w id="w798">
+    <forma>buruzko</forma>
+  </w>
+  <w id="w799">
+    <forma>iritzi</forma>
+  </w>
+  <w id="w800">
+    <forma>kontrajarriak</forma>
+  </w>
+  <w id="w801">
+    <forma>azaldu</forma>
+  </w>
+  <w id="w802">
+    <forma>dira</forma>
+  </w>
+  <w id="w803">
+    <forma>Europan</forma>
+  </w>
+  <w id="w804">
+    <forma>barrena</forma>
+  </w>
+  <w id="w805">
+    <forma>.</forma>
+  </w>
+  <w id="w806">
+    <forma>Berlingo</forma>
+  </w>
+  <w id="w807">
+    <forma>egunkari</forma>
+  </w>
+  <w id="w808">
+    <forma>Tageszeitung-ek</forma>
+  </w>
+  <w id="w809">
+    <forma>bi</forma>
+  </w>
+  <w id="w810">
+    <forma>artikulu</forma>
+  </w>
+  <w id="w811">
+    <forma>argitaratu</forma>
+  </w>
+  <w id="w812">
+    <forma>zituen</forma>
+  </w>
+  <w id="w813">
+    <forma>atzoko</forma>
+  </w>
+  <w id="w814">
+    <forma>alean</forma>
+  </w>
+  <w id="w815">
+    <forma>.</forma>
+  </w>
+  <w id="w816">
+    <forma>Lehenak</forma>
+  </w>
+  <w id="w817">
+    <forma>agiriaren</forma>
+  </w>
+  <w id="w818">
+    <forma>kontrako</forma>
+  </w>
+  <w id="w819">
+    <forma>jarrera</forma>
+  </w>
+  <w id="w820">
+    <forma>islatzen</forma>
+  </w>
+  <w id="w821">
+    <forma>du</forma>
+  </w>
+  <w id="w822">
+    <forma>.</forma>
+  </w>
+  <w id="w823">
+    <forma>Akatsak</forma>
+  </w>
+  <w id="w824">
+    <forma>izan</forma>
+  </w>
+  <w id="w825">
+    <forma>arren</forma>
+  </w>
+  <w id="w826">
+    <forma>,</forma>
+  </w>
+  <w id="w827">
+    <forma>akordioa</forma>
+  </w>
+  <w id="w828">
+    <forma>onartu</forma>
+  </w>
+  <w id="w829">
+    <forma>beharra</forma>
+  </w>
+  <w id="w830">
+    <forma>aldarrikatzen</forma>
+  </w>
+  <w id="w831">
+    <forma>du</forma>
+  </w>
+  <w id="w832">
+    <forma>bigarrenak</forma>
+  </w>
+  <w id="w833">
+    <forma>.</forma>
+  </w>
+  <w id="w834">
+    <forma>Die</forma>
+  </w>
+  <w id="w835">
+    <forma>Tageszeitung</forma>
+  </w>
+  <w id="w836">
+    <forma>-</forma>
+  </w>
+  <w id="w837">
+    <forma>Berlin</forma>
+  </w>
+  <w id="w838">
+    <forma>.</forma>
+  </w>
+  <w id="w839">
+    <forma>Armonizazioa</forma>
+  </w>
+  <w id="w840">
+    <forma>beherantz</forma>
+  </w>
+  <w id="w841">
+    <forma>.</forma>
+  </w>
+  <w id="w842">
+    <forma>Angela</forma>
+  </w>
+  <w id="w843">
+    <forma>Klein</forma>
+  </w>
+  <w id="w844">
+    <forma>.</forma>
+  </w>
+  <w id="w845">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w846">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w847">
+    <forma>Agiria</forma>
+  </w>
+  <w id="w848">
+    <forma>ezin</forma>
+  </w>
+  <w id="w849">
+    <forma>da</forma>
+  </w>
+  <mw id="mw26" type="Correct" targets="w848 w849">
+    <forma>ezin_da</forma>
+  </mw>
+  <w id="w850">
+    <forma>EBren</forma>
+  </w>
+  <w id="w851">
+    <forma>barruan</forma>
+  </w>
+  <w id="w852">
+    <forma>onartu</forma>
+  </w>
+  <w id="w853">
+    <forma>.</forma>
+  </w>
+  <w id="w854">
+    <forma>Agiri</forma>
+  </w>
+  <w id="w855">
+    <forma>horrek</forma>
+  </w>
+  <w id="w856">
+    <forma>eskubide</forma>
+  </w>
+  <w id="w857">
+    <forma>sozialei</forma>
+  </w>
+  <w id="w858">
+    <forma>egiten</forma>
+  </w>
+  <w id="w859">
+    <forma>die</forma>
+  </w>
+  <w id="w860">
+    <forma>kalte</forma>
+  </w>
+  <mw id="mw27" type="NoSure" targets="w858 w860">
+    <forma>egiten_kalte</forma>
+  </mw>
+  <w id="w861">
+    <forma>,</forma>
+  </w>
+  <w id="w862">
+    <forma>alde</forma>
+  </w>
+  <w id="w863">
+    <forma>bakar</forma>
+  </w>
+  <w id="w864">
+    <forma>batetik</forma>
+  </w>
+  <w id="w865">
+    <forma>baizik</forma>
+  </w>
+  <w id="w866">
+    <forma>ez</forma>
+  </w>
+  <w id="w867">
+    <forma>duelako</forma>
+  </w>
+  <w id="w868">
+    <forma>benetako</forma>
+  </w>
+  <w id="w869">
+    <forma>eragina</forma>
+  </w>
+  <w id="w870">
+    <forma>,</forma>
+  </w>
+  <w id="w871">
+    <forma>kapital</forma>
+  </w>
+  <w id="w872">
+    <forma>eta</forma>
+  </w>
+  <w id="w873">
+    <forma>jabeen</forma>
+  </w>
+  <w id="w874">
+    <forma>interesak</forma>
+  </w>
+  <w id="w875">
+    <forma>babesten</forma>
+  </w>
+  <w id="w876">
+    <forma>dituelako</forma>
+  </w>
+  <w id="w877">
+    <forma>.</forma>
+  </w>
+  <w id="w878">
+    <forma>Mugimendu</forma>
+  </w>
+  <w id="w879">
+    <forma>sozialen</forma>
+  </w>
+  <w id="w880">
+    <forma>ikuspuntutik</forma>
+  </w>
+  <w id="w881">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w882">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w883">
+    <forma>Agiria</forma>
+  </w>
+  <w id="w884">
+    <forma>beherantz</forma>
+  </w>
+  <w id="w885">
+    <forma>egindako</forma>
+  </w>
+  <w id="w886">
+    <forma>armonizazioa</forma>
+  </w>
+  <w id="w887">
+    <forma>da</forma>
+  </w>
+  <w id="w888">
+    <forma>.</forma>
+  </w>
+  <w id="w889">
+    <forma>Agiriak</forma>
+  </w>
+  <w id="w890">
+    <forma>orain</forma>
+  </w>
+  <w id="w891">
+    <forma>arteko</forma>
+  </w>
+  <w id="w892">
+    <forma>maila</forma>
+  </w>
+  <w id="w893">
+    <forma>behetitzen</forma>
+  </w>
+  <w id="w894">
+    <forma>du</forma>
+  </w>
+  <w id="w895">
+    <forma>,</forma>
+  </w>
+  <w id="w896">
+    <forma>sindikatuen</forma>
+  </w>
+  <w id="w897">
+    <forma>eskubideen</forma>
+  </w>
+  <w id="w898">
+    <forma>eremuari</forma>
+  </w>
+  <w id="w899">
+    <forma>eta</forma>
+  </w>
+  <w id="w900">
+    <forma>,</forma>
+  </w>
+  <w id="w901">
+    <forma>batez</forma>
+  </w>
+  <w id="w902">
+    <forma>ere</forma>
+  </w>
+  <mw id="mw28" type="Correct" targets="w901 w902">
+    <forma>batez_ere</forma>
+  </mw>
+  <w id="w903">
+    <forma>,</forma>
+  </w>
+  <w id="w904">
+    <forma>prestazio</forma>
+  </w>
+  <w id="w905">
+    <forma>sozialen</forma>
+  </w>
+  <w id="w906">
+    <forma>arloan</forma>
+  </w>
+  <w id="w907">
+    <forma>dauden</forma>
+  </w>
+  <w id="w908">
+    <forma>eskubideei</forma>
+  </w>
+  <w id="w909">
+    <forma>dagokienez</forma>
+  </w>
+  <w id="w910">
+    <forma>.</forma>
+  </w>
+  <w id="w911">
+    <forma>Ez</forma>
+  </w>
+  <w id="w912">
+    <forma>da</forma>
+  </w>
+  <w id="w913">
+    <forma>hain</forma>
+  </w>
+  <w id="w914">
+    <forma>txarra</forma>
+  </w>
+  <w id="w915">
+    <forma>,</forma>
+  </w>
+  <w id="w916">
+    <forma>pentsa</forma>
+  </w>
+  <w id="w917">
+    <forma>liteke</forma>
+  </w>
+  <w id="w918">
+    <forma>:</forma>
+  </w>
+  <w id="w919">
+    <forma>EBren</forma>
+  </w>
+  <w id="w920">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w921">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w922">
+    <forma>Agiriak</forma>
+  </w>
+  <w id="w923">
+    <forma>soil-soilik</forma>
+  </w>
+  <w id="w924">
+    <forma>jatorria</forma>
+  </w>
+  <w id="w925">
+    <forma>Bruselan</forma>
+  </w>
+  <w id="w926">
+    <forma>duten</forma>
+  </w>
+  <w id="w927">
+    <forma>legeei</forma>
+  </w>
+  <w id="w928">
+    <forma>eragingo</forma>
+  </w>
+  <w id="w929">
+    <forma>die</forma>
+  </w>
+  <w id="w930">
+    <forma>,</forma>
+  </w>
+  <w id="w931">
+    <forma>ezin</forma>
+  </w>
+  <w id="w932">
+    <forma>ditu</forma>
+  </w>
+  <mw id="mw29" type="Correct" targets="w931 w932">
+    <forma>ezin_ditu</forma>
+  </mw>
+  <w id="w933">
+    <forma>araudi</forma>
+  </w>
+  <w id="w934">
+    <forma>nazionalak</forma>
+  </w>
+  <w id="w935">
+    <forma>gainditu</forma>
+  </w>
+  <w id="w936">
+    <forma>.</forma>
+  </w>
+  <w id="w937">
+    <forma>Baina</forma>
+  </w>
+  <w id="w938">
+    <forma>Europako</forma>
+  </w>
+  <w id="w939">
+    <forma>Batasuna</forma>
+  </w>
+  <mw id="mw30" type="Correct" targets="w938 w939">
+    <forma>Europako_Batasuna</forma>
+  </mw>
+  <w id="w940">
+    <forma>batasun</forma>
+  </w>
+  <w id="w941">
+    <forma>politikoa</forma>
+  </w>
+  <w id="w942">
+    <forma>bihurtuko</forma>
+  </w>
+  <w id="w943">
+    <forma>den</forma>
+  </w>
+  <w id="w944">
+    <forma>heinean</forma>
+  </w>
+  <w id="w945">
+    <forma>-</forma>
+  </w>
+  <w id="w946">
+    <forma>eta</forma>
+  </w>
+  <w id="w947">
+    <forma>gainera</forma>
+  </w>
+  <w id="w948">
+    <forma>,</forma>
+  </w>
+  <w id="w949">
+    <forma>Konstituzio</forma>
+  </w>
+  <w id="w950">
+    <forma>komunarekin</forma>
+  </w>
+  <w id="w951">
+    <forma>-</forma>
+  </w>
+  <w id="w952">
+    <forma>Bruselaren</forma>
+  </w>
+  <w id="w953">
+    <forma>konpetentzien</forma>
+  </w>
+  <w id="w954">
+    <forma>esparrua</forma>
+  </w>
+  <w id="w955">
+    <forma>handitu</forma>
+  </w>
+  <w id="w956">
+    <forma>egingo</forma>
+  </w>
+  <w id="w957">
+    <forma>da</forma>
+  </w>
+  <w id="w958">
+    <forma>.</forma>
+  </w>
+  <w id="w959">
+    <forma>Jadanik</forma>
+  </w>
+  <w id="w960">
+    <forma>egun</forma>
+  </w>
+  <w id="w961">
+    <forma>Bundestagen</forma>
+  </w>
+  <w id="w962">
+    <forma>jorratzen</forma>
+  </w>
+  <w id="w963">
+    <forma>diren</forma>
+  </w>
+  <w id="w964">
+    <forma>legeen</forma>
+  </w>
+  <w id="w965">
+    <forma>%60k</forma>
+  </w>
+  <w id="w966">
+    <forma>dute</forma>
+  </w>
+  <w id="w967">
+    <forma>«</forma>
+  </w>
+  <w id="w968">
+    <forma>jatorria</forma>
+  </w>
+  <w id="w969">
+    <forma>»</forma>
+  </w>
+  <w id="w970">
+    <forma>Bruselan</forma>
+  </w>
+  <w id="w971">
+    <forma>.</forma>
+  </w>
+  <w id="w972">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w973">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w974">
+    <forma>Agiriak</forma>
+  </w>
+  <w id="w975">
+    <forma>ez</forma>
+  </w>
+  <w id="w976">
+    <forma>lituzke</forma>
+  </w>
+  <w id="w977">
+    <forma>auzitan</forma>
+  </w>
+  <w id="w978">
+    <forma>jarri</forma>
+  </w>
+  <w id="w979">
+    <forma>behar</forma>
+  </w>
+  <mw id="mw31" type="NoSure" targets="w976 w979">
+    <forma>lituzke_behar</forma>
+  </mw>
+  <w id="w980">
+    <forma>berak</forma>
+  </w>
+  <w id="w981">
+    <forma>baino</forma>
+  </w>
+  <w id="w982">
+    <forma>maila</forma>
+  </w>
+  <w id="w983">
+    <forma>sozial</forma>
+  </w>
+  <w id="w984">
+    <forma>altuagoa</forma>
+  </w>
+  <w id="w985">
+    <forma>garatu</forma>
+  </w>
+  <w id="w986">
+    <forma>duten</forma>
+  </w>
+  <w id="w987">
+    <forma>lorpen</forma>
+  </w>
+  <w id="w988">
+    <forma>nazionalak</forma>
+  </w>
+  <w id="w989">
+    <forma>.</forma>
+  </w>
+  <w id="w990">
+    <forma>Agiriak</forma>
+  </w>
+  <w id="w991">
+    <forma>eskubide</forma>
+  </w>
+  <w id="w992">
+    <forma>sozialak</forma>
+  </w>
+  <w id="w993">
+    <forma>oso</forma>
+  </w>
+  <w id="w994">
+    <forma>modu</forma>
+  </w>
+  <w id="w995">
+    <forma>lainotsuan</forma>
+  </w>
+  <w id="w996">
+    <forma>aipatzen</forma>
+  </w>
+  <w id="w997">
+    <forma>ditu</forma>
+  </w>
+  <w id="w998">
+    <forma>.</forma>
+  </w>
+  <w id="w999">
+    <forma>Beste</forma>
+  </w>
+  <w id="w1000">
+    <forma>era</forma>
+  </w>
+  <w id="w1001">
+    <forma>batera</forma>
+  </w>
+  <w id="w1002">
+    <forma>azalduta</forma>
+  </w>
+  <w id="w1003">
+    <forma>,</forma>
+  </w>
+  <w id="w1004">
+    <forma>Europa</forma>
+  </w>
+  <w id="w1005">
+    <forma>osorako</forma>
+  </w>
+  <w id="w1006">
+    <forma>greba</forma>
+  </w>
+  <w id="w1007">
+    <forma>,</forma>
+  </w>
+  <w id="w1008">
+    <forma>konbenio</forma>
+  </w>
+  <w id="w1009">
+    <forma>eta</forma>
+  </w>
+  <w id="w1010">
+    <forma>norberaren</forma>
+  </w>
+  <w id="w1011">
+    <forma>beharraren</forma>
+  </w>
+  <w id="w1012">
+    <forma>araberako</forma>
+  </w>
+  <w id="w1013">
+    <forma>gutxieneko</forma>
+  </w>
+  <w id="w1014">
+    <forma>soldataz</forma>
+  </w>
+  <w id="w1015">
+    <forma>ez</forma>
+  </w>
+  <w id="w1016">
+    <forma>du</forma>
+  </w>
+  <w id="w1017">
+    <forma>ezer</forma>
+  </w>
+  <w id="w1018">
+    <forma>ere</forma>
+  </w>
+  <mw id="mw32" type="Correct" targets="w1017 w1018">
+    <forma>ezer_ere</forma>
+  </mw>
+  <w id="w1019">
+    <forma>esaten</forma>
+  </w>
+  <w id="w1020">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w1021">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w1022">
+    <forma>Agiriak</forma>
+  </w>
+  <w id="w1023">
+    <forma>.</forma>
+  </w>
+  <w id="w1024">
+    <forma>Jabegoa</forma>
+  </w>
+  <w id="w1025">
+    <forma>,</forma>
+  </w>
+  <w id="w1026">
+    <forma>kapital</forma>
+  </w>
+  <w id="w1027">
+    <forma>eta</forma>
+  </w>
+  <w id="w1028">
+    <forma>merkatal</forma>
+  </w>
+  <w id="w1029">
+    <forma>produktu</forma>
+  </w>
+  <w id="w1030">
+    <forma>eta</forma>
+  </w>
+  <w id="w1031">
+    <forma>zerbitzuen</forma>
+  </w>
+  <w id="w1032">
+    <forma>trafikoa</forma>
+  </w>
+  <w id="w1033">
+    <forma>,</forma>
+  </w>
+  <w id="w1034">
+    <forma>aldiz</forma>
+  </w>
+  <w id="w1035">
+    <forma>,</forma>
+  </w>
+  <w id="w1036">
+    <forma>bermatzen</forma>
+  </w>
+  <w id="w1037">
+    <forma>ditu</forma>
+  </w>
+  <w id="w1038">
+    <forma>Europa</forma>
+  </w>
+  <w id="w1039">
+    <forma>osoan</forma>
+  </w>
+  <w id="w1040">
+    <forma>.</forma>
+  </w>
+  <w id="w1041">
+    <forma>Sinatu</forma>
+  </w>
+  <w id="w1042">
+    <forma>!</forma>
+  </w>
+  <w id="w1043">
+    <forma>Ute</forma>
+  </w>
+  <w id="w1044">
+    <forma>Hausmann</forma>
+  </w>
+  <w id="w1045">
+    <forma>.</forma>
+  </w>
+  <w id="w1046">
+    <forma>EB</forma>
+  </w>
+  <w id="w1047">
+    <forma>Oinarrizko</forma>
+  </w>
+  <w id="w1048">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w1049">
+    <forma>Agiriari</forma>
+  </w>
+  <w id="w1050">
+    <forma>lotu</forma>
+  </w>
+  <w id="w1051">
+    <forma>behar</forma>
+  </w>
+  <w id="w1052">
+    <forma>zaio</forma>
+  </w>
+  <mw id="mw33" type="Correct" targets="w1051 w1052">
+    <forma>behar_zaio</forma>
+  </mw>
+  <w id="w1053">
+    <forma>.</forma>
+  </w>
+  <w id="w1054">
+    <forma>Zoritxarrez</forma>
+  </w>
+  <w id="w1055">
+    <forma>gutxieneko</forma>
+  </w>
+  <w id="w1056">
+    <forma>kontsentsua</forma>
+  </w>
+  <w id="w1057">
+    <forma>da</forma>
+  </w>
+  <w id="w1058">
+    <forma>hori</forma>
+  </w>
+  <w id="w1059">
+    <forma>,</forma>
+  </w>
+  <w id="w1060">
+    <forma>baina</forma>
+  </w>
+  <w id="w1061">
+    <forma>soil-soilik</forma>
+  </w>
+  <w id="w1062">
+    <forma>agiria</forma>
+  </w>
+  <w id="w1063">
+    <forma>existitzen</forma>
+  </w>
+  <w id="w1064">
+    <forma>hasten</forma>
+  </w>
+  <w id="w1065">
+    <forma>denean</forma>
+  </w>
+  <w id="w1066">
+    <forma>izango</forma>
+  </w>
+  <w id="w1067">
+    <forma>da</forma>
+  </w>
+  <w id="w1068">
+    <forma>hura</forma>
+  </w>
+  <w id="w1069">
+    <forma>erreformen</forma>
+  </w>
+  <w id="w1070">
+    <forma>bidez</forma>
+  </w>
+  <w id="w1071">
+    <forma>aldatzeko</forma>
+  </w>
+  <w id="w1072">
+    <forma>aukera</forma>
+  </w>
+  <w id="w1073">
+    <forma>.</forma>
+  </w>
+  <w id="w1074">
+    <forma>Agiriaren</forma>
+  </w>
+  <w id="w1075">
+    <forma>hutsak</forma>
+  </w>
+  <w id="w1076">
+    <forma>ageri-agerikoak</forma>
+  </w>
+  <w id="w1077">
+    <forma>dira</forma>
+  </w>
+  <w id="w1078">
+    <forma>,</forma>
+  </w>
+  <w id="w1079">
+    <forma>batez</forma>
+  </w>
+  <w id="w1080">
+    <forma>ere</forma>
+  </w>
+  <mw id="mw34" type="Correct" targets="w1079 w1080">
+    <forma>batez_ere</forma>
+  </mw>
+  <w id="w1081">
+    <forma>eskubide</forma>
+  </w>
+  <w id="w1082">
+    <forma>sozialei</forma>
+  </w>
+  <w id="w1083">
+    <forma>dagokien</forma>
+  </w>
+  <w id="w1084">
+    <forma>arloan</forma>
+  </w>
+  <w id="w1085">
+    <forma>-</forma>
+  </w>
+  <w id="w1086">
+    <forma>langabetuak</forma>
+  </w>
+  <w id="w1087">
+    <forma>babesteko</forma>
+  </w>
+  <w id="w1088">
+    <forma>araudian</forma>
+  </w>
+  <w id="w1089">
+    <forma>,</forma>
+  </w>
+  <w id="w1090">
+    <forma>esaterako</forma>
+  </w>
+  <w id="w1091">
+    <forma>-</forma>
+  </w>
+  <w id="w1092">
+    <forma>.</forma>
+  </w>
+  <w id="w1093">
+    <forma>Baina</forma>
+  </w>
+  <w id="w1094">
+    <forma>agiria</forma>
+  </w>
+  <w id="w1095">
+    <forma>orain</forma>
+  </w>
+  <w id="w1096">
+    <forma>onartzea</forma>
+  </w>
+  <w id="w1097">
+    <forma>oztopatzea</forma>
+  </w>
+  <w id="w1098">
+    <forma>alferrekoa</forma>
+  </w>
+  <w id="w1099">
+    <forma>izango</forma>
+  </w>
+  <w id="w1100">
+    <forma>litzateke</forma>
+  </w>
+  <w id="w1101">
+    <forma>,</forma>
+  </w>
+  <w id="w1102">
+    <forma>baita</forma>
+  </w>
+  <w id="w1103">
+    <forma>arriskutsua</forma>
+  </w>
+  <w id="w1104">
+    <forma>ere</forma>
+  </w>
+  <mw id="mw35" type="Correct" targets="w1102 w1104">
+    <forma>baita_ere</forma>
+  </mw>
+  <w id="w1105">
+    <forma>:</forma>
+  </w>
+  <w id="w1106">
+    <forma>horrek</forma>
+  </w>
+  <w id="w1107">
+    <forma>kili-kolo</forma>
+  </w>
+  <w id="w1108">
+    <forma>jarriko</forma>
+  </w>
+  <w id="w1109">
+    <forma>luke</forma>
+  </w>
+  <w id="w1110">
+    <forma>estatu</forma>
+  </w>
+  <w id="w1111">
+    <forma>desberdinetako</forma>
+  </w>
+  <w id="w1112">
+    <forma>oinarrizko</forma>
+  </w>
+  <w id="w1113">
+    <forma>tradizio</forma>
+  </w>
+  <w id="w1114">
+    <forma>sozialen</forma>
+  </w>
+  <w id="w1115">
+    <forma>artean</forma>
+  </w>
+  <w id="w1116">
+    <forma>ozta-ozta</forma>
+  </w>
+  <w id="w1117">
+    <forma>lortutako</forma>
+  </w>
+  <w id="w1118">
+    <forma>konpromisoa</forma>
+  </w>
+  <w id="w1119">
+    <forma>.</forma>
+  </w>
+  <w id="w1120">
+    <forma>Alternatiba</forma>
+  </w>
+  <w id="w1121">
+    <forma>beraz</forma>
+  </w>
+  <w id="w1122">
+    <forma>,</forma>
+  </w>
+  <w id="w1123">
+    <forma>bakarra</forma>
+  </w>
+  <w id="w1124">
+    <forma>dago</forma>
+  </w>
+  <w id="w1125">
+    <forma>:</forma>
+  </w>
+  <w id="w1126">
+    <forma>agiri</forma>
+  </w>
+  <w id="w1127">
+    <forma>hau</forma>
+  </w>
+  <w id="w1128">
+    <forma>edo</forma>
+  </w>
+  <w id="w1129">
+    <forma>bat</forma>
+  </w>
+  <w id="w1130">
+    <forma>ere</forma>
+  </w>
+  <mw id="mw36" type="NoSure" targets="w1129 w1130">
+    <forma>bat_ere</forma>
+  </mw>
+  <w id="w1131">
+    <forma>ez</forma>
+  </w>
+  <w id="w1132">
+    <forma>.</forma>
+  </w>
+  <w id="w1133">
+    <forma>Eta</forma>
+  </w>
+  <w id="w1134">
+    <forma>politikoki</forma>
+  </w>
+  <w id="w1135">
+    <forma>ez</forma>
+  </w>
+  <w id="w1136">
+    <forma>litzateke</forma>
+  </w>
+  <w id="w1137">
+    <forma>zuzena</forma>
+  </w>
+  <w id="w1138">
+    <forma>izango</forma>
+  </w>
+  <w id="w1139">
+    <forma>Oinarriko</forma>
+  </w>
+  <w id="w1140">
+    <forma>Eskubideen</forma>
+  </w>
+  <w id="w1141">
+    <forma>Agiriari</forma>
+  </w>
+  <w id="w1142">
+    <forma>uko</forma>
+  </w>
+  <w id="w1143">
+    <forma>egitea</forma>
+  </w>
+  <mw id="mw37" type="Correct" targets="w1142 w1143">
+    <forma>uko_egitea</forma>
+  </mw>
+  <w id="w1144">
+    <forma>.</forma>
+  </w>
+  <w id="w1145">
+    <forma>ESANAK</forma>
+  </w>
+  <w id="w1146">
+    <forma>.</forma>
+  </w>
+  <w id="w1147">
+    <forma>Jacques</forma>
+  </w>
+  <w id="w1148">
+    <forma>Chirac</forma>
+  </w>
+  <w id="w1149">
+    <forma>Europako</forma>
+  </w>
+  <w id="w1150">
+    <forma>Batasuneko</forma>
+  </w>
+  <mw id="mw38" type="Correct" targets="w1149 w1150">
+    <forma>Europako_Batasuneko</forma>
+  </mw>
+  <w id="w1151">
+    <forma>txandakako</forma>
+  </w>
+  <w id="w1152">
+    <forma>lehendakaritzako</forma>
+  </w>
+  <w id="w1153">
+    <forma>burua</forma>
+  </w>
+  <w id="w1154">
+    <forma>.</forma>
+  </w>
+  <w id="w1155">
+    <forma>«</forma>
+  </w>
+  <w id="w1156">
+    <forma>Printzipio</forma>
+  </w>
+  <w id="w1157">
+    <forma>demokratikoen</forma>
+  </w>
+  <w id="w1158">
+    <forma>aurkakoak</forma>
+  </w>
+  <w id="w1159">
+    <forma>ziren</forma>
+  </w>
+  <w id="w1160">
+    <forma>manifestazioak</forma>
+  </w>
+  <w id="w1161">
+    <forma>»</forma>
+  </w>
+  <w id="w1162">
+    <forma>.</forma>
+  </w>
+  <w id="w1163">
+    <forma>Lionel</forma>
+  </w>
+  <w id="w1164">
+    <forma>Jospin</forma>
+  </w>
+  <w id="w1165">
+    <forma>Frantziako</forma>
+  </w>
+  <w id="w1166">
+    <forma>lehen</forma>
+  </w>
+  <w id="w1167">
+    <forma>ministroa</forma>
+  </w>
+  <mw id="mw39" type="Correct" targets="w1166 w1167">
+    <forma>lehen_ministroa</forma>
+  </mw>
+  <w id="w1168">
+    <forma>.</forma>
+  </w>
+  <w id="w1169">
+    <forma>«</forma>
+  </w>
+  <w id="w1170">
+    <forma>Frantziak</forma>
+  </w>
+  <w id="w1171">
+    <forma>globalizio</forma>
+  </w>
+  <w id="w1172">
+    <forma>bidezkoagoa</forma>
+  </w>
+  <w id="w1173">
+    <forma>eta</forma>
+  </w>
+  <w id="w1174">
+    <forma>kontrolatua</forma>
+  </w>
+  <w id="w1175">
+    <forma>bilatzen</forma>
+  </w>
+  <w id="w1176">
+    <forma>du</forma>
+  </w>
+  <w id="w1177">
+    <forma>»</forma>
+  </w>
+  <w id="w1178">
+    <forma>.</forma>
+  </w>
+  <w id="w1179">
+    <forma>«</forma>
+  </w>
+  <w id="w1180">
+    <forma>Herenegun</forma>
+  </w>
+  <w id="w1181">
+    <forma>ideien</forma>
+  </w>
+  <w id="w1182">
+    <forma>zilegitasunarekin</forma>
+  </w>
+  <w id="w1183">
+    <forma>eskatu</forma>
+  </w>
+  <w id="w1184">
+    <forma>zuten</forma>
+  </w>
+  <w id="w1185">
+    <forma>manifestariek</forma>
+  </w>
+  <w id="w1186">
+    <forma>arlo</forma>
+  </w>
+  <w id="w1187">
+    <forma>sozialaz</forma>
+  </w>
+  <w id="w1188">
+    <forma>kezkatzeko</forma>
+  </w>
+  <w id="w1189">
+    <forma>»</forma>
+  </w>
+  <w id="w1190">
+    <forma>.</forma>
+  </w>
+</tokens>
