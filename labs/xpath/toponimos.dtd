@@ -1,0 +1,15 @@
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT ubicacion (#PCDATA)>
+<!ELEMENT item (Codigo, Objeto)>
+<!ELEMENT codigo_geografico (#PCDATA)>
+<!ELEMENT Gentilicio (#PCDATA)>
+<!ELEMENT Codigo (#PCDATA)>
+<!ELEMENT lugar (ubicacion)*>
+<!ELEMENT leyenda_codigos (item)*>
+<!ELEMENT Objeto (#PCDATA)>
+<!ELEMENT Oficial (#PCDATA)>
+<!ELEMENT toponimos (lista_toponimos, leyenda_codigos)>
+<!ELEMENT lista_toponimos (toponimo)*>
+<!ELEMENT Altitud (#PCDATA)>
+<!ELEMENT Generico (#PCDATA)>
+<!ELEMENT toponimo (Nombre | Oficial | Gentilicio | Generico | Codigo | codigo_geografico | lugar | Altitud)*>

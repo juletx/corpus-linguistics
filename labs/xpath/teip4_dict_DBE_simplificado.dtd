@@ -1,0 +1,72 @@
+<!ELEMENT resp (#PCDATA)>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT sense (form*, usg*, gramGrp?, usg*, def?, (eg | xr | re)*)>
+<!ATTLIST sense itarget CDATA #IMPLIED>
+<!ATTLIST sense n CDATA #IMPLIED>
+<!ELEMENT q (#PCDATA | oRef | oVar | emph | note)*>
+<!ELEMENT eg (q, lbl?)>
+<!ELEMENT itype (#PCDATA)>
+<!ELEMENT respStmt (name, resp)>
+<!ELEMENT profileDesc (langUsage)>
+<!ELEMENT titleStmt (title)>
+<!ELEMENT body (entry | superentry)*>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT encodingDesc (#PCDATA)>
+<!ATTLIST encodingDesc TEIform CDATA #IMPLIED>
+<!ELEMENT language (#PCDATA)>
+<!ATTLIST language id CDATA #IMPLIED>
+<!ELEMENT text (body)*>
+<!ATTLIST text id CDATA #IMPLIED>
+<!ATTLIST text lang CDATA #IMPLIED>
+<!ELEMENT posErrores (#PCDATA)>
+<!ELEMENT revisionDesc (change)*>
+<!ELEMENT etym (#PCDATA | emph)*>
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT gen (#PCDATA)>
+<!ELEMENT form ((orth+, lbl?) | (orth, posErrores?, gen?, syll*, lbl?, form*, pron*) | (orth, gen?, number?, gram?, label*, syll?, posErrores?, form*, pron*))>
+<!ATTLIST form type CDATA #IMPLIED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT def (#PCDATA | emph | note)*>
+<!ELEMENT orth (#PCDATA | emph)*>
+<!ATTLIST orth extent CDATA #IMPLIED>
+<!ELEMENT langUsage (language)*>
+<!ELEMENT sourceDesc (#PCDATA | p)*>
+<!ELEMENT usg (#PCDATA)>
+<!ATTLIST usg type CDATA #IMPLIED>
+<!ELEMENT publicationStmt (#PCDATA | p)*>
+<!ELEMENT entry ((form+, gramGrp?, usg*, etym*, note*, sense+, form*)|(form, xr))>
+<!ATTLIST entry id CDATA #IMPLIED>
+<!ATTLIST entry type CDATA #IMPLIED>
+<!ATTLIST entry n CDATA #IMPLIED>
+<!ATTLIST entry itarget CDATA #IMPLIED>
+<!ATTLIST entry vtarget CDATA #IMPLIED>
+<!ATTLIST entry corrected CDATA #IMPLIED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT syll (#PCDATA | label)*>
+<!ELEMENT gram (#PCDATA)>
+<!ELEMENT oRef (#PCDATA)>
+<!ATTLIST oRef type CDATA #IMPLIED>
+<!ELEMENT pron (#PCDATA)>
+<!ELEMENT TEI.2 (teiHeader, text)>
+<!ELEMENT note (#PCDATA | emph | oVar)*>
+<!ATTLIST note type CDATA #IMPLIED>
+<!ELEMENT lbl (#PCDATA)>
+<!ELEMENT oVar (#PCDATA | emph)*>
+<!ATTLIST oVar type CDATA #IMPLIED>
+<!ELEMENT change (date, respStmt, item)>
+<!ELEMENT gramGrp (pos | itype)*>
+<!ELEMENT xr (lbl, usg?, ref+)>
+<!ELEMENT ref (#PCDATA)>
+<!ATTLIST ref target CDATA #IMPLIED>
+<!ELEMENT teiHeader (fileDesc, encodingDesc, profileDesc, revisionDesc)>
+<!ELEMENT fileDesc (titleStmt, publicationStmt, sourceDesc)>
+<!ELEMENT pos (#PCDATA)>
+<!ELEMENT label (#PCDATA)>
+<!ELEMENT re (form, usg*, sense)>
+<!ATTLIST re itarget CDATA #IMPLIED>
+<!ELEMENT emph (#PCDATA|oVar|oRef)*>
+<!ATTLIST emph rend CDATA #IMPLIED>
+<!ELEMENT superentry (entry)+>
+<!ATTLIST superentry id CDATA #IMPLIED>
+<!ATTLIST superentry corrected CDATA #IMPLIED>

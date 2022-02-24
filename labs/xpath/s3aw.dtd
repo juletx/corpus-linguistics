@@ -1,0 +1,13 @@
+<!ELEMENT s (token | punc)*>
+<!ATTLIST s snum CDATA #IMPLIED>
+<!ELEMENT context (s)*>
+<!ATTLIST context filename CDATA #IMPLIED>
+<!ATTLIST context source CDATA #IMPLIED>
+<!ELEMENT lexsn (#PCDATA)>
+<!ELEMENT punc (#PCDATA)>
+<!ELEMENT token (lexsn*, wf)>
+<!ATTLIST token id CDATA #IMPLIED>
+<!ATTLIST token pos CDATA #IMPLIED>
+<!ATTLIST token lemma CDATA #IMPLIED>
+<!ATTLIST token interp CDATA #IMPLIED>
+<!ELEMENT wf (#PCDATA)>

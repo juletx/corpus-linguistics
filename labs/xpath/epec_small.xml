@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tokens>
+  <w id="w1" tokentype="HAS_MAI">
+    <forma>Oinarrizko</forma>
+    <ana id="L-A-ADJ-ARR-296" anatype="Correct">
+      <lema>oinarrizko</lema>
+      <kat>ADJ</kat>
+      <azp>ARR</azp>
+    </ana>
+    <ana id="L-A-IZE-ARR-857" anatype="NoCorrect">
+      <lema>oinarri</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+      <kas>ABS</kas>
+      <mug>MG</mug>
+    </ana>
+    <ana id="L-A-IZE-ARR-856" anatype="NoCorrect">
+      <lema>oinarri</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+      <kas>GEL</kas>
+      <mug>MG</mug>
+    </ana>
+    <ana id="L-A-ADJ-ARR-297" anatype="NoCorrect">
+      <lema>oinarrizko</lema>
+      <kat>ADJ</kat>
+      <azp>ARR</azp>
+      <kas>ABS</kas>
+      <mug>MG</mug>
+    </ana>
+  </w>
+  <w id="w2" tokentype="HAS_MAI">
+    <forma>Eskubideen</forma>
+    <ana id="L-A-IZE-ARR-858" anatype="Correct">
+      <lema>eskubide</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+      <kas>GEN</kas>
+      <num>P</num>
+      <mug>M</mug>
+    </ana>
+    <ana id="L-A-IZE-ARR-859" anatype="NoCorrect">
+      <lema>eskubide</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+      <kas>ABS</kas>
+      <mug>MG</mug>
+    </ana>
+  </w>
+  <w id="w3" tokentype="HAS_MAI">
+    <forma>Agiria</forma>
+    <ana id="L-A-IZE-ARR-860" anatype="Correct">
+      <lema>agiri</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+      <kas>ABS</kas>
+      <num>S</num>
+      <mug>M</mug>
+    </ana>
+  </w>
+  <w id="w4">
+    <forma>onartu</forma>
+    <ana id="L-A-ADI-SIN-438" anatype="Correct">
+      <lema>onartu</lema>
+      <kat>ADI</kat>
+      <azp>SIN</azp>
+    </ana>
+    <ana id="L-A-ADI-SIN-437" anatype="NoCorrect">
+      <lema>onartu</lema>
+      <kat>ADI</kat>
+      <azp>SIN</azp>
+    </ana>
+    <ana id="L-A-ADI-SIN-439" anatype="NoCorrect">
+      <lema>onartu</lema>
+      <kat>ADI</kat>
+      <azp>SIN</azp>
+      <kas>ABS</kas>
+      <mug>MG</mug>
+    </ana>
+  </w>
+  <w id="w5">
+    <forma>dute</forma>
+    <ana id="L-A-ADL-105" anatype="Correct">
+      <lema>*edun</lema>
+      <kat>ADL</kat>
+    </ana>
+    <ana id="L-A-ADT-138" anatype="NoCorrect">
+      <lema>ukan</lema>
+      <kat>ADT</kat>
+    </ana>
+  </w>
+  <w id="w6">
+    <forma>hamabost</forma>
+    <ana id="L-A-DET-DZH-42" anatype="Correct">
+      <lema>hamabost</lema>
+      <kat>DET</kat>
+      <azp>DZH</azp>
+    </ana>
+    <ana id="L-A-IZE-ZKI-29" anatype="NoCorrect">
+      <lema>hamabost</lema>
+      <kat>IZE</kat>
+      <azp>ZKI</azp>
+    </ana>
+    <ana id="L-A-DET-DZH-43" anatype="NoCorrect">
+      <lema>hamabost</lema>
+      <kat>DET</kat>
+      <azp>DZH</azp>
+      <kas>ABS</kas>
+      <mug>MG</mug>
+    </ana>
+    <ana id="L-A-IZE-ZKI-30" anatype="NoCorrect">
+      <lema>hamabost</lema>
+      <kat>IZE</kat>
+      <azp>ZKI</azp>
+      <kas>ABS</kas>
+      <mug>MG</mug>
+    </ana>
+  </w>
+  <w id="w7">
+    <forma>estatuek</forma>
+    <ana id="L-A-IZE-ARR-861" anatype="Correct">
+      <lema>estatua</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+      <kas>ERG</kas>
+      <num>P</num>
+      <mug>M</mug>
+    </ana>
+    <ana id="L-A-IZE-ARR-862" anatype="NoCorrect">
+      <lema>estatu</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+      <kas>ERG</kas>
+      <num>P</num>
+      <mug>M</mug>
+    </ana>
+  </w>
+  <w id="w8" tokentype="PUNT_PUNT">
+    <forma>.</forma>
+  </w>
+  <w id="w9" tokentype="HAS_MAI">
+    <forma>Eztabaida</forma>
+    <ana id="L-A-IZE-ARR-863" anatype="Correct">
+      <lema>eztabaida</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+    </ana>
+    <ana id="L-A-ADI-SIN-440" anatype="NoCorrect">
+      <lema>eztabaidatu</lema>
+      <kat>ADI</kat>
+      <azp>SIN</azp>
+    </ana>
+    <ana id="L-A-IZE-ARR-864" anatype="NoCorrect">
+      <lema>eztabaida</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+      <kas>ABS</kas>
+      <mug>MG</mug>
+    </ana>
+    <ana id="L-A-IZE-ARR-865" anatype="NoCorrect">
+      <lema>eztabaida</lema>
+      <kat>IZE</kat>
+      <azp>ARR</azp>
+      <kas>ABS</kas>
+      <num>S</num>
+      <mug>M</mug>
+    </ana>
+  </w>
+  <w id="w10">
+    <forma>gogorrenak</forma>
+    <ana id="L-A-ADJ-ARR-298" anatype="Correct">
+      <lema>gogor</lema>
+      <kat>ADJ</kat>
+      <azp>ARR</azp>
+      <kas>ABS</kas>
+      <num>P</num>
+      <mug>M</mug>
+    </ana>
+    <ana id="L-A-ADJ_IZEELI-1" anatype="NoCorrect">
+      <lema>gogor</lema>
+      <kat>ADJ_IZEELI</kat>
+      <kas>ABS</kas>
+      <num>P</num>
+      <mug>M</mug>
+    </ana>
+    <ana id="L-A-ADJ_IZEELI-2" anatype="NoCorrect">
+      <lema>gogor</lema>
+      <kat>ADJ_IZEELI</kat>
+      <kas>ERG</kas>
+      <num>S</num>
+      <mug>M</mug>
+    </ana>
+    <ana id="L-A-ADJ-ARR-300" anatype="NoCorrect">
+      <lema>gogor</lema>
+      <kat>ADJ</kat>
+      <azp>ARR</azp>
+      <kas>ABS</kas>
+      <num>P</num>
+      <mug>M</mug>
+    </ana>
+    <ana id="L-A-ADJ-ARR-299" anatype="NoCorrect">
+      <lema>gogor</lema>
+      <kat>ADJ</kat>
+      <azp>ARR</azp>
+      <kas>ERG</kas>
+      <num>S</num>
+      <mug>M</mug>
+    </ana>
+  </w>
+</tokens>
