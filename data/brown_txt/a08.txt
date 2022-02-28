@@ -1,0 +1,101 @@
+Appointment/NN of/IN William/NP S./NP Pfaff/NP Jr./NP ,/pct 41/CD ,/pct as/CS promotion/NN manager/NN of/IN The/AT Times-Picayune/NP Publishing/VBG Company/NN was/BEDZ announced/VBN Saturday/NR by/IN John/NP F./NP Tims/NP ,/pct president/NN of/IN the/AT company/NN ./pct
+Pfaff/NP succeeds/VBZ Martin/NP Burke/NP ,/pct who/WPS resigned/VBD ./pct
+The/AT new/JJ promotion/NN manager/NN has/HVZ been/BEN employed/VBN by/IN the/AT company/NN since/IN January/NP ,/pct 1946/CD ,/pct as/CS a/AT commercial/NN artist/NN in/IN the/AT advertising/VBG department/NN ./pct
+He/PPS is/BEZ a/AT native/NN of/IN New/JJ Orleans/NP and/CC attended/VBD Allen/NP Elementary/JJ school/NN ,/pct Fortier/NP High/JJ school/NN and/CC Soule/NP business/NN college/NN ./pct
+From/IN June/NP ,/pct 1942/CD ,/pct until/IN December/NP ,/pct 1945/CD ,/pct Pfaff/NP served/VBD in/IN the/AT Army/NN Air/NN Corps/NN ./pct
+While/CS in/IN the/AT service/NN he/PPS attended/VBD radio/NN school/NN at/IN Scott/NP Field/NN in/IN Belleville/NP ,/pct Ill./NP ./pct
+Before/CS entering/VBG the/AT service/NN ,/pct Pfaff/NP for/IN five/CD years/NNS did/DOD clerical/JJ work/NN with/IN a/AT general/JJ merchandising/VBG and/CC wholesale/JJ firm/NN in/IN New/JJ Orleans/NP ./pct
+He/PPS is/BEZ married/VBN to/IN the/AT former/AP Audrey/NP Knecht/NP and/CC has/HVZ a/AT daughter/NN ,/pct Karol/NP ,/pct 13/CD ./pct
+They/PPSS reside/VB at/IN 4911/CD Miles/NP Dr./NN ./pct
+Washington/NP
+--/pct Thousands/NNS of/IN bleacher-type/JJ seats/NNS are/BER being/BEG erected/VBN along/IN Pennsylvania/NP Avenue/NN between/IN the/AT Capitol/NN and/CC the/AT White/JJ House/NN for/IN the/AT big/JJ inaugural/NN parade/NN on/IN Jan./NP 20/CD ./pct
+Assuming/VBG the/AT weather/NN is/BEZ halfway/QL decent/JJ that/DT day/NN ,/pct hundreds/NNS of/IN thousands/NNS of/IN persons/NNS will/MD mass/VB along/IN this/DT thoroughfare/NN as/CS President/NN John/NP F./NP Kennedy/NP and/CC retiring/VBG President/NN Dwight/NP D./NP Eisenhower/NP leave/VB Capitol/NN Hill/NN following/VBG the/AT oath-taking/JJ ceremonies/NNS and/CC ride/VB down/IN this/DT historic/JJ ceremonial/JJ route/NN ./pct
+Pennsylvania/NP Avenue/NN ,/pct named/VBN for/IN one/CD of/IN the/AT original/JJ 13/CD states/NNS ,/pct perhaps/RB is/BEZ not/NEG the/AT most/QL impressive/JJ street/NN in/IN the/AT District/NN of/IN Columbia/NP from/IN a/AT commercial/JJ standpoint/NN ./pct
+But/CC from/IN a/AT historic/JJ viewpoint/NN none/PN can/MD approach/VB it/PPO ./pct
+Many/AP buildings/NNS
+Within/IN view/NN of/IN the/AT avenue/NN are/BER some/DTI of/IN the/AT United/VBN States/NNS government's/NNg tremendous/JJ buildings/NNS ,/pct plus/CC shrines/NNS and/CC monuments/NNS ./pct
+Of/IN course/NN ,/pct 1600/CD Pennsylvania/NP ,/pct the/AT White/JJ House/NN ,/pct is/BEZ the/AT most/QL famous/JJ address/NN of/IN the/AT free/JJ world/NN ./pct
+Within/IN an/AT easy/JJ walk/NN from/IN Capitol/NN Hill/NN where/WRB Pennsylvania/NP Avenue/NN comes/VBZ together/RB with/IN Constitution/NN Avenue/NN ,/pct begins/VBZ a/AT series/NN of/IN great/JJ federal/JJ buildings/NNS ,/pct some/DTI a/AT block/NN long/JJ and/CC all/ABN about/RB seven-stories/JJ high/JJ ./pct
+Great/JJ chapters/NNS of/IN history/NN have/HV been/BEN recorded/VBN along/IN the/AT avenue/NN ,/pct now/RB about/RB 169/CD years/NNS old/JJ ./pct
+In/IN the/AT early/JJ spring/NN of/IN 1913/CD a/AT few/AP hundred/CD thousand/CD persons/NNS turned/VBD out/RP to/TO watch/VB 5000/CD women/NNS parade/VB ./pct
+They/PPSS were/BED the/AT suffragettes/NNS and/CC they/PPSS wanted/VBD to/TO vote/VB ./pct
+In/IN the/AT 1920/CD presidential/JJ election/NN they/PPSS had/HVD that/DT right/NN and/CC many/AP of/IN them/PPO did/DOD vote/VB for/IN the/AT first/OD time/NN ./pct
+Seats/NNS on/IN square/NN
+Along/IN this/DT avenue/NN which/WDT saw/VB marching/VBG soldiers/NNS from/IN the/AT War/NN Between/IN the/AT States/NNS returning/VBG in/IN 1865/CD is/BEZ the/AT National/JJ Archives/NNS building/NN where/WRB hundreds/NNS of/IN thousands/NNS of/IN this/DT country's/NNg most/QL valuable/JJ records/NNS are/BER kept/VBN ./pct
+Also/RB the/AT department/NN of/IN justice/NN building/NN is/BEZ located/VBN where/WRB J./NP Edgar/NP Hoover/NP presides/VBZ over/IN the/AT federal/JJ bureau/NN of/IN investigation/NN ./pct
+Street/NN car/NN tracks/NNS run/VB down/IN the/AT center/NN of/IN Pennsylvania/NP ,/pct powered/VBN with/IN lines/NNS that/WPS are/BER underground/RB ./pct
+Many/AP spectators/NNS will/MD be/BE occupying/VBG seats/NNS and/CC vantage/NN points/NNS bordering/VBG Lafayette/NP Square/NN ,/pct opposite/IN the/AT White/JJ House/NN ./pct
+In/IN this/DT historic/JJ square/NN are/BER several/AP statues/NNS ,/pct but/CC the/AT one/CD that/WPS stands/VBZ out/RP over/IN the/AT others/NNS is/BEZ that/DT of/IN Gen./NN Andrew/NP Jackson/NP ,/pct hero/NN of/IN the/AT Battle/NN of/IN New/JJ Orleans/NP ./pct
+Moving/VBG past/IN the/AT presidential/JJ viewing/VBG stand/NN and/CC Lafayette/NP Square/NN will/MD be/BE at/IN least/AP 40/CD marching/VBG units/NNS ./pct
+About/RB 16,000/CD military/JJ members/NNS of/IN all/ABN branches/NNS of/IN the/AT armed/VBN forces/NNS will/MD take/VB part/NN in/IN the/AT parade/NN ./pct
+Division/NN one/CD of/IN the/AT parade/NN will/MD be/BE the/AT service/NN academies/NNS ./pct
+Division/NN two/CD will/MD include/VB the/AT representations/NNS of/IN Massachusetts/NP and/CC Texas/NP ,/pct the/AT respective/JJ states/NNS of/IN the/AT President/NN and/CC of/IN Vice-President/NN L./NP B./NP Johnson/NP ./pct
+Then/RB will/MD come/VB nine/CD other/AP states/NNS in/IN the/AT order/NN of/IN their/PPg admission/NN to/IN the/AT union/NN ./pct
+Division/NN three/CD will/MD be/BE headed/VBN by/IN the/AT Marines/NNS followed/VBN by/IN 12/CD states/NNS ;/pct ;/pct
+division/NN four/CD will/MD be/BE headed/VBN by/IN the/AT Navy/NN ,/pct followed/VBN by/IN 11/CD states/NNS ;/pct ;/pct
+division/NN five/CD ,/pct by/IN the/AT Air/NN Force/NN followed/VBN by/IN 11/CD states/NNS ./pct
+Division/NN six/CD will/MD be/BE headed/VBN by/IN the/AT Coast/NN Guard/NN ,/pct followed/VBN by/IN the/AT reserve/NN forces/NNS of/IN all/ABN services/NNS ,/pct five/CD states/NNS ,/pct Puerto/NP Rico/NP ,/pct the/AT Virgin/NN Islands/NNS ,/pct Guam/NP ,/pct American/JJ Samoa/NP ,/pct the/AT trust/NN territories/NNS and/CC the/AT Canal/NN Zone/NN ./pct
+Jackson/NP ,/pct Miss./NP
+--/pct What/WDT does/DOZ 1961/CD offer/VB in/IN political/JJ and/CC governmental/JJ developments/NNS in/IN Mississippi/NP ?/pct ?/pct
+Even/RB for/IN those/DTS who/WPS have/HV been/BEN observing/VBG the/AT political/JJ scene/NN a/AT long/JJ time/NN ,/pct no/AT script/NN from/IN the/AT past/NN is/BEZ worth/JJ very/QL much/AP in/IN gazing/VBG into/IN the/AT state's/NNg immediate/JJ political/JJ future/NN ./pct
+This/DT is/BEZ largely/RB because/RB of/IN the/AT unpredictability/NN of/IN the/AT man/NN who/WPS operates/VBZ the/AT helm/NN of/IN the/AT state/NN government/NN and/CC is/BEZ the/AT elected/VBN leader/NN of/IN its/PPg two/CD million/CD inhabitants/NNS --/pct Gov./NN Ross/NP Barnett/NP ./pct
+Barnett/NP ,/pct who/WPS came/VBD into/IN office/NN with/IN no/RB previous/JJ experience/NN in/IN public/JJ administration/NN ,/pct has/HVZ surrounded/VBN himself/PPL with/IN confusion/NN which/WDT not/NEG only/RB keeps/VBZ his/PPg foes/NNS guessing/VBG but/CC his/PPg friends/NNS as/CS well/RB ./pct
+Consequently/RB ,/pct it/PPS is/BEZ uncertain/JJ after/IN nearly/RB 12/CD months/NNS in/IN office/NN just/RB which/WDT direction/NN the/AT Barnett/NP administration/NN will/MD take/VB in/IN the/AT coming/VBG year/NN ./pct
+Could/MD be/BE scramble/NN
+Some/DTI predict/VB the/AT administration/NN will/MD settle/VB down/RP during/IN 1961/CD and/CC iron/VB out/RP the/AT rough/JJ edges/NNS which/WDT it/PPS has/HVZ had/HVN thus/QL far/RB ./pct
+The/AT builtin/JJ headache/NN of/IN the/AT Barnett/NP regime/NN thus/QL far/RB has/HVZ been/BEN the/AT steady/JJ stream/NN of/IN job-seekers/NNS and/CC others/NNS who/WPS feel/VB they/PPSS were/BED given/VBN commitments/NNS by/IN Barnett/NP at/IN some/DTI stage/NN of/IN his/PPg eight-year/JJ quest/NN for/IN the/AT governor's/NNg office/NN ./pct
+There/EX are/BER many/AP who/WPS predict/VB that/CS should/MD Barnett/NP decide/VB to/TO call/VB the/AT Legislature/NN back/RB into/IN special/JJ session/NN ,/pct it/PPS will/MD really/RB throw/VB his/PPg administration/NN into/IN a/AT scramble/NN ./pct
+Certainly/RB nobody/PN will/MD predict/VB that/CS the/AT next/AP time/NN the/AT lawmakers/NNS come/VB back/RB together/RB Barnett/NP will/MD be/BE able/JJ to/TO enjoy/VB a/AT re-enactment/NN of/IN the/AT strange/JJ but/CC successful/JJ ``/pct honeymoon/NN ''/pct he/PPS had/HVD in/IN the/AT 1960/CD legislative/JJ session/NN ./pct
+If/CS Barnett/NP doesn't /None call/VB a/AT special/JJ session/NN in/IN 1961/CD ,/pct it/PPS will/MD be/BE the/AT first/OD year/NN in/IN the/AT last/AP decade/NN that/CS the/AT Legislature/NN has/HVZ not/NEG met/VBN in/IN regular/JJ or/CC special/JJ session/NN ./pct
+The/AT odds/NNS favor/VB a/AT special/JJ session/NN ,/pct more/AP than/CS likely/JJ early/RB in/IN the/AT year/NN ./pct
+Districts/NNS issue/NN
+Legislators/NNS always/RB get/VB restless/JJ for/IN a/AT special/JJ session/NN (/pct whether/CS for/IN the/AT companionship/NN or/CC the/AT $22.50/NNS per/IN diem/NN is/BEZ not/NEG certain/JJ )/pct and/CC if/CS they/PPSS start/VB agitating/VBG ./pct
+Barnett/NP is/BEZ not/NEG expected/VBN to/TO be/BE able/JJ to/TO withstand/VB the/AT pressure/NN ./pct
+The/AT issue/NN which/WDT may/MD make/VB it/PPO necessary/JJ to/TO have/HV a/AT session/NN is/BEZ the/AT highly/QL sensitive/JJ problem/NN of/IN cutting/VBG the/AT state's/NNg congressional/JJ districts/NNS from/IN six/CD to/IN five/CD to/TO eliminate/VB one/CD congressional/JJ seat/NN ./pct
+With/IN eyes/NNS focused/VBN on/IN the/AT third/OD congressional/JJ district/NN ,/pct the/AT historic/JJ Delta/NP district/NN ,/pct and/CC Congressman/NN Frank/NP E./NP Smith/NP as/CS the/AT one/CD most/QL likely/JJ to/TO go/VB ,/pct the/AT redistricting/VBG battle/NN will/MD put/VB to/IN a/AT test/NN the/AT longstanding/JJ power/NN which/WDT lawmakers/NNS from/IN the/AT Delta/NP have/HV held/VBN in/IN the/AT Legislature/NN ./pct
+Mississippi's/NPg relations/NNS with/IN the/AT national/JJ Democratic/JJ party/NN will/MD be/BE at/IN a/AT crossroads/NNS during/IN 1961/CD ,/pct with/IN the/AT first/OD Democratic/JJ president/NN in/IN eight/CD years/NNS in/IN the/AT White/JJ House/NN ./pct
+Split/VBN badly/RB during/IN the/AT recent/JJ presidential/JJ election/NN into/IN almost/QL equally/RB divided/VBN camps/NNS of/IN party/NN loyalists/NNS and/CC independents/NNS ,/pct the/AT Democratic/JJ party/NN in/IN Mississippi/NP is/BEZ currently/RB a/AT wreck/NN ./pct
+And/CC there/EX has/HVZ been/BEN no/AT effort/NN since/IN the/AT election/NN to/TO pull/VB it/PPO back/RB together/RB ./pct
+Future/NN clouded/VBN
+Barnett/NP ,/pct as/CS the/AT titular/JJ head/NN of/IN the/AT Democratic/JJ party/NN ,/pct apparently/RB must/MD make/VB the/AT move/NN to/TO reestablish/VB relations/NNS with/IN the/AT national/JJ Democratic/JJ party/NN or/CC see/VB a/AT movement/NN come/VB from/IN the/AT loyalist/NN ranks/NNS to/TO completely/RB bypass/VB him/PPO as/CS a/AT party/NN functionary/NN ./pct
+With/IN a/AT Democratic/JJ administration/NN ,/pct party/NN patronage/NN would/MD normally/RB begin/VB to/TO flow/VB to/IN Mississippi/NP if/CS it/PPS had/HVD held/VBN its/PPg Democratic/JJ solidarity/NN in/IN the/AT November/NP election/NN ./pct
+Now/RB ,/pct the/AT picture/NN is/BEZ clouded/VBN ,/pct and/CC even/RB US/NN Sens./NNS James/NP O./NP Eastland/NP and/CC John/NP C./NP Stennis/NP ,/pct who/WPS remained/VBD loyal/JJ to/IN the/AT ticket/NN ,/pct are/BER uncertain/JJ of/IN their/PPg status/NN ./pct
+Reports/NNS are/BER that/CS it/PPS is/BEZ more/AP than/CS probable/JJ that/CS the/AT four/CD congressmen/NNS from/IN Mississippi/NP who/WPS did/DOD not/NEG support/VB the/AT party/NN ticket/NN will/MD be/BE stripped/VBN of/IN the/AT usual/JJ patronage/NN which/WDT flows/VBZ to/IN congressmen/NNS ./pct
+Baton/NP Rouge/NP ,/pct La./NP
+--/pct The/AT Gov./NN Jimmie/NP H./NP Davis/NP administration/NN appears/VBZ to/TO face/VB a/AT difficult/JJ year/NN in/IN 1961/CD ,/pct with/IN the/AT governor's/NNg theme/NN of/IN peace/NN and/CC harmony/NN subjected/VBN to/IN severe/JJ stresses/NNS ./pct
+The/AT year/NN will/MD probably/RB start/VB out/RP with/IN segregation/NN still/RB the/AT most/QL troublesome/JJ issue/NN ./pct
+But/CC it/PPS might/MD give/VB way/NN shortly/RB to/IN another/DT vexing/VBG issue/NN --/pct that/DT of/IN finances/NNS in/IN state/NN government/NN ./pct
+The/AT transition/NN from/IN segregation/NN to/IN finances/NNS might/MD already/RB be/BE in/IN progress/NN ,/pct in/IN the/AT form/NN of/IN an/AT administration/NN proposal/NN to/TO hike/VB the/AT state/NN sales/NNS tax/NN from/IN 2/CD per/IN cent/NN to/IN 3/CD per/IN cent/NN ./pct
+The/AT administration/NN has/HVZ said/VBN the/AT sales/NNS tax/NN proposal/NN is/BEZ merely/RB part/NN of/IN the/AT segregation/NN strategy/NN ,/pct since/CS the/AT revenues/NNS from/IN the/AT increase/NN would/MD be/BE dedicated/VBN to/IN a/AT grant/NN in/IN aid/NN program/NN ./pct
+But/CC the/AT tardiness/NN of/IN the/AT administration/NN in/IN making/VBG the/AT dedication/NN has/HVZ caused/VBN legislators/NNS to/TO suspect/VB the/AT tax/NN bill/NN was/BEDZ related/VBN more/QL directly/RB to/IN an/AT over-all/JJ shortage/NN of/IN cash/NN than/CS to/IN segregation/NN ./pct
+Legislators/NNS weary/JJ
+Indeed/QLP ,/pct the/AT administration's/NNg curious/JJ position/NN on/IN the/AT sales/NNS tax/NN was/BEDZ a/AT major/JJ factor/NN in/IN contributing/VBG to/IN its/PPg defeat/NN ./pct
+The/AT administration/NN could/MD not/NEG say/VB why/WRB $28/NNS million/CD was/BEDZ needed/VBN for/IN a/AT grant-in-aid/NN program/NN ./pct
+The/AT effectiveness/NN of/IN the/AT governor/NN in/IN clearing/VBG up/RP some/DTI of/IN the/AT inconsistencies/NNS revolving/VBG about/IN the/AT sales/NNS tax/NN bill/NN may/MD play/VB a/AT part/NN in/IN determining/VBG whether/CS it/PPS can/MD muster/VB the/AT required/VBN two-thirds/NN vote/NN ./pct
+The/AT tax/NN bill/NN will/MD be/BE up/RP for/IN reconsideration/NN Wednesday/NR in/IN the/AT House/NN when/WRB the/AT Legislature/NN reconvenes/VBZ ./pct
+Davis/NP may/MD use/VB the/AT tax/NN bill/NN as/CS a/AT means/NNS to/TO effect/VB a/AT transition/NN from/IN special/JJ sessions/NNS of/IN the/AT Legislature/NN to/IN normalcy/NN ./pct
+If/CS it/PPS fails/VBZ to/TO pass/VB ,/pct he/PPS can/MD throw/VB up/RP his/PPg hands/NNS and/CC say/VB the/AT Legislature/NN would/MD not/NEG support/VB him/PPO in/IN his/PPg efforts/NNS to/TO prevent/VB integration/NN ./pct
+He/PPS could/MD terminate/VB special/JJ sessions/NNS of/IN the/AT Legislature/NN ./pct
+Actually/RB ,/pct Davis/NP would/MD have/HV to/TO toss/VB in/RP the/AT towel/NN soon/RB anyway/RB ./pct
+Many/AP legislators/NNS are/BER already/RB weary/JJ and/CC frustrated/VBN over/IN the/AT so-far/RB losing/VBG battle/NN to/TO block/VB token/JJ integration/NN ./pct
+This/DT is/BEZ not/NEG the/AT sort/NN of/IN thing/NN most/AP politicos/NNS would/MD care/VB to/TO acknowledge/VB publicly/RB ./pct
+They/PPSS would/MD like/VB to/TO convey/VB the/AT notion/NN something/PN is/BEZ being/BEG done/VBN ,/pct even/RB though/CS it/PPS is/BEZ something/PN they/PPSS know/VB to/TO be/BE ineffectual/JJ ./pct
+Underlying/VBG concern/NN
+Passage/NN of/IN the/AT sales/NNS tax/NN measure/NN would/MD also/RB give/VB Davis/NP the/AT means/NNS to/TO effect/VB a/AT transition/NN ./pct
+He/PPS could/MD tell/VB the/AT Legislature/NN they/PPSS had/HVD provided/VBN the/AT needed/VBN funds/NNS to/TO carry/VB on/RP the/AT battle/NN ./pct
+Then/RB he/PPS could/MD tell/VB them/PPO to/TO go/VB home/NR ,/pct while/CS the/AT administration/NN continued/VBD to/TO wage/VB the/AT battle/NN with/IN the/AT $28/NNS million/CD in/IN extra/JJ revenues/NNS the/AT sales/NNS tax/NN measure/NN would/MD bring/VB in/RP over/IN an/AT eight/CD months/NNS period/NN ./pct
+It/PPS is/BEZ difficult/JJ to/TO be/BE certain/JJ how/WRB the/AT administration/NN views/VBZ that/DT $28/NNS million/CD ,/pct since/CS the/AT views/NNS of/IN one/CD leader/NN may/MD not/NEG be/BE the/AT same/AP as/CS the/AT views/NNS of/IN another/DT one/CD ./pct
+But/CC if/CS the/AT administration/NN should/MD find/VB it/PPS does/DOZ not/NEG need/VB the/AT $28/NNS million/CD for/IN a/AT grant-in-aid/NN program/NN ,/pct a/AT not/NEG unlikely/JJ conclusion/NN ,/pct it/PPS could/MD very/QL well/RB seek/VB a/AT way/NN to/TO use/VB the/AT money/NN for/IN other/AP purposes/NNS ./pct
+This/DT would/MD be/BE in/IN perfect/JJ consonance/NN with/IN the/AT underlying/VBG concern/NN in/IN the/AT administration/NN --/pct the/AT shortage/NN of/IN cash/NN ./pct
+It/PPS could/MD become/VB an/AT acute/JJ problem/NN in/IN the/AT coming/VBG fiscal/JJ year/NN ./pct
+If/CS the/AT administration/NN does/DOZ not/NEG succeed/VB in/IN passing/VBG the/AT sales/NNS tax/NN bill/NN ,/pct or/CC any/DTI other/AP tax/NN bill/NN ,/pct it/PPS could/MD very/QL well/RB be/BE faced/VBN this/DT spring/NN at/IN the/AT fiscal/JJ session/NN of/IN the/AT Legislature/NN with/IN an/AT interesting/JJ dilemma/NN ./pct
+Since/CS the/AT constitution/NN forbids/VBZ introduction/NN of/IN a/AT tax/NN bill/NN at/IN a/AT fiscal/JJ session/NN ,/pct the/AT administration/NN will/MD either/CC have/HV to/TO cut/VB down/RP expenses/NNS or/CC inflate/VB its/PPg estimates/NNS of/IN anticipated/VBN revenues/NNS ./pct
+Constant/JJ problem/NN
+In/IN either/DTX case/NN ,/pct it/PPS could/MD call/VB a/AT special/JJ session/NN of/IN the/AT Legislature/NN later/RBR in/IN 1961/CD to/TO make/VB another/DT stab/NN at/IN raising/VBG additional/JJ revenues/NNS through/IN a/AT tax/NN raiser/NN ./pct
+The/AT prospect/NN of/IN cutting/VBG back/RB spending/VBG is/BEZ an/AT unpleasant/JJ one/CD for/IN any/DTI governor/NN ./pct
+It/PPS is/BEZ one/CD that/WPS most/AP try/VB to/TO avoid/VB ,/pct as/QL long/RB as/CS they/PPSS can/MD see/VB an/AT alternative/JJ approach/NN to/IN the/AT problem/NN ./pct
+But/CC if/CS all/ABN alternatives/NNS should/MD be/BE clearly/RB blocked/VBN off/RP ,/pct it/PPS can/MD be/BE expected/VBN the/AT Davis/NP administration/NN will/MD take/VB steps/NNS to/TO trim/VB spending/VBG at/IN the/AT spring/NN session/NN of/IN the/AT state/NN Legislature/NN ./pct
+This/DT might/NN be/BE done/VBN to/TO arouse/VB those/DTS who/WPS have/HV been/BEN squeezed/VBN out/RP by/IN the/AT trims/NNS to/TO exert/VB pressure/NN on/IN the/AT Legislature/NN ,/pct so/CS it/PPS would/MD be/BE more/QL receptive/JJ to/IN a/AT tax/NN proposal/NN later/RBR in/IN the/AT year/NN ./pct
+A/AT constant/JJ problem/NN confronting/VBG Davis/NP on/IN any/DTI proposals/NNS for/IN new/JJ taxes/NNS will/MD be/BE the/AT charge/NN by/IN his/PPg foes/NNS that/CS he/PPS has/HVZ not/NEG tried/VBN to/TO economize/VB ./pct
+Any/DTI tax/NN bill/NN also/RB will/MD revive/VB allegations/NNS that/CS some/DTI of/IN his/PPg followers/NNS have/HV been/BEN using/VBG their/PPg administration/NN affiliations/NNS imprudently/RB to/TO profit/VB themselves/PPLS ./pct
+The/AT new/JJ year/NN might/MD see/VB some/DTI house-cleaning/NN ,/pct either/CC genuine/JJ or/CC token/JJ ,/pct depending/IN upon/IN developments/NNS ,/pct to/TO give/VB Davis/NP an/AT opportunity/NN to/TO combat/VB some/DTI of/IN these/DTS criticisms/NNS ./pct

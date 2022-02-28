@@ -1,0 +1,113 @@
+A/AT proton/NN magnetic/JJ resonance/NN study/NN of/IN polycrystalline/JJ Af/NN as/CS a/AT function/NN of/IN magnetic/JJ field/NN and/CC temperature/NN is/BEZ presented/VBN ./pct
+Af/NN is/BEZ paramagnetic/JJ ,/pct and/CC electron/NN paramagnetic/JJ dipole/JJ as/QL well/RB as/CS nuclear/JJ dipole/JJ effects/NNS lead/VB to/IN line/NN broadening/NN ./pct
+The/AT lines/NNS are/BER asymmetric/JJ and/CC over/IN the/AT range/NN of/IN field/NN Af/NN gauss/NN and/CC temperature/NN Af/NN the/AT asymmetry/NN increases/VBZ with/IN increasing/VBG Af/NN and/CC decreasing/VBG T/NP ./pct
+An/AT isotropic/JJ resonance/NN shift/NN of/IN Af/NN to/TO lower/JJR applied/VBN fields/VBZ indicates/VBZ a/AT weak/JJ isotropic/JJ hyperfine/JJ contact/NN interaction/NN ./pct
+The/AT general/JJ theory/NN of/IN resonance/NN shifts/NNS is/BEZ used/VBN to/TO derive/VB a/AT general/JJ expression/NN for/IN the/AT second/OD moment/NN Af/NN of/IN a/AT polycrystalline/JJ paramagnetic/JJ sample/NN and/CC is/BEZ specialized/VBN to/IN Af/NN ./pct
+The/AT theory/NN predicts/VBZ a/AT linear/JJ dependence/NN of/IN Af/NN on/IN Af/NN ,/pct where/WRB J/NP is/BEZ the/AT experimentally/RB determined/VBN Curie-Weiss/NP constant/NN ./pct
+The/AT experimental/JJ second/OD moment/NN Af/NN conforms/VBZ to/IN the/AT relation/NN Af/NN in/IN agreement/NN with/IN theory/NN ./pct
+Hence/RB ,/pct the/AT electron/NN paramagnetic/JJ effects/NNS (/pct slope/NN )/pct can/MD be/BE separated/VBN from/IN the/AT nuclear/JJ effects/NNS (/pct intercept/NN )/pct ./pct
+The/AT paramagnetic/JJ dipole/JJ effects/NNS provide/VB some/DTI information/NN on/IN the/AT particle/NN shapes/NNS ./pct
+The/AT nuclear/JJ dipole/JJ effects/NNS provide/VB some/DTI information/NN on/IN the/AT motions/NNS of/IN the/AT hydrogen/NN nuclei/NNS ,/pct but/CC the/AT symmetry/NN of/IN the/AT Af/NN bond/NN in/IN Af/NN remains/VBZ in/IN doubt/NN ./pct
+Introduction/NN
+the/AT magnetic/JJ moment/NN of/IN an/AT unpaired/JJ electron/NN associated/VBN nearby/RB may/MD have/HV a/AT tremendous/JJ influence/NN on/IN the/AT magnetic/JJ resonance/NN properties/NNS of/IN nuclei/NNS ./pct
+It/PPS is/BEZ important/JJ to/TO consider/VB and/CC experimentally/RB verify/VB this/DT influence/NN since/CS quantitative/JJ nuclear/JJ resonance/NN is/BEZ becoming/VBG increasingly/RB used/VBN in/IN investigations/NNS of/IN structure/NN ./pct
+Af/NN appeared/VBD to/TO be/BE well/RB suited/VBN for/IN the/AT study/NN of/IN these/DTS matters/NNS ,/pct since/CS it/PPS is/BEZ a/AT normal/JJ paramagnet/NN ,/pct with/IN three/CD unpaired/JJ electrons/NNS on/IN the/AT chromium/NN ,/pct its/PPg crystal/NN structure/NN is/BEZ very/QL simple/JJ ,/pct and/CC the/AT unknown/JJ position/NN of/IN the/AT hydrogen/NN in/IN the/AT strong/JJ Af/NN bond/NN provides/VBZ structural/JJ interest/NN ./pct
+We/PPSS first/RB discuss/VB the/AT Af/NN bond/NN in/IN Af/NN ./pct
+We/PPSS then/RB outline/VB the/AT theory/NN of/IN the/AT interaction/NN of/IN paramagnetic/JJ dipoles/NNS with/IN nuclei/NNS and/CC show/VB that/CS the/AT theory/NN is/BEZ in/IN excellent/JJ agreement/NN with/IN experiment/NN ./pct
+Indeed/RB it/PPS is/BEZ possible/JJ to/TO separate/VB electron/NN paramagnetic/JJ from/IN nuclear/JJ effects/NNS ./pct
+The/AT information/NN provided/VBN by/IN the/AT electron/NN paramagnetic/JJ effects/NNS is/BEZ then/RB discussed/VBN ,/pct and/CC finally/RB the/AT nuclear/JJ effects/NNS are/BER interpreted/VBN in/IN terms/NNS of/IN various/JJ motional-modified/JJ models/NNS of/IN the/AT Af/NN bond/NN in/IN Af/NN ./pct
+Af/NN bond/NN in/IN Af/NN
+Theoretical/JJ studies/NNS of/IN the/AT hydrogen/NN bond/NN generally/RB agree/VB that/CS the/AT Af/NN bond/NN will/MD be/BE linear/JJ in/IN the/AT absence/NN of/IN peculiarities/NNS of/IN packing/VBG in/IN the/AT solid/NN ./pct
+Moreover/RB ,/pct it/PPS will/MD be/BE asymmetric/JJ until/CS a/AT certain/JJ critical/JJ Af/NN distance/NN is/BEZ reached/VBN ,/pct below/IN which/WDT it/PPS will/MD become/VB symmetric/JJ ./pct
+There/EX is/BEZ ample/JJ evidence/NN from/IN many/AP sources/NNS that/CS the/AT Af/NN bond/NN in/IN Af/NN is/BEZ symmetric/JJ ./pct
+The/AT Af/NN distance/NN in/IN Af/NN is/BEZ 2.26/CD Aj/NN ./pct
+There/EX is/BEZ evidence/NN ,/pct though/CS less/QL convincing/JJ than/CS for/IN Af/NN ,/pct that/CS the/AT Af/NN bond/NN in/IN nickel/NN dimethylglyoxime/NN is/BEZ symmetric/JJ ./pct
+Here/RB the/AT Af/NN distance/NN is/BEZ 2.44/CD Aj/NN ./pct
+A/AT number/NN of/IN semiempirical/JJ estimates/NNS by/IN various/JJ workers/NNS lead/VB to/IN the/AT conclusion/NN that/CS the/AT Af/NN bond/NN becomes/VBZ symmetric/JJ when/WRB the/AT Af/NN bond/NN length/NN is/BEZ about/RB 2.4/CD to/IN 2.5/CD A/NN ,/pct but/CC aside/RB from/IN the/AT possible/JJ example/NN of/IN nickel/NN dimethylglyoxime/NN there/EX have/HV been/BEN no/AT convincing/JJ reports/NNS of/IN symmetric/JJ Af/NN bonds/NNS ./pct
+Douglass/NP has/HVZ studied/VBN the/AT crystal/NN structure/NN of/IN Af/NN by/IN x-ray/NN diffraction/NN ./pct
+He/PPS finds/VBZ the/AT structure/NN contains/VBZ an/AT Af/NN bond/NN with/IN the/AT Af/NN distance/NN of/IN Af/NN ./pct
+There/EX is/BEZ ,/pct then/RB ,/pct the/AT possibility/NN that/CS this/DT Af/NN bond/NN is/BEZ symmetric/JJ ,/pct although/CS Douglass/NP was/BEDZ unable/JJ to/TO determine/VB its/PPg symmetry/NN from/IN his/PPg x-ray/NN data/NN ./pct
+Douglass/NP found/VBD Af/NN to/TO be/BE trigonal/JJ ,/pct Laue/NP symmetry/NN Af/NN ,/pct with/IN Af/NN ,/pct Af/NN ./pct
+X-ray/NN and/CC experimental/JJ density/NN showed/VBD one/CD formula/NN unit/NN in/IN the/AT unit/NN cell/NN ,/pct corresponding/VBG to/IN a/AT paramagnetic/JJ ion/NN density/NN of/IN Af/NN ./pct
+The/AT x-ray/NN data/NN did/DOD not/NEG permit/VB Douglass/NP to/TO determine/VB uniquely/RB the/AT space/NN group/NN ,/pct but/CC a/AT negative/JJ test/NN for/IN piezoelectricity/NN led/VBD him/PPO to/TO assume/VB a/AT center/NN of/IN symmetry/NN ./pct
+Under/IN this/DT assumption/NN the/AT space/NN group/NN must/MD be/BE Af/NN and/CC the/AT following/VBG are/BER the/AT positions/NNS of/IN the/AT atoms/NNS in/IN the/AT unit/NN cell/NN ./pct
+Af/NN ./pct
+This/DT space/NN group/NN requires/VBZ the/AT hydrogen/NN bond/NN to/TO be/BE symmetric/JJ ./pct
+Douglass/NP found/VBD powder/NN intensity/NN calculations/NNS and/CC measurements/NNS to/TO agree/VB best/RBT for/IN Af/NN ./pct
+These/DTS data/NNS lead/VB to/IN a/AT structure/NN in/IN which/WDT sheets/NNS of/IN Cr/NN atoms/NNS lie/VB between/IN two/CD sheets/NNS of/IN O/NN atoms/NNS ./pct
+The/AT O/NN atoms/NNS in/IN each/DT sheet/NN are/BER close/RB packed/VBN and/CC each/DT Cr/NN atom/NN is/BEZ surrounded/VBN by/IN a/AT distorted/VBN octahedron/NN of/IN O/NN atoms/NNS ./pct
+The/AT Af/NN layers/NNS are/BER stacked/VBN normal/RB to/IN the/AT (/pct 111/CD )/pct axis/NN with/IN the/AT lower/JJR oxygens/NNS of/IN one/CD layer/NN directly/RB above/IN the/AT upper/JJR oxygens/NNS of/IN the/AT neighboring/VBG lower/JJR layer/NN ,/pct in/IN such/ABL a/AT manner/NN that/CS the/AT repeat/NN is/BEZ every/AT three/CD layers/NNS ./pct
+The/AT separate/JJ layers/NNS are/BER joined/VBN together/RB by/IN hydrogen/NN bonds/NNS ./pct
+A/AT drawing/NN of/IN the/AT structure/NN is/BEZ to/TO be/BE found/VBN in/IN reference/NN 6/CD ./pct
+The/AT gross/JJ details/NNS of/IN the/AT structure/NN appear/VB reasonable/JJ ./pct
+The/AT structure/NN appears/VBZ to/TO be/BE unique/JJ among/IN OOH/NN compounds/NNS ,/pct but/CC is/BEZ the/AT same/AP as/CS that/DT assumed/VBN by/IN Af/NN ./pct
+The/AT bond/NN angles/NNS and/CC distances/NNS are/BER all/ABN within/IN the/AT expected/VBN limits/NNS and/CC the/AT volume/NN per/IN oxygen/NN is/BEZ about/RP normal/JJ ./pct
+However/RB ,/pct the/AT possible/JJ absence/NN of/IN a/AT center/NN of/IN symmetry/NN not/NEG only/RB moves/VBZ the/AT hydrogen/NN atom/NN off/IN Af/NN ,/pct but/CC also/RB allows/VBZ the/AT oxygen/NN atoms/NNS to/TO become/VB nonequivalent/JJ ,/pct with/IN Af/NN at/IN Af/NN and/CC Af/NN at/IN Af/NN (/pct space/NN group/NN Af/NN )/pct ,/pct where/WRB Af/NN represents/VBZ the/AT oxygens/NNS on/IN one/CD side/NN of/IN the/AT Af/NN layers/NNS and/CC Af/NN those/DTS on/IN the/AT other/AP side/NN ./pct
+However/RB ,/pct any/DTI oxygen/NN nonequivalence/NN would/MD shorten/VB either/CC the/AT already/RB extremely/QL short/JJ Af/NN interlayer/JJ distance/NN of/IN 2.55/CD A/NN or/CC the/AT non-hydrogen-bonded/JJ Af/NN interlayer/JJ interactions/NNS which/WDT are/BER already/RB quite/QL short/JJ at/IN 2.58/CD Aj/NN ./pct
+Hence/RB it/PPS is/BEZ difficult/JJ to/TO conceive/VB of/IN a/AT packing/NN of/IN the/AT atoms/NNS in/IN this/DT material/NN in/IN which/WDT the/AT oxygen/NN atoms/NNS are/BER far/RB from/IN geometrical/JJ equivalence/NN ./pct
+The/AT only/AP effect/NN of/IN lack/NN of/IN a/AT center/NN would/MD then/RB be/BE to/TO release/VB the/AT hydrogen/NN atoms/NNS to/TO occupy/VB general/JJ ,/pct rather/RB than/IN special/JJ ,/pct positions/NNS along/IN the/AT (/pct 111/CD )/pct axis/NN ./pct
+If/CS the/AT Af/NN bond/NN is/BEZ linear/JJ then/RB there/EX are/BER three/CD reasonable/JJ positions/NNS for/IN the/AT hydrogen/NN atoms/NNS :/pct (/pct 1/CD )/pct The/AT hydrogen/NN atoms/NNS are/BER centered/VBN and/CC hence/RB all/ABN lie/VB on/IN a/AT sheet/NN midway/RB between/IN the/AT oxygen/NN sheets/NNS ;/pct ;/pct
+(/pct 2/CD )/pct all/ABN hydrogen/NN atoms/NNS lie/VB on/IN a/AT sheet/NN ,/pct but/CC the/AT sheet/NN is/BEZ closer/RBR to/IN one/CD oxygen/NN sheet/NN than/CS to/IN the/AT other/AP ;/pct ;/pct
+(/pct 3/CD )/pct hydrogen/NN atoms/NNS are/BER asymmetrically/RB placed/VBN ,/pct either/CC randomly/RB or/CC in/IN an/AT ordered/VBN way/NN ,/pct so/CS that/CS some/DTI hydrogen/NN atoms/NNS are/BER closer/RBR to/IN the/AT upper/JJR oxygen/NN atoms/NNS while/CS others/NNS are/BER closer/RBR to/IN the/AT lower/JJR oxygen/NN atoms/NNS ./pct
+Position/NN (/pct 2/CD )/pct appears/VBZ to/IN us/PPO to/TO be/BE unlikely/JJ in/IN view/NN of/IN the/AT absence/NN of/IN a/AT piezoelectric/JJ effect/NN and/CC on/IN general/JJ chemical/JJ structural/JJ grounds/NNS ./pct
+A/AT randomization/NN of/IN ``/pct ups/NNS ''/pct and/CC ``/pct downs/NNS ''/pct is/BEZ more/QL likely/JJ than/CS ordered/VBN ``/pct ups/NNS ''/pct and/CC ``/pct downs/NNS ''/pct in/IN position/NN (/pct 3/CD )/pct since/CS the/AT hydrogen/NN atoms/NNS are/BER well/RB separated/VBN and/CC so/CS the/AT position/NN of/IN one/CD could/MD hardly/RB affect/VB the/AT position/NN of/IN another/DT ,/pct and/CC also/RB since/CS ordered/VBN ``/pct up/RP ''/pct and/CC ``/pct down/RP ''/pct implies/VBZ a/AT larger/JJR unit/NN cell/NN ,/pct for/IN which/WDT no/AT evidence/NN exists/VBZ ./pct
+Therefore/RB ,/pct the/AT only/AP unknown/JJ structural/JJ feature/NN would/MD appear/VB to/TO be/BE whether/CS the/AT hydrogen/NN atoms/NNS are/BER located/VBN symmetrically/RB (/pct 1/CD )/pct or/CC asymmetrically/RB (/pct 3/CD )/pct ./pct
+Experimental/JJ procedures/NNS
+samples/NNS
+Douglass/NP prepared/VBD his/PPg sample/NN of/IN Af/NN by/IN thermal/JJ decomposition/NN of/IN aqueous/JJ chromic/JJ acid/NN at/IN 300/CD -/pct 325-degrees-C/NNS ./pct
+Dr./NN Douglass/NP was/BEDZ kind/JJ enough/QLP to/TO lend/VB us/PPO about/RB 5/CD grams/NNS of/IN his/PPg material/NN ./pct
+This/DT material/NN proved/VBD to/TO be/BE unsatisfactory/JJ ,/pct since/CS we/PPSS could/MD not/NEG obtain/VB reproducible/JJ results/NNS on/IN various/JJ portions/NNS of/IN the/AT sample/NN ./pct
+Subsequently/RB ,/pct we/PPSS learned/VBD from/IN Douglass/NP that/CS his/PPg sample/NN contained/VBD a/AT few/AP percent/NN Af/NN impurity/NN ./pct
+Since/CS Af/NN is/BEZ ferromagnetic/JJ ,/pct we/PPSS felt/VBD that/CS any/DTI results/NNS obtained/VBN from/IN the/AT magnetically/RB contaminated/VBN Af/NN would/MD be/BE suspect/JJ ./pct
+Plane/NP suggested/VBD another/DT preparation/NN of/IN Af/NN which/WDT we/PPSS used/VBD here/RB ./pct
+500/CD ml/NN of/IN 1M/JJ aqueous/JJ Af/NN with/IN 1/CD Af/NN added/VBN are/BER heated/VBN in/IN a/AT bomb/NN at/IN 170-degrees-C/NNS for/IN 48/CD hours/NNS ./pct
+A/AT very/QL fine/JJ ,/pct gray/JJ solid/NN (/pct about/RB 15/CD g/NN )/pct is/BEZ formed/VBN ,/pct water-washed/NN by/IN centrifugation/NN ,/pct and/CC dried/VBN at/IN 110-degrees-C/NNS )/pct ./pct
+Differential/JJ thermal/JJ analysis/NN showed/VBD a/AT very/QL small/JJ endothermic/JJ reaction/NN at/IN 340-degrees-C/NNS and/CC a/AT large/JJ endothermic/JJ reaction/NN at/IN 470-degrees-C/NNS ./pct
+This/DT latter/AP reaction/NN is/BEZ in/IN accord/NN with/IN the/AT reported/VBN decomposition/NN of/IN Af/NN ./pct
+Thermogravimetric/JJ analysis/NN showed/VBD a/AT weight/NN loss/NN of/IN 1.8%/NN centered/VBN at/IN 337-degrees-C/NNS and/CC another/DT weight/NN loss/NN of/IN 10.8%/NN at/IN 463-degrees-C/NNS ./pct
+The/AT expected/VBN weight/NN loss/NN for/IN Af/NN going/VBG to/IN Af/NN and/CC Af/NN is/BEZ 10.6%/NN ./pct
+Mass/NN spectrometric/JJ analysis/NN of/IN gases/NNS evolved/VBN upon/IN heating/VBG to/IN 410-degrees-C/NNS indicated/VBD nitrogen/NN oxides/NNS and/CC water/NN vapor/NN ./pct
+The/AT small/JJ reaction/NN occurring/VBG at/IN 337-degrees-C/NNS is/BEZ probably/RB caused/VBN by/IN decomposition/NN of/IN occluded/VBN nitrates/NNS ,/pct and/CC perhaps/RB by/IN a/AT small/JJ amount/NN of/IN some/DTI hydrous/JJ material/NN other/AP than/CS Af/NN ./pct
+All/ABN subsequent/JJ measurements/NNS were/BED made/VBN on/IN material/NN which/WDT had/HVD been/BEN heated/VBN to/IN 375-degrees-C/NNS for/IN one/CD hour/NN ./pct
+Emission/NN spectra/NNS indicated/VBD Af/NN calcium/NN and/CC all/ABN other/AP impurities/NNS much/QL lower/JJR ./pct
+Chromium/NN analysis/NN gave/VBD 58.8%/NN Cr/NN as/CS compared/VBN with/IN 61.2%/NN theory/NN ./pct
+However/RB ,/pct Af/NN adsorbs/VBZ water/NN from/IN the/AT atmosphere/NN and/CC this/DT may/MD account/VB for/IN the/AT low/JJ chromium/NN analysis/NN and/CC high/JJ total/JJ weight/NN loss/NN ./pct
+The/AT x-ray/NN diffraction/NN pattern/NN of/IN the/AT material/NN ,/pct taken/VBN with/IN CuK**ya/NN radiation/NN ,/pct indicated/VBD the/AT presence/NN of/IN no/AT extra/JJ lines/NNS and/CC was/BEDZ in/IN good/JJ agreement/NN with/IN the/AT pattern/NN of/IN Douglass/NP ./pct
+Magnetic/JJ analyses/NNS by/IN R./NP G./NP Meisenheimer/NP of/IN this/DT laboratory/NN indicated/VBD no/AT ferromagnetic/JJ impurities/NNS ./pct
+Af/NN was/BEDZ found/VBN to/TO be/BE paramagnetic/JJ with/IN three/CD unpaired/JJ electrons/NNS per/IN chromium/NN atom/NN and/CC a/AT molecular/JJ susceptibility/NN of/IN Af/NN ,/pct where/WRB Af/NN ./pct
+For/IN exactly/RB three/CD unpaired/JJ electrons/NNS the/AT coefficient/NN would/MD be/BE 3.10/CD ./pct
+An/AT infrared/JJ spectrum/NN ,/pct obtained/VBN by/IN H./NP A./NP Benesi/NP and/CC R./NP G./NP Snyder/NP of/IN this/DT laboratory/NN ,/pct showed/VBD bands/NNS in/IN the/AT positions/NNS found/VBN by/IN Jones/NP ./pct
+Electron/NN microscopic/JJ examination/NN of/IN the/AT Af/NN sample/NN showed/VBD it/PPO to/TO be/BE composed/VBN of/IN nearly/QL isotropic/JJ particles/NNS about/RB 0.3M/NNS in/IN diameter/NN ./pct
+The/AT particles/NNS appeared/VBD rough/JJ and/CC undoubtedly/RB the/AT single-crystal/NN domains/NNS are/BER smaller/JJR than/CS this/DT ./pct
+The/AT x-ray/NN data/NNS are/BER consistent/JJ with/IN particle/NN sizes/NNS of/IN 1000/CD A/NN or/CC greater/JJR ./pct
+We/PPSS found/VBD no/AT obvious/JJ effects/NNS due/JJ to/IN preferred/VBN orientation/NN of/IN the/AT crystallites/NNS in/IN this/DT sample/NN nor/CC would/MD we/PPSS expect/VB to/TO on/IN the/AT basis/NN of/IN the/AT shape/NN found/VBN from/IN electron/NN microscopic/JJ examination/NN ./pct
+Nuclear/JJ magnetic/JJ resonance/NN (/pct NMR/NP )/pct measurements/NNS
+The/AT magnetic/JJ resonance/NN absorption/NN was/BEDZ detected/VBN by/IN employing/VBG a/AT Varian/JJ model/NN Af/NN broad/JJ line/NN spectrometer/NN and/CC the/AT associated/VBN 12-inch/JJ electromagnet/NN system/NN ./pct
+One/CD measurement/NN at/IN 40/CD Mc/sec/NN was/BEDZ obtained/VBN with/IN the/AT Varian/JJ model/NN Af/NN unit/NN ./pct
+A/AT bridged-T/JJ type/NN of/IN bridge/NN was/BEDZ used/VBN in/IN the/AT 10/CD -/pct 16/CD Mc/sec/NN range/NN ./pct
+The/AT rf/NN power/NN level/NN was/BEDZ maintained/VBN small/JJ enough/QLP at/IN all/ABN times/NNS to/TO prevent/VB obvious/JJ line/NN shape/NN distortions/NNS by/IN saturation/NN effects/NNS ./pct
+A/AT modulation/NN frequency/NN of/IN 40/CD cps/NN with/IN an/AT amplitude/NN as/QL small/JJ as/CS possible/JJ ,/pct commensurate/JJ with/IN reasonably/QL good/JJ signal-to-noise/JJ quality/NN ,/pct was/BEDZ used/VBN ./pct
+Background/NN spectra/NNS were/BED obtained/VBN in/IN all/ABN cases/NNS ./pct
+The/AT spectrometer/NN was/BEDZ adjusted/VBN to/TO minimize/VB the/AT amount/NN of/IN dispersion/NN mode/NN mixed/VBN in/RP with/IN the/AT absorption/NN signal/NN ./pct
+A/AT single/AP value/NN of/IN the/AT thermal/JJ relaxation/NN time/NN Af/NN at/IN room/NN temperature/NN was/BEDZ measured/VBN by/IN the/AT progressive/JJ saturation/NN method/NN ./pct
+The/AT value/NN of/IN Af/NN estimated/VBN at/IN 470/CD gauss/NN was/BEDZ Af/NN microseconds/NNS ./pct
+A/AT single/AP measurement/NN of/IN the/AT spin/NN -/pct spin/NN relaxation/NN time/NN Af/NN was/BEDZ obtained/VBN at/IN 10/CD Mc/sec/NN by/IN pulse/NN methods/NNS ./pct
+This/DT measurement/NN was/BEDZ obtained/VBN by/IN W./NP Blumberg/NP of/IN the/AT University/NN of/IN California/NP ,/pct Berkeley/NP ,/pct by/IN observing/VBG the/AT breadth/NN of/IN the/AT free/JJ induction/NN decay/NN signal/NN ./pct
+The/AT value/NN derived/VBN was/BEDZ 16/CD microseconds/NNS ./pct
+Field/NN shifts/NNS were/BED derived/VBN from/IN the/AT mean/JJ value/NN of/IN the/AT resonance/NN line/NN ,/pct defined/VBN as/CS the/AT field/NN about/IN which/WDT the/AT first/OD moment/NN is/BEZ zero/CD ./pct
+Second/OD moments/NNS of/IN the/AT spectra/NNS were/BED computed/VBN by/IN numerical/JJ integration/NN ./pct
+Corrections/NNS were/BED applied/VBN for/IN modulation/NN broadening/NN ,/pct apparatus/NN background/NN ,/pct and/CC field/NN shift/NN ./pct
+Spectra/NNS were/BED obtained/VBN over/IN the/AT temperature/NN range/NN of/IN 77/CD -/pct 294-degrees-K/NNS ./pct
+For/IN the/AT low-temperature/NN measurements/NNS the/AT sample/NN was/BEDZ cooled/VBN by/IN a/AT cold/JJ nitrogen/NN gas/NN flow/NN method/NN similar/JJ to/IN that/DT of/IN Andrew/NP and/CC Eades/NP ./pct
+The/AT temperature/NN was/BEDZ maintained/VBN to/IN within/IN about/RB Af/NN for/IN the/AT period/NN of/IN time/NN required/VBN to/TO make/VB the/AT measurement/NN (/pct usually/RB about/RB one/CD hour/NN )/pct ./pct
+One/CD sample/NN ,/pct which/WDT had/HVD been/BEN exposed/VBN to/IN the/AT atmosphere/NN after/IN evacuation/NN at/IN 375-degrees-C/NNS ,/pct showed/VBD the/AT presence/NN of/IN adsorbed/VBN water/NN (/pct about/RB 0.3/CD wt/NN )/pct )/pct as/CS evidenced/VBN by/IN a/AT weak/JJ resonance/NN line/NN which/WDT was/BEDZ very/QL narrow/JJ at/IN room/NN temperature/NN and/CC which/WDT disappeared/VBD ,/pct due/RB to/IN broadening/VBG ,/pct at/IN low/JJ temperature/NN ./pct
+The/AT data/NNS reported/VBN here/RB are/BER either/CC from/IN spectra/NNS from/IN which/WDT the/AT adsorbed/VBN water/NN resonance/NN could/MD easily/RB be/BE eliminated/VBN or/CC from/IN spectra/NNS of/IN samples/NNS evacuated/VBN and/CC sealed/VBN off/RP at/IN 375-degrees-C/NNS which/WDT contain/VB no/AT adsorbed/VBN water/NN ./pct
+The/AT measured/VBN powder/NN density/NN of/IN the/AT Af/NN used/VBN here/RB was/BEDZ about/RB Af/NN ,/pct approximately/RB one-third/NN that/DT of/IN the/AT crystal/NN density/NN (/pct Af/NN )/pct ./pct
+Such/ABL a/AT density/NN corresponds/VBZ to/IN a/AT paramagnetic/JJ ion/NN density/NN of/IN about/RB Af/NN ./pct
+Spectra/NNS were/BED obtained/VBN from/IN a/AT powdered/VBN sample/NN having/HVG the/AT shape/NN of/IN a/AT right/JJ circular/JJ cylinder/NN with/IN a/AT height-to-diameter/JJ ratio/NN of/IN 4/CD :/pct :/pct
+1/CD ./pct
+The/AT top/NN of/IN the/AT sample/NN was/BEDZ nearly/QL flat/JJ and/CC the/AT bottom/NN hemispherical/JJ ./pct
+Spectra/NNS were/BED also/RB obtained/VBN from/IN a/AT sample/NN in/IN a/AT spherical/JJ container/NN which/WDT was/BEDZ made/VBN by/IN blowing/VBG a/AT bubble/NN on/IN the/AT end/NN of/IN a/AT capillary/NN glass/NN tube/NN ./pct
+The/AT bubble/NN was/BEDZ filled/VBN to/IN the/AT top/NN and/CC special/JJ precautions/NNS were/BED taken/VBN to/TO prevent/VB any/DTI sample/NN from/IN remaining/VBG in/IN the/AT capillary/NN ./pct
+Spectra/NNS were/BED also/RB obtained/VBN from/IN a/AT third/OD sample/NN of/IN Af/NN which/WDT had/HVD been/BEN diluted/VBN to/IN three/CD times/NNS its/PPg original/JJ volume/NN with/IN powdered/VBN ,/pct anhydrous/JJ alundum/NN (/pct Af/NN )/pct ./pct
+This/DT sample/NN was/BEDZ contained/VBN in/IN a/AT cylindrical/JJ container/NN similar/JJ to/IN that/DT described/VBN above/RB ./pct

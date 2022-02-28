@@ -1,0 +1,127 @@
+7-1/CD ./pct
+Examples/NNS of/IN binomial/JJ experiments/NNS
+Some/DTI experiments/NNS are/BER composed/VBN of/IN repetitions/NNS of/IN independent/JJ trials/NNS ,/pct each/DT with/IN two/CD possible/JJ outcomes/NNS ./pct
+The/AT binomial/JJ probability/NN distribution/NN may/MD describe/VB the/AT variation/NN that/WPS occurs/VBZ from/IN one/CD set/NN of/IN trials/NNS of/IN such/ABL a/AT binomial/JJ experiment/NN to/IN another/DT ./pct
+We/PPSS devote/VB a/AT chapter/NN to/IN the/AT binomial/JJ distribution/NN not/NEG only/RB because/CS it/PPS is/BEZ a/AT mathematical/JJ model/NN for/IN an/AT enormous/JJ variety/NN of/IN real/JJ life/NN phenomena/NNS ,/pct but/CC also/RB because/CS it/PPS has/HVZ important/JJ properties/NNS that/WPS recur/VB in/IN many/AP other/AP probability/NN models/NNS ./pct
+We/PPSS begin/VB with/IN a/AT few/AP examples/NNS of/IN binomial/JJ experiments/NNS ./pct
+Marksmanship/NN example/NN ./pct
+A/AT trained/VBN marksman/NN shooting/VBG five/CD rounds/NNS at/IN a/AT target/NN ,/pct all/ABN under/IN practically/RB the/AT same/AP conditions/NNS ,/pct may/MD hit/VB the/AT bull's-eye/NN from/IN 0/CD to/IN 5/CD times/NNS ./pct
+In/IN repeated/VBN sets/NNS of/IN five/CD shots/NNS his/PPg numbers/NNS of/IN bull's-eyes/NNS vary/VB ./pct
+What/WDT can/MD we/PPSS say/VB of/IN the/AT probabilities/NNS of/IN the/AT different/JJ possible/JJ numbers/NNS of/IN bull's-eyes/NNS ?/pct ?/pct
+Inheritance/NN in/IN mice/NNS ./pct
+In/IN litters/NNS of/IN eight/CD mice/NNS from/IN similar/JJ parents/NNS ,/pct the/AT number/NN of/IN mice/NNS with/IN straight/JJ instead/RB of/IN wavy/JJ hair/NN is/BEZ an/AT integer/NN from/IN 0/CD to/IN 8/CD ./pct
+What/WDT probabilities/NNS should/MD be/BE attached/VBN to/IN these/DTS possible/JJ outcomes/NNS ?/pct ?/pct
+Aces/NNS (/pct ones/NNS )/pct with/IN three/CD dice/NNS ./pct
+When/WRB three/CD dice/NNS are/BER tossed/VBN repeatedly/RB ,/pct what/WDT is/BEZ the/AT probability/NN that/CS the/AT number/NN of/IN aces/NNS is/BEZ 0/CD (/pct or/CC 1/CD ,/pct or/CC 2/CD ,/pct or/CC 3/CD )/pct ?/pct ?/pct
+General/JJ binomial/JJ problem/NN ./pct
+More/QL generally/RB ,/pct suppose/VB that/CS an/AT experiment/NN consists/VBZ of/IN a/AT number/NN of/IN independent/JJ trials/NNS ,/pct that/CS each/DT trial/NN results/VBZ in/IN either/CC a/AT ``/pct success/NN ''/pct or/CC a/AT ``/pct non-success/NN ''/pct (/pct ``/pct failure/NN ''/pct )/pct ,/pct and/CC that/CS the/AT probability/NN of/IN success/NN remains/VBZ constant/JJ from/IN trial/NN to/IN trial/NN ./pct
+In/IN the/AT examples/NNS above/RB ,/pct the/AT occurrence/NN of/IN a/AT bull's-eye/NN ,/pct a/AT straight-haired/JJ mouse/NN ,/pct or/CC an/AT ace/NN could/MD be/BE called/VBN a/AT ``/pct success/NN ''/pct ./pct
+In/IN general/JJ ,/pct any/DTI outcome/NN we/PPSS choose/VB may/MD be/BE labeled/VBN ``/pct success/NN ''/pct ./pct
+The/AT major/JJ question/NN in/IN this/DT chapter/NN is/BEZ :/pct What/WDT is/BEZ the/AT probability/NN of/IN exactly/RB X/NP successes/NNS in/IN N/NP trials/NNS ?/pct ?/pct
+In/IN Chapters/NNS 3/CD and/CC 4/CD we/PPSS answered/VBD questions/NNS like/CS those/DTS in/IN the/AT examples/NNS ,/pct usually/RB by/IN counting/VBG points/NNS in/IN a/AT sample/NN space/NN ./pct
+Fortunately/RB ,/pct a/AT general/JJ formula/NN of/IN wide/JJ applicability/NN solves/VBZ all/ABN problems/NNS of/IN this/DT kind/NN ./pct
+Before/CS deriving/VBG this/DT formula/NN ,/pct we/PPSS explain/VB what/WDT we/PPSS mean/VB by/IN ``/pct problems/NNS of/IN this/DT kind/NN ''/pct ./pct
+Experiments/NNS are/BER often/RB composed/VBN of/IN several/AP identical/JJ trials/NNS ,/pct and/CC sometimes/RB experiments/NNS themselves/PPLS are/BER repeated/VBN ./pct
+In/IN the/AT marksmanship/NN example/NN ,/pct a/AT trial/NN consists/VBZ of/IN ``/pct one/CD round/NN shot/VBN at/IN a/AT target/NN ''/pct with/IN outcome/NN either/CC one/CD bull's-eye/NN (/pct success/NN )/pct or/CC none/PN (/pct failure/NN )/pct ./pct
+Further/RBR ,/pct an/AT experiment/NN might/MD consist/VB of/IN five/CD rounds/NNS ,/pct and/CC several/AP sets/NNS of/IN five/CD rounds/NNS might/MD be/BE regarded/VBN as/CS a/AT super-experiment/NN composed/VBN of/IN several/AP repetitions/NNS of/IN the/AT five-round/JJ experiment/NN ./pct
+If/CS three/CD dice/NNS are/BER tossed/VBN ,/pct a/AT trial/NN is/BEZ one/CD toss/NN of/IN one/CD die/NN and/CC the/AT experiment/NN is/BEZ composed/VBN of/IN three/CD trials/NNS ./pct
+Or/CC ,/pct what/WDT amounts/VBZ to/IN the/AT same/AP thing/NN ,/pct if/CS one/CD die/NN is/BEZ tossed/VBN three/CD times/NNS ,/pct each/DT toss/NN is/BEZ a/AT trial/NN ,/pct and/CC the/AT three/CD tosses/NNS form/VB the/AT experiment/NN ./pct
+Mathematically/RB ,/pct we/PPSS shall/MD not/NEG distinguish/VB the/AT experiment/NN of/IN three/CD dice/NNS tossed/VBN once/RB from/IN that/DT of/IN one/CD die/NN tossed/VBN three/CD times/NNS ./pct
+These/DTS examples/NNS are/BER illustrative/JJ of/IN the/AT use/NN of/IN the/AT words/NNS ``/pct trial/NN ''/pct and/CC ``/pct experiment/NN ''/pct as/CS they/PPSS are/BER used/VBN in/IN this/DT chapter/NN ,/pct but/CC they/PPSS are/BER quite/QL flexible/JJ words/NNS and/CC it/PPS is/BEZ well/RB not/NEG to/TO restrict/VB them/PPO too/QL narrowly/RB ./pct
+Example/NN 1/CD ./pct
+Student/NN football/NN managers/NNS ./pct
+Ten/CD students/NNS act/VB as/CS managers/NNS for/IN a/AT high-school/NN football/NN team/NN ,/pct and/CC of/IN these/DTS managers/NNS a/AT proportion/NN P/NP are/BER licensed/VBN drivers/NNS ./pct
+Each/DT Friday/NR one/CD manager/NN is/BEZ chosen/VBN by/IN lot/NN to/TO stay/VB late/RB and/CC load/VB the/AT equipment/NN on/IN a/AT truck/NN ./pct
+On/IN three/CD Fridays/NRS the/AT coach/NN has/HVZ needed/VBN a/AT driver/NN ./pct
+Considering/IN only/RB these/DTS Fridays/NRS ,/pct what/WDT is/BEZ the/AT probability/NN that/CS the/AT coach/NN had/HVD drivers/NNS all/ABN 3/CD times/NNS ?/pct ?/pct
+Exactly/RB 2/CD times/NNS ?/pct ?/pct
+1/CD time/NN ?/pct ?/pct
+0/CD times/NNS ?/pct ?/pct
+Discussion/NN ./pct
+Note/VB that/CS there/EX are/BER 3/CD trials/NNS of/IN interest/NN ./pct
+Each/DT trial/NN consists/VBZ of/IN choosing/VBG a/AT student/NN manager/NN at/IN random/NN ./pct
+The/AT 2/CD possible/JJ outcomes/NNS on/IN each/DT trial/NN are/BER ``/pct driver/NN ''/pct or/CC ``/pct nondriver/NN ''/pct ./pct
+Since/CS the/AT choice/NN is/BEZ by/IN lot/NN each/DT week/NN ,/pct the/AT outcomes/NNS of/IN different/JJ trials/NNS are/BER independent/JJ ./pct
+The/AT managers/NNS stay/VB the/AT same/AP ,/pct so/CS that/CS Af/NN is/BEZ the/AT same/AP for/IN all/ABN weeks/NNS ./pct
+We/PPSS now/RB generalize/VB these/DTS ideas/NNS for/IN general/JJ binomial/JJ experiments/NNS ./pct
+For/IN an/AT experiment/NN to/TO qualify/VB as/CS a/AT binomial/JJ experiment/NN ,/pct it/PPS must/MD have/HV four/CD properties/NNS :/pct (/pct 1/CD )/pct there/EX must/MD be/BE a/AT fixed/VBN number/NN of/IN trials/NNS ,/pct (/pct 2/CD )/pct each/DT trial/NN must/MD result/VB in/IN a/AT ``/pct success/NN ''/pct or/CC a/AT ``/pct failure/NN ''/pct (/pct a/AT binomial/JJ trial/NN )/pct ,/pct (/pct 3/CD )/pct all/ABN trials/NNS must/MD have/HV identical/JJ probabilities/NNS of/IN success/NN ,/pct (/pct 4/CD )/pct the/AT trials/NNS must/MD be/BE independent/JJ of/IN each/DT other/AP ./pct
+Below/RB we/PPSS use/VB our/PPg earlier/JJR examples/NNS to/TO describe/VB and/CC illustrate/VB these/DTS four/CD properties/NNS ./pct
+We/PPSS also/RB give/VB ,/pct for/IN each/DT property/NN ,/pct an/AT example/NN where/WRB the/AT property/NN is/BEZ absent/JJ ./pct
+The/AT language/NN and/CC notation/NN introduced/VBN are/BER standard/JJ throughout/IN the/AT chapter/NN ./pct
+1/CD ./pct
+There/EX must/MD be/BE a/AT fixed/VBN number/NN n/NN of/IN repeated/VBN trials/NNS ./pct
+For/IN the/AT marksman/NN ,/pct we/PPSS study/VB sets/NNS of/IN five/CD shots/NNS (/pct Af/NN )/pct ;/pct ;/pct
+for/IN the/AT mice/NNS ,/pct we/PPSS restrict/VB attention/NN to/IN litters/NNS of/IN eight/CD (/pct Af/NN )/pct ;/pct ;/pct
+and/CC for/IN the/AT aces/NNS ,/pct we/PPSS toss/VB three/CD dice/NNS (/pct Af/NN )/pct ./pct
+Experiment/NN without/IN a/AT fixed/VBN number/NN of/IN trials/NNS ./pct
+Toss/VB a/AT die/NN until/CS an/AT ace/NN appears/VBZ ./pct
+Here/RB the/AT number/NN of/IN trials/NNS is/BEZ a/AT random/JJ variable/NN ,/pct not/NEG a/AT fixed/VBN number/NN ./pct
+2/CD ./pct
+Binomial/JJ trials/NNS ./pct
+Each/DT of/IN the/AT N/NN trials/NNS is/BEZ either/CC a/AT success/NN or/CC a/AT failure/NN ./pct
+``/pct Success/NN ''/pct and/CC ``/pct failure/NN ''/pct are/BER just/RB convenient/JJ labels/NNS for/IN the/AT two/CD categories/NNS of/IN outcomes/NNS when/WRB we/PPSS talk/VB about/IN binomial/JJ trials/NNS in/IN general/JJ ./pct
+These/DTS words/NNS are/BER more/QL expressive/JJ than/CS labels/NNS like/VB ``/pct A/NP ''/pct and/CC ``/pct not-A/NP ''/pct ./pct
+It/PPS is/BEZ natural/JJ from/IN the/AT marksman's/NNg viewpoint/NN to/IN call/NN a/AT bull's-eye/NN a/AT success/NN ,/pct but/CC in/IN the/AT mice/NNS example/NN it/PPS is/BEZ arbitrary/JJ which/WDT category/NN corresponds/VBZ to/IN straight/JJ hair/NN in/IN a/AT mouse/NN ./pct
+The/AT word/NN ``/pct binomial/JJ ''/pct means/VBZ ``/pct of/IN two/CD names/NNS ''/pct or/CC ``/pct of/IN two/CD terms/NNS ''/pct ,/pct and/CC both/ABX usages/NNS apply/VB in/IN our/PPg work/NN :/pct the/AT first/OD to/IN the/AT names/NNS of/IN the/AT two/CD outcomes/NNS of/IN a/AT binomial/JJ trial/NN ,/pct and/CC the/AT second/OD to/IN the/AT terms/NNS P/NP and/CC Af/NN that/WPS represent/VB the/AT probabilities/NNS of/IN ``/pct success/NN ''/pct and/CC ``/pct failure/NN ''/pct ./pct
+Sometimes/RB when/WRB there/EX are/BER many/AP outcomes/NNS for/IN a/AT single/AP trial/NN ,/pct we/PPSS group/VB these/DTS outcomes/NNS into/IN two/CD classes/NNS ,/pct as/CS in/IN the/AT example/NN of/IN the/AT die/NN ,/pct where/WRB we/PPSS have/HV arbitrarily/RB constructed/VBN the/AT classes/NNS ``/pct ace/NN ''/pct and/CC ``/pct not-ace/NN ''/pct ./pct
+Experiment/NN without/IN the/AT two-class/JJ property/NN ./pct
+We/PPSS classify/VB mice/NNS as/CS ``/pct straight-haired/JJ ''/pct or/CC ``/pct wavy-haired/JJ ''/pct ,/pct but/CC a/AT hairless/JJ mouse/NN appears/VBZ ./pct
+We/PPSS can/MD escape/VB from/IN such/ABL a/AT difficulty/NN by/IN ruling/VBG out/RP the/AT animal/NN as/CS not/NEG constituting/VBG a/AT trial/NN ,/pct but/CC such/ABL a/AT solution/NN is/BEZ not/NEG always/RB satisfactory/JJ ./pct
+3/CD ./pct
+All/ABN trials/NNS have/HV identical/JJ probabilities/NNS of/IN success/NN ./pct
+Each/DT die/NN has/HVZ probability/NN Af/NN of/IN producing/VBG an/AT ace/NN ;/pct ;/pct
+the/AT marksman/NN has/HVZ some/DTI probability/NN p/NN ,/pct perhaps/RB 0.1/CD ,/pct of/IN making/VBG a/AT bull's-eye/NN ./pct
+Note/VB that/CS we/PPSS need/MD not/NEG know/VB the/AT value/NN of/IN p/NN ,/pct for/CS the/AT experiment/NN to/TO be/BE binomial/JJ ./pct
+Experiment/NN where/WRB p/NN is/BEZ not/NEG constant/JJ ./pct
+During/IN a/AT round/NN of/IN target/NN practice/NN the/AT sun/NN comes/VBZ from/IN behind/IN a/AT cloud/NN and/CC dazzles/VBZ the/AT marksman/NN ,/pct lowering/VBG his/PPg chance/NN of/IN a/AT bull's-eye/NN ./pct
+4/CD ./pct
+The/AT trials/NNS are/BER independent/JJ ./pct
+Strictly/RB speaking/VBG ,/pct this/DT means/VBZ that/CS the/AT probability/NN for/IN each/DT possible/JJ outcome/NN of/IN the/AT experiment/NN can/MD be/BE computed/VBN by/IN multiplying/VBG together/RB the/AT probabilities/NNS of/IN the/AT possible/JJ outcomes/NNS of/IN the/AT single/AP binomial/JJ trials/NNS ./pct
+Thus/RB in/IN the/AT three-dice/NN example/NN Af/NN ,/pct Af/NN ,/pct and/CC the/AT independence/NN assumption/NN imply/VB that/CS the/AT probability/NN that/CS the/AT three/CD dice/NNS fall/VB ace/NN ,/pct not-ace/NN ,/pct ace/NN in/IN that/DT order/NN is/BEZ Af/NN ./pct
+Experimentally/RB ,/pct we/PPSS expect/VB independence/NN when/WRB the/AT trials/NNS have/HV nothing/PN to/TO do/DO with/IN one/CD another/DT ./pct
+Examples/NNS where/WRB independence/NN fails/VBZ ./pct
+A/AT family/NN of/IN five/CD plans/VBZ to/TO go/VB together/RB either/CC to/IN the/AT beach/NN or/CC to/IN the/AT mountains/NNS ,/pct and/CC a/AT coin/NN is/BEZ tossed/VBN to/TO decide/VB ./pct
+We/PPSS want/VB to/TO know/VB the/AT number/NN of/IN people/NNS going/VBG to/IN the/AT mountains/NNS ./pct
+When/WRB this/DT experiment/NN is/BEZ viewed/VBN as/CS composed/VBN of/IN five/CD binomial/JJ trials/NNS ,/pct one/CD for/IN each/DT member/NN of/IN the/AT family/NN ,/pct the/AT outcomes/NNS of/IN the/AT trials/NNS are/BER obviously/RB not/NEG independent/JJ ./pct
+Indeed/RB ,/pct the/AT experiment/NN is/BEZ better/RBR viewed/VBN as/CS consisting/VBG of/IN one/CD binomial/JJ trial/NN for/IN the/AT entire/JJ family/NN ./pct
+The/AT following/VBG is/BEZ a/AT less/QL extreme/JJ example/NN of/IN dependence/NN ./pct
+Consider/VB couples/NNS visiting/VBG an/AT art/NN museum/NN ./pct
+Each/DT person/NN votes/VBZ for/IN one/CD of/IN a/AT pair/NN of/IN pictures/NNS to/TO receive/VB a/AT popular/JJ prize/NN ./pct
+Voting/VBG for/IN one/CD picture/NN may/MD be/BE called/VBN ``/pct success/NN ''/pct ,/pct for/IN the/AT other/AP ``/pct failure/NN ''/pct ./pct
+An/AT experiment/NN consists/VBZ of/IN the/AT voting/NN of/IN one/CD couple/NN ,/pct or/CC two/CD trials/NNS ./pct
+In/IN repetitions/NNS of/IN the/AT experiment/NN from/IN couple/NN to/IN couple/NN ,/pct the/AT votes/NNS of/IN the/AT two/CD persons/NNS in/IN a/AT couple/NN probably/RB agree/VB more/QL often/RB than/CS independence/NN would/MD imply/VB ,/pct because/CS couples/NNS who/WPS visit/VB the/AT museum/NN together/RB are/BER more/QL likely/JJ to/TO have/HV similar/JJ tastes/NNS than/CS are/BER a/AT random/JJ pair/NN of/IN people/NNS drawn/VBN from/IN the/AT entire/JJ population/NN of/IN visitors/NNS ./pct
+Table/NN 7-1/CD illustrates/VBZ the/AT point/NN ./pct
+The/AT table/NN shows/VBZ that/CS 0.6/CD of/IN the/AT boys/NNS and/CC 0.6/CD of/IN the/AT girls/NNS vote/VB for/IN picture/NN A/NN ./pct
+Therefore/RB ,/pct under/IN independent/JJ voting/NN ,/pct Af/NN or/CC 0.36/CD of/IN the/AT couples/NNS would/MD cast/VB two/CD votes/NNS for/IN picture/NN A/NN ,/pct and/CC Af/NN or/CC 0.16/CD would/MD cast/VB two/CD votes/NNS for/IN picture/NN B/NN ./pct
+Thus/RB in/IN independent/JJ voting/NN ,/pct Af/NN or/CC 0.52/CD of/IN the/AT couples/NNS would/MD agree/VB ./pct
+But/CC Table/NN 7-1/CD shows/VBZ that/DT Af/NN or/CC 0.70/CD agree/VB ,/pct too/QL many/AP for/IN independent/JJ voting/NN ./pct
+Each/DT performance/NN of/IN an/AT n-trial/NN binomial/JJ experiment/NN results/VBZ in/IN some/DTI whole/JJ number/NN from/IN 0/CD through/IN N/NP as/CS the/AT value/NN of/IN the/AT random/JJ variable/NN X/NN ,/pct where/WRB Af/NN ./pct
+We/PPSS want/VB to/TO study/VB the/AT probability/NN function/NN of/IN this/DT random/JJ variable/NN ./pct
+For/IN example/NN ,/pct we/PPSS are/BER interested/VBN in/IN the/AT number/NN of/IN bull's-eyes/NNS ,/pct not/NEG which/WDT shots/NNS were/BED bull's-eyes/NNS ./pct
+A/AT binomial/JJ experiment/NN can/MD produce/VB random/JJ variables/NNS other/AP than/CS the/AT number/NN of/IN successes/NNS ./pct
+For/IN example/NN ,/pct the/AT marksman/NN gets/VBZ 5/CD shots/NNS ,/pct but/CC we/PPSS take/VB his/PPg score/NN to/TO be/BE the/AT number/NN of/IN shots/NNS before/IN his/PPg first/OD bull's-eye/NN ,/pct that/DT is/BEZ ,/pct 0/CD ,/pct 1/CD ,/pct 2/CD ,/pct 3/CD ,/pct 4/CD (/pct or/CC 5/CD ,/pct if/CS he/PPS gets/VBZ no/AT bull's-eye/NN )/pct ./pct
+Thus/RB we/PPSS do/DO not/NEG score/VB the/AT number/NN of/IN bull's-eyes/NNS ,/pct and/CC the/AT random/JJ variable/NN is/BEZ not/NEG the/AT number/NN of/IN successes/NNS ./pct
+The/AT constancy/NN of/IN P/NP and/CC the/AT independence/NN are/BER the/AT conditions/NNS most/QL likely/JJ to/TO give/VB trouble/NN in/IN practice/NN ./pct
+Obviously/RB ,/pct very/QL slight/JJ changes/NNS in/IN P/NP do/DO not/NEG change/VB the/AT probabilities/NNS much/RB ,/pct and/CC a/AT slight/JJ lack/NN of/IN independence/NN may/MD not/NEG make/VB an/AT appreciable/JJ difference/NN ./pct
+(/pct For/IN instance/NN ,/pct see/VB Example/NN 2/CD of/IN Section/NN 5-5/CD ,/pct on/IN red/JJ cards/NNS in/IN hands/NNS of/IN 5/CD ./pct
+)/pct On/IN the/AT other/AP hand/NN ,/pct even/RB when/WRB the/AT binomial/JJ model/NN does/DOZ not/NEG describe/VB well/RB the/AT physical/JJ phenomenon/NN being/BEG studied/VBN ,/pct the/AT binomial/JJ model/NN may/MD still/RB be/BE used/VBN as/CS a/AT baseline/NN for/IN comparative/JJ purposes/NNS ;/pct ;/pct
+that/DT is/BEZ ,/pct we/PPSS may/MD discuss/VB the/AT phenomenon/NN in/IN terms/NNS of/IN its/PPg departures/NNS from/IN the/AT binomial/JJ model/NN ./pct
+To/TO summarize/VB :/pct
+A/AT binomial/JJ experiment/NN consists/VBZ of/IN Af/NN independent/JJ binomial/JJ trials/NNS ,/pct all/ABN with/IN the/AT same/AP probability/NN Af/NN of/IN yielding/VBG a/AT success/NN ./pct
+The/AT outcome/NN of/IN the/AT experiment/NN is/BEZ X/NN successes/NNS ./pct
+The/AT random/JJ variable/NN X/NN takes/VBZ the/AT values/NNS Af/NN with/IN probabilities/NNS Af/NN or/CC ,/pct more/QL briefly/RB Af/NN ./pct
+We/PPSS shall/MD find/VB a/AT formula/NN for/IN the/AT probability/NN of/IN exactly/RB X/NP successes/NNS for/IN given/VBN values/NNS of/IN P/NP and/CC N/NP ./pct
+When/WRB each/DT number/NN of/IN successes/NNS X/NP is/BEZ paired/VBN with/IN its/PPg probability/NN of/IN occurrence/NN Af/NN ,/pct the/AT set/NN of/IN pairs/NNS Af/NN ,/pct is/BEZ a/AT probability/NN function/NN called/VBN a/AT binomial/JJ distribution/NN ./pct
+The/AT choice/NN of/IN P/NP and/CC N/NP determines/VBZ the/AT binomial/JJ distribution/NN uniquely/RB ,/pct and/CC different/JJ choices/NNS always/RB produce/VB different/JJ distributions/NNS (/pct except/IN when/WRB Af/NN ;/pct ;/pct
+then/RB the/AT number/NN of/IN successes/NNS is/BEZ always/RB 0/CD )/pct ./pct
+The/AT set/NN of/IN all/ABN binomial/JJ distributions/NNS is/BEZ called/VBN the/AT family/NN of/IN binomial/JJ distributions/NNS ,/pct but/CC in/IN general/JJ discussions/NNS this/DT expression/NN is/BEZ often/RB shortened/VBN to/IN ``/pct the/AT binomial/JJ distribution/NN ''/pct ,/pct or/CC even/RB ``/pct the/AT binomial/JJ ''/pct when/WRB the/AT context/NN is/BEZ clear/JJ ./pct
+Binomial/JJ distributions/NNS were/BED treated/VBN by/IN James/NP Bernoulli/NP about/RB 1700/CD ,/pct and/CC for/IN this/DT reason/NN binomial/JJ trials/NNS are/BER sometimes/RB called/VBN Bernoulli/NP trials/NNS ./pct
+Random/JJ variables/NNS ./pct
+Each/DT binomial/JJ trial/NN of/IN a/AT binomial/JJ experiment/NN produces/VBZ either/CC 0/CD or/CC 1/CD success/NN ./pct
+Therefore/RB each/DT binomial/JJ trial/NN can/MD be/BE thought/VBN of/IN as/CS producing/VBG a/AT value/NN of/IN a/AT random/JJ variable/NN associated/VBN with/IN that/DT trial/NN and/CC taking/VBG the/AT values/NNS 0/CD and/CC 1/CD ,/pct with/IN probabilities/NNS Q/NP and/CC P/NP respectively/RB ./pct
+The/AT several/AP trials/NNS of/IN a/AT binomial/JJ experiment/NN produce/VB a/AT new/JJ random/JJ variable/NN X/NN ,/pct the/AT total/NN number/NN of/IN successes/NNS ,/pct which/WDT is/BEZ just/RB the/AT sum/NN of/IN the/AT random/JJ variables/NNS associated/VBN with/IN the/AT single/AP trials/NNS ./pct
+Example/NN 2/CD ./pct
+The/AT marksman/NN gets/VBZ two/CD bull's-eyes/NNS ,/pct one/CD on/IN his/PPg third/OD shot/NN and/CC one/CD on/IN his/PPg fifth/OD ./pct
+The/AT numbers/NNS of/IN successes/NNS on/IN the/AT five/CD individual/JJ shots/NNS are/BER ,/pct then/RB ,/pct 0/CD ,/pct 0/CD ,/pct 1/CD ,/pct 0/CD ,/pct 1/CD ./pct
+The/AT number/NN of/IN successes/NNS on/IN each/DT shot/NN is/BEZ a/AT value/NN of/IN a/AT random/JJ variable/NN that/WPS has/HVZ values/NNS 0/CD or/CC 1/CD ,/pct and/CC there/EX are/BER 5/CD such/JJ random/JJ variables/NNS here/RB ./pct
+Their/PPg sum/NN is/BEZ X/NN ,/pct the/AT total/NN number/NN of/IN successes/NNS ,/pct which/WDT in/IN this/DT experiment/NN has/HVZ the/AT value/NN Af/NN ./pct

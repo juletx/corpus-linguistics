@@ -1,0 +1,121 @@
+Copernicus/NP did/DOD not/NEG question/VB it/PPO ,/pct Ptolemy/NP could/MD not/NEG ./pct
+Given/VBN the/AT conceptual/JJ context/NN within/IN which/WDT ancient/JJ thought/NN thrived/VBD ,/pct how/WRB could/MD anyone/PN have/HV questioned/VBN this/DT principle/NN ?/pct ?/pct
+The/AT reasons/NNS for/IN this/DT are/BER partly/QL observational/JJ ,/pct partly/QL philosophical/JJ ,/pct and/CC reinforced/VBN by/IN other/AP aesthetic/JJ and/CC cultural/JJ factors/NNS ./pct
+First/OD ,/pct the/AT observational/JJ reasons/NNS ./pct
+The/AT obvious/JJ natural/JJ fact/NN to/IN ancient/JJ thinkers/NNS was/BEDZ the/AT diurnal/JJ rotation/NN of/IN the/AT heavens/NNS ./pct
+Not/NEG only/RB did/DOD constellations/NNS like/CS Draco/NP ,/pct Cepheus/NP ,/pct and/CC Cassiopeia/NP spin/VB circles/NNS around/IN the/AT pole/NN ,/pct but/CC stars/NNS which/WDT were/BED not/NEG circumpolar/JJ rose/VBD and/CC set/VBD at/IN the/AT same/AP place/NN on/IN the/AT horizon/NN each/DT night/NN ./pct
+Nor/CC did/DOD a/AT constellation's/NNg stars/NNS vary/VB in/IN brightness/NN during/IN the/AT course/NN of/IN their/PPg nocturnal/JJ flights/NNS ./pct
+The/AT conclusion/NN --/pct the/AT distances/NNS of/IN the/AT constellations/NNS did/DOD not/NEG vary/VB and/CC their/PPg paths/NNS were/BED circular/JJ ./pct
+Moreover/RB ,/pct the/AT sun's/NNg path/NN over/IN earth/NN described/VBD a/AT segment/NN of/IN a/AT great/JJ circle/NN ;/pct ;/pct
+this/DT was/BEDZ clear/JJ from/IN the/AT contour/NN of/IN the/AT shadow/NN traced/VBN by/IN a/AT gnomon/NN before/IN and/CC after/IN noon/NN ./pct
+As/QL early/RB as/CS the/AT 6th/OD century/NN B.C./NP the/AT earth/NN was/BEDZ seen/VBN to/TO be/BE spherical/JJ ./pct
+Ships/NNS disappear/VB hull-first/RB over/IN the/AT horizon/NN ;/pct ;/pct
+approaching/VBG shore/NN their/PPg masts/NNS appeared/VBD first/RB ./pct
+Earth/NN ,/pct being/BEG at/IN the/AT center/NN of/IN the/AT universe/NN ,/pct would/MD have/HV the/AT same/AP shape/NN as/CS the/AT latter/AP ;/pct ;/pct
+so/RB ,/pct e.g./RB did/DOD Aristotle/NP argue/VB ,/pct although/CS this/DT may/MD not/NEG be/BE an/AT observational/JJ reason/NN in/IN favor/NN of/IN circularity/NN ./pct
+The/AT discoid/JJ shapes/NNS of/IN sun/NN and/CC moon/NN were/BED also/RB felt/VBN to/TO indicate/VB the/AT shape/NN of/IN celestial/JJ things/NNS ./pct
+In/IN light/NN of/IN all/ABN this/DT ,/pct one/CD would/MD require/VB special/JJ reasons/NNS for/IN saying/VBG that/CS the/AT paths/NNS of/IN the/AT heavenly/JJ bodies/NNS were/BED other/AP than/CS circular/JJ ./pct
+Why/WRB ,/pct for/IN example/NN ,/pct should/MD the/AT ancients/NNS have/HV supposed/VBN the/AT diurnal/JJ rotation/NN of/IN the/AT heavens/NNS to/TO be/BE elliptical/JJ ?/pct ?/pct
+Or/CC oviform/JJ ?/pct ?/pct
+Or/CC angular/JJ ?/pct ?/pct
+There/EX were/BED no/AT reasons/NNS for/IN such/JJ suppositions/NNS then/RB ./pct
+This/DT ,/pct conjoined/VBN with/IN the/AT considerations/NNS above/RB ,/pct made/VBD the/AT circular/JJ motions/NNS of/IN heavenly/JJ bodies/NNS appear/VB an/AT almost/QL directly/RB observed/VBN fact/NN ./pct
+Additional/JJ philosophical/JJ considerations/NNS ,/pct advanced/VBN notably/RB by/IN Aristotle/NP ,/pct supported/VBD further/RBR the/AT circularity/NN principle/NN ./pct
+By/IN distinguishing/VBG superlunary/JJ (/pct celestial/JJ )/pct and/CC sublunary/JJ (/pct terrestrial/JJ )/pct existence/NN ,/pct and/CC reinforcing/VBG this/DT with/IN the/AT four-element/JJ physics/NN of/IN Empedocles/NP ,/pct Aristotle/NP came/VBD to/TO speak/VB of/IN the/AT stars/NNS as/CS perfect/JJ bodies/NNS ,/pct which/WDT moved/VBD in/IN only/RB a/AT perfect/JJ way/NN ,/pct viz./RB in/IN a/AT perfect/JJ circle/NN ./pct
+Now/RB what/WDT is/BEZ perfect/JJ motion/NN ?/pct ?/pct
+It/PPS must/MD ,/pct apparently/RB ,/pct be/BE motion/NN without/IN termini/NNS ./pct
+Because/CS motion/NN which/WDT begins/VBZ and/CC ends/VBZ at/IN discrete/JJ places/NNS would/MD (/pct e.g./RB for/IN Aristotle/NP )/pct be/BE incomplete/JJ ./pct
+Circular/JJ motion/NN ,/pct however/RB ,/pct since/CS it/PPS is/BEZ eternal/JJ and/CC perfectly/QL continuous/JJ ,/pct lacks/VBZ termini/NNS ./pct
+It/PPS is/BEZ never/RB motion/NN towards/IN something/PN ./pct
+Only/RB imcomplete/JJ ,/pct imperfect/JJ things/NNS move/VB towards/IN what/WDT they/PPSS lack/VB ./pct
+Perfect/JJ ,/pct complete/JJ entities/NNS ,/pct if/CS they/PPSS move/VB at/IN all/ABN ,/pct do/DO not/NEG move/VB towards/IN what/WDT they/PPSS lack/VB ./pct
+They/PPSS move/VB only/RB in/IN accordance/NN with/IN what/WDT is/BEZ in/IN their/PPg natures/NNS ./pct
+Thus/RB ,/pct circular/JJ motion/NN is/BEZ itself/PPL one/CD of/IN the/AT essential/JJ characteristics/NNS of/IN completely/QL perfect/JJ celestial/JJ existence/NN ./pct
+To/TO return/VB now/RB to/IN the/AT four-element/JJ physics/NN ,/pct a/AT mixture/NN of/IN muddy/JJ ,/pct frothy/JJ water/NN will/MD ,/pct when/WRB standing/VBG in/IN a/AT jar/NN ,/pct separate/VB out/RP with/IN earth/NN at/IN the/AT bottom/NN ,/pct water/NN on/IN top/NN ,/pct and/CC the/AT air/NN on/IN top/NN of/IN that/DT ./pct
+A/AT candle/NN alight/JJ in/IN the/AT air/NN directs/VBZ its/PPg flame/NN and/CC smoke/VB upwards/RB ./pct
+This/DT gives/VBZ a/AT clue/NN to/IN the/AT cosmical/JJ order/NN of/IN elements/NNS ./pct
+Thus/RB earth/NN has/HVZ fallen/VBN to/IN the/AT center/NN of/IN the/AT universe/NN ./pct
+It/PPS is/BEZ covered/VBN (/pct partly/RB )/pct with/IN water/NN ,/pct air/NN is/BEZ atop/RB of/IN that/DT ./pct
+Pure/JJ fire/NN (/pct the/AT stars/NNS )/pct is/BEZ in/IN the/AT heavens/NNS ./pct
+When/WRB combined/VBN with/IN the/AT metaphysical/JJ notion/NN that/QL pure/JJ forms/NNS of/IN this/DT universe/NN are/BER best/QL appreciated/VBN when/WRB least/QL embodied/VBN in/IN a/AT material/JJ substratum/NN ,/pct it/PPS becomes/VBZ clear/JJ that/CS while/CS earth/NN will/MD be/BE dross/NN on/IN a/AT scale/NN of/IN material-formal/JJ ratios/NNS ,/pct celestial/JJ bodies/NNS will/MD be/BE of/IN a/AT subtle/JJ ,/pct quickened/VBN ,/pct ethereal/JJ existence/NN ,/pct in/IN whose/WPg embodiment/NN pure/JJ form/NN will/MD be/BE the/AT dominant/JJ component/NN and/CC matter/NN will/MD be/BE absent/JJ or/CC remain/VB subsidiary/JJ ./pct
+The/AT stars/NNS constitute/VB an/AT order/NN of/IN existence/NN different/JJ from/IN what/WDT we/PPSS encounter/VB on/IN earth/NN ./pct
+This/DT is/BEZ clear/JJ when/WRB one/PN distinguishes/VBZ the/AT types/NNS of/IN motion/NN appropriate/JJ to/IN both/ABX regions/NNS ./pct
+A/AT projectile/NN shot/VBN up/RP from/IN earth/NN returns/VBZ rectlinearly/RB to/IN its/PPg '/pct natural/JJ '/pct place/NN of/IN rest/NN ./pct
+But/CC the/AT natural/JJ condition/NN for/IN the/AT heavenly/JJ bodies/NNS is/BEZ neither/CC rest/NN ,/pct nor/CC rectilinear/JJ motion/NN ./pct
+Being/BEG less/QL encumbered/VBN by/IN material/NN embodiments/NNS they/PPSS partake/VB more/RBR of/IN what/WDT is/BEZ divine/JJ ./pct
+Their/PPg motion/NN will/MD be/BE eternal/JJ and/CC perfect/JJ ./pct
+Let/VB us/PPO re-examine/VB the/AT publicized/VBN contrasts/NNS between/IN Ptolemaic/JJ and/CC Copernican/JJ astronomy/NN ./pct
+Bluntly/RB ,/pct there/EX never/RB was/BEDZ a/AT Ptolemaic/JJ system/NN of/IN astronomy/NN ./pct
+Copernicus'/NPg achievement/NN was/BEDZ to/TO have/HV invented/VBN systematic/JJ astronomy/NN ./pct
+The/AT Almagest/NP and/CC The/AT Hypotheses/NNS outline/VB Ptolemy's/NPg conception/NN of/IN his/PPg own/JJ task/NN as/CS the/AT provision/NN of/IN computational/JJ tables/NNS ,/pct independent/JJ calculating/VBG devices/NNS for/IN the/AT prediction/NN of/IN future/JJ planetary/JJ perturbations/NNS ./pct
+Indeed/RB ,/pct in/IN the/AT Halma/NP edition/NN of/IN Theon's/NPg presentation/NN of/IN The/AT Hypotheses/NNS there/EX is/BEZ a/AT chart/NN setting/VBG out/RP (/pct under/IN six/CD distinct/JJ headings/NNS )/pct otherwise/RB unrelated/JJ diagrams/NNS for/IN describing/VBG the/AT planetary/JJ motions/NNS ./pct
+No/AT attempt/NN is/BEZ made/VBN by/IN Ptolemy/NP to/TO weld/VB into/IN a/AT single/AP scheme/NN (/pct a-la-Aristotle/RB )/pct ,/pct these/DTS independent/JJ predicting-machines/NNS ./pct
+They/PPSS all/ABN have/HV this/DT in/IN common/JJ :/pct the/AT earth/NN is/BEZ situated/VBN near/IN the/AT center/NN of/IN the/AT deferent/NN ./pct
+But/CC that/CS one/PN should/MD superimpose/VB all/ABN these/DTS charts/NNS ,/pct run/VB a/AT pin/NN through/IN the/AT common/JJ point/NN ,/pct and/CC then/RB scale/VB each/DT planetary/JJ deferent/NN larger/JJR and/CC smaller/JJR (/pct to/TO keep/VB the/AT epicycles/NNS from/IN '/pct bumping/VBG '/pct )/pct ,/pct this/DT is/BEZ contrary/JJ to/IN any/DTI intention/NN Ptolemy/NP ever/RB expresses/VBZ ./pct
+He/PPS might/MD even/RB suppose/VB the/AT planets/NNS to/TO move/VB at/IN infinity/NN ./pct
+Ptolemy's/NPg problem/NN is/BEZ to/TO forecast/VB where/WRB ,/pct against/IN the/AT inverted/VBN bowl/NN of/IN night/NN ,/pct some/DTI particular/JJ light/NN will/MD be/BE found/VBN at/IN future/JJ times/NNS ./pct
+His/PPg problem/NN concerns/VBZ longitudes/NNS ,/pct latitudes/NNS ,/pct and/CC angular/JJ velocities/NNS ./pct
+The/AT distances/NNS of/IN these/DTS points/NNS of/IN light/NN is/BEZ a/AT problem/NN he/PPS cannot /None master/VB ,/pct beyond/IN crude/JJ conjectures/NNS as/IN to/IN the/AT orderings/NNS of/IN the/AT planetary/JJ orbits/NNS viewed/VBN outward/RB from/IN earth/NN ./pct
+But/CC none/PN of/IN this/DT has/HVZ prevented/VBN scientists/NNS ,/pct philosophers/NNS ,/pct and/CC even/RB historians/NNS of/IN science/NN ,/pct from/IN speaking/VBG of/IN the/AT Ptolemaic/JJ system/NN ,/pct in/IN contrast/NN to/IN the/AT Copernican/JJ ./pct
+This/DT is/BEZ a/AT mistake/NN ./pct
+It/PPS is/BEZ engendered/VBN by/IN confounding/VBG the/AT Aristotelian/JJ cosmology/NN in/IN The/AT Almagest/NP with/IN the/AT geocentric/JJ astronomy/NN ./pct
+Ptolemy/NP recurrently/RB denies/VBZ that/CS he/PPS could/MD ever/RB explain/VB planetary/JJ motion/NN ./pct
+This/DT is/BEZ what/WDT necessitates/VBZ the/AT nonsystematic/JJ character/NN of/IN his/PPg astronomy/NN ./pct
+So/RB when/WRB textbooks/NNS ,/pct like/CS that/DT of/IN Baker/NP set/VB out/RP drawings/NNS of/IN the/AT '/pct Ptolemaic/JJ System/NN '/pct ,/pct complete/JJ with/IN earth/NN in/IN the/AT center/NN and/CC the/AT seven/CD heavenly/JJ bodies/NNS epicyclically/RB arranged/VBN on/IN their/PPg several/AP deferents/NNS ,/pct we/PPSS have/HV nothing/PN but/IN a/AT misleading/VBG 20th-century/NN idea/NN of/IN what/WDT never/RB existed/VBD historically/RB ./pct
+It/PPS is/BEZ the/AT chief/JJS merit/NN in/IN Copernicus'/NPg work/NN that/CS all/ABN his/PPg planetary/JJ calculations/NNS are/BER interdependent/JJ ./pct
+He/PPS cannot /None ,/pct e.g./RB compute/VB the/AT retrograde/JJ arc/NN traveled/VBN by/IN Mars/NP ,/pct without/IN also/RB making/VBG suppositions/NNS about/IN the/AT earth's/NNg own/JJ motion/NN ./pct
+He/PPS cannot /None describe/VB eclipses/NNS without/IN entertaining/VBG some/DTI form/NN of/IN a/AT three-body/JJ problem/NN ./pct
+In/IN Ptolemaic/JJ terms/NNS ,/pct however/RB ,/pct eclipses/NNS and/CC retrograde/JJ motion/NN were/BED phenomena/NNS simpliciter/RB ,/pct to/TO be/BE explained/VBN directly/RB as/CS possible/JJ resultants/NNS of/IN epicyclical/JJ combinations/NNS ./pct
+In/IN a/AT systematic/JJ astronomy/NN ,/pct like/CS that/DT of/IN Copernicus/NP ,/pct retrogradations/NNS become/VB part/NN of/IN the/AT conceptual/JJ structure/NN of/IN the/AT system/NN ;/pct ;/pct
+they/PPSS are/BER no/QL longer/RBR a/AT puzzling/JJ aspect/NN of/IN intricately/QL variable/JJ ,/pct local/JJ planetary/JJ motions/NNS ./pct
+Another/DT contrast/NN stressed/VBN when/WRB discussing/VBG Ptolemaic/JJ vs./IN Copernican/JJ astronomy/NN ,/pct turns/VBZ on/IN the/AT idea/NN of/IN simplicity/NN ./pct
+It/PPS is/BEZ often/RB stated/VBN that/CS Copernican/JJ astronomy/NN is/BEZ '/pct simpler/JJR '/pct than/CS Ptolemaic/JJ ./pct
+Some/DTI even/RB say/VB that/CS this/DT is/BEZ the/AT reason/NN for/IN the/AT ultimate/JJ acceptance/NN of/IN the/AT former/AP ./pct
+Thus/RB ,/pct Margenau/NP remarks/VBZ :/pct ``/pct A/AT large/JJ number/NN of/IN unrelated/JJ epicycles/NNS was/BEDZ needed/VBN to/TO explain/VB the/AT observations/NNS ,/pct but/CC otherwise/RB the/AT (/pct Ptolemaic/JJ )/pct system/NN served/VBD well/RB and/CC with/IN quantitative/JJ precision/NN ./pct
+Copernicus/NP ,/pct by/IN placing/VBG the/AT sun/NN at/IN the/AT center/NN of/IN the/AT planetary/JJ universe/NN ,/pct was/BEDZ able/JJ to/TO reduce/VB the/AT number/NN of/IN epicycles/NNS from/IN eighty-three/CD to/IN seventeen/CD ./pct
+Historical/JJ records/NNS indicate/VB that/CS Copernicus/NP was/BEDZ unaware/JJ of/IN the/AT fundamental/JJ aspects/NNS of/IN his/PPg so-called/JJ '/pct revolution/NN '/pct ,/pct unaware/JJ perhaps/RB of/IN its/PPg historical/JJ importance/NN ,/pct he/PPS rested/VBD content/JJ with/IN having/HVG produced/VBN a/AT simpler/JJR scheme/NN for/IN prediction/NN ./pct
+As/CS an/AT illustration/NN of/IN the/AT principle/NN of/IN simplicity/NN the/AT heliocentric/JJ discovery/NN has/HVZ a/AT peculiar/JJ appeal/NN because/CS it/PPS allows/VBZ simplicity/NN to/TO be/BE arithmetized/VBN ;/pct ;/pct
+it/PPS involves/VBZ a/AT reduction/NN in/IN the/AT number/NN of/IN epicycles/NNS from/IN eighty-three/CD to/IN seventeen/CD ''/pct ./pct
+Without/IN careful/JJ qualification/NN this/DT can/MD be/BE misleading/VBG ./pct
+If/CS in/IN any/DTI one/CD calculation/NN Ptolemy/NP had/HVD had/HVN to/TO invoke/VB 83/CD epicycles/NNS all/ABN at/IN once/RB ,/pct while/CS Copernicus/NP never/RB required/VBD more/AP than/IN one/CD third/OD this/DT number/NN ,/pct then/RB (/pct in/IN the/AT sense/NN obvious/JJ to/IN Margenau/NP )/pct Ptolemaic/JJ astronomy/NN would/MD be/BE simpler/JJR than/CS Copernican/JJ ./pct
+But/CC no/AT single/AP planetary/JJ problem/NN ever/RB required/VBD of/IN Ptolemy/NP more/AP than/IN six/CD epicycles/NNS at/IN one/CD time/NN ./pct
+This/DT ,/pct of/IN course/NN ,/pct results/VBZ from/IN the/AT non-systematic/JJ ,/pct '/pct cellular/JJ '/pct character/NN of/IN Ptolemaic/JJ theory/NN ./pct
+Calculations/NNS within/IN the/AT Copernican/JJ framework/NN always/RB raised/VBD questions/NNS about/IN planetary/JJ configurations/NNS ./pct
+These/DTS could/MD be/BE met/VBN only/RB by/IN considering/IN the/AT dynamical/JJ elements/NNS of/IN several/AP planets/NNS at/IN one/CD time/NN ./pct
+This/DT is/BEZ more/QL ambitious/JJ than/CS Ptolemy/NP is/BEZ ever/RB required/VBN to/TO be/BE when/WRB he/PPS faces/VBZ his/PPg isolated/VBN problems/NNS ./pct
+Thus/RB ,/pct in/IN no/AT ordinary/JJ sense/NN of/IN '/pct simplicity/NN '/pct is/BEZ the/AT Ptolemaic/JJ theory/NN simpler/JJR than/CS the/AT Copernican/JJ ./pct
+The/AT latter/AP required/VBD juggling/VBG several/AP elements/NNS simultaneously/RB ./pct
+This/DT was/BEDZ not/NEG simpler/JJR but/CC much/QL more/QL difficult/JJ than/CS exercises/NNS within/IN Ptolemy's/NPg astronomy/NN ./pct
+Analogously/RB ,/pct anyone/PN who/WPS argues/VBZ that/CS Einstein's/NPg theory/NN of/IN gravitation/NN is/BEZ simpler/JJR than/CS Newton's/NPg ,/pct must/MD say/VB rather/QL more/AP to/TO explain/VB how/WRB it/PPS is/BEZ that/CS the/AT latter/AP is/BEZ mastered/VBN by/IN student-physicists/NNS ,/pct while/CS the/AT former/AP can/MD be/BE managed/VBN (/pct with/IN difficulty/NN )/pct only/RB by/IN accomplished/VBN experts/NNS ./pct
+In/IN a/AT sense/NN ,/pct Einstein's/NPg theory/NN is/BEZ simpler/JJR than/CS Newton's/NPg ,/pct and/CC there/EX is/BEZ a/AT corresponding/JJ sense/NN in/IN which/WDT Copernicus'/NPg theory/NN is/BEZ simpler/JJR than/CS Ptolemy's/NPg ./pct
+But/CC '/pct simplicity/NN '/pct here/RB refers/VBZ to/IN systematic/JJ simplicity/NN ./pct
+The/AT number/NN of/IN primitive/JJ ideas/NNS in/IN systematically-simple/JJ theories/NNS is/BEZ reduced/VBN to/IN a/AT minimum/NN ./pct
+The/AT Axioms/NNS required/VBN to/TO make/VB the/AT theoretical/JJ machinery/NN operate/VB are/BER set/VBN out/RP tersely/RB and/CC powerfully/RB ,/pct so/CS that/CS all/ABN permissible/JJ operations/NNS within/IN the/AT theory/NN can/MD be/BE traced/VBN rigorously/RB back/RB to/IN these/DTS axioms/NNS ,/pct rules/NNS ,/pct and/CC primitive/JJ notions/NNS ./pct
+This/DT characterizes/VBZ Euclid's/NPg formulation/NN of/IN geometry/NN ,/pct but/CC not/NEG Ptolemy's/NPg astronomy/NN ./pct
+There/EX are/BER in/IN The/AT Almagest/NP no/AT rules/NNS for/IN determining/VBG in/IN advance/NN whether/CS a/AT new/JJ epicycle/NN will/MD be/BE required/VBN for/IN dealing/VBG with/IN abberations/NNS in/IN lunar/JJ ,/pct solar/JJ ,/pct or/CC planetary/JJ behavior/NN ./pct
+The/AT strongest/JJT appeal/NN of/IN the/AT Copernican/JJ formulation/NN consisted/VBD in/IN just/RB this/DT :/pct ideally/RB ,/pct the/AT justification/NN for/IN dealing/VBG with/IN special/JJ problems/NNS in/IN particular/JJ ways/NNS is/BEZ completely/RB set/VBN out/RP in/IN the/AT basic/JJ '/pct rules/NNS '/pct of/IN the/AT theory/NN ./pct
+The/AT lower-level/NN hypotheses/NNS are/BER never/RB '/pct ad/IN hoc/PN '/pct ,/pct never/RB introduced/VBN ex/IN post/IN facto/NN just/RB to/TO sweep/VB up/RP within/IN the/AT theory/NN some/DTI recalcitrant/JJ datum/NN ./pct
+Copernicus/NP ,/pct to/IN an/AT extent/NN unachieved/JJ by/IN Ptolemy/NP ,/pct approximated/VBD to/IN Euclid's/NPg vision/NN ./pct
+De/IN Revolutionibus/NNS is/BEZ not/NEG just/RB a/AT collection/NN of/IN facts/NNS and/CC techniques/NNS ./pct
+It/PPS is/BEZ an/AT organized/VBN system/NN of/IN these/DTS things/NNS ./pct
+Solving/VBG astronomical/JJ problems/NNS requires/VBZ ,/pct for/IN Copernicus/NP ,/pct not/NEG a/AT random/JJ search/NN of/IN unrelated/JJ tables/NNS ,/pct but/CC a/AT regular/JJ employment/NN of/IN the/AT rules/NNS defining/VBG the/AT entire/JJ discipline/NN ./pct
+Hence/RB ,/pct noting/VBG the/AT simplicity/NN achieved/VBN in/IN Copernicus'/NPg formulation/NN does/DOZ not/NEG provide/VB another/DT reason/NN for/IN the/AT acceptance/NN of/IN De/IN Revolutionibus/NNS ,/pct another/DT reason/NN beyond/IN its/PPg systematic/JJ superiority/NN ./pct
+It/PPS provides/VBZ exactly/RB the/AT same/AP reason/NN ./pct
+1543/CD A.D./RB is/BEZ often/RB venerated/VBN as/CS the/AT birthday/NN of/IN the/AT scientific/JJ revolution/NN ./pct
+It/PPS is/BEZ really/RB the/AT funeral/NN day/NN of/IN scholastic/JJ science/NN ./pct
+Granted/VBN ,/pct the/AT cosmological/JJ ,/pct philosophical/JJ ,/pct and/CC cultural/JJ reverberations/NNS initiated/VBN by/IN the/AT De/IN Revolutionibus/NNS were/BED felt/VBN with/IN increasing/VBG violence/NN during/IN the/AT 300/CD years/NNS to/TO follow/VB ./pct
+But/CC ,/pct considered/VBN within/IN technical/JJ astronomy/NN ,/pct a/AT different/JJ pattern/NN can/MD be/BE traced/VBN ./pct
+In/IN what/WDT does/DOZ the/AT dissatisfaction/NN of/IN Copernicus-the-astronomer/NP consist/VB ?/pct ?/pct
+What/WDT in/IN The/AT Almagest/NP draws/VBZ his/PPg fire/NN ?/pct ?/pct
+Geocentricism/NN per/IN se/PPL ?/pct ?/pct
+No/RB ./pct
+The/AT formal/JJ displacement/NN of/IN the/AT geocentric/JJ principle/NN far/QL from/IN being/BEG Copernicus'/NPg primary/JJ concern/NN ,/pct was/BEDZ introduced/VBN only/RB to/TO resolve/VB what/WDT seemed/VBD to/IN him/PPO intolerable/JJ in/IN orthodox/JJ astronomy/NN ,/pct namely/RB ,/pct the/AT '/pct unphysical/JJ '/pct triplication/NN of/IN centric/JJ reference-points/NNS :/pct one/CD center/NN from/IN which/WDT the/AT planet's/NNg distances/NNS were/BED calculated/VBN ,/pct another/DT around/IN which/WDT planetary/JJ velocities/NNS were/BED computed/VBN ,/pct and/CC still/RB a/AT third/OD center/NN (/pct the/AT earth/NN )/pct from/IN which/WDT the/AT observations/NNS originated/VBD ./pct
+This/DT arrangement/NN was/BEDZ for/IN Copernicus/NP literally/QL monstrous/JJ :/pct ``/pct With/IN (/pct the/AT Ptolemaists/NPS )/pct it/PPS is/BEZ as/QL though/CS an/AT artist/NN were/BED to/TO gather/VB the/AT hands/NNS ,/pct feet/NNS ,/pct head/NN and/CC other/AP members/NNS for/IN his/PPg images/NNS from/IN divers/JJ models/NNS ,/pct each/DT part/NN excellently/QL drawn/VBN ,/pct but/CC not/NEG related/VBN to/IN a/AT single/AP body/NN ;/pct ;/pct
+and/CC since/CS they/PPSS in/IN no/AT way/NN match/VB each/DT other/AP ,/pct the/AT result/NN would/MD be/BE a/AT monster/NN rather/IN than/IN a/AT man/NN ''/pct ./pct
+Copernicus/NP required/VBD a/AT systematically/QL integrated/VBN ,/pct physically/QL intelligible/JJ astronomy/NN ./pct
+His/PPg objective/NN was/BEDZ ,/pct essentially/RB ,/pct to/TO repair/VB those/DTS aspects/NNS of/IN orthodox/JJ astronomy/NN responsible/JJ for/IN its/PPg deficiencies/NNS in/IN achieving/VBG these/DTS ends/NNS ./pct
+That/CS such/JJ deficiencies/NNS existed/VBD within/IN Ptolemy's/NPg theory/NN was/BEDZ not/NEG discovered/VBN de/IN novo/NN by/IN Copernicus/NP ./pct
+The/AT critical/JJ ,/pct rigorous/JJ examinations/NNS of/IN Nicholas/NP of/IN Cusa/NP and/CC Nicholas/NP of/IN Oresme/NP provided/VBD the/AT context/NN (/pct a/AT late/JJ medieval/JJ context/NN )/pct for/IN Nicholas/NP Copernicus'/NPg own/JJ work/NN ./pct
+The/AT latter/AP looked/VBD backward/RB upon/IN inherited/VBN deficiencies/NNS ./pct
+Without/IN abandoning/VBG too/QL much/AP ,/pct Copernicus/NP sought/VBD to/TO make/VB orthodox/JJ astronomy/NN systematically/RB and/CC mechanically/RB acceptable/JJ ./pct
+He/PPS did/DOD not/NEG think/VB himself/PPL to/TO be/BE firing/VBG the/AT first/OD shot/NN of/IN an/AT intellectual/JJ revolution/NN ./pct

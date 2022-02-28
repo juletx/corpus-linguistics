@@ -1,0 +1,132 @@
+The/AT design/NN of/IN a/AT mechanical/JJ interlocking/VBG frame/NN is/BEZ much/QL like/CS a/AT mechanical/JJ puzzle/NN ,/pct but/CC once/CS understood/VBN ,/pct the/AT principles/NNS can/MD be/BE applied/VBN to/IN any/DTI track/NN and/CC signal/NN arrangement/NN ./pct
+In/IN the/AT frame/NN are/BER two/CD sets/NNS of/IN bars/NNS which/WDT interact/VB with/IN each/DT other/AP to/TO prevent/VB the/AT operator/NN from/IN making/VBG dangerous/JJ moves/NNS ./pct
+The/AT main/JJS set/NN of/IN bars/NNS are/BER the/AT ``/pct tappets/NNS ''/pct and/CC one/CD tappet/NN is/BEZ connected/VBN to/IN each/DT lever/NN ./pct
+If/CS the/AT lever/NN is/BEZ pulled/VBN to/TO clear/VB a/AT signal/NN or/CC move/VB a/AT switch/NN ,/pct the/AT tappet/NN moves/VBZ a/AT short/JJ distance/NN lengthwise/RB at/IN the/AT same/AP time/NN ./pct
+Close/QL behind/IN the/AT plane/NN of/IN the/AT tappets/NNS are/BER the/AT locking/VBG bars/NNS ./pct
+These/DTS can/MD also/RB move/VB a/AT short/JJ distance/NN but/CC at/IN right/JJ angles/NNS to/IN the/AT tappets/NNS ./pct
+The/AT number/NN of/IN locking/VBG bars/NNS required/VBN depends/VBZ on/IN how/WRB many/AP false/JJ moves/NNS must/MD be/BE prevented/VBN ./pct
+In/IN the/AT sides/NNS of/IN the/AT tappets/NNS are/BER notches/NNS with/IN sloping/VBG sides/NNS ,/pct and/CC connection/NN between/IN the/AT tappets/NNS and/CC locking/VBG bars/NNS consist/VB of/IN cams/NNS called/VBN ``/pct dogs/NNS ''/pct ./pct
+Two/CD or/CC more/AP dogs/NNS are/BER mounted/VBN on/IN each/DT locking/VBG bar/NN ./pct
+These/DTS slide/VB into/IN and/CC out/IN of/IN the/AT notches/NNS in/IN the/AT tappets/NNS as/CS the/AT tappets/NNS are/BER moved/VBN ,/pct locking/VBG and/CC unlocking/VBG them/PPO ./pct
+Here's /None how/WRB the/AT scheme/NN works/VBZ :/pct Suppose/VB the/AT operator/NN pulls/VBZ the/AT lever/NN to/TO clear/VB a/AT particular/JJ signal/NN ./pct
+This/DT also/RB pulls/VBZ the/AT tappet/NN connected/VBN to/IN the/AT particular/JJ lever/NN and/CC forces/VBZ any/DTI dogs/NNS seated/VBN in/IN the/AT notches/NNS to/IN the/AT side/NN ,/pct thus/RB moving/VBG one/CD or/CC more/AP locking/VBG bars/NNS ./pct
+The/AT dogs/NNS on/IN the/AT other/AP ends/NNS of/IN these/DTS locking/VBG bars/NNS are/BER thus/RB forced/VBN into/IN notches/NNS in/IN other/AP tappets/NNS ./pct
+By/IN this/DT scheme/NN ,/pct pulling/VBG one/CD signal/NN to/TO clear/VB locks/NNS all/ABN the/AT other/AP switch/NN and/CC signal/NN levers/NNS in/IN safe/JJ positions/NNS until/CS the/AT first/OD signal/NN is/BEZ again/RB restored/VBN to/IN normal/JJ ./pct
+Interlocking/VBG signals/NNS are/BER normally/RB at/IN stop/NN or/CC ``/pct red/JJ ''/pct position/NN ,/pct and/CC a/AT lever/NN must/MD be/BE pulled/VBN to/TO ``/pct clear/VB ''/pct the/AT signal/NN ./pct
+This/DT is/BEZ not/NEG necessarily/RB to/IN green/NN ,/pct however/WRB ,/pct for/IN in/IN some/DTI situations/NNS only/RB a/AT yellow/JJ indication/NN is/BEZ given/VBN to/IN a/AT train/NN to/TO let/VB it/PPO into/IN the/AT ``/pct plant/NN ''/pct ./pct
+There/EX are/BER other/AP basic/JJ rules/NNS ./pct
+A/AT turnout/NN may/MD have/HV two/CD levers/NNS ,/pct one/CD to/TO actually/RB move/VB the/AT switch/NN points/NNS ,/pct the/AT other/AP to/IN lock/NN the/AT points/NNS ./pct
+A/AT signal/NN cannot /None be/BE cleared/VBN until/CS all/ABN the/AT related/VBN turnouts/NNS are/BER properly/RB thrown/VBN and/CC locked/VBN ./pct
+Such/JJ locks/NNS are/BER nearly/QL always/RB used/VBN where/WRB the/AT switch/NN points/NNS ``/pct face/VB ''/pct oncoming/JJ traffic/NN ./pct
+The/AT lock/NN insures/VBZ that/CS the/AT points/NNS are/BER thrown/VBN all/ABN the/AT way/NN with/IN no/AT chance/NN that/CS a/AT wheel/NN flange/NN will/MD snag/VB on/IN a/AT partly/QL thrown/VBN point/NN ./pct
+If/CS the/AT points/NNS aren't /None thrown/VBN all/ABN the/AT way/NN ,/pct the/AT Turnout/NN cannot /None be/BE locked/VBN ,/pct and/CC in/IN turn/NN ,/pct the/AT signal/NN cannot /None be/BE cleared/VBN ./pct
+Generally/RB ,/pct these/DTS locks/NNS on/IN turnouts/NNS are/BER called/VBN ``/pct facing/VBG point/NN locks/NNS ''/pct ./pct
+Figs./NNS 1-6/CD show/VB typical/JJ arrangements/NNS of/IN track/NN and/CC signals/NNS ./pct
+Each/DT diagram/NN is/BEZ accompanied/VBN by/IN a/AT ``/pct dog/NN chart/NN ''/pct ,/pct a/AT list/NN of/IN the/AT levers/NNS that/WPS show/VB which/WDT other/AP levers/NNS any/DTI particular/JJ lever/NN will/MD lock/VB if/CS pulled/VBN ./pct
+The/AT lines/NNS connecting/VBG the/AT wedge-shaped/JJ dogs/NNS represent/VB the/AT locking/VBG bars/NNS at/IN right/JJ angles/NNS to/IN the/AT tappet/NN bars/NNS ./pct
+By/IN studying/VBG the/AT track-signal/NN diagrams/NNS you'll /None note/VB several/AP other/AP details/NNS ./pct
+Derails/NNS --/pct mechanical/JJ track/NN devices/NNS that/WPS actually/RB guide/VB the/AT wheels/NNS off/IN the/AT rails/NNS if/CS a/AT train/NN passes/VBZ a/AT ``/pct stop/NN ''/pct signal/NN --/pct are/BER used/VBN in/IN many/AP instances/NNS ./pct
+``/pct Home/NR ''/pct signals/NNS have/HV two/CD blades/NNS ./pct
+The/AT blacked-in/JJ blades/NNS indicate/VB a/AT fixed/VBN aspect/NN --/pct the/AT blade/NN does/DOZ not/NEG move/VB ./pct
+As/CS an/AT engineer/NN approaches/VBZ the/AT plant/NN the/AT position/NN of/IN the/AT home/NR signal/NN is/BEZ seen/VBN in/IN advance/NN when/WRB he/PPS passes/VBZ the/AT ``/pct distant/JJ ''/pct signal/NN located/VBN beyond/IN the/AT limits/NNS of/IN the/AT interlocking/VBG plant/NN ./pct
+In/IN some/DTI low-speed/NN situations/NNS ,/pct the/AT distant/JJ signal/NN is/BEZ fixed/VBN at/IN caution/NN ./pct
+In/IN other/AP instances/NNS where/WRB there/EX is/BEZ no/AT automatic/JJ block/NN signaling/NN ,/pct the/AT distant/JJ has/HVZ only/RB green/JJ and/CC yellow/JJ aspects/NNS ./pct
+So/QL much/AP for/IN the/AT prototype/NN ./pct
+The/AT interlocking/VBG frame/NN we/PPSS built/VBD at/IN the/AT model/NN railroader/NN workshop/NN and/CC then/RB installed/VBD on/IN Paul/NP Larson's/NPg railroad/NN follows/VBZ the/AT Fig./NN 1/CD scheme/NN and/CC is/BEZ shown/VBN beginning/VBG in/IN Fig./NN 7/CD ,/pct page/NN 65/CD ,/pct and/CC in/IN the/AT photos/NNS ./pct
+Here's /None how/WRB it/PPS can/MD be/BE built/VBN ./pct
+Frame/NN
+The/AT sizes/NNS of/IN pieces/NNS needed/VBN for/IN the/AT interlocking/VBG frame/NN are/BER shown/VBN in/IN the/AT notes/NNS within/IN Fig./NN 7/CD ,/pct most/AP of/IN the/AT bars/NNS being/BEG 1/8''/NN ''/pct brass/NN in/IN 1/4''/NN ''/pct and/CC 1/2''/NN ''/pct widths/NNS ./pct
+You/PPSS may/MD change/VB the/AT dimensions/NNS to/TO suit/VB a/AT frame/NN for/IN more/AP or/CC fewer/AP levers/NNS and/CC locks/NNS as/CS you/PPSS wish/VB ./pct
+Our/PPg instructions/NNS assume/VB you/PPSS are/BER building/VBG this/DT particular/JJ frame/NN ,/pct which/WDT is/BEZ for/IN a/AT junction/NN ./pct
+When/WRB cutting/VBG the/AT pieces/NNS ,/pct dress/VB the/AT ends/NNS smooth/JJ ,/pct and/CC square/VB with/IN a/AT smooth/JJ file/NN or/CC sanding/VBG disk/NN ./pct
+Start/VB with/IN the/AT right-hand/NN piece/NN ``/pct B/NN ''/pct ,/pct Af/NN ,/pct soldering/VBG it/PPO to/IN the/AT lower/JJR piece/NN ``/pct A/NN ''/pct of/IN the/AT same/AP material/NN but/CC 12''/NNS ''/pct long/JJ ./pct
+Let/VB exactly/RB 1''/NN ''/pct of/IN ``/pct A/NN ''/pct extend/VB beyond/IN ``/pct B/NN ''/pct and/CC use/VB a/AT square/NN to/TO check/VB your/PPg angle/NN to/IN exactly/RB 90/CD degrees/NNS ./pct
+Now/RB lay/VB 12/CD pieces/NNS of/IN Af/NN cut/VBN 5-3/4''/NNS ''/pct long/JJ side/NN by/IN side/NN but/CC separated/VBN by/IN 12/CD pieces/NNS of/IN the/AT same/AP material/NN 1/2''/NN ''/pct sq./JJ ./pct
+This/DT gives/VBZ you/PPO the/AT spacing/NN for/IN locating/VBG the/AT left-hand/NN piece/NN ``/pct B/NN ''/pct ./pct
+Compress/VB the/AT assembly/NN when/WRB you/PPSS make/VB the/AT mark/NN to/TO show/VB the/AT location/NN for/IN ``/pct B/NN ''/pct ./pct
+Solder/VB this/DT second/OD ``/pct B/NN ''/pct to/IN ``/pct A/NN ''/pct at/IN right/JJ angles/NNS ./pct
+There/EX should/MD be/BE 10''/NNS ''/pct between/IN the/AT two/CD parallel/JJ members/NNS and/CC each/DT should/MD be/BE 1''/NN ''/pct from/IN an/AT end/NN of/IN the/AT long/JJ piece/NN ./pct
+Cap/VB this/DT assembly/NN (/pct with/IN spacing/VBG bars/NNS in/IN place/NN )/pct with/IN a/AT Af/NN bar/NN ./pct
+Tack-solder/VB all/ABN the/AT 1/2''/NN ''/pct sq./JJ pieces/NNS to/IN the/AT 10''/NN ''/pct and/CC 12''/NN ''/pct members/NNS ./pct
+These/DTS will/MD be/BE drilled/VBN and/CC tapped/VBN later/RBR on/RP ./pct
+Now/RB cut/VB five/CD Af/NN locking/VBG bar/NN spacers/NNS (/pct which/WDT run/VB horizontally/RB )/pct ./pct
+Position/VB these/DTS using/VBG six/CD intermediate/JJ temporary/JJ Af/NN spacers/NNS and/CC locate/VB the/AT upper/JJ 12''/NN ''/pct bar/NN ``/pct A/NN ''/pct ./pct
+Solder/VB it/PPO and/CC the/AT five/CD locking/VBG bar/NN spacers/NNS to/IN the/AT frame/NN ./pct
+Now/RB place/VB 12/CD pieces/NNS 1/2''/NN ''/pct sq./JJ on/IN this/DT edge/NN as/CS we/PPSS did/DOD before/RB and/CC space/VB them/PPO with/IN the/AT 5-3/4''/NNS ''/pct long/JJ ``/pct tappets/NNS ''/pct ,/pct as/CS they/PPSS are/BER called/VBN ./pct
+Cap/VB with/IN a/AT Af/NN bar/NN and/CC tack-solder/VB in/IN place/NN ./pct
+Cap/VB the/AT locking/VBG bar/NN spacers/NNS with/IN two/CD Af/NN directly/RB under/IN the/AT first/OD two/CD ``/pct B/NN ''/pct pieces/NNS ./pct
+Remove/VB all/ABN the/AT loose/JJ spacing/VBG bars/NNS ./pct
+Mark/VB and/CC center-punch/VB all/ABN the/AT holes/NNS required/VBN for/IN screws/NNS to/TO hold/VB this/DT assembly/NN together/RB ./pct
+See/VB Fig./NN 7/CD ./pct
+Placement/NN of/IN these/DTS holes/NNS is/BEZ not/NEG critical/JJ ,/pct but/CC they/PPSS should/MD be/BE located/VBN so/CS that/CS the/AT centers/NNS are/BER about/RB 1/8''/NN ''/pct from/IN any/DTI edge/NN ./pct
+Drill/VB all/ABN No./NN 50/CD and/CC counter-drill/VB all/ABN except/IN the/AT ``/pct A/NN ''/pct pieces/NNS size/NN 43/CD ./pct
+Tap/VB the/AT ``/pct A/NN ''/pct pieces/NNS 2-56/CD ./pct
+Now/RB unsolder/VB and/CC disassemble/VB the/AT frame/NN except/IN for/IN the/AT two/CD 12''/NN ''/pct and/CC the/AT first/OD two/CD 3-3/4''/NNS ''/pct bars/NNS (/pct ``/pct A/NN ''/pct and/CC ``/pct B/NN ''/pct pieces/NNS )/pct ,/pct which/WDT are/BER soldered/VBN together/RB ./pct
+Either/CC lay/VB the/AT components/NNS aside/RB in/IN proper/JJ order/NN or/CC code/VB them/PPO with/IN numbers/NNS and/CC letters/NNS so/CS they/PPSS may/MD be/BE replaced/VBN in/IN their/PPg proper/JJ positions/NNS ./pct
+Dress/VB all/ABN surfaces/NNS with/IN a/AT file/NN ,/pct cleaning/VBG off/RP all/ABN solder/NN and/CC drilling/VBG burrs/NNS ./pct
+Drill/VB 20/CD No./NN 47/CD holes/NNS in/IN the/AT upper/JJ piece/NN ``/pct A/NN ''/pct as/CS shown/VBN in/IN Fig./NN 7/CD ./pct
+Tap/VB these/DTS 3-48/CD for/IN mounting/VBG the/AT electrical/JJ contact/NN later/RBR on/RP ./pct
+Note/VB ,/pct 6/CD and/CC 8/CD lock/NN levers/NNS don't /None require/VB holes/NNS for/IN contacts/NNS ./pct
+Now/RB reassemble/VB the/AT frame/NN ,/pct using/VBG Af/NN roundhead/NN steel/NN screws/NNS and/CC nuts/NNS ./pct
+Put/VB the/AT 12/CD tappets/NNS and/CC some/DTI Af/NN locking/VBG bar/NN spacers/NNS in/IN the/AT frame/NN to/TO help/VB align/VB all/ABN the/AT components/NNS before/CS you/PPSS tighten/VB the/AT screws/NNS ./pct
+Be/BE sure/JJ the/AT tappets/NNS are/BER not/NEG pinched/VBN by/IN a/AT twisted/VBN 1/2''/NN ''/pct sq./JJ spacer/NN ./pct
+As/CS an/AT anchor/NN for/IN the/AT spring/NN lock/NN ,/pct insert/VB a/AT Af/NN bar/NN in/IN the/AT lower/JJR left/JJ corner/NN of/IN the/AT frame/NN as/CS shown/VBN in/IN Fig./NN 7/CD ./pct
+Drill/VB a/AT No./NN 43/CD hole/NN through/IN the/AT pieces/NNS and/CC secure/VB with/IN a/AT 2-56/CD nut/NN and/CC screw/NN ./pct
+Drill/VB two/CD No./NN 50/CD holes/NNS ,/pct one/CD in/IN the/AT insert/NN and/CC one/CD in/IN the/AT locking/VBG bar/NN spacer/NN directly/RB above/IN it/PPO ,/pct and/CC tap/VB 2-56/CD ./pct
+Number/VB all/ABN the/AT tappet/NN bars/NNS before/CS removing/VBG them/PPO so/CS they/PPSS can/MD be/BE replaced/VBN in/IN the/AT same/AP slots/NNS ./pct
+Remove/VB all/ABN other/AP loose/JJ pieces/NNS and/CC file/VB the/AT edges/NNS of/IN the/AT basic/JJ frame/NN smooth/JJ ./pct
+Cut/VB five/CD pieces/NNS of/IN Af/NN brass/NN bar/NN stock/NN 3-3/4''/NNS ''/pct long/JJ ./pct
+These/DTS are/BER supporting/VBG members/NNS for/IN the/AT short/JJ locking/VBG bars/NNS ./pct
+Locate/VB their/PPg positions/NNS in/IN Fig./NN 7/CD and/CC drill/VB No./NN 43/CD to/TO match/VB the/AT corresponding/JJ holes/NNS in/IN the/AT frame/NN ./pct
+Cut/VB off/RP excess/JJ screw/NN lengths/NNS and/CC file/VB flush/JJ with/IN either/CC frame/NN or/CC nut/NN ./pct
+Drill/VB four/CD No./NN 19/CD and/CC four/CD No./NN 28/CD holes/NNS in/IN the/AT 12''/NNS ''/pct long/JJ ``/pct A/NN ''/pct pieces/NNS ./pct
+Locate/VB the/AT position/NN from/IN Fig./NN 7/CD ./pct
+Tappets/NNS and/CC locking/VBG bars/NNS
+Draw-file/VB No./NN 1/CD tappet/NN to/IN a/AT smooth/JJ fit/NN in/IN its/PPg respective/JJ slot/NN and/CC square/VB the/AT ends/NNS ./pct
+Break/VB the/AT end/NN corners/NNS with/IN a/AT slight/JJ 45/CD degree/NN chamfer/NN ./pct
+Drill/VB a/AT No./NN 50/CD hole/NN 1-1/4''/NN ''/pct from/IN one/CD end/NN and/CC tap/VB 2-56/CD ./pct
+(/pct See/VB Fig./NN 7/CD ./pct
+)/pct Put/VB a/AT 2-56/CD roundhead/NN screw/NN into/IN the/AT hole/NN ,/pct cut/VB off/RP the/AT excess/JJ threads/NNS and/CC file/VB flush/JJ with/IN the/AT underside/NN of/IN the/AT bar/NN ./pct
+To/TO find/VB the/AT other/AP stop/NN screw/NN position/NN ,/pct insert/VB the/AT tappet/NN into/IN the/AT frame/NN and/CC hold/VB the/AT screw/NN head/NN tight/RB against/IN the/AT frame/NN edge/NN ./pct
+Scribe/VB a/AT line/NN across/IN the/AT bar/NN on/IN the/AT other/AP end/NN of/IN the/AT tappet/NN ,/pct 1/4''/NN ''/pct plus/CC half/ABN the/AT diameter/NN of/IN the/AT 2-56/CD screw/NN head/NN (/pct about/RB 5/64''/NN ''/pct )/pct away/RB from/IN the/AT frame/NN edge/NN ./pct
+Total/NN distance/NN is/BEZ about/RB 21/64''/NNS ''/pct ./pct
+Tend/VB to/TO make/VB this/DT dimension/NN slightly/QL undersize/JJ so/CS you/PPSS can/MD file/VB the/AT screw/NN head/NN to/TO get/VB exactly/RB 1/4''/NN ''/pct tappet/NN movement/NN ./pct
+Drill/VB a/AT No./NN 50/CD hole/NN ,/pct tap/VB 2-56/CD and/CC insert/VB a/AT roundhead/NN 2-56/CD screw/NN as/CS you/PPSS did/DOD on/IN the/AT first/OD end/NN ./pct
+Drill/VB a/AT No./NN 47/CD hole/NN crosswise/RB through/IN the/AT tappet/NN at/IN the/AT position/NN shown/VBN in/IN Figs./NNS 7/CD and/CC 8/CD ./pct
+Repeat/VB these/DTS drill/VB and/CC tap/VB operations/NNS for/IN each/DT of/IN the/AT tappet/NN bars/NNS ./pct
+To/IN each/DT tappet/NN except/IN 6/CD and/CC 8/CD ,/pct solder/VB a/AT Af/NN piece/NN of/IN brass/NN and/CC file/VB to/IN the/AT tapered/VBN shape/NN shown/VBN in/IN Figs./NNS 6/CD and/CC 8/CD ./pct
+These/DTS will/MD serve/VB as/CS lifting/VBG pads/NNS for/IN the/AT electrical/JJ contacts/NNS ./pct
+Fitting/VBG the/AT locking/VBG bars/NNS and/CC making/VBG the/AT locking/VBG pieces/NNS is/BEZ a/AT rather/QL tedious/JJ job/NN since/CS stop/NN screws/NNS ,/pct tappets/NNS and/CC locking/VBG bars/NNS must/MD be/BE removed/VBN and/CC replaced/VBN many/AP times/NNS ./pct
+As/CS the/AT work/NN progresses/VBZ the/AT frame/NN and/CC moving/VBG parts/NNS become/VB a/AT sort/NN of/IN Chinese/JJ puzzle/NN where/WRB several/AP pieces/NNS must/MD be/BE removed/VBN before/CS the/AT part/NN you/PPSS are/BER working/VBG on/IN is/BEZ accessible/JJ ./pct
+A/AT little/AP extra/JJ work/NN here/RB will/MD pay/VB off/RP with/IN a/AT smooth/JJ ,/pct snug-fitting/JJ machine/NN when/WRB you/PPSS are/BER finished/VBN ./pct
+Each/DT completed/VBN locking/VBG bar/NN should/MD remain/VB in/IN place/NN as/CS the/AT work/NN progresses/VBZ to/TO insure/VB snug/JJ fitting/NN ./pct
+The/AT order/NN of/IN fitting/VBG is/BEZ not/NEG too/QL important/JJ ./pct
+However/RB ,/pct we/PPSS started/VBD with/IN the/AT first/OD row/NN of/IN bars/NNS and/CC worked/VBD our/PPg way/NN back/RB ./pct
+Since/CS the/AT same/AP method/NN of/IN shaping/VBG and/CC fitting/VBG the/AT dogs/NNS and/CC notches/NNS is/BEZ used/VBN throughout/RB ,/pct we/PPSS will/MD only/RB describe/VB the/AT construction/NN of/IN one/CD locking/VBG bar/NN ./pct
+Figs./NNS 7/CD and/CC 8/CD give/VB all/ABN pertinent/JJ dimensions/NNS ./pct
+All/ABN the/AT bars/NNS are/BER cut/VBN from/IN Af/NN brass/NN ./pct
+The/AT lengths/NNS of/IN each/DT piece/NN are/BER listed/VBN at/IN the/AT bottom/NN of/IN Fig./NN 7/CD ./pct
+Bar/NN ``/pct C/NN ''/pct is/BEZ 2-3/4''/NNS ''/pct long/JJ ./pct
+Draw-file/VB the/AT edges/NNS ,/pct square/VB up/RP the/AT ends/NNS and/CC put/VB a/AT slight/JJ chamfer/NN on/IN the/AT edges/NNS so/CS they/PPSS will/MD not/NEG snag/VB in/IN the/AT frame/NN ./pct
+Fig./NN 8/CD gives/VBZ the/AT dimensions/NNS for/IN locating/VBG the/AT dog-pin/NN holes/NNS ./pct
+Center-punch/VB and/CC drill/VB the/AT No./NN 31/CD hole/NN 7/16''/NN ''/pct from/IN one/CD end/NN of/IN the/AT bar/NN ./pct
+Chuck/VB a/AT length/NN of/IN 1/8''/NN ''/pct dia./NN drill/NN rod/NN into/IN a/AT drill/NN press/NN or/CC some/DTI similar/JJ turning/VBG device/NN and/CC while/CS it/PPS is/BEZ rotating/VBG file/VB the/AT end/NN square/JJ and/CC then/RB file/VB a/AT slight/JJ taper/NN 1/8''/NN ''/pct long/JJ ./pct
+Cut/VB the/AT piece/NN about/RB 9/32''/NN ''/pct or/CC 5/16''/NN ''/pct long/JJ and/CC drive/VB it/PPO into/IN the/AT No./NN 31/CD hole/NN drilled/VBN in/IN the/AT locking/VBG bar/NN ./pct
+File/VB the/AT bottom/NN edge/NN flush/JJ with/IN the/AT bar/NN and/CC the/AT top/NN 1/8''/NN ''/pct above/IN the/AT bar/NN ./pct
+This/DT dog/NN will/MD engage/VB a/AT notch/NN to/TO be/BE cut/VBN in/IN tappet/NN 3/CD ./pct
+Place/VB the/AT locking/VBG bar/NN in/IN proper/JJ position/NN and/CC insert/VB tappet/NN 3/CD ./pct
+Scribe/VB a/AT line/NN through/IN the/AT center/NN of/IN the/AT pin/NN and/CC across/IN the/AT face/NN of/IN tappet/NN 3/CD ,/pct parallel/JJ to/IN piece/NN ``/pct A/NN ''/pct ./pct
+See/VB the/AT drawings/NNS for/IN the/AT shape/NN of/IN the/AT notch/NN ./pct
+Scribe/VB V-shaped/NN lines/NNS on/IN the/AT bar/NN and/CC rough/VB out/RP with/IN either/CC a/AT hack/NN saw/NN or/CC a/AT cutting/VBG disk/NN in/IN a/AT hand/NN power/NN tool/NN ./pct
+We/PPSS used/VBD the/AT latter/AP equipped/VBN with/IN a/AT carborundum/NN disk/NN about/RB
+''/pct thick/JJ and/CC 1''/NN ''/pct dia./NN fitted/VBN on/IN a/AT 1/8''/NN ''/pct dia./NN mandrel/NN ./pct
+Such/JJ disks/NNS are/BER very/QL handy/JJ for/IN cutting/VBG and/CC shaping/VBG small/JJ parts/NNS ./pct
+File/VB to/IN a/AT smooth/JJ finish/NN ./pct
+A/AT Barrette/NP Swiss/JJ pattern/NN file/NN is/BEZ handy/JJ since/CS its/PPg triangular/JJ shape/NN with/IN only/AP one/CD cutting/VBG face/NN will/MD allow/VB you/PPO to/TO work/VB a/AT surface/NN without/IN marring/VBG an/AT adjoining/VBG one/CD ./pct
+Endeavor/VB to/TO get/VB the/AT notches/NNS as/QL much/QL alike/JJ as/CS possible/JJ ./pct
+The/AT notch/NN should/MD have/HV a/AT smooth/JJ finish/NN so/CS that/CS the/AT steel/NN dog/NN will/MD slide/VB easily/RB over/IN it/PPO ./pct
+Assemble/VB the/AT parts/NNS in/IN the/AT frame/NN and/CC test/VB the/AT sliding/VBG action/NN of/IN the/AT mating/VBG pieces/NNS ./pct
+All/ABN matching/VBG surfaces/NNS should/MD be/BE checked/VBN frequently/RB and/CC mated/VBN on/IN a/AT cut/VB and/CC fit/VB basis/NN ./pct
+Chuck/VB a/AT 2''/NN ''/pct or/CC 3''/NN ''/pct piece/NN of/IN 1/8''/NN ''/pct dia./NN drill/NN rod/NN in/IN a/AT drill/NN press/NN or/CC electric/JJ hand/NN tool/NN ./pct
+Fashion/VB a/AT sharp/JJ scribing/VBG point/NN about/RB 3/64''/NN ''/pct long/JJ on/IN one/CD end/NN ,/pct using/VBG Swiss/JJ pattern/NN files/NNS ./pct
+This/DT tool/NN can/MD also/RB be/BE made/VBN with/IN a/AT lathe/NN ./pct

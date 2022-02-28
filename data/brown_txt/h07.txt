@@ -1,0 +1,133 @@
+Special/JJ districts/NNS in/IN Rhode/NP island/NN ./pct
+It/PPS is/BEZ not/NEG within/IN the/AT scope/NN of/IN this/DT report/NN to/TO elaborate/VB in/IN any/DTI great/JJ detail/NN upon/IN special/JJ districts/NNS in/IN Rhode/NP Island/NN ./pct
+However/RB ,/pct a/AT word/NN should/MD be/BE mentioned/VBN in/IN regard/NN to/IN them/PPO as/CS independent/JJ units/NNS of/IN government/NN ./pct
+There/EX are/BER forty-seven/CD special/JJ district/NN governments/NNS in/IN Rhode/NP Island/NN (/pct excluding/IN two/CD regional/JJ school/NN districts/NNS ,/pct four/CD housing/VBG authorities/NNS ,/pct and/CC the/AT Kent/NP County/NN Water/NN Authority/NN )/pct ./pct
+These/DTS forty-seven/CD special/JJ purpose/NN governments/NNS have/HV the/AT authority/NN to/TO levy/VB taxes/NNS ,/pct to/TO borrow/VB money/NN ,/pct own/VB property/NN ,/pct sue/VB and/CC be/BE sued/VBN ,/pct and/CC in/IN general/JJ to/TO exercise/VB normal/JJ corporate/JJ powers/NNS ./pct
+Unlike/IN cities/NNS and/CC towns/NNS ,/pct however/RB ,/pct they/PPSS do/DO not/NEG have/HV to/TO submit/VB any/DTI financial/JJ statements/NNS to/IN the/AT state/NN Bureau/NN of/IN Audits/NNS ./pct
+It/PPS is/BEZ not/NEG an/AT exaggeration/NN to/TO say/VB that/CS the/AT state/NN government/NN has/HVZ little/AP or/CC no/AT fiscal/JJ control/NN over/IN these/DTS units/NNS of/IN government/NN ./pct
+In/IN addition/NN to/IN the/AT collection/NN of/IN service/NN charges/NNS ,/pct the/AT special/JJ districts/NNS levy/VB annual/JJ property/NN taxes/NNS of/IN approximately/RB $450,000/NNS ./pct
+Fiscal/JJ years/NNS in/IN other/AP states/NNS
+comparative/JJ data/NN ./pct
+A/AT review/NN of/IN practices/NNS in/IN other/AP states/NNS regarding/IN fiscal/JJ uniformity/NN is/BEZ pertinent/JJ to/IN this/DT report/NN ./pct
+Included/VBN in/IN the/AT findings/NNS are/BER :/pct 1/CD ./pct
+Forty-six/CD states/NNS ,/pct including/IN Rhode/NP Island/NN ,/pct end/VB their/PPg fiscal/JJ year/NN on/IN June/NP 30/CD ./pct
+The/AT other/AP four/CD states/NNS end/VB on/IN varying/VBG dates/NNS :/pct Alabama/NP (/pct Sept./NP 30/CD )/pct ,/pct New/JJ York/NP (/pct March/NP 31/CD )/pct ,/pct Pennsylvania/NP (/pct May/NP 31/CD )/pct ,/pct and/CC Texas/NP (/pct August/NP 31/CD )/pct ./pct
+2/CD ./pct
+In/IN sixteen/CD states/NNS ,/pct the/AT fiscal/JJ year/NN ending/VBG of/IN the/AT cities/NNS (/pct June/NP 30/CD )/pct is/BEZ the/AT same/AP as/CS that/DT of/IN the/AT state/NN :/pct Alaska/NP ,/pct Arizona/NP ,/pct California/NP ,/pct Delaware/NP ,/pct Massachusetts/NP ,/pct Montana/NP ,/pct Nevada/NP ,/pct New/JJ Mexico/NP ,/pct North/JJ Carolina/NP ,/pct North/JJ Dakota/NP ,/pct Oklahoma/NP ,/pct Oregon/NP ,/pct Vermont/NP ,/pct West/JJ Virginia/NP ,/pct Wyoming/NP ,/pct and/CC Hawaii/NP )/pct ./pct
+3/CD ./pct
+In/IN eleven/CD states/NNS ,/pct the/AT fiscal/JJ year/NN of/IN the/AT cities/NNS ends/VBZ on/IN December/NP 31/CD ,/pct while/CS the/AT state/NN fiscal/JJ year/NN ends/VBZ on/IN June/NP 30/CD (/pct Arkansas/NP ,/pct Colorado/NP ,/pct Indiana/NP ,/pct Kansas/NP ,/pct New/JJ Hampshire/NP ,/pct New/JJ Jersey/NP ,/pct Ohio/NP ,/pct South/JJ Dakota/NP ,/pct Utah/NP ,/pct Washington/NP ,/pct and/CC Wisconsin/NP )/pct ./pct
+4/CD ./pct
+In/IN eight/CD states/NNS whose/WPg fiscal/JJ years/NNS close/VB on/IN June/NP 30/CD ,/pct a/AT majority/NN of/IN their/PPg cities/NNS close/VB their/PPg fiscal/JJ year/NN on/IN December/NP 31/CD :/pct :/pct
+(/pct Georgia/NP ,/pct Iowa/NP ,/pct Kentucky/NP ,/pct Maine/NP ,/pct Maryland/NP ,/pct Minnesota/NP ,/pct Virginia/NP ,/pct and/CC South/JJ Carolina/NP )/pct ./pct
+5/CD ./pct
+One/CD state/NN ,/pct Alabama/NP ,/pct closes/VBZ its/PPg fiscal/JJ year/NN on/IN September/NP 30/CD ,/pct and/CC all/ABN cities/NNS in/IN the/AT state/NN ,/pct with/IN one/CD exception/NN ,/pct also/RB close/VB fiscal/JJ years/NNS on/IN September/NP 30/CD ./pct
+6/CD ./pct
+Mississippi/NP closes/VBZ its/PPg fiscal/JJ year/NN on/IN June/NP 30/CD ,/pct while/CS all/ABN of/IN its/PPg cities/NNS close/VB their/PPg fiscal/JJ years/NNS on/IN September/NP 30/CD ./pct
+7/CD ./pct
+Pennsylvania/NP closes/VBZ its/PPg fiscal/JJ year/NN on/IN May/NP 31/CD ./pct
+All/ABN of/IN its/PPg cities/NNS close/VB their/PPg fiscal/JJ years/NNS on/IN December/NP 31/CD ./pct
+The/AT remaining/VBG twelve/CD states/NNS have/HV varying/VBG fiscal/JJ years/NNS for/IN the/AT state/NN ,/pct city/NN and/CC local/JJ governments/NNS ./pct
+However/RB ,/pct only/AP Illinois/NP ,/pct Oregon/NP ,/pct Louisiana/NP and/CC Rhode/NP Island/NN have/HV a/AT situation/NN in/IN which/WDT the/AT sundry/JJ units/NNS of/IN government/NN vary/VB widely/RB in/IN relation/NN to/IN fiscal/JJ uniformity/NN ./pct
+Fiscal/JJ uniformity/NN :/pct advantages/NNS and/CC disadvantages/NNS
+advantages/NNS ./pct
+An/AT excellent/JJ summary/NN of/IN advantages/NNS concerning/IN the/AT uniform/JJ fiscal/JJ year/NN and/CC coordinated/VBN fiscal/JJ calendars/NNS was/BEDZ contained/VBN in/IN a/AT paper/NN presented/VBN by/IN a/AT public/JJ finance/NN authority/NN recently/RB ./pct
+He/PPS listed/VBD among/IN the/AT values/NNS of/IN fiscal/JJ uniformity/NN :/pct 1/CD ./pct
+The/AT uniform/JJ fiscal/JJ year/NN requires/VBZ compliance/NN with/IN common/JJ sense/NN administration/NN of/IN local/JJ finances/NNS :/pct adoption/NN of/IN the/AT budget/NN ,/pct or/CC financial/JJ plan/NN ,/pct in/IN advance/NN of/IN spending/VBG ./pct
+2/CD ./pct
+The/AT uniform/JJ fiscal/JJ year/NN ensures/VBZ conformance/NN with/IN another/DT common/JJ sense/NN rule/NN ,/pct that/DT of/IN having/HVG cash/NN in/IN the/AT bank/NN before/CS checks/NNS are/BER drawn/VBN ./pct
+It/PPS enables/VBZ towns/NNS to/TO make/VB more/QL economical/JJ purchases/NNS and/CC to/TO take/VB advantage/NN of/IN cash/NN discounts/NNS ./pct
+3/CD ./pct
+The/AT uniform/JJ fiscal/JJ year/NN promotes/VBZ more/QL careful/JJ budgeting/NN and/CC strengthens/VBZ control/NN over/IN expenditures/NNS ./pct
+By/IN fixing/VBG the/AT tax/NN rate/NN in/IN advance/NN of/IN spending/VBG ,/pct upper/JJ limits/NNS are/BER set/VBN on/IN expenditures/NNS ./pct
+4/CD ./pct
+The/AT uniform/JJ fiscal/JJ year/NN brings/VBZ the/AT town's/NNg fiscal/JJ year/NN into/IN line/NN with/IN that/DT of/IN the/AT schools/NNS ,/pct which/WDT expend/VB the/AT largest/JJT share/NN of/IN local/JJ disbursements/NNS ./pct
+This/DT greatly/RB simplifies/VBZ the/AT town's/NNg bookkeeping/NN and/CC financial/JJ reporting/NN ./pct
+5/CD ./pct
+The/AT uniform/JJ fiscal/JJ year/NN eliminates/VBZ interest/NN charges/NNS on/IN money/NN borrowed/VBN in/IN the/AT form/NN of/IN tax/NN anticipation/NN notes/NNS ./pct
+Furthermore/RB ,/pct tax/NN collections/NNS not/NEG immediately/RB needed/VBN for/IN current/JJ expenditures/NNS may/MD be/BE invested/VBN in/IN short-term/NN treasury/NN notes/NNS ,/pct augmenting/VBG the/AT town's/NNg miscellaneous/JJ revenues/NNS and/CC reducing/VBG the/AT tax/NN levy/NN ./pct
+6/CD ./pct
+The/AT uniform/JJ fiscal/JJ year/NN facilitates/VBZ inter-town/JJ comparison/NN of/IN revenues/NNS and/CC expenditures/NNS ./pct
+When/WRB towns/NNS have/HV the/AT same/AP fiscal/JJ year/NN it/PPS is/BEZ relatively/QL easy/JJ to/TO make/VB meaningful/JJ comparisons/NNS ;/pct ;/pct
+and/CC as/CS the/AT cost/NN of/IN local/JJ government/NN increases/VBZ ,/pct the/AT demand/NN for/IN such/JJ comparison/NN also/RB increases/VBZ ./pct
+Towns/NNS having/HVG different/JJ fiscal/JJ years/NNS are/BER difficult/JJ to/TO compare/VB ./pct
+Of/IN all/ABN advantages/NNS ,/pct probably/RB none/PN is/BEZ more/QL important/JJ than/CS the/AT elimination/NN of/IN tax/NN anticipation/NN notes/NNS ./pct
+Borrowing/VBG in/IN anticipation/NN of/IN current/JJ taxes/NNS and/CC other/AP revenues/NNS is/BEZ a/AT routine/JJ procedure/NN of/IN the/AT majority/NN of/IN municipalities/NNS at/IN all/ABN times/NNS ./pct
+It/PPS may/MD be/BE by/IN bank/NN loans/NNS ,/pct sale/NN of/IN notes/NNS or/CC warrants/NNS ,/pct or/CC by/IN the/AT somewhat/QL casual/JJ method/NN of/IN issuance/NN and/CC registration/NN of/IN warrants/NNS ./pct
+In/IN any/DTI event/NN it/PPS is/BEZ a/AT form/NN of/IN borrowing/VBG which/WDT could/MD be/BE and/CC should/MD be/BE rendered/VBN unnecessary/JJ ./pct
+Its/PPg elimination/NN would/MD result/VB in/IN the/AT saving/NN of/IN interest/NN costs/NNS ,/pct heavy/JJ when/WRB short-term/NN money/NN rates/NNS are/BER high/JJ ,/pct and/CC in/IN freedom/NN from/IN dependence/NN on/IN credit/NN which/WDT is/BEZ not/NEG always/RB available/JJ when/WRB needed/VBN most/RBT ./pct
+This/DT type/NN of/IN borrowing/VBG can/MD be/BE reduced/VBN to/IN a/AT minimum/JJ if/CS quarterly/JJ installment/NN payment/NN of/IN taxes/NNS is/BEZ instituted/VBN and/CC the/AT first/OD payment/NN placed/VBN near/IN the/AT opening/NN of/IN the/AT fiscal/JJ year/NN ./pct
+Any/DTI approach/NN toward/IN such/ABL a/AT system/NN looks/VBZ toward/IN saving/VBG and/CC security/NN ./pct
+It/PPS should/MD be/BE noted/VBN that/CS there/EX are/BER other/AP and/CC equally/QL important/JJ reasons/NNS for/IN establishing/VBG meaningful/JJ intergovernmental/JJ reporting/VBG bases/NNS on/IN a/AT uniform/JJ fiscal/JJ year/NN ./pct
+Both/ABX the/AT federal/JJ and/CC state/NN governments/NNS commence/VB their/PPg fiscal/JJ years/NNS on/IN July/NP 1/CD ./pct
+Both/ABX units/NNS of/IN government/NN contribute/VB increasingly/RB large/JJ sums/NNS of/IN money/NN to/IN the/AT several/AP local/JJ governments/NNS in/IN this/DT state/NN as/CS indicated/VBN below/RB :/pct
+It/PPS has/HVZ been/BEN said/VBN that/CS when/WRB local/JJ government/NN revenues/NNS were/BED mostly/RB produced/VBN locally/RB from/IN the/AT property/NN tax/NN ,/pct the/AT lack/NN of/IN a/AT uniform/JJ fiscal/JJ year/NN was/BEDZ no/AT great/JJ handicap/NN ;/pct ;/pct
+but/CC with/IN the/AT growth/NN of/IN state/NN and/CC federal/JJ fiscal/JJ aid/NN ,/pct the/AT emphasis/NN on/IN equalization/NN ,/pct and/CC the/AT state-local/JJ sharing/NN of/IN responsibility/NN for/IN certain/JJ important/JJ functions/NNS ,/pct this/DT is/BEZ no/QL longer/RBR true/JJ ./pct
+The/AT haphazard/JJ fiscal/JJ year/NN calendar/NN is/BEZ an/AT obstacle/NN to/IN the/AT planning/NN of/IN clear/JJ and/CC efficient/JJ state-local/JJ revenue/NN and/CC expenditure/NN relationships/NNS ./pct
+Disadvantages/NNS ./pct
+Although/CS there/EX are/BER many/AP sound/JJ reasons/NNS for/IN adopting/VBG uniform/JJ and/CC coordinated/VBN fiscal/JJ years/NNS in/IN Rhode/NP Island/NN ,/pct there/EX are/BER also/RB certain/JJ difficulties/NNS encountered/VBN ./pct
+These/DTS involve/VB more/RBR the/AT mechanics/NNS employed/VBN in/IN adjusting/VBG to/IN fiscal/JJ uniformity/NN than/CS they/PPSS do/DO actual/JJ disadvantages/NNS to/IN the/AT principle/NN ./pct
+One/CD problem/NN is/BEZ a/AT matter/NN of/IN shifting/VBG dates/NNS ;/pct ;/pct
+the/AT other/AP ,/pct is/BEZ how/WRB to/TO finance/VB the/AT transition/NN ./pct
+Little/AP can/MD be/BE done/VBN about/IN the/AT changing/NN of/IN dates/NNS ./pct
+This/DT is/BEZ an/AT inherent/JJ part/NN of/IN adjusting/VBG fiscal/JJ calendars/NNS ./pct
+It/PPS usually/RB means/VBZ a/AT confused/VBN and/CC disgruntled/VBN tax-paying/JJ public/NN for/IN a/AT period/NN of/IN time/NN ./pct
+But/CC cooperation/NN and/CC understanding/VBG between/IN local/JJ officials/NNS and/CC the/AT citizenry/NN help/VB lessen/VB this/DT problem/NN ./pct
+The/AT other/AP problem/NN is/BEZ the/AT matter/NN of/IN financing/VBG the/AT transition/NN period/NN in/IN the/AT several/AP cities/NNS and/CC towns/NNS ./pct
+This/DT will/MD be/BE covered/VBN more/QL fully/RB later/RBR ./pct
+It/PPS should/MD be/BE kept/VBN in/IN mind/NN that/CS the/AT ease/NN or/CC difficulty/NN with/IN which/WDT a/AT town/NN or/CC city/NN can/MD convert/VB to/IN the/AT proposed/VBN plan/NN is/BEZ directly/QL dependent/JJ upon/IN the/AT financial/JJ condition/NN of/IN that/DT town/NN or/CC city/NN ./pct
+Fortunately/RB ,/pct there/EX are/BER no/AT cities/NNS or/CC towns/NNS in/IN the/AT state/NN ,/pct with/IN one/CD or/CC two/CD possible/JJ exceptions/NNS that/WPS are/BER in/IN too/QL difficult/JJ a/AT position/NN to/TO finance/VB the/AT proposed/VBN change/NN ./pct
+Sacrifice/NN will/MD have/HV to/TO be/BE made/VBN in/IN some/DTI cases/NNS ,/pct but/CC it/PPS is/BEZ to/IN the/AT municipality's/NNg advantage/NN to/TO finance/VB the/AT change-over/NN for/IN a/AT short/JJ period/NN of/IN time/NN rather/RB than/CS pay/VB interest/NN on/IN tax/NN anticipation/NN notes/NNS indefinitely/RB ./pct
+Adjusting/VBG the/AT fiscal/JJ calendars/NNS
+The/AT advantages/NNS of/IN a/AT uniform/JJ fiscal/JJ year/NN and/CC well/RB synchronized/VBN fiscal/JJ and/CC tax/NN collection/NN calendars/NNS are/BER sufficiently/QL great/JJ for/IN Rhode/NP Island/NN municipalities/NNS to/TO exert/VB effort/NN to/TO secure/VB them/PPO ./pct
+The/AT type/NN of/IN program/NN desired/VBN can/MD be/BE determined/VBN by/IN the/AT nature/NN and/CC extent/NN of/IN the/AT adjustments/NNS needed/VBN ./pct
+Two/CD features/NNS are/BER immediately/RB evident/JJ ./pct
+First/OD ,/pct the/AT present/JJ situation/NN is/BEZ too/QL varied/VBN to/TO be/BE systematized/VBN by/IN any/DTI single/AP formula/NN ./pct
+Second/OD ,/pct the/AT shift/NN to/IN a/AT uniform/JJ July/NP 1/CD to/IN June/NP 30/CD fiscal/JJ year/NN will/MD ,/pct of/IN itself/PPL ,/pct improve/VB the/AT tax/NN collection/NN calendars/NNS of/IN the/AT great/JJ majority/NN of/IN cities/NNS and/CC towns/NNS ./pct
+There/EX are/BER at/IN least/AP two/CD problems/NNS to/TO consider/VB :/pct one/CD is/BEZ a/AT matter/NN of/IN adjusting/VBG the/AT fiscal/JJ calendar/NN ;/pct ;/pct
+the/AT other/AP is/BEZ how/WRB to/TO finance/VB the/AT adjustments/NNS when/WRB necessary/JJ ./pct
+The/AT latter/AP matter/NN is/BEZ considered/VBN in/IN detail/NN in/IN a/AT later/JJR section/NN ./pct
+Twelve/CD cities/NNS and/CC towns/NNS in/IN Rhode/NP Island/NN presently/RB indicate/VB some/DTI plans/NNS to/TO establish/VB a/AT uniform/JJ and/or/CC coordinated/VBN fiscal/JJ tax/NN year/NN calendar/NN ./pct
+Plans/NNS vary/VB from/IN the/AT ``/pct talking/VBG stage/NN ''/pct to/IN establishing/VBG special/JJ committees/NNS to/TO accomplish/VB this/DT end/NN ./pct
+What/WDT is/BEZ important/JJ here/RB is/BEZ that/CS many/AP of/IN the/AT cities/NNS and/CC towns/NNS recognize/VB the/AT need/NN for/IN improved/VBN fiscal/JJ practices/NNS and/CC are/BER taking/VBG the/AT initiative/NN to/TO obtain/VB them/PPO ./pct
+An/AT analysis/NN of/IN the/AT fiscal/JJ tax/NN collection/NN year/NN calendars/NNS throughout/IN the/AT state/NN indicates/VBZ that/CS transition/NN may/MD not/NEG be/BE as/QL painful/JJ as/CS is/BEZ commonly/RB thought/VBN ./pct
+However/RB ,/pct it/PPS must/MD be/BE stressed/VBN that/CS much/AP depends/VBZ upon/IN the/AT financial/JJ condition/NN of/IN the/AT individual/JJ cities/NNS and/CC towns/NNS involved/VBN ./pct
+The/AT adjustments/NNS needed/VBN to/TO establish/VB a/AT uniform/JJ and/CC coordinated/VBN fiscal/JJ tax/NN collection/NN year/NN calendar/NN throughout/IN Rhode/NP Island/NN ,/pct based/VBN on/IN a/AT July/NP 1/CD to/IN June/NP 30/CD year/NN ,/pct are/BER shown/VBN below/RB ./pct
+No/AT adjustment/NN needed/VBN ./pct
+Six/CD cities/NNS and/CC towns/NNS are/BER presently/RB on/IN a/AT July/NP 1/CD to/IN June/NP 30/CD fiscal/JJ year/NN and/CC have/HV coordinated/VBN their/PPg tax/NN collection/NN year/NN with/IN it/PPO ./pct
+No/AT change/NN is/BEZ required/VBN for/IN these/DTS towns/NNS ./pct
+These/DTS municipalities/NNS include/VB :/pct Barrington/NP ,/pct Lincoln/NP ,/pct Middletown/NP ,/pct Newport/NP ,/pct North/JJ Kingstown/NP ,/pct and/CC South/JJ Kingstown/NP ./pct
+Adjustment/NN of/IN fiscal/JJ year/NN ./pct
+One/CD town/NN and/CC one/CD city/NN ,/pct Coventry/NP and/CC East/JJ Providence/NP ,/pct require/VB an/AT adjustment/NN of/IN their/PPg fiscal/JJ year/NN only/RB ./pct
+This/DT change/NN will/MD automatically/RB adjust/VB their/PPg tax/NN collection/NN year/NN calendar/NN so/CS as/CS to/TO make/VB all/ABN tax/NN installments/NNS due/JJ and/CC payable/JJ in/IN the/AT fiscal/JJ year/NN collectible/JJ within/IN that/DT year/NN ./pct
+Adjustment/NN of/IN tax/NN collection/NN year/NN ./pct
+Six/CD cities/NNS and/CC towns/NNS are/BER now/RB on/IN a/AT July/NP 1/CD to/IN June/NP 30/CD fiscal/JJ year/NN and/CC will/MD need/VB only/RB to/TO adjust/VB their/PPg tax/NN collection/NN year/NN calendar/NN to/TO establish/VB uniformity/NN ./pct
+These/DTS cities/NNS and/CC towns/NNS include/VB Bristol/NP ,/pct Glocester/NP ,/pct Pawtucket/NP ,/pct Cumberland/NP ,/pct Central/JJ Falls/NNS ,/pct and/CC Woonsocket/NP ./pct
+Simultaneous/JJ adjustments/NNS ./pct
+Two/CD cities/NNS to/TO be/BE considered/VBN ,/pct Providence/NP and/CC Cranston/NP ,/pct are/BER an/AT enigma/NN ./pct
+Both/ABX have/HV excellent/JJ integration/NN of/IN their/PPg fiscal/JJ tax/NN collection/NN year/NN calendars/NNS ./pct
+However/RB ,/pct neither/DTX of/IN these/DTS two/CD cities/NNS is/BEZ on/IN the/AT desired/VBN July/NP 1/CD to/IN June/NP 30/CD fiscal/JJ year/NN ./pct
+The/AT adjustment/NN to/IN a/AT uniform/JJ and/CC coordinated/VBN fiscal/JJ period/NN could/MD be/BE accomplished/VBN relatively/QL easily/RB for/IN them/PPO ./pct
+In/IN that/CS both/ABX cities/NNS end/VB their/PPg fiscal/JJ years/NNS on/IN September/NP 30/CD ,/pct they/PPSS could/MD levy/VB taxes/NNS for/IN an/AT interim/JJ period/NN of/IN nine/CD months/NNS ,/pct commencing/VBG with/IN September/NP 30/CD and/CC ending/VBG with/IN June/NP 30/CD ./pct
+These/DTS three/CD installment/NN dates/NNS would/MD be/BE :/pct October/NP 26/CD ,/pct January/NP 26/CD ,/pct and/CC April/NP 25/CD (/pct Providence/NP )/pct and/CC November/NP 15/CD ,/pct February/NP 16/CD and/CC May/NP 15/CD (/pct Cranston/NP )/pct ./pct
+Both/ABX would/MD start/VB their/PPg new/JJ fiscal/JJ year/NN on/IN July/NP 1/CD ./pct
+Their/PPg tax/NN collection/NN calendar/NN could/MD then/RB be/BE :/pct July/NP 25/CD ,/pct October/NP 26/CD ,/pct January/NP 26/CD ,/pct and/CC April/NP 25/CD ,/pct (/pct Providence/NP )/pct ;/pct ;/pct
+and/CC August/NP 15/CD ,/pct November/NP 15/CD ,/pct February/NP 17/CD ,/pct and/CC May/NP 15/CD ,/pct (/pct Cranston/NP )/pct ./pct
+Under/IN this/DT plan/NN both/ABX Cranston/NP and/CC Providence/NP would/MD be/BE on/IN the/AT uniform/JJ fiscal/JJ year/NN but/CC would/MD still/RB be/BE using/VBG the/AT same/AP installment/NN periods/NNS ./pct
+Varying/VBG adjustments/NNS ./pct
+The/AT remaining/VBG twenty-three/CD towns/NNS have/HV fiscal/JJ years/NNS which/WDT end/VB prior/RB to/IN June/NP 30/CD ./pct
+All/ABN of/IN these/DTS towns/NNS will/MD require/VB adjustments/NNS of/IN both/ABX their/PPg fiscal/JJ and/CC tax/NN collection/NN years/NNS ./pct
+Assuming/VBG an/AT adjustment/NN to/IN the/AT July/NP 1/CD to/IN June/NP 30/CD fiscal/JJ year/NN ,/pct the/AT required/VBN adjustment/NN of/IN the/AT tax/NN collection/NN years/NNS and/CC the/AT towns/NNS involved/VBN are/BER shown/VBN in/IN Table/NN 3/CD ./pct
+Methods/NNS of/IN financing/VBG adjustments/NNS
+Aside/RB from/IN the/AT matter/NN of/IN adjusting/VBG the/AT fiscal/JJ and/CC tax/NN calendars/NNS ,/pct there/EX is/BEZ the/AT problem/NN of/IN financing/VBG the/AT adjustment/NN when/WRB this/DT is/BEZ necessary/JJ ./pct
+It/PPS should/MD be/BE emphasized/VBN strongly/RB that/CS adjustments/NNS in/IN fiscal/JJ dates/NNS or/CC adoption/NN of/IN interim/JJ budgets/NNS do/DO not/NEG necessarily/RB mean/VB financing/VBG over/IN and/CC above/IN normal/JJ governmental/JJ requirements/NNS ./pct
+In/IN many/AP communities/NNS there/EX is/BEZ simply/RB no/AT financial/JJ problem/NN ;/pct ;/pct
+it/PPS is/BEZ only/RB a/AT matter/NN of/IN adjusting/VBG accounting/VBG methods/NNS ,/pct careful/JJ fiscal/JJ planning/NN and/CC management/NN ,/pct or/CC some/DTI like/JJ combination/NN of/IN techniques/NNS ./pct
+In/IN other/AP municipalities/NNS the/AT difficulties/NNS in/IN overcoming/VBG the/AT financial/JJ burden/NN have/HV been/BEN sufficiently/QL great/JJ to/TO dishearten/VB proponents/NNS of/IN fiscal/JJ year/NN changes/NNS ./pct
+Fortunately/RB ,/pct such/JJ cases/NNS in/IN Rhode/NP Island/NN are/BER more/AP the/AT exception/NN than/CS the/AT rule/NN ./pct
+As/QL shown/VBN earlier/RBR in/IN Table/NN 1/CD ,/pct the/AT several/AP cities/NNS and/CC towns/NNS use/VB widely/RB varied/VBN fiscal/JJ and/CC tax/NN collection/NN calendars/NNS ./pct
+In/IN addition/NN ,/pct no/AT two/CD Rhode/NP Island/NN communities/NNS are/BER identical/JJ in/IN relation/NN to/IN their/PPg over-all/JJ financial/JJ condition/NN ./pct
+These/DTS factors/NNS practically/RB insure/VB that/CS no/AT single/AP financing/VBG formula/NN is/BEZ feasible/JJ ;/pct ;/pct
+each/DT situation/NN must/MD be/BE studied/VBN and/CC a/AT plan/NN developed/VBN that/WPS takes/VBZ into/IN consideration/NN such/JJ factors/NNS as/CS the/AT effect/NN of/IN the/AT existing/VBG and/CC prospective/JJ tax/NN calendars/NNS ,/pct the/AT financial/JJ condition/NN of/IN the/AT treasuries/NNS ,/pct and/CC the/AT length/NN of/IN the/AT transition/NN interval/NN ./pct
+Suitable/JJ plans/NNS range/VB from/IN those/DTS that/WPS are/BER very/QL easy/JJ to/TO develop/VB to/IN those/DTS that/WPS are/BER difficult/JJ to/TO formulate/VB and/CC require/VB borrowing/VBG ranging/VBG from/IN short-term/NN serial/JJ notes/NNS to/IN long-term/NN bonds/NNS ./pct
+The/AT financial/JJ problem/NN ,/pct where/WRB it/PPS exists/VBZ ,/pct usually/RB stems/VBZ from/IN the/AT adoption/NN of/IN a/AT budget/NN for/IN the/AT transitional/JJ or/CC adjustment/NN period/NN ./pct
+For/IN those/DTS communities/NNS which/WDT have/HV financial/JJ difficulties/NNS in/IN effecting/VBG adjustments/NNS ,/pct there/EX are/BER a/AT number/NN of/IN alternatives/NNS any/DTI one/CD of/IN which/WDT alone/RB ,/pct or/CC in/IN combination/NN with/IN others/NNS ,/pct would/MD minimize/VB if/CS not/NEG even/RB eliminate/VB the/AT problem/NN ./pct

@@ -1,0 +1,108 @@
+Because/CS individual/JJ classes/NNS of/IN foods/NNS differ/VB in/IN their/PPg requirements/NNS for/IN preservation/NN ,/pct a/AT number/NN of/IN methods/NNS have/HV been/BEN developed/VBN over/IN the/AT years/NNS involving/VBG one/CD or/CC a/AT combination/NN of/IN procedures/NNS such/JJ as/CS dehydration/NN ,/pct fermentation/NN ,/pct salting/VBG ,/pct chemical/NN treatment/NN ,/pct canning/VBG ,/pct refrigeration/NN ,/pct and/CC freezing/VBG ./pct
+The/AT basic/JJ objectives/NNS in/IN each/DT instance/NN are/BER to/TO make/VB available/JJ supplies/NNS of/IN food/NN during/IN the/AT intervals/NNS between/IN harvesting/VBG or/CC slaughter/NN ,/pct to/TO minimize/VB losses/NNS resulting/VBG from/IN the/AT action/NN of/IN microorganisms/NNS and/CC insects/NNS ,/pct and/CC to/TO make/VB it/PPO possible/JJ to/TO transport/VB foods/NNS from/IN the/AT area/NN of/IN harvest/NN or/CC production/NN to/IN areas/NNS of/IN consumption/NN ./pct
+In/IN earlier/JJR years/NNS ,/pct the/AT preservation/NN of/IN food/NN was/BEDZ essentially/RB related/VBN to/IN survival/NN ./pct
+In/IN the/AT more/QL sophisticated/JJ atmosphere/NN of/IN today's/NRg developed/VBN nations/NNS ,/pct food-preservation/NN techniques/NNS have/HV sought/VBN also/RB to/TO bring/VB variety/NN ,/pct peak/NN freshness/NN ,/pct and/CC optimum/JJ taste/NN and/CC flavor/NN in/IN foods/NNS at/IN reasonable/JJ cost/NN to/IN the/AT consumer/NN ./pct
+With/IN the/AT development/NN of/IN nuclear/JJ technology/NN ,/pct isotopic/JJ materials/NNS ,/pct and/CC machine/NN radiation/NN sources/NNS in/IN recent/JJ years/NNS ,/pct the/AT possibilities/NNS of/IN applying/VBG ionizing/VBG radiation/NN to/IN the/AT preservation/NN of/IN foods/NNS attracted/VBD the/AT attention/NN of/IN investigators/NNS in/IN the/AT United/VBN States/NNS and/CC throughout/IN the/AT world/NN ./pct
+An/AT early/JJ hope/NN that/CS irradiation/NN might/MD be/BE the/AT ultimate/JJ answer/NN to/IN practically/RB all/ABN food/NN preservation/NN problems/NNS was/BEDZ soon/RB dispelled/VBN ./pct
+Interest/NN remained/VBD ,/pct however/RB ,/pct in/IN the/AT possibility/NN that/CS it/PPS would/MD serve/VB as/CS a/AT useful/JJ supplementary/JJ method/NN for/IN counteracting/VBG spoilage/NN losses/NNS and/CC for/IN preserving/VBG some/DTI foods/NNS at/IN lower/JJR over-all/JJ costs/NNS than/CS freezing/VBG ,/pct or/CC without/IN employing/VBG heat/NN or/CC chemicals/NNS with/IN their/PPg attendant/JJ taste/NN alterations/NNS ./pct
+Factors/NNS responsible/JJ for/IN the/AT spoilage/NN of/IN foods/NNS
+The/AT chief/JJS factors/NNS responsible/JJ for/IN the/AT spoilage/NN of/IN fresh/JJ foodstuffs/NNS are/BER (/pct 1/CD )/pct microorganisms/NNS such/JJ as/CS bacteria/NNS ,/pct molds/NNS ,/pct and/CC yeasts/NNS ,/pct (/pct 2/CD )/pct enzymes/NNS ,/pct (/pct 3/CD )/pct insects/NNS ,/pct (/pct 4/CD )/pct sprouting/VBG ,/pct and/CC (/pct 5/CD )/pct chemical/NN reactions/NNS ./pct
+Microorganisms/NNS are/BER often/RB responsible/JJ for/IN the/AT rapid/JJ spoilage/NN of/IN foods/NNS ./pct
+Of/IN special/JJ concern/NN is/BEZ the/AT growth/NN of/IN bacteria/NNS such/JJ as/CS Clostridium/NP botulinum/NP which/WDT generate/VB poisonous/JJ products/NNS ./pct
+Enzymatic/JJ action/NN in/IN stored/VBN food/NN produces/VBZ changes/NNS which/WDT can/MD adversely/RB affect/VB the/AT appearance/NN of/IN food/NN or/CC its/PPg palatability/NN ./pct
+Spoilage/NN by/IN chemical/NN action/NN results/VBZ from/IN the/AT reaction/NN of/IN one/CD group/NN of/IN components/NNS in/IN the/AT food/NN with/IN others/NNS or/CC with/IN its/PPg environment/NN ,/pct as/CS in/IN corrosion/NN of/IN the/AT walls/NNS of/IN metal/NN containers/NNS or/CC the/AT reaction/NN of/IN fats/NNS with/IN oxygen/NN in/IN the/AT air/NN to/TO produce/VB rancidity/NN ./pct
+Sprouting/VBG is/BEZ a/AT naturally/RB occurring/VBG phenomenon/NN in/IN stored/VBN potatoes/NNS ,/pct onions/NNS ,/pct carrots/NNS ,/pct beets/NNS ,/pct and/CC similar/JJ root/NN vegetables/NNS ./pct
+Insect/NN infestation/NN is/BEZ a/AT problem/NN of/IN importance/NN chiefly/RB in/IN stored/VBN grain/NN ./pct
+The/AT presence/NN of/IN parasitic/JJ organisms/NNS such/JJ as/CS Trichinella/NP spiralis/NP in/IN pork/NN introduces/VBZ another/DT factor/NN which/WDT must/MD be/BE dealt/VBN with/IN in/IN food/NN processing/NN ./pct
+To/TO permit/VB the/AT storage/NN of/IN food/NN for/IN long/JJ periods/NNS of/IN time/NN ,/pct a/AT method/NN of/IN preservation/NN must/MD accomplish/VB the/AT destruction/NN of/IN microorganisms/NNS and/CC inhibition/NN of/IN enzymatic/JJ action/NN ./pct
+The/AT term/NN ``/pct sterilization/NN ''/pct applies/VBZ to/IN methods/NNS involving/VBG essentially/QL complete/JJ destruction/NN of/IN all/ABN microorganisms/NNS ./pct
+Food/NN treated/VBN in/IN this/DT manner/NN and/CC protected/VBN from/IN recontamination/NN by/IN aseptic/JJ methods/NNS of/IN packaging/VBG and/CC containment/NN presumably/RB could/MD be/BE stored/VBN for/IN long/JJ periods/NNS without/IN refrigeration/NN ./pct
+The/AT process/NN of/IN ``/pct pasteurization/NN ''/pct involves/VBZ milder/JJR and/CC less/QL prolonged/VBN heat/NN treatment/NN which/WDT accomplishes/VBZ the/AT destruction/NN of/IN most/AP ,/pct but/CC not/NEG all/ABN ,/pct of/IN the/AT microorganisms/NNS ./pct
+Less/QL severe/JJ thermal/JJ treatment/NN as/CS by/IN blanching/VBG or/CC scalding/VBG serves/VBZ to/TO inactivate/VB enzymes/NNS ./pct
+General/JJ effects/NNS of/IN ionizing/VBG radiation/NN
+Ionizing/VBG radiation/NN can/MD cause/VB the/AT destruction/NN of/IN microorganisms/NNS and/CC insects/NNS involved/VBN in/IN food/NN spoilage/NN or/CC ,/pct at/IN lower/JJR doses/NNS ,/pct can/MD inhibit/VB their/PPg action/NN ./pct
+It/PPS furnishes/VBZ a/AT means/NN of/IN destroying/VBG insects/NNS in/IN stored/VBN grain/NN products/NNS as/QL well/RB as/CS certain/AP parasitic/JJ organisms/NNS present/RB in/IN meats/NNS ./pct
+Deactivation/NN of/IN enzymes/NNS is/BEZ also/RB possible/JJ ,/pct although/CS some/DTI types/NNS require/VB extremely/QL heavy/JJ doses/NNS of/IN 10/CD Mrad/NN or/CC more/AP ./pct
+Because/RB of/IN undesirable/JJ flavors/NNS ,/pct odors/NNS ,/pct colors/NNS ,/pct and/CC generally/RB low/JJ palatability/NN associated/VBN with/IN radiation/NN treatment/NN of/IN this/DT magnitude/NN ,/pct the/AT inactivation/NN of/IN enzymes/NNS is/BEZ best/RBT accomplished/VBN prior/RB to/IN irradiation/NN by/IN the/AT conventional/JJ heat-processing/JJ methods/NNS of/IN blanching/VBG ./pct
+Radiation/NN does/DOZ not/NEG retard/VB the/AT chemical/NN spoilage/NN of/IN food/NN ./pct
+It/PPS will/MD ,/pct however/RB ,/pct inhibit/VB the/AT sprouting/NN of/IN potatoes/NNS and/CC other/AP root/NN vegetables/NNS ./pct
+The/AT radiation/NN doses/NNS required/VBN for/IN the/AT preservation/NN of/IN foods/NNS are/BER in/IN the/AT following/VBG ranges/NNS :/pct 1/CD ./pct
+For/IN radiosterilization/NN ,/pct to/TO destroy/VB all/ABN organisms/NNS for/IN long-term/NN preservation/NN --/pct about/RB 4.5/CD Mrad/NN for/IN nonacid/JJ foods/NNS of/IN low/JJ salt/NN content/NN ./pct
+2/CD ./pct
+For/IN radiopasteurization/NN ,/pct to/TO partially/RB destroy/VB microorganisms/NNS ;/pct ;/pct
+results/NNS vary/VB with/IN types/NNS of/IN food/NN ,/pct storage/NN conditions/NNS ,/pct and/CC objectives/NNS of/IN treatment/NN --/pct commonly/RB of/IN the/AT order/NN of/IN 0.2/CD Mrads/NN but/CC up/RP to/IN about/RB 0.8/CD Aj/NN ./pct
+3/CD ./pct
+For/IN destruction/NN of/IN insects/NNS --/pct about/RB 25,000/CD Aj/NN ./pct
+4/CD ./pct
+For/IN inhibiting/VBG the/AT sprouting/NN of/IN root/NN vegetables/NNS --/pct 4,000/CD to/IN 10,000/CD Aj/NN ./pct
+Preserving/VBG foods/NNS with/IN ionizing/VBG radiation/NN leads/VBZ to/IN some/DTI undesirable/JJ side/NN effects/NNS ,/pct particularly/RB at/IN the/AT higher/JJR radiation/NN dosages/NNS ./pct
+In/IN this/DT respect/NN ,/pct the/AT general/JJ palatability/NN and/CC individual/JJ acceptance/NN of/IN most/AP radiosterilized/VBN foods/NNS has/HVZ ,/pct to/TO date/VB ,/pct been/BEN found/VBN to/TO be/BE low/JJ in/IN comparison/NN with/IN fresh/JJ and/CC commercially/RB processed/VBN foods/NNS ./pct
+A/AT number/NN of/IN foods/NNS are/BER quite/QL acceptable/JJ as/CS regards/VBZ taste/NN and/CC palatability/NN ,/pct however/RB ,/pct at/IN dosages/NNS substantially/RB less/AP than/CS sterilization/NN levels/NNS ./pct
+Moreover/RB ,/pct the/AT nutritive/JJ value/NN of/IN irradiated/VBN foods/NNS apparently/RB undergoes/VBZ little/AP ,/pct if/CS any/DTI ,/pct change/NN ,/pct although/CS some/DTI of/IN the/AT fat-soluble/JJ vitamins/NNS are/BER affected/VBN by/IN sterilization/NN doses/NNS ./pct
+Radiation/NN sources/NNS
+For/IN irradiation/NN of/IN food/NN ,/pct the/AT results/NNS obtained/VBN depend/VB upon/IN the/AT dose/NN rather/RB than/CS the/AT specific/JJ type/NN of/IN radiation/NN ,/pct and/CC X-ray/NN ,/pct gamma/NN ,/pct and/CC high-energy/NN electron/NN radiation/NN are/BER suitable/JJ ./pct
+Aside/RB from/IN availability/NN and/CC economic/JJ considerations/NNS ,/pct each/DT has/HVZ certain/AP practical/JJ advantages/NNS ;/pct ;/pct
+for/IN example/NN ,/pct gamma/NN rays/NNS give/VB deeper/JJR penetration/NN but/CC cannot /None be/BE focused/VBN or/CC collimated/VBN ,/pct whereas/CS unidirectional/JJ electron/NN beams/NNS may/MD be/BE split/VBN and/CC directed/VBN to/IN both/ABX the/AT top/NN and/CC bottom/NN of/IN the/AT food/NN package/NN to/TO be/BE irradiated/VBN ./pct
+Selection/NN of/IN a/AT source/NN for/IN commercial/JJ irradiation/NN would/MD involve/VB consideration/NN of/IN numerous/JJ factors/NNS including/IN required/VBN dose/NN rate/NN ,/pct load/NN factor/NN ,/pct throughput/NN ,/pct convenience/NN ,/pct safety/NN ,/pct and/CC most/QL important/JJ ,/pct costs/NNS ./pct
+Of/IN the/AT potentially/RB useful/JJ sources/NNS of/IN ionizing/VBG radiations/NNS ,/pct gamma/NN sources/NNS ,/pct cobalt-60/NN ,/pct cesium-137/NN ,/pct fission/NN products/NNS ,/pct or/CC a/AT reactor/NN irradiation/NN loop/NN system/NN using/VBG a/AT material/NN such/JJ as/CS an/AT indium/NN salt/NN have/HV received/VBN most/AP attention/NN for/IN food-preservation/NN systems/NNS ./pct
+Of/IN the/AT various/AP particle/NN accelerators/NNS ,/pct the/AT Van/NP De/NP Graff/NP machines/NNS ,/pct resonant/JJ transformers/NNS ,/pct and/CC linear/JJ accelerators/NNS are/BER the/AT principal/JJS ones/NNS available/JJ for/IN commercial/JJ use/NN ./pct
+Costs/NNS of/IN the/AT effective/JJ energy/NN produced/VBN by/IN these/DTS sources/NNS is/BEZ a/AT major/JJ obstacle/NN in/IN the/AT development/NN of/IN food-preservation/NN processes/NNS ./pct
+Estimated/VBN production/NN costs/NNS of/IN radiation/NN energy/NN from/IN machine/NN and/CC nuclide/NN sources/NNS range/VB from/IN $1/NN to/IN $10/NNS per/IN Aj/NN ./pct
+Conventional/JJ energy/NN for/IN processing/VBG foods/NNS is/BEZ available/JJ in/IN the/AT range/NN of/IN at/IN most/AP a/AT few/AP cents/NNS per/IN kwhr/NN for/IN electric/JJ power/NN and/CC the/AT equivalent/JJ of/IN a/AT few/AP mills/NNS per/IN kwhr/NN for/IN process/NN steam/NN ./pct
+Radiation/NN ,/pct therefore/RB ,/pct is/BEZ at/IN an/AT initial/JJ cost/NN disadvantage/NN even/RB though/CS only/RB 1/CD to/IN 10/CD per/IN cent/NN as/QL much/AP radiation/NN energy/NN as/CS heat/NN energy/NN is/BEZ required/VBN for/IN radiopasteurization/NN or/CC radiosterilization/NN ./pct
+What/WDT are/BER the/AT possibilities/NNS of/IN lowered/VBN radiation/NN production/NN costs/NNS for/IN the/AT future/NN ?/pct ?/pct
+It/PPS has/HVZ been/BEN estimated/VBN that/CS for/IN applications/NNS on/IN a/AT megawatt/NN scale/NN costs/NNS might/MD reach/VB values/NNS in/IN the/AT neighborhood/NN of/IN 10/CD cents/NNS per/IN kwhr/NN for/IN large-scale/NN accelerators/NNS or/CC for/IN gamma/NN radiation/NN generated/VBN in/IN a/AT reactor/NN core/NN ./pct
+No/AT comparable/JJ reductions/NNS in/IN the/AT cost/NN of/IN nuclide/NN radiation/NN are/BER foreseen/VBN ./pct
+Such/JJ projections/NNS ,/pct however/RB ,/pct appear/VB highly/QL speculative/JJ and/CC the/AT capacities/NNS involved/VBN are/BER far/RB beyond/IN those/DTS foreseen/VBN for/IN food-preservation/NN facilities/NNS ./pct
+Because/CS agricultural/JJ activities/NNS are/BER seasonal/JJ and/CC the/AT areas/NNS of/IN production/NN and/CC harvest/NN of/IN many/AP foods/NNS are/BER widely/RB scattered/VBN geographically/RB ,/pct and/CC because/RB of/IN the/AT high/JJ cost/NN of/IN transporting/VBG bulk/JJ food/NN items/NNS any/DTI substantial/JJ distance/NN to/IN a/AT central/JJ processing/VBG location/NN ,/pct the/AT use/NN of/IN large/JJ central/JJ processing/NN stations/NNS ,/pct where/WRB low-cost/NN radiation/NN facilities/NNS approaching/VBG the/AT megawatt/NN range/NN might/MD be/BE utilized/VBN ,/pct is/BEZ inherently/RB impracticable/JJ ./pct
+Present/AP status/NN of/IN irradiation/NN preservation/NN of/IN foods/NNS
+The/AT objective/NN of/IN complete/JJ sterilization/NN of/IN foods/NNS is/BEZ to/TO produce/VB a/AT wholesome/JJ and/CC palatable/JJ product/NN capable/JJ of/IN being/BEG stored/VBN without/IN refrigeration/NN for/IN extended/VBN periods/NNS of/IN time/NN ./pct
+Chief/JJS interest/NN in/IN radiosterilization/NN resides/VBZ in/IN the/AT military/JJ services/NNS ./pct
+For/IN them/PPO ,/pct providing/VBG appetizing/JJ food/NN under/IN battle/NN or/CC emergency/NN conditions/NNS is/BEZ a/AT paramount/JJS consideration/NN ./pct
+They/PPSS require/VB completely/QL sterile/JJ foods/NNS capable/JJ of/IN being/BEG stored/VBN without/IN refrigeration/NN ,/pct preferably/RB items/NNS already/RB cooked/VBN and/CC ready/JJ to/TO eat/VB ./pct
+High/JJ nutritional/JJ value/NN ,/pct variety/NN ,/pct palatability/NN ,/pct and/CC appetizing/JJ appearance/NN are/BER important/JJ for/IN reasons/NNS of/IN morale/NN ./pct
+Foods/NNS for/IN rear/JJ stations/NNS ,/pct which/WDT require/VB cooking/VBG ,/pct but/CC no/AT refrigeration/NN ,/pct are/BER also/RB of/IN interest/NN ./pct
+Of/IN primary/JJ interest/NN are/BER meats/NNS ./pct
+Radiopasteurization/NN ,/pct which/WDT produces/VBZ fewer/AP adverse/JJ sensory/JJ changes/NNS in/IN food/NN products/NNS ,/pct has/HVZ potential/JJ usefulness/NN in/IN prolonging/VBG the/AT keeping/VBG qualities/NNS of/IN fresh/JJ and/CC refrigerated/VBN food/NN items/NNS ./pct
+Thus/RB ,/pct food/NN so/RB processed/VBN might/MD reach/VB more/QL remote/JJ markets/NNS and/CC permit/VB the/AT consumer/NN to/TO enjoy/VB more/AP produce/NN at/IN peak/NN freshness/NN and/CC palatability/NN ./pct
+Commercial/JJ interest/NN is/BEZ chiefly/RB in/IN this/DT type/NN of/IN treatment/NN ,/pct as/CS is/BEZ military/JJ interest/NN under/IN peacetime/NN conditions/NNS ./pct
+The/AT present/JJ status/NN of/IN food/NN preservation/NN by/IN ionizing/VBG radiation/NN is/BEZ discussed/VBN by/IN food/NN classes/NNS in/IN the/AT following/VBG paragraphs/NNS ./pct
+Meats/NNS
+The/AT radiation/NN processing/NN of/IN meat/NN has/HVZ received/VBN extensive/JJ investigation/NN ./pct
+To/IN date/NN ,/pct the/AT one/CD meat/NN showing/VBG favorable/JJ results/NNS at/IN sterilization/NN doses/NNS is/BEZ pork/NN ./pct
+Of/IN particular/JJ interest/NN to/IN the/AT military/JJ services/NNS is/BEZ the/AT demonstration/NN that/CS roast/NN pork/NN ,/pct after/IN radiosterilization/NN ,/pct is/BEZ superior/JJ in/IN palatability/NN to/IN available/JJ canned/VBN pork/NN products/NNS ./pct
+Tests/NNS with/IN beef/NN have/HV been/BEN largely/RB unsuccessful/JJ because/RB of/IN the/AT development/NN of/IN off-flavors/NNS ./pct
+A/AT prime/JJ objective/NN of/IN the/AT Army/NN Quartermaster/NN Corps/NN program/NN is/BEZ to/TO find/VB the/AT reasons/NNS for/IN beef's/NNg low/JJ palatability/NN and/CC means/NNS of/IN overcoming/VBG it/PPO ,/pct since/CS it/PPS is/BEZ a/AT major/JJ and/CC desirable/JJ dietary/JJ item/NN ./pct
+Partly/RB because/CS low-level/NN heat/NN treatment/NN is/BEZ needed/VBN to/TO inactivate/VB enzymes/NNS before/IN radiosterilization/NN ,/pct treated/VBN fresh/JJ meats/NNS have/HV the/AT appearance/NN of/IN boiled/VBN or/CC canned/VBN meat/NN ./pct
+Off-flavor/NN is/BEZ a/AT less/QL severe/JJ problem/NN with/IN the/AT radiopasteurization/NN of/IN meats/NNS ,/pct but/CC problems/NNS of/IN commercial/JJ acceptability/NN remain/VB ./pct
+Moderate/JJ radiation/NN doses/NNS of/IN from/IN 100,000/CD to/IN 200,000/CD rads/NN can/MD extend/VB the/AT shelf/NN life/NN (/pct at/IN 35/CD F/NN )/pct of/IN fresh/JJ beef/NN from/IN 5/CD days/NNS to/IN 5/CD or/CC 6/CD weeks/NNS ./pct
+However/RB ,/pct the/AT problem/NN of/IN consumer/NN acceptability/NN remains/VBZ ./pct
+The/AT preradiation/NN blanching/VBG process/NN discolors/VBZ the/AT treated/VBN beef/NN and/CC liquid/NN accumulates/VBZ in/IN prepackaged/VBN cuts/NNS ./pct
+Cooked/VBN beef/NN irradiated/VBN in/IN the/AT absence/NN of/IN oxygen/NN assumes/VBZ an/AT unnatural/JJ pink/JJ color/NN ./pct
+When/WRB lamb/NN and/CC mutton/NN are/BER irradiated/VBN at/IN substerilization/JJ doses/NNS ,/pct the/AT meat/NN becomes/VBZ dehydrated/VBN ,/pct the/AT fat/NN becomes/VBZ chalky/JJ ,/pct and/CC ,/pct again/RB ,/pct unnatural/JJ changes/NNS in/IN color/NN occur/VB ./pct
+Ground/VBN meats/NNS such/JJ as/CS fresh/JJ pork/NN sausage/NN and/CC hamburger/NN have/HV a/AT relatively/QL short/JJ shelf/NN life/NN under/IN refrigeration/NN ,/pct and/CC radiopasteurization/NN might/MD be/BE thought/VBN to/TO offer/VB distinctly/RB improved/VBN keeping/VBG qualities/NNS ./pct
+However/RB ,/pct a/AT major/JJ problem/NN here/RB is/BEZ one/CD of/IN scale/NN of/IN processing/VBG ;/pct ;/pct
+ground/VBN meats/NNS are/BER usually/RB prepared/VBN from/IN scrap/NN meats/NNS at/IN the/AT local/JJ level/NN ,/pct whereas/CS irradiation/NN at/IN economic/JJ volumes/NNS of/IN production/NN would/MD require/VB central/JJ processing/VBG and/CC distribution/NN facilities/NNS ./pct
+The/AT problems/NNS of/IN color/NN change/NN by/IN blanching/VBG and/CC liquid/NN accumulation/NN within/IN the/AT package/NN are/BER the/AT same/AP as/CS for/IN solid/JJ cuts/NNS ./pct
+Specialty/NN cooked/VBN items/NNS containing/VBG meat/NN portions/NNS ,/pct as/CS in/IN ``/pct frozen/VBN dinners/NNS ''/pct might/MD offer/NN a/AT potential/JJ use/NN for/IN radiopasteurization/NN ./pct
+The/AT principal/JJS potential/JJ advantage/NN would/MD be/BE that/CS the/AT finished/VBN product/NN could/MD be/BE transported/VBN and/CC stored/VBN at/IN lower/JJR cost/NN under/IN refrigeration/NN instead/RB of/IN being/BEG frozen/VBN ./pct
+A/AT refrigerated/VBN item/NN could/MD also/RB be/BE heated/VBN and/CC served/VBN in/IN less/AP time/NN than/CS is/BEZ required/VBN for/IN frozen/VBN foods/NNS of/IN the/AT same/AP type/NN ./pct
+Competitive/JJ processes/NNS for/IN preserving/VBG meats/NNS are/BER by/IN canning/VBG and/CC freezing/VBG ./pct
+Costs/NNS of/IN canning/VBG meat/NN are/BER in/IN the/AT range/NN of/IN 0.8/CD to/IN 5/CD cents/NNS per/IN pound/NN ;/pct ;/pct
+costs/NNS of/IN freezing/VBG are/BER in/IN the/AT area/NN of/IN 2/CD to/IN 3.5/CD cents/NNS per/IN pound/NN ./pct
+The/AT table/NN on/IN page/NN 10/CD shows/VBZ costs/NNS of/IN canning/VBG and/CC freezing/VBG meat/NN ,/pct and/CC estimated/VBN costs/NNS for/IN irradiation/NN under/IN certain/AP assumed/VBN conditions/NNS ./pct
+Under/IN the/AT conditions/NNS of/IN comparison/NN ,/pct it/PPS will/MD be/BE noted/VBN that/CS :/pct (/pct 1/CD )/pct
+Radiosterilization/NN (/pct at/IN 3/CD Mrad/NN )/pct is/BEZ more/QL expensive/JJ than/CS canning/VBG ,/pct particularly/RB for/IN the/AT cesium-137/NN source/NN ./pct
+(/pct 2/CD )/pct
+Radiopasteurization/NN by/IN either/CC the/AT electron/NN accelerator/NN or/CC cesium-137/NN source/NN is/BEZ in/IN the/AT range/NN of/IN freezing/VBG costs/NNS ./pct
+(/pct 3/CD )/pct
+Irradiation/NN using/VBG the/AT nuclide/NN source/NN is/BEZ more/QL expensive/JJ than/CS use/NN of/IN an/AT electron/NN accelerator/NN ./pct
+Poultry/NN
+Results/NNS of/IN irradiation/NN tests/NNS with/IN poultry/NN have/HV been/BEN quite/QL successful/JJ ./pct
+At/IN sterilizing/VBG doses/NNS ,/pct good/JJ palatability/NN results/VBZ ,/pct with/IN a/AT minimum/NN of/IN changes/NNS in/IN appearance/NN ,/pct taste/NN ,/pct and/CC odor/NN ./pct
+Radiopasteurization/NN has/HVZ also/RB been/BEN successful/JJ ,/pct and/CC the/AT shelf/NN life/NN of/IN chicken/NN can/MD be/BE extended/VBN to/IN a/AT month/NN or/CC more/AP under/IN refrigerated/VBN storage/NN as/CS compared/VBN with/IN about/RB 10/CD days/NNS for/IN the/AT untreated/JJ product/NN ./pct
+Acceptable/JJ taste/NN and/CC odor/NN are/BER retained/VBN by/IN the/AT irradiated/VBN and/CC refrigerated/VBN chicken/NN ./pct
+Acceptance/NN of/IN radiopasteurization/NN is/BEZ likely/JJ to/TO be/BE delayed/VBN ,/pct however/RB ,/pct for/IN two/CD reasons/NNS :/pct (/pct 1/CD )/pct the/AT storage/NN life/NN of/IN fresh/JJ chicken/NN under/IN refrigeration/NN is/BEZ becoming/VBG a/AT minimal/JJ problem/NN because/RB of/IN constantly/RB improved/VBN sanitation/NN and/CC distributing/VBG practices/NNS ,/pct and/CC (/pct 2/CD )/pct treatment/NN by/IN antibiotics/NNS ,/pct a/AT measure/NN already/RB approved/VBN by/IN the/AT Federal/JJ Food/NN and/CC Drug/NN Administration/NN ,/pct serves/VBZ to/TO extend/VB the/AT storage/NN life/NN of/IN chicken/NN at/IN a/AT low/JJ cost/NN of/IN about/RB 0.5/CD cents/NNS per/IN pound/NN ./pct
+Seafood/NN
+Fresh/JJ seafood/NN products/NNS are/BER extremely/QL perishable/JJ ./pct
+Although/CS refrigeration/NN has/HVZ served/VBN to/TO extend/VB the/AT storage/NN life/NN of/IN these/DTS products/NNS ,/pct substantially/RB increased/VBN consumption/NN might/MD be/BE possible/JJ if/CS areas/NNS remote/JJ from/IN the/AT seacoast/NN could/MD be/BE served/VBN adequately/RB ./pct

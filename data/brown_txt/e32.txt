@@ -1,0 +1,119 @@
+Throughout/IN history/NN ,/pct the/AT man/NN who/WPS showed/VBD superior/JJ performance/NN has/HVZ become/VBN the/AT commander/NN of/IN others/NNS --/pct for/IN good/NN or/CC bad/NN ./pct
+Since/IN the/AT Industrial/JJ Revolution/NN ,/pct when/WRB factories/NNS emerged/VBD ,/pct this/DT classical/JJ pattern/NN has/HVZ been/BEN followed/VBN ./pct
+Until/IN recently/RB ./pct
+There/EX have/HV always/RB been/BEN tales/NNS of/IN disillusionment/NN --/pct the/AT competent/JJ technician/NN who/WPS became/VBD an/AT administrator/NN ,/pct willingly/RB or/CC not/NEG ,/pct and/CC found/VBD he/PPS didn't /None like/VB it/PPO ;/pct ;/pct
+the/AT scientist/NN who/WPS rebelled/VBD against/IN the/AT personnel/NNS and/CC paper/NN work/NN ;/pct ;/pct
+and/CC much/QL more/QL commonly/RB in/IN recent/JJ years/NNS ,/pct the/AT engineer/NN who/WPS found/VBD that/CS other/AP duties/NNS interfered/VBD with/IN --/pct or/CC eliminated/VBD --/pct his/PPg engineering/VBG contributions/NNS ./pct
+There/EX have/HV been/BEN many/AP extremely/QL competent/JJ men/NNS who/WPS have/HV been/BEN converted/VBN into/IN very/QL incompetent/JJ managers/NNS or/CC submerged/VBN in/IN paper/NN work/NN ,/pct to/IN their/PPg own/JJ and/CC the/AT public's/NNg dissatisfaction/NN and/CC loss/NN ./pct
+This/DT has/HVZ been/BEN more/QL evident/JJ since/CS our/PPg products/NNS have/HV incorporated/VBN astronomically/QL increased/VBN technology/NN ./pct
+The/AT remedies/NNS have/HV been/BEN many/AP and/CC varied/VBN --/pct attempts/NNS to/TO teach/VB management/NN techniques/NNS --/pct either/CC in/IN plant/NN ,/pct at/IN special/JJ schools/NNS ,/pct or/CC in/IN university/NN ``/pct crash/JJ ''/pct courses/NNS --/pct provision/NN of/IN management-trained/JJ assistants/NNS or/CC associates/NNS ./pct
+But/CC the/AT realization/NN has/HVZ been/BEN growing/VBG that/CS these/DTS are/BER not/NEG the/AT complete/JJ answer/NN ./pct
+Some/DTI men/NNS have/HV no/AT talent/NN for/IN or/CC interest/NN in/IN management/NN ;/pct ;/pct
+forcing/VBG them/PPO into/IN management/NN can/MD only/RB create/VB trouble/NN ./pct
+The/AT old/JJ shop/NN adage/NN still/RB holds/VBZ :/pct ``/pct A/AT good/JJ mechanic/NN is/BEZ usually/RB a/AT bad/JJ boss/NN ''/pct ./pct
+Yet/CC our/PPg economy/NN clings/VBZ inexorably/RB to/IN recognition/NN of/IN managerial/JJ status/NN as/CS the/AT gage/NN of/IN success/NN ./pct
+Labor/NN fights/VBZ to/TO change/VB its/PPg collar/NN from/IN blue/JJ to/IN white/JJ ./pct
+All/ABN grades/NNS of/IN management/NN seek/VB more/QL resounding/JJ titles/NNS and/CC incomes/NNS because/RB of/IN social/JJ pressures/NNS ./pct
+As/CS several/AP recent/JJ books/NNS have/HV over-emphasized/VBN ,/pct we/PPSS have/HV become/VBN the/AT most/QL status-conscious/JJ nation/NN in/IN the/AT world/NN ./pct
+What/WDT can/MD be/BE done/VBN for/IN the/AT ``/pct individual/JJ contributor/NN ''/pct who/WPS is/BEZ extremely/QL important/JJ --/pct and/CC likely/JJ to/TO be/BE more/QL so/RB --/pct in/IN the/AT operation/NN of/IN the/AT technically/RB oriented/VBN company/NN ?/pct ?/pct
+He/PPS is/BEZ usually/RB conscious/JJ of/IN the/AT social/JJ pressures/NNS at/IN home/NN and/CC outside/RB ;/pct ;/pct
+usually/RB concerned/VBN about/IN America's/NPg belief/NN that/DT attainment/NN and/CC success/NN are/BER measured/VBN in/IN dollars/NNS and/CC titles/NNS ./pct
+Yet/CC titles/NNS are/BER traditionally/RB given/VBN only/RB to/IN management/NN men/NNS ,/pct and/CC income/NN tends/VBZ to/TO rise/VB with/IN title/NN ./pct
+Even/RB the/AT college/NN professor/NN in/IN America/NP has/HVZ been/BEN affected/VBN ./pct
+It/PPS is/BEZ ,/pct as/CS one/CD engineer/NN says/VBZ ,/pct ``/pct indeed/RB a/AT difficult/JJ thing/NN for/IN the/AT engineer/NN to/TO accept/VB that/CS he/PPS can/MD go/VB as/QL far/RB on/IN his/PPg technical/JJ merit/NN as/CS he/PPS could/MD employing/VBG managerial/JJ skills/NNS ./pct
+This/DT difficulty/NN arises/VBZ even/RB though/CS we/PPSS can/MD give/VB examples/NNS of/IN men/NNS who/WPS have/HV actually/RB followed/VBN this/DT course/NN ./pct
+This/DT leads/VBZ one/PN to/TO conclude/VB ,/pct as/CS you/PPSS have/HV ,/pct that/CS there/EX is/BEZ inevitably/RB more/AP prestige/NN in/IN a/AT management/NN position/NN in/IN the/AT minds/NNS of/IN our/PPg people/NNS ''/pct ./pct
+Nobody/PN should/MD be/BE more/QL able/JJ to/TO answer/VB the/AT questions/NNS on/IN this/DT score/NN than/CS engineering/VBG vice-presidents/NNS and/CC chief/JJS engineers/NNS ./pct
+So/RB we/PPSS asked/VBD such/JJ men/NNS in/IN major/JJ companies/NNS in/IN the/AT design/NN field/NN to/TO offer/VB their/PPg opinions/NNS on/IN the/AT ``/pct dual-road-up/JJ ''/pct problem/NN --/pct and/CC more/QL importantly/RB --/pct their/PPg solutions/NNS ./pct
+In/IN the/AT paragraphs/NNS that/WPS follow/VB ,/pct we/PPSS quote/VB from/IN 32/CD men/NNS who/WPS are/BER identified/VBN on/IN the/AT final/JJ page/NN ./pct
+First/RB :/pct what/WDT title/NN ,/pct what/WDT setup/NN ?/pct ?/pct
+Among/IN the/AT more/QL familiar/JJ plans/NNS for/IN dual-channel/JJ advancement/NN is/BEZ that/DT of/IN General/NN Electric/NN ./pct
+This/DT is/BEZ not/NEG a/AT mutually/QL exclusive/JJ plan/NN ;/pct ;/pct
+there/EX is/BEZ no/AT one/CD point/NN in/IN a/AT man's/NNg career/NN at/IN which/WDT he/PPS must/MD select/VB either/CC the/AT technical/JJ or/CC the/AT managerial/JJ path/NN upward/RB ./pct
+Further/RBR ,/pct the/AT management/NN path/NN does/DOZ not/NEG open/VB the/AT door/NN to/IN higher/JJR opportunities/NNS than/CS are/BER offered/VBN by/IN the/AT more/QL technical/JJ path/NN ./pct
+It/PPS is/BEZ common/JJ to/TO shift/VB back/RB and/CC forth/RB ,/pct working/VBG up/RP through/IN a/AT number/NN of/IN supervisory/JJ and/CC individual-contributor/JJ positions/NNS ./pct
+Actually/RB ,/pct there/EX are/BER a/AT number/NN of/IN individual-contributor/JJ positions/NNS in/IN both/ABX operating/VBG departments/NNS and/CC in/IN the/AT company-wide/JJ ``/pct services/NNS ''/pct operation/NN that/WPS are/BER filled/VBN by/IN men/NNS with/IN successful/JJ managerial/JJ experience/NN who/WPS are/BER currently/RB broadening/VBG their/PPg capabilities/NNS ./pct
+Also/RB ,/pct moving/VBG into/IN a/AT managerial/JJ position/NN does/DOZ not/NEG necessarily/RB end/VB a/AT man's/NNg recognition/NN as/CS a/AT technical/JJ expert/NN ./pct
+As/CS examples/NNS at/IN GE/NN :/pct Glen/NP B./NP Warren/NP ,/pct formerly/RB manager/NN of/IN the/AT Turbine/NN Division/NN ,/pct widely/RB recognized/VBN as/CS a/AT turbine/NN designer/NN ./pct
+The/AT late/JJ W./NP R./NP G./NP Baker/NP ,/pct a/AT pioneer/NN in/IN television/NN design/NN and/CC long-time/NN vp/NN &/CC gm/NN of/IN the/AT Electronics/NN Division/NN ,/pct and/CC later/RBR ,/pct by/IN his/PPg own/JJ choice/NN ,/pct an/AT individual/JJ consultant/NN ./pct
+Harold/NP E./NP Strang/NP ,/pct expert/NN in/IN switchgear/NN design/NN ,/pct for/IN a/AT long/JJ period/NN vp/NN &/CC gm/NN of/IN the/AT Measurements/NNS &/CC Industrial/JJ Products/NNS Division/NN ,/pct and/CC who/WPS currently/RB ,/pct approaching/VBG retirement/NN ,/pct is/BEZ vice-president/NN and/CC consulting/VBG engineer/NN in/IN the/AT Switchgear/NN &/CC Control/NN Division/NN ./pct
+In/IN the/AT GE/NN plan/NN ,/pct a/AT number/NN of/IN individual/JJ contributors/NNS have/HV positions/NNS and/CC compensation/NN higher/JJR than/CS those/DTS of/IN many/AP managers/NNS ./pct
+These/DTS positions/NNS carry/VB such/JJ titles/NNS as/CS :/pct
+Consultant/NN ,/pct Advanced/JJ Development/NN
+Consulting/VBG Engineer/NN ,/pct
+Consulting/VBG Engineer/NN ,/pct Heat/NN Transfer/NN
+Consulting/VBG Electrical/JJ Engineer/NN ,/pct
+Senior/JJ Electrical/JJ Engineer/NN ,/pct
+Senior/JJ Physicist/NN ./pct
+Westinghouse/NP has/HVZ a/AT similar/JJ system/NN ,/pct with/IN two/CD classifications/NNS representing/VBG various/JJ levels/NNS of/IN competence/NN on/IN the/AT strictly/QL technical/JJ side/NN :/pct consulting/VBG engineer/NN or/CC scientist/NN ,/pct as/CS the/AT case/NN may/MD be/BE ,/pct and/CC advisory/JJ engineer/NN or/CC scientist/NN ./pct
+Many/AP companies/NNS have/HV systems/NNS ,/pct particularly/RB in/IN R/NN &/CC D/NN ,/pct which/WDT work/VB more/QL or/CC less/QL well/RB ,/pct depending/IN upon/IN size/NN and/CC actual/JJ belief/NN in/IN the/AT policy/NN on/IN the/AT part/NN of/IN administration/NN ,/pct as/CS will/MD be/BE abundantly/QL apparent/JJ in/IN subsequent/JJ quotations/NNS ./pct
+Another/DT factor/NN that/WPS may/MD hold/VB hope/NN is/BEZ for/IN parallel/NN recognition/NN is/BEZ ,/pct as/CS one/CD man/NN says/VBZ it/PPO :/pct ``/pct that/CS the/AT fad/NN for/IN educating/VBG top/JJS people/NNS along/IN managerial/JJ lines/NNS is/BEZ yielding/VBG to/IN the/AT technically/RB trained/VBN approach/NN ''/pct ./pct
+Senior/JJ staff/NN engineer/NN ?/pct ?/pct
+One/CD company/NN instituted/VBD ,/pct early/RB in/IN 1959/CD ,/pct a/AT vertical/JJ classification/NN system/NN consisting/VBG of/IN four/CD levels/NNS ./pct
+There/EX is/BEZ no/AT formal/JJ equivalence/NN to/IN the/AT supervisory/JJ ranks/NNS ;/pct ;/pct
+the/AT top/JJS non-supervisory/JJ level/NN ,/pct senior/JJ staff/NN engineer/NN ,/pct enjoys/VBZ status/NN and/CC pay/NN ranging/VBG up/RP to/IN that/DT for/IN the/AT second/OD level/NN of/IN engineering/VBG supervision/NN ./pct
+The/AT second/OD level/NN ,/pct senior/JJ engineer/NN ,/pct rates/VBZ slightly/QL below/IN first-level/NN supervision/NN ./pct
+The/AT expectation/NN is/BEZ that/CS first-level/NN supervisors/NNS will/MD be/BE selected/VBN in/IN approximately/QL equal/JJ numbers/NNS from/IN the/AT second/OD and/CC third/OD engineering/VBG level/NN ,/pct with/IN very/QL few/AP coming/VBG from/IN the/AT first/OD level/NN ./pct
+The/AT company/NN expects/VBZ to/TO extend/VB upward/RB both/ABX compensation/NN and/CC status/NN for/IN non-supervisory/JJ engineers/NNS ,/pct but/CC probably/RB not/NEG into/IN executive/NN levels/NNS ./pct
+In/IN this/DT organization/NN ,/pct about/RB half/ABN of/IN the/AT engineers/NNS with/IN 15/CD or/CC more/AP years/NNS of/IN employment/NN are/BER in/IN supervision/NN ,/pct engineering/VBG or/CC elsewhere/RB ./pct
+This/DT reflects/VBZ the/AT very/QL heavy/JJ engineering/NN content/NN of/IN the/AT products/NNS --/pct which/WDT are/BER not/NEG military/JJ ./pct
+Several/AP other/AP examples/NNS :/pct central/JJ and/CC satellite/NN
+``/pct We/PPSS have/HV over/RP 20/CD divisions/NNS --/pct each/DT of/IN which/WDT has/HVZ an/AT engineering/VBG department/NN headed/VBN by/IN a/AT chief/JJS engineer/NN ./pct
+We/PPSS have/HV set/VBN up/RP a/AT central/JJ R/NN &/CC D/NN department/NN ,/pct as/QL well/RB as/CS engineering-management/NN departments/NNS --/pct about/RB 80/CD people/NNS working/VBG on/IN problems/NNS related/VBN to/IN those/DTS of/IN our/PPg plants/NNS ./pct
+A/AT separate/JJ research/NN department/NN is/BEZ ,/pct of/IN course/NN ,/pct confined/VBN to/IN new/JJ or/CC future/JJ designs/NNS ./pct
+Part/NN of/IN this/DT headquarters/NN staff/NN ,/pct however/RB ,/pct are/BER engineering/VBG managers/NNS who/WPS work/VB between/IN divisional/JJ chief/JJS engineers/NNS and/CC headquarters/NN management/NN ./pct
+These/DTS headquarters/NN engineers/NNS ,/pct headed/VBN by/IN the/AT vice-president/NN --/pct Engineering/VBG ,/pct counsel/VB and/CC advise/VB divisional/JJ managers/NNS and/CC chief/JJS engineers/NNS on/IN product/NN problems/NNS as/QL well/RB as/CS aid/VB with/IN design/NN ;/pct ;/pct
+and/CC many/AP are/BER engineers/NNS who/WPS have/HV been/BEN advanced/VBN from/IN the/AT divisions/NNS ./pct
+These/DTS men/NNS are/BER considered/VBN managers/NNS of/IN engineers/NNS ./pct
+They/PPSS must/MD learn/VB to/TO wear/VB several/AP hats/NNS ,/pct so/RB to/TO speak/VB ,/pct working/VBG with/IN management/NN ,/pct sales/NNS and/CC engineering/VBG problems/NNS related/VBN to/IN the/AT product/NN ./pct
+``/pct We/PPSS do/DO not/NEG have/HV people/NNS in/IN our/PPg organization/NN termed/VBN '/pct consultants/NNS '/pct or/CC '/pct fellows/NNS '/pct ,/pct who/WPS are/BER specialists/NNS in/IN one/CD particular/JJ technical/JJ subject/NN ./pct
+I/PPSS suppose/VB it/PPS is/BEZ because/CS we/PPSS are/BER just/RB not/NEG big/JJ enough/QLP ./pct
+We/PPSS have/HV a/AT few/AP '/pct consultants/NNS '/pct --/pct retired/VBN engineers/NNS retained/VBN and/CC called/VBN in/RP on/IN certain/JJ problems/NNS ./pct
+The/AT only/AP '/pct fellows/NNS '/pct in/IN our/PPg company/NN are/BER those/DTS who/WPS have/HV been/BEN honored/VBN by/IN ASME/NN ,/pct AIEE/NN or/CC AIChE/NN ./pct
+I/PPSS am/BEM sure/JJ that/CS the/AT engineer/NN who/WPS enters/VBZ management/NN is/BEZ nearly/QL always/RB opening/VBG the/AT door/NN to/IN greater/JJR possibilities/NNS than/CS he/PPS would/MD have/HV as/CS a/AT technical/JJ specialist/NN --/pct because/RB of/IN his/PPg wider/JJR accountability/NN ''/pct ./pct
+Another/DT structure/NN
+``/pct We/PPSS have/HV tried/VBN to/TO make/VB both/ABX paths/NNS attractive/JJ ,/pct so/CS that/CS good/JJ men/NNS could/MD find/VB opportunity/NN and/CC satisfaction/NN in/IN either/DTX ./pct
+One/CD way/NN to/TO formalize/VB this/DT is/BEZ in/IN the/AT job/NN structure/NN ./pct
+We/PPSS have/HV these/DTS positions/NNS ,/pct which/WDT compare/VB directly/RB :/pct Af/NN
+``/pct Above/IN these/DTS jobs/NNS we/PPSS have/HV chief/JJS engineer/NN for/IN the/AT company/NN and/CC vice-president/NN of/IN Engrg/NN ,/pct R/NN &/CC Aj/NN ./pct
+The/AT latter/AP jobs/NNS include/VB major/JJ management/NN responsibilities/NNS and/CC have/HV been/BEN filled/VBN by/IN those/DTS who/WPS have/HV come/VBN up/RP primarily/RB through/IN the/AT engineering-management/NN side/NN ./pct
+We/PPSS have/HV not/NEG yet/RB succeeded/VBN in/IN establishing/VBG recognition/NN of/IN technical/JJ specialization/NN comparable/JJ to/IN our/PPg higher/JJR levels/NNS of/IN management/NN ,/pct but/CC I/PPSS believe/VB we/PPSS will/MD trend/NN in/IN this/DT direction/NN but/CC not/NEG to/TO exceed/VB vice-president/NN ''/pct ./pct
+Top/JJS job/NN :/pct research/NN scientist/NN
+``/pct ./pct
+Approximately/RB four/CD years/NNS ago/RB ,/pct we/PPSS initiated/VBD a/AT dual/JJ ladder/NN of/IN advancement/NN for/IN technical/JJ persons/NNS ./pct
+The/AT highest/JJT position/NN is/BEZ known/VBN as/CS a/AT '/pct research/NN scientist/NN ./pct
+This/DT approach/NN has/HVZ not/NEG been/BEN entirely/QL satisfactory/JJ ./pct
+The/AT primary/JJ deterrent/NN appears/VBZ to/TO lie/VB with/IN the/AT technical/JJ people/NNS themselves/PPLS ,/pct and/CC their/PPg concept/NN of/IN what/WDT constitutes/VBZ status/NN in/IN present-day/JJ society/NN ./pct
+Scientists/NNS who/WPS agitate/VB hardest/RBT for/IN technical/JJ recognition/NN are/BER often/RB the/AT most/QL reluctant/JJ to/TO accept/VB it/PPO ./pct
+We/PPSS have/HV discovered/VBN that/CS the/AT outward/JJ trappings/NNS such/JJ as/CS private/JJ offices/NNS and/CC private/JJ secretaries/NNS are/BER extremely/QL important/JJ ;/pct ;/pct
+and/CC although/CS we/PPSS have/HV attempted/VBN to/TO provide/VB these/DTS status/NN symbols/NNS ,/pct support/NN of/IN the/AT '/pct dual-ladder/JJ '/pct plan/NN has/HVZ been/BEN half-hearted/JJ despite/IN the/AT creation/NN of/IN a/AT salary/NN potential/NN for/IN a/AT research/NN scientist/NN commensurate/JJ with/IN that/DT of/IN men/NNS in/IN top/JJS managerial/JJ positions/NNS ./pct
+``/pct A/AT serious/JJ problem/NN accompanying/VBG the/AT technical-ladder/NN approach/NN is/BEZ the/AT difficulty/NN of/IN clearly/RB defining/VBG responsibilities/NNS and/CC standards/NNS of/IN performance/NN for/IN each/DT level/NN ./pct
+With/IN no/AT set/VBN standards/NNS ,/pct there/EX is/BEZ the/AT tendency/NN to/TO promote/VB to/IN the/AT next/AP highest/JJT level/NN when/WRB the/AT top/NN of/IN a/AT salary/NN band/NN is/BEZ reached/VBN regardless/RB of/IN performance/NN ./pct
+Promotion/NN is/BEZ too/QL often/RB based/VBN on/IN longevity/NN and/CC time/NN in/IN salary/NN grade/NN instead/RB of/IN merit/NN ./pct
+If/CS no/AT specific/JJ organization/NN plan/NN exists/VBZ limiting/VBG the/AT number/NN of/IN scientists/NNS at/IN each/DT salary/NN level/NN ,/pct the/AT result/NN is/BEZ a/AT department/NN top-heavy/JJ with/IN high-level/NN ,/pct high-salaried/JJ personnel/NNS ''/pct ./pct
+Staff/NN engineer/NN dept./NN manager/NN
+``/pct We/PPSS have/HV two/CD approaches/NNS for/IN the/AT technical/JJ man/NN :/pct the/AT position/NN of/IN staff/NN engineer/NN ,/pct which/WDT is/BEZ rated/VBN as/QL high/JJ in/IN salary/NN as/CS department/NN manager/NN ;/pct ;/pct
+and/CC an/AT administrative/JJ organization/NN to/TO take/VB the/AT routine/JJ load/NN away/RB from/IN department/NN managers/NNS and/CC project/NN engineers/NNS as/QL much/AP as/CS possible/JJ ,/pct thus/RB allowing/VBG them/PPO more/AP time/NN for/IN strictly/QL technical/JJ work/NN ./pct
+These/DTS are/BER only/RB halfway/JJ measures/NNS ,/pct and/CC the/AT answer/NN will/MD come/VB when/WRB some/DTI way/NN is/BEZ found/VBN to/TO allow/VB the/AT technical/JJ man/NN in/IN industry/NN to/TO progress/VB without/IN limit/NN in/IN salary/NN and/CC prestige/NN ''/pct ./pct
+A/AT complete/JJ plan/NN
+``/pct We/PPSS have/HV made/VBN limited/VBN application/NN of/IN the/AT '/pct parallel/JJ ladder/NN '/pct plan/NN ./pct
+The/AT highest/RBT rated/VBN non-supervisory/JJ engineering/VBG title/NN is/BEZ '/pct research/NN engineer/NN ./pct
+The/AT salary/NN schedule/NN permits/VBZ remuneration/NN greater/JJR than/IN the/AT average/NN paid/VBN to/IN the/AT first/OD level/NN of/IN engineering/VBG supervision/NN (/pct engineering/VBG section/NN head/NN )/pct ./pct
+We/PPSS also/RB have/HV an/AT '/pct engineering/VBG section/NN head/NN --/pct research/NN engineer/NN '/pct classification/NN which/WDT has/HVZ salary/NN possibilities/NNS equivalent/JJ to/IN that/DT of/IN a/AT research/NN engineer/NN ./pct
+Above/IN this/DT point/NN there/EX is/BEZ no/AT generally/RB used/VBN parallel/JJ ladder/NN ./pct
+``/pct We/PPSS also/RB do/DO a/AT number/NN of/IN things/NNS to/TO build/VB up/RP the/AT prestige/NN of/IN the/AT engineer/NN as/CS a/AT '/pct professional/NN '/pct and/CC also/RB to/TO give/NN public/JJ recognition/NN to/IN individual/JJ technical/JJ competence/NN ./pct
+These/DTS include/VB encouragement/NN of/IN ,/pct and/CC assistance/NN to/IN ,/pct the/AT engineer/NN in/IN preparation/NN and/CC publication/NN of/IN technical/JJ papers/NNS ./pct
+We/PPSS have/HV two/CD media/NNS for/IN publicizing/VBG individual/JJ technical/JJ activity/NN ,/pct a/AT magazine/NN widely/RB distributed/VBN both/ABX within/IN and/CC without/IN the/AT company/NN ,/pct and/CC an/AT information/NN bulletin/NN for/IN engineering/VBG personnel/NNS distributed/VBN to/IN the/AT homes/NNS of/IN all/ABN engineers/NNS ./pct
+Publicity/NN is/BEZ given/VBN to/IN the/AT award/NN of/IN patents/NNS to/IN our/PPg engineers/NNS and/CC financial/JJ support/NN is/BEZ provided/VBN for/IN individual/JJ membership/NN in/IN technical/JJ societies/NNS ./pct
+``/pct A/AT recent/JJ ,/pct and/CC more/QL pertinent/JJ action/NN ,/pct has/HVZ been/BEN the/AT establishment/NN of/IN a/AT technical/JJ staff/NN reporting/VBG to/IN the/AT vice-president/NN for/IN Engineering/NN ./pct
+This/DT function/NN is/BEZ staffed/VBN by/IN engineers/NNS chosen/VBN for/IN their/PPg technical/JJ competence/NN and/CC who/WPS have/HV the/AT title/NN ,/pct member/NN of/IN the/AT technical/JJ staff/NN ./pct
+Salaries/NNS compare/VB favorably/RB with/IN those/DTS paid/VBN to/IN the/AT first/OD two/CD or/CC three/CD levels/NNS of/IN management/NN ./pct
+Additional/JJ symbols/NNS of/IN status/NN are/BER granted/VBN ,/pct such/JJ as/CS reserved/VBN parking/NN ,/pct distinctive/JJ badge/NN passes/NNS authorizing/VBG special/JJ privileges/NNS ,/pct and/CC a/AT difference/NN in/IN the/AT treatment/NN of/IN financial/JJ progress/NN through/IN merit/NN ./pct
+``/pct We/PPSS presently/RB are/BER involved/VBN in/IN inaugurating/VBG a/AT new/JJ development/NN center/NN ./pct
+Operations/NNS of/IN this/DT nature/NN offer/VB the/AT best/JJT opportunity/NN to/TO recognize/VB scientific/JJ status/NN ./pct
+All/ABN scientific/JJ staff/NN members/NNS will/MD have/HV the/AT title/NN ,/pct '/pct research-staff/NN member/NN ./pct
+The/AT salary/NN level/NN of/IN an/AT individual/NN within/IN the/AT group/NN will/MD reflect/VB the/AT scientific/JJ community's/NNg acceptance/NN of/IN him/PPO as/CS an/AT authority/NN in/IN his/PPg scientific/JJ field/NN ./pct
+Contrary/JJ to/IN usual/JJ organization-position/NN evaluations/NNS ,/pct the/AT position/NN to/IN which/WDT research-staff/NN members/NNS report/VB administratively/RB will/MD not/NEG necessarily/RB encompass/VB the/AT duties/NNS of/IN the/AT research-staff/NN member/NN ,/pct therefore/RB ,/pct are/BER not/NEG necessarily/RB evaluated/VBN as/QL highly/RB ./pct
+``/pct These/DTS recent/JJ steps/NNS do/DO not/NEG offer/VB the/AT possibility/NN of/IN extension/NN to/IN the/AT great/JJ number/NN of/IN senior/JJ engineers/NNS who/WPS have/HV displayed/VBN technical/JJ competence/NN ./pct
+It/PPS is/BEZ doubtful/JJ that/CS the/AT complete/JJ solution/NN to/IN the/AT over-all/JJ problem/NN can/MD result/VB entirely/RB from/IN company/NN efforts/NNS ./pct
+Fundamental/JJ to/IN the/AT difficulty/NN of/IN creating/VBG the/AT desired/VBN prestige/NN is/BEZ the/AT fact/NN that/CS ,/pct in/IN the/AT business/NN community/NN ,/pct prestige/NN and/CC status/NN are/BER conferred/VBN in/IN proportion/NN to/IN the/AT authority/NN that/WPO one/CD man/NN has/HVZ over/IN others/NNS and/CC the/AT extent/NN of/IN which/WDT he/PPS participates/VBZ in/IN the/AT management/NN functions/NNS ''/pct ./pct

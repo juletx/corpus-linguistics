@@ -1,0 +1,116 @@
+In/IN Ireland's/NPg County/NN Limerick/NP ,/pct near/IN the/AT River/NN Shannon/NP ,/pct there/EX is/BEZ a/AT quiet/JJ little/JJ suburb/NN by/IN the/AT name/NN of/IN Garryowen/NP ,/pct which/WDT means/VBZ ``/pct Garden/NN of/IN Owen/NP ''/pct ./pct
+Undoubtedly/RB none/PN of/IN the/AT residents/NNS realize/VB the/AT influence/NN their/PPg town/NN has/HVZ had/HVN on/IN American/JJ military/JJ history/NN ,/pct or/CC the/AT deeds/NNS of/IN valor/NN that/WPS have/HV been/BEN done/VBN in/IN its/PPg name/NN ./pct
+The/AT cry/NN ``/pct Garryowen/NP ''/pct !/pct !/pct
+Bursting/VBG from/IN the/AT lips/NNS of/IN a/AT charging/VBG cavalry/NN trooper/NN was/BEDZ the/AT last/AP sound/NN heard/VBN on/IN this/DT earth/NN by/IN untold/JJ numbers/NNS of/IN Cheyennes/NPS ,/pct Sioux/NPS and/CC Apaches/NPS ,/pct Mexican/JJ banditos/NNS under/IN Pancho/NP Villa/NP ,/pct Japanese/NPS in/IN the/AT South/JJ Pacific/JJ ,/pct and/CC Chinese/JJ and/CC North/JJ Korean/JJ Communists/NNS in/IN Korea/NP ./pct
+Garryowen/NP is/BEZ the/AT battle/NN cry/NN of/IN the/AT 7th/OD U.S./NP Cavalry/NN Regiment/NN ,/pct ``/pct The/AT Fighting/VBG Seventh/OD ''/pct ./pct
+Today/NR a/AT battle/NN cry/NN may/MD seem/VB an/AT anachronism/NN ,/pct for/CS in/IN the/AT modern/JJ Army/NN ,/pct esprit/NN de/IN corps/NN has/HVZ been/BEN sacrificed/VBN to/IN organizational/JJ charts/NNS and/CC tables/NNS ./pct
+But/CC don't /None tell/VB that/DT to/IN a/AT veteran/NN of/IN the/AT Fighting/VBG Seventh/OD ,/pct especially/RB in/IN a/AT saloon/NN on/IN Saturday/NR night/NN ./pct
+Of/IN all/ABN the/AT thousands/NNS of/IN men/NNS who/WPS have/HV served/VBN in/IN the/AT 7th/OD Cav/NP ,/pct perhaps/RB no/AT one/PN knows/VBZ its/PPg spirit/NN better/RBR than/CS Lieutenant/NN Colonel/NN Melbourne/NP C./NP Chandler/NP ./pct
+Wiry/JJ and/CC burr-headed/JJ ,/pct with/IN steel/NN blue/JJ eyes/NNS and/CC a/AT chest/NN splattered/VBN with/IN medals/NNS ,/pct Chandler/NP is/BEZ the/AT epitome/NN of/IN the/AT old-time/JJ trooper/NN ./pct
+The/AT truth/NN is/BEZ ,/pct however/RB ,/pct that/CS when/WRB Mel/NP Chandler/NP first/RB reported/VBD to/IN the/AT regiment/NN the/AT only/AP steed/NN he/PPS had/HVD ever/RB ridden/VBN was/BEDZ a/AT swivel/JJ chair/NN and/CC the/AT only/AP weapon/NN he/PPS had/HVD ever/RB wielded/VBN was/BEDZ a/AT pencil/NN ./pct
+Chandler/NP had/HVD been/BEN commissioned/VBN in/IN the/AT Medical/JJ Service/NN Corps/NN and/CC was/BEDZ serving/VBG as/CS a/AT personnel/NNS officer/NN for/IN the/AT Kansas/NP City/NN Medical/JJ Depot/NN when/WRB he/PPS decided/VBD that/CS if/CS he/PPS was/BEDZ going/VBG to/TO make/VB the/AT Army/NN his/PPg career/NN ,/pct he/PPS wanted/VBD to/TO be/BE in/IN the/AT fighting/VBG part/NN of/IN it/PPO ./pct
+Though/CS he/PPS knew/VBD no/AT more/AP about/IN military/JJ science/NN and/CC tactics/NNS than/CS any/DTI other/AP desk/NN officer/NN ,/pct he/PPS managed/VBD to/TO get/VB transferred/VBN to/IN the/AT combat/NN forces/NNS ./pct
+The/AT next/AP thing/NN he/PPS knew/VBD he/PPS was/BEDZ reporting/VBG for/IN duty/NN as/CS commanding/VBG officer/NN of/IN Troop/NN H/NP ,/pct 7th/OD Cavalry/NN ,/pct in/IN the/AT middle/NN of/IN corps/NN maneuvers/NNS in/IN Japan/NP ./pct
+Outside/RB of/IN combat/NN ,/pct he/PPS couldn't /None have/HV landed/VBN in/IN a/AT tougher/JJR spot/NN ./pct
+First/OD of/IN all/ABN ,/pct no/AT unit/NN likes/VBZ to/TO have/HV a/AT new/JJ CO/NN brought/VBN in/RP from/IN the/AT outside/NN ,/pct especially/RB when/WRB he's /None an/AT armchair/NN trooper/NN ./pct
+Second/RB ,/pct if/CS there/EX is/BEZ ever/RB a/AT perfect/JJ time/NN to/TO pull/VB the/AT rug/NN out/RP from/IN under/IN him/PPO ,/pct it's /None on/IN maneuvers/NNS ./pct
+In/IN combat/NN ,/pct helping/VBG your/PPg CO/NN make/VB a/AT fool/NN of/IN himself/PPL might/MD mean/VB getting/VBG yourself/PPL killed/VBN ./pct
+But/CC in/IN maneuvers/NNS ,/pct with/IN the/AT top/JJS brass/NN watching/VBG him/PPO all/ABN the/AT time/NN ,/pct it's /None easy/JJ ./pct
+Chandler/NP understood/VBD this/DT and/CC expected/VBD the/AT worst/JJT ./pct
+But/CC his/PPg first/OD few/AP days/NNS with/IN Troop/NN H/NP were/BED full/JJ of/IN surprises/NNS ,/pct beginning/VBG with/IN First/OD Sergeant/NN Robert/NP Early/NP ./pct
+Chandler/NP had/HVD expected/VBN a/AT tough/JJ old/JJ trooper/NN with/IN a/AT gravel/NN voice/NN ./pct
+Instead/RB Sergeant/NN Early/NP was/BEDZ quiet/JJ ,/pct sharp/JJ and/CC confident/JJ ./pct
+He/PPS had/HVD enlisted/VBN in/IN the/AT Army/NN straight/RB out/IN of/IN high/JJ school/NN and/CC had/HVD immediately/RB set/VBN about/IN learning/VBG his/PPg new/JJ trade/NN ./pct
+There/EX was/BEDZ no/AT weapon/NN Early/NP could/MD not/NEG take/VB apart/RB and/CC reassemble/VB blind-folded/VBN ./pct
+He/PPS could/MD lead/VB a/AT patrol/NN and/CC he/PPS knew/VBD his/PPg paper/NN work/NN ./pct
+Further/RBR ,/pct he/PPS had/HVD taken/VBN full/JJ advantage/NN of/IN the/AT Army's/NNg correspondence/NN courses/NNS ./pct
+He/PPS not/NEG only/RB knew/VBD soldiering/VBG ,/pct but/CC mathematics/NN ,/pct history/NN and/CC literature/NN as/QL well/RB ./pct
+But/CC for/IN all/ABN his/PPg erudite/JJ confidence/NN ,/pct Sergeant/NN Early/NP was/BEDZ right/QL out/IN of/IN the/AT Garryowen/NP mold/NN ./pct
+He/PPS was/BEDZ filled/VBN with/IN the/AT spirit/NN of/IN the/AT Fighting/VBG Seventh/OD ./pct
+That/DT saved/VBD Mel/NP Chandler/NP ./pct
+Sergeant/NN Early/NP let/VBD the/AT new/JJ CO/NN know/VB just/QL how/WQL lucky/JJ he/PPS was/BEDZ to/TO be/BE in/IN the/AT best/JJT troop/NN in/IN the/AT best/JJT regiment/NN in/IN the/AT United/VBN States/NNS Army/NN ./pct
+He/PPS fed/VBD the/AT captain/NN bits/NNS of/IN history/NN about/IN the/AT troops/NNS and/CC the/AT regiment/NN ./pct
+For/IN example/NN ,/pct it/PPS was/BEDZ a/AT battalion/NN of/IN the/AT 7th/OD Cavalry/NN under/IN Colonel/NN George/NP Armstrong/NP Custer/NP that/WPS had/HVD been/BEN wiped/VBN out/RP at/IN the/AT Battle/NN of/IN The/AT Little/JJ Big/JJ Horn/NN ./pct
+It/PPS didn't /None take/VB Captain/NN Chandler/NP long/RB to/TO realize/VB that/CS he/PPS had/HVD to/TO carry/VB a/AT heavy/JJ load/NN of/IN tradition/NN on/IN his/PPg shoulders/NNS as/CS commander/NN of/IN Troop/NN Aj/NP ./pct
+But/CC what/WDT made/VBD the/AT load/NN lighter/JJR was/BEDZ the/AT realization/NN that/CS every/AT officer/NN ,/pct non-com/NN and/CC trooper/NN was/BEDZ ready/JJ and/CC willing/JJ to/TO help/VB him/PPO carry/VB it/PPO ,/pct for/IN the/AT good/NN of/IN the/AT troop/NN and/CC the/AT regiment/NN ./pct
+Maneuvers/NNS over/RP ,/pct the/AT 7th/OD returned/VBD to/IN garrison/NN duty/NN in/IN Tokyo/NP ,/pct Captain/NN Chandler/NP still/RB with/IN them/PPO ./pct
+It/PPS was/BEDZ the/AT 7th/OD Cavalry/NN whose/WPg troopers/NNS were/BED charged/VBN with/IN guarding/VBG the/AT Imperial/JJ Palace/NN of/IN the/AT Emperor/NN ./pct
+But/CC still/RB Mel/NP Chandler/NP was/BEDZ not/NEG completely/QL convinced/VBN that/CS men/NNS would/MD really/RB die/VB for/IN a/AT four-syllable/JJ word/NN ,/pct ``/pct Garryowen/NP ''/pct ./pct
+The/AT final/JJ proof/NN was/BEDZ a/AT small/JJ incident/NN ./pct
+It/PPS happened/VBD at/IN the/AT St./NN Patrick's/NPg Day/NN party/NN ,/pct a/AT big/JJ affair/NN for/IN a/AT regiment/NN which/WDT had/HVD gone/VBN into/IN battle/NN for/IN over/RP three-quarters/NNS of/IN a/AT century/NN to/IN the/AT strains/NNS of/IN an/AT Irish/JJ march/NN ./pct
+In/IN the/AT middle/NN of/IN the/AT party/NN Chandler/NP looked/VBD up/RP to/TO see/VB four/CD smiling/VBG faces/NNS bearing/VBG down/RP upon/IN him/PPO ,/pct each/DT beaming/VBG above/IN the/AT biggest/JJT ,/pct greenest/JJT shamrock/NN he/PPS had/HVD ever/RB seen/VBN ./pct
+The/AT faces/NNS belonged/VBD to/IN Lieutenant/NN Marvin/NP Goulding/NP ,/pct his/PPg wife/NN and/CC their/PPg two/CD children/NNS ./pct
+And/CC when/WRB the/AT singing/NN began/VBD ,/pct it/PPS was/BEDZ the/AT Gouldings/NPS who/WPS sang/VBD the/AT old/JJ Irish/JJ songs/NNS the/AT best/RBT ./pct
+Though/CS there/EX was/BEDZ an/AT occasional/JJ good-natured/JJ chuckle/NN about/IN Marvin/NP Goulding/NP ,/pct the/AT Jewish/JJ officer/NN from/IN Chicago/NP ,/pct singing/VBG tearfully/RB about/IN the/AT ould/JJ sod/NN ,/pct no/AT one/PN really/RB thought/VBD it/PPS was/BEDZ strange/JJ ./pct
+For/CS Marvin/NP Goulding/NP ,/pct like/CS Giovanni/NP Martini/NP ,/pct the/AT bugler/NN boy/NN who/WPS carried/VBD Custer's/NPg last/AP message/NN ,/pct or/CC Margarito/NP Lopez/NP ,/pct the/AT one-man/JJ Army/NN on/IN Leyte/NP ,/pct was/BEDZ a/AT Garryowen/NP ,/pct through/RP and/CC through/RP ./pct
+It/PPS was/BEDZ no/AT coincidence/NN that/CS Goulding/NP was/BEDZ one/CD of/IN the/AT most/QL beloved/JJ platoon/NN leaders/NNS in/IN the/AT regiment/NN ./pct
+And/CC so/RB Mel/NP Chandler/NP got/VBD the/AT spirit/NN of/IN Garryowen/NP ./pct
+He/PPS set/VBD out/RP to/TO keep/VB Troop/NN H/NP the/AT best/JJT troop/NN in/IN the/AT best/JJT regiment/NN ./pct
+One/CD of/IN his/PPg innovations/NNS was/BEDZ to/TO see/VB to/IN it/PPO that/CS every/AT man/NN --/pct cook/NN and/CC clerk/NN as/QL well/RB as/CS rifleman/NN --/pct qualified/VBD with/IN every/AT weapon/NN in/IN the/AT troop/NN ./pct
+Even/RB the/AT mess/NN sergeant/NN ,/pct Bill/NP Brown/NP ,/pct a/AT dapper/JJ ,/pct cocky/JJ transfer/NN from/IN an/AT airborne/JJ division/NN ,/pct went/VBD out/RP on/IN the/AT range/NN ./pct
+The/AT troop/NN received/VBD a/AT new/JJ leader/NN ,/pct Lieutenant/NN Robert/NP M./NP Carroll/NP ,/pct fresh/JJ out/IN of/IN ROTC/NN and/CC bucking/VBG for/IN Regular/JJ Army/NN status/NN ./pct
+Carroll/NP was/BEDZ sharp/JJ and/CC military/JJ ,/pct but/CC he/PPS was/BEDZ up/RP against/IN tough/JJ competition/NN for/IN that/DT RA/NN berth/NN ,/pct and/CC he/PPS wanted/VBD to/TO play/VB it/PPO cool/RB ./pct
+So/RB Mel/NP Chandler/NP set/VBD out/RP to/TO sell/VB him/PPO on/IN the/AT spirit/NN of/IN Garryowen/NP ,/pct just/RB as/CS he/PPS himself/PPL had/HVD been/BEN sold/VBN a/AT short/JJ time/NN before/RB ./pct
+When/WRB the/AT Korean/JJ war/NN began/VBD ,/pct on/IN June/NP 25/CD ,/pct 1950/CD ,/pct the/AT anniversary/NN of/IN the/AT day/NN Custer/NP had/HVD gone/VBN down/RP fighting/VBG at/IN the/AT Little/JJ Big/JJ Horn/NN and/CC the/AT day/NN the/AT regiment/NN had/HVD assaulted/VBN the/AT beachhead/NN of/IN Leyte/NP during/IN World/NN War/NN 2/CD ,/pct ,/pct the/AT 7th/OD Cavalry/NN was/BEDZ not/NEG in/IN the/AT best/JJT fighting/VBG condition/NN ./pct
+Its/PPg entire/JJ complement/NN of/IN non-commissioned/JJ officers/NNS on/IN the/AT platoon/NN level/NN had/HVD departed/VBN as/CS cadre/NN for/IN another/DT unit/NN ,/pct and/CC its/PPg vehicles/NNS were/BED still/RB those/DTS used/VBN in/IN the/AT drive/NN across/IN Luzon/NP in/IN World/NN War/NN 2/CD ./pct
+Just/RB a/AT month/NN after/CS the/AT Korean/JJ War/NN broke/VBD out/RP ,/pct the/AT 7th/OD Cavalry/NN was/BEDZ moving/VBG into/IN the/AT lines/NNS ,/pct ready/JJ for/IN combat/NN ./pct
+From/IN then/RB on/RP the/AT Fighting/VBG Seventh/OD was/BEDZ in/IN the/AT thick/JJ of/IN the/AT bitterest/JJT fighting/NN in/IN Korea/NP ./pct
+One/CD night/NN on/IN the/AT Naktong/NP River/NN ,/pct Mel/NP Chandler/NP called/VBD on/IN that/DT fabled/JJ esprit/NN de/IN corps/NN ./pct
+The/AT regiment/NN was/BEDZ dug/VBN in/RP on/IN the/AT east/NR side/NN of/IN the/AT river/NN and/CC the/AT North/JJ Koreans/NPS were/BED steadily/RB building/VBG up/RP a/AT concentration/NN of/IN crack/NN troops/NNS on/IN the/AT other/AP side/NN ./pct
+The/AT troopers/NNS knew/VBD an/AT attack/NN was/BEDZ coming/VBG ,/pct but/CC they/PPSS didn't /None know/VB when/WRB ,/pct and/CC they/PPSS didn't /None know/VB where/WRB ./pct
+At/IN 6/CD o'clock/RB on/IN the/AT morning/NN of/IN August/NP 12/CD ,/pct they/PPSS were/BED in/IN doubt/NN no/QL longer/RBR ./pct
+Then/RB it/PPS came/VBD ,/pct against/IN Troop/NN Aj/NP ./pct
+The/AT enemy/NN had/HVD filtered/VBN across/IN the/AT river/NN during/IN the/AT night/NN and/CC a/AT full/JJ force/NN of/IN 1000/CD men/NNS ,/pct armed/VBN with/IN Russian/JJ machine/NN guns/NNS ,/pct attacked/VBD the/AT position/NN held/VBN by/IN Chandler's/NPg men/NNS ./pct
+They/PPSS came/VBD in/IN waves/NNS ./pct
+First/RB came/VBD the/AT cannon/NN fodder/NN ,/pct white-clad/JJ civilians/NNS being/BEG driven/VBN into/IN death/NN as/CS a/AT massive/JJ human/JJ battering/VBG ram/NN ./pct
+They/PPSS were/BED followed/VBN by/IN crack/NN North/JJ Korean/JJ troops/NNS ,/pct who/WPS mounted/VBD one/CD charge/NN after/IN another/DT ./pct
+They/PPSS overran/VBD the/AT 7th/OD Cav's/NPg forward/JJ machine-gun/NN positions/NNS through/IN sheer/JJ weight/NN of/IN numbers/NNS ,/pct over/IN piles/NNS of/IN their/PPg own/JJ dead/JJ ./pct
+Another/DT force/NN flanked/VBD the/AT company/NN and/CC took/VBD up/RP a/AT position/NN on/IN a/AT hill/NN to/IN the/AT rear/NN ./pct
+Captain/NN Chandler/NP saw/VBD that/CS it/PPS was/BEDZ building/VBG up/RP strength/NN ./pct
+He/PPS assembled/VBD a/AT group/NN of/IN 25/CD men/NNS ,/pct composed/VBN of/IN wounded/VBN troopers/NNS awaiting/VBG evacuation/NN ,/pct the/AT company/NN clerk/NN ,/pct supply/NN men/NNS ,/pct cooks/NNS and/CC drivers/NNS ,/pct and/CC led/VBD them/PPO to/IN the/AT hill/NN ./pct
+One/CD of/IN the/AT more/QL seriously/RB wounded/VBN was/BEDZ Lieutenant/NN Carroll/NP ,/pct the/AT young/JJ officer/NN bucking/VBG for/IN the/AT Regular/JJ Army/NN ./pct
+Chandler/NP left/VBD Carroll/NP at/IN the/AT bottom/NN of/IN the/AT hill/NN to/TO direct/VB any/DTI reinforcements/NNS he/PPS could/MD find/VB to/IN the/AT fight/NN ./pct
+Then/RB Mel/NP Chandler/NP started/VBD up/IN the/AT hill/NN ./pct
+He/PPS took/VBD one/CD step/NN ,/pct two/CD ,/pct broke/VBD into/IN a/AT trot/NN and/CC then/RB into/IN a/AT run/NN ./pct
+The/AT first/OD thing/NN he/PPS knew/VBD the/AT words/NNS ``/pct Garryowen/NP ''/pct !/pct !/pct
+Burst/VBD from/IN his/PPg throat/NN ./pct
+His/PPg followers/NNS shouted/VBD the/AT old/JJ battle/NN cry/NN after/IN him/PPO and/CC charged/VBD the/AT hill/NN ,/pct firing/VBG as/CS they/PPSS ran/VBD ./pct
+The/AT Koreans/NPS fell/VBD back/RB ,/pct but/CC regrouped/VBD at/IN the/AT top/NN of/IN the/AT hill/NN and/CC pinned/VBD down/RP the/AT cavalrymen/NNS with/IN a/AT screen/NN of/IN fire/NN ./pct
+Chandler/NP ,/pct looking/VBG to/IN right/NR and/CC left/NR to/TO see/VB how/WRB his/PPg men/NNS were/BED faring/VBG ,/pct suddenly/RB saw/VBD another/DT figure/NN bounding/VBG up/IN the/AT hill/NN ,/pct hurling/VBG grenades/NNS and/CC hollering/VBG the/AT battle/NN cry/NN as/CS he/PPS ran/VBD ./pct
+It/PPS was/BEDZ Bob/NP Carroll/NP ,/pct who/WPS had/HVD suddenly/RB found/VBN himself/PPL imbued/VBN with/IN the/AT spirit/NN of/IN Garryowen/NP ./pct
+He/PPS had/HVD formed/VBN his/PPg own/JJ task/NN force/NN of/IN three/CD stragglers/NNS and/CC led/VBD them/PPO up/IN the/AT hill/NN in/IN a/AT Fighting/VBG Seventh/OD charge/NN ./pct
+Because/RB of/IN this/DT diversionary/JJ attack/NN the/AT main/JJS group/NN that/WPS had/HVD been/BEN pinned/VBN down/RP on/IN the/AT hill/NN was/BEDZ able/JJ to/TO surge/VB forward/RB again/RB ./pct
+But/CC an/AT enemy/NN grenade/NN hit/VBD Carroll/NP in/IN the/AT head/NN and/CC detonated/VBD simultaneously/RB ./pct
+He/PPS went/VBD down/RP like/CS a/AT wet/JJ rag/NN and/CC the/AT attackers/NNS hit/VB the/AT dirt/NN in/IN the/AT face/NN of/IN the/AT withering/VBG enemy/NN fire/NN ./pct
+Enemy/NN reinforcements/NNS came/VBD pouring/VBG down/RP ,/pct seeking/VBG a/AT soft/JJ spot/NN ./pct
+They/PPSS found/VBD it/PPO at/IN the/AT junction/NN between/IN Troops/NNS H/NP and/CC G/NP ,/pct and/CC prepared/VBD to/TO counterattack/VB ./pct
+Marvin/NP Goulding/NP saw/VBD what/WDT was/BEDZ happening/VBG ./pct
+He/PPS turned/VBD to/IN his/PPg platoon/NN ./pct
+``/pct Okay/UH ,/pct men/NNS ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct Follow/VB me/PPO ''/pct ./pct
+Goulding/NP leaped/VBD to/IN his/PPg feet/NNS and/CC started/VBD forward/RB ,/pct ``/pct Garryowen/NP ''/pct !/pct !/pct
+On/IN his/PPg lips/NNS ,/pct his/PPg men/NNS following/VBG ./pct
+But/CC the/AT bullets/NNS whacked/VBD home/NR before/CS he/PPS finished/VBD his/PPg battle/NN cry/NN and/CC Marvin/NP Goulding/NP fell/VBD dead/JJ ./pct
+For/IN an/AT instant/NN his/PPg men/NNS hesitated/VBD ,/pct unable/JJ to/TO believe/VB that/CS their/PPg lieutenant/NN ,/pct the/AT most/QL popular/JJ officer/NN in/IN the/AT regiment/NN ,/pct was/BEDZ dead/JJ ./pct
+Then/RB they/PPSS let/VB out/RP a/AT bellow/NN of/IN anguish/NN and/CC rage/NN and/CC ,/pct cursing/VBG ,/pct screaming/VBG and/CC hollering/VBG ``/pct Garryowen/NP ''/pct !/pct !/pct
+They/PPSS charged/VBD into/IN the/AT enemy/NN like/CS wild/JJ men/NNS ./pct
+That/WPS finished/VBD the/AT job/NN that/WPS Captain/NN Chandler/NP and/CC Lieutenant/NN Carroll/NP had/HVD begun/VBN ./pct
+Goulding's/NPg platoon/NN pushed/VBD back/RB the/AT enemy/NN soldiers/NNS and/CC broke/VBD up/RP the/AT timing/NN of/IN the/AT entire/JJ enemy/NN attack/NN ./pct
+Reinforcements/NNS came/VBD up/RP quickly/RB to/TO take/VB advantage/NN of/IN the/AT opening/NN made/VBN by/IN Goulding's/NPg platoon/NN ./pct
+The/AT North/JJ Koreans/NPS threw/VBD away/RB their/PPg guns/NNS and/CC fled/VBD across/IN the/AT rice/NN paddies/NNS ./pct
+Artillery/NN and/CC air/NN strikes/NNS were/BED called/VBN in/RP to/TO kill/VB them/PPO by/IN the/AT hundreds/NNS ./pct
+Though/CS Bob/NP Carroll/NP seemed/VBD to/TO have/HV had/HVN his/PPg head/NN practically/RB blown/VBN off/RP by/IN the/AT exploding/VBG grenade/NN ,/pct he/PPS lived/VBD ./pct
+Today/NR he/PPS is/BEZ a/AT major/NN --/pct in/IN the/AT Regular/JJ Army/NN ./pct
+So/QL filled/VBN was/BEDZ Mel/NP Chandler/NP with/IN the/AT spirit/NN of/IN Garryowen/NP that/CS after/IN Korea/NP was/BEDZ over/RP ,/pct he/PPS took/VBD on/RP the/AT job/NN of/IN writing/VBG the/AT complete/JJ history/NN of/IN the/AT regiment/NN ./pct
+After/IN years/NNS of/IN digging/VBG ,/pct nights/NNS and/CC weekends/NNS ,/pct he/PPS put/VBD together/RB the/AT big/JJ ,/pct profusely/RB illustrated/VBN book/NN ,/pct Of/IN Garryowen/NP And/CC Glory/NN ,/pct which/WDT is/BEZ probably/RB the/AT most/QL complete/JJ history/NN of/IN any/DTI military/JJ unit/NN ./pct
+The/AT battle/NN of/IN the/AT Naktong/NP River/NN is/BEZ just/RB one/CD example/NN of/IN how/WRB the/AT battle/NN cry/NN and/CC the/AT spirit/NN of/IN The/AT Fighting/VBG Seventh/OD have/HV paid/VBN off/RP ./pct
+For/IN nearly/RB a/AT century/NN the/AT cry/NN has/HVZ never/RB failed/VBN to/TO rally/VB the/AT fighting/VBG men/NNS of/IN the/AT regiment/NN ./pct
+Take/VB the/AT case/NN of/IN Major/NN Marcus/NP A./NP Reno/NP ,/pct who/WPS survived/VBD the/AT Battle/NN of/IN The/AT Little/JJ Big/JJ Horn/NN in/IN 1876/CD ./pct
+From/IN the/AT enlisted/VBN men/NNS he/PPS pistol-whipped/VBD to/IN the/AT subordinate/JJ officer/NN whose/WPg wife/NN he/PPS tried/VBD to/TO rape/VB ,/pct a/AT lot/NN of/IN men/NNS had/HVD plenty/NN of/IN reason/NN heartily/RB to/TO dislike/VB Marcus/NP Reno/NP ./pct
+Many/AP of/IN his/PPg fellow/NN officers/NNS refused/VBD to/TO speak/VB to/IN him/PPO ./pct
+But/CC when/WRB a/AT board/NN of/IN inquiry/NN was/BEDZ called/VBN to/TO look/VB into/IN the/AT charges/NNS of/IN cowardice/NN made/VBN against/IN him/PPO ,/pct the/AT men/NNS who/WPS had/HVD seen/VBN Reno/NP leave/VB the/AT battlefield/NN and/CC the/AT officer/NN who/WPS had/HVD heard/VBN Reno/NP suggest/VB that/CS the/AT wounded/VBN be/BE left/VBN to/TO be/BE tortured/VBN by/IN the/AT Sioux/NPS ,/pct refused/VBD to/TO say/VB a/AT harsh/JJ word/NN against/IN him/PPO ./pct
+He/PPS was/BEDZ a/AT member/NN of/IN The/AT Fighting/VBG Seventh/OD ./pct
+Although/CS it/PPS was/BEDZ at/IN the/AT Battle/NN of/IN The/AT Little/JJ Horn/NN ,/pct about/IN which/WDT more/AP words/NNS have/HV been/BEN written/VBN than/CS any/DTI other/AP battle/NN in/IN American/JJ history/NN ,/pct that/CS the/AT 7th/OD Cavalry/NN first/RB made/VBD its/PPg mark/NN in/IN history/NN ,/pct the/AT regiment/NN was/BEDZ ten/CD years/NNS old/JJ by/IN then/RB ./pct
+Brevet/JJ Major/NN General/NN George/NP Armstrong/NP Custer/NP was/BEDZ the/AT regiment's/NNg first/OD permanent/JJ commander/NN and/CC ,/pct like/CS such/JJ generals/NNS as/CS George/NP S./NP Patton/NP and/CC Terry/NP De/NP La/NP Mesa/NP Allen/NP in/IN their/PPg rise/NN to/IN military/JJ prominence/NN ,/pct Custer/NP was/BEDZ a/AT believer/NN in/IN blood/NN and/CC guts/NNS warfare/NN ./pct
+During/IN the/AT Civil/JJ War/NN ,/pct Custer/NP ,/pct who/WPS achieved/VBD a/AT brilliant/JJ record/NN ,/pct was/BEDZ made/VBN brigadier/NN general/NN at/IN the/AT age/NN of/IN 23/CD ./pct
+He/PPS finished/VBD the/AT war/NN as/CS a/AT major/NN general/NN ,/pct commanding/VBG a/AT full/JJ division/NN ,/pct and/CC at/IN 25/CD was/BEDZ the/AT youngest/JJT major/NN general/NN in/IN the/AT history/NN of/IN the/AT U.S./NP Army/NN ./pct

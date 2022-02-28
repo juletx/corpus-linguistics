@@ -1,0 +1,185 @@
+Organization/NN :/pct
+In/IN this/DT publication/NN measurements/NNS of/IN interfacial/JJ angles/NNS of/IN crystals/NNS are/BER used/VBN to/TO classify/VB and/CC identify/VB chemical/NN substances/NNS ./pct
+T./NP V./NP Barker/NP ,/pct who/WPS developed/VBD the/AT classification-angle/NN system/NN ,/pct was/BEDZ about/RB to/TO begin/VB the/AT systematic/JJ compilation/NN of/IN the/AT index/NN when/WRB he/PPS died/VBD in/IN 1931/CD ./pct
+The/AT compilation/NN work/NN was/BEDZ undertaken/VBN by/IN a/AT number/NN of/IN interested/VBN crystallographers/NNS in/IN the/AT Department/NN of/IN Mineralogy/NN of/IN the/AT University/NN Museum/NN at/IN Oxford/NP ./pct
+Since/IN 1948/CD the/AT working/VBG headquarters/NN has/HVZ been/BEN the/AT Department/NN of/IN Geology/NN and/CC Mineralogy/NN ./pct
+Numerous/JJ cooperating/VBG individuals/NNS in/IN Great/JJ Britain/NP ,/pct Holland/NP ,/pct the/AT United/VBN States/NNS ,/pct and/CC Belgium/NP have/HV contributed/VBN editorially/RB or/CC by/IN making/VBG calculations/NNS ./pct
+Great/JJ interest/NN and/CC practical/JJ help/NN have/HV been/BEN given/VBN by/IN the/AT Barker/NP Index/NN Committee/NN ./pct
+Financial/JJ and/CC material/NN help/NN have/HV come/VBN from/IN academic/JJ ,/pct governmental/JJ ,/pct and/CC industrial/JJ organizations/NNS in/IN England/NP and/CC Holland/NP ./pct
+Editors/NNS for/IN Volumes/NNS 1/CD ,/pct and/CC 2/CD ,/pct were/BED M./NP W./NP Porter/NP and/CC the/AT late/JJ R./NP C./NP Spiller/NP ,/pct both/ABX of/IN Oxford/NP University/NN ./pct
+A/AT third/OD volume/NN remains/VBZ to/TO be/BE published/VBN ./pct
+Substances/NNS :/pct
+Volume/NN 1/CD ,/pct deals/VBZ with/IN 2991/CD compounds/NNS belonging/VBG to/IN the/AT tetragonal/JJ ,/pct hexagonal/JJ and/CC trigonal/JJ ,/pct and/CC orthorhombic/JJ systems/NNS ;/pct ;/pct
+and/CC Volume/NN 2/CD ,/pct ,/pct with/IN about/RB 3500/CD monoclinic/JJ substances/NNS ./pct
+Volume/NN 3/CD ,/pct ,/pct in/IN preparation/NN ,/pct will/MD treat/VB the/AT anorthic/JJ compounds/NNS described/VBN in/IN Groth's/NPg Chemische/JJ Krystallographie/NN ./pct
+Properties/NNS :/pct
+The/AT Barker/NP system/NN is/BEZ based/VBN on/IN the/AT use/NN of/IN the/AT smallest/JJT number/NN of/IN interfacial/JJ angles/NNS necessary/JJ for/IN indexing/VBG purposes/NNS ./pct
+Other/AP morphological/JJ ,/pct physical/JJ ,/pct and/CC optical/JJ property/NN values/NNS are/BER also/RB given/VBN ./pct
+Sources/NNS of/IN data/NN :/pct
+The/AT index/NN is/BEZ essentially/RB a/AT new/JJ treatment/NN of/IN previously/RB compiled/VBN morphological/JJ data/NNS ./pct
+Most/AP of/IN the/AT data/NNS used/VBN are/BER from/IN Groth's/NPg Chemische/JJ Krystallographie/NN ./pct
+Criticality/NN :/pct
+Every/AT calculation/NN has/HVZ been/BEN made/VBN independently/RB by/IN two/CD workers/NNS and/CC checked/VBN by/IN one/CD of/IN the/AT editors/NNS ./pct
+Use/NN of/IN nomenclature/NN ,/pct symbols/NNS ,/pct units/NNS ,/pct physical/JJ constants/NNS :/pct
+Accepted/VBN crystallographic/JJ symbolism/NN has/HVZ been/BEN used/VBN ;/pct ;/pct
+other/AP symbols/NNS related/VBN to/IN the/AT index/NN necessarily/RB have/HV been/BEN introduced/VBN ./pct
+Currency/NN :/pct
+This/DT publication/NN covers/VBZ the/AT old/JJ literature/NN (/pct Groth/NP )/pct ;/pct ;/pct
+there/EX is/BEZ no/AT mechanism/NN for/IN keeping/VBG the/AT volumes/NNS up/RP to/IN date/NN ./pct
+Format/NN :/pct
+The/AT publication/NN form/NN is/BEZ that/DT of/IN clothbound/JJ books/NNS ./pct
+The/AT data/NNS are/BER presented/VBN in/IN lists/NNS and/CC tables/NNS ./pct
+Part/NN 1/CD in/IN both/ABX volumes/NNS is/BEZ labeled/VBN ``/pct Introduction/NN And/CC Tables/NNS ''/pct ./pct
+The/AT tables/NNS include/VB those/DTS for/IN the/AT classification/NN angles/NNS ,/pct refractive/JJ indices/NNS ,/pct and/CC melting/VBG points/NNS of/IN the/AT various/AP types/NNS of/IN crystals/NNS ./pct
+Part/NN 2/CD of/IN Volume/NN 1/CD ,/pct and/CC Parts/NNS 2/CD and/CC 3/CD of/IN Volume/NN 2/CD ,/pct contain/VB the/AT crystal/NN descriptions/NNS ./pct
+These/DTS are/BER grouped/VBN into/IN sections/NNS according/RB to/IN the/AT crystal/NN system/NN ,/pct and/CC within/IN each/DT section/NN compounds/NNS are/BER arranged/VBN in/IN the/AT same/AP order/NN as/CS in/IN Groth's/NPg Chemische/JJ Krystallographie/NN ./pct
+An/AT alphabetical/JJ list/NN of/IN chemical/NN and/CC mineralogical/JJ names/NNS with/IN reference/NN numbers/NNS enables/VBZ one/PN to/TO find/VB a/AT particular/AP crystal/NN description/NN ./pct
+References/NNS to/IN the/AT data/NNS sources/NNS are/BER given/VBN in/IN the/AT crystal/NN descriptions/NNS ./pct
+Publication/NN and/CC distribution/NN :/pct
+The/AT Barker/NP index/NN is/BEZ published/VBN for/IN the/AT Barker/NP Index/NN Committee/NN by/IN W./NP Heffer/NP &/CC Sons/NNS ,/pct Ltd./VBN ,/pct 4/CD Petty/JJ Cury/NP ,/pct Cambridge/NP ,/pct England/NP ./pct
+Volume/NN 1/CD ,/pct containing/VBG Parts/NNS 1/CD and/CC 2/CD was/BEDZ published/VBN in/IN 1951/CD ;/pct ;/pct
+Volume/NN 2/CD ,/pct ,/pct in/IN three/CD parts/NNS ,/pct in/IN 1956/CD ./pct
+The/AT two/CD volumes/NNS are/BER available/JJ from/IN the/AT publisher/NN for/IN $16.80/NNS and/CC $28.00/NNS ,/pct respectively/RB ./pct
+2-2/CD ./pct
+Crystal/NN data/NNS
+organization/NN :/pct
+The/AT present/JJ edition/NN of/IN crystal/NN data/NNS was/BEDZ written/VBN by/IN J.D.H./NP Donnay/NP ,/pct the/AT Johns/NP Hopkins/NP University/NN ,/pct Baltimore/NP ,/pct Md./NP (/pct Part/NN 2/CD )/pct )/pct and/CC Werner/NP Nowacki/NP ,/pct University/NN of/IN Berne/NP ,/pct Switzerland/NP (/pct Part/NN 1/CD )/pct )/pct with/IN the/AT collaboration/NN of/IN Gabrielle/NP Donnay/NP ,/pct U./NP S./NP Geological/JJ Survey/NN ,/pct Washington/NP ,/pct D./NP C./NP ./pct
+Many/AP collaborators/NNS in/IN the/AT United/VBN States/NNS and/CC Switzerland/NP helped/VBD in/IN collecting/VBG and/CC assembling/VBG data/NNS ,/pct in/IN making/VBG calculations/NNS ,/pct and/CC in/IN editing/VBG ./pct
+Support/NN came/VBD from/IN academic/JJ and/CC industrial/JJ groups/NNS in/IN these/DTS two/CD countries/NNS ./pct
+The/AT Geological/JJ Society/NN of/IN America/NP gave/VBD a/AT grant-in-aid/NN to/TO complete/VB the/AT work/NN and/CC bore/VBD the/AT expenses/NNS of/IN publication/NN ./pct
+Preparation/NN of/IN a/AT second/OD edition/NN is/BEZ in/IN progress/NN under/IN the/AT sponsorship/NN of/IN the/AT Crystal/NN Data/NNS Committee/NN of/IN the/AT American/JJ Crystallographic/JJ Association/NN ./pct
+Coeditors/NNS are/BER J.D.H./NP Donnay/NP ,/pct G./NP E./NP Cox/NP of/IN Leeds/NP University/NN ,/pct and/CC Olga/NP Kennard/NP of/IN the/AT National/JJ Council/NN for/IN Medical/JJ Research/NN ,/pct London/NP ./pct
+Financial/JJ grants/NNS have/HV been/BEN received/VBN from/IN the/AT National/JJ Science/NN Foundation/NN and/CC the/AT (/pct British/JJ )/pct Institute/NN of/IN Physics/NN for/IN the/AT compilation/NN work/NN and/CC the/AT publication/NN costs/NNS ./pct
+The/AT continuity/NN of/IN the/AT project/NN is/BEZ suggested/VBN by/IN plans/NNS for/IN an/AT eventual/JJ third/OD edition/NN ./pct
+Substances/NNS :/pct
+Elements/NNS ,/pct alloys/NNS ,/pct inorganic/JJ and/CC organic/JJ compounds/NNS ./pct
+(/pct Metal/NN data/NNS will/MD not/NEG be/BE included/VBN in/IN the/AT second/OD edition/NN ,/pct since/CS these/DTS have/HV been/BEN collected/VBN independently/RB by/IN W./NP B./NP Pearson/NP ,/pct National/JJ Research/NN Council/NN ,/pct Ottawa/NP ,/pct and/CC published/VBN as/CS A/AT handbook/NN of/IN lattice/NN spacings/NNS and/CC structures/NNS of/IN metals/NNS and/CC alloys/NNS by/IN Pergamon/NP Press/NN ./pct
+)/pct properties/NNS :/pct
+Crystallographic/JJ data/NNS resulting/VBG mainly/RB from/IN X-ray/NN and/CC electron/NN diffraction/NN measurements/NNS are/BER presented/VBN ./pct
+Cell/NN dimensions/NNS ,/pct number/NN of/IN formula/NN units/NNS per/IN cell/NN ,/pct space/NN group/NN ,/pct and/CC specific/JJ gravity/NN are/BER given/VBN for/IN all/ABN substances/NNS ./pct
+For/IN some/DTI substances/NNS ,/pct auxiliary/JJ properties/NNS such/JJ as/CS the/AT melting/VBG point/NN are/BER given/VBN ./pct
+Sources/NNS of/IN data/NNS :/pct
+Part/NN 1/CD ,/pct of/IN the/AT present/AP edition/NN covers/VBZ the/AT literature/NN to/IN mid-1948/CD ;/pct ;/pct
+Part/NN 2/CD ,/pct ,/pct up/RP to/IN the/AT end/NN of/IN 1951/CD ./pct
+Much/AP of/IN the/AT material/NN comes/VBZ directly/RB from/IN secondary/JJ sources/NNS such/JJ as/CS Strukturbericht/NN ./pct
+Criticality/NN :/pct
+The/AT vast/JJ number/NN of/IN compounds/NNS to/TO be/BE covered/VBN ,/pct the/AT limited/VBN resources/NNS to/TO do/DO the/AT job/NN ,/pct and/CC the/AT immediate/JJ need/NN for/IN this/DT type/NN of/IN compilation/NN precluded/VBD a/AT thorough/JJ evaluation/NN of/IN all/ABN available/JJ data/NNS in/IN the/AT present/AP edition/NN ./pct
+Future/JJ editions/NNS may/MD be/BE more/QL critical/JJ ./pct
+Use/NN of/IN nomenclature/NN ,/pct symbols/NNS ,/pct units/NNS ,/pct physical/JJ constants/NNS :/pct
+Since/CS Parts/NNS 1/CD ,/pct and/CC 2/CD ,/pct were/BED prepared/VBN independently/RB ,/pct the/AT abbreviation/NN schemes/NNS and/CC the/AT chemical/NN symbols/NNS used/VBN differ/VB in/IN the/AT two/CD parts/NNS ./pct
+The/AT second/OD edition/NN should/MD have/HV greater/JJR uniformity/NN ./pct
+Currency/NN :/pct
+A/AT second/OD edition/NN is/BEZ in/IN preparation/NN ,/pct and/CC there/EX are/BER long/JJ range/NN plans/NNS for/IN a/AT third/OD ./pct
+Format/NN :/pct
+Data/NNS in/IN the/AT present/AP edition/NN are/BER presented/VBN in/IN tables/NNS and/CC lists/NNS ./pct
+Part/NN 1/CD ,/pct deals/VBZ with/IN the/AT classification/NN of/IN crystalline/JJ substances/NNS by/IN space/NN groups/NNS and/CC is/BEZ not/NEG a/AT numerical/JJ data/NNS compilation/NN ./pct
+The/AT compounds/NNS are/BER divided/VBN according/RB to/IN composition/NN into/IN seven/CD categories/NNS ./pct
+Part/NN 2/CD ,/pct contains/VBZ determinative/JJ tables/NNS for/IN the/AT identification/NN of/IN crystalline/JJ substances/NNS ./pct
+These/DTS are/BER arranged/VBN according/RB to/IN crystal/NN system/NN ./pct
+There/EX are/BER formula/NN and/CC name/NN indexes/NNS covering/VBG both/ABX parts/NNS ./pct
+References/NNS for/IN Part/NN 1/CD ,/pct are/BER given/VBN at/IN the/AT end/NN and/CC for/IN Part/NN 2/CD ,/pct in/IN the/AT tables/NNS ./pct
+Publication/NN and/CC distribution/NN :/pct
+The/AT present/AP edition/NN of/IN crystal/NN data/NN (/pct Af/NN )/pct ,/pct published/VBN in/IN 1954/CD as/CS Memoir/NN 60/CD of/IN the/AT Geological/JJ Society/NN of/IN America/NP ,/pct is/BEZ now/RB out/RP of/IN print/NN ./pct
+The/AT manuscript/NN of/IN the/AT second/OD edition/NN will/MD probably/RB be/BE ready/JJ by/IN the/AT end/NN of/IN 1960/CD ./pct
+2-3/CD ./pct
+Crystal/NN Structures/NNS
+organization/NN :/pct
+The/AT author/NN of/IN Crystal/NN Structures/NNS is/BEZ Ralph/NP W.G./NP Wyckoff/NP ,/pct University/NN of/IN Arizona/NP ,/pct Tucson/NP ,/pct Arizona/NP ./pct
+The/AT first/OD section/NN of/IN this/DT publication/NN appeared/VBD in/IN 1948/CD and/CC the/AT last/AP supplement/NN in/IN 1960/CD ./pct
+Though/CS now/RB complete/JJ ,/pct the/AT publication/NN is/BEZ included/VBN in/IN this/DT directory/NN because/RB of/IN its/PPg importance/NN and/CC because/RB of/IN the/AT long-term/NN nature/NN of/IN its/PPg preparation/NN ./pct
+Substances/NNS :/pct
+Elements/NNS ,/pct inorganic/JJ and/CC organic/JJ compounds/NNS (/pct no/AT alloys/NNS )/pct ./pct
+Properties/NNS :/pct
+The/AT data/NNS presented/VBN are/BER derived/VBN almost/QL entirely/RB from/IN X-ray/NN diffraction/NN measurements/NNS and/CC include/VB atomic/JJ coordinates/NNS ,/pct cell/NN dimensions/NNS ,/pct and/CC atomic/JJ and/CC ionic/JJ radii/NNS ./pct
+Sources/NNS of/IN data/NNS :/pct
+Published/VBN literature/NN ./pct
+Criticality/NN :/pct
+The/AT aim/NN was/BEDZ to/TO state/VB the/AT results/NNS of/IN all/ABN available/JJ determinations/NNS of/IN atomic/JJ positions/NNS in/IN crystals/NNS ./pct
+Presumably/RB the/AT tabulated/VBN data/NNS are/BER best/JJT available/JJ values/NNS ./pct
+The/AT critical/JJ comments/NNS in/IN the/AT textual/JJ sections/NNS of/IN this/DT publication/NN are/BER invaluable/JJ ./pct
+Use/NN of/IN nomenclature/NN ,/pct symbols/NNS ,/pct units/NNS ,/pct physical/JJ constants/NNS :/pct
+The/AT terminology/NN used/VBN conforms/VBZ to/IN that/DT of/IN Internationale/JJ Tabellen/NNS Zur /None Bestimmung/NN Von/IN Kristallstrukturen/NNS ./pct
+Currency/NN :/pct
+During/IN the/AT years/NNS of/IN publication/NN ,/pct supplement/NN and/CC replacement/NN sheets/NNS were/BED issued/VBN periodically/RB ./pct
+Coverage/NN of/IN the/AT literature/NN extends/VBZ through/IN 1954/CD and/CC includes/VBZ some/DTI 1955/CD references/NNS ./pct
+It/PPS is/BEZ to/TO be/BE hoped/VBN that/CS some/DTI way/NN will/MD be/BE found/VBN to/TO keep/VB this/DT important/JJ work/NN current/JJ ./pct
+Format/NN :/pct
+The/AT publication/NN form/NN is/BEZ that/DT of/IN loose-leaf/NN sheets/NNS (/pct Af/NN )/pct contained/VBN in/IN binders/NNS ./pct
+The/AT book/NN is/BEZ divided/VBN into/IN chapters/NNS and/CC in/IN each/DT chapter/NN the/AT material/NN is/BEZ grouped/VBN into/IN Text/NN ,/pct Tables/NNS ,/pct Illustrations/NNS ,/pct and/CC Bibliography/NN ./pct
+Each/DT group/NN is/BEZ paginated/VBN separately/RB ;/pct ;/pct
+numbers/NNS sometimes/RB followed/VBN by/IN letters/NNS are/BER used/VBN so/CS that/CS insertions/NNS can/MD be/BE made/VBN ./pct
+Inorganic/JJ structures/NNS are/BER found/VBN in/IN Chapters/NNS 2/CD -/pct 12/CD ,/pct organic/JJ structures/NNS in/IN Chapters/NNS 13/CD -/pct 15/CD ./pct
+Within/IN each/DT chapter/NN an/AT effort/NN has/HVZ been/BEN made/VBN to/TO group/VB together/RB those/DTS crystals/NNS with/IN similar/JJ structures/NNS ./pct
+There/EX are/BER three/CD indexes/NNS ,/pct i.e./RB ,/pct an/AT inorganic/JJ formula/NN index/NN ,/pct a/AT mineralogical/JJ name/NN index/NN ,/pct and/CC a/AT name/NN index/NN to/IN organic/JJ compounds/NNS ./pct
+Publication/NN and/CC distribution/NN :/pct
+Publisher/NN of/IN Crystal/NN Structures/NNS is/BEZ Interscience/NP Publishers/NNS ,/pct 250/CD Fifth/OD Avenue/NN ,/pct New/JJ York/NP 1/CD ,/pct N./NP Y./NP ./pct
+The/AT work/NN consists/VBZ of/IN four/CD sections/NNS and/CC 5/CD supplements/NNS ./pct
+Price/NN of/IN the/AT complete/JJ work/NN including/IN all/ABN necessary/JJ binders/NNS is/BEZ $148.50/NNS ./pct
+2-4/CD ./pct
+Dana's/NPg System/NN Of/IN Mineralogy/NN
+organization/NN :/pct
+Six/CD editions/NNS of/IN James/NP Dwight/NP Dana's/NPg System/NN appeared/VBD between/IN 1837/CD and/CC 1892/CD ./pct
+In/IN 1915/CD Edward/NP S./NP Dana/NP ,/pct editor/NN of/IN the/AT sixth/OD edition/NN ,/pct asked/VBD W./NP E./NP Ford/NP of/IN Yale/NP University/NN to/TO prepare/VB a/AT seventh/OD edition/NN of/IN his/PPg father's/NNg work/NN ./pct
+A/AT number/NN of/IN people/NNS became/VBD involved/VBN in/IN the/AT preparation/NN but/CC work/NN was/BEDZ slow/JJ until/IN 1937/CD ./pct
+In/IN that/DT year/NN a/AT grant/NN was/BEDZ obtained/VBN from/IN the/AT Penrose/NP Fund/NN of/IN the/AT Geological/JJ Society/NN of/IN America/NP to/TO finance/VB additional/JJ full-time/JJ workers/NNS ./pct
+Money/NN was/BEDZ also/RB advanced/VBN by/IN the/AT publishers/NNS ,/pct John/NP Wiley/NP &/CC Sons/NNS ,/pct Inc./VBN ./pct
+Volume/NN 1/CD ,/pct was/BEDZ completed/VBN in/IN 1941/CD and/CC published/VBN in/IN 1944/CD ./pct
+The/AT editors/NNS of/IN this/DT volume/NN and/CC Volume/NN 2/CD ,/pct were/BED the/AT late/JJ Charles/NP Palache/NP ,/pct Clifford/NP Frondel/NP ,/pct and/CC the/AT late/JJ Harry/NP Berman/NP ,/pct all/ABN of/IN Harvard/NP University/NN ./pct
+Work/NN on/IN Volume/NN 2/CD ,/pct was/BEDZ begun/VBN in/IN 1941/CD ,/pct interrupted/VBN by/IN the/AT war/NN in/IN 1942/CD ,/pct and/CC resumed/VBN in/IN 1945/CD ./pct
+The/AT volume/NN was/BEDZ completed/VBN in/IN 1950/CD and/CC published/VBN in/IN 1951/CD ./pct
+A/AT supplementary/JJ grant/NN from/IN the/AT Geological/JJ Society/NN of/IN America/NP helped/VBD finance/VB its/PPg publication/NN ./pct
+Besides/IN the/AT editors/NNS there/EX were/BED many/AP contributors/NNS in/IN the/AT United/VBN States/NNS and/CC Great/JJ Britain/NP to/IN Volumes/NNS 1/CD ,/pct and/CC 2/CD ./pct
+W./NP E./NP Ford/NP ,/pct for/IN example/NN ,/pct continued/VBD to/TO supply/VB data/NNS on/IN the/AT occurrence/NN of/IN minerals/NNS until/IN his/PPg death/NN in/IN 1939/CD ./pct
+Volume/NN 3/CD ,/pct is/BEZ nearing/VBG completion/NN and/CC there/EX are/BER plans/NNS to/TO revise/VB Volume/NN 1/CD ./pct
+The/AT project/NN is/BEZ currently/RB supported/VBN by/IN Harvard/NP University/NN ./pct
+Substances/NNS :/pct
+minerals/NNS ./pct
+Properties/NNS :/pct
+Crystallographic/JJ ,/pct physical/JJ ,/pct optical/JJ ,/pct and/CC chemical/NN properties/NNS ./pct
+The/AT crystallographic/JJ data/NNS given/VBN include/VB interaxial/JJ angles/NNS and/CC unit/NN cell/NN dimensions/NNS ;/pct ;/pct
+the/AT physical/JJ property/NN values/NNS include/VB hardness/NN ,/pct melting/VBG point/NN ,/pct and/CC specific/JJ gravity/NN ./pct
+Sources/NNS of/IN data/NNS :/pct
+Almost/QL entirely/RB original/JJ articles/NNS in/IN journals/NNS ;/pct ;/pct
+abstracts/NNS and/CC other/AP compilations/NNS on/IN rare/JJ occasions/NNS when/WRB original/JJ papers/NNS are/BER not/NEG available/JJ ./pct
+Criticality/NN :/pct
+All/ABN information/NN is/BEZ carefully/RB appraised/VBN and/CC uncertain/JJ facts/NNS are/BER designated/VBN by/IN (/pct '?'/pct ./pct
+)/pct An/AT authentic/JJ diffraction/NN pattern/NN is/BEZ always/RB obtained/VBN and/CC optical/JJ properties/NNS are/BER frequently/RB checked/VBN ./pct
+Use/NN of/IN nomenclature/NN ,/pct symbols/NNS ,/pct units/NNS ,/pct physical/JJ constants/NNS :/pct
+Recommendations/NNS of/IN international/JJ authorities/NNS ,/pct such/JJ as/CS the/AT International/JJ Union/NN of/IN Crystallography/NN ,/pct are/BER followed/VBN ./pct
+There/EX is/BEZ a/AT complete/JJ synonymy/NN at/IN the/AT beginning/NN of/IN each/DT species/NN description/NN ./pct
+Currency/NN :/pct
+Currency/NN in/IN the/AT usual/JJ sense/NN cannot /None be/BE maintained/VBN in/IN an/AT undertaking/NN of/IN this/DT sort/NN ./pct
+Format/NN :/pct
+The/AT data/NNS are/BER presented/VBN in/IN text/NN and/CC tables/NNS in/IN bound/VBN volumes/NNS ./pct
+Volume/NN 1/CD ,/pct of/IN the/AT seventh/OD edition/NN contains/VBZ an/AT introduction/NN and/CC data/NNS for/IN eight/CD classes/NNS of/IN minerals/NNS ;/pct ;/pct
+Volume/NN 2/CD ,/pct contains/VBZ data/NNS for/IN forty-two/CD classes/NNS ./pct
+References/NNS are/BER given/VBN at/IN the/AT end/NN of/IN each/DT mineral/NN description/NN and/CC a/AT general/JJ index/NN is/BEZ given/VBN at/IN the/AT end/NN of/IN each/DT volume/NN ./pct
+There/EX will/MD be/BE a/AT comprehensive/JJ index/NN in/IN Volume/NN 3/CD ,/pct covering/VBG all/ABN three/CD volumes/NNS ./pct
+Publication/NN and/CC distribution/NN :/pct
+Volume/NN 1/CD (/pct (/pct Af/NN )/pct of/IN the/AT seventh/OD edition/NN of/IN Dana's/NPg System/NN Of/IN Mineralogy/NN was/BEDZ published/VBN in/IN 1944/CD and/CC Volume/NN 2/CD (/pct (/pct Af/NN )/pct in/IN 1951/CD by/IN John/NP Wiley/NP &/CC Sons/NNS ,/pct Inc./VBN ,/pct New/JJ York/NP ,/pct N./NP Y./NP ./pct
+(/pct The/AT association/NN of/IN Wiley/NP &/NP Sons/NNS with/IN the/AT Dana/NP Mineralogies/NNS dates/VBZ back/RB to/IN 1844/CD when/WRB they/PPSS published/VBD the/AT second/OD edition/NN of/IN the/AT system/NN ./pct
+)/pct The/AT two/CD volumes/NNS are/BER available/JJ from/IN the/AT publisher/NN for/IN $14.00/NNS and/CC $16.00/NNS ,/pct respectively/RB ./pct
+2-5/CD ./pct
+The/AT Groth/NP Institute/NN
+organization/NN :/pct
+``/pct The/AT Groth/NP Institute/NN ''/pct ,/pct which/WDT was/BEDZ established/VBN in/IN 1958/CD ,/pct is/BEZ a/AT group/NN activity/NN affiliated/VBN with/IN the/AT Physics/NN Department/NN of/IN The/AT Pennsylvania/NP State/NN University/NN ,/pct University/NN Park/NN ,/pct Pa./NP ./pct
+Ray/NP Pepinsky/NP is/BEZ the/AT Director/NN ./pct
+The/AT Institute/NN derives/VBZ its/PPg name/NN from/IN Paul/NP Von/NP Groth's/NPg Chemische/JJ Krystallographie/NN ,/pct a/AT five-volume/JJ work/NN which/WDT appeared/VBD between/IN 1906/CD and/CC 1919/CD ./pct
+The/AT resident/JJ staff/NN is/BEZ large/JJ and/CC consists/VBZ of/IN professional/JJ assistants/NNS ,/pct graduate/NN students/NNS ,/pct abstractors/NNS ,/pct librarian/NN ,/pct technical/JJ editor/NN ,/pct machine/NN operators/NNS ,/pct secretarial/JJ help/NN ,/pct and/CC others/NNS ./pct
+There/EX are/BER also/RB corresponding/VBG members/NNS and/CC outside/JJ advisory/JJ groups/NNS ./pct
+The/AT Air/NN Force/NN Office/NN of/IN Scientific/JJ Research/NN has/HVZ provided/VBN financial/JJ assistance/NN in/IN the/AT early/JJ stages/NNS of/IN the/AT Institute's/NNg program/NN ./pct
+Substances/NNS :/pct
+All/ABN crystalline/JJ substances/NNS and/CC other/AP solid-state/NN materials/NNS ./pct
+Properties/NNS :/pct
+The/AT aim/NN is/BEZ to/TO collect/VB a/AT very/QL broad/JJ range/NN of/IN physical/JJ ,/pct chemical/NN ,/pct morphological/JJ ,/pct and/CC structural/JJ data/NNS for/IN crystals/NNS on/IN an/AT encyclopedic/JJ scale/NN and/CC to/TO seek/VB all/ABN possible/JJ useful/JJ and/CC revealing/VBG correlations/NNS of/IN properties/NNS with/IN internal/JJ structure/NN ./pct
+Sources/NNS of/IN data/NNS :/pct
+The/AT first/OD stage/NN of/IN operation/NN has/HVZ centered/VBN on/IN the/AT literature/NN imaging/NN of/IN critical/JJ or/CC summarizing/VBG tabulations/NNS such/JJ as/CS the/AT Barker/NP Index/NN ./pct
+Coverage/NN of/IN primary/JJ literature/NN will/MD follow/VB ./pct
+Unpublished/JJ data/NNS will/MD be/BE available/JJ to/IN the/AT Groth/NP institute/NN from/IN cooperating/VBG groups/NNS and/CC individuals/NNS ./pct
+Criticality/NN :/pct
+Critical/JJ evaluation/NN of/IN all/ABN data/NNS compiled/VBN is/BEZ not/NEG a/AT primary/JJ aim/NN of/IN this/DT project/NN ./pct
+However/RB ,/pct the/AT proposed/VBN correlation/NN of/IN the/AT many/AP interrelated/VBN properties/NNS of/IN crystals/NNS will/MD reveal/VB discrepancies/NNS in/IN the/AT recorded/VBN data/NNS and/CC suggest/VB areas/NNS for/IN reinvestigation/NN ./pct
+In/IN addition/NN ,/pct the/AT availability/NN of/IN computers/NNS will/MD permit/VB recalculation/NN and/CC refinement/NN of/IN much/AP structural/JJ information/NN ./pct
+Use/NN of/IN nomenclature/NN ,/pct symbols/NNS ,/pct units/NNS ,/pct physical/JJ constants/NNS :/pct
+For/IN punched-card/NN or/CC tape/NN storage/NN of/IN information/NN all/ABN literature/NN values/NNS must/MD be/BE conformed/VBN to/IN a/AT common/JJ language/NN ./pct
+In/IN this/DT way/NN a/AT degree/NN of/IN unification/NN of/IN nomenclature/NN ,/pct symbols/NNS ,/pct and/CC units/NNS will/MD be/BE realized/VBN ./pct

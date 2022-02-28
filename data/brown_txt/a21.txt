@@ -1,0 +1,112 @@
+St./NP Johns/NP ,/pct Mich./NP ,/pct April/NP 19/CD ./pct
+--/pct A/AT jury/NN of/IN seven/CD men/NNS and/CC five/CD women/NNS found/VBD 21-year-old/JJ Richard/NP Pohl/NP guilty/JJ of/IN manslaughter/NN yesterday/NR in/IN the/AT bludgeon/NN slaying/NN of/IN Mrs./NP Anna/NP Hengesbach/NP ./pct
+Pohl/NP received/VBD the/AT verdict/NN without/IN visible/JJ emotion/NN ./pct
+He/PPS returned/VBD to/IN his/PPg cell/NN in/IN the/AT county/NN jail/NN ,/pct where/WRB he/PPS has/HVZ been/BEN held/VBN since/CS his/PPg arrest/NN last/AP July/NP ,/pct without/IN a/AT word/NN to/IN his/PPg court-appointed/JJ attorney/NN ,/pct Jack/NP Walker/NP ,/pct or/CC his/PPg guard/NN ./pct
+Stepson/NN vindicated/VBN
+The/AT verdict/NN brought/VBD vindication/NN to/IN the/AT dead/JJ woman's/NNg stepson/NN ,/pct Vincent/NP Hengesbach/NP ,/pct 54/CD ,/pct who/WPS was/BEDZ tried/VBN for/IN the/AT same/AP crime/NN in/IN December/NP ,/pct 1958/CD ,/pct and/CC released/VBN when/WRB the/AT jury/NN failed/VBD to/TO reach/VB a/AT verdict/NN ./pct
+Mrs./NP Hengesbach/NP was/BEDZ killed/VBN on/IN Aug./NP 31/CD ,/pct 1958/CD ./pct
+Hengesbach/NP has/HVZ been/BEN living/VBG under/IN a/AT cloud/NN ever/RB since/IN ./pct
+When/WRB the/AT verdict/NN came/VBD in/RP against/IN his/PPg young/JJ neighbor/NN ,/pct Hengesbach/NP said/VBD :/pct
+``/pct I/PPSS am/BEM very/QL pleased/VBN to/TO have/HV the/AT doubt/NN of/IN suspicion/NN removed/VBN ./pct
+Still/RB ,/pct I/PPSS don't /None wish/VB to/TO appear/VB happy/JJ at/IN somebody/PN else's/RBg misfortune/NN ''/pct ./pct
+Lives/VBZ on/IN welfare/NN
+Hengesbach/NP ,/pct who/WPS has/HVZ been/BEN living/VBG on/IN welfare/NN recently/RB ,/pct said/VBD he/PPS hopes/VBZ to/TO rebuild/VB the/AT farm/NN which/WDT was/BEDZ settled/VBN by/IN his/PPg grandfather/NN in/IN Westphalia/NP ,/pct 27/CD miles/NNS southwest/NR of/IN here/RB ./pct
+Hengesbach/NP has/HVZ been/BEN living/VBG in/IN Grand/JJ Ledge/NN since/CS his/PPg house/NN and/CC barn/NN were/BED burned/VBN down/RP after/CS his/PPg release/NN in/IN 1958/CD ./pct
+Pohl/NP confessed/VBD the/AT arson/NN while/CS being/BEG questioned/VBN about/IN several/AP fires/NNS in/IN the/AT Westphalia/NP area/NN by/IN State/NN Police/NNS ./pct
+He/PPS also/RB admitted/VBD killing/VBG Mrs./NP Hengesbach/NP ./pct
+However/WRB ,/pct the/AT confession/NN ,/pct which/WDT was/BEDZ the/AT only/AP evidence/NN against/IN him/PPO ,/pct was/BEDZ retracted/VBN before/IN the/AT trial/NN ./pct
+Charges/NNS in/IN doubt/NN
+Assistant/NN Prosecutor/NN Fred/NP Lewis/NP ,/pct who/WPS tried/VBD both/ABX the/AT Hengesbach/NP and/CC Pohl/NP cases/NNS ,/pct said/VBD he/PPS did/DOD not/NEG know/VB what/WDT would/MD be/BE done/VBN about/IN two/CD arson/NN charges/NNS pending/JJ against/IN Pohl/NP ./pct
+Circuit/NN Judge/NN Paul/NP R./NP Cash/NP did/DOD not/NEG set/VB a/AT date/NN for/IN sentencing/VBG ./pct
+Pohl/NP could/MD receive/VB from/IN 1/CD to/IN 15/CD years/NNS in/IN prison/NN or/CC probation/NN ./pct
+Walker/NP said/VBD he/PPS was/BEDZ considering/VBG filing/VBG a/AT motion/NN for/IN a/AT new/JJ trial/NN which/WDT would/MD contend/VB that/CS the/AT verdict/NN was/BEDZ against/IN the/AT weight/NN of/IN the/AT evidence/NN and/CC that/CS there/EX were/BED several/AP errors/NNS in/IN trial/NN procedure/NN ./pct
+Locked/VBN in/IN motel/NN
+A/AT verdict/NN against/IN Pohl/NP came/VBD at/IN 4:05/CD p.m./RB after/IN almost/RB 13-1/2/CD hours/NNS of/IN deliberation/NN ./pct
+The/AT jury/NN ,/pct which/WDT was/BEDZ locked/VBN up/RP in/IN a/AT motel/NN overnight/RB ,/pct was/BEDZ canvassed/VBN at/IN the/AT request/NN of/IN Walker/NP after/CS the/AT verdict/NN was/BEDZ announced/VBN ./pct
+The/AT jury/NN foreman/NN ,/pct Mrs./NP Olive/NP Heideman/NP ,/pct of/IN rural/JJ Elsie/NP ,/pct said/VBD that/CS a/AT ballot/NN was/BEDZ not/NEG even/RB taken/VBN until/IN yesterday/NR morning/NN and/CC that/CS the/AT first/OD day/NN of/IN deliberation/NN was/BEDZ spent/VBN in/IN going/VBG over/IN the/AT evidence/NN ./pct
+She/PPS said/VBD the/AT jurors/NNS agreed/VBD that/CS Pohl's/NPg confession/NN was/BEDZ valid/JJ ./pct
+The/AT jury/NN asked/VBD Judge/NN Cash/NP to/TO send/VB in/RP his/PPg written/VBN definition/NN of/IN the/AT difference/NN between/IN first/OD and/CC second-degree/NN murder/NN and/CC manslaughter/NN ./pct
+The/AT verdict/NN came/VBD three/CD hours/NNS later/RBR ./pct
+Some/DTI 30/CD spectators/NNS remained/VBD in/IN the/AT court/NN during/IN the/AT day/NN and/CC were/BED on/IN hand/NN to/TO hear/VB the/AT verdict/NN read/VBN ./pct
+The/AT trial/NN had/HVD packed/VBN the/AT large/JJ courtroom/NN for/IN more/AP than/CS a/AT week/NN ./pct
+A/AT Sterling/NP Township/NN family/NN of/IN six/CD surviving/VBG children/NNS ,/pct whose/WPg mother/NN died/VBD yesterday/NR as/CS the/AT aftermath/NN to/IN a/AT fire/NN that/WPS also/RB killed/VBD one/CD of/IN the/AT children/NNS ,/pct found/VBD today/NR they/PPSS had/HVD the/AT help/NN of/IN hundreds/NNS of/IN neighbors/NNS and/CC school/NN friends/NNS ./pct
+While/CS neighbor/NN women/NNS assumed/VBD some/DTI of/IN the/AT dead/JJ mother's/NNg duties/NNS ,/pct fund-raising/NN events/NNS were/BED being/BEG planned/VBN by/IN a/AT homeowners/NNS association/NN and/CC a/AT student/NN council/NN for/IN the/AT hard-hit/JJ Henry/NP Kowalski/NP family/NN ,/pct 34220/CD Viceroy/NP ./pct
+Mrs./NP Eleanor/NP Kowalski/NP ,/pct 42/CD ,/pct died/VBD yesterday/NR afternoon/NN in/IN Holy/JJ Cross/NN Hospital/NN of/IN burns/NNS suffered/VBN in/IN a/AT fire/NN that/WPS followed/VBD a/AT bottled/VBN gas/NN explosion/NN Saturday/NR night/NN at/IN the/AT flat/NN of/IN her/PPO widowed/VBN mother/NN ,/pct Mrs./NP Mary/NP Pankowski/NP ,/pct in/IN the/AT adjoining/VBG suburb/NN of/IN Warren/NP ./pct
+Services/NNS tomorrow/NR
+Funeral/NN services/NNS for/IN Mrs./NP Kowalski/NP and/CC her/PPg daughter/NN ,/pct Christine/NP ,/pct 11/CD ,/pct who/WPS died/VBD of/IN burns/NNS at/IN the/AT same/AP hospital/NN Monday/NR ,/pct have/HV been/BEN scheduled/VBN for/IN 10/CD a.m./RB tomorrow/NR in/IN St./NN Anne's/NPg Catholic/JJ Church/NN ,/pct 31978/CD Mound/NN ,/pct in/IN Warren/NP ./pct
+The/AT mother/NN and/CC daughter/NN ,/pct who/WPS will/MD be/BE buried/VBN side/NN by/IN side/NN in/IN Mt./NN Olivet/NP Cemetery/NN ,/pct rested/VBD together/RB today/NR in/IN closed/VBN caskets/NNS at/IN the/AT Lyle/NP Elliott/NP Funeral/NN Home/NN ,/pct 31730/CD Mound/NN ,/pct Warren/NP ./pct
+Mrs./NP Pankowski/NP ,/pct 61/CD ,/pct remained/VBD in/IN Holy/JJ Cross/NN Hospital/NN as/CS a/AT result/NN of/IN the/AT explosion/NN ,/pct which/WDT occurred/VBD while/CS Mrs./NP Kowalski/NP fueled/VBD a/AT cook/NN stove/NN in/IN the/AT grandmother's/NNg small/JJ upstairs/JJ flat/NN at/IN 2274/CD Eight/CD Mile/NN Road/NN East/JJ ./pct
+Held/VBD candle/NN
+Assistant/NN Fire/NN Chief/NN Chester/NP Cornell/NP said/VBD gas/NN fumes/NNS apparently/RB were/BED ignited/VBN by/IN a/AT candle/NN which/WDT one/CD of/IN the/AT three/CD Kowalski/NP girls/NNS present/RB held/VBD for/IN her/PPg mother/NN ,/pct because/CS the/AT flat/NN lacked/VBD electricity/NN ./pct
+Christine's/NPg twin/NN sister/NN ,/pct Patricia/NP ,/pct and/CC Darlene/NP Kowalski/NP ,/pct 8/CD ,/pct escaped/VBD with/IN minor/JJ burns/NNS ./pct
+They/PPSS are/BER home/NR now/RB with/IN the/AT other/AP Kowalski/NP children/NNS ,/pct Vicky/NP ,/pct 14/CD ;/pct ;/pct
+Dennis/NP ,/pct 6/CD ;/pct ;/pct
+Eleanor/NP ,/pct 2/CD ;/pct ;/pct
+and/CC Bernardine/NP ,/pct 1/CD ./pct
+``/pct All/ABN we/PPSS have/HV left/VBN in/IN the/AT world/NN is/BEZ one/CD another/DT ,/pct and/CC we/PPSS must/MD stay/VB together/RB the/AT way/NN Mother/NN wanted/VBD ''/pct ,/pct Kowalski/NP said/VBD in/IN telling/VBG his/PPg children/NNS of/IN their/PPg mother's/NNg death/NN yesterday/NR afternoon/NN ./pct
+Kowalski/NP ,/pct a/AT roofer/NN who/WPS seldom/RB worked/VBD last/AP winter/NN ,/pct already/RB was/BEDZ in/IN arrears/NNS on/IN their/PPg recently/RB purchased/VBN split-level/NN home/NR when/WRB the/AT tragedy/NN staggered/VBD him/PPO with/IN medical/JJ and/CC funeral/NN bills/NNS ./pct
+A135/NNS donated/VBN
+Neighbor/NN women/NNS ,/pct such/JJ as/CS Mrs./NP Sidney/NP Baker/NP ,/pct 2269/CD Serra/NP ,/pct Sterling/NP Township/NN ,/pct have/HV been/BEN supplying/VBG the/AT family/NN with/IN meals/NNS and/CC handling/VBG household/NN chores/NNS with/IN Kowalski's/NPg sister-in-law/NN ,/pct Mrs./NP Anna/NP Kowalski/NP ,/pct 22111/CD David/NP ,/pct East/JJ Detroit/NP ./pct
+Another/DT neighbor/NN ,/pct Mrs./NP Frank/NP C./NP Smith/NP ,/pct 2731/CD Pall/NP Mall/NN ,/pct Sterling/NP Township/NN ,/pct surprised/VBD Kowalski/NP by/IN coming/VBG to/IN the/AT home/NR yesterday/NR with/IN $135/NNS collected/VBN locally/RB toward/IN the/AT $400/NNS funeral/NN costs/NNS ./pct
+John/NP C./NP Houghton/NP ,/pct president/NN of/IN the/AT Tareytown/NP Acres/NNS Homeowners/NNS Association/NN ,/pct followed/VBD that/DT by/IN announcing/VBG plans/NNS last/AP night/NN for/IN a/AT door-to-door/NN fund/NN drive/NN throughout/IN their/PPg subdivision/NN on/IN behalf/NN of/IN the/AT Kowalski/NP family/NN ./pct
+Students/NNS help/VB out/RP
+Houghton/NP said/VBD 6/CD p.m./RB Friday/NR had/HVD been/BEN set/VBN for/IN a/AT canvass/NN of/IN all/ABN 480/CD homes/NNS in/IN the/AT subdivision/NN ,/pct which/WDT is/BEZ located/VBN northeast/NR of/IN Dequindre/NP and/CC 14/CD Mile/NN Road/NN East/JJ ./pct
+He/PPS said/VBD contributions/NNS also/RB could/MD be/BE mailed/VBN to/IN Post/NN Office/NN Box/NN 553/CD ,/pct Warren/NP Village/NN Station/NN ./pct
+Vicky/NP Kowalski/NP meanwhile/RB learned/VBD that/CS several/AP of/IN her/PPg fellow/NN students/NNS had/HVD collected/VBN almost/RB $25/NNS for/IN her/PPg family/NN during/IN the/AT lunch/NN hour/NN yesterday/NR at/IN Fuhrmann/NP Junior/JJ High/JJ School/NN ,/pct 5155/CD Fourteen/CD Mile/NN road/NN east/NR ./pct
+Principal/NN Clayton/NP W./NP Pohly/NP said/VBD he/PPS would/MD allow/VB a/AT further/JJR collection/NN between/IN classes/NNS today/NR ,/pct and/CC revealed/VBD that/CS Y-Teen/NN Club/NN past/JJ surpluses/NNS had/HVD been/BEN used/VBN to/TO provide/VB a/AT private/JJ hospital/NN nurse/NN Monday/NR for/IN Mrs./NP Kowalski/NP ./pct
+Funds/NNS from/IN dances/NNS
+Student/NN Council/NN officers/NNS announced/VBN today/NR the/AT Kowalski/NP family/NN would/MD be/BE given/VBN the/AT combined/VBN proceeds/NNS from/IN a/AT school/NN dance/NN held/VBN two/CD weeks/NNS ago/RB ,/pct and/CC another/DT dance/NN for/IN Fuhrmann's/NPg 770/CD students/NNS this/DT Friday/NR night/NN ./pct
+``/pct Furhmann's/NPg faculty/NN is/BEZ proud/JJ that/CS this/DT has/HVZ been/BEN a/AT spontaneous/JJ effort/NN ,/pct started/VBN largely/RB among/IN the/AT students/NNS themselves/PPLS ,/pct because/CS of/IN fondness/NN for/IN Vicky/NP and/CC sympathy/NN for/IN her/PPg entire/JJ family/NN ,/pct Pohly/NP said/VBD ./pct
+There/EX also/RB were/BED reports/NNS of/IN a/AT collection/NN at/IN the/AT County/NN Line/NN Elementary/JJ School/NN ,/pct 3505o/CD Dequindre/NP ,/pct which/WDT has/HVZ been/BEN attended/VBN this/DT year/NN by/IN four/CD of/IN the/AT Kowalski/NP children/NNS including/IN Christine/NP ./pct
+Expresses/VBZ thanks/NNS
+Kowalski/NP has/HVZ spoken/VBN but/IN little/AP since/CS the/AT fire/NN last/AP Saturday/NR ./pct
+But/CC today/NR he/PPS wanted/VBD to/TO make/VB a/AT public/JJ statement/NN ./pct
+``/pct I/PPSS never/RB knew/VBD there/EX were/BED such/JJ neighbors/NNS and/CC friends/NNS around/IN me/PPO and/CC my/PPg family/NN ./pct
+I/PPSS wasn't /None sure/JJ there/EX were/BED such/JJ people/NNS anywhere/RB in/IN the/AT world/NN ./pct
+I'll /None need/VB more/AP than/IN a/AT single/AP day/NN to/TO find/VB the/AT words/NNS to/TO properly/RB express/VB my/PPg thanks/NNS to/IN them/PPO ''/pct ./pct
+An/AT alert/JJ 10-year-old/JJ safety/NN patrol/NN boy/NN was/BEDZ congratulated/VBN by/IN police/NNS today/NR for/IN his/PPg part/NN in/IN obtaining/VBG a/AT reckless/JJ driving/NN conviction/NN against/IN a/AT youthful/JJ motorist/NN ./pct
+Patrolman/NN George/NP Kimmell/NP ,/pct of/IN McClellan/NP Station/NN ,/pct said/VBD he/PPS would/MD recommend/VB a/AT special/JJ safety/NN citation/NN for/IN Ralph/NP Sisk/NP ,/pct 9230/CD Vernor/NP east/NR ,/pct a/AT third/OD grader/NN at/IN the/AT Scripps/NP School/NN ,/pct for/IN his/PPg assistance/NN in/IN the/AT case/NN ./pct
+Kimmell/NP said/VBD he/PPS and/CC Ralph/NP were/BED helping/VBG children/NNS across/IN Belvidere/NP at/IN Kercheval/NP Monday/NR afternoon/NN when/WRB a/AT car/NN heading/VBG north/NR on/IN Belvidere/NP stopped/VBD belatedly/RB inside/IN the/AT pedestrian/NN crosswalk/NN ./pct
+Gets/VBZ car/NN number/NN
+Kimmell/NP ordered/VBD the/AT driver/NN to/TO back/VB up/RP ,/pct watched/VBD the/AT children/NNS safely/RB across/RP and/CC was/BEDZ approaching/VBG the/AT car/NN when/WRB it/PPS suddenly/RB ``/pct took/VBD off/RP at/IN high/JJ speed/NN ''/pct ,/pct he/PPS said/VBD ,/pct narrowly/RB missing/VBG him/PPO ./pct
+Commandeering/VBG a/AT passing/VBG car/NN ,/pct Kimmell/NP pursued/VBD the/AT fleeing/VBG vehicle/NN ,/pct but/CC lost/VBD it/PPO in/IN traffic/NN ./pct
+Returning/VBG to/IN the/AT school/NN crossing/NN ,/pct the/AT officer/NN was/BEDZ informed/VBN by/IN the/AT Sisk/NP boy/NN that/CS he/PPS recognized/VBD the/AT driver/NN ,/pct a/AT neighbor/NN ,/pct and/CC had/HVD obtained/VBN the/AT license/NN number/NN ./pct
+The/AT motorist/NN later/RBR was/BEDZ identified/VBN as/CS Richard/NP Sarkees/NP ,/pct 17/CD ,/pct of/IN 2433/CD McClellan/NP ,/pct currently/RB on/IN probation/NN and/CC under/IN court/NN order/NN not/NEG to/TO drive/VB ./pct
+Given/VBN 15/CD days/NNS
+He/PPS was/BEDZ found/VBN guilty/JJ of/IN reckless/JJ driving/NN yesterday/NR by/IN Traffic/NN Judge/NN George/NP T./NP Murphy/NP ,/pct who/WPS continued/VBD his/PPg no-driving/JJ probation/NN for/IN another/DT year/NN and/CC ordered/VBD him/PPO to/TO spend/VB 15/CD days/NNS in/IN the/AT Detroit/NP House/NN of/IN Correction/NN ./pct
+The/AT jail/NN sentence/NN is/BEZ to/TO begin/VB the/AT day/NN after/CS Sarkees/NP graduates/VBZ from/IN Eastern/JJ High/JJ School/NN in/IN June/NP ./pct
+The/AT long/JJ crisis/NN in/IN Laos/NP appeared/VBD nearing/VBG a/AT showdown/NN today/NR ./pct
+Britain/NP announced/VBD that/CS it/PPS is/BEZ asking/VBG the/AT Soviet/NN Union/NN to/TO agree/VB tomorrow/NR to/IN an/AT immediate/JJ cease-fire/NN ./pct
+Help/NN asked/VBN
+In/IN Vientiane/NP ,/pct the/AT royal/JJ Laotian/JJ government/NN decided/VBD today/NR to/TO ask/VB its/PPg ``/pct friends/NNS and/CC neighbors/NNS ''/pct for/IN help/NN in/IN fighting/VBG what/WDT it/PPS called/VBD a/AT new/JJ rebel/NN offensive/JJ threatening/VBG the/AT southeast/NR Asian/JJ kingdom/NN ./pct
+Britain's/NPg plans/NNS to/TO press/VB Russia/NP for/IN a/AT definite/JJ cease-fire/NN timetable/NN was/BEDZ announced/VBN in/IN London/NP by/IN Foreign/JJ Secretary/NN Lord/NN Home/NP ./pct
+He/PPS said/VBD Britain/NP also/RB proposed/VBD that/CS the/AT international/JJ truce/NN commission/NN should/MD be/BE reconvened/VBN ,/pct sent/VBD to/IN New/JJ Delhi/NP and/CC from/IN there/RB to/IN Laos/NP to/TO verify/VB the/AT cease-fire/NN ./pct
+A/AT 14-power/JJ conference/NN on/IN Laos/NP should/MD then/RB meet/VB on/IN May/NP 5/CD ,/pct he/PPS said/VBD ./pct
+Plea/NN for/IN arms/NNS
+The/AT Laos/NP government/NN plea/NN for/IN help/NN was/BEDZ made/VBN by/IN Foreign/JJ Minister/NN Tiao/NP Sopsaisana/NP ./pct
+He/PPS indicated/VBD that/CS requests/NNS would/MD be/BE made/VBN for/IN more/AP U.S./NP arms/NNS and/CC more/AP U.S./NP military/NN advisers/NNS ./pct
+He/PPS declared/VBD the/AT government/NN is/BEZ thinking/VBG of/IN asking/VBG for/IN foreign/JJ troops/NNS if/CS the/AT situation/NN worsens/VBZ ./pct
+One/CD of/IN the/AT first/OD moves/NNS made/VBN after/IN a/AT cabinet/NN decision/NN was/BEDZ to/TO request/VB the/AT United/VBN States/NNS to/TO establish/VB a/AT full-fledged/JJ military/NN assistance/NN group/NN instead/RB of/IN the/AT current/JJ civilian/NN body/NN ./pct
+A/AT note/NN making/VBG the/AT request/NN was/BEDZ handed/VBN to/IN U.S./NP Ambassador/NN Winthrop/NP G./NP Brown/NP ./pct
+Heavy/JJ support/NN
+The/AT Laos/NP government/NN said/VBD four/CD major/JJ Pathet/NP Lao/NP rebel/NN attacks/NNS had/HVD been/BEN launched/VBN ,/pct heavily/RB supported/VBN by/IN troops/NNS from/IN Communist/NN North/JJ Viet/NP Nam/NP ./pct
+The/AT minister/NN ,/pct describing/VBG the/AT attacks/NNS which/WDT led/VBD up/RP to/IN the/AT appeal/NN ,/pct said/VBD that/CS 60,000/CD Communist/NN North/JJ Vietnamese/NPS were/BED fighting/VBG royal/JJ army/NN troops/NNS on/IN one/CD front/NN --/pct near/IN Thakhek/NP ,/pct in/IN southern-central/JJ Laos/NP ./pct
+There/EX was/BEDZ no/AT confirmation/NN of/IN such/JJ massive/JJ assaults/NNS from/IN independent/JJ sources/NNS ./pct
+In/IN the/AT past/NN such/JJ government/NN claims/NNS have/HV been/BEN found/VBN exaggerated/VBN ./pct
+Havana/NP ,/pct April/NP 19/CD ./pct
+--/pct Two/CD Americans/NPS and/CC seven/CD Cubans/NPS were/BED executed/VBN by/IN firing/VBG squads/NNS today/NR as/CS Castro/NP military/NN tribunals/NNS began/VBD decreeing/VBG the/AT death/NN penalty/NN for/IN captured/VBN invasion/NN forces/NNS and/CC suspected/VBN collaborators/NNS ./pct
+A/AT Havana/NP radio/NN broadcast/NN identified/VBD the/AT Americans/NPS as/CS Howard/NP Anderson/NP and/CC August/NP Jack/NP McNair/NP ./pct
+The/AT executions/NNS took/VBD place/NN at/IN dawn/NN only/RB a/AT few/AP hours/NNS after/CS Havana/NP radio/NN announced/VBD their/PPg conviction/NN by/IN a/AT revolutionary/JJ tribunal/NN at/IN Pinar/NP Del/NP Rio/NP ,/pct where/WRB the/AT executions/NNS took/VBD place/NN ./pct
+Arms/NNS plot/NN charged/VBN
+The/AT broadcast/NN said/VBD Anderson/NP ,/pct a/AT Seattle/NP ex-marine/NN and/CC Havana/NP businessman/NN ,/pct and/CC McNair/NP ,/pct of/IN Miami/NP ,/pct were/BED condemned/VBN on/IN charges/NNS of/IN smuggling/VBG arms/NNS to/IN Cuban/NP rebels/NNS ./pct
+Anderson/NP operated/VBD three/CD Havana/NP automobile/NN service/NN stations/NNS and/CC was/BEDZ commander/NN of/IN the/AT Havana/NP American/JJ Legion/NN post/NN before/CS it/PPS disbanded/VBD since/CS the/AT start/NN of/IN Fidel/NP Castro's/NPg regime/NN ./pct
+Anderson's/NPg wife/NN and/CC four/CD children/NNS live/VB in/IN Miami/NP ./pct
+McNair/NP ,/pct 25/CD ,/pct was/BEDZ seized/VBN March/NP 20/CD with/IN four/CD Cubans/NPS and/CC accused/VBN of/IN trying/VBG to/TO land/VB a/AT boatload/NN of/IN rifles/NNS in/IN Pinar/NP Del/NP Rio/NP ,/pct about/RB 35/CD miles/NNS from/IN Havana/NP ./pct
+Report/VB others/NNS held/VBN
+At/IN least/AP 20/CD other/AP Americans/NPS were/BED reported/VBN to/TO have/HV been/BEN arrested/VBN in/IN a/AT mass/NN political/JJ roundup/NN ./pct
+Among/IN them/PPO were/BED a/AT number/NN of/IN newsmen/NNS ,/pct including/IN Henry/NP Raymont/NP ,/pct of/IN United/VBN Press/NN International/JJ ,/pct and/CC Robert/NP Berrellez/NP ,/pct of/IN Associated/VBN Press/NN ./pct
+So/QL many/AP Cubans/NPS were/BED reported/VBN being/BEG swept/VBN into/IN the/AT Castro/NP dragnet/NN that/CS the/AT massive/JJ Sports/NNS Palace/NN auditorium/NN and/CC at/IN least/AP one/CD hotel/NN were/BED converted/VBN into/IN makeshift/JJ jails/NNS ./pct
+More/AP than/IN 1,000/CD were/BED said/VBN to/TO have/HV been/BEN arrested/VBN --/pct 100/CD of/IN them/PPO Roman/JJ Catholic/JJ priests/NNS ./pct
+Of/IN the/AT millions/NNS who/WPS have/HV served/VBN time/NN in/IN concentration/NN camps/NNS in/IN Siberia/NP as/CS political/JJ prisoners/NNS of/IN the/AT Soviet/NN state/NN ,/pct few/AP emerge/VB in/IN the/AT West/NR to/TO tell/VB about/IN it/PPO ./pct
+M./NP Kegham/NP --/pct the/AT name/NN is/BEZ a/AT pseudynom/NN --/pct was/BEDZ a/AT teacher/NN in/IN Bucharest/NP and/CC a/AT member/NN of/IN the/AT Armenian/JJ Revolutionary/JJ Federation/NN (/pct ARF/NP )/pct --/pct two/CD reasons/NNS the/AT Communists/NNS put/VBD him/PPO away/RB when/WRB they/PPSS arrived/VBD in/IN 1945/CD ./pct
+Today/NR ,/pct M./NP Kegham/NP was/BEDZ in/IN Detroit/NP ,/pct en/IN route/NN to/TO join/VB his/PPg wife/NN and/CC children/NNS in/IN California/NP ./pct

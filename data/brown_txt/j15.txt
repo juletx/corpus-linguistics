@@ -1,0 +1,115 @@
+Introduction/NN
+Muscle/NN weakness/NN is/BEZ now/RB recognized/VBN as/CS an/AT uncommon/JJ though/CC serious/JJ complication/NN of/IN steroid/NN therapy/NN ,/pct with/IN most/AP of/IN the/AT synthetic/JJ adrenal/JJ corticosteroids/NNS in/IN clinical/JJ use/NN ./pct
+Although/CS biopsies/NNS have/HV shown/VBN structural/JJ changes/NNS in/IN some/DTI of/IN the/AT reported/VBN cases/NNS of/IN steroid-induced/JJ weakness/NN ,/pct this/DT case/NN provides/VBZ the/AT only/AP example/NN known/VBN to/IN us/PPO in/IN which/WDT necropsy/NN afforded/VBD the/AT opportunity/NN for/IN extensive/JJ study/NN of/IN multiple/JJ muscle/NN groups/NNS ./pct
+The/AT case/NN described/VBN in/IN this/DT paper/NN is/BEZ that/DT of/IN an/AT older/JJR man/NN who/WPS developed/VBD disabling/VBG muscular/JJ weakness/NN while/CS receiving/VBG a/AT variety/NN of/IN steroids/NNS for/IN a/AT refractory/JJ anemia/NN ./pct
+Report/NN of/IN case/NN
+This/DT patient/NN was/BEDZ a/AT 65-year-old/JJ white/JJ male/JJ accountant/NN who/WPS entered/VBD the/AT New/JJ York/NP Hospital/NN for/IN his/PPg fourth/OD and/CC terminal/JJ admission/NN on/IN June/NP 26/CD ,/pct 1959/CD ,/pct because/RB of/IN disabling/VBG weakness/NN and/CC general/JJ debility/NN ./pct
+In/IN 1953/CD the/AT patient/NN developed/VBD an/AT unexplained/JJ anemia/NN for/IN which/WDT 15/CD blood/NN transfusions/NNS were/BED given/VBN over/IN a/AT period/NN of/IN 4/CD years/NNS ./pct
+Splenomegaly/NN was/BEDZ first/RB noted/VBN in/IN 1956/CD ,/pct and/CC a/AT sternal/JJ marrow/NN biopsy/NN at/IN that/DT time/NN showed/VBD ``/pct scattered/VBN foci/NNS of/IN fibrosis/NN ''/pct suggestive/JJ of/IN myelofibrosis/NN ./pct
+No/AT additional/JJ transfusions/NNS were/BED necessary/JJ after/IN the/AT institution/NN of/IN prednisone/NN in/IN July/NP ,/pct 1957/CD ,/pct in/IN an/AT initial/JJ dose/NN of/IN 40/CD mg./NNS daily/RB with/IN gradual/JJ tapering/VBG to/IN 10/CD mg./NNS daily/RB ./pct
+This/DT medication/NN was/BEDZ continued/VBN until/IN February/NP ,/pct 1958/CD ./pct
+In/IN February/NP ,/pct 1958/CD ,/pct the/AT patient/NN suffered/VBD a/AT myocardial/JJ infarction/NN complicated/VBN by/IN pulmonary/JJ edema/NN ./pct
+Additional/JJ findings/NNS at/IN this/DT time/NN included/VBD cardiomegaly/NN ,/pct peripheral/JJ arteriosclerosis/NN obliterans/VBG ,/pct and/CC cholelithiasis/NN ./pct
+The/AT hemoglobin/NN was/BEDZ 11.6/CD gm./NNS ./pct
+Therapy/NN included/VBD digitalization/NN and/CC anticoagulation/NN ./pct
+Later/RBR ,/pct chlorothiazide/NN and/CC salt/NN restriction/NN became/VBD necessary/JJ to/TO control/VB the/AT edema/NN of/IN chronic/JJ congestive/JJ failure/NN ./pct
+Because/RB of/IN increasing/VBG anemia/NN ,/pct triamcinolone/NN ,/pct 8/CD mg./NNS daily/RB ,/pct was/BEDZ started/VBN on/IN Feb./NP 23/CD ,/pct 1958/CD ,/pct and/CC was/BEDZ continued/VBN until/IN July/NP ,/pct 1958/CD ./pct
+In/IN September/NP ,/pct 1958/CD ,/pct the/AT patient/NN developed/VBD generalized/VBN weakness/NN and/CC fatigue/NN which/WDT was/BEDZ concurrent/JJ with/IN exacerbation/NN of/IN his/PPg anemia/NN ;/pct ;/pct
+the/AT hemoglobin/NN was/BEDZ 10.6/CD gm./NNS ./pct
+In/IN an/AT attempt/NN to/TO reverse/VB the/AT downhill/JJ trend/NN by/IN stimulating/VBG the/AT bone/NN marrow/NN and/CC controlling/VBG any/DTI hemolytic/JJ component/NN ,/pct triamcinolone/NN ,/pct 16/CD mg./NNS daily/RB ,/pct was/BEDZ begun/VBN on/IN Sept./NP 26/CD ,/pct 1958/CD ,/pct and/CC continued/VBN until/IN Feb./NP 18/CD ,/pct 1959/CD ./pct
+At/IN first/RB the/AT patient/NN felt/VBD stronger/JJR ,/pct and/CC the/AT hemoglobin/NN rose/VBD to/IN 13.8/CD gm./NNS ,/pct but/CC on/IN Oct./NP 20/CD ,/pct 1958/CD ,/pct he/PPS complained/VBD of/IN ``/pct caving/VBG in/RP ''/pct in/IN his/PPg knees/NNS ./pct
+By/IN Nov./NP 8/CD ,/pct 1958/CD ,/pct weakness/NN ,/pct specifically/RB involving/VBG the/AT pelvic/JJ and/CC thigh/NN musculature/NN ,/pct was/BEDZ pronounced/VBN ,/pct and/CC a/AT common/JJ complaint/NN was/BEDZ ``/pct difficulty/NN in/IN stepping/VBG up/RP on/RP to/IN curbs/NNS ''/pct ./pct
+Prednisone/NN ,/pct 30/CD mg./NNS daily/RB ,/pct was/BEDZ substituted/VBN for/IN triamcinolone/NN from/IN Nov./NP 22/CD until/IN Dec./NP 1/CD ,/pct 1958/CD ,/pct without/IN any/DTI improvement/NN in/IN the/AT weakness/NN ./pct
+Serum/NN potassium/NN at/IN this/DT time/NN was/BEDZ 3.8/CD mEq./NN per/IN liter/NN ,/pct and/CC the/AT hemoglobin/NN was/BEDZ 13.9/CD gm./NNS By/IN Dec./NP 1/CD ,/pct 1958/CD ,/pct the/AT weakness/NN in/IN the/AT pelvic/JJ and/CC quadriceps/NN muscle/NN groups/NNS was/BEDZ appreciably/QL worse/JJR ,/pct and/CC it/PPS became/VBD difficult/JJ for/IN the/AT patient/NN to/TO rise/VB unaided/JJ from/IN a/AT sitting/VBG or/CC reclining/VBG position/NN ./pct
+Triamcinolone/NN ,/pct 16/CD mg./NNS daily/RB ,/pct was/BEDZ resumed/VBN and/CC maintained/VBN until/IN Feb./NP 18/CD ,/pct 1959/CD ./pct
+Chlorothiazide/NN was/BEDZ omitted/VBN for/IN a/AT 2-week/JJ period/NN ,/pct but/CC there/EX was/BEDZ no/AT change/NN in/IN the/AT muscle/NN weakness/NN ./pct
+At/IN this/DT time/NN a/AT detailed/VBN neuromuscular/JJ examination/NN revealed/VBD diffuse/JJ muscle/NN atrophy/NN that/WPS was/BEDZ moderate/JJ in/IN the/AT hands/NNS and/CC feet/NNS ,/pct but/CC marked/VBN in/IN the/AT shoulders/NNS ,/pct hips/NNS ,/pct and/CC pelvic/JJ girdle/NN ,/pct with/IN hypoactive/JJ deep-tendon/NN reflexes/NNS ./pct
+No/AT fasciculations/NNS or/CC sensory/JJ defects/NNS were/BED found/VBN ./pct
+Electromyography/NN revealed/VBD no/AT evidence/NN of/IN lower/JJR motor/NN neuron/NN disease/NN ./pct
+Thyroid/NN function/NN tests/NNS yielded/VBD normal/JJ results/NNS ./pct
+The/AT protein-bound/JJ iodine/NN was/BEDZ 6.6/CD mg./NNS ,/pct and/CC the/AT radioactive/JJ iodine/NN uptake/NN over/IN the/AT thyroid/NN gland/NN was/BEDZ 46%/NN in/IN 24/CD hours/NNS ,/pct with/IN a/AT conversion/NN ratio/NN of/IN 12%/NN ./pct
+A/AT Schilling/NP test/NN demonstrated/VBD normal/JJ absorption/NN of/IN vitamin/NN Af/NN ./pct
+In/IN February/NP ,/pct 1959/CD ,/pct during/IN the/AT second/OD admission/NN to/IN The/AT New/JJ York/NP Hospital/NN ,/pct a/AT biopsy/NN specimen/NN of/IN the/AT left/JJ gastrocnemius/NN showed/VBD striking/JJ increase/NN in/IN the/AT sarcolemmal/JJ sheath/NN nuclei/NNS and/CC shrunken/VBN muscle/NN fibers/NNS in/IN several/AP sections/NNS ./pct
+Serial/NN serum/NN potassium/NN levels/NNS remained/VBD normal/JJ ;/pct ;/pct
+the/AT serum/NN glutamic/JJ oxaloacetic/JJ transaminase/NN was/BEDZ 10/CD units/NNS per/IN ml./NN per/IN min./NN ./pct
+The/AT clinical/JJ impression/NN at/IN this/DT time/NN was/BEDZ either/CC muscular/JJ dystrophy/NN or/CC polymyositis/NN ./pct
+On/IN Feb./NP 12/CD ,/pct 1959/CD ,/pct purified/VBN corticotropin/NN (/pct ACTH/NP Gel/NN )/pct ,/pct 20/CD units/NNS daily/RB intramuscularly/RB ,/pct was/BEDZ started/VBN but/CC had/HVD to/TO be/BE discontinued/VBN 3/CD weeks/NNS later/RBR because/RB of/IN excessive/JJ fluid/NN retention/NN ./pct
+From/IN March/NP 3/CD to/IN May/NP 1/CD ,/pct 1949/CD ,/pct the/AT patient/NN was/BEDZ maintained/VBN on/IN dexamethasone/NN ,/pct 3/CD to/IN 6/CD mg./NNS daily/RB ./pct
+In/IN May/NP 1959/CD ,/pct prednisone/NN ,/pct 30/CD mg./NNS daily/RB ,/pct replaced/VBD the/AT dexamethasone/NN ./pct
+Muscle/NN weakness/NN did/DOD not/NEG improve/VB ,/pct and/CC the/AT patient/NN needed/VBD first/RB a/AT cane/NN ,/pct then/RB crutches/NNS ./pct
+In/IN spite/NN of/IN normal/JJ thyroid/NN function/NN tests/NNS ,/pct a/AT trial/NN of/IN propylthiouracil/NN ,/pct 400/CD mg./NNS daily/RB for/IN one/CD week/NN ,/pct was/BEDZ given/VBN but/CC served/VBD only/RB to/TO intensify/VB muscle/NN weakness/NN ./pct
+Repeated/VBN attempts/NNS to/TO withdraw/VB steroids/NNS entirely/RB were/BED unsuccessful/JJ because/CS increased/VBN muscle/NN weakness/NN resulted/VBD ,/pct as/QL well/RB as/CS fever/NN ,/pct malaise/NN ,/pct anorexia/NN ,/pct anxiety/NN ,/pct and/CC an/AT exacerbation/NN of/IN the/AT anemia/NN ./pct
+These/DTS reactions/NNS were/BED interpreted/VBN as/CS being/BEG manifestations/NNS of/IN hypoadrenocorticism/NN ./pct
+Severe/JJ back/NN pain/NN in/IN June/NP ,/pct 1959/CD ,/pct prompted/VBD a/AT third/OD hospital/NN admission/NN ./pct
+Extensive/JJ osteoporosis/NN with/IN partial/JJ collapse/NN of/IN D8/NN was/BEDZ found/VBN ./pct
+A/AT high-protein/NN diet/NN ,/pct calcium/NN lactate/NN supplements/NNS ,/pct and/CC norethandrolone/NN failed/VBD to/TO change/VB the/AT skeletal/JJ complaint/NN or/CC the/AT severe/JJ muscle/NN weakness/NN ./pct
+The/AT terminal/JJ hospital/NN admission/NN on/IN June/NP 27/CD ,/pct 1959/CD ,/pct was/BEDZ necessitated/VBN by/IN continued/VBN weakness/NN and/CC debility/NN complicated/VBN by/IN urinary/JJ retention/NN and/CC painful/JJ thrombosed/JJ hemorrhoids/NNS ./pct
+X-ray/NN films/NNS of/IN the/AT vertebral/JJ column/NN showed/VBD progression/NN of/IN the/AT demineralization/NN ./pct
+On/IN July/NP 4/CD ,/pct 1959/CD ,/pct the/AT patient/NN developed/VBD marked/VBN abdominal/JJ pain/NN and/CC distension/NN ,/pct went/VBD into/IN shock/NN ,/pct and/CC died/VBD ./pct
+Findings/NNS at/IN necropsy/NN
+The/AT body/NN was/BEDZ that/DT of/IN a/AT well-developed/JJ ,/pct somewhat/QL debilitated/VBN white/JJ man/NN weighing/VBG 108/CD lb./NNS ./pct
+There/EX were/BED bilateral/JJ pterygia/NN and/CC arcus/NN senilis/JJ ,/pct and/CC the/AT mouth/NN was/BEDZ edentulous/JJ ./pct
+The/AT heart/NN weighed/VBD 510/CD gm./NNS ,/pct and/CC at/IN the/AT outflow/NN tracts/NNS the/AT left/JJ and/CC right/JJ ventricles/NNS measured/VBD 19/CD and/CC 3/CD mm./NNS ,/pct respectively/RB ./pct
+The/AT coronary/JJ arteries/NNS were/BED sclerotic/JJ and/CC diffusely/RB narrowed/VBN throughout/IN their/PPg courses/NNS ,/pct and/CC the/AT right/JJ coronary/JJ artery/NN was/BEDZ virtually/RB occluded/VBN by/IN a/AT yellow/JJ atheromatous/JJ plaque/NN 1.5/CD cm./NNS distal/JJ to/IN its/PPg origin/NN ./pct
+The/AT myocardium/NN of/IN the/AT posterior/JJ base/NN of/IN the/AT left/JJ ventricle/NN was/BEDZ replaced/VBN by/IN gray/JJ scar/NN tissue/NN over/IN a/AT 7.5/CD cm./NN area/NN ./pct
+The/AT valves/NNS were/BED normal/JJ except/IN for/IN thin/JJ yellow/JJ plaques/NNS on/IN the/AT inferior/JJ surface/NN of/IN the/AT mitral/JJ leaflets/NNS ./pct
+Microscopically/RB ,/pct sections/NNS from/IN the/AT posterior/JJ base/NN of/IN the/AT left/JJ ventricle/NN of/IN the/AT heart/NN showed/VBD several/AP large/JJ areas/NNS of/IN replacement/NN of/IN muscle/NN by/IN fibrous/JJ tissue/NN ./pct
+In/IN addition/NN ,/pct other/AP sections/NNS contained/VBD focal/JJ areas/NNS of/IN recent/JJ myocardial/JJ necrosis/NN that/WPS were/BED infiltrated/VBN with/IN neutrophils/NNS ./pct
+Many/AP of/IN the/AT myocardial/JJ fibers/NNS were/BED hypertrophied/VBN and/CC had/HVD large/JJ ,/pct irregular/JJ ,/pct basophilic/JJ nuclei/NNS ./pct
+The/AT intima/NN of/IN the/AT larger/JJR coronary/JJ arteries/NNS was/BEDZ thickened/VBN by/IN fibrous/JJ tissue/NN containing/VBG fusiform/JJ clefts/NNS and/CC mononuclear/JJ cells/NNS ./pct
+The/AT intimal/JJ surface/NN of/IN the/AT aorta/NN was/BEDZ covered/VBN with/IN confluent/JJ ,/pct yellow-brown/JJ ,/pct hard/JJ ,/pct friable/JJ plaques/NNS along/IN its/PPg entire/JJ course/NN ,/pct and/CC there/EX was/BEDZ a/AT marked/VBN narrowing/NN of/IN the/AT orifices/NNS of/IN the/AT large/JJ major/JJ visceral/JJ arteries/NNS ./pct
+In/IN particular/JJ ,/pct the/AT orifices/NNS of/IN the/AT right/JJ renal/JJ and/CC celiac/JJ arteries/NNS were/BED virtually/QL occluded/VBN ,/pct and/CC both/ABX calcified/VBN common/JJ iliac/JJ arteries/NNS were/BED completely/QL occluded/VBN ./pct
+The/AT lungs/NNS weighed/VBD together/RB 950/CD gm./NNS ./pct
+On/IN the/AT surfaces/NNS of/IN both/ABX lungs/NNS there/EX were/BED emphysematous/JJ blebs/NNS measuring/VBG up/RP to/IN 3/CD cm./NNS in/IN diameter/NN ./pct
+The/AT parenchyma/NN was/BEDZ slightly/QL hyperemic/JJ in/IN the/AT apex/NN of/IN the/AT left/JJ lung/NN ,/pct and/CC there/EX were/BED several/AP firm/JJ ,/pct gray/JJ ,/pct fibrocalcific/JJ nodules/NNS measuring/VBG as/QL large/JJ as/CS 3/CD mm./NNS ./pct
+Microscopically/RB ,/pct there/EX was/BEDZ emphysema/NN ,/pct fibrosis/NN ,/pct and/CC vascular/JJ congestion/NN ./pct
+Macrophages/NNS laden/JJ with/IN brown/JJ pigment/NN were/BED seen/VBN in/IN some/DTI of/IN the/AT alveoli/NNS ,/pct and/CC the/AT intima/NN of/IN some/DTI of/IN the/AT small/JJ arteries/NNS was/BEDZ thickened/VBN by/IN fibrous/JJ tissue/NN ./pct
+The/AT firm/JJ red/JJ spleen/NN weighed/VBD 410/CD gm./NNS ,/pct and/CC its/PPg surface/NN was/BEDZ mottled/VBN by/IN discrete/JJ ,/pct small/JJ patches/NNS of/IN white/JJ material/NN ./pct
+The/AT endothelial/JJ cells/NNS lining/VBG the/AT sinusoids/NNS were/BED prominent/JJ ,/pct and/CC many/AP contained/VBN large/JJ quantities/NNS of/IN hemosiderin/NN ./pct
+Some/DTI of/IN the/AT sinusoids/NNS contained/VBD large/JJ numbers/NNS of/IN nucleated/VBN red/JJ cells/NNS ,/pct and/CC cells/NNS of/IN the/AT granulocytic/JJ series/NNS were/BED found/VBN in/IN small/JJ numbers/NNS ./pct
+There/EX were/BED slight/JJ fibrosis/NN and/CC marked/VBN arteriolosclerosis/NN ./pct
+The/AT liver/NN weighed/VBD 2,090/CD gm./NNS ,/pct was/BEDZ brown/JJ in/IN color/NN ,/pct and/CC the/AT cut/VBN surface/NN was/BEDZ mottled/VBN by/IN irregular/JJ pale/JJ areas/NNS ./pct
+Microscopically/RB ,/pct there/EX was/BEDZ hyperemia/NN of/IN the/AT central/JJ veins/NNS ,/pct and/CC there/EX was/BEDZ some/DTI atrophy/NN of/IN adjacent/JJ parenchyma/NN ./pct
+Some/DTI liver/NN cord/NN cells/NNS contained/VBD vacuolated/VBN cytoplasm/NN ,/pct while/CS others/NNS had/HVD small/JJ amounts/NNS of/IN brown/JJ hemosiderin/NN pigment/NN ./pct
+The/AT gallbladder/NN contained/VBD about/RB 40/CD cc./NNS of/IN green-brown/JJ bile/NN and/CC 3/CD smooth/JJ ,/pct dark-green/JJ calculi/NNS measuring/VBG up/RP to/IN 1/CD cm./NN in/IN diameter/NN ./pct
+The/AT mucosa/NN of/IN the/AT stomach/NN was/BEDZ atrophic/JJ and/CC irregularly/RB blackened/VBN over/IN a/AT 14/CD cm./NN area/NN ./pct
+The/AT small/JJ and/CC large/JJ intestines/NNS were/BED filled/VBN with/IN gas/NN ,/pct and/CC the/AT jejunum/NN was/BEDZ dilated/VBN to/IN about/RB 2/CD times/NNS its/PPg normal/JJ circumference/NN ./pct
+The/AT small/JJ intestine/NN and/CC colon/NN contained/VBD approximately/RB 300/CD cc./NNS of/IN foul-smelling/JJ ,/pct sanguineous/JJ material/NN ,/pct and/CC the/AT mucosa/NN throughout/RB was/BEDZ hyperemic/JJ and/CC mottled/VBN green-brown/JJ ./pct
+A/AT careful/JJ search/NN failed/VBD to/TO show/VB occlusion/NN of/IN any/DTI of/IN the/AT mesenteric/JJ vessels/NNS ./pct
+Microscopically/RB ,/pct the/AT mucosa/NN of/IN the/AT stomach/NN showed/VBD extensive/JJ cytolysis/NN and/CC contained/VBD large/JJ numbers/NNS of/IN Gram-negative/JJ bacterial/JJ rods/NNS ./pct
+The/AT submucosa/NN was/BEDZ focally/RB infiltrated/VBN with/IN neutrophils/NNS ./pct
+The/AT mucosa/NN of/IN the/AT jejunum/NN and/CC ileum/NN showed/VBD similar/JJ changes/NNS ,/pct and/CC in/IN some/DTI areas/NNS the/AT submucosa/NN was/BEDZ edematous/JJ and/CC contained/VBD considerable/JJ numbers/NNS of/IN neutrophils/NNS ./pct
+Some/DTI of/IN the/AT small/JJ vessels/NNS were/BED filled/VBN with/IN fibrin/NN thrombi/NNS ,/pct and/CC there/EX was/BEDZ extensive/JJ interstitial/JJ hemorrhage/NN ./pct
+A/AT section/NN of/IN the/AT colon/NN revealed/VBD intense/JJ hyperemia/NN and/CC extensive/JJ focal/JJ ulcerations/NNS of/IN the/AT mucosa/NN ,/pct associated/VBN with/IN much/AP fibrin/NN and/CC many/AP neutrophils/NNS ./pct
+Cultures/NNS taken/VBN from/IN the/AT jejunum/NN yielded/VBD Monilia/NP albicans/NP ,/pct Pseudomonas/NP pyocanea/NP ,/pct Aerobacter/NP aerogenes/NP ,/pct and/CC Streptococcus/NP anhemolyticus/NP ./pct
+The/AT kidneys/NNS were/BED pale/JJ and/CC weighed/VBD right/JJ ,/pct 110/CD gm./NNS ,/pct and/CC left/JJ ,/pct 230/CD gm./NNS ./pct
+The/AT surfaces/NNS were/BED coarsely/RB and/CC finely/RB granular/JJ and/CC punctuated/VBN by/IN clear/JJ ,/pct fluid-filled/JJ cysts/NNS measuring/VBG up/RP to/IN 3/CD cm./NNS in/IN diameter/NN ./pct
+On/IN the/AT surface/NN of/IN the/AT right/JJ kidney/NN there/EX were/BED also/RB 2/CD yellow/JJ ,/pct firm/JJ ,/pct friable/JJ raised/VBN areas/NNS measuring/VBG up/RP to/IN 2/CD cm./NNS in/IN diameter/NN ./pct
+Microscopically/RB ,/pct both/ABX kidneys/NNS showed/VBD many/AP small/JJ cortical/JJ scars/NNS in/IN which/WDT there/EX was/BEDZ glomerular/JJ and/CC interstitial/JJ fibrosis/NN ,/pct tubular/JJ atrophy/NN ,/pct and/CC an/AT infiltration/NN of/IN lymphocytes/NNS and/CC plasma/NN cells/NNS ./pct
+Occasional/JJ tubules/NNS contained/VBD hyaline/NN casts/NNS admixed/VBN with/IN neutrophils/NNS ./pct
+Throughout/RB ,/pct there/EX were/BED marked/VBN arteriolosclerosis/NN and/CC hyalinization/NN of/IN afferent/JJ glomerular/JJ arterioles/NNS ./pct
+These/DTS changes/NNS were/BED more/QL marked/VBN in/IN the/AT atrophic/JJ right/JJ kidney/NN than/CS in/IN the/AT left/NR ./pct
+In/IN addition/NN ,/pct there/EX were/BED 2/CD small/JJ papillary/JJ adenomas/NNS in/IN the/AT right/JJ kidney/NN ./pct
+The/AT bone/NN of/IN the/AT vertebral/JJ bodies/NNS ,/pct ribs/NNS ,/pct and/CC sternum/NN was/BEDZ soft/JJ and/CC was/BEDZ easily/RB compressed/VBN ./pct
+The/AT marrow/NN of/IN the/AT vertebral/JJ bodies/NNS was/BEDZ pale/JJ and/CC showed/VBD areas/NNS of/IN fatty/JJ replacement/NN ./pct
+Microscopically/RB ,/pct there/EX were/BED many/AP areas/NNS of/IN hypercellularity/NN alternating/VBG with/IN areas/NNS of/IN hypocellularity/NN ./pct
+The/AT cells/NNS of/IN the/AT erythroid/JJ ,/pct myeloid/JJ ,/pct and/CC megakaryocytic/JJ series/NNS were/BED normal/JJ except/IN for/IN their/PPg numbers/NNS ./pct
+There/EX was/BEDZ no/AT evidence/NN of/IN fibrosis/NN ./pct
+The/AT muscles/NNS of/IN the/AT extremities/NNS ,/pct chest/NN wall/NN ,/pct neck/NN ,/pct and/CC abdominal/JJ wall/NN were/BED soft/JJ ,/pct pale/JJ ,/pct and/CC atrophic/JJ ./pct
+Microscopic/JJ studies/NNS of/IN the/AT gastrocnemius/NN ,/pct pectoralis/NN major/JJ ,/pct transversus/NN abdominis/NN ,/pct biceps/NN brachii/NNg ,/pct and/CC diaphragm/NN showed/VBD atrophy/NN as/QL well/RB as/CS varying/VBG degrees/NNS of/IN injury/NN ranging/VBG from/IN swelling/VBG and/CC vacuolization/NN to/IN focal/JJ necrosis/NN of/IN the/AT muscle/NN fibers/NNS ./pct
+These/DTS changes/NNS were/BED most/QL marked/VBN in/IN the/AT gastrocnemius/NN and/CC biceps/NN and/CC less/QL evident/JJ in/IN the/AT pectoralis/NN ,/pct diaphragm/NN ,/pct and/CC transversus/NN ./pct
+In/IN the/AT gastrocnemius/NN and/CC biceps/NN there/EX were/BED many/AP swollen/JJ and/CC homogeneous/JJ necrotic/JJ fibers/NNS such/JJ as/CS that/DT shown/VBN in/IN Figure/NN 2/CD ./pct
+Such/JJ swollen/JJ fibers/NNS were/BED deeply/RB eosinophilic/JJ ,/pct contained/VBD a/AT few/AP pyknotic/JJ nuclei/NNS ,/pct and/CC showed/VBD loss/NN of/IN cross-striations/NNS ,/pct obliteration/NN of/IN myofibrils/NNS ,/pct and/CC prominent/JJ vacuolization/NN ./pct
+The/AT necrosis/NN often/RB involved/VBD only/RB a/AT portion/NN of/IN the/AT length/NN of/IN a/AT given/VBN fiber/NN ,/pct and/CC usually/RB the/AT immediately/RB adjacent/JJ fibers/NNS were/BED normal/JJ ./pct
+As/CS shown/VBN in/IN Figure/NN 3/CD ,/pct the/AT protoplasm/NN of/IN other/AP fibers/NNS was/BEDZ pale/JJ ,/pct granular/JJ ,/pct or/CC flocculated/VBN and/CC invaded/VBN by/IN phagocytes/NNS ./pct
+Inflammatory/JJ cells/NNS were/BED strikingly/RB absent/JJ ./pct
+In/IN association/NN with/IN these/DTS changes/NNS in/IN the/AT fibers/NNS ,/pct there/EX were/BED striking/JJ alterations/NNS in/IN the/AT muscle/NN nuclei/NNS ./pct
+These/DTS were/BED increased/VBN both/ABX in/IN number/NN and/CC in/IN size/NN ,/pct contained/VBD prominent/JJ nucleoli/NNS ,/pct and/CC were/BED distributed/VBN throughout/IN the/AT fiber/NN (/pct Figs./NNS 2/CD -/pct 5/CD )/pct ./pct
+In/IN contrast/NN to/IN the/AT nuclear/JJ changes/NNS described/VBN above/RB ,/pct another/DT change/NN in/IN muscle/NN nuclei/NNS was/BEDZ seen/VBN ,/pct usually/RB occurring/VBG in/IN fibers/NNS that/WPS were/BED somewhat/QL smaller/JJR than/CS normal/JJ but/CC that/WPS showed/VBD distinct/JJ cross-striations/NNS and/CC myofibrillae/NNS ./pct
+The/AT nuclei/NNS of/IN these/DTS fibers/NNS ,/pct as/CS is/BEZ shown/VBN in/IN Figures/NNS 3/CD and/CC 4/CD ,/pct showed/VBD remarkable/JJ proliferation/NN and/CC were/BED closely/RB approximated/VBN ,/pct forming/VBG a/AT chainlike/JJ structure/NN at/IN either/CC the/AT center/NN or/CC the/AT periphery/NN of/IN the/AT fiber/NN ./pct
+Individual/JJ nuclei/NNS were/BED usually/RB oval/JJ to/IN round/JJ ,/pct though/CS occasionally/RB elongated/VBN ,/pct and/CC frequently/RB small/JJ and/CC somewhat/QL pyknotic/JJ ./pct
+At/IN times/NNS ,/pct clumps/NNS of/IN 10/CD to/IN 15/CD closely-packed/JJ nuclei/NNS were/BED also/RB observed/VBN ./pct
+Occasionally/RB there/EX were/BED small/JJ basophilic/JJ fibers/NNS that/WPS were/BED devoid/JJ of/IN myofibrillae/NNS and/CC contained/VBD many/AP vesicular/JJ nuclei/NNS with/IN prominent/JJ nucleoli/NNS (/pct Fig./NN 5/CD )/pct ./pct
+These/DTS were/BED thought/VBN to/TO represent/VB regenerating/VBG fibers/NNS ./pct
+Trichrome/JJ stains/NNS failed/VBD to/TO show/VB fibrosis/NN in/IN the/AT involved/VBN muscles/NNS ./pct
+In/IN all/ABN of/IN the/AT sections/NNS examined/VBN ,/pct the/AT arterioles/NNS and/CC small/JJ arteries/NNS were/BED essentially/QL normal/JJ ./pct

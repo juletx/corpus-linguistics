@@ -1,0 +1,111 @@
+Abstract/JJ
+Experiments/NNS were/BED made/VBN on/IN an/AT electric/JJ arc/NN applying/VBG a/AT porous/JJ graphite/NN anode/NN cooled/VBN by/IN a/AT transpiring/VBG gas/NN (/pct Argon/NN )/pct ./pct
+Thus/RB ,/pct the/AT energy/NN transferred/VBN from/IN the/AT arc/NN to/IN the/AT anode/NN was/BEDZ partly/RB fed/VBN back/RB into/IN the/AT arc/NN ./pct
+It/PPS was/BEDZ shown/VBN that/CS by/IN proper/JJ anode/NN design/NN the/AT net/JJ energy/NN loss/NN of/IN the/AT arc/NN to/IN the/AT anode/NN could/MD be/BE reduced/VBN to/IN approximately/RB 15%/NN of/IN the/AT total/JJ arc/NN energy/NN ./pct
+A/AT detailed/VBN energy/NN balance/NN of/IN the/AT anode/NN was/BEDZ established/VBN ./pct
+The/AT anode/NN ablation/NN could/MD be/BE reduced/VBN to/IN a/AT negligible/JJ amount/NN ./pct
+The/AT dependence/NN of/IN the/AT arc/NN voltage/NN upon/IN the/AT mass/NN flow/NN velocity/NN of/IN the/AT transpirating/VBG gas/NN was/BEDZ investigated/VBN for/IN various/JJ arc/NN lengths/NNS and/CC currents/NNS between/IN 100/CD Amp/NN and/CC 200/CD Aj/NN ./pct
+Qualitative/JJ observations/NNS were/BED made/VBN and/CC high-speed/NN motion/NN pictures/NNS were/BED taken/VBN to/TO study/VB flow/NN phenomena/NNS in/IN the/AT arc/NN at/IN various/JJ mass/NN flow/NN velocities/NNS ./pct
+Introduction/NN
+The/AT high/JJ heat/NN fluxes/NNS existing/VBG at/IN the/AT electrode/NN surfaces/NNS of/IN electric/JJ arcs/NNS necessitate/VB extensive/JJ cooling/NN to/TO prevent/VB electrode/NN ablation/NN ./pct
+The/AT cooling/VBG requirements/NNS are/BER particularly/QL severe/JJ at/IN the/AT anode/NN ./pct
+In/IN free-burning/JJ electric/JJ arcs/NNS ,/pct for/IN instance/NN ,/pct approximately/RB 90%/NN of/IN the/AT total/JJ arc/NN power/NN is/BEZ transferred/VBN to/IN the/AT anode/NN giving/VBG rise/NN to/IN local/JJ heat/NN fluxes/NNS in/IN excess/NN of/IN Af/NN as/CS measured/VBN by/IN the/AT authors/NNS --/pct the/AT exact/JJ value/NN depending/VBG on/IN the/AT arc/NN atmosphere/NN ./pct
+In/IN plasma/NN generators/NNS as/CS currently/RB commercially/RB available/JJ for/IN industrial/JJ use/NN or/CC as/CS high/JJ temperature/NN research/NN tools/NNS often/RB more/AP than/IN 50%/NN of/IN the/AT total/JJ energy/NN input/NN is/BEZ being/BEG transferred/VBN to/IN the/AT cooling/VBG medium/NN of/IN the/AT anode/NN ./pct
+The/AT higher/JJR heat/NN transfer/NN rates/NNS at/IN the/AT anode/NN compared/VBN with/IN those/DTS at/IN the/AT cathode/NN can/MD be/BE explained/VBN by/IN the/AT physical/JJ phenomena/NNS occurring/VBG in/IN free/RB burning/VBG arcs/NNS ./pct
+In/IN plasma/NN generators/NNS the/AT superimposed/VBN forced/VBN convection/NN may/MD modify/VB the/AT picture/NN somewhat/RB ./pct
+The/AT heat/NN transfer/NN to/IN the/AT anode/NN is/BEZ due/JJ to/IN the/AT following/VBG effects/NNS :/pct 1/CD ./pct
+Heat/NN of/IN condensation/NN (/pct work/NN function/NN )/pct plus/CC kinetic/JJ energy/NN of/IN the/AT electrons/NNS impinging/VBG on/IN the/AT anode/NN ./pct
+This/DT energy/NN transfer/NN depends/VBZ on/IN the/AT current/NN ,/pct the/AT temperature/NN in/IN the/AT arc/NN column/NN ,/pct the/AT anode/NN material/NN ,/pct and/CC the/AT conditions/NNS in/IN the/AT anode/NN sheath/NN ./pct
+2/CD ./pct
+Heat/NN transfer/NN by/IN molecular/JJ conduction/NN as/QL well/RB as/CS by/IN radiation/NN from/IN the/AT arc/NN column/NN ./pct
+The/AT heat/NN transfer/NN to/IN the/AT anode/NN in/IN free/RB burning/VBG arcs/NNS is/BEZ enhanced/VBN by/IN a/AT hot/JJ gas/NN jet/NN flowing/VBG from/IN the/AT cathode/NN towards/IN the/AT anode/NN with/IN velocities/NNS up/RP Af/NN ./pct
+This/DT phenomenon/NN has/HVZ been/BEN experimentally/RB investigated/VBN in/IN detail/NN by/IN Maecker/NP (/pct Ref./NP 1/CD )/pct ./pct
+The/AT pressure/NN gradient/NN producing/VBG the/AT jet/NN is/BEZ due/JJ to/IN the/AT nature/NN of/IN the/AT magnetic/JJ field/NN in/IN the/AT arc/NN (/pct rapid/JJ decrease/NN of/IN current/NN density/NN from/IN cathode/NN to/IN the/AT anode/NN )/pct ./pct
+Hence/RB ,/pct the/AT flow/NN conditions/NNS at/IN the/AT anode/NN of/IN free/RB burning/VBG arcs/NNS resemble/VB those/DTS near/IN a/AT stagnation/NN point/NN ./pct
+It/PPS is/BEZ apparent/JJ from/IN the/AT above/JJ and/CC from/IN experimental/JJ evidence/NN that/CS the/AT cooling/VBG requirements/NNS for/IN the/AT anode/NN of/IN free/RB burning/VBG arcs/NNS are/BER large/JJ compared/VBN with/IN those/DTS for/IN the/AT cathode/NN ./pct
+The/AT gas/NN flow/NN through/IN a/AT plasma/NN generator/NN will/MD modify/VB these/DTS conditions/NNS ;/pct ;/pct
+however/RB ,/pct the/AT anode/NN is/BEZ still/RB the/AT part/NN receiving/VBG the/AT largest/JJT heat/NN flux/NN ./pct
+An/AT attempt/NN to/TO improve/VB the/AT life/NN of/IN the/AT anodes/NNS or/CC the/AT efficiency/NN of/IN the/AT plasma/NN generators/NNS must/MD ,/pct therefore/RB ,/pct aim/VB at/IN a/AT reduction/NN of/IN the/AT anode/NN loss/NN ./pct
+The/AT following/VBG possibilities/NNS exist/VB for/IN achieving/VBG this/DT :/pct 1/CD ./pct
+The/AT use/NN of/IN high/JJ voltages/NNS and/CC low/JJ currents/NNS by/IN proper/JJ design/NN to/TO reduce/VB electron/NN heat/NN transfer/NN to/IN the/AT anode/NN for/IN a/AT given/VBN power/NN output/NN ./pct
+2/CD ./pct
+Continuous/JJ motion/NN of/IN the/AT arc/NN contact/NN area/NN at/IN the/AT anode/NN by/IN flow/NN or/CC magnetic/JJ forces/NNS ./pct
+3/CD ./pct
+Feedback/NN of/IN the/AT energy/NN transferred/VBN to/IN the/AT anode/NN by/IN applying/VBG gas/NN transpiration/NN through/IN the/AT anode/NN ./pct
+The/AT third/OD method/NN was/BEDZ ,/pct to/IN our/PPg knowledge/NN ,/pct successfully/RB applied/VBN for/IN the/AT first/OD time/NN by/IN C./NP Sheer/NP and/CC co-workers/NNS (/pct Ref./NN 2/CD )/pct ./pct
+The/AT purpose/NN of/IN the/AT present/JJ study/NN is/BEZ to/TO study/VB the/AT thermal/JJ conditions/NNS and/CC to/TO establish/VB an/AT energy/NN balance/NN for/IN a/AT transpiration/NN cooled/VBN anode/NN as/QL well/RB as/CS the/AT effect/NN of/IN blowing/VBG on/IN the/AT arc/NN voltage/NN ./pct
+Gas/NN injection/NN through/IN a/AT porous/JJ anode/NN (/pct transpiration/NN cooling/NN )/pct not/NEG only/RB feeds/VBZ back/RB the/AT energy/NN transferred/VBN to/IN the/AT anode/NN by/IN the/AT above/RB mentioned/VBN processes/NNS ,/pct but/CC also/RB modifies/VBZ the/AT conditions/NNS in/IN the/AT arc/NN itself/PPL ./pct
+A/AT detailed/VBN study/NN of/IN this/DT latter/AP phenomenon/NN was/BEDZ not/NEG attempted/VBN in/IN this/DT paper/NN ./pct
+Argon/NN was/BEDZ used/VBN as/CS a/AT blowing/VBG gas/NN to/TO exclude/VB any/DTI effects/NNS of/IN dissociation/NN or/CC chemical/NN reaction/NN ./pct
+The/AT anode/NN material/NN was/BEDZ porous/JJ graphite/NN ./pct
+Sintered/VBN porous/JJ metals/NNS should/MD be/BE usable/JJ in/IN principle/NN ./pct
+However/RB ,/pct technical/JJ difficulties/NNS arise/VB by/IN melting/VBG at/IN local/JJ hot/JJ spots/NNS ./pct
+The/AT experimental/JJ arrangement/NN as/CS described/VBN below/RB is/BEZ based/VBN on/IN the/AT geometry/NN of/IN free/RB burning/VBG arcs/NNS ./pct
+Thus/RB ,/pct direct/JJ comparisons/NNS can/MD be/BE drawn/VBN with/IN free/RB burning/VBG arcs/NNS which/WDT have/HV been/BEN studied/VBN in/IN detail/NN during/IN the/AT past/AP years/NNS and/CC decades/NNS by/IN numerous/JJ investigators/NNS (/pct Ref./NN 3/CD )/pct ./pct
+Experimental/JJ apparatus/NN
+Figures/NNS 1/CD to/IN 3/CD show/VB photographic/JJ and/CC schematic/JJ views/NNS of/IN the/AT test/NN stand/NN and/CC of/IN two/CD different/JJ models/NNS of/IN the/AT anode/NN holder/NN ./pct
+The/AT cathode/NN consisted/VBD of/IN a/AT 1/4''/NN ''/pct diameter/NN thoriated/VBN tungsten/NN rod/NN attached/VBN to/IN a/AT water/NN cooled/VBN copper/NN tube/NN ./pct
+This/DT tube/NN could/MD be/BE adjusted/VBN in/IN its/PPg axial/JJ direction/NN by/IN an/AT electric/JJ drive/NN to/TO establish/VB the/AT required/VBN electrode/NN spacing/NN ./pct
+The/AT anode/NN in/IN figure/NN 2/CD was/BEDZ mounted/VBN by/IN means/NN of/IN the/AT anode/NN holder/NN which/WDT was/BEDZ attached/VBN to/IN a/AT steel/NN plug/NN and/CC disk/NN ./pct
+The/AT transpiring/VBG gas/NN ejected/VBN from/IN the/AT anode/NN formed/VBD a/AT jet/NN directed/VBN axially/RB towards/IN the/AT cathode/NN below/RB ./pct
+Inflow/NN of/IN air/NN from/IN the/AT surrounding/VBG atmosphere/NN was/BEDZ prevented/VBN by/IN the/AT two/CD disks/NNS shown/VBN in/IN figure/NN 2/CD ./pct
+Argon/NN was/BEDZ also/RB blown/VBN at/IN low/JJ velocities/NNS (/pct mass/NN flow/NN rate/NN Af/NN )/pct through/IN a/AT tube/NN coaxial/JJ with/IN the/AT cathode/NN as/CS an/AT additional/JJ precaution/NN against/IN contamination/NN of/IN the/AT arc/NN by/IN air/NN ./pct
+The/AT anode/NN consisted/VBD of/IN a/AT 1/2/CD inch/NN diameter/NN porous/JJ graphite/NN plug/NN ,/pct 1/4/CD inch/NN long/JJ ./pct
+The/AT graphite/NN was/BEDZ National/JJ Carbon/NN NC/NN 60/CD ,/pct which/WDT has/HVZ a/AT porosity/NN of/IN 50%/NN and/CC an/AT average/JJ pore/NN size/NN of/IN 30/CD ./pct
+This/DT small/JJ pore/NN size/NN was/BEDZ required/VBN to/TO ensure/VB uniformity/NN of/IN the/AT flow/NN leaving/VBG the/AT anode/NN ./pct
+The/AT anode/NN plug/NN (/pct Figure/NN 2/CD )/pct was/BEDZ inserted/VBN into/IN a/AT carbon/NN anode/NN holder/NN ./pct
+A/AT shielded/VBN thermocouple/NN was/BEDZ used/VBN to/TO measure/VB the/AT upstream/JJ temperature/NN of/IN the/AT transpiring/VBG gas/NN ./pct
+It/PPS was/BEDZ exposed/VBN to/IN a/AT high/JJ velocity/NN gas/NN jet/NN ./pct
+A/AT plug/NN and/CC a/AT tube/NN with/IN holes/NNS in/IN its/PPg cylindrical/JJ walls/NNS divided/VBD the/AT chamber/NN above/IN the/AT porous/JJ plug/NN into/IN two/CD parts/NNS ./pct
+This/DT arrangement/NN had/HVD the/AT purpose/NN to/TO prevent/VB heated/VBN gas/NN to/TO reach/VB the/AT thermocouple/NN by/IN natural/JJ convection/NN ./pct
+Two/CD pyrometers/NNS shown/VBN in/IN figure/NN 1/CD and/CC 2/CD (/pct Pyrometer/NN Instrument/NN Co./NN Model/NN 95/CD )/pct served/VBD for/IN simultaneous/JJ measurement/NN of/IN the/AT anode/NN surface/NN temperature/NN and/CC the/AT temperature/NN distribution/NN along/IN the/AT anode/NN holder/NN ./pct
+Three/CD thermocouples/NNS were/BED placed/VBN at/IN different/JJ locations/NNS in/IN the/AT aluminum/NN disk/NN surrounding/VBG the/AT anode/NN holder/NN to/TO determine/VB its/PPg temperature/NN ./pct
+Another/DT anode/NN holder/NN used/VBN in/IN the/AT experiments/NNS is/BEZ shown/VBN in/IN figure/NN 3/CD ./pct
+In/IN this/DT design/NN the/AT anode/NN holder/NN is/BEZ water/NN cooled/VBN and/CC the/AT heat/NN losses/NNS by/IN conduction/NN from/IN the/AT anode/NN were/BED determined/VBN by/IN measuring/VBG the/AT temperature/NN rise/NN of/IN the/AT coolant/NN ./pct
+To/TO reduce/VB heat/NN transfer/NN from/IN the/AT hot/JJ gas/NN to/IN this/DT anode/NN holder/NN outside/IN the/AT regime/NN of/IN the/AT arc/NN ,/pct a/AT carbon/NN shield/NN was/BEDZ attached/VBN to/IN the/AT surface/NN providing/VBG an/AT air/NN gap/NN of/IN 1/16/CD inch/NN between/IN the/AT plate/NN and/CC the/AT surface/NN of/IN the/AT anode/NN holder/NN ./pct
+In/IN addition/NN ,/pct the/AT inner/JJ surface/NN of/IN the/AT carbon/NN shield/NN was/BEDZ covered/VBN with/IN aluminum/NN foil/NN to/TO reduce/VB radiation/NN ./pct
+Temperatures/NNS of/IN the/AT shield/NN and/CC of/IN the/AT surface/NN of/IN the/AT water-cooled/JJ anode/NN holder/NN were/BED measured/VBN by/IN thermocouples/NNS to/TO account/VB for/IN heat/NN received/VBN by/IN the/AT coolant/NN but/CC not/NEG originating/VBG from/IN the/AT anode/NN plug/NN ./pct
+The/AT argon/NN flow/NN from/IN commercial/JJ bottles/NNS was/BEDZ regulated/VBN by/IN a/AT pressure/NN regulator/NN and/CC measured/VBN with/IN a/AT gas/NN flow/NN rator/NN ./pct
+The/AT power/NN source/NN was/BEDZ a/AT commercial/JJ D./NP C./NP rectifier/NN ./pct
+At/IN 100/CD Amp/NN the/AT 360/CD cycle/NN ripple/NN was/BEDZ less/AP than/IN 0.5/CD V/NN (/pct peak/NN to/IN peak/NN )/pct with/IN a/AT resistive/JJ load/NN ./pct
+The/AT current/NN was/BEDZ regulated/VBN by/IN means/NN of/IN a/AT variable/JJ resistor/NN and/CC measured/VBN with/IN a/AT 50/CD mV/NN shunt/NN and/CC millivoltmeter/NN ./pct
+The/AT arc/NN voltage/NN was/BEDZ measured/VBN with/IN a/AT voltmeter/NN whose/WPg terminals/NNS were/BED connected/VBN to/IN the/AT anode/NN and/CC cathode/NN holders/NNS ./pct
+Because/RB of/IN the/AT falling/VBG characteristic/NN of/IN the/AT rectifier/NN ,/pct no/AT ballast/NN resistor/NN was/BEDZ required/VBN for/IN stability/NN of/IN operation/NN ./pct
+A/AT high/JJ frequency/NN starter/NN was/BEDZ used/VBN to/TO start/VB the/AT arc/NN ./pct
+Experimental/JJ procedure/NN and/CC error/NN analysis/NN
+1/CD ./pct
+Transpiration/NN cooled/VBN anode/NN with/IN carbon/NN anode/NN holder/NN
+The/AT anode/NN holder/NN shown/VBN in/IN figure/NN 2/CD was/BEDZ designed/VBN with/IN two/CD goals/NNS in/IN mind/NN ./pct
+The/AT heat/NN losses/NNS of/IN the/AT holder/NN were/BED to/TO be/BE reduced/VBN as/QL far/RB as/CS possible/JJ and/CC they/PPSS should/MD be/BE such/JJ that/CS an/AT accurate/JJ heat/NN balance/NN can/MD be/BE made/VBN ./pct
+In/IN order/NN to/TO reduce/VB the/AT number/NN of/IN variable/JJ parameters/NNS ,/pct all/ABN experiments/NNS were/BED made/VBN with/IN a/AT constant/JJ arc/NN length/NN of/IN 0.5''/NNS ''/pct and/CC a/AT current/NN of/IN 100/CD Aj/NN ./pct
+The/AT argon/NN flow/NN through/IN the/AT porous/JJ anode/NN was/BEDZ varied/VBN systematically/RB between/IN Af/NN and/CC Af/NN ./pct
+The/AT lower/JJR limit/NN was/BEDZ determined/VBN by/IN the/AT fact/NN that/CS for/IN smaller/JJR flow/NN rates/NNS the/AT arc/NN started/VBD to/TO strike/VB to/IN the/AT anode/NN holder/NN instead/RB of/IN to/IN the/AT porous/JJ graphite/NN plug/NN and/CC that/CS it/PPS became/VBD highly/QL unstable/JJ ./pct
+The/AT upper/JJ limit/NN was/BEDZ determined/VBN by/IN the/AT difficulty/NN of/IN measuring/VBG the/AT characteristic/JJ anode/NN surface/NN temperature/NN (/pct see/VB below/RB )/pct since/CS only/RB a/AT small/JJ region/NN of/IN the/AT anode/NN was/BEDZ struck/VBN by/IN the/AT arc/NN ./pct
+This/DT region/NN which/WDT had/HVD a/AT higher/JJR temperature/NN than/CS the/AT rest/NN of/IN the/AT anode/NN surface/NN changed/VBD size/NN and/CC location/NN continuously/RB ./pct
+For/IN each/DT mass/NN flow/NN rate/NN the/AT arc/NN voltage/NN was/BEDZ measured/VBN ./pct
+To/TO measure/VB the/AT surface/NN temperature/NN of/IN the/AT anode/NN plug/NN ,/pct the/AT surface/NN was/BEDZ scanned/VBN with/IN a/AT pyrometer/NN ./pct
+As/CS it/PPS turned/VBD out/RP ,/pct a/AT very/QL hot/JJ region/NN occurred/VBD on/IN the/AT plug/NN ./pct
+Its/PPg temperature/NN was/BEDZ denoted/VBN by/IN Af/NN ./pct
+The/AT size/NN of/IN this/DT hot/JJ region/NN was/BEDZ estimated/VBN by/IN eye/NN ./pct
+The/AT rest/NN of/IN the/AT surface/NN had/HVD a/AT temperature/NN which/WDT decreased/VBD towards/IN the/AT outer/JJ diameter/NN of/IN the/AT plug/NN ./pct
+The/AT mean/JJ temperature/NN of/IN this/DT region/NN was/BEDZ approximated/VBN by/IN the/AT temperature/NN measured/VBN halfways/RB between/IN the/AT edge/NN of/IN the/AT hot/JJ spot/NN and/CC the/AT rim/NN of/IN the/AT plug/NN ./pct
+It/PPS was/BEDZ denoted/VBN by/IN Af/NN ./pct
+The/AT mean/JJ temperature/NN of/IN the/AT surface/NN was/BEDZ then/RB computed/VBN according/IN to/IN the/AT following/VBG relation/NN :/pct Af/NN where/WRB x/NN is/BEZ the/AT fraction/NN of/IN the/AT plug/NN area/NN covered/VBN by/IN the/AT hot/JJ spot/NN ./pct
+Assuming/VBG thermal/JJ equilibrium/NN between/IN the/AT anode/NN surface/NN and/CC the/AT transpiring/VBG argon/NN ,/pct the/AT gas/NN enthalpy/NN rise/NN through/IN the/AT anode/NN was/BEDZ calculated/VBN according/IN to/IN the/AT relation/NN Af/NN whereby/WRB the/AT specific/JJ heat/NN of/IN argon/NN was/BEDZ taken/VBN as/CS Af/NN ./pct
+This/DT calculation/NN results/VBZ in/IN an/AT enthalpy/NN rise/NN which/WDT is/BEZ somewhat/QL high/JJ because/CS it/PPS assumes/VBZ a/AT mass/NN flow/NN equally/RB distributed/VBN over/IN the/AT plug/NN cross/NN section/NN whereas/CS in/IN reality/NN the/AT mass/NN velocity/NN is/BEZ expected/VBN to/TO be/BE smaller/JJR in/IN the/AT regions/NNS of/IN higher/JJR temperatures/NNS ./pct
+The/AT upstream/JJ gas/NN temperature/NN measured/VBN with/IN the/AT thermocouple/NN shown/VBN in/IN figure/NN 2/CD was/BEDZ Af/NN ./pct
+The/AT Af/NN values/NNS are/BER listed/VBN in/IN Table/NN 1/CD together/RB with/IN the/AT measured/VBN surface/NN temperatures/NNS and/CC arc/NN voltages/NNS ./pct
+Simultaneously/RB with/IN the/AT anode/NN surface/NN temperature/NN and/CC voltage/NN measurements/NNS pyrometer/NN readings/NNS were/BED taken/VBN along/IN the/AT cylindrical/JJ surface/NN of/IN the/AT carbon/NN anode/NN holder/NN as/CS indicated/VBN on/IN figure/NN 2/CD ./pct
+Some/DTI of/IN these/DTS temperatures/NNS are/BER plotted/VBN in/IN figure/NN 4/CD ./pct
+They/PPSS showed/VBD no/AT marked/VBN dependence/NN on/IN the/AT flow/NN rate/NN within/IN the/AT accuracy/NN of/IN these/DTS measurements/NNS ./pct
+Thus/RB ,/pct the/AT dotted/VBN line/NN shown/VBN in/IN figure/NN 4/CD was/BEDZ taken/VBN as/CS typical/JJ for/IN the/AT temperature/NN distribution/NN for/IN all/ABN blowing/VBG rates/NNS ./pct
+The/AT thermocouples/NNS in/IN the/AT aluminum/NN disk/NN shown/VBN in/IN figure/NN 2/CD indicated/VBD an/AT equilibrium/NN temperature/NN of/IN the/AT surface/NN of/IN Af/NN ./pct
+This/DT temperature/NN was/BEDZ taken/VBN as/CS environmental/JJ temperature/NN to/IN which/WDT the/AT anode/NN holder/NN was/BEDZ exposed/VBN as/QL far/RB as/CS radiation/NN is/BEZ concerned/VBN ./pct
+It/PPS is/BEZ sufficiently/QL small/JJ compared/VBN with/IN the/AT surface/NN temperature/NN of/IN the/AT anode/NN holder/NN ,/pct to/TO make/VB the/AT energy/NN flux/NN radiated/VBN from/IN the/AT environment/NN toward/IN the/AT anode/NN holder/NN negligible/JJ within/IN the/AT accuracy/NN of/IN the/AT present/JJ measurements/NNS ./pct
+The/AT reflection/NN of/IN radiation/NN originating/VBG from/IN the/AT anode/NN holder/NN and/CC reflected/VBN back/RB to/IN it/PPO by/IN the/AT surrounding/VBG metal/NN surfaces/NNS should/MD also/RB be/BE small/JJ because/RB of/IN the/AT peculiar/JJ characteristic/NN of/IN the/AT metal/NN surfaces/NNS and/CC of/IN the/AT specific/JJ geometry/NN ./pct
+The/AT total/JJ heat/NN loss/NN through/IN the/AT anode/NN holder/NN included/VBD also/RB the/AT heat/NN conducted/VBN through/IN the/AT base/NN of/IN the/AT cylindrical/JJ piece/NN into/IN the/AT adjacent/JJ metal/NN parts/NNS ./pct
+It/PPS was/BEDZ calculated/VBN from/IN the/AT temperature/NN gradient/NN Af/NN at/IN Af/NN inch/NN as/CS Af/NN ./pct
+The/AT total/JJ heat/NN flux/NN from/IN the/AT porous/JJ plug/NN into/IN the/AT plug/NN holder/NN is/BEZ thereby/RB Af/NN ./pct
+The/AT temperature/NN distribution/NN of/IN figure/NN 4/CD gives/VBZ Af/NN for/IN all/ABN blowing/VBG rates/NNS ,/pct assuming/VBG Af/NN ./pct
+The/AT temperature/NN dependent/JJ value/NN of/IN **ye/NN was/BEDZ taken/VBN from/IN Ref./NN 7/CD ./pct
+The/AT radiation/NN loss/NN from/IN the/AT anode/NN surface/NN was/BEDZ computed/VBN according/IN to/IN Af/NN where/WRB Af/NN is/BEZ the/AT mean/NN of/IN the/AT fourth/OD powers/NNS of/IN the/AT temperatures/NNS Af/NN and/CC Af/NN calculated/VBN analogously/RB to/IN equation/NN (/pct 1/CD )/pct ./pct

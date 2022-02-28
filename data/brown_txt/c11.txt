@@ -1,0 +1,109 @@
+Mischa/NP Elman/NP shared/VBD last/AP night's/NNg Lewisohn/NP Stadium/NN concert/NN with/IN three/CD American/JJ composers/NNS ./pct
+His/PPg portion/NN of/IN the/AT program/NN --/pct and/CC a/AT big/JJ portion/NN it/PPS was/BEDZ --/pct consisted/VBD of/IN half/ABN the/AT major/JJ nineteenth-century/NN concertos/NNS for/IN the/AT violin/NN :/pct to/IN wit/NN ,/pct the/AT Mendelssohn/NP and/CC the/AT Tchaikovsky/NP ./pct
+That/DT is/BEZ an/AT evening/NN of/IN music-making/NN that/WPS would/MD faze/VB many/ABN a/AT younger/JJR man/NN ;/pct ;/pct
+Mr./NP Elman/NP is/BEZ 70/CD years/NNS old/JJ ./pct
+There/EX were/BED 8,000/CD persons/NNS at/IN the/AT Stadium/NN who/WPS can/MD tell/VB their/PPg grandchildren/NNS that/CS they/PPSS heard/VBD Elman/NP ./pct
+But/CC ,/pct with/IN all/ABN due/JJ respects/NNS and/CC allowances/NNS ,/pct it/PPS must/MD truthfully/RB be/BE said/VBN that/CS what/WDT they/PPSS heard/VBD was/BEDZ more/QL syrupy/JJ than/CS sweet/JJ ,/pct more/QL mannered/JJ than/CS musical/JJ ./pct
+The/AT occasion/NN was/BEDZ sentimental/JJ ;/pct ;/pct
+so/RB was/BEDZ the/AT playing/NN ./pct
+The/AT American/JJ part/NN of/IN the/AT evening/NN consisted/VBD of/IN Paul/NP Creston's/NPg Dance/NN Overture/NN ,/pct William/NP Schuman's/NPg ``/pct Chester/NP ''/pct From/IN ``/pct New/JJ England/NP Triptych/NN ''/pct and/CC two/CD works/NNS of/IN Wallingford/NP Riegger/NP ,/pct Dance/NN Rhythms/NNS ,/pct Op./NN 58/CD ,/pct and/CC a/AT Romanza/NN For/IN Strings/NNS ,/pct Op./NN 56A/NN ./pct
+The/AT Creston/NP is/BEZ purely/RB a/AT potboiler/NN ,/pct with/IN Spanish/JJ ,/pct English/JJ ,/pct French/JJ and/CC American/JJ dances/NNS mixed/VBN into/IN the/AT stew/NN ./pct
+The/AT Riegger/NP ,/pct with/IN its/PPg Latin/JJ hesitation/NN bounce/NN ,/pct is/BEZ just/RB this/DT side/NN of/IN the/AT pale/JJ ;/pct ;/pct
+like/CS his/PPg sweet/JJ ,/pct attractive/JJ Romanza/NN ,/pct it/PPS belongs/VBZ to/IN what/WDT the/AT composer/NN called/VBD his/PPg ``/pct Non-Dissonant/JJ (/pct Mostly/RB )/pct ''/pct category/NN of/IN works/NNS ./pct
+The/AT Schuman/NP ``/pct Chester/NP ''/pct takes/VBZ off/RP from/IN an/AT old/JJ William/NP Billings/NP tune/NN with/IN rousing/JJ woodwind/NN and/CC brass/NN effect/NN ./pct
+All/QL these/DTS --/pct potboilers/NNS or/CC no/AT --/pct provided/VBD a/AT welcome/JJ breath/NN of/IN fresh/JJ air/NN in/IN the/AT form/NN of/IN lively/JJ ,/pct colorful/JJ ,/pct unstuffy/JJ works/NNS well/QL suited/VBN for/IN the/AT great/JJ out-of-doors/NN ./pct
+It/PPS was/BEDZ nice/JJ to/TO have/HV something/PN a/AT little/QL up-to-date/JJ for/IN a/AT change/NN ./pct
+We/PPSS have/HV Alfredo/NP Antonini/NP to/TO thank/VB for/IN this/DT healthy/JJ change/NN of/IN diet/NN as/QL well/RB as/CS the/AT lively/JJ performances/NNS of/IN the/AT Stadium/NN Symphony/NN ./pct
+A/AT woman/NN who/WPS undergoes/VBZ artificial/JJ insemination/NN against/IN the/AT wishes/NNS of/IN her/PPg husband/NN is/BEZ the/AT unlikely/JJ heroine/NN of/IN ``/pct A/AT Question/NN Of/IN Adultery/NN ''/pct ,/pct yesterday's/NRg new/JJ British/JJ import/NN at/IN the/AT Apollo/NP ./pct
+Since/CS an/AT objective/JJ viewer/NN might/MD well/RB conclude/VB that/CS this/DT is/BEZ not/NEG a/AT situation/NN that/WPS would/MD often/RB arise/VB ,/pct the/AT film's/NNg extensive/JJ discussion/NN of/IN the/AT problem/NN seems/VBZ ,/pct at/IN best/JJT ,/pct superfluous/JJ ./pct
+In/IN its/PPg present/JJ artless/JJ ,/pct low-budget/NN form/NN ,/pct the/AT subject/NN matter/NN seems/VBZ designed/VBN to/TO invite/VB censorial/JJ wrath/NN ./pct
+With/IN Julie/NP London/NP enacting/VBG the/AT central/JJ role/NN with/IN husky-voiced/JJ sincerity/NN ,/pct the/AT longsuffering/JJ heroine/NN is/BEZ at/IN least/AP attractive/JJ ./pct
+The/AT explanation/NN offered/VBN for/IN her/PPg conduct/NN is/BEZ a/AT misguided/VBN attempt/NN to/TO save/VB her/PPg marriage/NN to/IN a/AT neurotic/JJ husband/NN left/VBN sterile/JJ as/CS a/AT result/NN of/IN an/AT automobile/NN accident/NN ./pct
+Anthony/NP Steel/NP ,/pct as/CS the/AT husband/NN ,/pct is/BEZ a/AT jealous/JJ type/NN who/WPS argues/VBZ against/IN her/PPg course/NN and/CC sues/VBZ for/IN divorce/NN ,/pct labeling/VBG her/PPg action/NN adulterous/JJ ./pct
+The/AT actor/NN plays/VBZ his/PPg role/NN glumly/RB under/IN the/AT lurid/JJ direction/NN of/IN Don/NP Chaffey/NP ,/pct as/CS do/DO Basil/NP Sydney/NP as/CS his/PPg unsympathetic/JJ father/NN and/CC Anton/NP Diffring/NP as/CS an/AT innocent/JJ bystander/NN ./pct
+After/IN a/AT protracted/VBN ,/pct hysterical/JJ trial/NN scene/NN more/QL notable/JJ for/IN the/AT frankness/NN of/IN its/PPg language/NN than/CS for/IN dramatic/JJ credibility/NN ,/pct the/AT jury/NN ,/pct to/IN no/AT one's/PNg surprise/NN ,/pct leaves/VBZ the/AT legal/JJ question/NN unresolved/JJ ./pct
+When/WRB the/AT husband/NN drops/VBZ the/AT case/NN and/CC returns/VBZ to/IN his/PPg wife/NN ,/pct both/ABX seem/VB sorry/JJ they/PPSS brought/VBD the/AT matter/NN up/RP in/IN the/AT first/OD place/NN ./pct
+So/RB was/BEDZ the/AT audience/NN ./pct
+London/NP ,/pct July/NP 4/CD
+--/pct For/IN its/PPg final/JJ change/NN of/IN bill/NN in/IN its/PPg London/NP season/NN ,/pct the/AT Leningrad/NP State/NN Kirov/NP Ballet/NN chose/VBD tonight/NR to/TO give/VB one/CD of/IN those/DTS choreographic/JJ miscellanies/NNS known/VBN as/CS a/AT ``/pct gala/JJ program/NN ''/pct at/IN the/AT Royal/JJ Opera/NN House/NN ,/pct Covent/NP Garden/NN ./pct
+No/AT doubt/NN the/AT underlying/VBG idea/NN was/BEDZ to/TO show/VB that/CS for/IN all/ABN the/AT elegance/NN and/CC artistry/NN that/WPS have/HV distinguished/VBN its/PPg presentations/NNS thus/QL far/RB ,/pct it/PPS too/RB could/MD give/VB a/AT circus/NN if/CS it/PPS pleased/VBD ./pct
+And/CC please/VB it/PPS did/DOD ,/pct in/IN every/AT sense/NN of/IN the/AT word/NN ,/pct for/CS it/PPS had/HVD the/AT audience/NN shouting/VBG much/AP of/IN the/AT time/NN in/IN a/AT manner/NN far/RB from/IN typical/JJ of/IN London/NP audiences/NNS ./pct
+At/IN the/AT end/NN of/IN the/AT program/NN ,/pct indeed/RB ,/pct there/EX was/BEDZ a/AT demonstration/NN that/WPS lasted/VBD for/IN forty-five/CD minutes/NNS ,/pct and/CC nothing/PN could/MD stop/VB it/PPO ./pct
+Alexandre/NP Livshitz/NP repeated/VBD a/AT fantastic/JJ technical/JJ bit/NN from/IN the/AT closing/VBG number/NN ,/pct ``/pct Taras/NP Bulba/NP ''/pct ,/pct but/CC even/RB then/RB there/EX was/BEDZ a/AT substantial/JJ number/NN of/IN diehards/NNS who/WPS seemed/VBD determined/VBN not/NEG to/TO go/VB home/NR at/IN all/ABN ./pct
+Only/RB a/AT plea/NN from/IN the/AT house/NN manager/NN ,/pct John/NP Collins/NP ,/pct finally/RB broke/VBD up/RP the/AT party/NN ./pct
+But/CC for/IN all/ABN the/AT manifest/JJ intention/NN to/TO ``/pct show/VB off/RP ''/pct ,/pct this/DT was/BEDZ a/AT circus/NN with/IN a/AT difference/NN ,/pct for/CS instead/RB of/IN descending/VBG in/IN quality/NN to/IN what/WDT is/BEZ known/VBN as/CS a/AT popular/JJ level/NN ,/pct it/PPS added/VBD further/RBR to/IN the/AT evidence/NN that/CS this/DT is/BEZ a/AT very/QL great/JJ dancing/VBG company/NN ./pct
+The/AT ``/pct Taras/NP Bulba/NP ''/pct excerpt/NN is/BEZ a/AT rousing/JJ version/NN of/IN Gogol's/NPg Ukrainian/JJ folk-tale/NN choreographed/VBN by/IN Bo/NP Fenster/NP to/IN music/NN of/IN Soloviev-Sedoi/NP ./pct
+It/PPS is/BEZ danced/VBN by/IN some/RB thirty-five/CD men/NNS and/CC no/AT women/NNS ,/pct and/CC it/PPS contains/VBZ everything/PN in/IN the/AT books/NNS --/pct lusty/JJ comedy/NN ,/pct gregarious/JJ cavorting/NN ,/pct and/CC tricks/NNS that/WPS only/RB madmen/NNS or/CC Russians/NPS would/MD attempt/VB to/TO make/VB the/AT human/JJ body/NN perform/VB ./pct
+Yuri/NP Soloviev/NP ,/pct Oleg/NP Sokolov/NP ,/pct Alexei/NP Zhitkov/NP ,/pct Lev/NP Sokolov/NP ,/pct Yuri/NP Korneyev/NP and/CC Mr./NP Livshitz/NP were/BED the/AT chief/JJS soloists/NNS ,/pct but/CC everybody/PN on/IN stage/NN was/BEDZ magnificent/JJ ./pct
+At/IN the/AT other/AP extreme/NN in/IN character/NN was/BEDZ the/AT half-hour/NN excerpt/NN from/IN the/AT Petipa-Minkus/NP ballet/NN ``/pct Bayaderka/NP ''/pct ,/pct which/WDT opened/VBD the/AT evening/NN ./pct
+What/WDT a/AT man/NN this/DT Petipa/NP was/BEDZ !/pct !/pct
+And/CC why/WRB do/DO we/PPSS in/IN the/AT West/NR know/VB so/QL few/AP of/IN his/PPg ballets/NNS ?/pct ?/pct
+This/DT scene/NN is/BEZ a/AT ``/pct white/JJ ballet/NN ''/pct in/IN which/WDT a/AT lovelorn/JJ hero/NN searches/VBZ for/IN his/PPg departed/VBN love's/NNg spirit/NN among/IN twenty-eight/CD extraordinarily/QL beautiful/JJ ``/pct shadows/NNS ''/pct who/WPS can/MD all/ABN dance/VB like/CS nothing/PN human/JJ --/pct which/WDT ,/pct of/IN course/NN ,/pct is/BEZ altogether/RB fitting/VBG ./pct
+The/AT ensemble/NN enters/VBZ in/IN a/AT long/JJ adagio/NN passage/NN that/DT is/BEZ of/IN fantastic/JJ difficulty/NN ,/pct as/QL well/RB as/CS loveliness/NN ,/pct and/CC adagio/NN is/BEZ the/AT general/JJ medium/NN of/IN the/AT piece/NN ./pct
+Its/PPg ballerina/NN ,/pct Olga/NP Moiseyeva/NP ,/pct performs/VBZ simple/JJ miracles/NNS of/IN beauty/NN ,/pct and/CC Ludmilla/NP Alexeyeva/NP ,/pct Inna/NP Korneyeva/NP and/CC Gabrielle/NP Komleva/NP make/VB up/RP a/AT threesome/NN of/IN exquisite/JJ accomplishments/NNS ./pct
+Sergei/NP Vikulov/NP ,/pct as/CS the/AT lone/JJ male/NN ,/pct meets/VBZ the/AT competition/NN well/RB with/IN some/DTI brilliant/JJ hits/NNS ,/pct but/CC the/AT work/NN is/BEZ designed/VBN to/TO belong/VB to/IN the/AT ladies/NNS ./pct
+The/AT middle/JJ section/NN of/IN the/AT program/NN was/BEDZ made/VBN up/RP of/IN short/JJ numbers/NNS ,/pct naturally/RB enough/QLP of/IN unequal/JJ merit/NN ,/pct but/CC all/ABN of/IN them/PPO pretty/QL good/JJ at/IN that/DT ./pct
+They/PPSS consisted/VBD of/IN a/AT new/JJ arrangement/NN of/IN ``/pct Nutcracker/NN ''/pct excerpts/NNS danced/VBN stunningly/RB by/IN Irina/NP Kolpakova/NP and/CC Mr./NP Sokolev/NP ,/pct with/IN a/AT large/JJ ensemble/NN ;/pct ;/pct
+a/AT winning/VBG little/JJ ``/pct Snow/NN Maiden/NN ''/pct variation/NN by/IN the/AT adorable/JJ Galina/NP Kekisheva/NP ;/pct ;/pct
+two/CD of/IN those/DTS poetic/JJ adagios/NNS in/IN Greek/JJ veils/NNS (/pct and/CC superb/JJ esthetic/JJ acrobacy/NN )/pct by/IN Alla/NP Osipenko/NP and/CC Igor/NP Chernishev/NP in/IN one/CD case/NN and/CC Inna/NP Zubkovskaya/NP and/CC Yuri/NP Kornevey/NP in/IN the/AT other/AP ;/pct ;/pct
+an/AT amusing/JJ character/NN pas/NN de/IN cinq/CD called/VBN ``/pct Gossiping/VBG Women/NNS ''/pct ;/pct ;/pct
+a/AT stirring/JJ ``/pct Flames/NNS Of/IN Paris/NP ''/pct pas/NN de/IN deux/CD by/IN Xenia/NP Ter-Stepanova/NP and/CC Alexandre/NP Pavlovsky/NP ,/pct and/CC a/AT lovely/JJ version/NN of/IN Fokine's/NPg ``/pct Le/AT Cygne/NN ''/pct by/IN Olga/NP Moiseyeva/NP ,/pct which/WDT had/HVD to/TO be/BE repeated/VBN ./pct
+Vadim/NP Kalentiev/NP was/BEDZ the/AT conductor/NN ./pct
+It/PPS was/BEDZ quite/ABL an/AT evening/NN !/pct !/pct
+A/AT year/NN ago/RB today/NR ,/pct when/WRB the/AT Democrats/NPS were/BED fretting/VBG and/CC frolicking/VBG in/IN Los/NP Angeles/NP and/CC John/NP F./NP Kennedy/NP was/BEDZ still/RB only/RB an/AT able/JJ and/CC ambitious/JJ Senator/NN who/WPS yearned/VBD for/IN the/AT power/NN and/CC responsibility/NN of/IN the/AT Presidency/NN ,/pct Theodore/NP H./NP White/NP had/HVD already/RB compiled/VBN masses/NNS of/IN notes/NNS about/IN the/AT Presidential/JJ campaign/NN of/IN 1960/CD ./pct
+As/CS the/AT pace/NN of/IN the/AT quadrennial/JJ American/JJ political/JJ festival/NN accelerated/VBD ,/pct Mr./NP White/NP took/VBD more/AP notes/NNS ./pct
+He/PPS traveled/VBD alternately/RB with/IN Mr./NP Kennedy/NP and/CC with/IN Richard/NP M./NP Nixon/NP ./pct
+He/PPS asked/VBD intimate/JJ questions/NNS and/CC got/VBD frank/JJ answers/NNS from/IN the/AT members/NNS of/IN what/WDT he/PPS calls/VBZ the/AT candidates'/NNSg ``/pct in-groups/NNS ''/pct ./pct
+He/PPS assembled/VBD quantities/NNS of/IN facts/NNS about/IN the/AT nature/NN of/IN American/JJ politics/NN in/IN general/JJ ,/pct as/QL well/RB as/CS about/IN the/AT day-to-day/JJ course/NN of/IN the/AT closest/JJT Presidential/JJ election/NN in/IN American/JJ history/NN ./pct
+Those/DTS of/IN us/PPO who/WPS read/VB the/AT papers/NNS may/MD think/VB we/PPSS know/VB a/AT good/JJ deal/NN about/IN that/DT election/NN ;/pct ;/pct
+how/WQL little/AP we/PPSS know/VB of/IN what/WDT there/EX is/BEZ to/TO be/BE known/VBN is/BEZ made/VBN humiliatingly/QL clear/JJ by/IN Mr./NP White/NP in/IN ``/pct The/AT Making/NN Of/IN The/AT President/NN 1960/CD ''/pct ./pct
+This/DT is/BEZ a/AT remarkable/JJ book/NN and/CC an/AT astonishingly/QL interesting/JJ one/CD ./pct
+What/WDT might/MD have/HV been/BEN only/RB warmed-over/JJ topical/JJ journalism/NN turns/VBZ out/RP to/TO be/BE an/AT eyewitness/NN contribution/NN to/IN history/NN ./pct
+Mr./NP White/NP ,/pct who/WPS is/BEZ only/RB a/AT competent/JJ novelist/NN ,/pct is/BEZ a/AT brilliant/JJ reporter/NN ./pct
+His/PPg zest/NN for/IN specific/JJ detail/NN ,/pct his/PPg sensitivity/NN to/IN emotional/JJ atmosphere/NN ,/pct his/PPg tireless/JJ industry/NN and/CC his/PPg crisply/RB turned/VBN prose/NN all/ABN contribute/VB to/IN the/AT effectiveness/NN of/IN his/PPg book/NN ./pct
+A/AT lesson/NN in/IN politics/NN
+As/CS a/AT dramatic/JJ narrative/NN ``/pct The/AT Making/NN Of/IN The/AT President/NN 1960/CD ''/pct is/BEZ continuously/RB engrossing/JJ ./pct
+And/CC as/CS an/AT introduction/NN to/IN American/JJ politics/NN it/PPS is/BEZ highly/QL educational/JJ ./pct
+The/AT author/NN begins/VBZ this/DT volume/NN with/IN a/AT close-up/NN of/IN Mr./NP Kennedy/NP ,/pct his/PPg family/NN and/CC his/PPg entourage/NN waiting/VBG for/IN the/AT returns/NNS ./pct
+He/PPS then/RB switches/VBZ back/RB to/IN a/AT consideration/NN of/IN the/AT seven/CD principal/JJS Presidential/JJ hopefuls/NNS :/pct five/CD Democrats/NPS --/pct Senator/NN Hubert/NP H./NP Humphrey/NP ,/pct Senator/NN Stuart/NP Symington/NP ,/pct Senator/NN Lyndon/NP B./NP Johnson/NP ,/pct Adlai/NP E./NP Stevenson/NP and/CC Mr./NP Kennedy/NP --/pct and/CC two/CD Republicans/NPS --/pct Governor/NN Rockefeller/NP and/CC Mr./NP Nixon/NP ./pct
+Then/RB ,/pct in/IN chronological/JJ order/NN ,/pct Mr./NP White/NP covers/VBZ the/AT primary/NN campaigns/NNS ,/pct the/AT conventions/NNS and/CC the/AT Presidential/JJ campaign/NN itself/PPL ./pct
+In/IN the/AT process/NN he/PPS writes/VBZ at/IN length/NN about/IN many/AP related/VBN matters/NNS :/pct the/AT importance/NN of/IN race/NN ,/pct religion/NN ,/pct local/JJ tradition/NN ,/pct bosses/NNS ,/pct organizations/NNS ,/pct zealous/JJ volunteers/NNS and/CC television/NN ./pct
+Mr./NP White/NP is/BEZ bluntly/QL frank/JJ in/IN his/PPg personal/JJ opinions/NNS ./pct
+He/PPS frequently/RB cites/VBZ intimate/JJ details/NNS that/WPS seem/VB to/TO come/VB straight/RB from/IN the/AT horse's/NNg mouth/NN ,/pct from/IN numerous/JJ insiders/NNS and/CC from/IN Mr./NP Kennedy/NP himself/PPL ;/pct ;/pct
+but/CC never/RB from/IN Mr./NP Nixon/NP ,/pct who/WPS looked/VBD on/IN reporters/NNS with/IN suspicion/NN and/CC distrust/NN ./pct
+``/pct Rarely/RB in/IN American/JJ history/NN has/HVZ there/EX been/BEN a/AT political/JJ campaign/NN that/WPS discussed/VBD issues/NNS less/RBR or/CC clarified/VBD them/PPO less/RBR ''/pct ,/pct says/VBZ Mr./NP White/NP ./pct
+Mr./NP Nixon/NP ,/pct he/PPS believes/VBZ ,/pct has/HVZ no/AT particular/JJ political/JJ philosophy/NN and/CC mismanaged/VBD his/PPg own/JJ campaign/NN ./pct
+Although/CS a/AT skillful/JJ politician/NN and/CC a/AT courageous/JJ and/CC honest/JJ man/NN ,/pct Mr./NP Nixon/NP ,/pct Mr./NP White/NP believes/VBZ ,/pct ignored/VBD his/PPg own/JJ top-level/NN planners/NNS ,/pct wasted/VBD time/NN and/CC effort/NN in/IN the/AT wrong/JJ regions/NNS ,/pct missed/VBD opportunities/NNS through/IN indecision/NN and/CC damaged/VBD his/PPg chances/NNS on/IN television/NN ./pct
+Mr./NP Nixon/NP is/BEZ ``/pct a/AT broody/JJ ,/pct moody/JJ man/NN ,/pct given/VBN to/IN long/JJ stretches/NNS of/IN introspection/NN ;/pct ;/pct
+he/PPS trusts/VBZ only/RB himself/PPL and/CC his/PPg wife/NN ./pct
+He/PPS is/BEZ a/AT man/NN of/IN major/JJ talent/NN --/pct but/CC a/AT man/NN of/IN solitary/JJ ,/pct uncertain/JJ impulses/NNS ./pct
+He/PPS was/BEDZ above/IN all/ABN a/AT friend/NN seeker/NN ,/pct almost/RB pathetic/JJ in/IN his/PPg eagerness/NN to/TO be/BE liked/VBN ./pct
+He/PPS wanted/VBD to/TO identify/VB with/IN people/NNS and/CC have/HV a/AT connection/NN with/IN them/PPO ;/pct ;/pct
+the/AT least/AP inspiring/JJ candidate/NN since/IN Alfred/NP M./NP Landon/NP ''/pct ./pct
+Mr./NP Kennedy/NP ,/pct Mr./NP White/NP believes/VBZ ,/pct ``/pct had/HVD mastered/VBN politics/NN on/IN so/QL many/AP different/JJ levels/NNS that/CS no/AT other/AP American/JJ could/MD match/VB him/PPO ''/pct ./pct
+Calm/JJ ,/pct dignified/VBN ,/pct composed/VBN ,/pct ``/pct superbly/QL eloquent/JJ ''/pct ,/pct Mr./NP Kennedy/NP always/RB knew/VBD everything/PN about/IN everybody/PN ./pct
+He/PPS enlisted/VBD a/AT staff/NN of/IN loyal/JJ experts/NNS and/CC of/IN many/AP zealous/JJ volunteers/NNS ./pct
+Every/AT decision/NN was/BEDZ made/VBN quickly/RB on/IN sound/JJ grounds/NNS ./pct
+Efficiency/NN was/BEDZ enforced/VBN and/CC nothing/PN was/BEDZ left/VBN to/IN chance/NN ./pct
+Mr./NP Kennedy/NP did/DOD not/NEG neglect/VB to/TO cultivate/VB the/AT personal/JJ friendship/NN of/IN reporters/NNS ./pct
+Mr./NP White/NP admires/VBZ him/PPO profoundly/RB and/CC leaves/VBZ no/AT doubt/NN that/CS he/PPS is/BEZ a/AT Democrat/NP himself/PPL who/WPS expects/VBZ Mr./NP Kennedy/NP to/TO be/BE a/AT fine/JJ President/NN ./pct
+Pressures/NNS portrayed/VBN
+Throughout/IN ``/pct The/AT Making/NN Of/IN A/AT President/NN ''/pct Mr./NP White/NP shows/VBZ wonderfully/QL well/RB how/WRB the/AT pressures/NNS pile/VB up/RP on/IN candidates/NNS ,/pct how/WRB decisions/NNS have/HV constantly/RB to/TO be/BE made/VBN ,/pct how/WRB fatigue/NN and/CC illness/NN and/CC nervous/JJ strain/NN wear/VB candidates/NNS down/RP ,/pct how/WRB subordinates/NNS play/VB key/JJS roles/NNS ./pct
+And/CC he/PPS makes/VBZ many/AP interesting/JJ comments/NNS ./pct
+Here/RB are/BER several/AP :/pct
+``/pct The/AT root/NN question/NN in/IN American/JJ politics/NN is/BEZ always/RB :/pct Who's /None the/AT Man/NN to/TO See/VB ?/pct ?/pct
+To/TO understand/VB American/JJ politics/NN is/BEZ ,/pct simply/RB ,/pct to/TO know/VB people/NNS ,/pct to/TO know/VB the/AT relative/JJ weight/NN of/IN names/NNS --/pct who/WPS are/BER heroes/NNS ,/pct who/WPS are/BER straw/NN men/NNS ,/pct who/WPS controls/VBZ ,/pct who/WPS does/DOZ not/NEG ./pct
+But/CC to/TO operate/VB in/IN American/JJ politics/NN one/PN must/MD go/VB a/AT step/NN further/RBR --/pct one/PN must/MD build/VB a/AT bridge/NN to/IN such/JJ names/NNS ,/pct establish/VB a/AT warmth/NN ,/pct a/AT personal/JJ connection/NN ''/pct ./pct
+``/pct In/IN the/AT hard/JJ life/NN of/IN politics/NN it/PPS is/BEZ well/RB known/VBN that/CS no/AT platform/NN nor/CC any/DTI program/NN advanced/VBN by/IN either/DTX major/JJ American/JJ party/NN has/HVZ any/DTI purpose/NN beyond/IN expressing/VBG emotion/NN ''/pct ./pct
+``/pct All/ABN platforms/NNS are/BER meaningless/JJ :/pct the/AT program/NN of/IN either/DTX party/NN is/BEZ what/WDT lies/VBZ in/IN the/AT vision/NN and/CC conscience/NN of/IN the/AT candidate/NN the/AT party/NN chooses/VBZ to/TO lead/VB it/PPO ''/pct ./pct
+Nostalgia/NN week/NN at/IN Lewisohn/NP Stadium/NN ,/pct which/WDT had/HVD begun/VBN with/IN the/AT appearance/NN of/IN the/AT 70-year-old/JJ Mischa/NP Elman/NP on/IN Tuesday/NR night/NN ,/pct continued/VBD last/AP night/NN as/CS Lily/NP Pons/NP led/VBD the/AT list/NN of/IN celebrities/NNS in/IN an/AT evening/NN of/IN French/JJ operatic/JJ excerpts/NNS ./pct
+Miss/NP Pons/NP is/BEZ certainly/RB not/NEG 70/CD --/pct no/AT singer/NN ever/RB is/BEZ --/pct and/CC yet/RB the/AT rewards/NNS of/IN the/AT evening/NN again/RB lay/VBD more/RBR in/IN paying/VBG tribute/NN to/IN a/AT great/JJ figure/NN of/IN times/NNS gone/VBN by/RB than/CS in/IN present/JJ accomplishments/NNS ./pct
+The/AT better/JJR part/NN of/IN gallantry/NN might/MD be/BE ,/pct perhaps/RB ,/pct to/TO honor/VB her/PPg perennial/JJ good/JJ looks/NNS and/CC her/PPg gorgeous/JJ rainbow-hued/JJ gown/NN ,/pct and/CC to/TO chide/VB the/AT orchestra/NN for/IN not/NEG playing/VBG in/IN the/AT same/AP keys/NNS in/IN which/WDT she/PPS had/HVD chosen/VBN to/TO sing/VB ./pct
+No/AT orchestra/NN ,/pct however/WRB ,/pct could/MD be/BE expected/VBN to/TO follow/VB a/AT singer/NN through/IN quite/QL as/QL many/AP adventures/NNS with/IN pitch/NN as/CS Miss/NP Pons/NP encountered/VBD last/AP night/NN ./pct
+In/IN all/ABN fairness/NN ,/pct there/EX were/BED flashes/NNS of/IN the/AT great/JJ stylist/NN of/IN yesteryear/NN ,/pct flashes/NNS even/RB of/IN the/AT old/JJ consummate/JJ vocalism/NN ./pct
+One/CD such/JJ moment/NN came/VBD in/IN the/AT breathtaking/JJ way/NN Miss/NP Pons/NP sang/VBD the/AT cadenza/NN to/IN Meyerbeer's/NPg ``/pct Shadow/NN Song/NN ''/pct ./pct
+The/AT years/NNS suddenly/RB fell/VBD away/RB at/IN this/DT point/NN ./pct
+On/IN the/AT whole/JJ ,/pct however/WRB ,/pct one/PN must/MD wonder/VB at/IN just/RB what/WDT it/PPS is/BEZ that/WPS forces/VBZ a/AT beloved/JJ artist/NN to/TO besmirch/VB her/PPg own/JJ reputation/NN as/CS time/NN marches/VBZ inexorably/RB on/RP ./pct
+Sharing/VBG the/AT program/NN was/BEDZ the/AT young/JJ French-Canadian/JJ tenor/NN Richard/NP Verreau/NP ,/pct making/VBG his/PPg stadium/NN debut/NN on/IN this/DT occasion/NN ./pct
+Mr./NP Verreau/NP began/VBD shakily/RB ,/pct with/IN a/AT voice/NN that/WPS tended/VBD toward/IN an/AT unpleasant/JJ whiteness/NN when/WRB pushed/VBN beyond/IN middle/JJ volume/NN ./pct
+Later/RBR on/RP this/DT problem/NN vanished/VBD ,/pct and/CC the/AT ``/pct Flower/NN Song/NN ''/pct from/IN Bizet's/NPg ``/pct Carmen/NP ''/pct was/BEDZ beautifully/RB and/CC intelligently/RB projected/VBN ./pct

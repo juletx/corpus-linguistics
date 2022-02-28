@@ -1,0 +1,104 @@
+The/AT presidency/NN :/pct talking/VBG and/CC listening/VBG
+Though/CS President/NN John/NP F./NP Kennedy/NP was/BEDZ primarily/RB concerned/VBN with/IN the/AT crucial/JJ problems/NNS of/IN Berlin/NP and/CC disarmament/NN adviser/NN McCloy's/NPg unexpected/JJ report/NN from/IN Khrushchev/NP ,/pct his/PPg new/JJ enthusiasm/NN and/CC reliance/NN on/IN personal/JJ diplomacy/NN involved/VBD him/PPO in/IN other/AP key/NN problems/NNS of/IN U.S./NP foreign/JJ policy/NN last/AP week/NN ./pct
+High/JJ up/RP on/IN the/AT President's/NNg priority/NN list/NN was/BEDZ the/AT thorny/JJ question/NN of/IN Bizerte/NP ./pct
+On/IN this/DT issue/NN ,/pct the/AT President/NN received/VBD a/AT detailed/VBN report/NN from/IN his/PPg U.N./NP Ambassador/NN Adlai/NP Stevenson/NP ,/pct who/WPS had/HVD just/RB returned/VBN from/IN Paris/NP ,/pct and/CC Mr./NP Kennedy/NP asked/VBD Stevenson/NP to/TO search/VB for/IN a/AT face-saving/JJ way/NN --/pct for/IN both/ABX Paris/NP and/CC Tunis/NP --/pct out/IN of/IN the/AT imbroglio/NN ./pct
+Ideally/RB ,/pct the/AT President/NN would/MD like/VB the/AT French/NPS to/TO agree/VB on/IN a/AT ``/pct status/NN quo/WDT ante/RB ''/pct on/IN Bizerte/NP ,/pct and/CC accept/VB a/AT new/JJ timetable/NN for/IN withdrawing/VBG their/PPg forces/NNS from/IN the/AT Mediterranean/NP base/NN ./pct
+To/TO continue/VB their/PPg important/JJ conversations/NNS about/IN the/AT Tunisian/JJ issue/NN and/CC the/AT whole/JJ range/NN of/IN other/AP problems/NNS ,/pct Mr./NP Kennedy/NP invited/VBD Stevenson/NP to/IN Cape/NN Cod/NN for/IN the/AT weekend/NN ./pct
+The/AT President/NN also/RB discussed/VBD the/AT Bizerte/NP deadlock/NN with/IN the/AT No./NN 2/CD man/NN in/IN the/AT Tunisian/JJ Government/NN ,/pct Defense/NN Minister/NN Bahi/NP Ladgham/NP ,/pct who/WPS flew/VBD to/IN Washington/NP last/AP week/NN to/TO seek/VB U.S./NP support/NN ./pct
+The/AT conversation/NN apparently/RB convinced/VBD Mr./NP Kennedy/NP that/CS the/AT positions/NNS of/IN France/NP and/CC Tunisia/NP were/BED not/NEG irreconcilable/JJ ./pct
+Through/IN Ladgham/NP ,/pct Mr./NP Kennedy/NP sent/VBD a/AT message/NN along/IN those/DTS lines/NNS to/IN Tunisian/JJ President/NN Habib/NP Bourguiba/NP ;/pct ;/pct
+and/CC one/CD U.S./NP official/NN said/VBD :/pct ``/pct The/AT key/JJS question/NN now/RB is/BEZ which/WDT side/NN picks/VBZ up/RP the/AT phone/NN first/RB ''/pct ./pct
+On/IN the/AT Latin/JJ American/JJ front/NN ,/pct the/AT President/NN held/VBD talks/NNS with/IN Secretary/NN of/IN the/AT Treasury/NN Douglas/NP Dillon/NP before/CS sending/VBG him/PPO to/IN Uruguay/NP and/CC the/AT Inter-American/JJ Economic/JJ and/CC Social/JJ Council/NN (/pct which/WDT the/AT President/NN himself/PPL had/HVD originally/RB hoped/VBN to/TO attend/VB )/pct ./pct
+Main/JJS purpose/NN of/IN the/AT meeting/NN :/pct To/TO discuss/VB President/NN Kennedy's/NPg Alliance/NN for/IN Progress/NN ./pct
+And/CC that/DT was/BEDZ not/NEG all/ABN ./pct
+In/IN conferences/NNS with/IN Nationalist/JJ China's/NPg dapper/JJ ,/pct diminutive/JJ Vice/JJ President/NN Chen/NP Cheng/NP ,/pct Mr./NP Kennedy/NP assured/VBD Chiang/NP Kai-shek's/NPg emissary/NN that/CS the/AT U.S./NP is/BEZ as/QL firmly/RB opposed/VBN as/CS ever/RB to/IN the/AT admission/NN of/IN Red/JJ China/NP to/IN the/AT United/VBN Nations/NNS ./pct
+Chen/NP was/BEDZ equally/QL adamant/JJ in/IN his/PPg opposition/NN to/IN the/AT admission/NN of/IN Outer/JJ Mongolia/NP ;/pct ;/pct
+however/WRB the/AT President/NN ,/pct who/WPS would/MD like/VB to/TO woo/VB the/AT former/AP Chinese/JJ province/NN away/RB from/IN both/ABX Peking/NP and/CC Moscow/NP ,/pct would/MD promise/VB Chen/NP nothing/PN more/AP than/IN an/AT abstention/NN by/IN the/AT U.S./NP if/CS Outer/JJ Mongolia's/NPg admission/NN comes/VBZ to/IN a/AT vote/NN ./pct
+The/AT President/NN also/RB conferred/VBD with/IN emissaries/NNS from/IN Guatemala/NP and/CC Nepal/NP who/WPS are/BER seeking/VBG more/AP foreign/JJ aid/NN ./pct
+To/IN Africa/NP ,/pct he/PPS sent/VBD his/PPg most/QL trusted/VBN adviser/NN ,/pct his/PPg brother/NN ,/pct Attorney/NN General/JJ Robert/NP Kennedy/NP ,/pct on/IN a/AT good-will/NN mission/NN to/IN the/AT Ivory/NN Coast/NN ./pct
+All/ABN week/NN long/JJ the/AT President/NN clearly/RB was/BEDZ playing/VBG a/AT larger/JJR personal/JJ role/NN in/IN foreign/JJ affairs/NNS ;/pct ;/pct
+in/IN effect/NN ,/pct he/PPS was/BEDZ practicing/VBG what/WDT he/PPS preached/VBD in/IN his/PPg Berlin/NP message/NN two/CD weeks/NNS ago/RB when/WRB he/PPS declared/VBD :/pct ``/pct We/PPSS shall/MD always/RB be/BE prepared/VBN to/TO discuss/VB international/JJ problems/NNS with/IN any/DTI and/CC all/ABN nations/NNS that/WPS are/BER willing/JJ to/TO talk/VB ,/pct and/CC listen/VB ,/pct with/IN reason/NN ''/pct ./pct
+Crime/NN :/pct '/pct skyjacked/VBN '/pct
+From/IN International/JJ Airport/NN in/IN Los/NP Angeles/NP to/IN International/JJ Airport/NN in/IN Houston/NP ,/pct as/CS the/AT great/JJ four-jet/JJ Boeing/NP 707/CD flies/VBZ ,/pct is/BEZ a/AT routine/JJ five/CD hours/NNS and/CC 25/CD minutes/NNS ,/pct including/IN stopovers/NNS at/IN Phoenix/NP ,/pct El/NP Paso/NP ,/pct and/CC San/NP Antonio/NP ./pct
+When/WRB Continental/JJ Airlines/NNS night-coach/NN Flight/NN 54/CD took/VBD off/RP at/IN 11:30/CD one/CD night/NN last/AP week/NN ,/pct there/EX was/BEDZ no/AT reason/NN to/TO think/VB it/PPS would/MD take/VB any/DTI longer/JJR ./pct
+The/AT plane/NN put/VBD down/RP on/IN schedule/NN at/IN 1:35/CD a.m./RB in/IN Phoenix/NP ./pct
+Thirty-one/CD minutes/NNS later/RBR ,/pct when/WRB it/PPS took/VBD off/RP for/IN El/NP Paso/NP ,/pct hardly/RB anyone/PN of/IN the/AT crew/NN of/IN six/CD or/CC the/AT 65/CD other/AP passengers/NNS paid/VBD any/DTI attention/NN to/IN the/AT man/NN and/CC teen-age/JJ boy/NN who/WPS had/HVD come/VBN aboard/RB ./pct
+At/IN 3:57/CD a.m./RB ,/pct with/IN the/AT plane/NN about/RB twenty/CD minutes/NNS out/IN of/IN El/NP Paso/NP ,/pct passenger/NN Robert/NP Berry/NP ,/pct a/AT San/NP Antonio/NP advertising/VBG man/NN ,/pct glanced/VBD up/RP and/CC saw/VBD the/AT man/NN and/CC boy/NN ,/pct accompanied/VBN by/IN a/AT stewardess/NN ,/pct walking/VBG up/IN the/AT aisle/NN toward/IN the/AT cockpit/NN ./pct
+``/pct The/AT man/NN was/BEDZ bent/VBN over/RP with/IN his/PPg hand/NN on/IN his/PPg stomach/NN ''/pct ,/pct Berry/NP said/VBD ./pct
+``/pct I/PPSS figured/VBD he/PPS was/BEDZ sick/JJ ''/pct ./pct
+John/NP Salvador/NP ,/pct a/AT farmer/NN from/IN Palm/NN Desert/NN ,/pct Calif./NP ,/pct was/BEDZ sitting/VBG up/IN front/NN and/CC could/MD see/VB through/IN the/AT door/NN as/CS the/AT trio/NN entered/VBD the/AT cockpit/NN ./pct
+``/pct The/AT kid/NN had/HVD a/AT automatic/JJ ,/pct like/CS they/PPSS issue/VB in/IN the/AT Army/NN ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct The/AT other/AP fellow/NN had/HVD a/AT ''/pct ./pct
+Salvador/NP saw/VBD the/AT youth/NN hold/NN his/PPg against/IN the/AT head/NN of/IN stewardess/NN Lois/NP Carnegey/NP ;/pct ;/pct
+the/AT man/NN put/VBD his/PPg at/IN the/AT head/NN of/IN Capt./NN Byron/NP D./NP Rickards/NP ./pct
+To/IN Rickards/NP ,/pct a/AT 52-year-old/JJ veteran/NN 30/CD years/NNS in/IN the/AT air/NN ,/pct it/PPS was/BEDZ an/AT old/JJ story/NN :/pct His/PPg plane/NN was/BEDZ being/BEG hijacked/VBN in/IN mid-flight/NN again/RB much/AP as/CS it/PPS had/HVD happened/VBN in/IN 1930/CD ,/pct when/WRB Peruvian/JJ rebels/NNS made/VBD him/PPO land/VB a/AT Ford/NP tri-motor/NN at/IN Arequipa/NP ./pct
+But/CC last/AP week's/NNg pirates/NNS ,/pct like/CS the/AT Cuban-American/NP who/WPS recently/RB hijacked/VBD an/AT Eastern/JJ Airlines/NNS Electra/NP (/pct Newsweek/NP ,/pct Aug./NP 7/CD )/pct ,/pct wanted/VBD to/TO go/VB to/IN Havana/NP ./pct
+Stalling/VBG :/pct
+``/pct Tell/VB your/PPg company/NN there/EX are/BER four/CD of/IN us/PPO here/RB with/IN guns/NNS ''/pct ,/pct the/AT elder/JJR man/NN told/VBD Rickards/NP ./pct
+The/AT pilot/NN radioed/VBD El/NP Paso/NP International/JJ Airport/NN with/IN just/RB that/DT message/NN ./pct
+But/CC ,/pct he/PPS told/VBD the/AT ``/pct skyjackers/NNS ''/pct ,/pct the/AT 707/CD didn't /None carry/VB enough/AP fuel/NN to/TO reach/VB Havana/NP ;/pct ;/pct
+they/PPSS would/MD have/HV to/TO refuel/VB at/IN El/NP Paso/NP ./pct
+Most/AP passengers/NNS didn't /None know/VB what/WDT had/HVD happened/VBN until/CS they/PPSS got/VBD on/IN the/AT ground/NN ./pct
+Jerry/NP McCauley/NP of/IN Sacramento/NP ,/pct Calif./NP ,/pct one/CD of/IN some/DTI twenty/CD Air/NN Force/NN recruits/NNS on/IN board/NN ,/pct awoke/VBD from/IN a/AT nap/NN in/IN confusion/NN ./pct
+``/pct The/AT old/JJ man/NN came/VBD from/IN the/AT front/NN of/IN the/AT plane/NN and/CC said/VBD he/PPS wanted/VBD four/CD volunteers/NNS to/TO go/VB to/IN Cuba/NP ''/pct ,/pct McCauley/NP said/VBD ,/pct ``/pct and/CC like/CS a/AT nut/NN I/PPSS raised/VBD my/PPg hand/NN ./pct
+I/PPSS thought/VBD he/PPS was/BEDZ the/AT Air/NN Force/NN recruiter/NN ''/pct ./pct
+What/WDT the/AT man/NN wanted/VBD was/BEDZ four/CD persons/NNS to/TO volunteer/VB as/CS hostages/NNS ,/pct along/IN with/IN the/AT crew/NN ./pct
+They/PPSS chose/VBD four/CD :/pct Jack/NP Casey/NP ,/pct who/WPS works/VBZ for/IN Continental/JJ Airlines/NNS in/IN Houston/NP ;/pct ;/pct
+Fred/NP Mullen/NP from/IN Mercer/NP Island/NN ,/pct Wash./NP ;/pct ;/pct
+Pfc./NP Truman/NP Cleveland/NP of/IN St./NP Augustine/NP ./pct
+Fla./NP ,/pct and/CC Leonard/NP Gilman/NP ,/pct a/AT former/AP college/NN boxer/NN and/CC veteran/NN of/IN the/AT U.S./NP Immigration/NN Service/NN Border/NN Patrol/NN ./pct
+Everybody/PN else/RB was/BEDZ allowed/VBN to/TO file/VB off/IN the/AT plane/NN after/CS it/PPS touched/VBD down/RP at/IN El/NP Paso/NP at/IN 4:18/CD a.m./RB ./pct
+They/PPSS found/VBD a/AT large/JJ welcoming/VBG group/NN --/pct El/NP Paso/NP policemen/NNS ,/pct Border/NN Patrol/NN ,/pct sheriff's/NNg deputies/NNS ,/pct and/CC FBI/NN men/NNS ,/pct who/WPS surged/VBD around/IN the/AT plane/NN with/IN rifles/NNS and/CC submachine/JJ guns/NNS ./pct
+Other/AP FBI/NN men/NNS ,/pct talking/VBG with/IN the/AT pilot/NN from/IN the/AT tower/NN ,/pct conspired/VBD with/IN him/PPO to/TO delay/VB the/AT proposed/VBN flight/NN to/IN Havana/NP ./pct
+The/AT ground/NN crew/NN ,/pct which/WDT ordinarily/RB fuels/VBZ a/AT 707/CD in/IN twenty/CD minutes/NNS ,/pct took/VBD fully/RB three/CD hours/NNS ./pct
+Still/QL more/AP time/NN was/BEDZ consumed/VBN while/CS the/AT pilot/NN ,/pct at/IN the/AT radioed/VBN suggestion/NN of/IN Continental/JJ president/NN Robert/NP Six/NP ,/pct tried/VBD to/TO persuade/VB the/AT armed/VBN pair/NN to/TO swap/VB the/AT Boeing/NP jet/NN for/IN a/AT propeller-driven/JJ Douglas/NP Aj/NN ./pct
+Actually/RB ,/pct the/AT officers/NNS on/IN the/AT ground/NN had/HVD no/AT intention/NN of/IN letting/VBG the/AT hijackers/NNS get/VB away/RB with/IN any/DTI kind/JJ of/IN an/AT airplane/NN ;/pct ;/pct
+they/PPSS had/HVD orders/NNS to/IN that/DT effect/NN straight/RB from/IN President/NN Kennedy/NP ,/pct who/WPS thought/VBD at/IN first/OD ,/pct as/QL did/DOD most/AP others/NNS ,/pct that/CS it/PPS was/BEDZ four/CD followers/NNS of/IN Cuba's/NPg Fidel/NP Castro/NP who/WPS had/HVD taken/VBN over/RP the/AT 707/CD ./pct
+Mr./NP Kennedy/NP had/HVD been/BEN informed/VBN early/RB in/IN the/AT day/NN of/IN the/AT attempt/NN to/TO steal/VB the/AT plane/NN ,/pct kept/VBD in/IN touch/NN throughout/RB by/IN telephone/NN ./pct
+At/IN one/CD time/NN ,/pct while/CS still/RB under/IN the/AT impression/NN that/CS he/PPS was/BEDZ dealing/VBG with/IN a/AT Cuban/JJ plot/NN ,/pct the/AT President/NN talked/VBD about/IN invoking/VBG a/AT total/NN embargo/NN on/IN trade/NN with/IN Cuba/NP ./pct
+As/CS the/AT morning/NN wore/VBD on/RP and/CC a/AT blazing/VBG West/JJ Texas/NP sun/NN wiped/VBD the/AT shadows/NNS off/IN the/AT Franklin/NP Mountains/NNS ,/pct police/NNS got/VBD close/RB enough/QLP to/IN the/AT plane/NN to/TO pry/VB into/IN the/AT baggage/NN compartment/NN ./pct
+From/IN the/AT luggage/NN ,/pct they/PPSS learned/VBD that/CS the/AT two/CD air/NN pirates/NNS ,/pct far/RB from/IN being/BEG Cubans/NPS ,/pct were/BED native/JJ Americans/NPS ,/pct subsequently/RB identified/VBN as/CS Leon/NP Bearden/NP ,/pct 50-year-old/JJ ex-convict/NN from/IN Coolidge/NP ,/pct Ariz./NP ,/pct and/CC his/PPg son/NN ,/pct Cody/NP ,/pct 16/CD ,/pct a/AT high-school/NN junior/NN ./pct
+Tension/NN
+The/AT heat/NN and/CC strain/NN began/VBD to/TO tell/VB on/IN the/AT Beardens/NPS ./pct
+The/AT father/NN ,/pct by/IN accident/NN or/CC perhaps/RB to/TO show/VB ,/pct as/CS he/PPS said/VBD ,/pct ``/pct we/PPSS mean/VB business/NN ''/pct ,/pct took/VBD the/AT and/CC fired/VBD a/AT slug/NN between/IN the/AT legs/NNS of/IN Second/OD Officer/NN Norman/NP Simmons/NP ./pct
+At/IN 7:30/CD a.m./RB ,/pct more/AP than/IN three/CD hours/NNS after/CS landing/VBG ,/pct the/AT Beardens/NPS gave/VBD an/AT ultimatum/NN :/pct
+Take/VB off/RP or/CC see/VB the/AT hostages/NNS killed/VBN ./pct
+The/AT tower/NN cleared/VBD the/AT plane/NN for/IN take-off/NN at/IN 8/CD a.m./RB ,/pct and/CC Captain/NN Rickards/NP began/VBD taxiing/VBG toward/IN the/AT runway/NN ./pct
+Several/AP police/NN cars/NNS ,/pct loaded/VBN with/IN armed/VBN officers/NNS ,/pct raced/VBD alongside/RB ,/pct blazing/VBG away/RB at/IN the/AT tires/NNS of/IN the/AT big/JJ jet/NN ./pct
+The/AT slugs/NNS flattened/VBD ten/CD tires/NNS and/CC silenced/VBD one/CD of/IN the/AT inboard/JJ engines/NNS ;/pct ;/pct
+the/AT plane/NN slowed/VBD to/IN a/AT halt/NN ./pct
+Ambulances/NNS ,/pct baggage/NN trucks/NNS ,/pct and/CC cars/NNS surrounded/VBD it/PPO ./pct
+The/AT day/NN wore/VBD on/RP ./pct
+At/IN 12:50/CD p.m./RB a/AT ramp/NN was/BEDZ rolled/VBN up/RP to/IN the/AT plane/NN ./pct
+A/AT few/AP minutes/NNS later/RBR ,/pct FBI/NN agent/NN Francis/NP Crosby/NP ,/pct talking/VBG fast/RB ,/pct eased/VBD up/IN the/AT ramp/NN to/IN the/AT plane/NN ,/pct unarmed/JJ ./pct
+While/CS Crosby/NP distracted/VBD the/AT Beardens/NPS ,/pct stewardesses/NNS Carnegey/NP and/CC Toni/NP Besset/NP dropped/VBD out/RP of/IN a/AT rear/JJ door/NN ./pct
+So/RB did/DOD hostages/NNS Casey/NP ,/pct Cleveland/NP ,/pct and/CC Mullen/NP ./pct
+That/DT left/VBD only/RB the/AT four/CD crew/NN members/NNS ,/pct Crosby/NP ,/pct and/CC Border/NN Patrolman/NN Gilman/NP ,/pct all/QL unarmed/JJ ,/pct with/IN the/AT Beardens/NPS ./pct
+The/AT elder/JJR Bearden/NP had/HVD one/CD pistol/NN in/IN his/PPg hand/NN ,/pct the/AT other/AP in/IN a/AT hip/NN pocket/NN ./pct
+Gilman/NP started/VBD talking/VBG to/IN him/PPO until/CS he/PPS saw/VBD his/PPg chance/NN ./pct
+He/PPS caught/VBD officer/NN Simmons'/NPg eye/NN ,/pct nodded/VBD toward/IN young/JJ Bearden/NP ,/pct and/CC --/pct ``/pct I/PPSS swung/VBD my/PPg right/NN as/QL hard/RB as/CS I/PPSS could/MD ./pct
+Simmons/NP and/CC Crosby/NP jumped/VBD the/AT boy/NN and/CC it/PPS was/BEDZ all/ABN over/RP ''/pct ./pct
+Frog-marched/VBN off/IN the/AT airplane/NN at/IN 1:48/CD p.m./RB ,/pct the/AT Beardens/NPS were/BED held/VBN in/IN bail/NN of/IN $100,000/NNS each/DT on/IN charges/NNS of/IN kidnapping/VBG and/CC transporting/VBG a/AT stolen/VBN plane/NN across/IN state/NN lines/NNS ./pct
+(/pct Bearden/NP reportedly/RB hoped/VBD to/TO peddle/VB the/AT plane/NN to/IN Castro/NP ,/pct and/CC live/VB high/RB in/IN Cuba/NP ./pct
+)/pct Back/RB home/NR in/IN Coolidge/NP ,/pct Ariz./NP ,/pct his/PPg 36-year-old/NN wife/NN ,/pct Mary/NP ,/pct said/VBD :/pct ``/pct I/PPSS thought/VBD they/PPSS were/BED going/VBG to/IN Phoenix/NP to/TO look/VB for/IN jobs/NNS ''/pct ./pct
+Congress/NP :/pct more/AP muscle/NN
+Taking/VBG precedence/NN over/IN all/ABN other/AP legislation/NN on/IN Capitol/NN Hill/NN last/AP week/NN was/BEDZ the/AT military/NN strength/NN of/IN the/AT nation/NN ./pct
+The/AT Senate/NN put/VBD other/AP business/NN aside/RB as/CS it/PPS moved/VBD with/IN unaccustomed/JJ speed/NN and/CC unanimity/NN to/TO pass/VB --/pct 85/CD to/IN 0/CD --/pct the/AT largest/JJT peacetime/NN defense/NN budget/NN in/IN U.S./NP history/NN ./pct
+With/IN the/AT money/NN all/ABN but/IN in/IN hand/NN ,/pct however/WRB ,/pct the/AT Administration/NN indicated/VBD that/CS ,/pct instead/RB of/IN the/AT 225,000/CD more/AP men/NNS in/IN uniform/NN that/CS President/NN Kennedy/NP had/HVD requested/VBN ,/pct the/AT armed/VBN forces/NNS would/MD be/BE increased/VBN by/IN only/RB 160,000/CD ./pct
+The/AT ``/pct hold-back/NN ''/pct ,/pct as/CS Pentagon/NN mutterers/NNS labeled/VBD it/PPO ,/pct apparently/RB was/BEDZ a/AT temporary/JJ expedient/NN intended/VBN to/TO insure/VB that/CS the/AT army/NN services/NNS are/BER built/VBN up/RP gradually/RB and/CC ,/pct thus/RB ,/pct the/AT new/JJ funds/NNS spent/VBN prudently/RB ./pct
+In/IN all/ABN ,/pct the/AT Senate/NN signed/VBD a/AT check/NN for/IN $46.7/NNS billion/CD ,/pct which/WDT not/NEG only/RB included/VBD the/AT extra/JJ $3.5/NNS billion/CD requested/VBN the/AT week/NN before/RB by/IN President/NN Kennedy/NP ,/pct but/CC tacked/VBD on/RP $754/NNS million/CD more/AP than/CS the/AT President/NN had/HVD asked/VBN for/IN ./pct
+(/pct The/AT Senate/NN ,/pct on/IN its/PPg own/JJ ,/pct decided/VBD to/TO provide/VB additional/JJ B-52/NN and/CC other/AP long-range/NN bombers/NNS for/IN the/AT Strategic/JJ Air/NN Command/NN ./pct
+)/pct The/AT House/NN ,/pct which/WDT had/HVD passed/VBN its/PPg smaller/JJR appropriation/NN before/IN the/AT President's/NNg urgent/JJ call/NN for/IN more/AP ,/pct was/BEDZ expected/VBN to/TO go/VB along/RB with/IN the/AT increased/VBN defense/NN budget/NN in/IN short/JJ order/NN ./pct
+In/IN other/AP areas/NNS ,/pct Congressional/JJ action/NN last/AP week/NN included/VBD :/pct
+The/AT Senate/NN (/pct by/IN voice/NN vote/NN )/pct and/CC the/AT House/NN (/pct by/IN 224-170/CD )/pct passed/VBD and/CC sent/VBD to/IN the/AT White/JJ House/NN the/AT compromise/NN farm/NN bill/NN which/WDT the/AT President/NN is/BEZ expected/VBN to/TO sign/VB ,/pct not/NEG too/QL unhappily/RB ./pct
+The/AT Senate/NN also/RB voted/VBD $5.2/NNS billion/CD to/TO finance/VB the/AT government's/NNg health/NN ,/pct welfare/NN ,/pct and/CC labor/NN activities/NNS ./pct
+Debate/NN on/IN the/AT all-important/JJ foreign-aid/NN bill/NN ,/pct with/IN its/PPg controversial/JJ long-range/NN proposals/NNS ,/pct had/HVD just/RB begun/VBN on/IN the/AT Senate/NN floor/NN at/IN the/AT weekend/NN ./pct
+White/JJ House/NN legislative/JJ aides/NNS were/BED still/RB confident/JJ the/AT bill/NN would/MD pass/VB intact/JJ ./pct
+Food/NN :/pct stew/NN a/IN la/AT Mulligatawny/NP
+Most/AP members/NNS of/IN the/AT U.S./NP Senate/NN ,/pct because/CS they/PPSS are/BER human/JJ ,/pct like/VB to/TO eat/VB as/QL high/RB on/IN the/AT hog/NN as/CS they/PPSS can/MD ./pct
+But/CC ,/pct because/CS they/PPSS are/BER politicians/NNS ,/pct they/PPSS like/VB to/TO talk/VB as/QL poor-mouth/RB as/CS the/AT lowliest/JJT voter/NN ./pct
+As/CS a/AT result/NN ,/pct ever/RB since/IN 1851/CD when/WRB the/AT Senate/NN restaurant/NN opened/VBD in/IN the/AT new/JJ wing/NN of/IN the/AT Capitol/NN Building/NN ,/pct the/AT senators/NNS have/HV never/RB ceased/VBN to/TO grumble/VB about/IN the/AT food/NN --/pct even/RB while/CS they/PPSS opposed/VBD every/AT move/NN that/WPS might/MD improve/VB it/PPO ./pct
+Over/IN the/AT years/NNS ,/pct enlivened/VBN chiefly/RB by/IN disputes/NNS about/IN the/AT relative/JJ merits/NNS of/IN Maine/NP and/CC Idaho/NP potatoes/NNS ,/pct the/AT menu/NN has/HVZ pursued/VBN its/PPg drab/JJ all-American/JJ course/NN ./pct
+Individual/JJ senators/NNS ,/pct with/IN an/AT eye/NN to/IN the/AT voters/NNS back/RB home/NR ,/pct occasionally/RB introduced/VBD smelts/NNS from/IN Michigan/NP ,/pct soft-shell/NN crabs/NNS from/IN Maryland/NP ,/pct oysters/NNS from/IN Washington/NP ,/pct grapefruit/NN from/IN Florida/NP ./pct
+But/CC plain/JJ old/JJ bean/NN soup/NN ,/pct served/VBN daily/RB since/IN the/AT turn/NN of/IN the/AT century/NN (/pct at/IN the/AT insistence/NN of/IN the/AT late/JJ Sen./NN Fred/NP Dubois/NP of/IN Idaho/NP )/pct ,/pct made/VBD clear/JJ to/IN the/AT citizenry/NN that/CS the/AT Senate's/NPg stomach/NN was/BEDZ in/IN the/AT right/JJ place/NN ./pct
+In/IN a/AT daring/VBG stroke/NN ,/pct the/AT Senate/NN ventured/VBD forth/RB last/AP week/NN into/IN the/AT world/NN of/IN haute/JJ cuisine/NN and/CC hired/VBD a/AT $10,000-per-year/NNS French-born/JJ maitre/NN d'hotel /None ./pct

@@ -1,0 +1,120 @@
+Sentiment/NN ./pct
+Tension/NN management/NN and/CC communication/NN of/IN sentiment/NN are/BER the/AT processes/NNS involved/VBN in/IN the/AT functioning/NN of/IN the/AT element/NN of/IN sentiment/NN or/CC feeling/VBG ./pct
+One/CD of/IN the/AT devices/NNS for/IN tension/NN management/NN is/BEZ preferential/JJ mating/VBG ./pct
+The/AT preferential/JJ mating/VBG of/IN this/DT particular/JJ population/NN has/HVZ been/BEN analyzed/VBN in/IN a/AT separate/JJ study/NN ./pct
+The/AT relative/JJ geographical/JJ isolation/NN of/IN the/AT Brandywine/NP population/NN makes/VBZ for/IN a/AT limited/VBN choice/NN in/IN mating/VBG ./pct
+It/PPS would/MD seem/VB necessary/JJ that/CS members/NNS of/IN this/DT population/NN provide/VB support/NN for/IN one/CD another/DT since/CS it/PPS is/BEZ not/NEG provided/VBN by/IN the/AT larger/JJR society/NN ./pct
+The/AT supportive/JJ relations/NNS can/MD apparently/RB be/BE achieved/VBN in/IN geographical/JJ and/CC social/JJ isolation/NN ./pct
+The/AT newlyweds/NNS building/VBG homes/NNS on/IN the/AT same/AP land/NN with/IN either/DTX set/NN of/IN parents/NNS ,/pct and/CC the/AT almost/QL exclusive/JJ use/NN of/IN members/NNS of/IN the/AT population/NN as/CS sponsors/NNS for/IN baptisms/NNS and/CC weddings/NNS illustrate/VB this/DT supportive/JJ relationship/NN ./pct
+As/CS Loomis/NP remarks/VBZ ,/pct ``/pct In/IN the/AT internal/JJ pattern/NN the/AT chief/JJS reason/NN for/IN interacting/VBG is/BEZ to/TO communicate/VB liking/VBG ,/pct friendship/NN ,/pct and/CC love/NN among/IN those/DTS who/WPS stand/VB in/IN supporting/VBG relations/NNS to/IN one/CD another/DT and/CC corresponding/JJ negative/JJ sentiments/NNS to/IN those/DTS who/WPS stand/VB in/IN antagonistic/JJ relations/NNS ''/pct ./pct
+Achieving/VBG ./pct
+Maintenance/NN of/IN the/AT status/NN quo/WDT might/MD seem/VB to/TO be/BE the/AT appropriate/JJ goal/NN or/CC objective/NN of/IN this/DT population/NN today/NR ./pct
+Yet/RB ,/pct the/AT object/NN of/IN the/AT element/NN of/IN achieving/VBG through/IN the/AT process/NN of/IN goal/NN attaining/VBG for/IN this/DT population/NN appears/VBZ to/TO have/HV been/BEN changed/VBN by/IN circumstances/NNS brought/VBN about/RB by/IN the/AT war/NN ./pct
+Prior/RB to/IN World/NN War/NN 2/CD ,/pct there/EX was/BEDZ a/AT higher/JJR percentage/NN of/IN endogamous/JJ marriages/NNS than/CS after/IN World/NN War/NN 2/CD ./pct
+Norms/NNS ./pct
+The/AT norms/NNS ,/pct as/CS elements/NNS ,/pct refer/VB to/IN ``/pct all/ABN criteria/NNS for/IN judging/VBG the/AT character/NN or/CC conduct/NN of/IN both/ABX individual/JJ and/CC group/NN actions/NNS in/IN any/DTI social/JJ system/NN ''/pct ./pct
+The/AT process/NN of/IN evaluation/NN assigns/VBZ varying/VBG positive/JJ and/CC negative/JJ priorities/NNS or/CC values/NNS to/IN elements/NNS ./pct
+The/AT elements/NNS and/CC processes/NNS become/VB evident/JJ in/IN a/AT study/NN of/IN mate/NN selection/NN in/IN this/DT population/NN ./pct
+From/IN the/AT evidence/NN ``/pct it/PPS may/MD be/BE conjectured/VBN that/CS core/NN -/pct core/NN marriages/NNS are/BER the/AT preferred/VBN unions/NNS for/IN core/NN males/NNS and/CC females/NNS ;/pct ;/pct
+core/NN -/pct marginal/JJ marriages/NNS still/RB belong/VB in/IN the/AT category/NN of/IN permissive/JJ unions/NNS ;/pct ;/pct
+and/CC core/NN -/pct Negro/NP marriages/NNS are/BER proscribed/VBN for/IN core/NN members/NNS ''/pct ./pct
+Status-roles/NNS ./pct
+The/AT element/NN of/IN status-roles/NNS and/CC associated/VBN processes/NNS have/HV not/NEG been/BEN sufficiently/RB investigated/VBN for/IN this/DT population/NN to/TO permit/VB any/DTI type/NN of/IN conjectures/NNS about/IN them/PPO ./pct
+Power/NN ./pct
+There/EX is/BEZ some/DTI indication/NN from/IN a/AT limited/VBN number/NN of/IN interviews/NNS with/IN members/NNS of/IN the/AT population/NN that/CS the/AT element/NN of/IN power/NN ,/pct primarily/RB the/AT voluntary/JJ influence/NN of/IN non-authoritative/JJ power/NN ,/pct has/HVZ been/BEN exerted/VBN on/IN actors/NNS in/IN the/AT system/NN ,/pct particularly/RB in/IN regard/NN to/IN mate/NN selection/NN ./pct
+This/DT would/MD seem/VB to/TO vary/VB from/IN family/NN to/IN family/NN ,/pct depending/IN somewhat/RB on/IN the/AT core/NN or/CC marginal/JJ ``/pct status/NN ''/pct of/IN that/DT family/NN ./pct
+Again/RB ,/pct size/NN of/IN the/AT group/NN may/MD have/HV some/DTI influence/NN on/IN the/AT strength/NN of/IN group/NN controls/NNS ./pct
+Ranking/VBG ./pct
+Interviews/NNS with/IN members/NNS of/IN the/AT Brandywine/NP population/NN were/BED attempted/VBN in/IN order/NN to/TO discover/VB the/AT ranking/NN of/IN the/AT various/JJ families/NNS in/IN the/AT population/NN ./pct
+The/AT large/JJ majority/NN of/IN the/AT interviewees/NNS placed/VBD core/NN families/NNS in/IN the/AT upper/JJR positions/NNS ./pct
+Loomis/NP considers/VBZ ranking/VBG a/AT product/NN of/IN the/AT evaluation/NN process/NN ./pct
+``/pct The/AT standing/NN or/CC rank/NN of/IN an/AT actor/NN in/IN a/AT given/VBN social/JJ system/NN is/BEZ determined/VBN by/IN the/AT evaluation/NN placed/VBN upon/IN the/AT actor/NN and/CC his/PPg acts/NNS in/IN accordance/NN with/IN the/AT norms/NNS and/CC standards/NNS of/IN the/AT system/NN ''/pct ./pct
+Despite/IN the/AT increasing/VBG rate/NN of/IN exogamous/JJ marriages/NNS ,/pct the/AT population/NN has/HVZ been/BEN able/JJ to/TO sustain/VB ,/pct at/IN least/AP to/IN some/DTI degree/NN ,/pct the/AT consciousness/NN of/IN its/PPg intermediate/JJ status/NN in/IN society/NN ./pct
+To/IN some/DTI extent/NN the/AT system/NN can/MD be/BE considered/VBN a/AT Gemeinschaft/NN in/IN which/WDT ``/pct social-role/NN occupancies/NNS are/BER determined/VBN by/IN birth/NN ,/pct by/IN attributes/NNS such/JJ as/CS sex/NN or/CC caste/NN ,/pct which/WDT are/BER biologically/RB or/CC socially/RB immutable/JJ ''/pct ./pct
+The/AT adherence/NN of/IN many/AP in/IN the/AT population/NN to/IN the/AT Indian/JJ background/NN in/IN their/PPg pedigree/NN ,/pct and/CC emphasis/NN upon/IN the/AT fact/NN that/CS their/PPg ancestors/NNS had/HVD never/RB been/BEN slaves/NNS ,/pct becomes/VBZ of/IN prime/JJ interest/NN in/IN determining/VBG how/WQL far/RB these/DTS elements/NNS promote/VB the/AT self-image/NN of/IN the/AT intermediate/JJ status/NN of/IN the/AT group/NN in/IN society/NN ./pct
+Sanctions/NNS ./pct
+The/AT negative/JJ sanctions/NNS applied/VBN to/IN core/NN -/pct Negro/NP marriages/NNS for/IN core/NN members/NNS act/VB as/CS indicators/NNS of/IN expected/VBN adherence/NN to/IN group/NN norms/NNS ./pct
+However/RB ,/pct because/RB of/IN Church/NN laws/NNS ,/pct lately/RB more/QL stringently/RB enforced/VBN ,/pct which/WDT forbid/VB the/AT marriage/NN of/IN cousins/NNS closely/RB related/VBN consanguineously/RB ,/pct a/AT means/NN of/IN facilitating/VBG the/AT goal/NN of/IN in-group/NN relations/NNS may/MD be/BE that/DT of/IN recourse/NN to/IN illegitimate/JJ unions/NNS ./pct
+A/AT cursory/JJ survey/NN of/IN available/JJ material/NN indicates/VBZ a/AT high/JJ rate/NN of/IN illegitimate/JJ births/NNS occurring/VBG to/IN parents/NNS who/WPS have/HV a/AT close/JJ consanguineous/JJ relationship/NN ./pct
+Subsystems/NNS
+The/AT comprehensive/JJ or/CC master/NN processes/NNS activate/VB all/ABN or/CC some/DTI of/IN the/AT elements/NNS within/IN the/AT social/JJ system/NN and/CC subsystems/NNS ./pct
+Within/IN the/AT larger/JJR social/JJ system/NN are/BER the/AT structural/JJ and/CC functional/JJ subsystems/NNS ./pct
+The/AT structural/JJ subsystem/NN ,/pct consisting/VBG of/IN relatively/QL stable/JJ inter-relationships/NNS among/IN its/PPg parts/NNS ,/pct includes/VBZ :/pct 1/CD ./pct
+Subgroups/NNS of/IN various/AP types/NNS ,/pct interconnected/VBN by/IN relational/JJ norms/NNS ./pct
+2/CD ./pct
+Roles/NNS of/IN various/AP types/NNS ,/pct within/IN the/AT larger/JJR system/NN and/CC within/IN the/AT subgroups/NNS 3/CD ./pct
+Regulative/JJ norms/NNS governing/VBG subgroups/NNS and/CC roles/NNS ./pct
+4/CD ./pct
+Cultural/JJ values/NNS ./pct
+In/IN the/AT study/NN of/IN marriage/NN patterns/NNS for/IN this/DT group/NN ,/pct consanguinity/NN produces/VBZ the/AT structural/JJ system/NN --/pct a/AT system/NN of/IN affinities/NNS --/pct which/WDT ,/pct in/IN turn/NN ,/pct maintains/VBZ the/AT system/NN of/IN consanguinity/NN ./pct
+Subgroups/NNS of/IN various/AP types/NNS have/HV been/BEN found/VBN within/IN this/DT system/NN ./pct
+Each/DT family/NN line/NN can/MD be/BE considered/VBN a/AT substructure/NN ./pct
+There/EX seems/VBZ to/TO be/BE an/AT implied/VBN cultural/JJ value/NN attached/VBN to/IN the/AT fact/NN of/IN core/NN status/NN within/IN the/AT group/NN ./pct
+Additionally/RB ,/pct the/AT proscription/NN of/IN core/NN -/pct Negro/NP marriages/NNS for/IN core/NN families/NNS ,/pct discussed/VBN above/RB ,/pct would/MD seem/VB to/TO act/VB as/CS a/AT regulative/JJ norm/NN governing/VBG subgroups/NNS and/CC roles/NNS ./pct
+The/AT scope/NN of/IN this/DT study/NN does/DOZ not/NEG provide/VB for/IN the/AT study/NN of/IN roles/NNS of/IN various/AP types/NNS within/IN the/AT larger/JJR system/NN or/CC within/IN the/AT subgroups/NNS ./pct
+However/RB ,/pct it/PPS cannot /None be/BE presumed/VBN ,/pct informal/JJ though/CS the/AT structure/NN of/IN the/AT population/NN seems/VBZ ,/pct that/CS there/EX are/BER not/NEG well-defined/JJ roles/NNS within/IN the/AT system/NN ./pct
+The/AT present/JJ study/NN relates/VBZ to/IN the/AT theory/NN of/IN functional/JJ systems/NNS ./pct
+It/PPS is/BEZ hypothesized/VBN that/DT fertility/NN is/BEZ a/AT function/NN of/IN the/AT social/JJ system/NN when/WRB the/AT population/NN as/CS a/AT whole/NN is/BEZ considered/VBN and/CC a/AT function/NN of/IN the/AT subsystems/NNS when/WRB the/AT two-fold/JJ division/NN of/IN core/NN families/NNS and/CC marginal/JJ families/NNS is/BEZ considered/VBN ./pct
+The/AT four/CD functional/JJ problems/NNS of/IN a/AT social/JJ system/NN are/BER ,/pct to/IN some/DTI extent/NN ,/pct solved/VBN by/IN the/AT subsystems/NNS within/IN this/DT population/NN ./pct
+By/IN means/NNS of/IN geographical/JJ isolation/NN and/CC high/JJ fertility/NN rates/NNS ,/pct inbreeding/VBG can/MD be/BE fostered/VBN and/CC the/AT pattern/NN of/IN isolation/NN from/IN the/AT greater/JJR society/NN maintained/VBN ./pct
+In/IN order/NN to/TO attain/VB the/AT goal/NN of/IN group/NN solidarity/NN and/CC to/TO relieve/VB tension/NN ,/pct the/AT high/JJ fertility/NN rate/NN provides/VBZ more/AP group/NN members/NNS for/IN mate/NN selection/NN ,/pct and/CC the/AT clustering/NN of/IN members/NNS in/IN groups/NNS fosters/VBZ acceptance/NN of/IN group/NN controls/NNS ./pct
+To/TO maintain/VB their/PPg intermediate/JJ position/NN in/IN the/AT larger/JJR society/NN ,/pct it/PPS is/BEZ not/NEG only/RB necessary/JJ that/CS members/NNS of/IN this/DT population/NN be/BE ``/pct visible/JJ ''/pct ,/pct but/CC that/CS their/PPg numbers/NNS be/BE great/JJ enough/QLP to/TO be/BE recognized/VBN as/CS a/AT separate/JJ ,/pct distinct/JJ grouping/VBG or/CC system/NN in/IN society/NN ./pct
+As/CS mentioned/VBN above/RB ,/pct where/WRB families/NNS are/BER concentrated/VBN in/IN larger/JJR numbers/NNS ,/pct group/NN controls/NNS seem/VB strongest/JJT and/CC most/QL effective/JJ ./pct
+Adaptation/NN to/IN the/AT social/JJ and/CC non-social/JJ environment/NN through/IN the/AT economy/NN has/HVZ been/BEN met/VBN to/IN a/AT degree/NN through/IN a/AT type/NN of/IN occupational/JJ segregation/NN ./pct
+This/DT provides/VBZ the/AT necessary/JJ contact/NN with/IN the/AT larger/JJR society/NN ,/pct while/CS supporting/VBG a/AT type/NN of/IN control/NN over/IN members/NNS in/IN terms/NNS of/IN social/JJ contacts/NNS ./pct
+Integration/NN ``/pct has/HVZ to/TO do/DO with/IN the/AT inter-relation/NN of/IN parts/NNS ''/pct ./pct
+The/AT problem/NN of/IN solidarity/NN and/CC morale/NN again/RB involves/VBZ the/AT concept/NN of/IN values/NNS ./pct
+The/AT values/NNS placed/VBN by/IN the/AT Brandywine/NP population/NN ,/pct upon/IN maintaining/VBG a/AT certain/AP homogeneity/NN ,/pct a/AT certain/AP separate/JJ racial/JJ identity/NN ,/pct and/CC therefore/RB a/AT certain/AP separate/JJ social/JJ status/NN ,/pct are/BER important/JJ for/IN the/AT morale/NN of/IN the/AT system/NN ./pct
+Since/CS morale/NN is/BEZ closely/RB related/VBN to/IN pattern/NN maintenance/NN and/CC integration/NN ,/pct the/AT higher/JJR the/AT morale/NN and/CC solidarity/NN ,/pct the/AT better/JJR the/AT system/NN can/MD solve/VB the/AT problems/NNS of/IN the/AT system/NN ./pct
+In/IN this/DT respect/NN it/PPS would/MD seem/VB that/CS the/AT greater/JJR the/AT social/JJ distance/NN between/IN the/AT Brandywine/NP population/NN and/CC the/AT white/JJ and/CC Negro/NP populations/NNS within/IN the/AT same/AP general/JJ locality/NN ,/pct the/AT greater/JJR the/AT possibility/NN for/IN higher/JJR morale/NN and/CC solidarity/NN within/IN the/AT Brandywine/NP population/NN ./pct
+It/PPS is/BEZ conceived/VBN that/CS one/CD of/IN the/AT means/NNS to/TO attain/VB this/DT social/JJ distance/NN is/BEZ that/DT of/IN physical/JJ and/CC social/JJ isolation/NN ./pct
+In/IN turn/NN ,/pct higher/JJR fertility/NN rates/NNS for/IN this/DT population/NN provide/VB a/AT means/NN of/IN increasing/VBG the/AT numerical/JJ quantity/NN of/IN the/AT population/NN ,/pct allowing/VBG for/IN the/AT possibility/NN of/IN greater/JJR stability/NN and/CC unity/NN ./pct
+The/AT population/NN can/MD thereby/RB replenish/VB itself/PPL and/CC actually/RB grow/VB larger/JJR ./pct
+Master/NN processes/NNS
+Of/IN particular/JJ utility/NN in/IN the/AT analysis/NN of/IN the/AT development/NN ,/pct persistence/NN ,/pct and/CC change/NN of/IN social/JJ systems/NNS has/HVZ been/BEN the/AT use/NN of/IN the/AT master/NN or/CC comprehensive/JJ processes/NNS ./pct
+Loomis/NP considers/VBZ six/CD such/JJ processes/NNS in/IN his/PPg paradigm/NN ./pct
+1/CD ./pct
+Communication/NN
+2/CD ./pct
+Boundary/NN maintenance/NN
+3/CD ./pct
+Systemic/JJ linkage/NN
+4/CD ./pct
+Socialization/NN
+5/CD ./pct
+Social/JJ control/NN
+6/CD ./pct
+Institutionalization/NN Though/CS undoubtedly/RB all/ABN six/CD processes/NNS are/BER operative/JJ within/IN the/AT whole/JJ social/JJ system/NN and/CC its/PPg subsystems/NNS ,/pct two/CD processes/NNS that/WPS are/BER of/IN crucial/JJ importance/NN to/IN this/DT study/NN will/MD be/BE singled/VBN out/RP for/IN particular/JJ emphasis/NN ./pct
+Communication/NN ./pct
+In/IN discussing/VBG the/AT process/NN of/IN communication/NN ,/pct Loomis/NP defines/VBZ it/PPO as/CS ``/pct the/AT process/NN by/IN which/WDT information/NN ,/pct decisions/NNS ,/pct and/CC directives/NNS are/BER transmitted/VBN among/IN actors/NNS and/CC the/AT ways/NNS in/IN which/WDT knowledge/NN ,/pct opinions/NNS ,/pct and/CC attitudes/NNS are/BER formed/VBN ,/pct or/CC modified/VBN by/IN interaction/NN ''/pct ./pct
+Communication/NN may/MD be/BE facilitated/VBN by/IN means/NNS of/IN the/AT high/JJ visibility/NN within/IN the/AT larger/JJR community/NN ./pct
+Intense/JJ interaction/NN is/BEZ easier/JJR where/WRB segregated/VBN living/NN and/CC occupational/JJ segregation/NN mark/VB off/RP a/AT group/NN from/IN the/AT rest/NN of/IN the/AT community/NN ,/pct as/CS in/IN the/AT case/NN of/IN this/DT population/NN ./pct
+However/RB ,/pct the/AT factor/NN of/IN physical/JJ isolation/NN is/BEZ not/NEG a/AT static/JJ situation/NN ./pct
+Although/CS the/AT Brandywine/NP population/NN is/BEZ still/RB predominantly/QL rural/JJ ,/pct ``/pct there/EX are/BER indications/NNS of/IN a/AT consistent/JJ and/CC a/AT statistically/QL significant/JJ trend/NN away/RB from/IN the/AT older/JJR and/CC relatively/QL isolated/VBN rural/JJ communities/NNS ./pct
+Urbanization/NN appears/VBZ to/TO be/BE an/AT important/JJ factor/NN in/IN the/AT disintegration/NN of/IN this/DT group/NN ./pct
+This/DT conclusion/NN is/BEZ ,/pct however/RB ,/pct an/AT over-simplification/NN ./pct
+A/AT more/QL realistic/JJ analysis/NN must/MD take/VB into/IN account/NN the/AT fact/NN that/CS Brandywine/NP people/NNS in/IN the/AT urban-fringe/NN area/NN are/BER ,/pct in/IN general/JJ ,/pct less/QL segregated/VBN locally/RB than/CS group/NN members/NNS in/IN rural/JJ areas/NNS ./pct
+In/IN the/AT urban/JJ area/NN ,/pct in/IN other/AP words/NNS ,/pct they/PPSS ,/pct unlike/IN some/DTI urban/JJ ethnic/JJ groups/NNS ,/pct do/DO not/NEG concentrate/VB in/IN ghetto/NN colonies/NNS ./pct
+Group/NN pressures/NNS toward/IN conformity/NN are/BER slight/JJ or/CC non-existent/JJ ,/pct and/CC deviant/JJ behavior/NN in/IN mate/NN selection/NN incurs/VBZ few/AP if/CS any/DTI social/JJ sanctions/NNS ./pct
+In/IN such/ABL a/AT setting/NN social/JJ contacts/NNS and/CC associations/NNS are/BER likely/JJ to/TO be/BE heterogamous/JJ ,/pct resulting/VBG in/IN a/AT change/NN of/IN values/NNS and/CC ,/pct almost/QL necessarily/RB ,/pct in/IN mate/NN selection/NN behavior/NN ./pct
+To/IN the/AT extent/NN that/CS urban/JJ life/NN contributes/VBZ to/IN the/AT breakdown/NN of/IN the/AT group/NN patterns/NNS of/IN residential/JJ isolation/NN ,/pct to/IN that/DT extent/NN it/PPS contributes/VBZ directly/RB to/IN increased/VBN exogamy/NN ''/pct ./pct
+Social/JJ control/NN ./pct
+The/AT process/NN of/IN social/JJ control/NN is/BEZ operative/JJ insofar/RB as/CS sanctions/NNS play/VB a/AT part/NN in/IN the/AT individual's/NNg behavior/NN ,/pct as/QL well/RB as/CS the/AT group's/NNg behavior/NN ./pct
+By/IN means/NNS of/IN this/DT social/JJ control/NN ,/pct deviance/NN is/BEZ either/CC eliminated/VBN or/CC somehow/RB made/VBN compatible/JJ with/IN the/AT function/NN of/IN the/AT social/JJ group/NN ./pct
+Examples/NNS from/IN this/DT population/NN indicate/VB that/CS deviance/NN seems/VBZ to/TO be/BE sanctioned/VBN by/IN ostracism/NN from/IN the/AT group/NN ./pct
+Socialization/NN ./pct
+There/EX is/BEZ an/AT oral/JJ tradition/NN among/IN the/AT members/NNS of/IN the/AT population/NN in/IN regard/NN to/IN the/AT origin/NN and/CC subsequent/JJ separate/JJ status/NN of/IN the/AT group/NN in/IN the/AT larger/JJR society/NN ./pct
+Confused/VBN and/CC divided/VBN though/CS this/DT tradition/NN may/MD be/BE ,/pct it/PPS is/BEZ an/AT important/JJ part/NN of/IN the/AT social/JJ and/CC cultural/JJ heritage/NN of/IN the/AT group/NN ,/pct and/CC acts/VBZ as/CS a/AT means/NNS of/IN socialization/NN ,/pct particularly/RB for/IN members/NNS of/IN the/AT rural/JJ community/NN ./pct
+The/AT fact/NN of/IN Indian/JJ ancestry/NN and/CC ``/pct free/JJ ''/pct status/NN during/IN the/AT days/NNS of/IN slavery/NN ,/pct are/BER important/JJ distinctions/NNS made/VBN by/IN members/NNS of/IN the/AT group/NN ./pct
+Boundary/NN maintenance/NN ./pct
+``/pct Culturally/RB induced/VBN social/JJ cohesion/NN resulting/VBG from/IN common/JJ norms/NNS and/CC values/NNS internalized/VBN by/IN members/NNS of/IN the/AT group/NN ''/pct is/BEZ operative/JJ in/IN the/AT boundary/NN maintenance/NN of/IN the/AT group/NN as/QL well/RB as/CS in/IN the/AT process/NN of/IN socialization/NN ./pct
+The/AT process/NN of/IN boundary/NN maintenance/NN identifies/VBZ and/CC preserves/VBZ the/AT social/JJ system/NN or/CC subsystems/NNS ,/pct and/CC the/AT characteristic/JJ interaction/NN is/BEZ maintained/VBN ./pct
+As/CS the/AT threat/NN of/IN encroachment/NN on/IN the/AT system/NN increases/VBZ ,/pct the/AT ``/pct probability/NN of/IN applied/VBN boundary/NN maintenance/NN mechanisms/NNS increases/VBZ ''/pct ./pct
+The/AT fertility/NN rate/NN pattern/NN would/MD seem/VB to/TO be/BE a/AT function/NN ,/pct though/CS a/AT latent/JJ one/CD ,/pct of/IN the/AT process/NN of/IN maintaining/VBG the/AT boundary/NN ./pct
+``/pct Increased/VBN boundary/NN maintenance/NN may/MD be/BE achieved/VBN ,/pct for/IN example/NN ,/pct by/IN assigning/VBG a/AT higher/JJR primacy/NN or/CC evaluation/NN to/IN activities/NNS characteristic/JJ of/IN the/AT external/JJ pattern/NN ./pct
+''/pct The/AT external/JJ pattern/NN or/CC external/JJ system/NN can/MD be/BE considered/VBN as/CS ``/pct group/NN behavior/NN that/WPS enables/VBZ the/AT group/NN to/TO survive/VB in/IN its/PPg environment/NN ./pct
+''/pct Boundary/NN maintenance/NN for/IN this/DT group/NN would/MD seem/VB to/TO be/BE primarily/RB social/JJ ,/pct as/CS is/BEZ the/AT preference/NN for/IN endogamy/NN ./pct
+It/PPS is/BEZ also/RB expressed/VBN in/IN the/AT proscription/NN against/IN deviants/NNS in/IN the/AT matter/NN of/IN endogamy/NN ,/pct particularly/RB in/IN rural/JJ areas/NNS ./pct
+By/IN their/PPg pattern/NN of/IN endogamy/NN and/CC exogamy/NN ,/pct the/AT core/NN families/NNS and/CC the/AT marginal/JJ families/NNS show/VB distinct/JJ limits/NNS to/IN the/AT intergroup/JJ contact/NN they/PPSS maintain/VB ./pct
+Systemic/JJ linkage/NN ./pct
+Where/WRB boundary/NN maintenance/NN describes/VBZ the/AT boundaries/NNS or/CC limits/NNS of/IN the/AT group/NN ,/pct systemic/JJ linkage/NN is/BEZ defined/VBN ``/pct as/CS the/AT process/NN whereby/WRB one/CD or/CC more/AP of/IN the/AT elements/NNS of/IN at/IN least/AP two/CD social/JJ systems/NNS is/BEZ articulated/VBN in/IN such/ABL a/AT manner/NN that/CS the/AT two/CD systems/NNS in/IN some/DTI ways/NNS and/CC on/IN some/DTI occasions/NNS may/MD be/BE viewed/VBN as/CS a/AT single/AP unit/NN ./pct

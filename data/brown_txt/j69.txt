@@ -1,0 +1,101 @@
+The/AT following/VBG items/NNS may/MD be/BE specified/VBN in/IN actual/JJ or/CC symbolic/JJ form/NN in/IN the/AT operands/NNS of/IN those/DTS instructions/NNS which/WDT refer/VB to/IN the/AT particular/AP items/NNS :/pct channel/NN ,/pct unit/NN ,/pct combined/VBN channel/NN and/CC unit/NN ,/pct combined/VBN arm/NN and/CC file/NN ,/pct unit/NN record/NN synchronizers/NNS ,/pct inquiry/NN synchronizers/NNS ,/pct and/CC alteration/NN switches/NNS ./pct
+The/AT declarative/JJ operation/NN EQU/NN is/BEZ used/VBN to/TO equate/VB symbolic/JJ names/NNS to/IN item/NN numbers/NNS (/pct see/VB page/NN 85/CD )/pct ./pct
+Continuation/NN cards/NNS
+Certain/AP Autocoder/NP statements/NNS make/VB provision/NN for/IN more/AP parameters/NNS than/CS may/MD be/BE contained/VBN in/IN the/AT operand/NN (/pct columns/NNS 21/CD -/pct 75/CD )/pct of/IN a/AT single/AP line/NN on/IN the/AT Autocoder/NP coding/VBG sheet/NN ./pct
+When/WRB this/DT is/BEZ the/AT case/NN ,/pct the/AT appropriate/JJ section/NN of/IN this/DT manual/NN will/MD indicate/VB that/CS ``/pct Continuation/NN Cards/NNS ''/pct may/MD be/BE used/VBN ./pct
+Thus/RB ,/pct when/WRB specifically/RB permitted/VBN ,/pct the/AT operand/NN of/IN a/AT given/VBN line/NN on/IN the/AT Autocoder/NP coding/VBG sheet/NN may/MD be/BE continued/VBN in/IN the/AT operand/NN of/IN from/IN one/CD to/IN four/CD additional/JJ lines/NNS which/WDT immediately/RB follow/VB ./pct
+The/AT label/NN and/CC operation/NN columns/NNS must/MD be/BE blank/JJ and/CC the/AT continuation/NN of/IN the/AT operand/NN must/MD begin/VB in/IN column/NN 21/CD ;/pct ;/pct
+i.e./RB ,/pct it/PPS must/MD be/BE left-justified/VBN in/IN the/AT operand/NN column/NN of/IN the/AT coding/VBG sheet/NN ./pct
+The/AT operand/NN need/MD not/NEG extend/VB across/IN the/AT entire/JJ operand/NN column/NN of/IN either/CC the/AT header/NN card/NN or/CC continuation/NN cards/NNS but/CC may/MD end/VB with/IN the/AT comma/NN following/VBG any/DTI parameter/NN ./pct
+Remarks/NNS may/MD appear/VB to/IN the/AT right/NR of/IN the/AT last/AP parameter/NN on/IN each/DT card/NN provided/VBD they/PPSS are/BER separated/VBN from/IN the/AT operand/NN by/IN at/IN least/AP two/CD blank/JJ spaces/NNS ./pct
+Illustrations/NNS of/IN the/AT use/NN of/IN continuation/NN cards/NNS are/BER included/VBN throughout/IN the/AT examples/NNS illustrating/VBG the/AT various/AP statements/NNS ./pct
+If/CS a/AT continuation/NN card/NN follows/VBZ a/AT statement/NN that/WPS does/DOZ not/NEG permit/VB continuation/NN cards/NNS ,/pct the/AT compiler/NN will/MD generate/VB a/AT NOP/NN and/CC issue/VB an/AT error/NN message/NN ./pct
+Additional/JJ restrictions/NNS regarding/IN the/AT use/NN of/IN continuation/NN cards/NNS with/IN macro-instructions/NNS appear/VB on/IN page/NN 106/CD ./pct
+Reservation/NN of/IN index/NN words/NNS and/CC electronic/JJ switches/NNS
+The/AT assignment/NN of/IN actual/JJ addresses/NNS to/IN symbolic/JJ index/NN word/NN and/CC electronic/JJ switch/NN names/NNS occurs/VBZ in/IN Phase/NN 3/CD ,/pct of/IN the/AT Autocoder/NP processor/NN ./pct
+The/AT initial/JJ availability/NN of/IN index/NN words/NNS and/CC electronic/JJ switches/NNS is/BEZ determined/VBN by/IN a/AT table/NN which/WDT is/BEZ included/VBN in/IN the/AT Compiler/NN Systems/NNS Tape/NN ./pct
+This/DT table/NN originally/RB indicates/VBZ that/CS index/NN words/NNS 1/CD through/IN 96/CD and/CC electronic/JJ switches/NNS 1/CD through/IN 30/CD are/BER available/JJ for/IN assignment/NN to/IN symbolic/JJ references/NNS ;/pct ;/pct
+index/NN words/NNS 97/CD through/IN 99/CD are/BER not/NEG available/JJ ./pct
+The/AT initial/JJ setting/NN of/IN this/DT table/NN may/MD be/BE altered/VBN ,/pct however/RB ,/pct as/CS described/VBN in/IN the/AT 7070/7074/CD Data/NNS Processing/VBG System/NN Bulletin/NN ``/pct IBM/NP 7070/7074/CD Compiler/NN System/NN :/pct Operating/VBG Procedure/NN ''/pct ,/pct form/NN Aj/NN ./pct
+During/IN the/AT first/OD pass/NN of/IN Phase/NN 3/CD ,/pct ,/pct references/NNS to/IN the/AT actual/JJ addresses/NNS of/IN index/NN words/NNS and/CC electronic/JJ switches/NNS are/BER collected/VBN and/CC the/AT availability/NN table/NN is/BEZ updated/VBN ./pct
+At/IN the/AT end/NN of/IN this/DT pass/NN ,/pct the/AT table/NN indicates/VBZ which/WDT index/NN words/NNS and/CC electronic/JJ switches/NNS are/BER not/NEG available/JJ for/IN assignment/NN to/IN symbolic/JJ references/NNS ./pct
+Both/ABX index/NN words/NNS and/CC electronic/JJ switches/NNS may/MD have/HV been/BEN made/VBN unavailable/JJ before/IN the/AT start/NN of/IN assignment/NN in/IN one/CD of/IN the/AT following/VBG ways/NNS ./pct
+1/CD ./pct
+The/AT initial/JJ setting/NN of/IN the/AT availability/NN table/NN indicated/VBD that/CS the/AT index/NN word/NN or/CC electronic/JJ switch/NN was/BEDZ not/NEG available/JJ for/IN assignment/NN ./pct
+2/CD ./pct
+The/AT one-/CD or/CC two-digit/JJ number/NN of/IN the/AT index/NN word/NN or/CC electronic/JJ switch/NN was/BEDZ used/VBN in/IN the/AT operand/NN of/IN a/AT symbolic/JJ machine/NN instruction/NN to/TO specify/VB indexing/VBG or/CC as/CS a/AT parameter/NN which/WDT is/BEZ always/RB an/AT index/NN word/NN or/CC electronic/JJ switch/NN ,/pct e.g./RB ,/pct 3/CD ./pct
+The/AT one-/CD or/CC two-digit/JJ number/NN of/IN the/AT index/NN word/NN or/CC electronic/JJ switch/NN was/BEDZ used/VBN in/IN the/AT operand/NN of/IN an/AT EQU/NN statement/NN ,/pct e.g./RB ,/pct
+When/WRB the/AT index/NN words/NNS or/CC electronic/JJ switches/NNS are/BER reserved/VBN because/RB of/IN actual/JJ usage/NN in/IN the/AT statements/NNS described/VBN above/RB ,/pct the/AT position/NN or/CC order/NN of/IN the/AT statements/NNS within/IN the/AT program/NN is/BEZ not/NEG important/JJ ;/pct ;/pct
+any/DTI such/JJ reference/NN will/MD make/VB the/AT index/NN word/NN or/CC electronic/JJ switch/NN unavailable/JJ at/IN the/AT end/NN of/IN this/DT pass/NN ./pct
+During/IN the/AT assignment/NN pass/NN of/IN Phase/NN 3/CD ,/pct ,/pct index/NN words/NNS and/CC electronic/JJ switches/NNS are/BER reserved/VBN as/CS they/PPSS are/BER encountered/VBN during/IN assignment/NN ./pct
+Index/NN words/NNS and/CC electronic/JJ switches/NNS may/MD be/BE reserved/VBN in/IN the/AT following/VBG ways/NNS ./pct
+The/AT first/OD two/CD methods/NNS apply/VB to/IN both/ABX index/NN words/NNS and/CC electronic/JJ switches/NNS ;/pct ;/pct
+the/AT third/OD applies/VBZ only/RB to/IN index/NN words/NNS ./pct
+1/CD ./pct
+During/IN the/AT assignment/NN pass/NN ,/pct each/DT instruction/NN is/BEZ examined/VBN for/IN reference/NN to/IN the/AT symbolic/JJ name/NN of/IN an/AT index/NN word/NN or/CC electronic/JJ switch/NN ./pct
+When/WRB such/ABL a/AT reference/NN is/BEZ found/VBN ,/pct an/AT actual/JJ address/NN is/BEZ assigned/VBN and/CC the/AT availability/NN table/NN is/BEZ changed/VBN so/CS that/CS the/AT assigned/VBN index/NN word/NN or/CC switch/NN is/BEZ no/QL longer/RBR available/JJ for/IN later/JJR assignment/NN ./pct
+2/CD ./pct
+If/CS the/AT one-/CD or/CC two-digit/JJ address/NN of/IN an/AT index/NN word/NN or/CC electronic/JJ switch/NN is/BEZ used/VBN or/CC is/BEZ included/VBN in/IN the/AT operand/NN of/IN an/AT XRESERVE/NN or/CC SRESERVE/NN statement/NN (/pct see/VB page/NN 99/CD )/pct ,/pct the/AT corresponding/JJ index/NN word/NN or/CC electronic/JJ switch/NN is/BEZ reserved/VBN ./pct
+3/CD ./pct
+If/CS a/AT statement/NN has/HVZ been/BEN assigned/VBN an/AT address/NN in/IN the/AT index/NN word/NN area/NN
+by/IN means/NNS of/IN an/AT actual/JJ label/NN or/CC
+by/IN means/NNS of/IN an/AT origin/NN statement/NN which/WDT refers/VBZ to/IN an/AT actual/JJ address/NN ,/pct the/AT corresponding/JJ index/NN word/NN will/MD be/BE reserved/VBN ./pct
+These/DTS entries/NNS should/MD normally/RB appear/VB at/IN the/AT beginning/NN of/IN the/AT program/NN or/CC immediately/RB following/VBG each/DT LITORIGIN/NN statement/NN ./pct
+Otherwise/RB ,/pct symbolic/JJ names/NNS may/MD have/HV previously/RB been/BEN assigned/VBN to/IN these/DTS same/AP index/NN words/NNS ./pct
+(/pct This/DT method/NN does/DOZ not/NEG apply/VB to/IN electronic/JJ switches/NNS ./pct
+The/AT preceding/VBG methods/NNS allow/VB efficient/JJ use/NN of/IN index/NN words/NNS and/CC electronic/JJ switches/NNS during/IN a/AT sectionalized/VBN or/CC multi-phase/JJ program/NN ,/pct particularly/RB when/WRB used/VBN in/IN conjunction/NN with/IN the/AT LITORIGIN/NN statement/NN ./pct
+Extreme/JJ caution/NN should/MD be/BE used/VBN ,/pct however/RB ,/pct to/TO avoid/VB the/AT conflicting/VBG usage/NN of/IN an/AT index/NN word/NN or/CC electronic/JJ switch/NN which/WDT may/MD result/VB from/IN the/AT assignment/NN of/IN more/AP than/IN one/CD name/NN or/CC function/NN to/IN the/AT same/AP address/NN ./pct
+If/CS the/AT symbolic/JJ name/NN or/CC actual/JJ address/NN of/IN an/AT index/NN word/NN or/CC electronic/JJ switch/NN appears/VBZ or/CC is/BEZ included/VBN in/IN the/AT operand/NN of/IN an/AT XRELEASE/NN or/CC SRELEASE/NN statement/NN (/pct see/VB page/NN 101/CD )/pct ,/pct the/AT specified/VBN index/NN word/NN or/CC electronic/JJ switch/NN will/MD again/RB be/BE made/VBN available/JJ ,/pct regardless/RB of/IN the/AT method/NN by/IN which/WDT it/PPS was/BEDZ reserved/VBN ./pct
+It/PPS will/MD not/NEG ,/pct however/RB ,/pct be/BE used/VBN for/IN symbolic/JJ assignment/NN until/CS all/ABN other/AP index/NN words/NNS or/CC electronic/JJ switches/NNS have/HV been/BEN assigned/VBN for/IN the/AT first/OD time/NN ./pct
+If/CS ,/pct at/IN any/DTI time/NN during/IN the/AT assignment/NN pass/NN ,/pct the/AT compiler/NN finds/VBZ that/CS there/EX are/BER no/AT more/AP index/NN words/NNS available/JJ for/IN assignment/NN ,/pct the/AT warning/VBG message/NN ``/pct No/AT More/AP Index/NN Words/NNS Available/JJ ''/pct will/MD be/BE placed/VBN in/IN the/AT object/NN program/NN listing/NN ,/pct the/AT table/NN will/MD be/BE altered/VBN to/TO show/VB that/CS index/NN words/NNS 1/CD through/IN 96/CD are/BER available/JJ ,/pct and/CC the/AT assignment/NN will/MD continue/VB as/CS before/RB ./pct
+If/CS the/AT compiler/NN finds/VBZ that/CS there/EX are/BER no/AT more/AP electronic/JJ switches/NNS available/JJ for/IN assignment/NN ,/pct the/AT warning/VBG message/NN ``/pct No/AT More/AP Electronic/JJ Switches/NNS Available/JJ ''/pct will/MD be/BE placed/VBN in/IN the/AT object/NN program/NN listing/NN ,/pct the/AT table/NN will/MD be/BE altered/VBN to/TO show/VB that/CS electronic/JJ switches/NNS 1/CD through/IN 30/CD are/BER available/JJ ,/pct and/CC assignment/NN will/MD continue/VB as/CS before/RB ./pct
+The/AT resultant/JJ conflicting/VBG usage/NN of/IN index/NN words/NNS or/CC electronic/JJ switches/NNS may/MD be/BE avoided/VBN by/IN reducing/VBG the/AT number/NN of/IN symbolic/JJ names/NNS used/VBN ,/pct e.g./RB ,/pct through/IN the/AT proper/JJ use/NN of/IN the/AT EQU/NN ,/pct XRELEASE/NN ,/pct or/CC SRELEASE/NN statements/NNS ./pct
+As/CS noted/VBN in/IN Appendix/NN C/NP ,/pct index/NN words/NNS 97/CD through/IN 99/CD are/BER never/RB available/JJ for/IN assignment/NN to/IN symbolic/JJ names/NNS by/IN the/AT compiler/NN ;/pct ;/pct
+also/RB ,/pct index/NN words/NNS 93/CD through/IN 96/CD may/MD have/HV been/BEN made/VBN unavailable/JJ for/IN assignment/NN ./pct
+Declarative/JJ statements/NNS
+Autocoder/NP declarative/JJ statements/NNS provide/VB the/AT processor/NN with/IN the/AT necessary/JJ information/NN to/TO complete/VB the/AT imperative/JJ operations/NNS properly/RB ./pct
+Declarative/JJ statements/NNS are/BER never/RB executed/VBN in/IN the/AT object/NN program/NN and/CC should/MD be/BE separated/VBN from/IN the/AT program/NN instruction/NN area/NN ,/pct placed/VBN preferably/RB at/IN its/PPg beginning/NN or/CC end/NN ./pct
+Otherwise/RB ,/pct special/JJ care/NN must/MD be/BE taken/VBN to/TO branch/VB around/IN them/PPO so/CS that/CS the/AT program/NN will/MD not/NEG attempt/VB to/TO execute/VB something/PN in/IN a/AT data/NN area/NN as/CS an/AT instruction/NN ./pct
+If/CS the/AT compiler/NN does/DOZ encounter/VB such/JJ statements/NNS ,/pct a/AT warning/VBG message/NN will/MD be/BE issued/VBN ./pct
+7070/7074/CD Autocoder/NP includes/VBZ the/AT following/VBG declarative/JJ statements/NNS :/pct DA/NN (/pct Define/VB Area/NN )/pct ,/pct DC/NN (/pct Define/VB Constant/NN )/pct ,/pct DRDW/NN (/pct Define/VB Record/NN Definition/NN Word/NN )/pct ,/pct DSW/NN (/pct Define/VB Switch/NN )/pct ,/pct DLINE/NN (/pct Define/VB Line/NN )/pct ,/pct EQU/NN (/pct Equate/VB )/pct ,/pct CODE,DTF/NN (/pct Define/VB Tape/NN File/NN )/pct ,/pct DIOCS/NN (/pct Define/VB Input/Output/JJ Control/NN System/NN )/pct ,/pct and/CC DUF/NN (/pct Descriptive/JJ Entry/NN For/IN Unit/NN Records/NNS )/pct ./pct
+DA/NN ,/pct DC/NN ,/pct DTF/NN ,/pct and/CC DLINE/NN require/VB more/AP than/IN one/CD entry/NN ./pct
+The/AT DA/NN statement/NN is/BEZ used/VBN to/TO name/VB and/CC define/VB the/AT positions/NNS and/CC length/NN of/IN fields/NNS within/IN an/AT area/NN ./pct
+The/AT DC/NN statement/NN is/BEZ used/VBN to/TO name/VB and/CC enter/VB constants/NNS into/IN the/AT object/NN program/NN ./pct
+Since/CS the/AT 7070/CD and/CC 7074/CD make/VB use/NN of/IN record/NN definition/NN words/NNS (/pct RDWS/NP )/pct to/TO read/VB ,/pct write/VB ,/pct move/VB ,/pct and/CC otherwise/RB examine/VB blocks/NNS of/IN storage/NN ,/pct the/AT DA/NN and/CC DC/NN statements/NNS provide/VB the/AT option/NN of/IN generating/VBG RDWS/NN automatically/RB ./pct
+When/WRB so/RB instructed/VBN ,/pct Autocoder/NP will/MD generate/VB one/CD or/CC more/AP RDWS/NN and/CC assign/VB them/PPO successive/JJ locations/NNS immediately/RB preceding/VBG the/AT area/NN with/IN which/WDT they/PPSS are/BER to/TO be/BE associated/VBN ./pct
+An/AT RDW/NN will/MD be/BE of/IN the/AT form/NN Af/NN ,/pct where/WRB xxxx/NN is/BEZ the/AT starting/VBG location/NN of/IN the/AT area/NN and/CC yyyy/NN is/BEZ its/PPg ending/VBG location/NN ./pct
+These/DTS addresses/NNS are/BER calculated/VBN automatically/RB by/IN the/AT processor/NN ./pct
+In/IN some/DTI cases/NNS ,/pct it/PPS may/MD be/BE more/QL advantageous/JJ to/TO assign/VB locations/NNS to/IN RDWS/NN associated/VBN with/IN DA/NN and/CC DC/NN areas/NNS in/IN some/DTI other/AP part/NN of/IN storage/NN ,/pct i.e./RB ,/pct not/NEG immediately/RB preceding/VBG the/AT DA/NN or/CC DC/NN areas/NNS ./pct
+The/AT DRDW/NN statement/NN may/MD be/BE used/VBN for/IN this/DT purpose/NN ./pct
+The/AT DRDW/NN statement/NN may/MD also/RB be/BE used/VBN to/TO generate/VB an/AT RDW/NN defining/VBG any/DTI area/NN specified/VBN by/IN the/AT programmer/NN ./pct
+As/QL many/AP as/CS ten/CD digital/JJ switches/NNS may/MD be/BE named/VBN and/CC provided/VBN by/IN the/AT DSW/NN statement/NN for/IN consideration/NN by/IN the/AT SETSW/NN and/CC logic/NN macro-instructions/NNS ./pct
+Each/DT switch/NN occupies/VBZ one/CD digit/NN position/NN in/IN a/AT word/NN ,/pct can/MD be/BE set/VBN on/RP or/CC off/RP ,/pct and/CC is/BEZ considered/VBN as/CS logically/RB equivalent/JJ to/IN an/AT electronic/JJ switch/NN ./pct
+It/PPS cannot /None ,/pct however/RB ,/pct be/BE referred/VBN to/IN by/IN electronic/JJ switch/NN commands/NNS ,/pct e.g./RB ,/pct ESN/NN ,/pct BSN/NN ,/pct etc./RB ./pct
+An/AT individual/AP switch/NN or/CC the/AT entire/JJ set/NN of/IN switches/NNS in/IN a/AT word/NN may/MD be/BE tested/VBN or/CC altered/VBN as/CS desired/VBN ./pct
+Through/IN use/NN of/IN the/AT DLINE/NN statement/NN ,/pct a/AT means/NN is/BEZ provided/VBN for/IN specifying/VBG both/ABX the/AT editing/NN of/IN fields/NNS to/TO be/BE inserted/VBN in/IN a/AT print/NN line/NN area/NN and/CC the/AT layout/NN of/IN the/AT area/NN itself/PPL ./pct
+The/AT area/NN may/MD include/VB constant/JJ information/NN supplied/VBN by/IN the/AT programmer/NN ./pct
+The/AT area/NN may/MD also/RB be/BE provided/VBN with/IN additional/JJ data/NN during/IN the/AT running/NN of/IN the/AT object/NN program/NN by/IN means/NNS of/IN EDMOV/NN or/CC move/NN macro-instructions/NNS ./pct
+The/AT declarative/JJ statement/NN EQU/NN permits/VBZ the/AT programmer/NN to/TO equate/VB symbolic/JJ names/NNS to/IN actual/JJ index/NN words/NNS ,/pct electronic/JJ switches/NNS ,/pct arm/NN and/CC file/NN numbers/NNS ,/pct tape/NN channel/NN and/CC unit/NN numbers/NNS ,/pct alteration/NN switches/NNS ,/pct etc./RB ,/pct and/CC to/TO equate/VB a/AT symbol/NN to/IN another/DT symbol/NN or/CC to/IN an/AT actual/JJ address/NN ./pct
+The/AT DIOCS/NN ,/pct DTF/NN ,/pct and/CC DUF/NN statements/NNS are/BER used/VBN when/WRB required/VBN by/IN the/AT Input/Output/JJ Control/NN System/NN ./pct
+DIOCS/NP is/BEZ used/VBN to/TO select/VB the/AT major/JJ methods/NNS of/IN processing/VBG to/TO be/BE used/VBN ,/pct and/CC to/TO name/VB the/AT index/NN words/NNS used/VBN by/IN Aj/NN ./pct
+Each/DT tape/NN file/NN must/MD be/BE described/VBN by/IN Tape/NN File/NN Specifications/NNS ,/pct produced/VBN by/IN Aj/NN ./pct
+In/IN addition/NN to/IN information/NN related/VBN to/IN the/AT file/NN and/CC its/PPg records/NNS ,/pct the/AT File/NN Specifications/NNS contain/VB subroutine/NN locations/NNS and/CC the/AT location/NN of/IN tape/NN label/NN information/NN ./pct
+A/AT DUF/NN entry/NN must/MD be/BE supplied/VBN for/IN every/AT unit/NN record/NN file/NN describing/VBG the/AT type/NN of/IN file/NN and/CC the/AT unit/NN record/NN equipment/NN to/TO be/BE used/VBN ./pct
+The/AT DUF/NN also/RB supplies/VBZ the/AT locations/NNS of/IN subroutines/NNS written/VBN by/IN the/AT user/NN that/WPS are/BER unique/JJ to/IN the/AT file/NN ./pct
+A/AT full/JJ description/NN of/IN the/AT DIOCS/NN ,/pct DTF/NN ,/pct and/CC DUF/NN statements/NNS is/BEZ contained/VBN in/IN the/AT 7070/CD Data/NNS Processing/VBG System/NN Bulletin/NN ``/pct IBM/NP 7070/CD Input/Output/JJ Control/NN System/NN ''/pct ,/pct form/NN Aj/NN ./pct
+Brief/JJ descriptions/NNS of/IN these/DTS three/CD declarative/JJ statements/NNS and/CC detailed/VBN descriptions/NNS of/IN the/AT formats/NNS and/CC functions/NNS of/IN each/DT of/IN the/AT other/AP 7070/7074/CD Autocoder/NP declarative/JJ statements/NNS follow/VB below/RB ./pct
+diocs/NN --/pct define/VB input/output/NN control/NN system/NN
+When/WRB the/AT Input/Output/JJ Control/NN System/NN is/BEZ to/TO be/BE used/VBN in/IN a/AT program/NN ,/pct a/AT DIOCS/NN statement/NN must/MD be/BE used/VBN to/TO select/VB the/AT major/JJ methods/NNS of/IN processing/VBG to/TO be/BE used/VBN ./pct
+This/DT statement/NN also/RB allows/VBZ the/AT naming/NN of/IN the/AT index/NN words/NNS used/VBN by/IN Aj/NN ./pct
+Source/NN program/NN format/NN
+The/AT basic/JJ format/NN of/IN the/AT DIOCS/NN statement/NN is/BEZ as/CS follows/VBZ :/pct anylabel/NP is/BEZ any/DTI symbolic/JJ label/NN ;/pct ;/pct
+it/PPS may/MD be/BE omitted/VBN ./pct
+The/AT entry/NN DIOCS/NN must/MD be/BE written/VBN exactly/RB as/CS shown/VBN ./pct
+The/AT first/OD item/NN in/IN the/AT operand/NN ,/pct IOCSIXF/NN ,/pct is/BEZ used/VBN to/TO specify/VB the/AT first/OD IOCS/NN index/NN word/NN for/IN programs/NNS using/VBG tape/NN files/NNS ./pct
+This/DT item/NN may/MD be/BE a/AT symbolic/JJ name/NN or/CC an/AT actual/JJ one-digit/NN or/CC two-digit/JJ index/NN word/NN address/NN in/IN the/AT range/NN 3/CD -/pct 94/CD ./pct
+If/CS the/AT first/OD item/NN in/IN the/AT operand/NN is/BEZ omitted/VBN ,/pct the/AT symbolic/JJ name/NN IOCSIXF/NN will/MD be/BE assigned/VBN ./pct
+When/WRB an/AT actual/JJ index/NN word/NN or/CC a/AT symbolic/JJ address/NN is/BEZ specified/VBN ,/pct Autocoder/NP will/MD equate/VB the/AT name/NN IOCSIXF/NN to/IN it/PPO ./pct
+The/AT second/OD item/NN in/IN the/AT operand/NN ,/pct IOCSIXG/NN ,/pct is/BEZ used/VBN to/TO specify/VB the/AT second/OD IOCS/NN index/NN word/NN for/IN programs/NNS using/VBG tape/NN files/NNS ./pct
+This/DT item/NN may/MD be/BE a/AT symbolic/JJ name/NN or/CC an/AT actual/JJ one-digit/NN or/CC two-digit/JJ index/NN word/NN address/NN in/IN the/AT range/NN 3/CD -/pct 94/CD ./pct
+If/CS the/AT second/OD item/NN in/IN the/AT operand/NN is/BEZ omitted/VBN ,/pct the/AT symbolic/JJ name/NN IOCSIXG/NN will/MD be/BE assigned/VBN ./pct
+When/WRB an/AT actual/JJ index/NN word/NN or/CC a/AT symbolic/JJ address/NN is/BEZ specified/VBN ,/pct Autocoder/NP will/MD equate/VB IOCSIXG/NN to/IN it/PPO ./pct

@@ -1,0 +1,103 @@
+It/PPS is/BEZ obvious/JJ enough/QLP that/CS linguists/NNS in/IN general/JJ have/HV been/BEN less/QL successful/JJ in/IN coping/VBG with/IN tone/NN systems/NNS than/CS with/IN consonants/NNS or/CC vowels/NNS ./pct
+No/AT single/AP explanation/NN is/BEZ adequate/JJ to/TO account/VB for/IN this/DT ./pct
+Improvement/NN ,/pct however/RB ,/pct is/BEZ urgent/JJ ,/pct and/CC at/IN least/AP three/CD things/NNS will/MD be/BE needed/VBN ./pct
+The/AT first/OD is/BEZ a/AT wide-ranging/JJ sample/NN of/IN successful/JJ tonal/JJ analyses/NNS ./pct
+Even/RB beginning/VBG students/NNS in/IN linguistics/NN are/BER made/VBN familiar/JJ with/IN an/AT appreciable/JJ variety/NN of/IN consonant/NN systems/NNS ,/pct both/ABX in/IN their/PPg general/JJ outlines/NNS and/CC in/IN many/AP specific/JJ details/NNS ./pct
+An/AT advanced/VBN student/NN has/HVZ read/VBN a/AT considerable/JJ number/NN of/IN descriptions/NNS of/IN consonantal/JJ systems/NNS ,/pct including/IN some/DTI of/IN the/AT more/QL unusual/JJ types/NNS ./pct
+By/IN contrast/NN ,/pct even/RB experienced/VBN linguists/NNS commonly/RB know/VB no/QL more/AP of/IN the/AT range/NN of/IN possibilities/NNS in/IN tone/NN systems/NNS than/CS the/AT over-simple/JJ distinction/NN between/IN register/NN and/CC contour/NN languages/NNS ./pct
+This/DT limited/VBN familiarity/NN with/IN the/AT possible/JJ phenomena/NNS has/HVZ severely/RB hampered/VBN work/NN with/IN tone/NN ./pct
+Tone/NN analysis/NN will/MD continue/VB to/TO be/BE difficult/JJ and/CC unsatisfactory/JJ until/CS a/AT more/QL representative/JJ selection/NN of/IN systems/NNS is/BEZ familar/JJ to/IN every/AT practicing/VBG field/NN linguist/NN ./pct
+Papers/NNS like/CS these/DTS four/CD ,/pct if/CS widely/RB read/VBN ,/pct will/MD contribute/VB importantly/RB to/IN improvement/NN of/IN our/PPg analytic/JJ work/NN ./pct
+The/AT second/OD need/NN is/BEZ better/JJR field/NN techniques/NNS ./pct
+The/AT great/JJ majority/NN of/IN present-day/JJ linguists/NNS fall/VB into/IN one/CD or/CC more/AP of/IN a/AT number/NN of/IN overlapping/VBG types/NNS :/pct those/DTS who/WPS are/BER convinced/VBN that/CS tone/NN cannot /None be/BE analysed/VBN ,/pct those/DTS who/WPS are/BER personally/RB scared/VBN of/IN tone/NN and/CC tone/NN languages/NNS generally/RB ,/pct those/DTS who/WPS are/BER convinced/VBN that/CS tone/NN is/BEZ merely/RB an/AT unnecessary/JJ marginal/JJ feature/NN in/IN those/DTS languages/NNS where/WRB it/PPS occurs/VBZ ,/pct those/DTS who/WPS have/HV no/AT idea/NN how/WRB to/TO proceed/VB with/IN tone/NN analysis/NN ,/pct those/DTS who/WPS take/VB a/AT simplistic/JJ view/NN of/IN the/AT whole/JJ matter/NN ./pct
+The/AT result/NN has/HVZ been/BEN neglect/NN ,/pct fumbling/VBG efforts/NNS ,/pct or/CC superficial/JJ treatment/NN ./pct
+As/CS these/DTS maladies/NNS overlap/VB ,/pct so/RB must/MD the/AT cure/NN ./pct
+Analyses/NNS such/JJ as/CS these/DTS four/CD will/MD simultaneously/RB combat/VB the/AT assumptions/NNS that/CS tone/NN is/BEZ impossible/JJ and/CC that/CS it/PPS is/BEZ simple/JJ ./pct
+They/PPSS will/MD give/VB suggestions/NNS that/WPS can/MD be/BE worked/VBN up/RP into/IN field/NN procedures/NNS ./pct
+Good/JJ field/NN techniques/NNS will/MD not/NEG only/RB equip/VB linguists/NNS for/IN better/JJR work/NN ,/pct but/CC also/RB help/VB them/PPO overcome/VB negative/JJ attitudes/NNS ./pct
+Actually/RB ,/pct none/PN of/IN these/DTS papers/NNS says/VBZ much/AP directly/RB about/IN field/NN techniques/NNS ./pct
+But/CC it/PPS is/BEZ worth/JJ pondering/VBG that/CS very/QL little/AP has/HVZ been/BEN published/VBN on/IN any/DTI phase/NN of/IN field/NN techniques/NNS in/IN linguistics/NN ./pct
+These/DTS things/NNS have/HV been/BEN disseminated/VBN by/IN other/AP means/NNS ,/pct but/CC always/RB in/IN the/AT wake/NN of/IN extensive/JJ publication/NN of/IN analytic/JJ results/NNS ./pct
+The/AT third/OD need/NN is/BEZ for/IN better/JJR theory/NN ./pct
+We/PPSS should/MD expect/VB that/CS general/JJ phonologic/JJ theory/NN should/MD be/BE as/QL adequate/JJ for/IN tone/NN as/CS for/IN consonants/NNS and/CC vowels/NNS ,/pct but/CC it/PPS has/HVZ not/NEG been/BEN ./pct
+This/DT can/MD only/RB be/BE for/IN one/CD of/IN two/CD reasons/NNS :/pct either/CC the/AT two/CD are/BER quite/QL different/JJ and/CC will/MD require/VB totally/QL different/JJ theory/NN (/pct and/CC hence/RB techniques/NNS )/pct ,/pct or/CC our/PPg existing/VBG theories/NNS are/BER insufficiently/RB general/JJ ./pct
+If/CS ,/pct as/CS I/PPSS suspect/VB ,/pct the/AT problem/NN is/BEZ largely/RB of/IN the/AT second/OD sort/NN ,/pct then/RB development/NN of/IN a/AT theory/NN better/QL able/JJ to/TO handle/VB tone/NN will/MD result/VB automatically/RB in/IN better/JJR theory/NN for/IN all/ABN phonologic/JJ subsystems/NNS ./pct
+One/CD issue/NN that/WPS must/MD be/BE faced/VBN is/BEZ the/AT relative/JJ difficulty/NN of/IN analysis/NN of/IN different/JJ phonologic/JJ subsystems/NNS ./pct
+Since/CS tone/NN systems/NNS typically/RB comprise/VB fewer/AP units/NNS than/CS either/CC consonant/NN or/CC vowel/NN systems/NNS ,/pct we/PPSS might/MD expect/VB that/CS they/PPSS would/MD be/BE the/AT easiest/JJT part/NN of/IN a/AT phonologic/JJ analysis/NN ./pct
+Actual/JJ practice/NN does/DOZ not/NEG often/RB work/VB out/RP this/DT way/NN ./pct
+Tone/NN systems/NNS are/BER certainly/RB more/QL complex/JJ than/CS the/AT number/NN of/IN units/NNS would/MD suggest/VB ,/pct and/CC often/RB analytically/RB more/QL difficult/JJ than/CS much/QL larger/JJR consonantal/JJ systems/NNS ./pct
+Welmers/NP has/HVZ suggested/VBN one/CD explanation/NN ./pct
+Tone/NN languages/NNS use/VB for/IN linguistic/JJ contrasts/NNS speech/NN parameters/NNS which/WDT also/RB function/VB heavily/RB in/IN nonlinguistic/JJ use/NN ./pct
+This/DT may/MD both/ABX divert/VB the/AT attention/NN of/IN the/AT uninitiate/NN and/CC cause/VB confusion/NN for/IN the/AT more/QL knowledgeable/JJ ./pct
+The/AT problem/NN is/BEZ to/TO disentangle/VB the/AT linguistic/JJ features/NNS of/IN pitch/NN from/IN the/AT co-occurring/VBG nonlinguistic/JJ features/NNS ./pct
+Of/IN course/NN ,/pct something/PN of/IN the/AT same/AP sort/NN occurs/VBZ with/IN other/AP sectors/NNS of/IN the/AT phonology/NN :/pct consonantal/JJ articulations/NNS have/HV both/ABX a/AT linguistic/JJ and/CC an/AT individual/JJ component/NN ./pct
+But/CC in/IN general/JJ the/AT individual/JJ variation/NN is/BEZ a/AT small/JJ thing/NN added/VBN onto/IN basic/JJ linguistic/JJ features/NNS of/IN greater/JJR magnitude/NN ./pct
+With/IN tone/NN ,/pct individual/JJ differences/NNS may/MD be/BE greater/JJR than/CS the/AT linguistic/JJ contrasts/NNS which/WDT are/BER superimposed/VBN on/IN them/PPO ./pct
+Pitch/NN differences/NNS from/IN one/CD speaker/NN to/IN another/DT ,/pct or/CC from/IN one/CD emotional/JJ state/NN to/IN another/DT ,/pct may/MD far/RB exceed/VB the/AT small/JJ differences/NNS between/IN tones/NNS ./pct
+However/RB ,/pct any/DTI such/JJ suggestion/NN accounts/VBZ for/IN only/RB some/DTI of/IN the/AT difficulties/NNS in/IN hearing/VBG tone/NN ,/pct or/CC in/IN developing/VBG a/AT realistic/JJ attitude/NN about/IN tone/NN ,/pct but/CC not/NEG for/IN the/AT analytic/JJ difficulties/NNS that/WPS occur/VB even/RB when/WRB tone/NN is/BEZ meticulously/RB recorded/VBN ./pct
+A/AT second/OD explanation/NN is/BEZ suggested/VBN by/IN the/AT material/NN described/VBN in/IN Rowlands'/NPg paper/NN ./pct
+Tone/NN and/CC intonation/NN often/RB become/VB seriously/RB intermeshed/VBN ./pct
+Neither/DTX can/MD be/BE adequately/RB systematized/VBN until/CS we/PPSS are/BER able/JJ to/TO separate/VB the/AT two/CD and/CC assign/VB the/AT observed/VBN phenomena/NNS individually/RB to/IN one/CD or/CC the/AT other/AP ./pct
+Other/AP pairs/NNS of/IN phonologic/JJ subsystems/NNS also/RB interact/VB or/CC overlap/VB in/IN this/DT way/NN ;/pct ;/pct
+for/IN example/NN ,/pct duration/NN sometimes/RB figures/VBZ in/IN both/ABX the/AT vowel/NN system/NN and/CC the/AT intonation/NN ./pct
+Some/DTI phonetic/JJ features/NNS ,/pct for/IN example/NN glottal/JJ catch/NN or/CC murmur/NN ,/pct are/BER sometimes/RB to/TO be/BE assigned/VBN to/IN segmental/JJ phonemics/NN and/CC sometimes/RB to/IN accentual/JJ systems/NNS ./pct
+But/CC no/AT other/AP two/CD phonologic/JJ systems/NNS are/BER as/QL difficult/JJ to/TO disentangle/VB as/CS are/BER tone/NN and/CC intonation/NN in/IN some/DTI languages/NNS ./pct
+This/DT explanation/NN of/IN tone/NN difficulties/NNS ,/pct however/RB ,/pct does/DOZ not/NEG apply/VB in/IN all/ABN languages/NNS ./pct
+In/IN some/DTI (/pct the/AT Ewe/NP type/NN mentioned/VBN above/RB )/pct interaction/NN of/IN tone/NN and/CC intonation/NN is/BEZ restricted/VBN to/IN the/AT ends/NNS of/IN intonation/NN spans/NNS ./pct
+In/IN many/AP of/IN the/AT syllables/NNS ,/pct intonation/NN can/MD be/BE safely/RB ignored/VBN ,/pct and/CC much/AP of/IN the/AT tonal/JJ analysis/NN can/MD be/BE done/VBN without/IN any/DTI study/NN of/IN intonation/NN ./pct
+Still/RB ,/pct even/RB in/IN such/JJ languages/NNS tone/NN analysis/NN has/HVZ not/NEG been/BEN as/QL simple/JJ as/CS one/PN might/MD expect/VB ./pct
+A/AT third/OD explanation/NN is/BEZ suggested/VBN by/IN Richardson's/NPg analysis/NN of/IN Sukuma/NP tone/NN ./pct
+There/RB we/PPSS see/VB a/AT basically/QL simple/JJ phonemic/JJ system/NN enmeshed/VBN in/IN a/AT very/QL complex/JJ and/CC puzzling/JJ morphophonemic/JJ system/NN ./pct
+While/CS the/AT phonemes/NNS can/MD be/BE very/QL easily/RB stated/VBN ,/pct no/AT one/PN is/BEZ likely/JJ to/TO be/BE satisfied/VBN with/IN the/AT statement/NN until/CS phonemic/JJ occurrences/NNS can/MD be/BE related/VBN in/IN some/DTI way/NN to/IN morphemic/JJ units/NNS ,/pct i.e./RB until/CS the/AT morphophonemics/NN is/BEZ worked/VBN out/RP ,/pct or/CC at/IN least/AP far/RB enough/QLP that/CS it/PPS seems/VBZ reasonable/JJ to/TO expect/VB success/NN ./pct
+In/IN the/AT ``/pct typical/JJ tone/NN language/NN ''/pct ,/pct tonal/JJ morphophonemics/NN is/BEZ of/IN the/AT same/AP order/NN of/IN complexity/NN as/CS consonantal/JJ morphophonemics/NN ./pct
+The/AT phonemic/JJ systems/NNS which/WDT must/MD support/VB these/DTS morphophonemic/JJ systems/NNS ,/pct however/RB ,/pct are/BER very/QL different/JJ ./pct
+The/AT inventory/NN of/IN tones/NNS is/BEZ much/QL smaller/JJR ,/pct and/CC commonly/RB the/AT contrasts/NNS range/VB along/IN one/CD single/AP dimension/NN ,/pct pitch/NN level/NN ./pct
+Consonantal/JJ systems/NNS are/BER not/NEG merely/RB larger/JJR ,/pct they/PPSS are/BER multidimensional/JJ ./pct
+Morphophonemic/JJ rules/NNS may/MD be/BE thought/VBN of/IN as/CS joining/VBG certain/AP points/NNS in/IN the/AT system/NN ./pct
+The/AT possibilities/NNS in/IN the/AT consonantal/JJ system/NN are/BER very/QL numerous/JJ ,/pct and/CC only/RB a/AT small/JJ portion/NN of/IN them/PPO are/BER actually/RB used/VBN ./pct
+Phonemes/NNS connected/VBN by/IN a/AT morphophonemic/JJ rule/NN commonly/RB show/VB a/AT good/JJ bit/NN of/IN phonetic/JJ similarity/NN ,/pct possible/JJ because/RB of/IN the/AT several/AP dimensions/NNS of/IN contrast/NN in/IN the/AT system/NN ./pct
+Tonal/JJ morphophonemics/NN ,/pct in/IN a/AT common/JJ case/NN ,/pct can/MD do/DO nothing/PN but/IN either/CC raise/VB or/CC lower/VB the/AT tone/NN ./pct
+The/AT possibilities/NNS are/BER few/AP ,/pct and/CC the/AT total/NN number/NN of/IN rules/NNS may/MD be/BE considerably/QL greater/JJR ./pct
+Often/RB ,/pct therefore/RB ,/pct there/EX are/BER a/AT number/NN of/IN rules/NNS having/HVG the/AT same/AP effect/NN ,/pct and/CC commonly/RB other/AP sets/NNS of/IN rules/NNS as/QL well/RB ,/pct having/HVG the/AT opposite/JJ effect/NN ./pct
+Tonal/JJ morphophonemics/NN is/BEZ much/QL more/QL confusing/JJ to/IN the/AT beginning/VBG analyst/NN than/CS consonantal/JJ morphophonemics/NN ,/pct even/RB when/WRB the/AT total/NN number/NN of/IN rules/NNS is/BEZ no/QL greater/JJR ./pct
+The/AT difficulty/NN of/IN analysis/NN of/IN any/DTI subsystem/NN in/IN the/AT phonology/NN is/BEZ an/AT inverse/JJ function/NN of/IN the/AT size/NN --/pct smaller/JJR systems/NNS are/BER more/QL troublesome/JJ --/pct for/IN any/DTI given/VBN degree/NN of/IN morphophonemic/JJ complexity/NN ./pct
+This/DT hypothesis/NN will/MD account/VB for/IN a/AT large/JJ part/NN of/IN the/AT difficulties/NNS of/IN tonal/JJ analysis/NN ,/pct as/QL well/RB as/CS the/AT fact/NN that/CS vowel/NN systems/NNS are/BER often/RB more/QL puzzling/JJ than/CS consonantal/JJ systems/NNS ./pct
+The/AT statement/NN of/IN the/AT system/NN is/BEZ a/AT different/JJ matter/NN ./pct
+Smaller/JJR systems/NNS can/MD of/IN course/NN be/BE stated/VBN much/QL more/QL succinctly/RB ./pct
+A/AT phonemic/JJ system/NN can/MD be/BE stated/VBN without/IN reference/NN to/IN morphophonemics/NN ,/pct but/CC it/PPS cannot /None always/RB be/BE found/VBN without/IN morphophonemics/NN ./pct
+And/CC the/AT more/QL complex/JJ the/AT morphophonemic/JJ system/NN is/BEZ in/IN relation/NN to/IN the/AT phonemic/JJ base/NN ,/pct the/AT less/QL easily/RB a/AT phonemic/JJ system/NN will/MD be/BE analysed/VBN without/IN close/JJ attention/NN to/IN the/AT morphophonemics/NN --/pct at/IN least/AP ,/pct the/AT less/QL satisfying/JJ will/MD a/AT phonemic/JJ statement/NN be/BE if/CS it/PPS cannot /None be/BE related/VBN through/IN morphophonemic/JJ rules/NNS to/IN grammatically/RB meaningful/JJ structures/NNS ./pct
+The/AT design/NN of/IN orthographies/NNS has/HVZ received/VBN much/QL less/AP attention/NN from/IN linguists/NNS than/CS the/AT problem/NN deserves/VBZ ./pct
+There/EX has/HVZ been/BEN a/AT tendency/NN on/IN the/AT part/NN of/IN many/AP American/JJ linguists/NNS to/TO assume/VB that/CS a/AT phonemic/JJ transcription/NN will/MD automatically/RB be/BE the/AT best/JJT possible/JJ orthography/NN and/CC that/CS the/AT only/AP real/JJ problem/NN will/MD then/RB be/BE the/AT social/JJ one/CD of/IN securing/VBG acceptance/NN ./pct
+This/DT seems/VBZ naive/JJ ./pct
+Most/AP others/NNS have/HV been/BEN content/JJ to/TO give/VB only/RB the/AT most/QL general/JJ attention/NN to/IN the/AT broadest/JJT and/CC most/QL obvious/JJ features/NNS of/IN the/AT phonology/NN when/WRB designing/VBG orthographies/NNS ./pct
+Apparently/RB the/AT feeling/NN is/BEZ that/CS anything/PN more/AP would/MD be/BE involvement/NN in/IN technical/JJ abstrusenesses/NNS of/IN possible/JJ pedantic/JJ interest/NN but/CC of/IN no/AT visible/JJ significance/NN in/IN practical/JJ affairs/NNS ./pct
+The/AT result/NN of/IN this/DT attitude/NN has/HVZ been/BEN the/AT domination/NN of/IN many/AP orthography/NN conferences/NNS by/IN such/JJ considerations/NNS as/CS typographic/JJ '/pct esthetics/NN '/pct ,/pct which/WDT usually/RB turns/VBZ out/RP to/TO be/BE nothing/PN more/AP than/CS certain/AP prejudices/NNS carried/VBN over/RP from/IN European/JJ languages/NNS ./pct
+Many/AP of/IN the/AT suggested/VBN systems/NNS seem/VB to/TO have/HV only/RB the/AT most/QL tenuous/JJ relationship/NN to/IN the/AT language/NN structures/NNS that/WPO they/PPSS purport/VB to/TO represent/VB ./pct
+Linguists/NNS have/HV not/NEG always/RB been/BEN more/QL enlightened/VBN than/CS ``/pct practical/JJ people/NNS ''/pct and/CC sometimes/RB have/HV insisted/VBN on/IN incredibly/QL trivial/JJ points/NNS while/CS neglecting/VBG things/NNS of/IN much/QL greater/JJR significance/NN ./pct
+As/CS a/AT result/NN ,/pct many/AP people/NNS have/HV been/BEN confirmed/VBN in/IN their/PPg conviction/NN that/CS orthography/NN design/NN is/BEZ not/NEG an/AT activity/NN to/IN which/WDT experts/NNS can/MD contribute/VB anything/PN but/IN confusion/NN ./pct
+A./NP E./NP Sharp/NP ,/pct in/IN Vowel-Length/NN And/CC Syllabicity/NN In/IN Kikuyu/NP ,/pct examines/VBZ one/CD set/NN of/IN related/VBN orthographic/JJ questions/NNS and/CC its/PPg phonologic/JJ background/NN in/IN detail/NN ./pct
+His/PPg objective/NN is/BEZ merely/RB to/TO determine/VB ``/pct what/WDT distinctions/NNS of/IN length/NN and/CC syllabicity/NN it/PPS may/MD be/BE desirable/JJ to/TO make/VB explicit/JJ in/IN a/AT Kikuyu/NP orthography/NN ''/pct (/pct 59/CD )/pct ./pct
+To/TO do/DO so/RB ,/pct he/PPS finds/VBZ it/PPO necessary/JJ to/TO examine/VB the/AT relevant/JJ parts/NNS of/IN the/AT phonology/NN thoroughly/RB and/CC in/IN detail/NN ./pct
+In/IN the/AT process/NN ,/pct he/PPS develops/VBZ some/DTI very/QL significant/JJ observations/NNS about/IN problems/NNS of/IN a/AT sort/NN that/WPS are/BER often/RB difficult/JJ ./pct
+A/AT few/AP of/IN his/PPg examples/NNS are/BER of/IN very/QL great/JJ interest/NN ,/pct and/CC the/AT whole/JJ discussion/NN of/IN some/DTI importance/NN for/IN theory/NN ./pct
+His/PPg orthographic/JJ recommendations/NNS are/BER no/AT simplistic/JJ acceptance/NN of/IN phonemics/NN on/IN the/AT one/CD hand/NN or/CC of/IN superficiality/NN on/IN the/AT other/AP ./pct
+Rather/RB he/PPS weighs/VBZ each/DT phonologic/JJ fact/NN in/IN the/AT light/NN of/IN its/PPg orthographic/JJ usefulness/NN ./pct
+He/PPS concludes/VBZ that/CS some/DTI changes/NNS can/MD be/BE made/VBN in/IN the/AT current/JJ orthography/NN which/WDT will/MD appreciably/RB improve/VB its/PPg usefulness/NN ,/pct but/CC hesitates/VBZ to/TO suggest/VB precise/JJ graphic/JJ devices/NNS to/TO effect/VB these/DTS changes/NNS ./pct
+I/PPSS hope/VB his/PPg suggestions/NNS are/BER given/VBN the/AT consideration/NN they/PPSS deserve/VB in/IN Kikuyu/NP circles/NNS ./pct
+This/DT ,/pct however/RB ,/pct will/MD not/NEG exhaust/VB their/PPg practical/JJ usefulness/NN ,/pct as/CS they/PPSS rather/QL clearly/RB indicate/VB what/WDT thorough/JJ phonologic/JJ investigation/NN can/MD contribute/VB to/IN orthography/NN design/NN ./pct
+We/PPSS need/VB many/QL more/AP studies/NNS of/IN this/DT sort/NN if/CS the/AT design/NN of/IN written/VBN languages/NNS is/BEZ to/TO be/BE put/VBN on/IN a/AT sound/JJ basis/NN ./pct
+One/CD other/AP paper/NN deals/VBZ with/IN a/AT phonologic/JJ problem/NN :/pct Vowel/NN Harmony/NN In/IN Igbo/NP ,/pct by/IN J./NP Carnochan/NP ./pct
+This/DT restates/VBZ the/AT already/RB widely/RB known/VBN facts/NNS in/IN terms/NNS of/IN prosodies/NNS ./pct
+As/CS a/AT restatement/NN it/PPS makes/VBZ only/RB a/AT small/JJ contribution/NN to/IN knowledge/NN of/IN Igbo/NP ./pct
+But/CC it/PPS would/MD seem/VB more/QL intended/VBN as/CS a/AT tract/NN advocating/VBG the/AT prosodic/JJ theory/NN than/CS a/AT paper/NN directed/VBN to/IN the/AT specific/JJ problems/NNS of/IN Igbo/NP phonology/NN ./pct
+The/AT paper/NN has/HVZ a/AT certain/AP value/NN as/CS a/AT comparatively/QL easy/JJ introduction/NN to/IN this/DT approach/NN ,/pct particularly/RB since/CS it/PPS treats/VBZ a/AT fairly/QL simple/JJ and/CC straightforward/JJ phenomenon/NN where/WRB it/PPS is/BEZ possible/JJ to/TO compare/VB it/PPO with/IN a/AT more/QL traditional/JJ (/pct though/CS not/NEG structural/JJ )/pct statement/NN ./pct
+It/PPS does/DOZ show/VB one/CD feature/NN of/IN the/AT system/NN that/WPS has/HVZ not/NEG been/BEN previously/RB described/VBN ./pct
+But/CC it/PPS does/DOZ not/NEG ,/pct as/CS it/PPS claims/VBZ ,/pct demonstrate/VB that/CS this/DT could/MD not/NEG be/BE treated/VBN by/IN traditional/JJ methods/NNS ./pct
+It/PPS seems/VBZ to/IN me/PPO that/CS it/PPS rather/QL easily/RB can/MD ./pct
+Five/CD of/IN the/AT papers/NNS deal/VB with/IN grammatical/JJ problems/NNS ./pct
+On/IN the/AT whole/JJ they/PPSS maintain/VB much/RB the/AT same/AP high/JJ standard/NN ,/pct but/CC they/PPSS are/BER much/QL more/QL difficult/JJ to/TO discuss/VB in/IN detail/NN because/RB of/IN their/PPg wider/JJR variety/NN of/IN subject/NN matter/NN ./pct
+My/PPg comments/NNS must/MD be/BE briefer/JJR than/CS the/AT papers/NNS deserve/VB ./pct
+W./NP H./NP Whiteley/NP writes/VBZ on/IN The/AT Verbal/JJ Radical/NN In/IN Iraqw/NP ./pct
+This/DT must/MD be/BE considered/VBN primarily/RB an/AT amendment/NN and/CC supplement/NN to/IN his/PPg early/JJ A/AT Short/JJ Description/NN Of/IN Item-Categories/NNS In/IN Iraqw/NP ./pct
+It/PPS exhibits/VBZ much/RB the/AT same/AP descriptive/JJ technique/NN and/CC is/BEZ open/JJ to/IN much/RB the/AT same/AP criticisms/NNS ./pct
+The/AT treatment/NN seems/VBZ unnecessarily/RB loose-jointed/JJ and/CC complex/JJ ,/pct largely/RB because/CS the/AT method/NN is/BEZ lax/JJ and/CC the/AT analysis/NN seems/VBZ never/RB to/TO be/BE pushed/VBN to/IN a/AT satisfactory/JJ or/CC even/RB a/AT consistent/JJ stopping-point/NN ./pct

@@ -1,0 +1,199 @@
+Note/VB :/pct
+Directions/NNS are/BER written/VBN for/IN those/DTS who/WPS have/HV had/HVN previous/JJ experience/NN in/IN making/VBG pottery/NN ./pct
+Instructions/NNS for/IN preparing/VBG clay/NN ,/pct drying/VBG ,/pct glazing/VBG and/CC firing/VBG are/BER not/NEG given/VBN ./pct
+Equipment/NN :/pct
+Basic/JJ pottery/NN studio/NN equipment/NN ./pct
+Wooden/JJ butter/NN molds/NNS and/CC cookie/NN presses/NNS ./pct
+Materials/NNS :/pct
+Ceramic/JJ modeling/VBG clay/NN :/pct red/JJ ,/pct white/JJ or/CC buff/JJ ./pct
+Stoneware/NN clay/NN for/IN tiles/NNS ./pct
+Glazes/NNS ,/pct one-stroke/NN ceramic/JJ colors/NNS ,/pct stains/NNS ,/pct cones/NNS as/CS indicated/VBN in/IN the/AT individual/JJ instructions/NNS ./pct
+General/JJ directions/NNS :/pct
+Use/VB well-wedged/JJ clay/NN ,/pct free/JJ of/IN air/NN bubbles/NNS and/CC pliable/JJ enough/QLP to/TO bend/VB without/IN cracking/VBG ./pct
+Clean/JJ wooden/JJ molds/NNS and/CC presses/VBZ thoroughly/RB ;/pct ;/pct
+they/PPSS must/MD be/BE free/JJ of/IN oil/NN ,/pct wax/NN and/CC dust/NN ./pct
+Pressing/VBG designs/NNS :/pct
+The/AT size/NN of/IN wooden/JJ mold/NN will/MD determine/VB the/AT amount/NN of/IN clay/NN needed/VBN ./pct
+Roll/VB clay/NN to/IN thickness/NN indicated/VBN in/IN individual/JJ instructions/NNS ./pct
+Whenever/WRB possible/JJ ,/pct use/VB the/AT wooden/JJ mold/NN as/CS a/AT pattern/NN for/IN cutting/VBG clay/NN ./pct
+When/WRB mold/NN has/HVZ more/AP than/IN one/CD design/NN cavity/NN ,/pct make/VB individual/JJ paper/NN patterns/NNS ./pct
+Place/VB mold/NN or/CC paper/NN pattern/NN on/IN rolled/VBN clay/NN and/CC cut/VB clay/NN by/IN holding/VBG knife/NN in/IN vertical/JJ position/NN (/pct cut/VB more/AP pieces/NNS than/CS required/VBN for/IN project/NN to/TO make/VB allowance/NN for/IN defects/NNS ;/pct ;/pct
+experiment/VB with/IN defects/NNS for/IN decoration/NN techniques/NNS of/IN glazes/NNS and/CC colors/NNS )/pct ./pct
+Place/VB the/AT cut/VBN clay/NN piece/NN loosely/RB over/IN the/AT carved/VBN cavity/NN design/NN side/NN of/IN wooden/JJ mold/NN ./pct
+To/TO obtain/VB clear/JJ impression/NN of/IN mold/NN ,/pct press/VB clay/NN gently/RB but/CC firmly/RB into/IN mold/NN cavity/NN ,/pct starting/VBG at/IN center/NN and/CC working/VBG to/IN outer/JJ edges/NNS ./pct
+Trim/VB excess/JJ clay/NN away/RB from/IN outer/JJ edges/NNS ./pct
+Check/VB thickness/NN of/IN clay/NN and/CC build/VB up/RP thin/JJ areas/NNS by/IN moistening/VBG surface/NN with/IN a/AT little/AP water/NN and/CC adding/VBG small/JJ pieces/NNS of/IN clay/NN ./pct
+Be/BE sure/JJ to/TO press/VB the/AT additional/JJ clay/NN firmly/RB into/IN place/NN without/IN locking/VBG in/RP air/NN bubbles/NNS ./pct
+Allow/VB project/NN to/TO stand/VB for/IN about/RB five/CD minutes/NNS (/pct if/CS wooden/JJ press/NN mold/NN is/BEZ a/AT good/JJ antique/NN ,/pct do/DO not/NEG leave/VB clay/NN in/IN too/QL long/RB as/CS the/AT dampness/NN may/MD cause/VB mold/NN to/TO crack/VB )/pct ./pct
+To/TO release/VB clay/NN from/IN mold/NN ,/pct place/VB hands/NNS in/IN a/AT cupped/VBN position/NN around/IN project/NN ;/pct ;/pct
+gently/RB lift/VB the/AT edge/NN on/IN far/JJ side/NN ,/pct then/RB continue/VB to/TO release/VB edge/NN completely/RB around/IN mold/NN ./pct
+Slight/JJ tapping/NN on/IN the/AT underside/NN of/IN mold/NN will/MD help/VB release/VB the/AT clay/NN ,/pct but/CC too/QL much/AP agitation/NN will/MD cause/VB the/AT clay/NN to/TO become/VB soft/JJ and/CC will/MD interfere/VB with/IN removal/NN of/IN clay/NN from/IN mold/NN ./pct
+Place/VB a/AT piece/NN of/IN plaster/NN wall/NN board/NN or/CC plaster/NN bat/NN on/IN clay/NN and/CC reverse/VB bat/NN ,/pct clay/NN and/CC mold/NN in/IN one/CD action/NN ./pct
+This/DT will/MD prevent/VB the/AT clay/NN from/IN twisting/VBG or/CC bending/VBG ,/pct causing/VBG warping/VBG when/WRB fired/VBN ./pct
+Place/VB project/NN on/IN table/NN and/CC carefully/RB lift/VB the/AT mold/NN off/RP ./pct
+Study/VB surface/NN of/IN clay/NN for/IN defects/NNS or/CC desired/VBN corrections/NNS ./pct
+If/CS clay/NN is/BEZ slightly/QL out/IN of/IN shape/NN ,/pct square/VB straight/JJ sides/NNS with/IN guide/NN sticks/NNS or/CC rulers/NNS pressed/VBN against/IN opposite/JJ sides/NNS ,/pct or/CC smooth/VB round/JJ pieces/NNS with/IN damp/JJ fingers/NNS ./pct
+If/CS the/AT background/NN of/IN design/NN is/BEZ too/QL smooth/JJ ,/pct or/CC you/PPSS wish/VB to/TO create/VB a/AT wood-grained/JJ effect/NN ,/pct it/PPS may/MD be/BE added/VBN at/IN this/DT time/NN with/IN a/AT dull/JJ tool/NN such/JJ as/CS the/AT handle/NN of/IN a/AT fine/JJ paintbrush/NN ./pct
+Make/VB slight/JJ ,/pct smooth/JJ grooves/NNS rather/IN than/IN cuts/NNS for/IN the/AT texture/NN (/pct cuts/NNS could/MD cause/VB air/NN pockets/NNS under/IN the/AT glaze/NN creating/VBG pinholes/NNS or/CC craters/NNS in/IN the/AT glaze/NN during/IN firing/VBG )/pct ./pct
+Leave/VB the/AT clay/NN on/IN plaster/NN board/NN to/TO dry/VB slowly/RB ,/pct covered/VBN lightly/RB with/IN a/AT loose/JJ piece/NN of/IN plastic/NN or/CC cloth/NN to/TO prevent/VB warping/VBG ./pct
+Rectangular/JJ tiles/NNS
+(/pct opposite/IN page/NN ,/pct right/JJ top/NN )/pct :/pct Stoneware/NN clay/NN was/BEDZ used/VBN ./pct
+Clay/NN was/BEDZ rolled/VBN to/IN 1/4''/NN ''/pct thickness/NN ./pct
+Back/NN of/IN clay/NN scored/VBN or/CC roughened/VBN for/IN proper/JJ gripping/VBG surface/NN ./pct
+No/AT bisque/NN firing/VBG ./pct
+Glazed/VBN with/IN two/CD coats/NNS of/IN Creek-Turn/NP white/JJ stoneware/NN glaze/NN (/pct no/AT glaze/NN on/IN sides/NNS or/CC bottom/NN )/pct ./pct
+Decorated/VBN on/IN unfired/JJ glaze/NN with/IN one/CD coat/NN of/IN one-stroke/NN ceramic/JJ colors/NNS ;/pct ;/pct
+raised/VBN details/NNS of/IN designs/NNS were/BED colored/VBN in/IN shades/NNS of/IN yellow-green/JJ ,/pct blue-green/JJ ,/pct brown/JJ and/CC pink/JJ ./pct
+Tiles/NNS were/BED fired/VBN once/RB to/IN cone/NN 05/CD ./pct
+Round/JJ plaque/NN
+(/pct opposite/IN page/NN ,/pct bottom/NN )/pct :/pct White/JJ clay/NN was/BEDZ used/VBN ,/pct rolled/VBN to/IN 1/4''/NN ''/pct thickness/NN ./pct
+Bisque/NN fired/VBN to/IN cone/NN 05/CD ./pct
+Stained/VBN with/IN Jacquelyn's/NPg ceramic/JJ unfired/JJ stain/NN ,/pct polished/VBN ,/pct following/VBG manufacturer's/NNg directions/NNS ./pct
+Opaque/JJ cantaloupe/NN and/CC transparent/JJ wood/NN brown/NN were/BED used/VBN ./pct
+No/AT further/AP firing/VBG ./pct
+Paperweight/NN
+(/pct opposite/IN page/NN ,/pct top/NN left/NR )/pct :/pct Red/JJ clay/NN was/BEDZ used/VBN ,/pct rolled/VBN 1/2''/NN ''/pct thick/NN ./pct
+Mold/NN was/BEDZ used/VBN as/CS pattern/NN and/CC clay/NN cut/VBN by/IN holding/VBG knife/NN at/IN about/RB 45-degree/JJ angle/NN ,/pct to/TO form/VB an/AT undercut/NN ,/pct making/VBG base/NN smaller/JJR than/CS the/AT pattern/NN top/NN ./pct
+While/CS clay/NN is/BEZ still/RB pressed/VBN in/IN mold/NN ,/pct press/VB three/CD equally/RB spaced/VBN holes/NNS 1/4''/NN ''/pct deep/JJ ,/pct using/VBG pencil/NN eraser/NN ,/pct in/IN bottom/NN of/IN clay/NN to/TO allow/VB for/IN proper/JJ drying/NN and/CC firing/VBG ./pct
+Paperweight/NN may/MD be/BE personalized/VBN on/IN back/NN while/CS clay/NN is/BEZ leather/NN hard/JJ ./pct
+Bisque/NN fired/VBN to/IN cone/NN 05/CD ./pct
+Unglazed/JJ ./pct
+Jars/NNS with/IN lids/NNS
+(/pct opposite/IN page/NN ,/pct top/NN left/NR )/pct :/pct Remove/VB wooden/JJ design/NN head/NN from/IN bowl/NN of/IN butter/NN mold/NN ./pct
+Fill/VB small/JJ hole/NN in/IN bowl/NN with/IN clay/NN ./pct
+Make/VB paper/NN patterns/NNS for/IN sections/NNS of/IN jar/NN and/CC lid/NN (/pct see/VB Fig./NN 1/CD ,/pct opposite/IN page/NN )/pct ./pct
+Measurements/NNS for/IN rectangular/JJ pattern/NN piece/NN A/NN are/BER obtained/VBN by/IN measuring/VBG inside/JJ circumference/NN and/CC depth/NN of/IN butter/NN mold/NN bowl/NN ./pct
+Pattern/NN for/IN circular/JJ base/NN piece/NN B/NN is/BEZ diameter/NN of/IN Aj/NN ./pct
+Use/VB wooden/JJ design/NN head/NN of/IN mold/NN for/IN pattern/NN C/NN ;/pct ;/pct
+pattern/NN D/NN for/IN lid/NN fits/VBZ over/IN top/NN diameter/NN of/IN Aj/NN ./pct
+Pattern/NN for/IN inner/JJ lid/NN piece/NN E/NN fits/VBZ inside/IN Aj/NN ./pct
+Jars/NNS are/BER assembled/VBN in/IN bowl/NN of/IN butter/NN mold/NN ./pct
+Use/VB white/JJ or/CC buff/JJ clay/NN ,/pct rolled/VBN to/IN 3/16''/NN ''/pct thickness/NN ./pct
+Place/VB patterns/NNS on/IN rolled/VBN clay/NN and/CC cut/VB around/IN them/PPO with/IN knife/NN in/IN vertical/JJ position/NN ./pct
+Place/VB clay/NN pieces/NNS on/IN wall/NN board/NN ./pct
+To/TO assemble/VB jar/NN ,/pct put/VB paper/NN pattern/NN B/NN for/IN base/NN in/IN bottom/NN of/IN mold/NN and/CC clay/NN disk/NN B/NN on/IN top/NN ./pct
+Line/VB sides/NNS of/IN mold/NN with/IN paper/NN pattern/NN Aj/NN ./pct
+Bevel/VB and/CC score/VB ends/NNS of/IN clay/NN piece/NN A/NN so/CS that/CS they/PPSS overlap/VB about/RB 1/2''/NN ''/pct and/CC make/VB even/JJ thickness/NN ./pct
+Place/VB clay/NN piece/NN A/NN inside/RB ;/pct ;/pct
+use/VB slip/NN to/TO join/VB overlapped/VBN ends/NNS together/RB ./pct
+Join/VB B/NN to/IN bottom/NN of/IN A/NN ,/pct scoring/VBG and/CC reinforcing/VBG with/IN clay/NN coil/NN ./pct
+Trim/VB excess/JJ clay/NN from/IN around/IN lip/NN of/IN mold/NN and/CC set/VB aside/RB while/CS assembling/VBG lid/NN ./pct
+To/TO assemble/VB lid/NN ,/pct press/VB clay/NN piece/NN C/NN in/IN cavity/NN of/IN wooden/JJ design/NN head/NN ./pct
+Press/VB clay/NN into/IN mold/NN as/CS instructed/VBN in/IN General/NN Directions/NNS ./pct
+Score/VB plain/JJ side/NN of/IN C/NN and/CC leave/VB in/IN mold/NN ./pct
+Score/VB one/CD side/NN of/IN disk/NN D/NN ,/pct join/VB to/IN C/NN ;/pct ;/pct
+score/VB other/AP side/NN of/IN D/NN and/CC one/CD side/NN of/IN disk/NN E/NN and/CC join/VB as/CS before/RB ./pct
+While/CS assembled/VBN lid/NN is/BEZ still/RB on/IN design/NN head/NN ,/pct gently/RB but/CC firmly/RB press/VB it/PPO on/IN plaster/NN board/NN ./pct
+If/CS design/NN head/NN has/HVZ a/AT deep/JJ cavity/NN ,/pct clay/NN lid/NN will/MD be/BE quite/QL thick/JJ at/IN this/DT point/NN ;/pct ;/pct
+press/VB eraser/NN of/IN pencil/NN gently/RB 1/4''/NN ''/pct deep/JJ into/IN deep/JJ clay/NN to/TO allow/VB vent/NN for/IN proper/JJ drying/NN and/CC firing/VBG ./pct
+Check/VB fit/NN of/IN lid/NN on/IN jar/NN ;/pct ;/pct
+if/CS inner/JJ lid/NN is/BEZ too/QL big/JJ ,/pct trim/VB to/TO fit/VB ,/pct allowing/VBG room/NN for/IN thickness/NN of/IN glaze/NN ./pct
+Remove/VB lid/NN from/IN head/NN of/IN mold/NN ./pct
+Remove/VB jar/NN from/IN mold/NN ./pct
+Place/VB jar/NN on/IN plaster/NN board/NN with/IN lid/NN in/IN place/NN to/TO dry/VB slowly/RB ./pct
+Bisque/NN fire/NN to/IN cone/NN 08/CD with/IN lid/NN on/IN jar/NN ./pct
+For/IN an/AT antique/NN effect/NN on/IN jars/NNS ,/pct brush/VB Creek-Turn/NP brown/JJ toner/NN on/IN bisque/NN ware/NN and/CC sponge/VB it/PPO off/RP ./pct
+Glaze/VB with/IN two/CD coats/NNS of/IN clear/JJ or/CC transparent/JJ matt/NN glaze/NN ./pct
+The/AT large/JJ jar/NN was/BEDZ brushed/VBN with/IN Creek-Turn/NP green/JJ toner/NN and/CC sponged/VBN off/RP ./pct
+Glaze/VB with/IN two/CD coats/NNS of/IN matt/NN glazes/NNS in/IN turquoise/JJ with/IN touches/NNS of/IN blossom/NN pink/JJ on/IN lid/NN ./pct
+When/WRB dry/JJ they/PPSS were/BED fired/VBN to/IN cone/NN 06-05/CD ./pct
+Little/JJ folks/NNS set/NN :/pct
+(/pct Made/VBN from/IN modern/JJ wooden/JJ molds/NNS Af/NN ./pct
+)/pct Roll/VB white/JJ clay/NN to/IN 3/16''/NN ''/pct thickness/NN ./pct
+Salt/NN and/CC pepper/NN :/pct
+Use/VB mold/NN to/TO cut/VB four/CD side/NN pieces/NNS ./pct
+For/IN top/NN and/CC bottom/NN pieces/NNS ,/pct use/VB short/JJ end/NN of/IN mold/NN as/CS measurement/NN guide/NN ./pct
+Press/VB the/AT side/NN pieces/NNS of/IN clay/NN into/IN cavity/NN of/IN mold/NN ./pct
+Trim/VB excess/JJ clay/NN from/IN rim/NN of/IN mold/NN ./pct
+Cut/VB beveled/VBN edge/NN on/IN the/AT long/JJ sides/NNS of/IN clay/NN at/IN a/AT 45-degree/JJ angle/NN to/TO miter/VB corners/NNS ./pct
+Score/VB beveled/VBN edges/NNS and/CC remove/VB pieces/NNS from/IN mold/NN ;/pct ;/pct
+place/VB design-side/NN up/RP on/IN plaster/NN board/NN ./pct
+Make/VB all/ABN four/CD sides/NNS ./pct
+Cut/VB clay/NN top/NN and/CC base/NN pieces/NNS ;/pct ;/pct
+place/VB on/IN plaster/NN board/NN ./pct
+Allow/VB all/ABN pieces/NNS to/TO become/VB leather/NN hard/JJ before/CS constructing/VBG shaker/NN ./pct
+To/TO assemble/VB :/pct
+Construct/VB sides/NNS ,/pct bottom/NN and/CC top/NN as/CS for/IN box/NN ,/pct using/VBG slip/NN on/IN scored/VBN edges/NNS and/CC coils/NNS of/IN clay/NN to/TO reinforce/VB seams/NNS ./pct
+Join/VB the/AT four/CD sides/NNS together/RB first/RB ,/pct then/RB add/VB the/AT base/NN ;/pct ;/pct
+add/VB top/NN last/RB ./pct
+Use/VB water/NN on/IN finger/NN to/TO smooth/VB seams/NNS and/CC edges/NNS ./pct
+Turn/VB shaker/NN upside/RB down/RP ./pct
+Recess/VB base/NN slightly/RB to/TO allow/VB room/NN for/IN stopper/NN ./pct
+Cut/VB hole/NN in/IN base/NN for/IN cork/NN stopper/NN ./pct
+Add/VB holes/NNS in/IN top/NN ,/pct forming/VBG ``/pct S/NN ''/pct for/IN salt/NN and/CC ``/pct P/NN ''/pct for/IN pepper/NN ./pct
+Set/VB aside/RB to/TO dry/VB thoroughly/RB ./pct
+Sugar/NN and/CC creamer/NN :/pct
+Cut/VB a/AT strip/NN of/IN clay/NN for/IN sides/NNS long/JJ enough/QLP and/CC wide/JJ enough/QLP for/IN three/CD impressions/NNS of/IN mold/NN design/NN ./pct
+Press/VB clay/NN into/IN cavity/NN of/IN one/CD mold/NN three/CD times/NNS ;/pct ;/pct
+bevel/VB overlapping/VBG ends/NNS for/IN splice/NN joint/NN ,/pct score/VB beveled/VBN edges/NNS ./pct
+Form/VB clay/NN strip/NN into/IN a/AT cylinder/NN ;/pct ;/pct
+use/VB slip/NN to/TO join/VB scored/VBN ends/NNS ./pct
+Place/VB cylinder/NN on/IN a/AT disk/NN of/IN clay/NN slightly/QL larger/JJR than/CS cylinder/NN ./pct
+Score/VB bottom/NN edge/NN of/IN cylinder/NN and/CC join/VB to/IN disk/NN with/IN slip/NN ./pct
+Trim/VB away/RB excess/JJ clay/NN ;/pct ;/pct
+reinforce/VB seam/NN with/IN a/AT coil/NN of/IN clay/NN ./pct
+This/DT will/MD form/VB the/AT sugar/NN bowl/NN ./pct
+Make/VB creamer/NN the/AT same/AP ./pct
+Handle/NN for/IN creamer/NN is/BEZ a/AT strip/NN of/IN clay/NN 1/2''/NN ''/pct wide/JJ and/CC 3-1/2''/NNS ''/pct long/JJ ./pct
+To/TO add/VB handle/NN ,/pct place/VB a/AT wooden/JJ dowel/NN against/IN the/AT inside/JJ wall/NN of/IN creamer/NN ./pct
+Score/VB outside/NN of/IN container/NN where/WRB handle/NN ends/NNS will/MD be/BE joined/VBN ./pct
+Bend/VB handle/NN ;/pct ;/pct
+press/VB scored/VBN handle/NN ends/NNS firmly/RB in/IN place/NN using/VBG dowel/NN to/TO reinforce/VB container/NN while/CS pressing/VBG ;/pct ;/pct
+use/VB slip/NN to/TO join/VB ./pct
+To/TO form/VB spout/NN ,/pct between/IN two/CD designs/NNS ,/pct dampen/VB area/NN slightly/RB and/CC gently/RB push/VB clay/NN outward/RB ./pct
+Make/VB lid/NN for/IN sugar/NN bowl/NN the/AT same/AP as/CS jar/NN lids/NNS ,/pct omitting/VBG design/NN disk/NN ./pct
+Cut/VB a/AT notch/NN in/IN lid/NN for/IN spoon/NN handle/NN if/CS desired/VBN ./pct
+Set/VB aside/RB to/TO dry/VB with/IN lid/NN on/IN sugar/NN bowl/NN ./pct
+Vases/NNS :/pct
+Make/VB same/AP as/CS salt/NN and/CC pepper/NN shakers/NNS ,/pct leaving/VBG off/RP top/NN pieces/NNS ./pct
+Vases/NNS may/MD be/BE made/VBN into/IN candles/NNS by/IN filling/VBG with/IN melted/VBN wax/NN and/CC a/AT wick/NN ./pct
+Napkin/NN holder/NN :/pct
+Cut/VB a/AT piece/NN of/IN clay/NN for/IN base/NN and/CC two/CD for/IN sides/NNS each/DT about/RB Af/NN (/pct long/JJ enough/QLP for/IN three/CD impressions/NNS of/IN mold/NN )/pct ./pct
+Press/VB the/AT two/CD sides/NNS into/IN cavity/NN of/IN one/CD mold/NN three/CD times/NNS ./pct
+Put/VB cut/VBN pieces/NNS on/IN plaster/NN board/NN to/TO dry/VB to/IN firm/JJ leather-hard/JJ state/NN ./pct
+Score/VB side/NN edges/NNS of/IN base/NN ;/pct ;/pct
+join/VB sides/NNS and/CC base/NN with/IN slip/NN and/CC reinforce/VB with/IN coil/NN ./pct
+A/AT cardboard/NN pattern/NN cut/VBN to/TO fit/VB inside/IN holder/NN will/MD help/VB to/TO prevent/VB warping/VBG ./pct
+Place/VB pattern/NN inside/IN holder/NN ;/pct ;/pct
+use/VB three/CD strips/NNS of/IN clay/NN to/TO hold/VB in/IN place/NN (/pct see/VB Fig./NN 2/CD ,/pct page/NN 71/CD )/pct ./pct
+Do/DO not/NEG use/VB wood/NN as/CS it/PPS will/MD not/NEG shrink/VB with/IN the/AT clay/NN and/CC would/MD cause/VB breakage/NN ./pct
+Let/VB all/ABN projects/NNS dry/VB slowly/RB for/IN several/AP days/NNS ./pct
+Clean/VB greenware/NN ./pct
+Bisque/NN fire/NN to/IN cone/NN 08/CD ./pct
+Inside/NN of/IN pieces/NNS was/BEDZ glazed/VBN with/IN three/CD coats/NNS of/IN Creek-Turn/NP bottle/NN green/JJ antique/NN glaze/NN ./pct
+Outside/NN was/BEDZ finished/VBN with/IN Creek-Turn/NP brown/JJ toner/NN brushed/VBN on/RP and/CC sponged/VBN off/RP to/TO give/VB antique/NN finish/NN ./pct
+Fired/VBN to/IN cone/NN 06-05/CD ./pct
+Changing/VBG colors/NNS
+to/TO change/VB from/IN one/CD color/NN yarn/NN to/IN another/DT :/pct
+When/WRB changing/VBG from/IN one/CD color/NN to/IN another/DT ,/pct whether/CS working/VBG on/IN right/JJ or/CC wrong/JJ side/NN ,/pct pick/VB up/RP the/AT new/JJ strand/NN from/IN underneath/IN dropped/VBN strand/NN ./pct
+Photograph/NN shows/VBZ the/AT wrong/JJ side/NN of/IN work/NN with/IN light/JJ strand/NN being/BEG picked/VBN up/RP under/IN dark/JJ strand/NN in/IN position/NN to/TO be/BE purled/VBN ./pct
+To/TO measure/VB work/NN :/pct
+Spread/VB article/NN on/IN flat/JJ surface/NN to/IN required/VBN width/NN before/CS measuring/VBG length/NN at/IN center/NN ./pct
+Measuring/VBG armhole/NN
+to/TO measure/VB armhole/NN :/pct
+Mark/VB row/NN on/IN which/WDT first/OD stitches/NNS have/HV been/BEN bound/VBN off/RP for/IN armhole/NN by/IN drawing/VBG a/AT contrasting/VBG colored/VBN thread/NN through/IN it/PPO ./pct
+Place/VB work/NN on/IN a/AT flat/JJ surface/NN and/CC smooth/VB out/RP ./pct
+Measure/VB straight/RB up/RP from/IN marked/VBN row/NN ./pct
+See/VB illustration/NN ./pct
+To/TO insert/VB markers/NNS :/pct
+When/WRB directions/NNS read/VB ``/pct sl/NN a/AT marker/NN on/IN needle/NN ''/pct ,/pct put/VB a/AT small/JJ safety/NN pin/NN ,/pct paper/NN clip/NN ,/pct or/CC commercial/JJ ring/NN marker/NN on/IN needle/NN ./pct
+In/IN working/VBG ,/pct always/RB slip/VB marker/NN from/IN one/CD needle/NN to/IN another/DT ./pct
+To/TO mark/VB a/AT row/NN or/CC stitch/NN ,/pct tie/VB contrasting/VBG thread/NN around/IN end/NN of/IN row/NN or/CC stitch/NN to/TO be/BE marked/VBN ./pct
+Backstitching/VBG seam/NN
+to/TO sew/VB seams/NNS with/IN backstitch/NN :/pct
+Most/AP seams/NNS are/BER sewn/VBN with/IN backstitch/NN ,/pct especially/RB on/IN curved/VBN ,/pct slanted/VBN or/CC loose/JJ edges/NNS ./pct
+Pin/VB right/JJ sides/NNS of/IN pieces/NNS together/RB ,/pct keeping/VBG edges/NNS even/JJ and/CC matching/VBG rows/NNS or/CC patterns/NNS ./pct
+Thread/VB matching/VBG yarn/NN in/IN tapestry/NN needle/NN ./pct
+Run/VB end/NN of/IN yarn/NN through/IN several/AP stitches/NNS along/IN edge/NN to/TO secure/VB ;/pct ;/pct
+backstitch/VB pieces/NNS together/RB close/RB to/IN edge/NN ./pct
+Do/DO not/NEG draw/VB yarn/NN too/QL tight/JJ ./pct
+See/VB illustration/NN ./pct
+To/TO sew/VB in/RP sleeves/NNS :/pct
+Place/VB sleeve/NN seam/NN at/IN center/NN underarm/NN and/CC center/NN of/IN sleeve/NN cap/NN at/IN shoulder/NN seam/NN ./pct
+Ease/VB in/RP any/DTI extra/JJ fullness/NN evenly/RB around/RB ./pct
+Backstitch/VB seam/NN ./pct
+Weaving/VBG seam/NN
+to/TO weave/VB seams/NNS together/RB :/pct
+Straight/JJ vertical/JJ edges/NNS ,/pct such/JJ as/CS those/DTS at/IN the/AT back/NN seam/NN of/IN a/AT sock/NN ,/pct can/MD be/BE woven/VBN together/RB invisibly/RB ./pct
+Thread/VB matching/VBG yarn/NN in/IN tapestry/NN needle/NN ./pct
+Hold/VB edges/NNS together/RB ,/pct right/JJ side/NN up/RP ./pct

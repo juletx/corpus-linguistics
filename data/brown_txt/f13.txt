@@ -1,0 +1,138 @@
+Farming/VBG is/BEZ confining/VBG ./pct
+The/AT farmer's/NNg life/NN must/MD be/BE arranged/VBN to/TO meet/VB the/AT demands/NNS of/IN crops/NNS and/CC livestock/NN ./pct
+Livestock/NN must/MD be/BE tended/VBN every/AT day/NN ,/pct routinely/RB ./pct
+A/AT slight/JJ change/NN in/IN the/AT work/NN schedule/NN may/MD cut/VB the/AT production/NN of/IN cows/NNS or/CC chickens/NNS ./pct
+Even/RB if/CS there/EX are/BER no/AT livestock/NN ,/pct the/AT farmer/NN cannot /None leave/VB the/AT farm/NN for/IN long/JJ periods/NNS ,/pct particularly/RB during/IN the/AT growing/VBG season/NN ./pct
+The/AT worker/NN who/WPS lives/VBZ on/IN a/AT farm/NN cannot /None change/VB jobs/NNS readily/RB ./pct
+He/PPS cannot /None leave/VB the/AT farm/NN to/TO take/VB work/NN in/IN another/DT locality/NN on/IN short/JJ notice/NN ;/pct ;/pct
+such/ABL a/AT move/NN may/MD mean/VB a/AT loss/NN of/IN capital/NN ./pct
+Hard/JJ physical/JJ labor/NN and/CC undesirable/JJ hours/NNS are/BER a/AT part/NN of/IN life/NN ./pct
+The/AT farmer/NN must/MD get/VB up/RP early/RB ,/pct and/CC ,/pct at/IN times/NNS ,/pct work/VB late/RB at/IN night/NN ./pct
+Frequently/RB he/PPS must/MD work/VB long/JJ hours/NNS in/IN the/AT hot/JJ sun/NN or/CC cold/JJ rain/NN ./pct
+No/AT matter/NN how/WQL well/RB work/NN is/BEZ planned/VBN ,/pct bad/JJ weather/NN or/CC unexpected/JJ setbacks/NNS can/MD cause/VB extra/JJ work/NN that/WPS must/MD be/BE caught/VBN up/RP ./pct
+It/PPS may/MD not/NEG be/BE profitable/JJ for/IN a/AT part-time/JJ farmer/NN to/TO own/VB the/AT labor-saving/JJ machinery/NN that/CS a/AT full-time/JJ farmer/NN can/MD invest/VB in/IN profitably/RB ./pct
+Production/NN may/MD fall/VB far/QL below/IN expectations/NNS ./pct
+Drought/NN ,/pct hail/NN ,/pct disease/NN ,/pct and/CC insects/NNS take/VB their/PPg toll/NN of/IN crops/NNS ./pct
+Sickness/NN or/CC loss/NN of/IN some/DTI of/IN the/AT livestock/NN may/MD cut/VB into/IN the/AT owner's/NNg earnings/NNS ,/pct even/RB into/IN his/PPg capital/NN ./pct
+Returns/NNS for/IN money/NN and/CC labor/NN invested/VBN may/MD be/BE small/JJ even/RB in/IN a/AT good/JJ year/NN ./pct
+The/AT high/JJ cost/NN of/IN land/NN ,/pct supplies/NNS ,/pct and/CC labor/NN make/VB it/PPO difficult/JJ to/TO farm/VB profitably/RB on/IN a/AT part-time/JJ basis/NN ./pct
+Land/NN within/IN commuting/VBG distance/NN of/IN a/AT growing/VBG city/NN is/BEZ usually/RB high/JJ in/IN price/NN ,/pct higher/JJR if/CS it/PPS has/HVZ subdivision/NN possibilities/NNS ./pct
+Part-time/JJ farmers/NNS generally/RB must/MD pay/VB higher/JJR prices/NNS for/IN supplies/NNS than/CS full-time/JJ farmers/NNS because/CS they/PPSS buy/VB in/IN smaller/JJR quantities/NNS ./pct
+If/CS the/AT farm/NN is/BEZ in/IN an/AT industrial/JJ area/NN where/WRB wages/NNS are/BER high/JJ ,/pct farm/NN labor/NN costs/NNS will/MD also/RB be/BE high/JJ ./pct
+A/AT part-time/JJ farmer/NN needs/VBZ unusual/JJ skill/NN to/TO get/VB as/QL high/JJ production/NN per/IN hen/NN ,/pct per/IN cow/NN ,/pct or/CC per/IN acre/NN as/CS can/MD be/BE obtained/VBN by/IN a/AT competent/JJ full-time/JJ farmer/NN ./pct
+It/PPS will/MD frequently/RB be/BE uneconomical/JJ for/IN him/PPO to/TO own/VB the/AT most/QL up-to-date/JJ equipment/NN ./pct
+He/PPS may/MD have/HV to/TO depend/VB upon/IN custom/NN service/NN for/IN specialized/VBN operations/NNS ,/pct such/JJ as/CS spraying/VBG or/CC threshing/VBG ,/pct and/CC for/IN these/DTS ,/pct he/PPS may/MD have/HV to/TO wait/VB his/PPg turn/NN ./pct
+There/EX will/MD be/BE losses/NNS caused/VBN by/IN emergencies/NNS that/WPS arise/VB while/CS he/PPS is/BEZ away/RB at/IN his/PPg off-farm/JJ job/NN ./pct
+The/AT farm/NN may/MD be/BE an/AT additional/JJ burden/NN if/CS the/AT main/JJS job/NN is/BEZ lost/VBN ./pct
+This/DT may/MD be/BE true/JJ whether/CS the/AT farm/NN is/BEZ owned/VBN or/CC rented/VBN ./pct
+If/CS the/AT farm/NN is/BEZ rented/VBN ,/pct the/AT rent/NN must/MD be/BE paid/VBN ./pct
+If/CS it/PPS is/BEZ owned/VBN ,/pct taxes/NNS must/MD be/BE paid/VBN ,/pct and/CC if/CS the/AT place/NN is/BEZ not/NEG free/JJ of/IN mortgage/NN ,/pct there/EX will/MD be/BE interest/NN and/CC payments/NNS on/IN the/AT principal/JJS to/TO take/VB care/NN of/IN ./pct
+Advantages/NNS
+A/AT farm/NN provides/VBZ a/AT wholesome/JJ and/CC healthful/JJ environment/NN for/IN children/NNS ./pct
+It/PPS gives/VBZ them/PPO room/NN to/TO play/VB and/CC plenty/NN of/IN fresh/JJ air/NN ./pct
+The/AT children/NNS can/MD do/DO chores/NNS adapted/VBN to/IN their/PPg age/NN and/CC ability/NN ./pct
+Caring/VBG for/IN a/AT calf/NN ,/pct a/AT pig/NN ,/pct or/CC some/DTI chickens/NNS develops/VBZ in/IN children/NNS a/AT sense/NN of/IN responsibility/NN for/IN work/NN ./pct
+Part-time/JJ farming/NN gives/VBZ a/AT measure/NN of/IN security/NN if/CS the/AT regular/JJ job/NN is/BEZ lost/VBN ,/pct provided/VBN the/AT farm/NN is/BEZ owned/VBN free/JJ of/IN debt/NN and/CC furnishes/VBZ enough/AP income/NN to/TO meet/VB fixed/VBN expenses/NNS and/CC minimum/JJ living/VBG costs/NNS ./pct
+For/IN some/DTI retired/VBN persons/NNS ,/pct part-time/JJ farming/NN is/BEZ a/AT good/JJ way/NN to/TO supplement/VB retirement/NN income/NN ./pct
+It/PPS is/BEZ particularly/QL suitable/JJ for/IN those/DTS who/WPS need/VB to/TO work/VB or/CC exercise/VB out/IN of/IN doors/NNS for/IN their/PPg health/NN ./pct
+Generally/RB ,/pct the/AT same/AP level/NN of/IN living/VBG costs/VBZ less/AP in/IN the/AT country/NN than/CS in/IN the/AT city/NN ./pct
+The/AT savings/NNS are/BER not/NEG as/QL great/JJ ,/pct however/RB ,/pct as/CS is/BEZ sometime/RB supposed/VBN ./pct
+Usually/RB ,/pct the/AT cost/NN of/IN food/NN and/CC shelter/NN will/MD be/BE somewhat/QL less/AP on/IN the/AT farm/NN and/CC the/AT cost/NN of/IN transportation/NN and/CC utilities/NNS somewhat/QL more/AP ./pct
+Where/WRB schools/NNS ,/pct fire/NN and/CC police/NN protection/NN ,/pct and/CC similar/JJ municipal/JJ services/NNS are/BER of/IN equal/JJ quality/NN in/IN city/NN and/CC country/NN ,/pct real/JJ estate/NN taxes/NNS are/BER usually/RB about/RB the/AT same/AP ./pct
+A/AT part-time/JJ farmer/NN and/CC his/PPg family/NN can/MD use/VB their/PPg spare/JJ time/NN profitably/RB ./pct
+Some/DTI persons/NNS consider/VB the/AT work/NN on/IN a/AT farm/NN recreational/JJ ./pct
+For/IN some/DTI white-collar/NN workers/NNS it/PPS is/BEZ a/AT welcome/JJ change/NN from/IN the/AT regular/JJ job/NN ,/pct and/CC a/AT physical/JJ conditioner/NN ./pct
+Land/NN ,/pct labor/NN ,/pct and/CC equipment/NN needed/VBN
+Part-time/JJ farming/NN can/MD take/VB comparatively/QL little/AP land/NN ,/pct labor/NN ,/pct and/CC equipment/NN --/pct or/CC a/AT great/JJ deal/NN ./pct
+It/PPS depends/VBZ on/IN the/AT kind/NN and/CC the/AT scale/NN of/IN the/AT farming/VBG operation/NN ./pct
+General/JJ requirements/NNS for/IN land/NN ,/pct labor/NN ,/pct and/CC equipment/NN are/BER discussed/VBN below/RB ./pct
+Specific/JJ requirements/NNS for/IN each/DT of/IN various/JJ types/NNS of/IN enterprises/NNS are/BER discussed/VBN on/IN pages/NNS 8/CD to/IN 14/CD ./pct
+Land/NN
+Three/CD quarters/NNS to/IN 1/CD acre/NN of/IN good/JJ land/NN is/BEZ enough/AP for/IN raising/VBG fruits/NNS and/CC vegetables/NNS for/IN home/NN use/NN ,/pct and/CC for/IN a/AT small/JJ flock/NN of/IN chickens/NNS ,/pct a/AT cow/NN ,/pct and/CC two/CD pigs/NNS ./pct
+You/PPSS could/MD not/NEG ,/pct of/IN course/NN ,/pct raise/VB feed/NN for/IN the/AT livestock/NN on/IN a/AT plot/NN this/DT small/JJ ./pct
+If/CS you/PPSS want/VB to/TO raise/VB feed/NN or/CC carry/VB out/RP some/DTI enterprise/NN on/IN a/AT larger/JJR scale/NN ,/pct you'll /None need/VB more/AP land/NN ./pct
+In/IN deciding/VBG how/WQL much/AP land/NN you/PPSS want/VB ,/pct take/VB into/IN account/NN the/AT amount/NN you'll /None need/VB to/TO bring/VB in/IN the/AT income/NN you/PPSS expect/VB ./pct
+But/CC consider/VB also/RB how/WQL much/AP you/PPSS and/CC your/PPg family/NN can/MD keep/VB up/RP along/RB with/IN your/PPg other/AP work/NN ./pct
+The/AT cost/NN of/IN land/NN and/CC the/AT prospects/NNS for/IN appreciation/NN in/IN value/NN may/MD influence/VB your/PPg decision/NN ./pct
+Some/DTI part-time/JJ farmers/NNS buy/VB more/AP land/NN than/CS they/PPSS need/VB in/IN anticipation/NN of/IN suburban/JJ development/NN ./pct
+This/DT is/BEZ a/AT highly/QL speculative/JJ venture/NN ./pct
+Sometimes/RB a/AT desired/VBN acreage/NN is/BEZ offered/VBN only/RB as/CS part/NN of/IN a/AT larger/JJR tract/NN ./pct
+When/WRB surplus/NN land/NN is/BEZ not/NEG expensive/JJ to/TO buy/VB or/CC to/TO keep/VB up/RP ,/pct it/PPS is/BEZ usually/RB better/JJR to/TO buy/VB it/PPO than/CS to/TO buy/VB so/QL small/JJ an/AT acreage/NN that/CS the/AT development/NN of/IN adjoining/VBG properties/NNS might/MD impair/VB the/AT residential/JJ value/NN of/IN the/AT farm/NN ./pct
+Labor/NN
+If/CS you/PPSS have/HV a/AT year-round/JJ ,/pct full-time/JJ job/NN you/PPSS can't /None expect/VB to/TO grow/VB much/QL more/AP than/CS your/PPg family/NN uses/VBZ --/pct unless/CS other/AP members/NNS of/IN the/AT family/NN do/DO a/AT good/JJ deal/NN of/IN the/AT work/NN or/CC you/PPSS hire/VB help/NN ./pct
+As/CS a/AT rule/NN ,/pct part-time/JJ farmers/NNS hire/VB little/AP help/NN ./pct
+In/IN deciding/VBG on/IN the/AT enterprises/NNS to/TO be/BE managed/VBN by/IN family/NN labor/NN ,/pct compare/VB the/AT amount/NN of/IN labor/NN that/WPS can/MD be/BE supplied/VBN by/IN the/AT family/NN with/IN the/AT labor/NN needs/NNS of/IN various/JJ enterprises/NNS listed/VBN in/IN table/NN 1/CD ./pct
+List/VB the/AT number/NN of/IN hours/NNS the/AT family/NN can/MD be/BE expected/VBN to/TO work/VB each/DT month/NN ./pct
+You/PPSS may/MD want/VB to/TO include/VB your/PPg own/JJ regular/JJ vacation/NN period/NN if/CS you/PPSS have/HV one/CD ./pct
+Do/DO not/NEG include/VB all/ABN your/PPg spare/JJ time/NN or/CC all/ABN your/PPg family's/NNg spare/JJ time/NN --/pct only/RB what/WDT you/PPSS are/BER willing/JJ to/TO use/VB for/IN farm/NN work/NN ./pct
+Equipment/NN
+If/CS you/PPSS are/BER going/VBG to/TO produce/VB for/IN home/NN use/NN only/RB ,/pct you/PPSS will/MD need/VB only/RB hand/NN tools/NNS ./pct
+You/PPSS will/MD probably/RB want/VB to/TO hire/VB someone/PN to/TO do/DO the/AT plowing/NN ,/pct however/RB ./pct
+For/IN larger/JJR plantings/NNS ,/pct you'll /None need/VB some/DTI kind/NN of/IN power/NN for/IN plowing/VBG ,/pct harrowing/VBG ,/pct disking/VBG ,/pct and/CC cultivating/VBG ./pct
+If/CS you/PPSS have/HV a/AT planting/NN of/IN half/ABN an/AT acre/NN or/CC more/AP you/PPSS may/MD want/VB to/TO buy/VB a/AT small/JJ garden/NN tractor/NN (/pct available/JJ for/IN $300/NNS to/IN $500/NNS with/IN attachments/NNS ,/pct 1960/CD prices/NNS )/pct ./pct
+These/DTS tractors/NNS are/BER not/NEG entirely/QL satisfactory/JJ for/IN plowing/VBG ,/pct particularly/RB on/IN heavier/JJR soils/NNS ,/pct so/RB you/PPSS may/MD still/RB want/VB to/TO hire/VB someone/PN to/TO do/DO the/AT plowing/NN ./pct
+Cost/NN of/IN power/NN and/CC machinery/NN is/BEZ often/RB a/AT serious/JJ problem/NN to/IN the/AT small-scale/NN farmer/NN ./pct
+If/CS you/PPSS are/BER going/VBG to/TO farm/VB for/IN extra/JJ cash/NN income/NN on/IN a/AT part-time/JJ basis/NN you/PPSS must/MD keep/VB in/IN mind/NN the/AT needed/VBN machinery/NN investments/NNS when/WRB you/PPSS choose/VB among/IN farm/NN enterprises/NNS ./pct
+You/PPSS can/MD keep/VB your/PPg machinery/NN investment/NN down/RP by/IN buying/VBG good/JJ secondhand/NN machinery/NN ,/pct by/IN sharing/VBG the/AT cost/NN and/CC upkeep/NN of/IN machinery/NN with/IN a/AT neighbor/NN ,/pct and/CC by/IN hiring/VBG someone/PN with/IN machinery/NN to/TO do/DO certain/JJ jobs/NNS ./pct
+If/CS an/AT expensive/JJ and/CC specialized/VBN piece/NN of/IN machinery/NN is/BEZ needed/VBN --/pct such/JJ as/CS a/AT spray/NN rig/NN ,/pct a/AT combine/NN ,/pct or/CC a/AT binder/NN --/pct it/PPS is/BEZ better/JJR to/TO pay/VB someone/PN with/IN a/AT machine/NN to/TO do/DO the/AT work/NN ./pct
+Selecting/VBG a/AT farm/NN
+Before/CS you/PPSS look/VB for/IN a/AT farm/NN you'll /None need/VB to/TO know/VB (/pct 1/CD )/pct the/AT kind/NN and/CC scale/NN of/IN farming/VBG you/PPSS want/VB to/TO undertake/VB ;/pct ;/pct
+and/CC (/pct 2/CD )/pct whether/CS you/PPSS want/VB to/TO buy/VB or/CC rent/VB ./pct
+Information/NN on/IN pages/NNS 8/CD to/IN 14/CD may/MD help/VB you/PPO in/IN deciding/VBG on/IN the/AT kind/NN and/CC scale/NN of/IN your/PPg farming/VBG venture/NN ./pct
+If/CS you/PPSS are/BER not/NEG well/QL acquainted/VBN with/IN the/AT area/NN in/IN which/WDT you/PPSS wish/VB to/TO locate/VB ,/pct or/CC if/CS you/PPSS are/BER not/NEG sure/JJ that/CS you/PPSS and/CC your/PPg family/NN will/MD like/VB and/CC make/VB a/AT success/NN of/IN farming/VBG ,/pct usually/RB you/PPSS would/MD do/DO better/JJR to/TO rent/VB a/AT place/NN for/IN a/AT year/NN or/CC two/CD before/CS you/PPSS buy/VB ./pct
+Discussed/VBN below/RB are/BER some/DTI of/IN the/AT main/JJS things/NNS to/TO look/VB for/IN when/WRB you/PPSS select/VB a/AT part-time/JJ farm/NN ./pct
+Location/NN
+nearness/NN to/IN work/NN ./pct
+--/pct
+Choose/VB a/AT location/NN within/IN easy/JJ commuting/VBG distance/NN of/IN both/ABX the/AT regular/JJ job/NN and/CC other/AP employment/NN opportunities/NNS ./pct
+Then/RB if/CS you/PPSS change/VB jobs/NNS you/PPSS won't /None necessarily/RB have/HV to/TO sell/VB the/AT farm/NN ./pct
+The/AT presence/NN of/IN alternative/JJ job/NN opportunities/NNS also/RB will/MD make/VB the/AT place/NN easier/RBR to/TO sell/VB if/CS that/DT should/MD become/VB desirable/JJ ./pct
+Obviously/RB the/AT farm/NN should/MD be/BE on/IN an/AT all-weather/JJ road/NN ./pct
+Nearness/NN to/IN markets/NNS ./pct
+--/pct
+If/CS you/PPSS grow/VB anything/PN to/TO sell/VB you/PPSS will/MD need/VB markets/NNS nearby/RB ./pct
+If/CS you/PPSS plan/VB to/TO sell/VB fresh/JJ vegetables/NNS or/CC whole/JJ milk/NN ,/pct for/IN example/NN ,/pct you/PPSS should/MD be/BE close/JJ to/IN a/AT town/NN or/CC city/NN ./pct
+Kind/NN of/IN neighborhood/NN ./pct
+--/pct
+Look/VB for/IN a/AT farm/NN in/IN a/AT neighborhood/NN of/IN well-kept/JJ homes/NNS ./pct
+There/EX are/BER slums/NNS in/IN the/AT country/NN as/QL well/RB as/CS in/IN the/AT city/NN ./pct
+Few/AP rural/JJ areas/NNS are/BER protected/VBN by/IN zoning/VBG ./pct
+A/AT tavern/NN ,/pct filling/VBG station/NN ,/pct junk/NN yard/NN ,/pct rendering/VBG plant/NN ,/pct or/CC some/DTI other/AP business/NN may/MD go/VB up/RP near/IN enough/QLP to/TO hurt/VB your/PPg home/NN or/CC to/TO hurt/VB its/PPg value/NN ./pct
+Facilities/NNS in/IN the/AT area/NN ./pct
+--/pct
+Check/VB on/IN the/AT schools/NNS in/IN the/AT area/NN ,/pct the/AT quality/NN of/IN teaching/VBG ,/pct and/CC the/AT provision/NN for/IN transportation/NN to/IN and/CC from/IN them/PPO ./pct
+Find/VB out/RP whether/CS fire/NN protection/NN ,/pct sewage/NN system/NN ,/pct gas/NN ,/pct water/NN mains/NNS ,/pct and/CC electrical/JJ lines/NNS are/BER available/JJ in/IN the/AT locality/NN ./pct
+If/CS these/DTS facilities/NNS are/BER not/NEG at/IN the/AT door/NN ,/pct getting/VBG them/PPO may/MD cost/VB more/AP than/CS you/PPSS expect/VB ./pct
+You/PPSS may/MD have/HV to/TO provide/VB them/PPO yourself/PPL or/CC get/VB along/RB without/IN them/PPO ./pct
+You/PPSS cannot /None get/VB along/RB without/IN an/AT adequate/JJ supply/NN of/IN pure/JJ water/NN ./pct
+If/CS you/PPSS are/BER considering/VBG a/AT part-time/JJ farm/NN where/WRB the/AT water/NN must/MD be/BE provided/VBN by/IN a/AT well/NN ,/pct find/VB out/RP if/CS there/EX is/BEZ a/AT good/JJ well/NN on/IN the/AT farm/NN or/CC the/AT probable/JJ cost/NN of/IN having/HVG one/CD drilled/VBN ./pct
+A/AT pond/NN may/MD provide/VB adequate/JJ water/NN for/IN livestock/NN and/CC garden/NN ./pct
+Pond/NN water/NN can/MD be/BE filtered/VBN for/IN human/JJ use/NN ,/pct but/CC most/AP part-time/JJ farmers/NNS would/MD not/NEG want/VB to/TO go/VB to/IN so/QL much/AP trouble/NN ./pct
+The/AT following/VBG amounts/NNS of/IN water/NN are/BER needed/VBN per/IN day/NN for/IN livestock/NN and/CC domestic/JJ uses/NNS ./pct
+Topography/NN and/CC soil/NN
+Is/BEZ the/AT land/NN suited/VBN to/IN the/AT crops/NNS you/PPSS intend/VB to/TO raise/VB ?/pct ?/pct
+If/CS you/PPSS can't /None tell/VB ,/pct get/VB help/NN from/IN your/PPg county/NN agricultural/JJ agent/NN or/CC other/AP local/JJ specialist/NN ./pct
+Soil/NN type/NN ,/pct drainage/NN ,/pct or/CC degree/NN of/IN slope/NN can/MD make/VB the/AT difference/NN between/IN good/JJ crops/NNS and/CC poor/JJ ones/NNS ./pct
+Small/JJ areas/NNS that/WPS aren't /None right/JJ for/IN a/AT certain/JJ crop/NN may/MD lie/VB next/RB to/IN areas/NNS that/WPS are/BER well/QL suited/VBN to/IN that/DT crop/NN ./pct
+The/AT house/NN
+Will/MD the/AT house/NN on/IN any/DTI part-time/JJ farm/NN you/PPSS are/BER considering/VBG make/NN a/AT satisfactory/JJ full-time/JJ residence/NN ?/pct ?/pct
+How/WQL much/AP will/MD it/PPS cost/VB to/TO do/DO any/DTI necessary/JJ modernizing/NN and/CC redecorating/VBG ?/pct ?/pct
+If/CS the/AT house/NN is/BEZ not/NEG wired/VBN adequately/RB for/IN electricity/NN or/CC if/CS plumbing/NN or/CC a/AT central/JJ heating/VBG system/NN must/MD be/BE installed/VBN ,/pct check/VB into/IN the/AT cost/NN of/IN making/VBG these/DTS improvements/NNS ./pct
+Buying/VBG a/AT farm/NN
+The/AT value/NN of/IN the/AT farm/NN to/IN you/PPO will/MD depend/VB on/IN --/pct
+Its/PPg worth/NN as/CS a/AT place/NN to/TO live/VB ./pct
+The/AT value/NN of/IN the/AT products/NNS you/PPSS can/MD raise/VB on/IN it/PPO ./pct
+The/AT possibilities/NNS of/IN selling/VBG the/AT property/NN later/RBR on/RP for/IN suburban/JJ subdivision/NN ./pct
+Decide/VB first/RB what/WDT the/AT place/NN is/BEZ worth/JJ to/IN you/PPO and/CC your/PPg family/NN as/CS a/AT home/NN in/IN comparison/NN with/IN what/WDT it/PPS would/MD cost/VB to/TO live/VB in/IN town/NN ./pct
+Take/VB into/IN account/NN the/AT difference/NN in/IN city/NN and/CC county/NN taxes/NNS ,/pct insurance/NN rates/NNS ,/pct utility/NN rates/NNS ,/pct and/CC the/AT cost/NN of/IN travel/NN to/IN work/NN ./pct
+Next/RB ,/pct estimate/VB the/AT value/NN of/IN possible/JJ earnings/NNS of/IN the/AT farm/NN ./pct
+To/TO do/DO this/DT ,/pct set/VB up/RP a/AT plan/NN on/IN paper/NN for/IN operating/VBG the/AT farm/NN ./pct
+List/VB the/AT kind/NN and/CC quantity/NN of/IN things/NNS the/AT farm/NN can/MD be/BE expected/VBN to/TO produce/VB in/IN an/AT average/JJ year/NN ./pct
+Estimate/VB the/AT value/NN of/IN the/AT produce/NN at/IN normal/JJ prices/NNS ./pct
+The/AT total/NN is/BEZ the/AT probably/RB gross/NN income/NN from/IN farming/VBG ./pct
+To/TO find/VB estimated/VBN net/NN farm/NN income/NN ,/pct subtract/VB estimated/VBN annual/JJ farming/VBG expenditures/NNS from/IN probable/JJ gross/NN income/NN from/IN farming/VBG ./pct
+Include/VB as/CS expenditures/NNS an/AT allowance/NN for/IN depreciation/NN of/IN farm/NN buildings/NNS and/CC equipment/NN ./pct
+Also/RB count/VB as/CS an/AT expense/NN a/AT charge/NN for/IN the/AT labor/NN to/TO be/BE contributed/VBN by/IN the/AT family/NN ./pct
+It/PPS may/MD be/BE hard/JJ to/TO decide/VB what/WDT this/DT labor/NN is/BEZ worth/JJ ,/pct but/CC charge/VB something/PN for/IN it/PPO ./pct
+Otherwise/RB ,/pct you/PPSS may/MD pay/VB too/QL much/RB for/IN the/AT farm/NN and/CC get/VB nothing/PN for/IN your/PPg labor/NN ./pct
+To/TO figure/VB the/AT value/NN of/IN the/AT farm/NN in/IN terms/NNS of/IN investment/NN income/NN ,/pct divide/VB the/AT estimated/VBN annual/JJ net/NN farm/NN income/NN by/IN the/AT percentage/NN that/WPS you/PPSS could/MD expect/VB to/TO get/VB in/IN interest/NN if/CS the/AT money/NN were/BED invested/VBN in/IN some/DTI other/AP way/NN ./pct

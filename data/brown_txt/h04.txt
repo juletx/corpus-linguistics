@@ -1,0 +1,122 @@
+Origin/NN of/IN state/NN automobile/NN practices/NNS ./pct
+The/AT practice/NN of/IN state-owned/JJ vehicles/NNS for/IN use/NN of/IN employees/NNS on/IN business/NN dates/VBZ back/RB over/RP forty/CD years/NNS ./pct
+At/IN least/AP one/CD state/NN vehicle/NN was/BEDZ in/IN existence/NN in/IN 1917/CD ./pct
+The/AT state/NN presently/RB owns/VBZ 389/CD passenger/NN vehicles/NNS in/IN comparison/NN to/IN approximately/RB 200/CD in/IN 1940/CD ./pct
+The/AT automobile/NN maintenance/NN unit/NN ,/pct or/CC motor/NN pool/NN ,/pct came/VBD into/IN existence/NN in/IN 1942/CD and/CC has/HVZ been/BEN responsible/JJ for/IN centralized/VBN maintenance/NN and/CC management/NN of/IN state-owned/JJ transportation/NN since/IN that/DT time/NN ./pct
+The/AT motor/NN pool/NN has/HVZ made/VBN exceptional/JJ progress/NN in/IN automotive/JJ management/NN including/IN establishment/NN of/IN cost/NN billing/NN systems/NNS ,/pct records/NNS keeping/NN ,/pct analyses/NNS of/IN vehicle/NN use/NN ,/pct and/CC effecting/VBG economies/NNS in/IN vehicle/NN operation/NN ./pct
+Cars/NNS were/BED operated/VBN in/IN 1959/CD for/IN an/AT average/NN $.027/NNS per/IN mile/NN ./pct
+Purchase/NN of/IN state/NN vehicles/NNS is/BEZ handled/VBN similarly/RB to/IN all/ABN state/NN purchases/NNS ./pct
+Unit/NN prices/NNS to/IN the/AT state/NN are/BER considerably/QL lower/JJR than/CS to/IN the/AT general/JJ public/NN because/RB of/IN quantity/NN purchases/NNS and/CC no/AT payment/NN of/IN state/NN sales/NNS or/CC federal/JJ excise/NN taxes/NNS ./pct
+Vehicle/NN purchase/NN ,/pct assignment/NN and/CC use/NN policies/NNS ./pct
+The/AT legislature's/NNg role/NN in/IN policy/NN determination/NN concerning/IN state-owned/JJ vehicles/NNS has/HVZ been/BEN confined/VBN almost/QL exclusively/RB to/IN appropriating/VBG funds/NNS for/IN vehicles/NNS ./pct
+The/AT meaningful/JJ policies/NNS governing/VBG the/AT purchase/NN ,/pct assignment/NN ,/pct use/NN and/CC management/NN of/IN state/NN vehicles/NNS have/HV been/BEN shaped/VBN by/IN the/AT state's/NNg administrative/JJ officers/NNS ./pct
+Meaningful/JJ policies/NNS include/VB :/pct (/pct A/NP )/pct kinds/NNS of/IN cars/NNS the/AT state/NN should/MD own/VB ,/pct (/pct B/NP )/pct when/WRB cars/NNS should/MD be/BE traded/VBN ,/pct (/pct C/NP )/pct the/AT need/NN and/CC assignment/NN of/IN vehicles/NNS ,/pct (/pct D/NP )/pct use/NN of/IN cars/NNS in/IN lieu/NN of/IN mileage/NN allowances/NNS ,/pct (/pct E/NP )/pct employees/NNS taking/VBG cars/NNS home/NR ,/pct and/CC (/pct F/NP )/pct need/NN for/IN liability/NN insurance/NN on/IN state/NN automobiles/NNS ./pct
+A/AT review/NN of/IN these/DTS policies/NNS indicates/VBZ :/pct (/pct 1/CD )/pct
+The/AT state/NN purchases/VBZ and/CC assigns/VBZ grades/NNS of/IN cars/NNS according/IN to/IN need/NN and/CC position/NN status/NN of/IN driver/NN and/CC use/NN of/IN vehicle/NN ./pct
+(/pct 2/CD )/pct
+The/AT purchase/NN of/IN compact/JJ (/pct economy/JJ )/pct cars/NNS is/BEZ being/BEG made/VBN currently/RB on/IN a/AT test/NN basis/NN ./pct
+(/pct 3/CD )/pct
+Cars/NNS are/BER traded/VBN mostly/RB on/IN a/AT three-year/JJ basis/NN in/IN the/AT interest/NN of/IN economy/NN ./pct
+(/pct 4/CD )/pct
+The/AT factors/NNS governing/VBG need/NN and/CC assignment/NN of/IN cars/NNS are/BER flexible/JJ according/IN to/IN circumstances/NNS ./pct
+(/pct 5/CD )/pct
+Unsuccessful/JJ efforts/NNS have/HV been/BEN made/VBN to/TO replace/VB high/JJ mileage/NN allowances/NNS with/IN state/NN automobiles/NNS ./pct
+(/pct 6/CD )/pct
+It/PPS is/BEZ reasonably/QL economical/JJ for/CS the/AT state/NN to/TO have/HV drivers/NNS garage/VB state/NN cars/NNS at/IN their/PPg homes/NNS ./pct
+(/pct 7/CD )/pct
+The/AT state/NN has/HVZ recently/RB undertaken/VBN liability/NN insurance/NN for/IN drivers/NNS of/IN state/NN cars/NNS ./pct
+Automobile/NN practices/NNS in/IN other/AP states/NNS ./pct
+A/AT survey/NN of/IN practices/NNS and/or/CC policies/NNS in/IN other/AP states/NNS concerning/IN assignment/NN and/CC use/NN of/IN state/NN automobiles/NNS reveals/VBZ several/AP points/NNS for/IN comparison/NN with/IN Rhode/NP Island's/NNg practices/NNS ./pct
+Forty-seven/CD states/NNS assign/VB or/CC provide/VB vehicles/NNS for/IN employees/NNS on/IN state/NN business/NN ./pct
+Two/CD other/AP states/NNS provide/VB vehicles/NNS ,/pct but/CC only/RB with/IN legislative/JJ approval/NN ./pct
+States/NNS which/WDT provide/VB automobiles/NNS for/IN employees/NNS assign/VB them/PPO variously/RB to/IN the/AT agency/NN ,/pct the/AT individual/NN ,/pct or/CC to/IN a/AT central/JJ pool/NN ./pct
+Twenty-six/CD states/NNS operate/VB a/AT central/JJ motor/NN pool/NN for/IN acquisition/NN ,/pct allocation/NN and/or/CC maintenance/NN of/IN state-owned/JJ vehicles/NNS ./pct
+Nineteen/CD states/NNS report/VB laws/NNS ,/pct policies/NNS or/CC regulations/NNS for/IN assigning/VBG state/NN vehicles/NNS in/IN lieu/NN of/IN paying/VBG mileage/NN allowances/NNS ./pct
+Of/IN these/DTS states/NNS the/AT average/JJ ``/pct change-over/NN ''/pct point/NN (/pct at/IN which/WDT a/AT car/NN is/BEZ substituted/VBN for/IN allowances/NNS )/pct is/BEZ 13,200/CD miles/NNS per/IN year/NN ./pct
+Mileage/NN allowances/NNS ./pct
+Mileage/NN allowances/NNS for/IN state/NN employees/NNS are/BER of/IN two/CD types/NNS :/pct (/pct A/NP )/pct actual/JJ mileage/NN and/CC (/pct B/NP )/pct fixed/VBN monthly/JJ allowances/NNS ./pct
+Actual/JJ mileage/NN allowances/NNS are/BER itemized/VBN reimbursements/NNS allowed/VBN employees/NNS for/IN the/AT use/NN of/IN personally-owned/JJ vehicles/NNS on/IN state/NN business/NN at/IN the/AT rate/NN of/IN $.07/NNS per/IN mile/NN ./pct
+Fixed/VBN monthly/JJ allowances/NNS are/BER reimbursements/NNS for/IN the/AT same/AP purpose/NN except/IN on/IN a/AT non-itemized/JJ basis/NN ./pct
+Both/ABX allowances/NNS are/BER governed/VBN by/IN conditions/NNS and/CC restrictions/NNS set/VBN forth/RB in/IN detail/NN in/IN the/AT state's/NNg Travel/NN Regulations/NNS ./pct
+Rhode/NP Island's/NNg reimburseable/JJ rate/NN of/IN $.07/NNS per/IN mile/NN for/IN use/NN of/IN personally-owned/JJ cars/NNS compares/VBZ favorably/RB with/IN other/AP states'/NNSg rates/NNS ./pct
+The/AT average/NN of/IN states'/NNSg rates/NNS is/BEZ $.076/NNS per/IN mile/NN ./pct
+Rhode/NP Island's/NNg rate/NN of/IN $.07/NNS per/IN mile/NN is/BEZ considerably/QL lower/JJR than/CS reimburseable/JJ rates/NNS in/IN the/AT federal/JJ government/NN and/CC in/IN industry/NN nationally/RB which/WDT approximate/VB a/AT $.09/NNS per/IN mile/NN average/NN ./pct
+Actual/JJ mileage/NN allowances/NNS are/BER well-administered/JJ and/CC not/NEG unduly/QL expensive/JJ for/IN the/AT state/NN ./pct
+The/AT travel/NN regulations/NNS ,/pct requirements/NNS and/CC procedures/NNS governing/VBG reimbursement/NN are/BER controlled/VBN properly/RB and/CC not/NEG overly/QL restrictive/JJ ./pct
+Fixed/VBN monthly/JJ allowances/NNS are/BER a/AT controversial/JJ subject/NN ./pct
+They/PPSS have/HV a/AT great/JJ advantage/NN in/IN ease/NN of/IN audit/NN time/NN and/CC payment/NN ./pct
+However/RB ,/pct they/PPSS lend/VB themselves/PPLS to/IN abuse/NN and/CC inadequate/JJ control/NN measures/NNS ./pct
+Flat/JJ payments/NNS over/IN $50/NNS per/IN month/NN are/BER more/QL expensive/JJ to/IN the/AT state/NN than/CS the/AT assignment/NN of/IN state-owned/JJ vehicles/NNS ./pct
+Travel/NN allowances/NNS ./pct
+Travel/NN allowances/NNS ,/pct including/IN subsistence/NN ,/pct have/HV been/BEN revised/VBN by/IN administrative/JJ officials/NNS recently/RB and/CC compare/VB favorably/RB with/IN other/AP states'/NNSg allowances/NNS ./pct
+With/IN few/AP exceptions/NNS travelers/NNS on/IN state/NN business/NN are/BER allowed/VBN actual/JJ travel/NN expenses/NNS and/CC $15/NNS per/IN day/NN subsistence/NN ./pct
+Travel/NN allowances/NNS are/BER well-regulated/JJ and/CC pose/VB little/AP problem/NN in/IN administration/NN and/or/CC audit/NN control/NN ./pct
+Origin/NN of/IN state/NN automobile/NN practices/NNS
+general/JJ background/NN ./pct
+It/PPS is/BEZ difficult/JJ to/TO pinpoint/VB the/AT time/NN of/IN origin/NN of/IN the/AT state/NN purchasing/VBG automobiles/NNS for/IN use/NN of/IN employees/NNS in/IN Rhode/NP Island/NN ./pct
+Few/AP records/NNS are/BER available/JJ concerning/IN the/AT subject/NN prior/RB to/IN 1940/CD ./pct
+Those/DTS that/WPS are/BER available/JJ shed/VB little/AP light/NN ./pct
+The/AT Registry/NN of/IN Motor/NN Vehicles/NNS indicates/VBZ that/CS at/IN least/AP one/CD state/NN automobile/NN was/BEDZ registered/VBN as/QL far/RB back/RB as/CS 1917/CD ./pct
+It/PPS should/MD be/BE enough/AP to/TO say/VB that/CS the/AT practice/NN of/IN the/AT state/NN buying/VBG automobiles/NNS is/BEZ at/IN least/AP forty/CD years/NNS old/JJ ./pct
+The/AT best/JJT reason/NN that/WPO can/MD be/BE advanced/VBN for/IN the/AT state/NN adopting/VBG the/AT practice/NN was/BEDZ the/AT advent/NN of/IN expanded/VBN highway/NN construction/NN during/IN the/AT 1920s/NNS and/CC '30s/NNS ./pct
+At/IN that/DT time/NN highway/NN engineers/NNS traveled/VBD rough/JJ and/CC dirty/JJ roads/NNS to/TO accomplish/VB their/PPg duties/NNS ./pct
+Using/VBG privately-owned/JJ vehicles/NNS was/BEDZ a/AT personal/JJ hardship/NN for/IN such/JJ employees/NNS ,/pct and/CC the/AT matter/NN of/IN providing/VBG state/NN transportation/NN was/BEDZ felt/VBN perfectly/QL justifiable/JJ ./pct
+Once/CS the/AT principle/NN was/BEDZ established/VBN ,/pct the/AT increase/NN in/IN state-owned/JJ vehicles/NNS came/VBD rapidly/RB ./pct
+And/CC reasons/NNS other/AP than/CS employee/NN need/NN contributed/VBD to/IN the/AT growth/NN ./pct
+Table/NN 1/CD immediately/RB below/RB shows/VBZ the/AT rate/NN of/IN growth/NN of/IN vehicles/NNS and/CC employees/NNS ./pct
+This/DT rate/NN of/IN increase/NN does/DOZ not/NEG signify/VB anything/PN in/IN itself/PPL ./pct
+It/PPS does/DOZ not/NEG indicate/VB loose/JJ management/NN ,/pct ineffective/JJ controls/NNS or/CC poor/JJ policy/NN ./pct
+But/CC it/PPS does/DOZ show/VB that/CS automobiles/NNS have/HV increased/VBN steadily/RB over/IN the/AT years/NNS and/CC in/IN almost/RB the/AT same/AP proportion/NN to/IN the/AT increase/NN of/IN state/NN employees/NNS ./pct
+In/IN the/AT past/AP twenty/CD years/NNS the/AT ratio/NN of/IN state-owned/JJ automobiles/NNS per/IN state/NN employees/NNS has/HVZ varied/VBN from/IN 1/CD to/IN 22/CD then/RB to/IN 1/CD to/IN 23/CD now/RB ./pct
+Whether/CS there/EX were/BED too/QL few/AP automobiles/NNS in/IN 1940/CD or/CC too/QL many/AP now/RB is/BEZ problematical/JJ ./pct
+The/AT fact/NN is/BEZ simply/RB that/CS state-owned/JJ vehicles/NNS have/HV remained/VBN in/IN practically/RB the/AT same/AP proportion/NN as/CS employees/NNS to/TO use/VB them/PPO ./pct
+History/NN and/CC operation/NN of/IN the/AT motor/NN pool/NN ./pct
+While/CS the/AT origin/NN of/IN state-owned/JJ automobiles/NNS may/MD be/BE obscured/VBN ,/pct subsequent/JJ developments/NNS concerning/IN the/AT assignment/NN ,/pct use/NN ,/pct and/CC management/NN of/IN state/NN automobiles/NNS can/MD be/BE related/VBN more/QL clearly/RB ./pct
+Prior/RB to/IN 1942/CD ,/pct automobiles/NNS were/BED the/AT individual/JJ responsibility/NN of/IN the/AT agency/NN to/IN which/WDT assigned/VBN ./pct
+This/DT responsibility/NN included/VBD all/ABN phases/NNS of/IN management/NN ./pct
+It/PPS embraced/VBD determining/VBG when/WRB to/TO purchase/VB and/CC when/WRB to/TO trade/VB vehicles/NNS ,/pct who/WPS was/BEDZ to/TO drive/VB ,/pct when/WRB and/CC where/WRB repairs/NNS were/BED to/TO be/BE made/VBN ,/pct where/WRB gasoline/NN and/CC automobile/NN services/NNS were/BED to/TO be/BE obtained/VBN and/CC other/AP allied/VBN matters/NNS ./pct
+In/IN 1942/CD ,/pct however/RB ,/pct the/AT nation/NN was/BEDZ at/IN war/NN ./pct
+Gasoline/NN and/CC automobile/NN tires/NNS were/BED rationed/VBN commodities/NNS ./pct
+The/AT state/NN was/BEDZ confronted/VBN with/IN transportation/NN problems/NNS similar/JJ to/IN those/DTS of/IN the/AT individual/NN ./pct
+It/PPS met/VBD these/DTS problems/NNS by/IN the/AT creation/NN of/IN the/AT state/NN automobile/NN maintenance/NN unit/NN (/pct more/QL popularly/RB called/VBN the/AT motor/NN pool/NN )/pct ,/pct a/AT centralized/VBN operation/NN for/IN the/AT maintenance/NN and/CC control/NN of/IN all/ABN state/NN transportation/NN ./pct
+The/AT motor/NN pool/NN then/RB ,/pct as/CS now/RB ,/pct had/HVD headquarter/NN facilities/NNS in/IN Providence/NP and/CC other/AP garages/NNS located/VBN throughout/IN the/AT state/NN ./pct
+It/PPS was/BEDZ organizationally/RB the/AT responsibility/NN of/IN the/AT Department/NN of/IN Public/JJ Works/NNS and/CC was/BEDZ financed/VBN on/IN a/AT rotary/JJ fund/NN basis/NN with/IN each/DT agency/NN of/IN government/NN contributing/VBG to/IN the/AT pool's/NNg operation/NN ./pct
+In/IN 1951/CD the/AT pool's/NNg operation/NN was/BEDZ transferred/VBN to/IN the/AT newly-created/JJ Department/NN of/IN Administration/NN ,/pct an/AT agency/NN established/VBN as/CS the/AT central/JJ staff/NN and/CC auxiliary/JJ department/NN of/IN the/AT state/NN government/NN ./pct
+The/AT management/NN of/IN state-owned/JJ vehicles/NNS since/IN that/DT time/NN has/HVZ been/BEN described/VBN in/IN a/AT recent/JJ report/NN in/IN the/AT following/VBG manner/NN :/pct ``/pct
+Under/IN this/DT new/JJ management/NN considerable/JJ progress/NN appears/VBZ to/TO have/HV been/BEN made/VBN ./pct
+The/AT agencies/NNS of/IN government/NN are/BER now/RB billed/VBN for/IN the/AT actual/JJ cost/NN of/IN services/NNS provided/VBN to/IN each/DT passenger/NN car/NN rather/IN than/IN the/AT prior/JJ uniform/JJ charge/NN for/IN all/ABN cars/NNS ./pct
+Whereas/CS the/AT maintenance/NN rotary/JJ fund/NN had/HVD in/IN the/AT past/NN sustained/VBN losses/NNS considerably/RB beyond/IN expectations/NNS ,/pct the/AT introduction/NN of/IN the/AT cost-billing/NN system/NN plus/CC other/AP control/NN refinements/NNS has/HVZ resulted/VBN in/IN keeping/VBG the/AT fund/NN on/IN a/AT proper/JJ working/VBG basis/NN ./pct
+One/CD indication/NN of/IN the/AT merits/NNS of/IN the/AT new/JJ management/NN is/BEZ found/VBN in/IN the/AT fact/NN that/CS during/IN the/AT period/NN 1951-1956/CD ,/pct while/CS total/JJ annual/JJ mileage/NN put/VBN on/IN the/AT vehicles/NNS increased/VBD 35%/NN ,/pct the/AT total/JJ maintenance/NN cost/NN increased/VBD only/RB 11%/NN ./pct
+In/IN order/NN to/TO further/RBR refine/VB the/AT management/NN of/IN passenger/NN vehicles/NNS ,/pct on/IN July/NP 1/CD ,/pct 1958/CD ,/pct the/AT actual/JJ title/NN to/IN every/AT vehicle/NN was/BEDZ transferred/VBN ,/pct by/IN Executive/JJ Order/NN ,/pct to/IN the/AT Division/NN of/IN Methods/NNS ,/pct Research/NN and/CC Office/NN Services/NNS ./pct
+The/AT objective/NN behind/IN this/DT action/NN was/BEDZ to/TO place/VB in/IN one/CD agency/NN the/AT responsibility/NN for/IN the/AT management/NN ,/pct assignment/NN ,/pct and/CC replacement/NN of/IN all/ABN vehicles/NNS ./pct
+(/pct Note/VB :/pct So/QL far/RB as/CS State/NN Police/NNS cars/NNS are/BER concerned/VBN ,/pct only/RB their/PPg replacement/NN is/BEZ under/IN this/DT division/NN )/pct ./pct
+This/DT tied/VBD in/RP closely/RB with/IN the/AT current/JJ attempt/NN to/TO upgrade/VB state-owned/JJ cars/NNS to/IN the/AT extent/NN that/CS vehicles/NNS are/BER not/NEG retained/VBN beyond/IN the/AT point/NN where/WRB maintenance/NN costs/NNS (/pct in/IN light/NN of/IN depreciation/NN )/pct become/VB excessive/JJ ./pct
+Moreover/RB ,/pct it/PPS allows/VBZ the/AT present/JJ management/NN to/TO reassign/VB vehicles/NNS so/CS that/CS mileage/NN will/MD be/BE more/QL uniformly/RB distributed/VBN throughout/IN the/AT fleet/NN ;/pct ;/pct
+for/IN example/NN ,/pct if/CS one/CD driver/NN puts/VBZ on/RP 22,000/CD miles/NNS per/IN year/NN and/CC another/DT driver/NN 8,000/CD miles/NNS per/IN year/NN ,/pct their/PPg cars/NNS will/MD be/BE switched/VBN so/CS that/CS both/ABX cars/NNS will/MD have/HV 30,000/CD miles/NNS after/IN two/CD years/NNS ,/pct rather/IN than/IN 44,000/CD miles/NNS (/pct and/CC related/VBN higher/JJR maintenance/NN costs/NNS )/pct and/CC 16,000/CD miles/NNS respectively/RB ''/pct ./pct
+The/AT motor/NN pool/NN is/BEZ a/AT completely/QL centralized/VBN and/CC mechanized/VBN operation/NN ./pct
+It/PPS handles/VBZ all/ABN types/NNS of/IN vehicle/NN maintenance/NN ,/pct but/CC concentrates/VBZ more/RBR on/IN ``/pct service/NN station/NN activities/NNS ''/pct than/CS on/IN extensive/JJ vehicle/NN repairs/NNS ./pct
+It/PPS contracts/VBZ with/IN outside/JJ repair/NN garages/NNS for/IN much/AP of/IN the/AT latter/AP work/NN ./pct
+Where/WRB the/AT pool/NN excels/VBZ is/BEZ in/IN its/PPg compilation/NN of/IN maintenance/NN and/CC cost-data/NN studies/NNS and/CC analyses/NNS ./pct
+Pool/NN records/NNS reveal/VB in/IN detail/NN the/AT cost/NN per/IN mile/NN and/CC miles/NNS per/IN gallon/NN of/IN each/DT vehicle/NN ,/pct the/AT miles/NNS traveled/VBN in/IN one/CD year/NN or/CC three/CD years/NNS ,/pct the/AT periods/NNS when/WRB vehicle/NN costs/NNS become/VB excessive/JJ ,/pct and/CC when/WRB cars/NNS should/MD be/BE traded/VBN for/IN sound/JJ economies/NNS ./pct
+From/IN this/DT ,/pct motor/NN pool/NN personnel/NNS develop/VB other/AP meaningful/JJ and/CC related/VBN data/NN ./pct
+In/IN 1959-60/CD ,/pct vehicles/NNS averaged/VBD an/AT operating/VBG cost/NN of/IN $.027/NNS per/IN mile/NN ./pct
+Based/VBN on/IN this/DT figure/NN and/CC considering/VBG depreciation/NN costs/NNS of/IN vehicles/NNS ,/pct pool/NN personnel/NNS have/HV determined/VBN that/CS travel/NN in/IN excess/NN of/IN 10,000/CD miles/NNS annually/RB is/BEZ more/QL economical/JJ by/IN state/NN car/NN than/CS by/IN payment/NN of/IN allowances/NNS for/IN use/NN of/IN personally-owned/JJ vehicles/NNS ./pct
+They/PPSS estimate/VB further/RBR that/CS with/IN sufficient/JJ experience/NN and/CC when/WRB cost-data/NN of/IN compact/JJ cars/NNS is/BEZ compiled/VBN ,/pct the/AT break-even/JJ point/NN may/MD be/BE reduced/VBN to/IN 7,500/CD miles/NNS of/IN travel/NN per/IN year/NN ./pct
+Table/NN 2/CD shows/VBZ operating/VBG cost/NN data/NN of/IN state/NN vehicles/NNS selected/VBN at/IN random/NN ./pct
+One/CD matter/NN of/IN concern/NN to/IN the/AT complete/JJ effectiveness/NN of/IN pool/NN operations/NNS is/BEZ the/AT lack/NN of/IN adequate/JJ central/JJ garage/NN facilities/NNS ./pct
+Present/JJ pool/NN quarters/NNS at/IN two/CD locations/NNS in/IN Providence/NP are/BER crowded/VBN ,/pct antiquated/JJ and/CC ,/pct in/IN general/JJ ,/pct make/VB for/IN inefficient/JJ operation/NN in/IN terms/NNS of/IN dispersement/NN of/IN personnel/NNS and/CC duplication/NN of/IN such/JJ operational/JJ needs/NNS as/CS stock/NN and/CC repair/NN equipment/NN ./pct
+Good/JJ facilities/NNS would/MD be/BE a/AT decided/VBN help/NN to/IN pool/NN operations/NNS and/CC probably/RB reduce/VB vehicle/NN costs/NNS even/QL more/RBR ./pct
+Purchasing/VBG practices/NNS ./pct
+The/AT purchase/NN of/IN state-owned/JJ vehicles/NNS is/BEZ handled/VBN in/IN the/AT same/AP manner/NN as/CS all/ABN other/AP purchases/NNS of/IN the/AT state/NN ./pct
+Requests/NNS are/BER made/VBN by/IN the/AT motor/NN pool/NN along/IN with/IN any/DTI necessary/JJ cooperation/NN from/IN the/AT agencies/NNS to/IN which/WDT assignments/NNS of/IN cars/NNS will/MD be/BE made/VBN ./pct
+Bids/NNS are/BER evaluated/VBN by/IN the/AT Division/NN of/IN Purchases/NNS with/IN the/AT assistance/NN of/IN pool/NN staff/NN ,/pct and/CC awards/NNS for/IN the/AT purchase/NN of/IN the/AT automobiles/NNS are/BER made/VBN to/IN the/AT lowest/JJT responsible/JJ bidders/NNS ./pct
+Unit/NN prices/NNS for/IN state/NN vehicles/NNS are/BER invariably/RB lower/JJR than/CS to/IN the/AT general/JJ public/NN ./pct
+The/AT reasons/NNS are/BER obvious/JJ :/pct (/pct 1/CD )/pct the/AT state/NN is/BEZ buying/VBG in/IN quantity/NN ,/pct and/CC (/pct 2/CD )/pct it/PPS has/HVZ no/AT federal/JJ excise/NN or/CC state/NN sales/NNS tax/NN to/TO pay/VB ./pct
+Until/IN 1958/CD the/AT state/NN was/BEDZ also/RB entitled/VBN to/IN a/AT special/JJ type/NN of/IN manufacturers'/NNSg discount/NN through/IN the/AT dealers/NNS ./pct
+In/IN that/CS ownership/NN of/IN all/ABN vehicles/NNS rests/VBZ with/IN the/AT state/NN motor/NN pool/NN ,/pct cars/NNS are/BER paid/VBN for/IN with/IN funds/NNS appropriated/VBN to/IN the/AT agencies/NNS but/CC transferred/VBN to/IN the/AT rotary/JJ fund/NN mentioned/VBN earlier/RBR ./pct
+This/DT is/BEZ a/AT normal/JJ governmental/JJ procedure/NN which/WDT reflects/VBZ more/QL accurately/RB cost-accounting/NN principles/NNS ./pct
+The/AT assignment/NN and/CC use/NN of/IN vehicles/NNS after/IN purchase/NN is/BEZ another/DT matter/NN to/TO be/BE covered/VBN in/IN detail/NN later/RBR ./pct
+Vehicle/NN purchase/NN ,/pct assignment/NN ,/pct and/CC use/NN policies/NNS
+Probably/RB the/AT most/QL important/JJ of/IN all/ABN matters/NNS for/IN review/NN are/BER the/AT broad/JJ administrative/JJ policies/NNS governing/VBG the/AT purchase/NN ,/pct assignment/NN ,/pct use/NN ,/pct and/CC management/NN of/IN state/NN vehicles/NNS ./pct
+The/AT legislature's/NNg role/NN in/IN policy/NN determination/NN in/IN this/DT area/NN for/IN years/NNS has/HVZ been/BEN confined/VBN almost/QL solely/RB to/IN the/AT amount/NN of/IN funds/NNS appropriated/VBN annually/RB for/IN the/AT purchase/NN and/CC operation/NN of/IN vehicles/NNS ./pct
+The/AT more/QL meaningful/JJ policies/NNS have/HV been/BEN left/VBN to/IN the/AT judgment/NN of/IN the/AT chief/JJS administrative/JJ officer/NN of/IN the/AT state/NN --/pct the/AT Director/NN of/IN Administration/NN ./pct

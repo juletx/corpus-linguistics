@@ -1,0 +1,97 @@
+The/AT set/NN of/IN all/ABN decisions/NNS is/BEZ called/VBN the/AT operating/VBG policy/NN or/CC ,/pct more/QL simply/RB ,/pct the/AT policy/NN ./pct
+An/AT optimal/JJ policy/NN is/BEZ one/CD which/WDT in/IN some/DTI sense/NN gets/VBZ the/AT best/JJT out/RP of/IN the/AT process/NN as/CS a/AT whole/NN by/IN maximizing/VBG the/AT value/NN of/IN the/AT product/NN ./pct
+There/EX are/BER thus/RB three/CD components/NNS to/IN an/AT optimal/JJ design/NN problem/NN :/pct (/pct 1/CD )/pct
+The/AT specification/NN of/IN the/AT state/NN of/IN the/AT process/NN stream/NN ;/pct ;/pct
+(/pct 2/CD )/pct
+The/AT specification/NN of/IN the/AT operating/VBG variables/NNS and/CC the/AT transformation/NN they/PPSS effect/VB ;/pct ;/pct
+(/pct 3/CD )/pct
+The/AT specification/NN of/IN the/AT objective/JJ function/NN of/IN which/WDT the/AT optimization/NN is/BEZ desired/VBN ./pct
+For/IN a/AT chemical/NN process/NN the/AT first/OD of/IN these/DTS might/MD involve/VB the/AT concentrations/NNS of/IN the/AT different/JJ chemical/NN species/NNS ,/pct and/CC the/AT temperature/NN or/CC pressure/NN of/IN the/AT stream/NN ./pct
+For/IN the/AT second/OD we/PPSS might/MD have/HV to/TO choose/VB the/AT volume/NN of/IN reactor/NN or/CC amount/NN of/IN cooling/VBG to/TO be/BE supplied/VBN ;/pct ;/pct
+the/AT way/NN in/IN which/WDT the/AT transformation/NN of/IN state/NN depends/VBZ on/IN the/AT operating/VBG variables/NNS for/IN the/AT main/JJS types/NNS of/IN reactors/NNS is/BEZ discussed/VBN in/IN the/AT next/AP chapter/NN ./pct
+The/AT objective/JJ function/NN is/BEZ some/DTI measure/NN of/IN the/AT increase/NN in/IN value/NN of/IN the/AT stream/NN by/IN processing/VBG ;/pct ;/pct
+it/PPS is/BEZ the/AT subject/NN of/IN Chapter/NN 4/CD ./pct
+The/AT essential/JJ characteristic/NN of/IN an/AT optimal/JJ policy/NN when/WRB the/AT state/NN of/IN the/AT stream/NN is/BEZ transformed/VBN in/IN a/AT sequence/NN of/IN stages/NNS with/IN no/AT feedback/NN was/BEDZ first/RB isolated/VBN by/IN Bellman/NP ./pct
+He/PPS recognized/VBD that/CS whatever/WDT transformation/NN may/MD be/BE effected/VBN in/IN the/AT first/OD stage/NN of/IN an/AT R-stage/NN process/NN ,/pct the/AT remaining/VBG stages/NNS must/MD use/VB an/AT optimal/JJ Af-stage/NN policy/NN with/IN respect/NN to/IN the/AT state/NN resulting/VBG from/IN the/AT first/OD stage/NN ,/pct if/CS there/EX is/BEZ to/TO be/BE any/DTI chance/NN of/IN optimizing/VBG the/AT complete/JJ process/NN ./pct
+Moreover/RB ,/pct by/IN systematically/RB varying/VBG the/AT operating/VBG conditions/NNS in/IN the/AT first/OD stage/NN and/CC always/RB using/VBG the/AT optimal/JJ Af-stage/NN policy/NN for/IN the/AT remaining/VBG stages/NNS ,/pct we/PPSS shall/MD eventually/RB find/VB the/AT optimal/JJ policy/NN for/IN all/ABN R/NN stages/NNS ./pct
+Proceeding/VBG in/IN this/DT way/NN ,/pct from/IN one/CD to/IN two/CD and/CC from/IN two/CD to/IN three/CD stages/NNS ,/pct we/PPSS may/MD gradually/RB build/VB up/RP the/AT policy/NN for/IN any/DTI number/NN ./pct
+At/IN each/DT step/NN of/IN the/AT calculation/NN the/AT operating/VBG variables/NNS of/IN only/RB one/CD stage/NN need/MD be/BE varied/VBN ./pct
+To/TO see/VB how/WRB important/JJ this/DT economy/NN is/BEZ ,/pct let/VB us/PPO suppose/VB that/CS there/EX are/BER M/NP operating/VBG variables/NNS at/IN each/DT stage/NN and/CC that/CS the/AT state/NN is/BEZ specified/VBN by/IN N/NP variables/NNS ;/pct ;/pct
+then/RB the/AT search/NN for/IN the/AT maximum/JJ at/IN any/DTI one/CD stage/NN will/MD require/VB a/AT number/NN of/IN operations/NNS of/IN order/NN Af/NN (/pct where/WRB a/NN is/BEZ some/DTI number/NN not/NEG unreasonably/QL large/JJ )/pct ./pct
+To/TO proceed/VB from/IN one/CD stage/NN to/IN the/AT next/AP a/AT sufficient/JJ number/NN of/IN feed/NN states/NNS must/MD be/BE investigated/VBN to/TO allow/VB for/IN interpolation/NN ;/pct ;/pct
+this/DT number/NN will/MD be/BE of/IN the/AT order/NN of/IN Af/NN ./pct
+If/CS ,/pct however/RB ,/pct we/PPSS are/BER seeking/VBG the/AT optimal/JJ R-stage/NN policy/NN for/IN a/AT given/VBN feed/NN state/NN ,/pct only/RB one/CD search/NN for/IN a/AT maximum/JJ is/BEZ required/VBN at/IN the/AT final/JJ step/NN ./pct
+Thus/RB a/AT number/NN of/IN operations/NNS of/IN the/AT order/NN of/IN Af/NN are/BER required/VBN ./pct
+If/CS all/ABN the/AT operating/VBG variables/NNS were/BED varied/VBN simultaneously/RB ,/pct Af/NN operations/NNS would/MD be/BE required/VBN to/TO do/DO the/AT same/AP job/NN ,/pct and/CC as/CS R/NN increases/VBZ this/DT increases/VBZ very/QL much/QL more/QL rapidly/RB than/CS the/AT number/NN of/IN operations/NNS required/VBN by/IN the/AT dynamic/JJ program/NN ./pct
+But/CC even/QL more/QL important/JJ than/CS this/DT is/BEZ the/AT fact/NN that/CS the/AT direct/JJ search/NN by/IN simultaneously/RB varying/VBG all/ABN operating/VBG conditions/NNS has/HVZ produced/VBN only/RB one/CD optimal/JJ policy/NN ,/pct namely/RB ,/pct that/DT for/IN the/AT given/VBN feed/NN state/NN and/CC R/NN stages/NNS ./pct
+In/IN contrast/NN ,/pct the/AT dynamic/JJ program/NN produces/VBZ this/DT policy/NN and/CC a/AT whole/JJ family/NN of/IN policies/NNS for/IN any/DTI smaller/JJR number/NN of/IN stages/NNS ./pct
+If/CS the/AT problem/NN is/BEZ enlarged/VBN to/TO require/VB a/AT complete/JJ coverage/NN of/IN feed/NN states/NNS ,/pct Af/NN operations/NNS are/BER needed/VBN by/IN the/AT dynamic/JJ program/NN and/CC Af/NN by/IN the/AT direct/JJ search/NN ./pct
+But/CC Af/NN is/BEZ vastly/QL larger/JJR than/CS R/NN ./pct
+No/AT optimism/NN is/BEZ more/QL baseless/JJ than/CS that/DT which/WDT believes/VBZ that/CS the/AT high/JJ speed/NN of/IN modern/JJ digital/JJ computers/NNS allows/VBZ for/IN use/NN of/IN the/AT crudest/JJT of/IN methods/NNS in/IN searching/VBG out/RP a/AT result/NN ./pct
+Suppose/VB that/CS Af/NN ,/pct and/CC that/CS the/AT average/JJ operation/NN requires/VBZ only/RB Af/NN sec./NNS ./pct
+Then/RB the/AT dynamic/JJ program/NN would/MD require/VB about/RB a/AT minute/NN whereas/CS the/AT direct/JJ search/NN would/MD take/VB more/AP than/IN three/CD millennia/NNS !/pct !/pct
+The/AT principle/NN of/IN optimality/NN thus/RB brings/VBZ a/AT vital/JJ organization/NN into/IN the/AT search/NN for/IN the/AT optimal/JJ policy/NN of/IN a/AT multistage/NN decision/NN process/NN ./pct
+Bellman/NP (/pct 1957/CD )/pct has/HVZ annunciated/VBN in/IN the/AT following/VBG terms/NNS :/pct
+``/pct An/AT optimal/JJ policy/NN has/HVZ the/AT property/NN that/CS whatever/WDT the/AT initial/JJ state/NN and/CC initial/JJ decision/NN are/BER ,/pct the/AT remaining/VBG decisions/NNS must/MD constitute/VB an/AT optimal/JJ policy/NN with/IN respect/NN to/IN the/AT state/NN resulting/VBG from/IN the/AT first/OD decision/NN ''/pct ./pct
+This/DT is/BEZ the/AT principle/NN which/WDT we/PPSS will/MD invoke/VB in/IN every/AT case/NN to/TO set/VB up/RP a/AT functional/JJ equation/NN ./pct
+It/PPS appears/VBZ in/IN a/AT form/NN that/WPS is/BEZ admirably/RB suited/VBN to/IN the/AT powers/NNS of/IN the/AT digital/JJ computer/NN ./pct
+At/IN the/AT same/AP time/NN ,/pct every/AT device/NN that/WPS can/MD be/BE employed/VBN to/TO reduce/VB the/AT number/NN of/IN variables/NNS is/BEZ of/IN the/AT greatest/JJT value/NN ,/pct and/CC it/PPS is/BEZ one/CD of/IN the/AT attractive/JJ features/NNS of/IN dynamic/JJ programming/NN that/CS room/NN is/BEZ left/VBN for/IN ingenuity/NN in/IN using/VBG the/AT special/JJ features/NNS of/IN the/AT problem/NN to/IN this/DT end/NN ./pct
+2.2/CD the/AT discrete/JJ deterministic/JJ process/NN
+Consider/VB the/AT process/NN illustrated/VBN in/IN Fig./NN 2.1/CD ,/pct consisting/VBG of/IN R/NN distinct/JJ stages/NNS ./pct
+These/DTS will/MD be/BE numbered/VBN in/IN the/AT direction/NN opposite/RB to/IN the/AT flow/NN of/IN the/AT process/NN stream/NN ,/pct so/CS that/CS stage/NN R/NP is/BEZ the/AT T/NP stage/NN from/IN the/AT end/NN ./pct
+Let/VB the/AT state/NN of/IN the/AT stream/NN leaving/VBG stage/NN R/NP be/BE denoted/VBN by/IN a/AT vector/NN Af/NN and/CC the/AT operating/VBG variables/NNS of/IN stage/NN R/NP by/IN Af/NN ./pct
+Thus/RB Af/NN denotes/VBZ the/AT state/NN of/IN the/AT feed/NN to/IN the/AT R-stage/NN process/NN ,/pct and/CC Af/NN the/AT state/NN of/IN the/AT product/NN from/IN the/AT last/AP stage/NN ./pct
+Each/DT stage/NN transforms/VBZ the/AT state/NN Af/NN of/IN its/PPg feed/NN to/IN the/AT state/NN Af/NN in/IN a/AT way/NN that/WPS depends/VBZ on/IN the/AT operating/VBG variables/NNS Af/NN ./pct
+We/PPSS write/VB this/DT Af/NN ./pct
+This/DT transformation/NN is/BEZ uniquely/RB determined/VBN by/IN Af/NN and/CC we/PPSS therefore/RB speak/VB of/IN the/AT process/NN as/CS deterministic/JJ ./pct
+In/IN practical/JJ situations/NNS there/EX will/MD be/BE restrictions/NNS on/IN the/AT admissible/JJ operating/VBG conditions/NNS ,/pct and/CC we/PPSS regard/VB the/AT vectors/NNS as/CS belonging/VBG to/IN a/AT fixed/VBN and/CC bounded/VBN set/NN S/NN ./pct
+The/AT set/NN of/IN vectors/NNS Af/NN constitutes/VBZ the/AT operating/VBG policy/NN or/CC ,/pct more/QL briefly/RB ,/pct the/AT policy/NN ,/pct and/CC a/AT policy/NN is/BEZ admissible/JJ if/CS all/ABN the/AT Af/NN belong/VB to/IN S/NN ./pct
+When/WRB the/AT policy/NN has/HVZ been/BEN chosen/VBN ,/pct the/AT state/NN of/IN the/AT product/NN can/MD be/BE obtained/VBN from/IN the/AT state/NN of/IN the/AT feed/NN by/IN repeated/VBN application/NN of/IN the/AT transformation/NN (/pct 1/CD )/pct ;/pct ;/pct
+thus/RB Af/NN ./pct
+The/AT objective/JJ function/NN ,/pct which/WDT is/BEZ to/TO be/BE maximized/VBN ,/pct is/BEZ some/DTI function/NN ,/pct usually/RB piecewise/RB continuous/JJ ,/pct of/IN the/AT product/NN state/NN ./pct
+Let/VB this/DT be/BE denoted/VBN by/IN Af/NN ./pct
+An/AT optimal/JJ policy/NN is/BEZ an/AT admissible/JJ policy/NN Af/NN which/WDT maximizes/VBZ the/AT objective/JJ function/NN P/NN ./pct
+The/AT policy/NN may/MD not/NEG be/BE unique/JJ but/CC the/AT maximum/JJ value/NN of/IN P/NN certainly/RB is/BEZ ,/pct and/CC once/CS the/AT policy/NN is/BEZ specified/VBN this/DT maximum/NN can/MD be/BE calculated/VBN by/IN (/pct 2/CD )/pct and/CC (/pct 3/CD )/pct as/CS a/AT function/NN of/IN the/AT feed/NN state/NN Af/NN ./pct
+Let/VB Af/NN where/WRB the/AT maximization/NN is/BEZ over/IN all/ABN admissible/JJ policies/NNS Af/NN ./pct
+When/WRB it/PPS is/BEZ necessary/JJ to/TO be/BE specific/JJ we/PPSS say/VB that/CS the/AT optimal/JJ policy/NN is/BEZ an/AT optimal/JJ R-stage/NN policy/NN with/IN respect/NN to/IN the/AT feed/NN state/NN Af/NN ./pct
+For/IN any/DTI choice/NN of/IN admissible/JJ policy/NN Af/NN in/IN the/AT first/OD stage/NN ,/pct the/AT state/NN of/IN the/AT stream/NN leaving/VBG this/DT stage/NN is/BEZ given/VBN by/IN Af/NN ./pct
+This/DT is/BEZ the/AT feed/NN state/NN of/IN the/AT subsequent/JJ Af/NN stages/NNS which/WDT ,/pct according/RB to/IN the/AT principle/NN of/IN optimality/NN ,/pct must/MD use/VB an/AT optimal/JJ Af-stage/NN policy/NN with/IN respect/NN to/IN this/DT state/NN ./pct
+This/DT will/NN result/VB in/IN a/AT value/NN Af/NN of/IN the/AT objective/JJ function/NN ,/pct and/CC when/WRB Af/NN is/BEZ chosen/VBN correctly/RB this/DT will/MD give/VB Af/NN ,/pct the/AT maximum/NN of/IN the/AT objective/JJ function/NN ./pct
+Thus/RB Af/NN where/WRB the/AT maximization/NN is/BEZ over/IN all/ABN admissible/JJ policies/NNS Af/NN ,/pct and/CC Af/NN is/BEZ related/VBN to/IN Af/NN by/IN (/pct 5/CD )/pct ./pct
+The/AT sequence/NN of/IN equations/NNS (/pct 6/CD )/pct can/MD be/BE solved/VBN for/IN Af/NN when/WRB Af/NN is/BEZ known/VBN ,/pct and/CC clearly/RB Af/NN ,/pct the/AT maximization/NN being/BEG over/IN all/ABN admissible/JJ Af/NN ./pct
+The/AT set/NN of/IN equations/NNS (/pct 5/CD )/pct ,/pct (/pct 6/CD )/pct ,/pct and/CC the/AT starting/VBG equation/NN (/pct 7/CD )/pct is/BEZ of/IN a/AT recursive/JJ type/NN well/RB suited/VBN to/IN programming/VBG on/IN the/AT digital/JJ computer/NN ./pct
+In/IN finding/VBG the/AT optimal/JJ R-stage/NN policy/NN from/IN that/DT of/IN Af/NN stages/NNS ,/pct only/RB the/AT function/NN Af/NN is/BEZ needed/VBN ./pct
+When/WRB Af/NN has/HVZ been/BEN found/VBN it/PPS may/MD be/BE transferred/VBN into/IN the/AT storage/NN location/NN of/IN Af/NN and/CC the/AT whole/JJ calculation/NN repeated/VBN ./pct
+We/PPSS also/RB see/VB how/WRB the/AT results/NNS may/MD be/BE presented/VBN ,/pct although/CS if/CS n/NN ,/pct the/AT number/NN of/IN state/NN variables/NNS ,/pct is/BEZ large/JJ any/DTI tabulation/NN will/MD become/VB cumbersome/JJ ./pct
+A/AT table/NN or/CC set/NN of/IN tables/NNS may/MD be/BE set/VBN out/RP as/CS in/IN Table/NN 2.1/CD ./pct
+To/TO extract/VB the/AT optimal/JJ R-stage/NN policy/NN with/IN respect/NN to/IN the/AT feed/NN state/NN Af/NN ,/pct we/PPSS enter/VB section/NN R/NN of/IN this/DT table/NN at/IN the/AT state/NN Af/NN and/CC find/VB immediately/RB from/IN the/AT last/AP column/NN the/AT maximum/JJ value/NN of/IN the/AT objective/JJ function/NN ./pct
+In/IN the/AT third/OD column/NN is/BEZ given/VBN the/AT optimal/JJ policy/NN for/IN stage/NN R/NN ,/pct and/CC in/IN the/AT fourth/OD ,/pct the/AT resulting/VBG state/NN of/IN the/AT stream/NN when/WRB this/DT policy/NN is/BEZ used/VBN ./pct
+Since/CS by/IN the/AT principle/NN of/IN optimality/NN the/AT remaining/VBG stages/NNS use/VB an/AT optimal/JJ Af-stage/NN policy/NN with/IN respect/NN to/IN Af/NN ,/pct we/PPSS may/MD enter/VB section/NN Af/NN of/IN the/AT table/NN at/IN this/DT state/NN Af/NN and/CC read/VB off/IN the/AT optimal/JJ policy/NN for/IN stage/NN Af/NN and/CC the/AT resulting/VBG state/NN Af/NN ./pct
+Proceeding/VBG in/IN this/DT way/NN up/IN the/AT table/NN we/PPSS extract/VB the/AT complete/JJ optimal/JJ policy/NN and/CC ,/pct if/CS it/PPS is/BEZ desired/VBN ,/pct we/PPSS can/MD check/VB on/IN Af/NN by/IN evaluating/VBG Af/NN at/IN the/AT last/AP stage/NN ./pct
+It/PPS may/MD be/BE that/CS the/AT objective/JJ function/NN depends/VBZ not/NEG only/RB on/IN Af/NN but/CC also/RB on/IN Af/NN ,/pct as/CS when/WRB the/AT cost/NN of/IN the/AT operating/VBG policy/NN is/BEZ considered/VBN ./pct
+A/AT moment's/NNg reflection/NN shows/VBZ that/CS the/AT above/JJ algorithm/NN and/CC presentation/NN work/VB equally/QL well/RB in/IN this/DT case/NN ./pct
+A/AT form/NN of/IN objective/JJ function/NN that/WPO we/PPSS shall/MD often/RB have/HV occasion/NN to/TO consider/VB is/BEZ Af/NN ./pct
+Here/RB P/NP represents/VBZ the/AT value/NN of/IN the/AT stream/NN in/IN state/NN P/NP and/CC Q/NP the/AT cost/NN of/IN operating/VBG the/AT stage/NN with/IN conditions/NNS Q/NP ./pct
+Hence/RB P/NN is/BEZ the/AT increase/NN in/IN value/NN of/IN the/AT stream/NN minus/IN the/AT cost/NN of/IN operation/NN ,/pct that/DT is/BEZ ,/pct the/AT net/JJ profit/NN ./pct
+If/CS Af/NN denotes/VBZ the/AT net/NN profit/NN from/IN stage/NN R/NP and/CC Af/NN ,/pct then/RB the/AT principle/NN of/IN optimality/NN gives/VBZ Af/NN ./pct
+This/DT sequence/NN of/IN equations/NNS may/MD be/BE started/VBN with/IN the/AT remark/NN that/CS with/IN no/AT process/NN Af/NN there/EX is/BEZ no/AT profit/NN ,/pct i.e./RB ,/pct Af/NN ./pct
+2.3/CD the/AT discrete/JJ stochastic/JJ process/NN
+The/AT process/NN in/IN which/WDT the/AT outcome/NN of/IN any/DTI one/CD stage/NN is/BEZ known/VBN only/RB statistically/RB is/BEZ also/RB of/IN interest/NN ,/pct although/CS for/IN chemical/NN reactor/NN design/NN it/PPS is/BEZ not/NEG as/QL important/JJ as/CS the/AT deterministic/JJ process/NN ./pct
+In/IN this/DT case/NN the/AT stage/NN R/NP operating/VBG with/IN conditions/NNS Af/NN transforms/VBZ the/AT state/NN of/IN the/AT stream/NN from/IN Af/NN to/IN Af/NN ,/pct but/CC only/RB the/AT probability/NN distribution/NN of/IN Af/NN is/BEZ known/VBN ./pct
+This/DT is/BEZ specified/VBN by/IN a/AT distribution/NN function/NN Af/NN such/JJ that/CS the/AT probability/NN that/CS Af/NN lies/VBZ in/IN some/DTI region/NN D/NN of/IN the/AT stage/NN space/NN is/BEZ Af/NN ./pct
+We/PPSS cannot /None now/RB speak/VB of/IN maximizing/VBG the/AT value/NN of/IN the/AT objective/JJ function/NN ,/pct since/CS this/DT function/NN is/BEZ now/RB known/VBN only/RB in/IN a/AT probabilistic/JJ sense/NN ./pct
+We/PPSS can/MD ,/pct however/RB ,/pct maximize/VB its/PPg expected/VBN value/NN ./pct
+For/IN a/AT single/AP stage/NN we/PPSS may/MD define/VB Af/NN where/WRB the/AT maximization/NN is/BEZ by/IN choice/NN of/IN Af/NN ./pct
+We/PPSS thus/RB have/HV an/AT optimal/JJ policy/NN which/WDT maximizes/VBZ the/AT expected/VBN value/NN of/IN the/AT objective/JJ function/NN for/IN a/AT given/VBN Af/NN ./pct
+If/CS we/PPSS consider/VB a/AT process/NN in/IN which/WDT the/AT outcome/NN of/IN one/CD stage/NN is/BEZ known/VBN before/IN passage/NN to/IN the/AT next/AP ,/pct then/RB the/AT principle/NN of/IN optimality/NN shows/VBZ that/CS the/AT policy/NN in/IN subsequent/JJ stages/NNS should/MD be/BE optimal/JJ with/IN respect/NN to/IN the/AT outcome/NN of/IN the/AT first/OD ./pct
+Then/RB Af/NN ,/pct the/AT maximization/NN being/BEG over/IN all/ABN admissible/JJ Af/NN and/CC the/AT integration/NN over/IN the/AT whole/NN of/IN stage/NN space/NN ./pct
+The/AT type/NN of/IN presentation/NN of/IN results/NNS used/VBN in/IN the/AT deterministic/JJ process/NN may/MD be/BE used/VBN here/RB ,/pct except/IN that/CS now/RB the/AT fourth/OD column/NN is/BEZ redundant/JJ ./pct
+The/AT third/OD column/NN gives/VBZ the/AT optimal/JJ policy/NN ,/pct but/CC we/PPSS must/MD wait/VB to/TO see/VB the/AT outcome/NN of/IN stage/NN R/NN and/CC enter/VB the/AT preceding/VBG section/NN of/IN the/AT table/NN at/IN this/DT state/NN ./pct
+The/AT discussion/NN of/IN the/AT optimal/JJ policy/NN when/WRB the/AT outcome/NN of/IN one/CD stage/NN is/BEZ not/NEG known/VBN before/CS passing/VBG to/IN the/AT next/AP is/BEZ a/AT very/QL much/QL more/QL difficult/JJ matter/NN ./pct
+2.4/CD the/AT continuous/JJ deterministic/JJ process/NN
+In/IN many/AP cases/NNS it/PPS is/BEZ not/NEG possible/JJ to/TO divide/VB the/AT process/NN into/IN a/AT finite/JJ number/NN of/IN discrete/JJ stages/NNS ,/pct since/CS the/AT state/NN of/IN the/AT stream/NN is/BEZ transformed/VBN in/IN a/AT continuous/JJ manner/NN through/IN the/AT process/NN ./pct
+We/PPSS replace/VB r/NN ,/pct the/AT number/NN of/IN the/AT stage/NN from/IN the/AT end/NN of/IN the/AT process/NN ,/pct by/IN t/NN ,/pct a/AT continuous/JJ variable/JJ which/WDT measures/VBZ the/AT ``/pct distance/NN ''/pct of/IN the/AT point/NN considered/VBN from/IN the/AT end/NN of/IN the/AT process/NN ./pct
+The/AT word/NN distance/NN is/BEZ used/VBN here/RB in/IN a/AT rather/QL general/JJ sense/NN ;/pct ;/pct
+it/PPS may/MD in/IN fact/NN be/BE the/AT time/NN that/WPS will/MD elapse/VB before/IN the/AT end/NN of/IN the/AT process/NN ./pct
+If/CS T/NN is/BEZ the/AT total/JJ ``/pct length/NN ''/pct of/IN the/AT process/NN ,/pct its/PPg feed/NN state/NN may/MD be/BE denoted/VBN by/IN a/AT vector/NN p(T)/NN and/CC the/AT product/NN state/NN by/IN p(Q)/NN ./pct
+P/NP denotes/VBZ the/AT state/NN at/IN any/DTI point/NN T/NP and/CC Q/NP the/AT vector/NN of/IN operating/VBG variables/NNS there/RB ./pct

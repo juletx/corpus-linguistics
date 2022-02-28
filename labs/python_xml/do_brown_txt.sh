@@ -1,7 +1,7 @@
 #!/bin/bash
 
-inDir=brown_tei
-outDir=brown_txt
+inDir=../../data/brown_tei
+outDir=../../data/brown_txt
 
 if [ ! -d ${outDir} ] ; then
     mkdir ${outDir}

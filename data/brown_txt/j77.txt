@@ -1,0 +1,122 @@
+Temperature/NN of/IN the/AT wash/NN and/CC rinse/NN waters/NNS is/BEZ maintained/VBN at/IN 85/CD -/pct 90-degrees-F/NNS (/pct 29/NIL -/pct 32-degrees-C/NIL )/pct ./pct
+The/AT top/JJS rolls/NNS are/BER loaded/VBN with/IN 40/CD lbs./NNS ./pct
+Sixty/CD lbs./NNS loading/NN is/BEZ possible/JJ but/CC 40/CD lbs./NNS is/BEZ adequate/JJ ./pct
+The/AT suds/NNS box/NN drain/NN is/BEZ arranged/VBN at/IN the/AT start/NN to/TO deliver/VB into/IN the/AT raised/VBN main/JJS drain/NN pipe/NN (/pct thus/RB returning/VBG suds/NNS to/IN soap/NN box/NN )/pct and/CC the/AT machine/NN is/BEZ started/VBN ./pct
+The/AT 160-ml./JJ bath/NN containing/VBG the/AT calculated/VBN amount/NN of/IN detergent/NN is/BEZ applied/VBN slowly/RB and/CC directly/RB to/IN the/AT running/VBG specimen/NN ./pct
+Washing/VBG is/BEZ continued/VBN for/IN 30/CD minutes/NNS or/CC for/IN a/AT period/NN of/IN time/NN sufficient/JJ to/TO allow/VB 100/CD nips/NNS or/CC passes/NNS through/IN the/AT squeeze/NN rolls/NNS ./pct
+At/IN the/AT conclusion/NN of/IN the/AT washing/NN ,/pct 8/CD liters/NNS of/IN water/NN at/IN 90-degrees-F/NNS (/pct 32*0C./NIL )/pct are/BER automatically/RB metered/VBN from/IN the/AT rinse/NN reservoir/NN to/IN the/AT washing/VBG tubs/NNS ,/pct 4/CD liters/NNS to/IN each/DT tub/NN ./pct
+This/DT operation/NN requires/VBZ from/IN 10/CD to/IN 12/CD minutes/NNS ./pct
+During/IN the/AT rinsing/VBG operation/NN the/AT volume/NN in/IN the/AT tubs/NNS gradually/RB increases/VBZ until/CS overflow/NN from/IN the/AT main/JJS drain/NN begins/VBZ ./pct
+At/IN this/DT point/NN the/AT drains/NNS are/BER readjusted/VBN so/CS that/CS the/AT suds/NNS box/NN drain/NN will/MD discharge/VB directly/RB into/IN the/AT waste/NN line/NN and/CC the/AT main/JJS tub/NN drain/NN is/BEZ set/VBN at/IN the/AT 2-1/2/CD mark/NN on/IN the/AT drain/NN gauge/NN ./pct
+When/WRB all/ABN of/IN the/AT rinse/NN water/NN has/HVZ passed/VBN from/IN the/AT reservoir/NN to/IN the/AT tubs/NNS the/AT main/JJS drains/NNS are/BER lowered/VBN to/TO permit/VB complete/JJ draining/NN of/IN the/AT tubs/NNS ./pct
+The/AT run/NN is/BEZ complete/JJ when/WRB all/ABN the/AT water/NN has/HVZ drained/VBN off/RP into/IN the/AT waste/NN line/NN ./pct
+By/IN this/DT procedure/NN rinsing/VBG progresses/VBZ in/IN two/CD stages/NNS ,/pct first/RB by/IN dilution/NN until/IN the/AT time/NN when/WRB the/AT drains/NNS are/BER separated/VBN and/CC thereafter/RB by/IN displacement/NN of/IN the/AT soil-bearing/JJ liquor/NN by/IN clean/JJ rinse/NN water/NN ,/pct since/CS soiled/VBN liquor/NN squeezed/VBN from/IN the/AT specimens/NNS at/IN the/AT nip/NN passes/VBZ directly/RB to/IN waste/NN from/IN the/AT suds/NNS box/NN drains/NNS ./pct
+This/DT method/NN of/IN rinsing/VBG appears/VBZ to/TO produce/VB maximum/JJ cleansing/NN with/IN minimum/JJ soil/NN redeposition/NN ./pct
+Suggested/VBN evaluation/NN and/CC classification/NN
+Evaluation/NN may/MD be/BE made/VBN on/IN either/CC a/AT soil-removal/NN or/CC a/AT grease-removal/NN basis/NN as/CS desired/VBN ./pct
+A/AT reflectance-measuring/JJ instrument/NN may/MD be/BE desirable/JJ to/TO measure/VB cleaning/VBG ,/pct whereas/CS Soxhlet/NP extraction/NN is/BEZ necessary/JJ to/TO measure/VB grease/NN removal/NN ./pct
+Purpose/NN and/CC scope/NN
+This/DT test/NN method/NN is/BEZ intended/VBN for/IN determining/VBG the/AT dimensional/JJ changes/NNS of/IN woven/VBN or/CC knitted/VBN fabrics/NNS ,/pct made/VBN of/IN fibers/NNS other/AP than/CS wool/NN ,/pct to/TO be/BE expected/VBN when/WRB the/AT cloth/NN is/BEZ subjected/VBN to/IN laundering/VBG procedures/NNS commonly/RB used/VBN in/IN the/AT commercial/JJ laundry/NN and/CC the/AT home/NN ./pct
+Four/CD washing/VBG test/NN procedures/NNS are/BER established/VBN ,/pct varying/VBG in/IN severity/NN from/IN very/QL severe/JJ to/IN very/QL mild/JJ ,/pct and/CC are/BER intended/VBN to/TO cover/VB the/AT range/NN of/IN practical/JJ washing/VBG from/IN commercial/JJ procedure/NN to/IN hand/NN washing/NN ./pct
+Five/CD drying/VBG test/NN procedures/NNS are/BER established/VBN to/TO cover/VB the/AT range/NN of/IN drying/VBG techniques/NNS used/VBN in/IN the/AT home/NN and/CC commercial/JJ laundry/NN ./pct
+Three/CD methods/NNS for/IN determining/VBG the/AT dimensional/JJ restorability/NN characteristics/NNS are/BER established/VBN for/IN those/DTS textiles/NNS which/WDT require/VB restoration/NN by/IN ironing/VBG or/CC wearing/VBG after/IN laundering/VBG ./pct
+These/DTS tests/NNS are/BER not/NEG accelerated/VBN and/CC must/MD be/BE repeated/VBN to/TO evaluate/VB dimensional/JJ changes/NNS after/IN repeated/VBN launderings/NNS ./pct
+Table/NN 1/CD ,/pct summarizes/VBZ all/ABN of/IN the/AT various/AP washing/VBG ,/pct drying/VBG ,/pct and/CC restoration/NN procedures/NNS available/JJ ./pct
+The/AT person/NN using/VBG these/DTS tests/NNS must/MD determine/VB which/WDT combination/NN of/IN procedures/NNS is/BEZ practical/JJ for/IN any/DTI specific/JJ item/NN in/IN order/NN to/TO evaluate/VB the/AT dimensional/JJ changes/NNS of/IN textile/NN fabrics/NNS or/CC garments/NNS after/IN laundering/VBG procedures/NNS commonly/RB used/VBN in/IN the/AT home/NN or/CC commercial/JJ laundry/NN ./pct
+It/PPS is/BEZ possible/JJ to/TO identify/VB the/AT test/NN procedure/NN completely/RB with/IN a/AT code/NN consisting/VBG of/IN a/AT Roman/JJ Numeral/NN ,/pct a/AT letter/NN ,/pct and/CC an/AT Arabic/JJ number/NN ./pct
+For/IN example/NN Test/NN 3/CD ,/pct E/NN 1/CD refers/VBZ to/IN a/AT specimen/NN which/WDT has/HVZ been/BEN washed/VBN by/IN procedure/NN ``/pct 3/CD (/pct ''/pct (/pct at/IN 160-degrees-F/NNS )/pct for/IN a/AT total/NN of/IN 60/CD minutes/NNS in/IN the/AT machine/NN ,/pct has/HVZ been/BEN dried/VBN in/IN a/AT tumble/NN dryer/NN by/IN procedure/NN ``/pct E/NN ''/pct and/CC has/HVZ been/BEN subjected/VBN to/IN restorative/JJ forces/NNS on/IN the/AT Tension/NN Presser/NN by/IN procedure/NN ``/pct 1/CD ''/pct ./pct
+Principle/NN
+A/AT specimen/NN or/CC garment/NN is/BEZ washed/VBN in/IN a/AT cylindrical/JJ reversing/VBG wash/NN wheel/NN ,/pct dried/VBN and/CC subjected/VBN to/IN restorative/JJ forces/NNS where/WRB necessary/JJ ./pct
+Temperature/NN and/CC time/NN of/IN agitation/NN in/IN the/AT wash/NN wheel/NN are/BER varied/VBN to/TO obtain/VB different/JJ degrees/NNS of/IN severity/NN ./pct
+Drying/VBG procedures/NNS and/CC application/NN of/IN restorative/JJ force/NN procedures/NNS are/BER varied/VBN to/TO conform/VB with/IN end-use/JJ handling/NN during/IN home/NN or/CC commercial/JJ laundering/NN ./pct
+Distances/NNS marked/VBN on/IN the/AT specimen/NN in/IN warp/NN and/CC filling/VBG directions/NNS (/pct or/CC wales/NNS and/CC courses/NNS for/IN knitted/VBN fabrics/NNS )/pct are/BER measured/VBN before/IN and/CC after/IN laundering/VBG ./pct
+Apparatus/NN and/CC materials/NNS
+wash/NN wheel/NN --/pct cylindrical/JJ wash/NN wheel/NN of/IN the/AT reversing/VBG type/NN ./pct
+The/AT wheel/NN (/pct cage/NN )/pct is/BEZ 20/CD to/IN 24/CD inches/NNS inside/JJ diameter/NN and/CC 20/CD to/IN 24/CD inches/NNS inside/JJ length/NN ./pct
+There/EX are/BER three/CD fins/NNS each/DT approximately/RB three/CD inches/NNS wide/JJ extending/VBG the/AT full/JJ length/NN of/IN the/AT inside/NN of/IN the/AT wheel/NN ./pct
+One/CD fin/NN is/BEZ located/VBN every/AT 120-degrees/NNS around/IN the/AT inside/JJ diameter/NN of/IN the/AT wheel/NN ./pct
+The/AT wash/NN wheel/NN rotates/VBZ at/IN a/AT speed/NN of/IN 30/CD revolutions/NNS per/IN minute/NN ,/pct making/VBG five/CD to/IN ten/CD revolutions/NNS before/IN reversing/VBG ./pct
+The/AT water/NN inlets/NNS are/BER large/JJ enough/QLP to/TO permit/VB filling/VBG the/AT wheel/NN to/IN an/AT eight-inch/JJ level/NN in/IN less/AP than/IN two/CD minutes/NNS ,/pct and/CC the/AT outlet/NN is/BEZ large/JJ enough/QLP to/TO permit/VB discharge/NN of/IN this/DT same/AP amount/NN of/IN water/NN in/IN less/AP than/IN two/CD minutes/NNS ./pct
+The/AT machine/NN is/BEZ equipped/VBN with/IN a/AT pipe/NN for/IN injecting/VBG live/JJ steam/NN that/WPS is/BEZ capable/JJ of/IN raising/VBG the/AT temperature/NN of/IN water/NN at/IN an/AT eight-inch/NN level/NN from/IN 110-degrees/NNS to/IN 140-degrees-F/NNS (/pct 38*0/NIL to/NIL 60*0C./NIL )/pct in/IN less/AP than/IN two/CD minutes/NNS ./pct
+The/AT machine/NN shall/MD contain/VB an/AT opening/NN for/IN the/AT insertion/NN of/IN a/AT thermometer/NN or/CC other/AP equivalent/JJ equipment/NN for/IN determining/VBG the/AT temperature/NN of/IN the/AT water/NN during/IN the/AT washing/NN and/CC rinsing/VBG procedures/NNS ./pct
+It/PPS is/BEZ equipped/VBN with/IN an/AT outside/JJ water/NN gauge/NN that/WPS will/MD indicate/VB the/AT level/NN of/IN the/AT water/NN in/IN the/AT wheel/NN ./pct
+A/AT domestic/JJ automatic/JJ washer/NN that/WPS will/MD give/VB equivalent/JJ results/NNS may/MD be/BE used/VBN ./pct
+The/AT wash/NN wheel/NN is/BEZ the/AT equipment/NN preferred/VBN for/IN the/AT test/NN ./pct
+Pressing/VBG equipment/NN --/pct flat-bed/NN press/NN measuring/VBG 24/CD inches/NNS by/IN 50/CD inches/NNS or/CC larger/JJR ./pct
+Any/DTI flat-bed/NN press/NN capable/JJ of/IN pressing/VBG a/AT specimen/NN 22/CD inches/NNS square/JJ may/MD be/BE used/VBN as/CS an/AT alternative/NN ./pct
+The/AT flat-bed/NN press/NN is/BEZ maintained/VBN at/IN a/AT temperature/NN not/NEG less/AP than/IN 275-degrees-F/NNS (/pct 135*0C./NIL )/pct ./pct
+Dryer/NN --/pct dryer/NN of/IN the/AT rotary/JJ tumble/NN type/NN ,/pct having/HVG a/AT cylindrical/JJ basket/NN approximately/RB 30/CD inches/NNS in/IN diameter/NN and/CC 24/CD inches/NNS in/IN length/NN and/CC rotating/VBG at/IN approximately/RB 35/CD r.p.m./NNS ./pct
+The/AT dryer/NN is/BEZ provided/VBN with/IN a/AT means/NN of/IN maintaining/VBG a/AT drying/VBG temperature/NN of/IN 120-degrees/NNS -/pct 160-degrees-F/NNS (/pct 49*0/NIL -/pct 71*&0C./NIL )/pct ,/pct measured/VBN in/IN the/AT exhaust/NN vent/NN as/QL close/RB as/CS possible/JJ to/IN the/AT drying/VBG chamber/NN ./pct
+Screen/NN drying/VBG racks/NNS --/pct 16-mesh/JJ screening/NN (/pct Saran/NP or/CC Velon/NP )/pct ./pct
+Drying/VBG room/NN --/pct facilities/NNS for/IN drip-/NN or/CC line-drying/NN ./pct
+Extractor/NN --/pct centrifugal/JJ extractor/NN of/IN the/AT laundry-type/NN with/IN a/AT perforated/VBN basket/NN ,/pct approximately/RB 11/CD inches/NNS deep/JJ by/IN 17/CD inches/NNS in/IN diameter/NN ,/pct with/IN an/AT operating/VBG speed/NN of/IN approximately/RB 1,500/CD r.p.m./NNS ./pct
+Pen/NN and/CC ink/NN ,/pct indelible/JJ --/pct or/CC other/AP suitable/JJ marking/VBG device/NN ./pct
+measuring/NIL scale/NIL --/pct
+Soap/NN ,/pct neutral/JJ chip/NN --/pct fed./JJ Spec./NN 566/CD or/CC Aj/NN ./pct
+Softener/NN --/pct e.g./RB sodium/NN metaphosphate/NN or/CC sodium/NN hexametaphosphate/NN (/pct if/CS needed/VBN in/IN hard/JJ water/NN areas/NNS )/pct ./pct
+Detergent/NN ,/pct synthetic/JJ --/pct alkylarysulfonate/NN type/NN ./pct
+Flatiron/NN ,/pct electric/JJ --/pct approximately/RB 3/CD lb./NN
+tension/NN presser/NN --/pct consisting/VBG of/IN a/AT padded/VBN ironing/VBG board/NN from/IN which/WDT extend/VB clamping/VBG members/NNS on/IN all/ABN four/CD sides/NNS ./pct
+Two/CD of/IN the/AT clamps/NNS are/BER fixed/VBN to/IN the/AT edges/NNS of/IN the/AT board/NN whereas/CS two/CD clamps/NNS travel/VB on/IN guide/NN rails/NNS opposite/IN the/AT fixed/VBN clamps/NNS ./pct
+The/AT movable/JJ clamps/NNS travel/VB on/IN carriages/NNS which/WDT ride/VB the/AT rails/NNS and/CC are/BER drawn/VBN by/IN dead-weight/NN loading/VBG ./pct
+Sets/NNS of/IN weights/NNS are/BER provided/VBN so/CS that/CS the/AT load/NN can/MD be/BE selected/VBN in/IN the/AT range/NN of/IN 1/2/CD to/IN 4/CD pounds/NNS ./pct
+A/AT perforated/VBN aluminum/NN plate/NN ,/pct used/VBN to/TO provide/VB the/AT drying/VBG surface/NN ,/pct is/BEZ heated/VBN by/IN means/NN of/IN a/AT flatiron/NN ./pct
+A/AT special/JJ template/NN is/BEZ furnished/VBN with/IN the/AT apparatus/NN to/TO enable/VB marking/VBG a/AT specimen/NN for/IN a/AT central/JJ measuring/VBG area/NN and/CC the/AT fabric/NN extensions/NNS to/IN the/AT clamps/NNS (/pct see/VB Fig./NN 2/CD )/pct ./pct
+Knit/NN shrinkage/NN gauge/NN --/pct consisting/VBG of/IN a/AT set/NN of/IN 20/CD mounting/VBG pins/NNS set/VBN in/IN guides/NNS in/IN radial/JJ slots/NNS (/pct Fig./NN 1/CD )/pct ./pct
+Each/DT pin/NN is/BEZ individually/RB sprung/VBN to/IN a/AT tensioning/VBG member/NN which/WDT is/BEZ driven/VBN outwardly/RB in/IN the/AT slot/NN ./pct
+The/AT springs/NNS have/HV an/AT extension/NN of/IN 1/CD inch/NN at/IN Af/NN tension/NN ./pct
+The/AT tensioning/VBG members/NNS have/HV a/AT common/JJ drive/NN so/CS that/CS the/AT application/NN of/IN restorative/JJ force/NN takes/VBZ place/NN simultaneously/RB in/IN all/ABN directions/NNS in/IN the/AT plane/NN of/IN the/AT test/NN specimen/NN ./pct
+The/AT minimum/JJ diameter/NN of/IN the/AT pin/NN frame/NN in/IN the/AT collapsed/VBN state/NN is/BEZ 11/CD inches/NNS and/CC the/AT maximum/JJ diameter/NN in/IN the/AT freely/RB extended/VBN state/NN (/pct unloaded/VBN )/pct is/BEZ 14/CD inches/NNS ./pct
+The/AT surface/NN of/IN the/AT apparatus/NN in/IN contact/NN with/IN the/AT test/NN specimen/NN is/BEZ uncluttered/JJ and/CC polished/VBN so/CS as/CS to/TO be/BE as/QL friction-free/JJ as/QL possible/JJ ./pct
+Test/NN specimens/NNS
+The/AT preparation/NN of/IN test/NN specimens/NNS will/MD vary/VB depending/IN upon/IN the/AT type/NN of/IN dimensional/JJ restorability/NN procedure/NN (/pct if/CS any/DTI )/pct to/TO be/BE used/VBN ./pct
+Three/CD specimens/NNS for/IN each/DT sample/NN to/TO be/BE tested/VBN are/BER required/VBN in/IN order/NN to/TO arrive/VB at/IN a/AT satisfactory/JJ average/NN of/IN performance/NN ./pct
+This/DT is/BEZ especially/QL true/JJ for/IN knitted/VBN fabrics/NNS ./pct
+Specimens/NNS are/BER allowed/VBN to/TO reach/VB moisture/NN equilibrium/NN with/IN a/AT standard/JJ atmosphere/NN of/IN Af/NN and/CC Af/NN and/CC then/RB laid/VBN out/RP without/IN tension/NN on/IN a/AT flat/JJ ,/pct polished/VBN surface/NN ,/pct care/NN being/BEG taken/VBN that/CS the/AT fabric/NN is/BEZ free/JJ from/IN wrinkles/NNS or/CC creases/NNS ./pct
+Fabrics/NNS that/WPS are/BER badly/RB distorted/VBN in/IN their/PPg unlaundered/JJ state/NN due/RB to/IN faulty/JJ finishing/NN may/MD give/VB deceptive/JJ dimensional/JJ change/NN results/NNS when/WRB laundered/VBN by/IN any/DTI procedure/NN ./pct
+This/DT also/RB holds/VBZ true/JJ if/CS restorative/JJ forces/NNS are/BER applied/VBN ./pct
+Therefore/RB ,/pct it/PPS is/BEZ recommended/VBN that/CS in/IN such/JJ cases/NNS the/AT sample/NN be/BE replaced/VBN ,/pct or/CC if/CS used/VBN ,/pct the/AT results/NNS of/IN dimensional/JJ change/NN or/CC dimensional/JJ restorability/NN tests/NNS be/BE considered/VBN as/CS indicative/JJ only/RB ./pct
+Generally/RB ,/pct it/PPS is/BEZ necessary/JJ to/TO mark/VB distances/NNS on/IN a/AT specimen/NN (/pct or/CC garment/NN )/pct in/IN both/ABX lengthwise/JJ and/CC widthwise/JJ directions/NNS and/CC to/TO measure/VB before/IN and/CC after/IN laundering/VBG ./pct
+The/AT distances/NNS may/MD be/BE marked/VBN with/IN indelible/JJ ink/NN and/CC a/AT fine-point/NN pen/NN ,/pct by/IN sewing/VBG fine/JJ threads/NNS into/IN the/AT fabric/NN ,/pct or/CC by/IN a/AT specially/RB designed/VBN stamping/VBG machine/NN ./pct
+The/AT marked/VBN distances/NNS are/BER parallel/RB to/IN the/AT respective/JJ yarns/NNS ./pct
+Usually/RB ,/pct the/AT greater/JJR the/AT original/JJ distances/NNS marked/VBN ,/pct the/AT greater/JJR will/MD be/BE the/AT accuracy/NN of/IN the/AT test/NN ./pct
+Distances/NNS of/IN less/AP than/IN 10/CD inches/NNS are/BER not/NEG recommended/VBN ./pct
+Woven/VBN fabrics/NNS to/TO be/BE dried/VBN by/IN procedure/NN b/NN (/pct flat-bed/NN pressed/VBN )/pct or/CC restored/VBN by/IN procedure/NN 3/CD (/pct hand/NN ironing/VBG )/pct :/pct
+The/AT specimen/NN of/IN fabric/NN is/BEZ a/AT rectangle/NN at/IN least/AP 22/CD by/IN 22/CD inches/NNS ,/pct except/IN for/IN cloth/NN narrower/JJR than/CS 22/CD inches/NNS ,/pct in/IN which/WDT case/NN the/AT specimen/NN is/BEZ the/AT entire/JJ width/NN of/IN the/AT fabric/NN ./pct
+Three/CD distances/NNS ,/pct each/DT at/IN least/AP 18/CD inches/NNS ,/pct are/BER measured/VBN and/CC marked/VBN off/RP parallel/RB to/IN each/DT of/IN the/AT warp/NN and/CC filling/VBG directions/NNS ./pct
+The/AT distances/NNS are/BER at/IN least/AP two/CD inches/NNS from/IN any/DTI edge/NN of/IN the/AT specimen/NN ./pct
+Woven/VBN or/CC warp/NN knitted/VBN fabrics/NNS to/TO be/BE subjected/VBN to/IN restorative/JJ procedure/NN 1/CD (/pct tension/NN presser/NN )/pct ./pct
+Each/DT specimen/NN is/BEZ at/IN least/AP 25/CD inches/NNS by/IN 25/CD inches/NNS ./pct
+Place/VB the/AT template/NN (/pct Fig./NN 2/CD )/pct on/IN the/AT fabric/NN so/CS that/CS the/AT sides/NNS of/IN the/AT 10/CD inch/NN square/NN cut/VBN out/RP of/IN the/AT template/NN are/BER parallel/RB to/IN the/AT warp/NN and/CC filling/NN for/IN woven/VBN fabrics/NNS ,/pct or/CC the/AT wales/NNS and/CC courses/NNS for/IN knitted/VBN fabrics/NNS ,/pct and/CC so/CS that/CS the/AT same/AP amount/NN of/IN fabric/NN extends/VBZ beyond/IN the/AT edges/NNS of/IN the/AT template/NN on/IN all/ABN sides/NNS ./pct
+Mark/VB the/AT specimen/NN at/IN the/AT outer/JJ edges/NNS of/IN the/AT template/NN with/IN pen/NN and/CC indelible/JJ ink/NN ;/pct ;/pct
+also/RB place/VB three/CD dots/NNS on/IN the/AT specimen/NN at/IN each/DT side/NN of/IN the/AT 10/CD inch/NN square/NN ,/pct one/CD dot/NN at/IN midpoint/NN ,/pct and/CC one/CD at/IN approximately/RB 1/2/CD inch/NN from/IN each/DT corner/NN ./pct
+Measure/VB and/CC record/VB ./pct
+Circular/JJ knitted/VBN fabrics/NNS to/TO be/BE subjected/VBN to/IN restorative/JJ procedure/NN 2/CD ,/pct (/pct knit/NN shrinkage/NN gauge/NN )/pct ./pct
+Each/DT specimen/NN is/BEZ approximately/RB 16/CD inches/NNS square/JJ ./pct
+The/AT markings/NNS consist/VB of/IN a/AT centrally/RB located/VBN 10/CD inch/NN diameter/NN measuring/VBG circle/NN and/CC a/AT 14/CD inch/NN diameter/NN circle/NN of/IN 20/CD dots/NNS equidistantly/RB spaced/VBN (/pct See/VB Figure/NN 1/CD )/pct ./pct
+Garments/NNS ./pct
+Critical/JJ measurements/NNS in/IN length/NN and/CC width/NN directions/NNS should/MD be/BE taken/VBN before/IN and/CC after/IN washing/VBG ,/pct drying/VBG ,/pct and/CC restorative/JJ procedures/NNS ./pct
+Procedure/NN
+washing/VBG --/pct
+The/AT washing/VBG procedures/NNS are/BER summarized/VBN in/IN Table/NN 2/CD ./pct
+Place/VB the/AT specimen/NN in/IN the/AT wash/NN wheel/NN with/IN sufficient/JJ other/AP similar/JJ fabric/NN to/TO make/VB a/AT dry/JJ load/NN of/IN Af/NN pounds/NNS ./pct
+Start/VB the/AT wash/NN wheel/NN and/CC note/VB the/AT time/NN ./pct
+Immediately/RB add/VB water/NN at/IN 100/CD -/pct 105-degrees-F/NNS (/pct 38/NIL -/pct 43*0C./NIL )/pct to/IN the/AT wheel/NN to/IN a/AT level/NN of/IN Af/NN inches/NNS ;/pct ;/pct
+this/DT level/NN will/MD be/BE increased/VBN by/IN condensed/VBN steam/NN ./pct
+When/WRB this/DT water/NN level/NN has/HVZ been/BEN reached/VBN ,/pct inject/VB steam/NN into/IN the/AT wheel/NN until/CS the/AT temperature/NN reaches/VBZ that/DT shown/VBN in/IN Column/NN B/NP of/IN Table/NN 2/CD ./pct
+Add/VB sufficient/JJ soap/NN (/pct and/CC softener/NN if/CS required/VBN to/TO counteract/VB hard/JJ water/NN )/pct to/TO furnish/VB a/AT good/JJ running/VBG suds/NNS ,/pct or/CC if/CS desired/VBN use/VB a/AT synthetic/JJ detergent/NN ./pct
+Test/NN 1/CD ,/pct
+--/pct Stop/VB the/AT wash/NN wheel/NN at/IN the/AT end/NN of/IN the/AT time/NN shown/VBN in/IN Column/NN A/NP of/IN Table/NN 2/CD ,/pct and/CC drain/VB ./pct
+Refill/VB the/AT machine/NN to/IN a/AT level/NN of/IN Af/NN inches/NNS with/IN water/NN at/IN 100/CD -/pct 109-degrees-F/NNS (/pct (/pct 38/NIL -/pct 43*0/NIL C./NIL )/pct and/CC start/VB the/AT machine/NN ./pct
+Inject/VB steam/NN ,/pct if/CS necessary/JJ ,/pct to/TO reach/VB the/AT temperature/NN shown/VBN in/IN Column/NN D/NP of/IN Table/NN 2/CD ./pct
+Again/RB stop/VB the/AT machine/NN at/IN the/AT end/NN of/IN the/AT time/NN shown/VBN in/IN Column/NN C/NP of/IN Table/NN 2/CD ./pct
+This/DT procedure/NN is/BEZ repeated/VBN for/IN the/AT second/OD rinse/NN ,/pct using/VBG the/AT temperatures/NNS and/CC time/NN shown/VBN in/IN Columns/NNS F/NP and/CC E/NP of/IN Table/NN 2/CD ./pct
+Tests/NNS 2/CD ,/pct 3/CD ,/pct ,/pct ,/pct and/CC 4/CD ./pct
+--/pct Run/VB the/AT machine/NN continuously/RB until/IN completion/NN of/IN the/AT test/NN ./pct
+Drain/VB off/RP the/AT soap/NN solution/NN of/IN the/AT suds/NNS cycle/NN at/IN such/ABL a/AT time/NN that/CS the/AT wheel/NN has/HVZ become/VBN substantially/RB empty/JJ of/IN soap/NN and/CC water/NN at/IN the/AT end/NN of/IN the/AT time/NN shown/VBN in/IN Column/NN A/NP of/IN Table/NN 2/CD ,/pct ,/pct measured/VBN from/IN the/AT time/NN the/AT wash/NN wheel/NN was/BEDZ started/VBN ./pct
+Refill/VB the/AT machine/NN to/IN a/AT level/NN of/IN Af/NN inches/NNS with/IN water/NN at/IN 100/CD -/pct 109-degrees-F/NNS (/pct 38/NIL -/pct 43*0C./NIL )/pct ./pct
+When/WRB this/DT water/NN level/NN has/HVZ been/BEN reached/VBN ,/pct inject/VB steam/NN until/CS the/AT temperature/NN is/BEZ that/DT shown/VBN in/IN Column/NN Aj/NP ./pct
+Drain/VB off/RP the/AT water/NN at/IN such/ABL a/AT time/NN that/CS the/AT wheel/NN has/HVZ become/VBN substantially/RB empty/JJ of/IN water/NN at/IN the/AT end/NN of/IN the/AT sum/NN of/IN the/AT times/NNS shown/VBN in/IN Columns/NNS A/NP and/CC C/NP ,/pct measured/VBN from/IN the/AT time/NN the/AT wash/NN wheel/NN was/BEDZ started/VBN ./pct
+Immediately/RB refill/VB to/IN a/AT level/NN of/IN Af/NN inches/NNS with/IN water/NN at/IN 100/CD -/pct 109-degrees-F/NNS (/pct 38/NIL -/pct 43*0C/NIL )/pct ./pct
+When/WRB this/DT water/NN level/NN has/HVZ been/BEN reached/VBN inject/VB steam/NN until/CS the/AT temperature/NN is/BEZ that/DT shown/VBN in/IN Column/NN Aj/NP ./pct
+Drain/VB off/RP the/AT water/NN at/IN such/ABL a/AT time/NN that/CS the/AT wheel/NN has/HVZ become/VBN substantially/RB empty/JJ of/IN water/NN at/IN the/AT end/NN of/IN the/AT sum/NN of/IN the/AT times/NNS shown/VBN in/IN Columns/NNS A/NP ,/pct C/NP ,/pct and/CC E/NN ,/pct measured/VBN from/IN the/AT time/NN the/AT wash/NN wheel/NN was/BEDZ started/VBN ./pct

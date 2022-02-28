@@ -1,0 +1,109 @@
+Broadway/NP
+the/AT unoriginals/NNS
+To/TO write/VB a/AT play/NN ,/pct the/AT dramatist/NN once/RB needed/VBD an/AT idea/NN plus/CC the/AT imagination/NN ,/pct the/AT knowledge/NN of/IN life/NN and/CC the/AT craft/NN to/TO develop/VB it/PPO ./pct
+Nowadays/RB ,/pct more/AP and/CC more/AP ,/pct all/ABN he/PPS needs/VBZ is/BEZ someone/PN else's/RBg book/NN ./pct
+To/TO get/VB started/VBN ,/pct he/PPS does/DOZ not/NEG scan/VB the/AT world/NN about/IN him/PPO ;/pct ;/pct
+he/PPS and/CC his/PPg prospective/JJ producer/NN just/RB read/VB the/AT bestseller/NN lists/NNS ./pct
+So/QL far/RB this/DT season/NN ,/pct Broadway's/NPg premieres/NNS have/HV included/VBN twice/RB as/QL many/AP adaptations/NNS and/CC imports/NNS as/CS original/JJ American/JJ stage/NN plays/NNS ./pct
+Best/JJT from/IN abroad/RB ./pct
+Of/IN straight/JJ dramas/NNS ,/pct there/EX are/BER All/ABN The/AT Way/NN Home/NR ,/pct which/WDT owes/VBZ much/AP of/IN its/PPg poetic/JJ power/NN to/IN the/AT James/NP Agee/NP novel/NN ,/pct A/AT Death/NN In/IN The/AT Family/NN ;/pct ;/pct
+The/AT Wall/NN ,/pct awkwardly/RB based/VBN on/IN the/AT John/NP Hersey/NP novel/NN ;/pct ;/pct
+Advise/VB And/CC Consent/VB ,/pct lively/JJ but/CC shallow/JJ theater/NN drawn/VBN from/IN the/AT mountainously/QL detailed/VBN bestseller/NN ;/pct ;/pct
+Face/NN Of/IN A/AT Hero/NN (/pct closed/VBN )/pct ,/pct based/VBN on/IN a/AT Pierre/NP Boulle/NP novel/NN ./pct
+The/AT only/AP original/JJ works/NNS attempting/VBG to/TO reach/VB any/DTI stature/NN :/pct Tennessee/NP Williams'/NPg disappointing/JJ domestic/JJ comedy/NN ,/pct Period/NN Of/IN Adjustment/NN ,/pct and/CC Arthur/NP Laurents'/NPg clever/JJ but/CC empty/JJ Invitation/NN To/IN A/AT March/NN ./pct
+Clearly/RB the/AT most/QL provocative/JJ plays/NNS are/BER all/ABN imported/VBN originals/NNS --/pct A/AT Taste/NN Of/IN Honey/NN ,/pct by/IN Britain's/NPg young/JJ (/pct 19/CD when/WRB she/PPS wrote/VBD it/PPO )/pct Shelagh/NP Delaney/NP ;/pct ;/pct
+Becket/NP ,/pct by/IN France's/NPg Jean/NP Anouilh/NP ;/pct ;/pct
+The/AT Hostage/NN (/pct closed/VBN )/pct ,/pct by/IN Ireland's/NPg Brendan/NP Behan/NP ./pct
+Among/IN the/AT musicals/NNS ,/pct Camelot/NP came/VBD from/IN T./NP H./NP White's/NPg The/AT Once/RB And/CC Future/JJ King/NN ,/pct and/CC novels/NNS were/BED the/AT sources/NNS of/IN the/AT less/AP than/CS momentous/JJ Tenderloin/NN and/CC Do/NN Re/NN Mi/NN ./pct
+Wildcat/NN and/CC The/AT Unsinkable/JJ Molly/NP Brown/NP were/BED originals/NNS ,/pct but/CC pretty/QL bad/JJ ,/pct leaving/VBG top/JJS honors/NNS again/RB to/IN an/AT import/NN --/pct the/AT jaunty/JJ and/CC charmingly/QL French/JJ Irma/NP La/AT Douce/JJ ./pct
+The/AT only/AP other/AP works/NNS at/IN least/AP technically/RB original/JJ were/BED dreary/JJ farces/NNS --/pct Send/VB Me/PPO No/AT Flowers/NNS (/pct closed/VBN )/pct ,/pct Under/IN The/AT Yum-Yum/NP Tree/NN ,/pct Critic's/NNg Choice/NN ./pct
+In/IN the/AT forthcoming/NN The/AT Conquering/VBG Hero/NN and/CC Carnival/NN ,/pct Broadway/NP is/BEZ not/NEG even/RB adapting/VBG books/NNS ,/pct but/CC reconverting/VBG old/JJ movies/NNS (/pct Hail/VB The/AT Conquering/VBG Hero/NN and/CC Lili/NP )/pct ./pct
+Dry/JJ of/IN life/NN ./pct
+Originals/NNS are/BER not/NEG necessarily/RB good/JJ and/CC adaptations/NNS are/BER not/NEG necessarily/RB bad/JJ ./pct
+Some/DTI memorable/JJ plays/NNS have/HV been/BEN drawn/VBN from/IN books/NNS ,/pct notably/RB Life/NN With/IN Father/NN and/CC Diary/NN Of/IN Anne/NP Frank/NP ./pct
+And/CC particularly/RB in/IN the/AT musical/JJ field/NN ,/pct adaptations/NNS have/HV long/RB been/BEN the/AT rule/NN ,/pct from/IN Die/AT Fledermaus/NN and/CC The/AT Merry/JJ Widow/NN to/IN Oklahoma!/NP and/CC My/PPg Fair/JJ Lady/NN ./pct
+As/CS Critic/NN Walter/NP Kerr/NP points/VBZ out/RP :/pct ``/pct Adaptations/NNS ,/pct so/QL long/RB as/CS they/PPSS are/BER good/JJ ,/pct still/RB qualify/VB as/CS creative/JJ ''/pct ./pct
+And/CC other/AP defenders/NNS invariably/RB argue/VB that/CS ,/pct after/IN all/ABN ,/pct Shakespeare/NP and/CC Moliere/NP were/BED adapters/NNS too/RB ./pct
+The/AT difference/NN is/BEZ that/CS the/AT masters/NNS took/VBD the/AT bare/JJ frame/NN of/IN a/AT plot/NN and/CC filled/VBD it/PPO with/IN their/PPg own/JJ world/NN ;/pct ;/pct
+most/AP modern/JJ adapters/NNS totally/RB accept/VB the/AT world/NN of/IN a/AT book/NN ,/pct squeeze/VB it/PPO dry/JJ of/IN life/NN ,/pct and/CC add/VB only/AP one/CD contribution/NN of/IN their/PPg own/JJ :/pct stage/NN technique/NN ./pct
+The/AT most/QL frequent/JJ excuse/NN for/IN the/AT prevalence/NN of/IN unoriginals/NNS and/CC tested/VBN imports/NNS is/BEZ increasing/VBG production/NN expense/NN --/pct producers/NNS cannot /None afford/VB to/TO take/VB chances/NNS ./pct
+But/CC that/DT explanation/NN is/BEZ only/RB partly/RB true/JJ ./pct
+Off-Broadway/RB ,/pct where/WRB production/NN is/BEZ still/RB comparatively/QL cheap/JJ ,/pct is/BEZ proving/VBG itself/PPL only/RB slightly/QL more/QL original/JJ ./pct
+Laudably/RB enough/QLP ,/pct it/PPS is/BEZ offering/VBG classics/NNS and/CC off-beat/JJ imports/NNS ,/pct but/CC last/AP week/NN only/AP one/CD U.S./NP original/JJ was/BEDZ on/IN the/AT boards/NNS ,/pct Robert/NP D./NP Hock's/NPg stunning/JJ Civil/JJ War/NN work/NN ,/pct Borak/NP ./pct
+The/AT real/JJ trouble/NN seems/VBZ to/TO be/BE the/AT failing/VBG imagination/NN of/IN U.S./NP playwrights/NNS ./pct
+Nightclubs/NNS
+the/AT Cooch/NP Terpers/NPS
+He/PPS :/pct ``/pct Come/VB with/IN me/PPO to/IN the/AT Casbah/NP ''/pct ./pct
+She/PPS :/pct ``/pct By/IN subway/NN or/CC cab/NN ''/pct ?/pct ?/pct
+That/DT exchange/NN was/BEDZ not/NEG only/RB possible/JJ but/CC commonplace/JJ last/AP week/NN in/IN Manhattan/NP ,/pct as/CS more/AP and/CC more/AP New/JJ Yorkers/NPS were/BED discovering/VBG 29th/OD Street/NN and/CC Eighth/OD Avenue/NN ,/pct where/WRB half/ABN a/AT dozen/NN small/JJ nightclubs/NNS with/IN names/NNS like/CS Arabian/JJ Nights/NNS ,/pct Grecian/NP Palace/NN and/CC Egyptian/JJ Gardens/NNS are/BER the/AT American/JJ inpost/NN of/IN belly/NN dancing/NN ./pct
+Several/AP more/AP will/MD open/VB soon/RB ./pct
+Their/PPg burgeoning/VBG popularity/NN may/MD be/BE a/AT result/NN of/IN the/AT closing/NN of/IN the/AT 52nd/OD Street/NN burlesque/NN joints/NNS ,/pct but/CC curiously/RB enough/QLP their/PPg atmosphere/NN is/BEZ almost/QL always/RB familial/JJ --/pct neighborhood/NN saloons/NNS with/IN a/AT bit/NN of/IN epidermis/NN ./pct
+The/AT belly/NN boites/NNS ,/pct with/IN their/PPg papier-mache/NN palm/NN trees/NNS or/CC hand-painted/JJ Ionic/JJ columns/NNS ,/pct heretofore/RB existed/VBD mainly/RB on/IN the/AT patronage/NN of/IN Greek/JJ and/CC Turkish/JJ families/NNS ./pct
+Customers/NNS often/RB bring/VB their/PPg children/NNS ;/pct ;/pct
+between/IN performances/NNS ,/pct enthusiastic/JJ young/JJ men/NNS from/IN the/AT audience/NN will/MD take/VB the/AT floor/NN to/TO demonstrate/VB their/PPg own/JJ amateur/JJ graces/NNS ./pct
+Except/IN for/IN the/AT odd/JJ uptown/JJ sex/NN maniac/NN or/CC an/AT overeager/JJ Greek/JJ sailor/NN ,/pct the/AT people/NNS watch/VB in/IN calm/JJ absorption/NN ./pct
+Small/JJ ,/pct shirt-sleeved/JJ orchestras/NNS play/VB in/IN 2/4/CD or/CC 4/4/CD time/NN ,/pct using/VBG guitars/NNS ,/pct violins/NNS ,/pct and/CC more/QL alien/JJ instruments/NNS with/IN names/NNS that/WPS would/MD open/VB Sesame/NN :/pct the/AT oud/NN ,/pct grandfather/NN of/IN the/AT lute/NN ;/pct ;/pct
+the/AT darbuka/NN ,/pct a/AT small/JJ drum/NN with/IN the/AT treelike/JJ shape/NN of/IN a/AT roemer/NN glass/NN ;/pct ;/pct
+the/AT def/NN ,/pct a/AT low-pitched/JJ tambourine/NN ./pct
+The/AT girls/NNS sit/VB quietly/RB with/IN the/AT musicians/NNS ,/pct wearing/VBG prim/JJ dresses/NNS or/CC plain/JJ ,/pct secretarial/JJ shifts/NNS ,/pct until/CS it/PPS is/BEZ time/NN to/TO go/VB off/RP to/IN a/AT back/NN room/NN and/CC reappear/VB in/IN the/AT spare/JJ uniform/NN of/IN the/AT harem/NN ./pct
+Continuum/NN of/IN mankind/NN ./pct
+If/CS a/AT dancer/NN is/BEZ good/JJ ,/pct she/PPS suggests/VBZ purely/RB and/CC superbly/RB the/AT fundamental/JJ mechanics/NNS of/IN ancestry/NN and/CC progeny/NN --/pct the/AT continuum/NN of/IN mankind/NN ./pct
+But/CC a/AT great/QL many/AP of/IN what/WDT Variety/NN calls/VBZ the/AT ``/pct Cooch/NP Terpers/NPS ''/pct are/BER considerably/QL less/QL cosmic/JJ than/CS that/DT ./pct
+Each/DT dancer/NN follows/VBZ the/AT ancient/JJ Oriental/JJ pattern/NN --/pct she/PPS glides/VBZ sideways/RB with/IN shoulders/NNS motionless/JJ while/CS her/PPg stomach/NN migrates/VBZ ,/pct and/CC ,/pct through/IN breathing/VBG and/CC muscle/NN control/NN ,/pct she/PPS sends/VBZ ripples/NNS across/IN her/PPg body/NN to/IN the/AT fingertips/NNS and/CC away/RB to/IN the/AT far/JJ end/NN of/IN the/AT room/NN ./pct
+This/DT is/BEZ done/VBN at/IN varying/VBG speeds/NNS ,/pct ranging/VBG from/IN the/AT slow/JJ and/CC fast/JJ Shifte/NP Telli/NP (/pct a/AT musical/JJ term/NN meaning/VBG double/JJ strings/NNS )/pct to/IN the/AT fastest/JJT ,/pct ecstatic/JJ Karshilama/NP (/pct meaning/VBG greetings/NNS or/CC welcome/NN )/pct ./pct
+The/AT New/JJ York/NP dancers/NNS are/BER highly/QL eclectic/JJ ,/pct varying/VBG the/AT pattern/NN with/IN all/ABN kinds/NNS of/IN personal/JJ improvisations/NNS ,/pct back/NN bends/NNS or/CC floor/NN crawls/NNS ./pct
+But/CC they/PPSS do/DO not/NEG strip/VB ./pct
+The/AT striptease/NN is/BEZ crass/JJ ;/pct ;/pct
+the/AT belly/NN dance/NN leaves/VBZ more/AP to/IN the/AT imagination/NN ./pct
+When/WRB a/AT dancer/NN does/DOZ well/RB ,/pct she/PPS provokes/VBZ a/AT quiet/JJ bombardment/NN of/IN dollar/NN bills/NNS --/pct although/CS the/AT Manhattan/NP clubs/NNS prohibit/VB the/AT more/QL cosmopolitan/JJ practice/NN of/IN slipping/VBG the/AT tips/NNS into/IN the/AT dancers'/NNSg costumes/NNS ./pct
+With/IN tips/NNS ,/pct the/AT girls/NNS average/VB between/IN $150/NNS and/CC $200/NNS a/AT week/NN ,/pct depending/IN on/IN basic/JJ salary/NN ./pct
+Although/CS they/PPSS are/BER forbidden/VBN to/TO sit/VB with/IN the/AT customers/NNS ,/pct the/AT dancers/NNS are/BER sometimes/RB proffered/VBN drinks/NNS ,/pct and/CC most/AP of/IN them/PPO can/MD bolt/VB one/CD down/RP in/IN mid-shimmy/NN ./pct
+The/AT melting/VBG pot/NN ./pct
+All/QL over/IN the/AT country/NN ,/pct belly/NN clubs/NNS have/HV never/RB been/BEN bigger/JJR ,/pct especially/RB in/IN Detroit/NP ,/pct Boston/NP and/CC Chicago/NP ,/pct and/CC even/RB in/IN small/JJ towns/NNS ;/pct ;/pct
+one/CD of/IN the/AT best/JJT dancers/NNS ,/pct a/AT Turkish/JJ girl/NN named/VBN Semra/NP ,/pct works/VBZ at/IN a/AT roadhouse/NN outside/IN Bristol/NP ,/pct Conn./NP ./pct
+The/AT girls/NNS are/BER kept/VBN booked/VBN and/CC moving/VBG by/IN several/AP agents/NNS ,/pct notably/RB voluble/JJ ,/pct black-bearded/JJ Murat/NP Somay/NP ,/pct a/AT Manhattan/NP Turk/NP who/WPS is/BEZ the/AT Sol/NP Hurok/NP of/IN the/AT central/JJ abdomen/NN ./pct
+He/PPS can/MD offer/VB nine/CD Turkish/JJ girls/NNS ,/pct plans/VBZ to/TO import/VB at/IN least/AP 15/CD more/AP ./pct
+But/CC a/AT great/QL many/AP of/IN the/AT dancers/NNS are/BER more/QL or/CC less/QL native/JJ ./pct
+Sometimes/RB they/PPSS get/VB their/PPg initial/JJ experience/NN in/IN church/NN haflis/NNS ,/pct conducted/VBN by/IN Lebanese/NPS and/CC Syrians/NP in/IN the/AT U.S./NP ,/pct where/WRB they/PPSS dance/VB with/IN just/QL as/QL few/AP veils/NNS across/IN their/PPg bodies/NNS as/CS in/IN nightclubs/NNS ./pct
+As/CS the/AT girls/NNS come/VB to/IN belly/NN dancing/NN from/IN this/DT and/CC other/AP origins/NNS ,/pct the/AT melting/VBG pot/NN has/HVZ never/RB bubbled/VBN more/QL intriguingly/RB ./pct
+Some/DTI Manhattan/NP examples/NNS :/pct
+Jemela/NP (/pct surname/NN :/pct Gerby/NP )/pct ,/pct 23/CD ,/pct seems/VBZ Hong/NP Kong/NP Oriental/JJ but/CC has/HVZ a/AT Spanish/JJ father/NN and/CC an/AT Indian/JJ mother/NN ,/pct was/BEDZ born/VBN in/IN America/NP and/CC educated/VBN at/IN Holy/JJ Cross/NN Academy/NN and/CC Textile/NN High/JJ School/NN ,/pct says/VBZ she/PPS learned/VBD belly/NN dancing/NN at/IN family/NN picnics/NNS ./pct
+Serene/NP (/pct Mrs./NP Wilson/NP )/pct ,/pct 23/CD ,/pct was/BEDZ born/VBN in/IN Budapest/NP and/CC raised/VBN in/IN Manhattan/NP ./pct
+Daughter/NN of/IN a/AT gypsy/NN mother/NN who/WPS taught/VBD her/PPO to/TO dance/VB ,/pct she/PPS is/BEZ one/CD of/IN the/AT few/AP really/QL beautiful/JJ girls/NNS in/IN the/AT New/JJ York/NP Casbah/NP ,/pct with/IN dark/JJ eyes/NNS and/CC dark/JJ ,/pct waist-length/JJ hair/NN ,/pct the/AT face/NN of/IN an/AT adolescent/JJ patrician/NN and/CC a/AT lithe/JJ ,/pct glimmering/VBG body/NN ./pct
+Many/AP belly/NN dancers/NNS are/BER married/VBN ,/pct but/CC Serene/NP is/BEZ one/CD of/IN the/AT few/AP who/WPS will/MD admit/VB it/PPO ./pct
+Marlene/NP (/pct surname/NN :/pct Adamo/NP )/pct ,/pct 25/CD ,/pct a/AT Brazilian/JJ divorcee/NN who/WPS learned/VBD the/AT dance/NN from/IN Arabic/JJ friends/NNS in/IN Paris/NP ,/pct now/RB lives/VBZ on/IN Manhattan's/NPg West/JJ Side/NN ,/pct is/BEZ about/RB the/AT best/JJT belly/NN dancer/NN working/VBG the/AT Casbah/NP ,/pct loves/VBZ it/PPO so/QL much/RB that/CS she/PPS dances/VBZ on/IN her/PPg day/NN off/RP ./pct
+She/PPS has/HVZ the/AT small/JJ ,/pct highly/QL developed/VBN body/NN of/IN a/AT prime/JJ athlete/NN ,/pct and/CC holds/VBZ in/IN contempt/NN the/AT ``/pct girls/NNS who/WPS just/RB move/VB sex/NN ''/pct ./pct
+Leila/NP (/pct Malia/NP Phillips/NP )/pct ,/pct 25/CD ,/pct is/BEZ a/AT Greenwich/NP Village/NN painter/NN of/IN Persianesque/JJ miniatures/NNS who/WPS has/HVZ red/JJ hair/NN that/WPS cascades/VBZ almost/RB to/IN her/PPg ankles/NNS ./pct
+A/AT graduate/NN of/IN Hollywood/NP High/JJ School/NN ,/pct she/PPS likes/VBZ to/TO imagine/VB herself/PPL ,/pct as/CS she/PPS takes/VBZ the/AT floor/NN ,/pct ``/pct a/AT village/NN girl/NN coming/VBG in/IN to/IN a/AT festival/NN ''/pct ./pct
+Gloria/NP (/pct surname/NN :/pct Ziraldo/NP )/pct ,/pct circa/RB 30/CD ,/pct who/WPS was/BEDZ born/VBN in/IN Italy/NP and/CC once/RB did/DOD ``/pct chorus/NN work/NN ''/pct in/IN Toronto/NP ,/pct has/HVZ been/BEN around/RB longer/RBR than/CS most/AP of/IN the/AT others/NNS ,/pct wistfully/RB remembers/VBZ the/AT old/JJ days/NNS when/WRB ``/pct we/PPSS used/VBD to/TO get/VB the/AT seamen/NNS from/IN the/AT ships/NNS ,/pct you/PPSS know/VB ,/pct with/IN big/JJ turtleneck/NN sweaters/NNS and/CC handkerchiefs/NNS and/CC all/ABN ./pct
+But/CC the/AT ships/NNS are/BER very/QL slow/JJ now/RB ,/pct and/CC we/PPSS don't /None get/VB so/QL many/AP sailors/NNS any/DTI more/AP ''/pct ./pct
+The/AT uptown/JJ crowd/NN has/HVZ moved/VBN in/RP ,/pct and/CC what/WDT girl/NN worth/JJ her/PPg seventh/OD veil/NN would/MD trade/VB a/AT turtleneck/NN sweater/NN for/CS a/AT button-down/JJ collar/NN ?/pct ?/pct
+A/AT short/JJ ,/pct tormented/VBN span/NN
+Of/IN the/AT handful/NN of/IN painters/NNS that/WPO Austria/NP has/HVZ produced/VBN in/IN the/AT 20th/OD century/NN ,/pct only/RB one/CD ,/pct Oskar/NP Kokoschka/NP ,/pct is/BEZ widely/RB known/VBN in/IN the/AT U.S./NP ./pct
+This/DT state/NN of/IN unawareness/NN may/MD not/NEG last/VB much/QL longer/RBR ./pct
+For/IN ten/CD years/NNS a/AT small/JJ group/NN of/IN European/JJ and/CC U.S./NP critics/NNS has/HVZ been/BEN calling/VBG attention/NN to/IN the/AT half-forgotten/JJ Austrian/JJ expressionist/NN Egon/NP Schiele/NP ,/pct who/WPS died/VBD 42/CD years/NNS ago/RB at/IN the/AT age/NN of/IN 28/CD ./pct
+The/AT critics'/NNSg campaign/NN finally/RB inspired/VBD the/AT first/OD major/JJ U.S./NP exhibit/NN of/IN Schiele's/NPg works/NNS ./pct
+The/AT show/NN has/HVZ been/BEN to/IN Boston/NP and/CC Manhattan/NP ,/pct will/MD in/IN time/NN reach/VB Pittsburgh/NP and/CC Minneapolis/NP ./pct
+Last/AP week/NN it/PPS opened/VBD at/IN the/AT J./NP B./NP Speed/NP Museum/NN in/IN Louisville/NP ,/pct at/IN the/AT very/AP moment/NN that/CS a/AT second/OD Schiele/NP exhibit/NN was/BEDZ being/BEG made/VBN ready/JJ at/IN the/AT Felix/NP Landau/NP gallery/NN in/IN Los/NP Angeles/NP ./pct
+Schiele's/NPg paintings/NNS are/BER anything/PN but/IN pleasant/JJ ./pct
+His/PPg people/NNS (/pct see/VB color/NN )/pct are/BER angular/JJ and/CC knobby-knuckled/JJ ,/pct sometimes/RB painfully/QL stretched/VBN ,/pct sometimes/RB grotesquely/QL foreshortened/VBN ./pct
+His/PPg colors/NNS are/BER dark/JJ and/CC murky/JJ ,/pct and/CC his/PPg landscapes/NNS and/CC cityscapes/NNS seem/VB swallowed/VBN in/IN gloom/NN ./pct
+But/CC he/PPS painted/VBD some/DTI of/IN the/AT boldest/JJT and/CC most/QL original/JJ pictures/NNS of/IN his/PPg time/NN ,/pct and/CC even/RB after/IN nearly/RB half/ABN a/AT century/NN ,/pct the/AT tense/JJ ,/pct tormented/VBN world/NN he/PPS put/VBD on/IN canvas/NN has/HVZ lost/VBN none/PN of/IN its/PPg fascination/NN ./pct
+The/AT devil/NN himself/PPL ./pct
+The/AT son/NN of/IN a/AT railway/NN stationmaster/NN ,/pct Schiele/NP lived/VBD most/AP of/IN his/PPg childhood/NN in/IN the/AT drowsy/JJ Danubian/NP town/NN of/IN Tulln/NP ,/pct 14/CD miles/NNS northwest/NR of/IN Vienna/NP ./pct
+He/PPS was/BEDZ an/AT emotional/JJ ,/pct lonely/JJ boy/NN who/WPS spent/VBD so/QL much/AP time/NN turning/VBG out/RP drawings/NNS that/CS he/PPS did/DOD scarcely/RB any/DTI schoolwork/NN ./pct
+When/WRB he/PPS was/BEDZ 15/CD ,/pct his/PPg parents/NNS finally/RB allowed/VBD him/PPO to/TO attend/VB classes/NNS at/IN the/AT Academy/NN of/IN Fine/JJ Arts/NNS in/IN Vienna/NP ./pct
+Even/RB there/RB he/PPS did/DOD not/NEG last/VB for/IN long/RB ./pct
+Cried/VBD one/CD professor/NN after/IN a/AT few/AP months/NNS of/IN Student/NN Schiele's/NPg tantrums/NNS and/CC rebellion/NN :/pct ``/pct The/AT devil/NN himself/PPL must/MD have/HV defecated/VBN you/PPO into/IN my/PPg classroom/NN ''/pct !/pct !/pct
+For/IN a/AT while/NN his/PPg work/NN was/BEDZ influenced/VBN deeply/RB by/IN the/AT French/JJ impressionists/NNS ,/pct and/CC by/IN the/AT patterned/VBN ,/pct mosaic-like/JJ paintings/NNS of/IN Gustav/NP Klimt/NP ,/pct then/RB the/AT dean/NN of/IN Austrian/JJ art/NN ./pct
+Gradually/RB Schiele/NP evolved/VBD a/AT somber/JJ style/NN of/IN his/PPg own/JJ --/pct and/CC he/PPS had/HVD few/AP inhibitions/NNS about/IN his/PPg subject/NN matter/NN ./pct
+His/PPg pictures/NNS were/BED roundly/RB denounced/VBN as/CS ``/pct the/AT most/QL disgusting/JJ things/NNS one/PN has/HVZ ever/RB seen/VBN in/IN Vienna/NP ''/pct ./pct
+He/PPS himself/PPL was/BEDZ once/RB convicted/VBN of/IN painting/VBG erotica/NNS and/CC jailed/VBN for/IN 24/CD days/NNS --/pct the/AT first/OD three/CD of/IN which/WDT he/PPS spent/VBD desperately/RB trying/VBG to/TO make/VB paintings/NNS on/IN the/AT wall/NN with/IN his/PPg own/JJ spittle/NN ./pct
+For/IN years/NNS he/PPS wore/VBD hand-me-down/JJ suits/NNS and/CC homemade/JJ paper/NN collars/NNS ,/pct was/BEDZ even/RB driven/VBN to/IN scrounging/VBG for/IN cigarette/NN butts/NNS in/IN Vienna's/NPg gutters/NNS ./pct
+Drafted/VBN into/IN the/AT Austrian/JJ army/NN ,/pct he/PPS rebelliously/RB rejected/VBD discipline/NN ,/pct wangled/VBD a/AT Vienna/NP billet/NN ,/pct went/VBD on/RP painting/VBG ./pct
+It/PPS was/BEDZ not/NEG until/IN the/AT last/AP year/NN of/IN his/PPg life/NN that/CS he/PPS had/HVD his/PPg first/OD moneymaking/JJ show/NN ./pct
+Melancholy/JJ obsession/NN ./pct
+The/AT unabashed/JJ sexuality/NN of/IN so/QL many/AP of/IN his/PPg paintings/NNS was/BEDZ not/NEG the/AT only/AP thing/NN that/WPS kept/VBD the/AT public/NN at/IN bay/NN :/pct his/PPg view/NN of/IN the/AT world/NN was/BEDZ one/CD of/IN almost/QL unrelieved/JJ tragedy/NN ,/pct and/CC it/PPS was/BEDZ too/QL much/AP even/RB for/IN morbid-minded/JJ Vienna/NP ./pct
+He/PPS was/BEDZ obsessed/VBN by/IN disease/NN and/CC poverty/NN ,/pct by/IN the/AT melancholy/NN of/IN old/JJ age/NN and/CC the/AT tyranny/NN of/IN lust/NN ./pct
+The/AT children/NNS he/PPS painted/VBD were/BED almost/QL always/RB in/IN rags/NNS ,/pct his/PPg portraits/NNS were/BED often/RB ruthless/JJ to/IN the/AT point/NN of/IN ugliness/NN ,/pct and/CC his/PPg nudes/NNS --/pct including/IN several/AP self-portraits/NNS --/pct were/BED stringy/JJ ,/pct contorted/VBN and/CC strangely/QL pathetic/JJ ./pct
+The/AT subject/NN he/PPS liked/VBD most/RBT was/BEDZ the/AT female/JJ body/NN ,/pct which/WDT he/PPS painted/VBD in/IN every/AT state/NN --/pct naked/JJ ,/pct half-dressed/JJ ,/pct muffled/VBN to/IN the/AT ears/NNS ,/pct sitting/VBG primly/RB in/IN a/AT chair/NN ,/pct lying/VBG tauntingly/RB on/IN a/AT bed/NN or/CC locked/VBN in/IN an/AT embrace/NN ./pct

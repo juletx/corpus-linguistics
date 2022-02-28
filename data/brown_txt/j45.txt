@@ -1,0 +1,108 @@
+A/NP ./pct
+Reasons/NNS for/IN selecting/VBG mail/NN questionnaire/NN method/NN
+There/EX were/BED two/CD methods/NNS that/WPS could/MD have/HV been/BEN used/VBN for/IN conducting/VBG the/AT study/NN within/IN the/AT resources/NNS available/JJ :/pct (/pct 1/CD )/pct interviews/NNS in/IN depth/NN with/IN a/AT few/AP selected/VBN companies/NNS ,/pct and/CC (/pct 2/CD )/pct the/AT more/QL limited/VBN interrogation/NN of/IN a/AT large/JJ number/NN of/IN companies/NNS by/IN means/NNS of/IN a/AT mail/NN questionnaire/NN ./pct
+While/CS the/AT method/NN of/IN interviewing/VBG a/AT small/JJ number/NN of/IN companies/NNS was/BEDZ appealing/JJ because/RB of/IN the/AT opportunity/NN it/PPS might/MD have/HV furnished/VBN to/TO probe/VB fully/RB the/AT reasons/NNS and/CC circumstances/NNS of/IN a/AT company's/NNg practices/NNS and/CC opinions/NNS ,/pct it/PPS also/RB involved/VBD the/AT risk/NN of/IN paying/VBG undue/JJ attention/NN to/IN the/AT unique/JJ and/CC peculiar/JJ problems/NNS of/IN just/RB a/AT few/AP individual/JJ companies/NNS ./pct
+As/CS a/AT result/NN ,/pct it/PPS was/BEDZ decided/VBN that/CS a/AT mail/NN questionnaire/NN sent/VBN to/IN a/AT large/JJ number/NN of/IN companies/NNS would/MD be/BE more/QL effective/JJ in/IN determining/VBG the/AT general/JJ practices/NNS and/CC opinions/NNS of/IN small/JJ firms/NNS and/CC in/IN highlighting/VBG some/DTI of/IN the/AT fundamental/JJ and/CC recurring/VBG problems/NNS of/IN defense/NN procurement/NN that/WPS concern/VB both/ABX industry/NN and/CC government/NN ./pct
+It/PPS was/BEDZ also/RB hoped/VBN that/CS responses/NNS to/IN a/AT mail/NN questionnaire/NN would/MD suggest/VB fruitful/JJ inquiries/NNS that/WPS might/MD be/BE made/VBN in/IN subsequent/JJ studies/NNS of/IN a/AT more/QL detailed/VBN nature/NN ./pct
+It/PPS is/BEZ recognized/VBN that/CS a/AT mail/NN questionnaire/NN has/HVZ inherent/JJ limitations/NNS ./pct
+There/EX is/BEZ the/AT danger/NN that/CS the/AT questions/NNS will/MD mean/VB different/JJ things/NNS to/IN different/JJ respondents/NNS ./pct
+Simple/JJ ``/pct yes/RB ''/pct or/CC ``/pct no/RB ''/pct answers/NNS do/DO not/NEG reveal/VB the/AT different/JJ shades/NNS of/IN opinion/NN that/WPO the/AT various/JJ respondents/NNS may/MD have/HV ./pct
+A/AT respondent/NN may/MD want/VB to/TO make/VB alternative/JJ answers/NNS because/CS he/PPS does/DOZ not/NEG know/VB the/AT precise/JJ circumstances/NNS assumed/VBN in/IN the/AT question/NN ./pct
+There/EX is/BEZ also/RB the/AT problem/NN of/IN the/AT respondent's/NNg frame/NN of/IN reference/NN ./pct
+Is/BEZ the/AT respondent/NN making/VBG a/AT recommendation/NN for/IN his/PPg own/JJ benefit/NN ,/pct for/IN the/AT benefit/NN of/IN his/PPg industry/NN ,/pct for/IN the/AT benefit/NN of/IN a/AT specific/JJ government/NN department/NN or/CC service/NN ,/pct for/IN the/AT benefit/NN of/IN the/AT defense/NN program/NN ,/pct for/IN the/AT benefit/NN of/IN small/JJ business/NN ,/pct or/CC for/IN the/AT benefit/NN of/IN the/AT taxpayers/NNS ?/pct ?/pct
+There/EX is/BEZ also/RB the/AT question/NN of/IN whether/CS the/AT respondent/NN based/VBD his/PPg answers/NNS on/IN factual/JJ information/NN and/CC carefully/RB considered/VBN judgment/NN ,/pct or/CC whether/CS his/PPg answers/NNS were/BED casual/JJ guesses/NNS ./pct
+Finally/RB ,/pct there/EX is/BEZ the/AT question/NN of/IN how/WQL strongly/RB an/AT expressed/VBN opinion/NN is/BEZ held/VBN --/pct whether/CS it/PPS is/BEZ a/AT firm/JJ opinion/NN or/CC one/CD that/WPO the/AT respondent/NN favors/VBZ only/QL slightly/RB over/IN the/AT alternatives/NNS ./pct
+The/AT research/NN team/NN was/BEDZ very/QL mindful/JJ of/IN these/DTS dangers/NNS and/CC limitations/NNS of/IN a/AT mail/NN questionnaire/NN ./pct
+Under/IN the/AT circumstances/NNS ,/pct however/RB ,/pct the/AT team/NN considered/VBD it/PPS would/MD provide/VB the/AT most/QL useful/JJ information/NN at/IN this/DT point/NN ./pct
+In/IN the/AT preparation/NN of/IN the/AT questionnaire/NN the/AT problems/NNS noted/VBN above/RB were/BED carefully/RB considered/VBN ,/pct and/CC the/AT structure/NN and/CC phraseology/NN used/VBN were/BED designed/VBN to/TO minimize/VB the/AT effects/NNS of/IN these/DTS limitations/NNS ./pct
+B/NP ./pct
+Design/NN of/IN the/AT questionnaire/NN
+The/AT questionnaire/NN was/BEDZ designed/VBN to/TO elicit/VB three/CD types/NNS of/IN information/NN :/pct (/pct 1/CD )/pct the/AT facts/NNS regarding/IN certain/AP characteristics/NNS of/IN the/AT respondents/NNS ,/pct including/IN their/PPg experience/NN with/IN ,/pct and/CC interest/NN in/IN ,/pct securing/VBG defense/NN business/NN ;/pct ;/pct
+(/pct 2/CD )/pct the/AT actual/JJ selling/VBG and/CC buying/VBG practices/NNS of/IN the/AT respondents/NNS ;/pct ;/pct
+and/CC (/pct 3/CD )/pct the/AT attitudes/NNS and/CC opinions/NNS of/IN the/AT respondents/NNS concerning/IN bidding/NN procedures/NNS and/CC the/AT methods/NNS of/IN awarding/VBG defense/NN contracts/NNS ./pct
+It/PPS was/BEDZ hoped/VBN that/CS the/AT facts/NNS concerning/IN the/AT characteristics/NNS and/CC practices/NNS of/IN the/AT respondents/NNS would/MD offer/VB clues/NNS to/IN the/AT reasons/NNS why/WRB they/PPSS took/VBD the/AT positions/NNS and/CC made/VBD the/AT recommendations/NNS which/WDT they/PPSS did/DOD ./pct
+The/AT major/JJ sections/NNS of/IN the/AT questionnaire/NN (/pct see/VB Appendix/NN B/NP )/pct are/BER devoted/VBN to/IN the/AT following/NN :/pct 1/CD ./pct
+Information/NN for/IN classifying/VBG respondents/NNS (/pct Part/NN A/NP of/IN the/AT questionnaire/NN )/pct 2/CD ./pct
+Characteristics/NNS of/IN defense/NN sales/NNS activities/NNS (/pct Part/NN B/NP of/IN the/AT questionnaire/NN )/pct 3/CD ./pct
+Respondents'/NNSg practices/NNS in/IN participating/VBG in/IN advertised/VBN bidding/NN for/IN defense/NN business/NN (/pct Part/NN C/NP of/IN the/AT questionnaire/NN )/pct 4/CD ./pct
+Respondents'/NNSg practices/NNS in/IN participating/VBG in/IN negotiated/VBN bidding/NN for/IN defense/NN purposes/NNS (/pct Part/NN D/NP of/IN the/AT questionnaire/NN )/pct 5/CD ./pct
+Respondents'/NNSg opinions/NNS regarding/IN advertised/VBN bidding/NN (/pct Part/NN E/NP of/IN the/AT questionnaire/NN )/pct 6/CD ./pct
+Respondents'/NNSg opinions/NNS regarding/IN negotiated/VBN bidding/NN (/pct Part/NN F/NP of/IN the/AT questionnaire/NN )/pct 7/CD ./pct
+Respondents'/NNSg preferences/NNS regarding/IN the/AT methods/NNS of/IN awarding/VBG defense/NN contracts/NNS (/pct Part/NN G/NP of/IN the/AT questionnaire/NN )/pct
+The/AT questionnaire/NN provided/VBD a/AT place/NN for/IN the/AT name/NN of/IN the/AT respondent/NN but/CC stated/VBD that/DT identification/NN of/IN the/AT respondent/NN was/BEDZ optional/JJ ./pct
+The/AT questionnaire/NN also/RB stated/VBD that/CS ,/pct in/IN any/DTI event/NN ,/pct all/ABN replies/NNS would/MD be/BE treated/VBN confidentially/RB ./pct
+It/PPS is/BEZ interesting/JJ to/TO note/VB that/CS 75/CD per/IN cent/NN of/IN those/DTS who/WPS returned/VBD the/AT questionnaire/NN identified/VBD themselves/PPLS ./pct
+C/NP ./pct
+Preparation/NN and/CC pretest/NN of/IN the/AT questionnaire/NN
+The/AT research/NN team/NN prepared/VBD and/CC then/RB revised/VBD the/AT questionnaire/NN over/IN a/AT period/NN of/IN six/CD months/NNS ./pct
+In/IN June/NP ,/pct 1960/CD ,/pct an/AT early/JJ draft/NN of/IN the/AT questionnaire/NN ,/pct along/RB with/IN a/AT cover/NN letter/NN ,/pct was/BEDZ mailed/VBN to/IN fourteen/CD companies/NNS in/IN the/AT state/NN of/IN Washington/NP ./pct
+Several/AP days/NNS after/CS the/AT companies/NNS had/HVD received/VBN the/AT questionnaire/NN ,/pct members/NNS of/IN the/AT research/NN team/NN contacted/VBD the/AT presidents/NNS of/IN eleven/CD of/IN these/DTS companies/NNS in/IN person/NN or/CC by/IN phone/NN to/TO discuss/VB any/DTI ambiguities/NNS or/CC difficulties/NNS the/AT addressees/NNS might/MD have/HV experienced/VBN in/IN completing/VBG the/AT questionnaire/NN ./pct
+This/DT test/NN resulted/VBD in/IN further/JJR revisions/NNS of/IN the/AT questionnaire/NN ./pct
+The/AT research/NN team/NN was/BEDZ concerned/VBN that/CS responses/NNS from/IN firms/NNS in/IN the/AT state/NN of/IN Washington/NP might/MD not/NEG be/BE typical/JJ of/IN those/DTS throughout/IN the/AT country/NN ,/pct or/CC that/CS the/AT results/NNS might/MD be/BE different/JJ when/WRB no/AT phone/NN or/CC personal/JJ follow-up/NN was/BEDZ made/VBN ./pct
+Accordingly/RB ,/pct another/DT test/NN of/IN the/AT questionaire/NN was/BEDZ made/VBN ./pct
+The/AT revised/VBN draft/NN was/BEDZ mailed/VBN in/IN July/NP ,/pct 1960/CD ,/pct to/IN 100/CD firms/NNS throughout/IN the/AT United/VBN States/NNS ./pct
+Fifty/CD of/IN the/AT 100/CD firms/NNS were/BED selected/VBN on/IN a/AT random/JJ basis/NN from/IN 3,500/CD names/NNS submitted/VBN by/IN member/NN companies/NNS of/IN the/AT Aerospace/NP Industries/NNS Association/NN (/pct AIA/NP list/NN )/pct and/CC fifty/CD were/BED selected/VBN in/IN a/AT similar/JJ manner/NN from/IN a/AT list/NN of/IN 1,500/CD names/NNS compiled/VBN by/IN the/AT research/NN team/NN from/IN the/AT Thomas/NP Register/NN (/pct TR/NP list/NN )/pct ./pct
+The/AT method/NN of/IN compiling/VBG the/AT AIA/NN and/CC TR/NN lists/NNS will/MD be/BE described/VBN later/RBR ./pct
+Ten/CD days/NNS after/CS the/AT questionnaires/NNS were/BED mailed/VBN ,/pct follow-up/JJ airmail/NN postcards/NNS were/BED sent/VBN urging/VBG those/DTS companies/NNS which/WDT had/HVD not/NEG yet/RB returned/VBN their/PPg questionnaires/NNS to/TO do/DO so/RB at/IN once/RB ./pct
+Twenty-eight/CD returns/NNS in/IN all/ABN were/BED received/VBN ./pct
+The/AT responses/NNS were/BED carefully/RB checked/VBN for/IN obvious/JJ errors/NNS in/IN the/AT answers/NNS or/CC for/IN questions/NNS that/WPS were/BED apparently/RB not/NEG understood/VBN by/IN the/AT respondent/NN ./pct
+The/AT cover/NN letter/NN ,/pct questionnaire/NN ,/pct and/CC follow-up/JJ postcard/NN were/BED then/RB revised/VBN into/IN final/JJ form/NN (/pct see/VB Appendixes/NNS A/NP ,/pct B/NP ,/pct and/CC C/NN )/pct ./pct
+D/NP ./pct
+Compilation/NN of/IN mailing/VBG lists/NNS
+The/AT objective/NN of/IN the/AT study/NN was/BEDZ to/TO determine/VB the/AT opinions/NNS and/CC practices/NNS of/IN small/JJ firms/NNS selling/VBG to/IN defense/NN programs/NNS ./pct
+The/AT firms/NNS to/TO receive/VB the/AT questionnaires/NNS were/BED selected/VBN with/IN this/DT objective/NN in/IN mind/NN ./pct
+Three/CD lists/NNS of/IN companies/NNS were/BED made/VBN and/CC used/VBN in/IN the/AT study/NN ./pct
+The/AT first/OD was/BEDZ a/AT list/NN of/IN fourteen/CD manufacturing/VBG companies/NNS located/VBN in/IN the/AT state/NN of/IN Washington/NP which/WDT were/BED personally/RB known/VBN to/IN the/AT research/NN team/NN to/TO be/BE active/JJ in/IN defense/NN work/NN ./pct
+The/AT primary/JJ consideration/NN in/IN the/AT compilation/NN of/IN this/DT list/NN was/BEDZ convenience/NN in/IN discussing/VBG the/AT questionnaire/NN with/IN company/NN officers/NNS ./pct
+The/AT second/OD list/NN was/BEDZ derived/VBN from/IN a/AT group/NN of/IN approximately/RB 8,000/CD names/NNS supplied/VBN to/IN the/AT research/NN team/NN by/IN the/AT Aerospace/NP Industries/NNS Association/NN ./pct
+These/DTS names/NNS were/BED secured/VBN from/IN member/NN companies/NNS by/IN the/AT Association/NN from/IN the/AT forty-four/CD sources/NNS listed/VBN in/IN Appendix/NN Aj/NP ./pct
+Each/DT source/NN selected/VBD from/IN its/PPg approved/VBN bidders/NNS list/VB about/RB 200/CD firms/NNS which/WDT it/PPS believed/VBD to/TO be/BE small/JJ businesses/NNS that/WPS participated/VBD in/IN the/AT production/NN of/IN weapons/NNS and/CC weapon/NN support/NN systems/NNS ./pct
+Where/WRB possible/JJ ,/pct the/AT name/NN of/IN an/AT executive/NN was/BEDZ supplied/VBN along/RB with/IN the/AT company/NN name/NN and/CC address/NN ./pct
+The/AT forty-four/CD lists/NNS supplied/VBN by/IN the/AT AIA/NN member/NN companies/NNS were/BED merged/VBN and/CC duplicate/JJ names/NNS were/BED eliminated/VBN ./pct
+There/EX was/BEDZ further/JJR elimination/NN of/IN all/ABN companies/NNS that/WPS were/BED not/NEG accompanied/VBN by/IN the/AT name/NN of/IN a/AT responsible/JJ company/NN executive/NN ./pct
+The/AT remaining/VBG names/NNS were/BED then/RB checked/VBN against/IN the/AT Thomas/NP Register/NN list/NN (/pct see/VB below/RB )/pct and/CC duplicate/JJ names/NNS were/BED removed/VBN from/IN the/AT AIA/NN lists/NNS ./pct
+By/IN these/DTS steps/NNS the/AT final/JJ AIA/NN list/NN was/BEDZ reduced/VBN from/IN 8,000/CD to/IN 3,500/CD ./pct
+The/AT third/OD list/NN was/BEDZ selected/VBN by/IN the/AT research/NN team/NN on/IN a/AT random/JJ basis/NN from/IN the/AT Thomas/NP Register/NN ./pct
+It/PPS was/BEDZ compiled/VBN as/CS a/AT control/NN sample/NN to/TO determine/VB if/CS the/AT opinions/NNS and/CC practices/NNS of/IN companies/NNS on/IN the/AT lists/NNS submitted/VBN by/IN the/AT members/NNS of/IN the/AT Aerospace/NP Industries/NNS Association/NN were/BED materially/QL different/JJ from/IN those/DTS of/IN other/AP small/JJ firms/NNS selling/VBG to/IN defense/NN programs/NNS ./pct
+Such/ABL a/AT difference/NN might/MD have/HV resulted/VBN from/IN :/pct 1/CD ./pct
+The/AT fact/NN that/CS the/AT Aerospace/NP Industries/NNS Association/NN members/NNS whose/WPg lists/NNS were/BED used/VBN did/DOD not/NEG comprise/VB all/ABN firms/NNS engaged/VBN in/IN defense/NN programs/NNS ./pct
+2/CD ./pct
+The/AT fact/NN that/CS companies/NNS on/IN the/AT AIA/NN lists/NNS were/BED already/RB participating/VBG in/IN the/AT defense/NN program/NN because/RB of/IN the/AT manner/NN of/IN their/PPg selection/NN ./pct
+Accordingly/RB ,/pct as/CS ``/pct in-group/NN ''/pct ,/pct they/PPSS might/MD have/HV different/JJ opinions/NNS and/CC practices/NNS than/CS an/AT ``/pct out-group/NN ''/pct composed/VBN of/IN those/DTS companies/NNS not/NEG so/RB participating/VBG but/CC interested/VBN in/IN defense/NN business/NN ./pct
+3/CD ./pct
+The/AT fact/NN that/CS AIA/NN lists/NNS might/MD not/NEG have/HV been/BEN selected/VBN on/IN a/AT random/JJ basis/NN ./pct
+The/AT control/NN sample/NN was/BEDZ selected/VBN by/IN taking/VBG the/AT bottom/JJ name/NN of/IN each/DT of/IN the/AT two/CD columns/NNS of/IN names/NNS on/IN each/DT page/NN of/IN the/AT alphabetical/JJ listing/NN of/IN manufacturers/NNS in/IN the/AT Thomas/NP Register/NN ./pct
+If/CS the/AT bottom/JJ name/NN in/IN each/DT column/NN did/DOD not/NEG have/HV a/AT responsible/JJ executive/NN identified/VBN ,/pct the/AT next/AP name/NN above/RB which/WDT identified/VBD such/ABL a/AT responsible/JJ executive/NN was/BEDZ substituted/VBN ./pct
+Fifteen/CD hundred/CD names/NNS were/BED selected/VBN in/IN this/DT fashion/NN ./pct
+E/NP ./pct
+Mailing/VBG the/AT questionnaire/NN
+Each/DT questionnaire/NN was/BEDZ mailed/VBN with/IN a/AT cover/NN letter/NN addressed/VBN personally/RB to/IN the/AT president/NN or/CC other/AP executive/NN of/IN each/DT firm/NN ./pct
+The/AT questionnaires/NNS were/BED mailed/VBN in/IN Seattle/NP ,/pct Washington/NP ,/pct and/CC sent/VBN by/IN regular/JJ mail/NN to/IN addresses/NNS in/IN the/AT states/NNS of/IN Idaho/NP ,/pct Montana/NP ,/pct Oregon/NP ,/pct and/CC Washington/NP ./pct
+Airmail/NN was/BEDZ used/VBN for/IN the/AT addresses/NNS outside/IN the/AT Pacific/JJ Northwest/NN ./pct
+Each/DT letter/NN contained/VBD a/AT postage-prepaid/JJ return/NN envelope/NN by/IN regular/JJ mail/NN for/IN addresses/NNS in/IN the/AT Pacific/JJ Northwest/NN ,/pct and/CC by/IN airmail/NN for/IN those/DTS outside/IN the/AT Pacific/JJ Northwest/NN ./pct
+Approximately/RB ten/CD days/NNS after/CS the/AT questionnaire/NN was/BEDZ mailed/VBN ,/pct a/AT follow-up/JJ airmail/NN postcard/NN was/BEDZ sent/VBN to/IN each/DT of/IN the/AT original/JJ names/NNS ./pct
+The/AT first/OD test/NN mailing/NN (/pct to/IN 14/CD companies/NNS )/pct was/BEDZ made/VBN in/IN June/NP ,/pct 1960/CD ./pct
+The/AT second/OD test/NN mailing/NN (/pct to/IN 100/CD companies/NNS )/pct was/BEDZ made/VBN in/IN July/NP ,/pct 1960/CD ./pct
+The/AT final/JJ mailing/NN of/IN the/AT questionnaire/NN was/BEDZ made/VBN late/RB in/IN August/NP ,/pct 1960/CD ,/pct to/IN 4,900/CD firms/NNS consisting/VBG of/IN 3,450/CD from/IN the/AT AIA/NN list/NN and/CC 1,450/CD from/IN the/AT TR/NN list/NN ./pct
+F/NP ./pct
+Returns/NNS received/VBN
+Over/RP 1,000/CD returns/NNS were/BED received/VBN within/IN two/CD weeks/NNS after/CS the/AT final/JJ mailing/NN was/BEDZ made/VBN ./pct
+They/PPSS continued/VBD to/TO arrive/VB until/IN the/AT end/NN of/IN December/NP ,/pct 1960/CD ,/pct by/IN which/WDT time/NN a/AT total/NN of/IN 1,343/CD returns/NNS were/BED received/VBN representing/VBG 26.8/CD per/IN cent/NN of/IN the/AT 5,014/CD questionnaires/NNS sent/VBN out/RP ./pct
+Fifty-seven/CD returns/NNS could/MD not/NEG be/BE used/VBN because/CS they/PPSS were/BED incomplete/JJ or/CC received/VBN too/QL late/RB to/TO be/BE processed/VBN ./pct
+The/AT remaining/VBG 1,286/CD returns/NNS that/WPS were/BED processed/VBN came/VBD from/IN the/AT categories/NNS in/IN Table/NN 2/CD ./pct
+G/NP ./pct
+Processing/VBG the/AT returns/NNS
+Each/DT questionnaire/NN was/BEDZ audited/VBN for/IN obvious/JJ mistakes/NNS and/CC for/IN comments/NNS ,/pct and/CC was/BEDZ identified/VBN by/IN a/AT serial/NN number/NN ,/pct by/IN the/AT source/NN list/NN from/IN which/WDT the/AT company/NN name/NN was/BEDZ selected/VBN ,/pct and/CC by/IN the/AT geographical/JJ location/NN of/IN the/AT company/NN as/CS determined/VBN by/IN the/AT postmark/NN on/IN the/AT return/NN envelope/NN ./pct
+All/ABN responses/NNS ,/pct except/IN comments/NNS ,/pct were/BED numerically/RB coded/VBN to/TO permit/VB use/NN of/IN data-processing/JJ equipment/NN ./pct
+The/AT codes/NNS were/BED key-punched/VBN into/IN IBM/NN punch/NN cards/NNS and/CC verified/VBN ./pct
+Each/DT return/NN required/VBD three/CD cards/NNS and/CC involved/VBD key/NN punching/NN 228/CD digital/JJ columns/NNS ./pct
+In/IN order/NN to/TO be/BE able/JJ to/TO properly/RB relate/VB the/AT data/NN for/IN a/AT single/AP company/NN each/DT of/IN the/AT three/CD cards/NNS comprising/VBG the/AT set/NN for/IN each/DT firm/NN was/BEDZ identified/VBN with/IN the/AT appropriate/JJ serial/NN number/NN of/IN the/AT respondent/NN ./pct
+The/AT cards/NNS were/BED then/RB processed/VBN using/VBG standard/JJ IBM/NN punch/NN card/NN equipment/NN ,/pct including/IN an/AT IBM/NN 650/CD computer/NN ./pct
+The/AT first/OD step/NN in/IN processing/VBG was/BEDZ to/TO analyze/VB the/AT returns/NNS from/IN Questions/NNS 1/CD ,/pct 2/CD ,/pct and/CC 3/CD to/TO determine/VB whether/CS the/AT respondents/NNS were/BED large/JJ businesses/NNS or/CC small/JJ businesses/NNS ,/pct in/IN accordance/NN with/IN the/AT definitions/NNS contained/VBN in/IN ASPR/NN Section/NN 1-701/CD ./pct
+(/pct see/VB Chapter/NN 2/CD ./pct
+)/pct The/AT results/NNS are/BER shown/VBN in/IN Table/NN 3/CD ./pct
+The/AT returns/NNS from/IN companies/NNS classified/VBN as/CS large/JJ businesses/NNS were/BED set/VBN aside/RB and/CC not/NEG used/VBN because/CS they/PPSS were/BED not/NEG relevant/JJ to/IN a/AT study/NN of/IN the/AT opinions/NNS and/CC practices/NNS of/IN small/JJ firms/NNS ./pct
+The/AT second/OD step/NN in/IN processing/VBG was/BEDZ to/TO compare/VB the/AT responses/NNS from/IN companies/NNS on/IN the/AT AIA/NN list/NN with/IN those/DTS from/IN companies/NNS on/IN the/AT TR/NN list/NN in/IN order/NN to/TO determine/VB whether/CS it/PPS would/MD be/BE appropriate/JJ to/TO merge/VB the/AT responses/NNS for/IN the/AT purposes/NNS of/IN the/AT study/NN ./pct
+The/AT methods/NNS and/CC results/NNS of/IN this/DT comparative/JJ analysis/NN are/BER described/VBN in/IN Appendix/NN Aj/NP ./pct
+It/PPS was/BEDZ concluded/VBN that/CS it/PPS would/MD be/BE appropriate/JJ to/TO process/VB the/AT two/CD groups/NNS of/IN responses/NNS as/CS a/AT single/AP sample/NN of/IN all/ABN small/JJ businesses/NNS engaged/VBN in/IN ,/pct or/CC wishing/VBG to/TO sell/VB to/IN ,/pct defense/NN programs/NNS ./pct
+In/IN the/AT first/OD place/NN ,/pct the/AT two/CD groups/NNS of/IN firms/NNS ,/pct when/WRB combined/VBN ,/pct had/HVD characteristics/NNS and/CC practices/NNS that/WPS were/BED more/QL representative/JJ of/IN companies/NNS that/WPS were/BED the/AT subject/NN of/IN this/DT study/NN than/CS did/DOD the/AT firms/NNS from/IN the/AT AIA/NN list/NN alone/RB ./pct

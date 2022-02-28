@@ -1,0 +1,114 @@
+The/AT soybean/NN seed/NN is/BEZ the/AT most/QL important/JJ leguminous/JJ food/NN in/IN the/AT world/NN ./pct
+In/IN the/AT United/VBN States/NNS ,/pct where/WRB half/ABN of/IN the/AT world/NN crop/NN is/BEZ grown/VBN ,/pct soybeans/NNS are/BER processed/VBN for/IN their/PPg edible/JJ oil/NN ./pct
+The/AT residue/NN from/IN soybean/NN processing/NN goes/VBZ mainly/RB into/IN animal/NN feeds/NNS ./pct
+Soybeans/NNS are/BER extensively/RB processed/VBN into/IN a/AT remarkable/JJ number/NN of/IN food/NN products/NNS in/IN the/AT Orient/NP ./pct
+American/JJ chemists/NNS ,/pct seeking/VBG to/TO increase/VB exports/NNS of/IN soybeans/NNS ,/pct have/HV adapted/VBN modern/JJ techniques/NNS and/CC fermentation/NN methods/NNS to/TO improve/VB their/PPg use/NN in/IN such/JJ traditional/JJ Japanese/JJ foods/NNS as/CS tofu/NN and/CC miso/NN and/CC in/IN tempeh/NN of/IN Indonesia/NP ./pct
+Soybean/NN flour/NN ,/pct grits/NNS ,/pct flakes/NNS ,/pct ``/pct milk/NN ''/pct ,/pct and/CC curd/NN can/MD be/BE bought/VBN in/IN the/AT United/VBN States/NNS ./pct
+Peanuts/NNS are/BER the/AT world's/NNg second/OD most/QL important/JJ legume/NN ./pct
+They/PPSS are/BER used/VBN mainly/RB for/IN their/PPg oil/NN ./pct
+We/PPSS produce/VB peanut/NN oil/NN ,/pct but/CC to/IN a/AT much/QL greater/JJR extent/NN we/PPSS eat/VB the/AT entire/JJ seed/NN ./pct
+Blanched/VBN peanuts/NNS ,/pct as/CS prepared/VBN for/IN making/VBG peanut/NN butter/NN or/CC for/IN eating/VBG as/CS nuts/NNS ,/pct are/BER roasted/VBN seeds/NNS whose/WPg seedcoats/NNS have/HV been/BEN rubbed/VBN off/RP ./pct
+Cereal/NN grains/NNS ,/pct supplemented/VBN with/IN soybeans/NNS or/CC dry/JJ edible/JJ peas/NNS or/CC beans/NNS ,/pct comprise/VB about/RB two-thirds/NNS or/CC three-fourths/NNS of/IN the/AT diet/NN in/IN parts/NNS of/IN Asia/NP and/CC Africa/NP ./pct
+In/IN western/JJ Europe/NP and/CC North/JJ America/NP ,/pct where/WRB the/AT level/NN of/IN economic/JJ development/NN is/BEZ higher/JJR ,/pct grains/NNS and/CC other/AP seed/NN products/NNS furnish/VB less/AP than/IN one-third/NN of/IN the/AT food/NN consumed/VBN ./pct
+Rather/RB ,/pct meat/NN and/CC potatoes/NNS ,/pct sugar/NN ,/pct and/CC dairy/NN products/NNS are/BER the/AT main/JJS sources/NNS of/IN carbohydrate/NN ,/pct protein/NN ,/pct oils/NNS ,/pct and/CC fats/NNS ./pct
+People/NNS depend/VB less/RBR on/IN seeds/NNS for/IN foods/NNS in/IN Australia/NP ,/pct New/JJ Zealand/NP ,/pct and/CC Argentina/NP ,/pct where/WRB extensive/JJ grazing/VBG lands/NNS support/VB sheep/NNS or/CC cattle/NNS ,/pct and/CC the/AT consumption/NN of/IN meat/NN is/BEZ high/JJ ./pct
+Feeds/NNS for/IN livestock/NN took/VBD about/RB one-sixth/NN of/IN the/AT world's/NNg cereal/NN crop/NN in/IN 1957-1958/CD ./pct
+Most/AP of/IN the/AT grain/NN is/BEZ fed/VBN to/IN swine/NNS and/CC dairy/NN cows/NNS and/CC lesser/JJR amounts/NNS to/IN beef/NN cattle/NNS and/CC poultry/NN ./pct
+About/RB 90/CD percent/NN of/IN the/AT corn/NN used/VBN in/IN the/AT United/VBN States/NNS is/BEZ fed/VBN to/IN animals/NNS ./pct
+The/AT rest/NN is/BEZ used/VBN for/IN human/JJ food/NN and/CC industrial/JJ products/NNS ./pct
+More/AP than/IN half/ABN of/IN the/AT sorghum/NN and/CC barley/NN seeds/NNS we/PPSS produce/VB and/CC most/AP of/IN the/AT byproducts/NNS of/IN the/AT milling/NN of/IN cereals/NNS and/CC the/AT crushing/NN of/IN oilseeds/NNS are/BER fed/VBN to/IN livestock/NN ./pct
+More/AP than/IN 200/CD million/CD tons/NNS of/IN seeds/NNS and/CC seed/NN products/NNS are/BER fed/VBN to/IN livestock/NN annually/RB in/IN the/AT United/VBN States/NNS ./pct
+The/AT efficiency/NN with/IN which/WDT animals/NNS convert/VB grains/NNS and/CC forages/NNS to/IN meat/NN has/HVZ risen/VBN steadily/RB in/IN the/AT United/VBN States/NNS since/IN the/AT 1930's/NNS and/CC has/HVZ paralleled/VBN the/AT increased/VBN feeding/NN of/IN the/AT cake/NN and/CC meal/NN that/WPS are/BER a/AT byproduct/NN when/WRB seeds/NNS are/BER processed/VBN for/IN oil/NN ./pct
+The/AT demand/NN for/IN food/NN is/BEZ so/QL great/JJ in/IN the/AT world/NN that/CS little/AP arable/JJ land/NN can/MD be/BE given/VBN over/RP to/IN growing/VBG the/AT nonfood/NN crops/NNS ./pct
+Seeds/NNS grown/VBN for/IN industrial/JJ uses/NNS hold/VB a/AT relatively/QL minor/JJ position/NN ./pct
+Chief/JJS among/IN the/AT seed/NN crops/NNS grown/VBN primarily/RB for/IN industrial/JJ uses/NNS are/BER the/AT oil-bearing/JJ seeds/NNS --/pct flax/NN ,/pct castor/NN ,/pct tung/NN (/pct nuts/NNS from/IN the/AT China/NP wood-oil/NN tree/NN )/pct ,/pct perilla/NN (/pct from/IN an/AT Oriental/JJ mint/NN )/pct ,/pct and/CC oiticica/NN (/pct from/IN a/AT Brazilian/JJ tree/NN )/pct ./pct
+Oils/NNS ,/pct or/CC liquid/NN fats/NNS ,/pct from/IN the/AT seeds/NNS of/IN flax/NN and/CC tung/NN have/HV long/RB been/BEN the/AT principal/JJS constituents/NNS of/IN paints/NNS and/CC varnishes/NNS for/IN protecting/VBG and/CC beautifying/VBG the/AT surfaces/NNS of/IN wood/NN and/CC metal/NN ./pct
+These/DTS oils/NNS develop/VB hard/JJ ,/pct smooth/JJ films/NNS when/WRB they/PPSS dry/VB and/CC form/VB resinlike/JJ substances/NNS ./pct
+The/AT artist/NN who/WPS paints/VBZ in/IN oil/NN uses/VBZ drying/VBG oils/NNS to/TO carry/VB the/AT pigments/NNS and/CC to/TO protect/VB his/PPg finished/VBN work/NN for/IN the/AT ages/NNS ./pct
+One/CD of/IN the/AT finest/JJT of/IN artists'/NNSg oils/NNS comes/VBZ from/IN poppy/NN seeds/NNS ./pct
+Seeds/NNS of/IN soybean/NN ,/pct cotton/NN ,/pct corn/NN ,/pct sesame/NN ,/pct and/CC rape/NN yield/VB semidrying/VBG oils/NNS ./pct
+Some/DTI are/BER used/VBN in/IN paints/NNS along/RB with/IN drying/VBG oils/NNS ./pct
+Palm/NN oil/NN protects/VBZ the/AT surfaces/NNS of/IN steel/NN sheets/NNS before/CS they/PPSS are/BER plated/VBN with/IN tin/NN ./pct
+Castor/NN oil/NN ,/pct made/VBN from/IN castorbeans/NNS ,/pct has/HVZ gone/VBN out/IN of/IN style/NN as/CS a/AT medicine/NN ./pct
+This/DT nondrying/JJ oil/NN ,/pct however/RB ,/pct is/BEZ now/RB more/RBR in/IN demand/NN than/CS ever/RB before/RB as/CS a/AT fine/JJ lubricant/NN ,/pct as/CS a/AT constituent/NN of/IN fluids/NNS for/IN hydraulically/RB operated/VBN equipment/NN ,/pct and/CC as/CS a/AT source/NN of/IN chemicals/NNS to/TO make/VB plastics/NNS ./pct
+Almond/NN oil/NN ,/pct another/DT nondrying/JJ oil/NN ,/pct was/BEDZ once/RB used/VBN extensively/RB in/IN perfumery/NN to/TO extract/VB flower/NN fragrances/NNS ./pct
+It/PPS is/BEZ still/RB used/VBN in/IN drugs/NNS and/CC cosmetics/NNS ,/pct but/CC it/PPS is/BEZ rather/QL scarce/JJ and/CC sometimes/RB is/BEZ adulterated/VBN with/IN oils/NNS from/IN peach/NN and/CC plum/NN seeds/NNS ./pct
+Liquid/NN fats/NNS from/IN all/ABN these/DTS oilseeds/NNS enter/VB into/IN the/AT manufacture/NN of/IN soaps/NNS for/IN industry/NN and/CC the/AT household/NN and/CC of/IN glycerin/NN for/IN such/JJ industrial/JJ uses/NNS as/CS making/VBG explosives/NNS ./pct
+Sizable/JJ amounts/VBZ of/IN soybean/NN ,/pct coconut/NN ,/pct and/CC palm/NN kernel/NN oil/NN --/pct seed/NN oils/NNS that/WPS are/BER produced/VBN primarily/RB for/IN food/NN purposes/NNS --/pct also/RB are/BER used/VBN to/TO make/VB soaps/NNS ,/pct detergents/NNS ,/pct and/CC paint/NN resins/NNS ./pct
+Solid/JJ fats/NNS from/IN the/AT seeds/NNS of/IN the/AT mahua/NN tree/NN ,/pct the/AT shea/NN tree/NN ,/pct and/CC the/AT coconut/NN palm/NN are/BER used/VBN to/TO make/VB candles/NNS in/IN tropical/JJ countries/NNS ./pct
+Seeds/NNS are/BER a/AT main/JJS source/NN of/IN starch/NN for/IN industrial/JJ and/CC food/NN use/NN in/IN many/AP parts/NNS of/IN the/AT world/NN ./pct
+Corn/NN and/CC wheat/NN supply/VB most/AP of/IN the/AT starch/NN in/IN the/AT United/VBN States/NNS ,/pct Canada/NP ,/pct and/CC Australia/NP ./pct
+In/IN other/AP countries/NNS where/WRB cereal/NN grains/NNS are/BER not/NEG among/IN the/AT principal/JJS crops/NNS of/IN a/AT region/NN ,/pct starchy/JJ tubers/NNS or/CC roots/NNS are/BER processed/VBN for/IN starch/NN ./pct
+Starch/NN is/BEZ used/VBN in/IN the/AT paper/NN ,/pct textile/NN ,/pct and/CC food-processing/JJ industries/NNS and/CC in/IN a/AT multitude/NN of/IN other/AP manufacturing/VBG operations/NNS ./pct
+Gums/NNS were/BED extracted/VBN from/IN quince/NN ,/pct psyllium/NN (/pct fleawort/NN )/pct ,/pct flax/NN ,/pct and/CC locust/NN (/pct carob/NN )/pct seeds/NNS in/IN ancient/JJ times/NNS ./pct
+Today/NR the/AT yearly/JJ import/NN into/IN the/AT United/VBN States/NNS of/IN locust/NN bean/NN gum/NN is/BEZ more/AP than/IN 15/CD million/CD pounds/NNS ;/pct ;/pct
+of/IN psyllium/NN seed/NN ,/pct more/AP than/IN 2.6/CD million/CD ./pct
+The/AT discovery/NN during/IN the/AT Second/OD World/NN War/NN that/CS guar/NN gum/NN was/BEDZ similar/JJ to/IN imported/VBN locust/NN gum/NN increased/VBD its/PPg cultivation/NN in/IN western/JJ Asia/NP and/CC initiated/VBD it/PPO in/IN the/AT United/VBN States/NNS ./pct
+Water-soluble/JJ gums/NNS are/BER used/VBN in/IN foods/NNS and/CC drugs/NNS and/CC in/IN the/AT manufacture/NN of/IN pulp/NN and/CC paper/NN as/CS thickeners/NNS ,/pct stabilizers/NNS ,/pct or/CC dispersing/VBG agents/NNS ./pct
+Guar/NN gum/NN thickens/VBZ salad/NN dressings/NNS and/CC stabilizes/VBZ ice/NN cream/NN ./pct
+Quince/NN seed/NN gum/NN is/BEZ the/AT main/JJS ingredient/NN in/IN wave-setting/JJ lotions/NNS ./pct
+Once/RB regarded/VBN as/CS an/AT agricultural/JJ nuisance/NN ,/pct psyllium/NN was/BEDZ sold/VBN in/IN the/AT 1930's/NNS as/CS a/AT mechanical/JJ laxative/NN under/IN 117/CD different/JJ brands/NNS ./pct
+Locust/NN gum/NN is/BEZ added/VBN to/IN pulp/NN slurries/NNS to/TO break/VB up/RP the/AT lumps/NNS of/IN fibers/NNS in/IN making/VBG paper/NN ./pct
+The/AT seeds/NNS of/IN hard/JJ ,/pct fibrous/JJ ,/pct stony/JJ fruits/NNS ,/pct called/VBN nuts/NNS ,/pct provide/VB highly/QL concentrated/VBN foods/NNS ,/pct oils/NNS ,/pct and/CC other/AP materials/NNS of/IN value/NN ./pct
+Most/AP nuts/NNS consist/VB of/IN the/AT richly/QL packaged/VBN storage/NN kernel/NN and/CC its/PPg thick/JJ ,/pct adherent/JJ ,/pct brown/JJ covering/NN --/pct the/AT seedcoat/NN ./pct
+The/AT kernels/NNS of/IN brazil/NN nuts/NNS ,/pct cashews/NNS ,/pct coconuts/NNS ,/pct filberts/NNS ,/pct hazelnuts/NNS ,/pct hickory/NN nuts/NNS ,/pct pecans/NNS ,/pct walnuts/NNS ,/pct and/CC pine/NN nuts/NNS are/BER predominantly/QL oily/JJ ./pct
+Almonds/NNS and/CC pistachio/NN nuts/NNS are/BER not/NEG so/QL high/JJ in/IN oil/NN but/CC are/BER rich/JJ in/IN protein/NN ./pct
+Chestnuts/NNS are/BER starchy/JJ ./pct
+All/ABN nut/NN kernels/NNS are/BER rich/JJ in/IN protein/NN ./pct
+The/AT world/NN production/NN of/IN familiar/JJ seed/NN nuts/NNS --/pct almonds/NNS ,/pct brazil/NN nuts/NNS ,/pct filberts/NNS ,/pct and/CC the/AT English/JJ walnuts/NNS --/pct totals/VBZ about/RB 300/CD thousand/CD tons/NNS annually/RB ./pct
+Coconuts/NNS ,/pct the/AT fruit/NN of/IN the/AT coconut/NN palm/NN ,/pct have/HV the/AT largest/JJT of/IN all/ABN known/VBN seeds/NNS and/CC are/BER grown/VBN in/IN South/JJ Pacific/NP islands/NNS as/CS a/AT crop/NN for/IN domestic/JJ and/CC export/NN markets/NNS ./pct
+The/AT oil/NN palm/NN of/IN West/JJ Africa/NP yields/VBZ edible/JJ oil/NN from/IN both/ABX the/AT flesh/NN and/CC the/AT seed/NN or/CC kernel/NN of/IN its/PPg fruit/NN ./pct
+World/NN production/NN of/IN copra/NN ,/pct the/AT oil-bearing/JJ flesh/NN of/IN the/AT coconut/NN ,/pct was/BEDZ a/AT little/QL more/AP than/IN 3/CD million/CD tons/NNS in/IN 1959/CD ./pct
+Exports/NNS from/IN producing/VBG countries/NNS in/IN terms/NNS of/IN equivalent/JJ oil/NN were/BED a/AT little/QL more/AP than/IN 1/CD million/CD tons/NNS ,/pct about/RB half/ABN of/IN which/WDT was/BEDZ palm/NN kernels/NNS or/CC oil/NN from/IN them/PPO and/CC about/RB half/ABN was/BEDZ palm/NN oil/NN ./pct
+Other/AP nuts/NNS consumed/VBN in/IN lesser/JJR quantity/NN include/VB the/AT spicy/JJ nutmeg/NN ;/pct ;/pct
+the/AT soap/NN nut/NN ,/pct which/WDT owes/VBZ its/PPg sudsing/VBG power/NN to/IN natural/JJ saponins/NNS ;/pct ;/pct
+the/AT marking/VBG nut/NN ,/pct used/VBN for/IN ink/NN and/CC varnish/NN ;/pct ;/pct
+the/AT aromatic/JJ sassafras/NN nut/NN of/IN South/JJ America/NP ;/pct ;/pct
+and/CC the/AT sweet-smelling/JJ cumara/NN nut/NN ,/pct which/WDT is/BEZ suited/VBN for/IN perfumes/NNS ./pct
+A/AT forest/NN crop/NN that/WPS has/HVZ not/NEG been/BEN extensively/RB cultivated/VBN is/BEZ ivory/NN nuts/NNS from/IN the/AT tagua/NN palm/NN ./pct
+The/AT so-called/JJ vegetable/NN ivory/NN is/BEZ the/AT hard/JJ endosperm/NN of/IN the/AT egg-sized/JJ seed/NN ./pct
+It/PPS is/BEZ used/VBN for/IN making/VBG buttons/NNS and/CC other/AP small/JJ ,/pct hard/JJ objects/NNS of/IN turnery/NN ./pct
+Seeds/NNS of/IN the/AT sago/NN palm/NN are/BER used/VBN in/IN Bermuda/NP to/TO make/VB heads/NNS and/CC faces/NNS of/IN dolls/NNS sold/VBN to/IN tourists/NNS ./pct
+The/AT color/NN and/CC shape/NN of/IN seeds/NNS have/HV long/RB made/VBN them/PPO attractive/JJ for/IN ornaments/NNS and/CC decorations/NNS ./pct
+Since/IN Biblical/JJ times/NNS ,/pct rosaries/NNS have/HV been/BEN made/VBN from/IN jobs-tears/NNS --/pct the/AT seeds/NNS of/IN an/AT Asiatic/JJ grass/NN ./pct
+Bead/NN tree/NN seeds/NNS are/BER the/AT necklaces/NNS of/IN South/JJ Pacific/JJ islanders/NNS and/CC the/AT eyes/NNS of/IN Buddha/NP dolls/NNS in/IN Cuba/NP ./pct
+Victorian/JJ ladies/NNS had/HVD a/AT fad/NN of/IN stringing/VBG unusual/JJ seeds/NNS to/TO wear/VB as/CS jewelry/NN ./pct
+Handmade/JJ Christmas/NP wreaths/NNS and/CC trees/NNS often/RB contain/VB a/AT variety/NN of/IN seeds/NNS collected/VBN during/IN the/AT year/NN ./pct
+Tradition/NN has/HVZ assigned/VBN medicinal/JJ values/NNS to/IN seeds/NNS because/RB of/IN their/PPg alkaloids/NNS ,/pct aromatic/JJ oils/NNS ,/pct and/CC highly/QL flavored/VBN components/NNS ./pct
+Although/CS science/NN has/HVZ given/VBN us/PPO more/QL effective/JJ materials/NNS ,/pct preparations/NNS from/IN anise/NN ,/pct castorbean/NN ,/pct colchicum/NN ,/pct nux/NN vomica/NN ,/pct mustard/NN ,/pct fennel/NN ,/pct and/CC stramonium/NN are/BER familiar/JJ to/IN many/AP for/IN the/AT relief/NN of/IN human/JJ ailments/NNS ./pct
+Flaxseed/NN poultices/NNS and/CC mustard/NN plasters/NNS still/RB are/BER used/VBN by/IN some/DTI persons/NNS ./pct
+Peanut/NN and/CC sesame/NN oils/NNS often/RB are/BER used/VBN as/CS carriers/NNS or/CC diluents/NNS for/IN medicines/NNS administered/VBN by/IN injection/NN ./pct
+Still/RB another/DT group/NN of/IN seeds/NNS (/pct sometimes/RB tiny/JJ ,/pct dry/JJ ,/pct seed-bearing/JJ fruits/NNS )/pct provide/VB distinctive/JJ flavors/NNS and/CC odors/NNS to/IN foods/NNS ,/pct although/CS the/AT nutrients/NNS they/PPSS supply/VB are/BER quite/QL negligible/JJ ./pct
+The/AT common/JJ spices/NNS ,/pct flavorings/NNS ,/pct and/CC condiments/NNS make/VB up/RP this/DT group/NN ./pct
+Each/DT year/NN millions/NNS of/IN pounds/NNS of/IN anise/NN ,/pct caraway/NN ,/pct mustard/NN ,/pct celery/NN ,/pct and/CC coriander/NN and/CC the/AT oils/NNS extracted/VBN from/IN them/PPO are/BER imported/VBN ./pct
+Single-seeded/JJ dry/JJ fruits/NNS used/VBN for/IN flavoring/VBG include/VB several/AP of/IN the/AT carrot/NN family/NN ,/pct such/JJ as/CS cumin/NN ,/pct dill/NN ,/pct fennel/NN ,/pct and/CC angelica/NN ./pct
+Less/QL common/JJ seeds/NNS used/VBN in/IN cooking/VBG and/CC beverages/NNS include/VB fenugreek/NN (/pct artificial/JJ maple/NN flavor/NN )/pct and/CC cardamom/NN ./pct
+White/JJ pepper/NN is/BEZ the/AT ground/VBN seed/NN of/IN the/AT common/JJ black/JJ pepper/NN fruit/NN ./pct
+Sesame/NN seed/NN ,/pct which/WDT comes/VBZ from/IN the/AT tall/JJ pods/NNS of/IN a/AT plant/NN grown/VBN in/IN Egypt/NP ,/pct Brazil/NP ,/pct and/CC Central/JJ America/NP ,/pct has/HVZ a/AT toasted-nut/NN flavor/NN and/CC can/MD be/BE used/VBN in/IN almost/RB any/DTI dish/NN calling/VBG for/IN almonds/NNS ./pct
+It/PPS is/BEZ a/AT main/JJS flavoring/NN for/IN halvah/NN ,/pct the/AT candy/NN of/IN the/AT Middle/JJ East/NR ./pct
+Sesame/NN sticks/NNS ,/pct a/AT snack/NN dip/NN ,/pct originated/VBN in/IN the/AT Southwest/NR ./pct
+Beverages/NNS are/BER made/VBN from/IN seeds/NNS the/AT world/NN over/RP ./pct
+Coffee/NN is/BEZ made/VBN from/IN the/AT roasted/VBN and/CC ground/VBN seeds/NNS of/IN the/AT coffee/NN tree/NN ./pct
+World/NN production/NN of/IN coffee/NN broke/VBD all/QL previous/JJ records/NNS in/IN 1959/CD and/CC 1960/CD at/IN more/AP than/IN 5/CD million/CD tons/NNS ./pct
+Per/IN capita/NNS consumption/NN remains/VBZ around/RB 16/CD pounds/NNS in/IN the/AT United/VBN States/NNS ./pct
+Cocoa/NN ,/pct chocolate/NN ,/pct and/CC cocoa/NN butter/NN come/VB from/IN the/AT ground/VBN seeds/NNS of/IN the/AT cacao/NN tree/NN ./pct
+World/NN production/NN of/IN about/RB 1/CD million/CD tons/NNS is/BEZ divided/VBN primarily/RB between/IN Africa/NP (/pct 63/CD percent/NN )/pct and/CC South/JJ America/NP (/pct 27/CD percent/NN )/pct ./pct
+Several/AP soft/JJ drinks/NNS contain/VB extracts/NNS from/IN kola/NN nuts/NNS ,/pct the/AT seed/NN of/IN the/AT kola/NN tree/NN cultivated/VBN in/IN the/AT West/JJ Indies/NPS and/CC South/JJ America/NP ./pct
+Cereal/NN grains/NNS have/HV been/BEN used/VBN for/IN centuries/NNS to/TO prepare/VB fermented/VBN beverages/NNS ./pct
+The/AT Japanese/JJ sake/NN is/BEZ wine/NN fermented/VBN from/IN rice/NN grain/NN ./pct
+Arrack/NN is/BEZ distilled/VBN from/IN fermented/VBN rice/NN in/IN India/NP ./pct
+Beer/NN ,/pct generally/RB fermented/VBN from/IN barley/NN ,/pct is/BEZ an/AT old/JJ alcoholic/JJ beverage/NN ./pct
+Beer/NN was/BEDZ brewed/VBN by/IN the/AT Babylonians/NPS and/CC Egyptians/NPS more/AP than/IN 6/CD thousand/CD years/NNS ago/RB ./pct
+Brewers/NNS today/NR use/NN corn/NN ,/pct rice/NN ,/pct and/CC malted/VBN barley/NN ./pct
+Distillers/NNS use/VB corn/NN ,/pct malt/NN ,/pct wheat/NN ,/pct grain/NN sorghum/NN ,/pct and/CC rye/NN in/IN making/VBG beverage/NN alcohol/NN ./pct
+Seed/NN crops/NNS hold/VB a/AT prominent/JJ place/NN in/IN the/AT agricultural/JJ economy/NN of/IN the/AT United/VBN States/NNS ./pct
+The/AT farm/NN value/NN of/IN seeds/NNS produced/VBN in/IN this/DT country/NN for/IN all/ABN purposes/NNS ,/pct including/IN the/AT cereals/NNS ,/pct is/BEZ nearly/RB 10/CD billion/CD dollars/NNS a/AT year/NN ./pct
+Cereal/NN grains/NNS ,/pct oilseeds/NNS ,/pct and/CC dry/JJ beans/NNS and/CC peas/NNS account/VB for/IN about/RB 57/CD percent/NN of/IN the/AT farm/NN value/NN of/IN all/ABN crops/NNS raised/VBN ./pct
+The/AT economic/JJ importance/NN of/IN seed/NN crops/NNS actually/RB is/BEZ even/QL greater/JJR ,/pct because/CS additional/JJ returns/NNS are/BER obtained/VBN from/IN most/AP of/IN the/AT corn/NN ,/pct oats/NN ,/pct barley/NN ,/pct and/CC sorghum/NN --/pct as/QL well/RB as/CS the/AT cake/NN and/CC meal/NN from/IN the/AT processing/NN of/IN flaxseed/NN ,/pct cottonseed/NN ,/pct and/CC soybeans/NNS --/pct through/IN conversion/NN to/IN poultry/NN ,/pct meat/NN ,/pct and/CC dairy/NN products/NNS ./pct
+Seeds/NNS furnish/VB about/RB 40/CD percent/NN of/IN the/AT total/NN nutrients/NNS consumed/VBN by/IN all/ABN livestock/NN ./pct
+Hay/NN and/CC pasture/NN are/BER the/AT other/AP chief/JJS sources/NNS of/IN livestock/NN feed/NN ./pct
+Seeds/NNS are/BER the/AT essential/JJ raw/JJ materials/NNS for/IN milling/VBG grain/NN ,/pct baking/VBG ,/pct crushing/VBG oilseed/NN ,/pct refining/VBG edible/JJ oil/NN ,/pct brewing/VBG ,/pct distilling/VBG ,/pct and/CC mixing/VBG feed/NN ./pct
+More/AP than/IN 11/CD thousand/CD business/NN establishments/NNS in/IN the/AT United/VBN States/NNS were/BED based/VBN on/IN cereals/NNS and/CC oilseeds/NNS in/IN 1954/CD ./pct
+The/AT value/NN of/IN products/NNS from/IN these/DTS industries/NNS was/BEDZ 15.8/CD billion/CD dollars/NNS ,/pct of/IN which/WDT about/RB one-third/NN was/BEDZ created/VBN by/IN manufacturing/VBG processes/NNS ./pct
+Not/NEG included/VBN was/BEDZ the/AT value/NN of/IN seed/NN oil/NN in/IN paints/NNS and/CC varnishes/NNS or/CC the/AT value/NN of/IN the/AT coffee/NN and/CC chocolate/NN industries/NNS that/WPS are/BER based/VBN on/IN imported/VBN seed/NN or/CC seed/NN products/NNS ./pct
+Cereal/NN grains/NNS furnish/VB about/RB one-fourth/NN of/IN the/AT total/NN food/NN calories/NNS in/IN the/AT American/JJ diet/NN and/CC about/RB one-third/NN of/IN the/AT total/NN nutrients/NNS consumed/VBN by/IN all/ABN livestock/NN and/CC poultry/NN ./pct

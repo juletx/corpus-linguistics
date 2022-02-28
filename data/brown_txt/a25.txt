@@ -1,0 +1,107 @@
+Asilomar/NP ,/pct March/NP 26/CD
+Vast/JJ spraying/VBG programs/NNS conducted/VBN by/IN ``/pct technicians/NNS with/IN narrow/JJ training/NN and/CC little/AP wisdom/NN ''/pct are/BER endangering/VBG crops/NNS and/CC wildlife/NN ,/pct Carl/NP W./NP Buchheister/NP ,/pct president/NN of/IN the/AT National/JJ Audubon/NP Society/NN ,/pct said/VBD today/NR ./pct
+``/pct It/PPS is/BEZ like/CS handing/VBG a/AT loaded/VBN automatic/JJ to/IN an/AT 8-year-old/JJ and/CC telling/VBG him/PPO to/TO run/VB out/RP and/CC play/VB ''/pct ,/pct he/PPS commented/VBD ./pct
+Buchheister/NP told/VBD delegates/NNS to/IN the/AT West/JJ Coast/NN Audubon/NP Convention/NN that/CS aerial/JJ spraying/NN in/IN Louisiana/NP failed/VBD to/TO destroy/VB its/PPg target/NN ,/pct the/AT fire/NN ant/NN ./pct
+``/pct But/CC it/PPS did/DOD destroy/VB the/AT natural/JJ controls/NNS of/IN a/AT borer/NN and/CC released/VBD a/AT new/JJ plague/NN that/WPS wrecked/VBD a/AT sugar/NN cane/NN crop/NN ''/pct ,/pct he/PPS said/VBD ./pct
+The/AT conservation/NN leader/NN said/VBD other/AP mistakes/NNS in/IN spraying/VBG had/HVD caused/VBN serious/JJ damage/NN in/IN Ohio/NP and/CC Wyoming/NP ./pct
+There/EX have/HV even/RB been/BEN serious/JJ errors/NNS in/IN the/AT U./NP S./NP Forest/NN Service/NN ,/pct whose/WPg officials/NNS pride/VB themselves/PPLS in/IN their/PPg scientific/JJ training/NN ,/pct he/PPS added/VBD ./pct
+``/pct The/AT news/NN of/IN their/PPg experiments/NNS reaches/VBZ the/AT farmers/NNS who/WPS ,/pct forgetting/VBG that/CS birds/NNS are/BER the/AT most/QL efficient/JJ natural/JJ enemies/NNS of/IN insects/NNS and/CC rodents/NNS ,/pct are/BER encouraged/VBN to/TO try/VB to/TO get/VB rid/JJ of/IN all/ABN birds/NNS that/WPS occasionally/RB peck/VB their/PPg grapes/NNS or/CC their/PPg blueberries/NNS ''/pct ,/pct Buchheister/NP told/VBD the/AT delegates/NNS ./pct
+In/IN addition/NN to/TO urging/VBG greater/JJR restrictions/NNS on/IN aerial/JJ spraying/NN ,/pct Buchheister/NP called/VBD for/IN support/NN of/IN the/AT Wilderness/NN bill/NN ,/pct creation/NN of/IN national/JJ seashore/NN parks/NNS ,/pct including/IN Point/NN Reyes/NP ;/pct ;/pct
+preservation/NN of/IN the/AT wetlands/NNS where/WRB birds/NNS breed/VB ;/pct ;/pct
+a/AT pesticides/NNS co-ordination/NN act/NN ;/pct ;/pct
+stronger/JJR water/NN pollution/NN control/NN programs/NNS ,/pct and/CC Federal/JJ ratification/NN of/IN an/AT international/JJ convention/NN to/TO halt/VB pollution/NN of/IN the/AT sea/NN by/IN oil/NN ./pct
+The/AT Reed/NP Rogers/NP Da/NP Fonta/NP Wild/JJ Life/NN Sanctuary/NN in/IN Marin/NP county/NN on/IN Friday/NR officially/RB became/VBD the/AT property/NN of/IN the/AT National/JJ Audubon/NP Society/NN ./pct
+Mrs./NP Norman/NP Livermore/NP ,/pct president/NN of/IN the/AT Marin/NP Conservation/NN League/NN ,/pct handed/VBD over/RP the/AT deed/NN to/IN the/AT 645-acre/JJ tidelands/NNS tract/NN south/NR of/IN Greenwood/NP Beach/NN to/IN Carl/NP W./NP Buchheister/NP ,/pct president/NN of/IN the/AT Society/NN ./pct
+The/AT presentation/NN was/BEDZ made/VBN before/IN several/AP hundred/CD persons/NNS at/IN the/AT annual/JJ meeting/NN of/IN the/AT League/NN at/IN Olney/NP Hall/NN ,/pct College/NN of/IN Marin/NP ,/pct Kentfield/NP ./pct
+Buchheister/NP pledged/VBD the/AT land/NN would/MD be/BE an/AT ``/pct inviolate/JJ ''/pct sanctuary/NN for/IN all/ABN birds/NNS ,/pct animals/NNS and/CC plants/NNS ./pct
+Seventeen/CD years/NNS ago/RB today/NR ,/pct German/JJ scientist/NN Willy/NP Fiedler/NP climbed/VBD into/IN a/AT makeshift/JJ cockpit/NN installed/VBN in/IN a/AT V-1/NN rocket-bomb/NN that/WPS was/BEDZ attached/VBN to/IN the/AT underbelly/NN of/IN a/AT Heinkel/NP bomber/NN ./pct
+The/AT World/NN War/NN 2/CD ,/pct German/JJ bomber/NN rolled/VBD down/IN a/AT runway/NN and/CC took/VBD off/RP ./pct
+The/AT only/AP way/NN Fiedler/NP could/MD get/VB back/RB to/IN earth/NN alive/JJ was/BEDZ to/TO fly/VB the/AT pulse/NN jet/NN missile/NN and/CC land/VB it/PPO on/IN the/AT airstrip/NN ./pct
+This/DT had/HVD never/RB been/BEN done/VBN before/RB ./pct
+Now/RB a/AT quiet-spoken/JJ ,/pct middle-aged/JJ man/NN ,/pct Fiedler/NP is/BEZ an/AT aeronautical/JJ engineer/NN for/IN Lockheed's/NPg Missiles/NNS and/CC Space/NN Division/NN at/IN Sunnyvale/NP ,/pct where/WRB he/PPS played/VBD a/AT key/NN role/NN in/IN the/AT development/NN of/IN the/AT Navy's/NNg Polaris/NP missile/NN ./pct
+He/PPS sat/VBD in/IN his/PPg office/NN yesterday/NR and/CC recalled/VBD that/DT historic/JJ flight/NN in/IN 1944/CD ./pct
+``/pct The/AT first/OD two/CD pilots/NNS had/HVD crashed/VBN ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct I/PPSS had/HVD developed/VBN the/AT machines/NNS and/CC therefore/RB knew/VBD them/PPO ./pct
+It/PPS was/BEDZ time/NN to/TO go/VB up/RP myself/PPL ''/pct ./pct
+Fiedler/NP was/BEDZ then/RB technical/JJ director/NN of/IN Hitler's/NPg super-secret/JJ ``/pct Reichenberg/NP project/NN ''/pct ,/pct which/WDT remained/VBD unknown/JJ to/IN the/AT Allies/NNS until/IN after/IN the/AT war/NN ./pct
+About/RB 200/CD of/IN the/AT special/JJ V-1/NN rocket-bombs/NNS were/BED to/TO be/BE made/VBN ready/JJ for/IN manned/VBN flight/NN with/IN an/AT explosive/JJ warhead/NN ./pct
+The/AT target/NN was/BEDZ Allied/VBN shipping/NN --/pct a/AT desperate/JJ effort/NN to/TO stave/VB off/RP the/AT Allied/VBN invasion/NN of/IN Europe/NP ./pct
+The/AT success/NN of/IN the/AT project/NN depended/VBD upon/IN Fiedler's/NPg flight/NN ./pct
+Squeezed/VBN into/IN the/AT few/AP cubic/JJ feet/NNS normally/RB filled/VBN by/IN the/AT rocket's/NNg automatic/JJ guidance/NN mechanism/NN ,/pct the/AT scientist/NN waited/VBD while/CS the/AT bomber/NN gained/VBD altitude/NN ./pct
+At/IN 12,000/CD feet/NNS ,/pct Fiedler/NP signaled/VBD ``/pct release/NN ''/pct ,/pct and/CC started/VBD the/AT roaring/VBG pulse-jet/NN engine/NN --/pct then/RB streaked/VBD away/RB from/IN beneath/IN the/AT Heinkel/NP ./pct
+To/IN the/AT German/NP pilot/NN in/IN the/AT bomber/NN the/AT rocket/NN became/VBD a/AT faint/JJ black/JJ speck/NN ,/pct hurtling/VBG through/IN the/AT sky/NN at/IN the/AT then/RB incredible/JJ speed/NN of/IN 420/CD m.p.h./NNS ./pct
+It/PPS was/BEDZ probably/RB man's/NNg first/OD successful/JJ flight/NN in/IN a/AT missile/NN ./pct
+``/pct She/PPS flew/VBD beautifully/RB ''/pct ,/pct said/VBD Fiedler/NP ./pct
+``/pct There/EX was/BEDZ only/RB one/CD power/NN control/NN --/pct a/AT valve/NN to/TO adjust/VB the/AT fuel/NN flow/NN ./pct
+I/PPSS had/HVD exactly/RB 20/CD minutes/NNS to/TO get/VB down/RP to/IN the/AT test/NN strip/NN ''/pct ./pct
+Using/VBG a/AT steering/VBG system/NN that/WPS controlled/VBD the/AT modified/VBN rocket's/NNg tail/NN surfaces/NNS and/CC wings/NNS equipped/VBN with/IN ailerons/NNS ,/pct Fiedler/NP was/BEDZ to/TO land/VB the/AT missile/NN on/IN a/AT skid/NN especially/RB bolted/VBN under/IN the/AT fuselage/NN ./pct
+He/PPS managed/VBD to/TO maneuver/VB the/AT missile/NN to/IN a/AT landing/VBG speed/NN of/IN 200/CD m.p.h./NNS --/pct fast/JJ even/RB for/IN a/AT modern/JJ jet/NN plane/NN touchdown/NN --/pct and/CC banked/VBD into/IN the/AT airfield/NN ./pct
+Moments/NNS later/RBR the/AT V-1/NN skimmed/VBD across/IN the/AT landing/VBG strip/NN ,/pct edging/VBG closer/RBR and/CC closer/RBR to/IN a/AT touchdown/NN --/pct then/RB in/IN a/AT streamer/NN of/IN dust/NN it/PPS landed/VBD ./pct
+Fiedler/NP went/VBD on/RP to/TO make/VB several/AP other/AP test/NN flights/NNS before/CS German/NP pilots/NNS took/VBD over/RP the/AT Reichenberg/NP missiles/NNS ./pct
+The/AT missiles/NNS were/BED to/TO be/BE armed/VBN with/IN an/AT underwater/JJ bomb/NN ./pct
+Pilots/NNS would/MD steer/VB them/PPO in/IN a/AT suicide/NN dive/NN into/IN the/AT water/NN ,/pct striking/VBG below/IN the/AT waterline/NN of/IN individual/JJ ships/NNS ./pct
+A/AT crack/JJ corps/NN of/IN 50/CD pilots/NNS was/BEDZ formed/VBN from/IN the/AT ranks/NNS of/IN volunteers/NNS ,/pct but/CC the/AT project/NN was/BEDZ halted/VBN before/IN the/AT end/NN of/IN the/AT war/NN ,/pct and/CC the/AT missiles/NNS later/RBR fell/VBD into/IN Allied/VBN hands/NNS ./pct
+Now/RB a/AT family/NN man/NN with/IN three/CD children/NNS ,/pct Fiedler/NP lives/VBZ in/IN a/AT quiet/JJ residential/JJ area/NN near/IN the/AT Lockheed/NP plant/NN at/IN Sunnyvale/NP ./pct
+His/PPg spare/JJ time/NN is/BEZ spent/VBN in/IN soaring/VBG gliders/NNS ./pct
+``/pct It's /None so/QL quiet/JJ ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct so/QL slow/JJ ,/pct serene/JJ --/pct and/CC so/QL challenging/JJ ''/pct ./pct
+John/NP Di/NP Massimo/NP has/HVZ been/BEN elected/VBN president/NN of/IN the/AT 1961/CD Columbus/NP Day/NN Celebration/NN Committee/NN ,/pct it/PPS was/BEDZ announced/VBN yesterday/NR ./pct
+Other/AP officers/NNS are/BER Angelo/NP J./NP Scampini/NP ,/pct vice/NN president/NN ,/pct Joseph/NP V./NP Arata/NP ,/pct treasurer/NN ,/pct and/CC Fred/NP J./NP Casassa/NP ,/pct secretary/NN ./pct
+Judge/NN John/NP B./NP Molinari/NP was/BEDZ named/VBN chairman/NN of/IN the/AT executive/NN committee/NN ./pct
+Elected/VBN to/IN the/AT board/NN of/IN directors/NNS were/BED :/pct
+Elios/NP P./NP Anderlini/NP ,/pct Attilio/NP Beronio/NP ,/pct Leo/NP M./NP Bianco/NP ,/pct Frederic/NP Campagnoli/NP ,/pct Joseph/NP Cervetto/NP ,/pct Armond/NP J./NP De/IN Martini/NP ,/pct Grace/NP Duhagon/NP ,/pct John/NP P./NP Figone/NP ,/pct John/NP P./NP Figone/NP Jr./NP ,/pct Stephen/NP Mana/NP ,/pct John/NP Moscone/NP ,/pct Calude/NP Perasso/NP ,/pct Angelo/NP Petrini/NP ,/pct Frank/NP Ratto/NP ,/pct and/CC George/NP R./NP Reilly/NP ./pct
+Dr./NN Albert/NP Schweitzer/NP ,/pct world-famous/JJ theologian/NN and/CC medical/JJ missionary/NN ,/pct has/HVZ endorsed/VBN an/AT Easter/NP March/NN for/IN Disarmament/NN which/WDT begins/VBZ tomorrow/NR in/IN Sunnyvale/NP ./pct
+Members/NNS of/IN the/AT San/NP Francisco/NP American/JJ Friends/NNS Service/NN ,/pct a/AT Quaker/NP organization/NN ,/pct will/MD march/VB to/IN San/NP Francisco/NP for/IN a/AT rally/NN in/IN Union/NN Square/NN at/IN 2/CD p.m./RB Saturday/NR ./pct
+In/IN a/AT letter/NN to/IN the/AT American/JJ Friends/NNS Service/NN ,/pct Dr./NN Schweitzer/NP wrote/VBD :/pct
+``/pct Leading/VBG Nations/NNS of/IN the/AT West/NR and/CC of/IN the/AT East/NR keep/VB busy/JJ making/VBG newer/JJR nuclear/JJ weapons/NNS to/TO defend/VB themselves/PPLS in/IN the/AT event/NN the/AT constantly/RB threatening/VBG nuclear/JJ war/NN should/MD break/VB out/RP ./pct
+``/pct They/PPSS cannot /None do/DO otherwise/RB than/CS live/VB in/IN dread/NN of/IN each/DT other/AP since/CS these/DTS weapons/NNS imply/VB the/AT possibility/NN of/IN such/JJ grisly/JJ surprise/NN attack/NN ./pct
+The/AT only/AP way/NN out/IN of/IN this/DT state/NN of/IN affairs/NNS is/BEZ agreement/NN to/TO abolish/VB nuclear/JJ weapons/NNS ;/pct ;/pct
+otherwise/RB no/AT peace/NN is/BEZ possible/JJ ./pct
+``/pct Governments/NNS apparently/RB do/DO not/NEG feel/VB obligated/VBN to/TO make/VB the/AT people/NNS adequately/RB aware/JJ of/IN this/DT danger/NN ;/pct ;/pct
+therefore/RB we/PPSS need/VB guardians/NNS to/TO demonstrate/VB against/IN the/AT ghastly/JJ stupidity/NN of/IN nuclear/JJ weapons/NNS and/CC jolt/VB the/AT people/NNS out/IN of/IN their/PPg complacency/NN ''/pct ./pct
+A/AT federal/JJ grand/JJ jury/NN called/VBD 10/CD witnesses/NNS yesterday/NR in/IN an/AT investigation/NN of/IN the/AT affairs/NNS of/IN Ben/NP Stein/NP ,/pct 47/CD ,/pct who/WPS collected/VBD big/JJ fees/NNS as/CS a/AT ``/pct labor/NN consultant/NN ''/pct and/CC operator/NN of/IN a/AT janitors'/NNSg service/NN ./pct
+Before/CS he/PPS testified/VBD for/IN 20/CD minutes/NNS ,/pct Stein/NP ,/pct who/WPS lives/VBZ at/IN 3300/CD Lake/NN Shore/NN Dr./NN ,/pct admitted/VBD to/IN reporters/NNS that/CS he/PPS had/HVD a/AT wide/JJ acquaintance/NN with/IN crime/NN syndicate/NN hoodlums/NNS ./pct
+Glimco/NP a/AT buddy/NN
+Among/IN his/PPg gangland/NN buddies/NNS ,/pct he/PPS said/VBD ,/pct were/BED Joseph/NP (/pct Joey/NP )/pct Glimco/NP ,/pct a/AT mob/NN labor/NN racketeer/NN ,/pct and/CC four/CD gang/NN gambling/VBG chiefs/NNS ,/pct Gus/NP (/pct Slim/NP )/pct Alex/NP ,/pct Ralph/NP Pierce/NP ,/pct Joe/NP (/pct Caesar/NP )/pct DiVarco/NP ,/pct and/CC Jimmy/NP (/pct Monk/NP )/pct Allegretti/NP ./pct
+Another/DT hoodlum/NN ,/pct Louis/NP Arger/NP ,/pct drew/VBD $39,000/NNS from/IN Stein's/NPg janitor/NN firm/NN ,/pct the/AT National/JJ Maintenance/NN company/NN ,/pct in/IN three/CD years/NNS ending/VBG in/IN 1959/CD ,/pct Stein/NP disclosed/VBD in/IN an/AT interview/NN ./pct
+``/pct I/PPSS put/VBD Arger/NP on/IN the/AT payroll/NN because/CS he/PPS promised/VBD to/TO get/VB my/PPg firm/NN the/AT stevedore/NN account/NN at/IN Navy/NN pier/NN ''/pct ,/pct Stein/NP said/VBD ./pct
+``/pct But/CC Arger/NP never/RB was/BEDZ able/JJ to/TO produce/VB it/PPO ,/pct so/CS I/PPSS cut/VBD him/PPO off/IN my/PPg payroll/NN ''/pct ./pct
+Connection/NN is/BEZ sought/VBN
+Other/AP witnesses/NNS ,/pct after/IN appearances/NNS before/IN the/AT jury/NN ,/pct which/WDT reportedly/RB is/BEZ probing/VBG into/IN possible/JJ income/NN tax/NN violations/NNS ,/pct disclosed/VBD that/CS government/NN prosecutors/NNS were/BED attempting/VBG to/TO connect/VB Stein/NP and/CC his/PPg company/NN with/IN a/AT number/NN of/IN gangsters/NNS ,/pct including/IN Glimco/NP and/CC Alex/NP ./pct
+The/AT federal/JJ lawyers/NNS ,/pct according/IN to/IN their/PPg witnesses/NNS ,/pct also/RB were/BED tracing/VBG Stein's/NPg fees/NNS as/CS a/AT labor/NN consultant/NN ./pct
+Under/IN scrutiny/NN ,/pct two/CD of/IN the/AT witnesses/NNS said/VBD ,/pct were/BED payments/NNS and/CC loans/NNS to/IN Stein's/NPg National/JJ Maintenance/NN company/NN at/IN 543/CD Madison/NP St./NN ./pct
+The/AT company/NN supplies/VBZ janitors/NNS and/CC workmen/NNS for/IN McCormick/NP Place/NN and/CC factories/NNS ,/pct liquor/NN firms/NNS ,/pct and/CC other/AP businesses/NNS ./pct
+Lee/NP a/AT witness/NN
+Among/IN the/AT witnesses/NNS were/BED Ed/NP J./NP Lee/NP ,/pct director/NN of/IN McCormick/NP Place/NN ;/pct ;/pct
+Jerome/NP Leavitt/NP ,/pct a/AT partner/NN in/IN the/AT Union/NN Liquor/NN company/NN ,/pct 3247/CD S./JJ Kedzie/NP Av./NN ,/pct Dominic/NP Senese/NP ,/pct a/AT teamster/NN union/NN slugger/NN who/WPS is/BEZ a/AT buddy/NN of/IN Stein/NP and/CC a/AT cousin/NN of/IN Tony/NP Accardo/NP ,/pct onetime/JJ gang/NN chief/NN ;/pct ;/pct
+and/CC Frank/NP W./NP Pesce/NP ,/pct operator/NN of/IN a/AT Glimco/NP dominated/VBN deodorant/NN firm/NN ,/pct the/AT Best/NP Sanitation/NN and/CC Supply/NN company/NN ,/pct 1215/CD Blue/JJ Island/NN Av./NN ./pct
+Lee/NP said/VBD he/PPS had/HVD told/VBN the/AT jury/NN that/CS he/PPS made/VBD an/AT agreement/NN in/IN April/NP with/IN Stein/NP to/TO supply/VB and/CC supervise/VB janitors/NNS in/IN McCormick/NP Place/NN ./pct
+Stein's/NPg fee/NN ,/pct Lee/NP said/VBD ,/pct was/BEDZ 10/CD per/IN cent/NN of/IN the/AT janitors'/NNSg pay/NN ./pct
+Stein/NP estimated/VBD this/DT amount/VB at/IN ``/pct about/RB $1,500/NNS or/CC $1,600/NNS a/AT month/NN ''/pct ./pct
+A/AT $12,500/NNS payment/NN
+Leavitt/NP ,/pct as/CS he/PPS entered/VBD the/AT jury/NN room/NN ,/pct said/VBD he/PPS was/BEDZ prepared/VBN to/TO answer/VB questions/NNS about/IN the/AT $12,500/NNS his/PPg liquor/NN firm/NN paid/VBD to/IN Stein/NP for/IN ``/pct labor/NN consultant/NN work/NN ''/pct with/IN five/CD unions/NNS which/WDT organized/VBD Leavitt's/NPg workers/NNS ./pct
+Leavitt/NP identified/VBD the/AT unions/NNS as/CS a/AT warehouseman's/NNg local/NN ,/pct the/AT teamsters/NNS union/NN ,/pct a/AT salesman's/NNg union/NN ,/pct the/AT janitors'/NNSg union/NN ,/pct and/CC a/AT bottling/VBG workers'/NNSg union/NN ./pct
+Government/NN attorneys/NNS ,/pct Leavitt/NP said/VBD ,/pct have/HV questioned/VBN him/PPO closely/RB about/IN ``/pct five/CD or/CC six/CD loans/NNS ''/pct totaling/VBG about/RB $40,000/NNS which/WDT the/AT liquor/NN company/NN made/VBD to/IN Stein/NP in/IN the/AT last/AP year/NN ./pct
+All/ABN of/IN the/AT loans/NNS ,/pct in/IN amounts/NNS up/IN to/IN $5,000/NNS each/DT ,/pct have/HV been/BEN repaid/VBN by/IN Stein/NP ,/pct according/IN to/IN Leavitt/NP ./pct
+Stein/NP said/VBD he/PPS needed/VBD the/AT money/NN ,/pct Leavitt/NP said/VBD ,/pct to/TO ``/pct meet/VB the/AT payroll/NN ''/pct at/IN National/JJ Maintenance/NN company/NN ./pct
+The/AT deodorant/NN firm/NN run/VBN by/IN Pesce/NP has/HVZ offices/NNS in/IN the/AT headquarters/NNS of/IN Glimco's/NPg discredited/VBN taxi/NN drivers'/NNSg union/NN at/IN 1213-15/CD Blue/JJ Island/NN Av./NN ./pct
+The/AT radiation/NN station/NN of/IN the/AT Chicago/NP board/NN of/IN health/NN recorded/VBD a/AT reading/NN of/IN 1/CD micro-microcurie/NN of/IN radiation/NN per/IN cubic/JJ meter/NN of/IN air/NN over/IN Chicago/NP yesterday/NR ./pct
+The/AT reading/NN ,/pct which/WDT has/HVZ been/BEN watched/VBN with/IN interest/NN since/CS Russia's/NPg detonation/NN of/IN a/AT super/JJ bomb/NN Monday/NR ,/pct was/BEDZ 4/CD on/IN Tuesday/NR and/CC 7/CD last/AP Saturday/NR ,/pct a/AT level/NN far/QL below/IN the/AT danger/NN point/NN ,/pct according/IN to/IN the/AT board/NN of/IN health/NN ./pct
+The/AT weather/NN bureau/NN has/HVZ estimated/VBN that/CS radioactive/JJ fallout/NN from/IN the/AT test/NN might/MD arrive/VB here/RB next/AP week/NN ./pct
+A/AT board/NN of/IN health/NN spokesman/NN said/VBD there/EX is/BEZ no/AT reason/NN to/TO believe/VB that/CS an/AT increase/NN in/IN the/AT level/NN here/RB will/MD occur/VB as/CS a/AT result/NN of/IN the/AT detonation/NN ./pct
+Curtis/NP Allen/NP Huff/NP ,/pct 41/CD ,/pct of/IN 1630/CD Lake/NN Av./NN ,/pct Wilmette/NP ,/pct was/BEDZ arrested/VBN yesterday/NR on/IN a/AT suppressed/VBN federal/JJ warrant/NN charging/VBG him/PPO with/IN embezzling/VBG an/AT undetermined/JJ amount/VB of/IN money/NN from/IN the/AT First/OD Federal/JJ Savings/NNS and/CC Loan/NN association/NN ,/pct 1/CD S./JJ Dearborn/NP St./NN ,/pct where/WRB he/PPS formerly/RB was/BEDZ employed/VBN as/CS an/AT attorney/NN ./pct
+Federal/JJ prosecutors/NNS estimated/VBD that/CS the/AT amount/NN may/MD total/VB $20,000/NNS ,/pct altho/CS a/AT spokesman/NN for/IN the/AT association/NN estimated/VBD its/PPg loss/NN at/IN approximately/RB $10,000/NNS ./pct
+Lien/NN payments/NNS involved/VBN
+Huff's/NPg attorney/NN ,/pct Antone/NP F./NP Gregorio/NP ,/pct quoted/VBD his/PPg client/NN as/CS saying/VBG that/CS part/NN of/IN the/AT embezzlement/NN represented/VBD money/NN paid/VBN to/IN Huff/NP ,/pct as/CS attorney/NN for/IN the/AT loan/NN association/NN ,/pct in/IN satisfaction/NN of/IN mechanic's/NNg liens/NNS on/IN property/NN on/IN which/WDT the/AT association/NN held/VBD mortgages/NNS ./pct
+Huff/NP told/VBD Gregorio/NP that/CS he/PPS took/VBD the/AT money/NN to/TO pay/VB ``/pct the/AT ordinary/JJ bills/NNS and/CC expenses/NNS of/IN suburban/JJ living/NN ''/pct ./pct
+Huff/NP ,/pct who/WPS received/VBD a/AT salary/NN of/IN $109/NNS a/AT week/NN from/IN the/AT loan/NN association/NN from/IN October/NP of/IN 1955/CD until/IN September/NP of/IN this/DT year/NN ,/pct said/VBD that/CS his/PPg private/JJ practice/NN was/BEDZ not/NEG lucrative/JJ ./pct
+Huff/NP lives/VBZ with/IN his/PPg wife/NN ,/pct Sue/NP ,/pct and/CC their/PPg four/CD children/NNS ,/pct 6/CD to/IN 10/CD years/NNS old/JJ ,/pct in/IN a/AT $25,000/NNS home/NN with/IN a/AT $17,000/NNS mortgage/NN ./pct
+Charge/NN lists/VBZ 3/CD checks/NNS
+The/AT complaint/NN on/IN which/WDT the/AT warrant/NN was/BEDZ issued/VBN was/BEDZ filed/VBN by/IN Leo/NP Blaber/NP ,/pct an/AT attorney/NN for/IN the/AT association/NN ./pct
+The/AT shortage/NN was/BEDZ discovered/VBN after/CS Huff/NP failed/VBD to/TO report/VB for/IN work/NN on/IN Sept./NP 18/CD ./pct
+On/IN that/DT date/NN ,/pct according/IN to/IN Gregorio/NP ,/pct Huff/NP left/VBD his/PPg home/NN and/CC took/VBD a/AT room/NN in/IN the/AT New/JJ Lawrence/NP hotel/NN at/IN 1020/CD Lawrence/NP Av./NN ./pct
+There/RB ,/pct Gregorio/NP said/VBD ,/pct Huff/NP wrote/VBD a/AT complete/JJ statement/NN of/IN his/PPg offense/NN ./pct
+Later/RBR ,/pct Huff/NP cashed/VBD three/CD checks/NNS for/IN $100/NNS each/DT at/IN the/AT Sherman/NP House/NN ,/pct using/VBG a/AT credit/NN card/NN ./pct
+All/ABN bounced/VBD ./pct
+When/WRB Huff/NP attempted/VBD to/TO cash/VB another/DT $100/NNS check/NN there/RB Monday/NR ,/pct hotel/NN officials/NNS called/VBD police/NNS ./pct
+Bonn/NP ,/pct Oct./NP 24/CD (/pct UPI/NP )/pct
+--/pct Greece/NP and/CC West/JJ Germany/NP have/HV ratified/VBN an/AT agreement/NN under/IN which/WDT Germany/NP will/MD pay/VB $28,700,000/NNS to/IN Greek/JJ victims/NNS of/IN Nazi/NP persecution/NN ,/pct it/PPS was/BEDZ announced/VBN today/NR ./pct

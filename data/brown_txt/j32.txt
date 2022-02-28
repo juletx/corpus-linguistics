@@ -1,0 +1,98 @@
+The/AT many/AP linguistic/JJ techniques/NNS for/IN reducing/VBG the/AT amount/NN of/IN dictionary/NN information/NN that/WPS have/HV been/BEN proposed/VBN all/ABN organize/VB the/AT dictionary's/NNg contents/NNS around/IN prefixes/NNS ,/pct stems/NNS ,/pct suffixes/NNS ,/pct etc./RB ./pct
+A/AT significant/JJ reduction/NN in/IN the/AT voume/NN of/IN store/NN information/NN is/BEZ thus/RB realized/VBN ,/pct especially/RB for/IN a/AT highly/QL inflected/VBN language/NN such/JJ as/CS Russian/NP ./pct
+For/IN English/NP the/AT reduction/NN in/IN size/NN is/BEZ less/QL striking/JJ ./pct
+This/DT approach/NN requires/VBZ that/CS :/pct (/pct 1/CD )/pct each/DT text/NN word/NN be/BE separated/VBN into/IN smaller/JJR elements/NNS to/TO establish/VB a/AT correspondence/NN between/IN the/AT occurrence/NN and/CC dictionary/NN entries/NNS ,/pct and/CC (/pct 2/CD )/pct the/AT information/NN retrieved/VBN from/IN several/AP entries/NNS in/IN the/AT dictionary/NN be/BE synthesized/VBN into/IN a/AT description/NN of/IN the/AT particular/JJ word/NN ./pct
+The/AT logical/JJ scheme/NN used/VBN to/TO accomplish/VB the/AT former/AP influences/VBZ the/AT placement/NN of/IN information/NN in/IN the/AT dictionary/NN file/NN ./pct
+Implementation/NN of/IN the/AT latter/AP requires/VBZ storage/NN of/IN information/NN needed/VBN only/RB for/IN synthesis/NN ./pct
+We/PPSS suggest/VB the/AT application/NN of/IN certain/AP data-processing/NN techniques/NNS as/CS a/AT solution/NN to/IN the/AT problem/NN ./pct
+But/CC first/RB ,/pct we/PPSS must/MD define/VB two/CD terms/NNS so/CS that/CS their/PPg meaning/NN will/MD be/BE clearly/RB understood/VBN :/pct form/NN --/pct any/DTI unique/JJ sequence/NN of/IN alphabetic/JJ characters/NNS that/WPS can/MD appear/VB in/IN a/AT language/NN preceded/VBN and/CC followed/VBN by/IN a/AT space/NN ;/pct ;/pct
+occurrence/NN --/pct an/AT instance/NN of/IN a/AT form/NN in/IN text/NN ./pct
+We/PPSS propose/VB a/AT method/NN for/IN selecting/VBG only/AP dictionary/NN information/NN required/VBN by/IN the/AT text/NN being/BEG translated/VBN and/CC a/AT means/NN for/IN passing/VBG the/AT information/NN directly/RB to/IN the/AT occurrences/NNS in/IN text/NN ./pct
+We/PPSS accomplish/VB this/DT by/IN compiling/VBG a/AT list/NN of/IN text/NN forms/NNS as/CS text/NN is/BEZ read/VBN by/IN the/AT computer/NN ./pct
+A/AT random-storage/NN scheme/NN ,/pct based/VBN on/IN the/AT spelling/NN of/IN forms/NNS ,/pct provides/VBZ an/AT economical/JJ way/NN to/TO compile/VB this/DT text-form/NN list/NN ./pct
+Dictionary/NN forms/NNS found/VBN to/TO match/VB forms/NNS in/IN the/AT text/NN list/NN are/BER marked/VBN ./pct
+A/AT location/NN in/IN the/AT computer/NN store/NN is/BEZ also/RB named/VBN for/IN each/DT marked/VBN form/NN ;/pct ;/pct
+dictionary/NN information/NN about/IN the/AT form/NN stored/VBN at/IN this/DT location/NN can/MD be/BE retrieved/VBN directly/RB by/IN occurrences/NNS of/IN the/AT form/NN in/IN text/NN ./pct
+Finally/RB ,/pct information/NN is/BEZ retrieved/VBN from/IN the/AT dictionary/NN as/CS required/VBN by/IN stages/NNS of/IN the/AT translation/NN process/NN --/pct the/AT grammatical/JJ description/NN for/IN sentence-structure/NN determination/NN ,/pct equivalent-choice/NN information/NN for/IN semantic/JJ analysis/NN ,/pct and/CC target-language/NN equivalents/NNS for/IN output/NN construction/NN ./pct
+The/AT dictionary/NN is/BEZ a/AT form/NN dictionary/NN ,/pct at/IN least/AP in/IN the/AT sense/NN that/CS complete/JJ forms/NNS are/BER used/VBN as/CS the/AT basis/NN for/IN matching/VBG text/NN occurrences/NNS with/IN dictionary/NN entries/NNS ./pct
+Also/RB ,/pct the/AT dictionary/NN is/BEZ divided/VBN into/IN at/IN least/AP two/CD parts/NNS :/pct the/AT list/NN of/IN dictionary/NN forms/NNS and/CC the/AT file/NN of/IN information/NN that/WPS pertains/VBZ to/IN these/DTS forms/NNS ./pct
+A/AT more/QL detailed/VBN description/NN of/IN dictionary/NN operations/NNS --/pct text/NN lookup/NN and/CC dictionary/NN modification/NN --/pct gives/VBZ a/AT clearer/JJR picture/NN ./pct
+Text/NN lookup/NN ,/pct as/CS we/PPSS will/MD describe/VB it/PPO ,/pct consists/VBZ of/IN three/CD steps/NNS ./pct
+The/AT first/OD is/BEZ compiling/VBG a/AT list/NN of/IN text/NN forms/NNS ,/pct assigning/VBG an/AT information/NN cell/NN to/IN each/DT ,/pct and/CC replacing/VBG text/NN occurrences/NNS with/IN the/AT information/NN cell/NN assigned/VBN to/IN the/AT form/NN of/IN each/DT occurrence/NN ./pct
+For/IN this/DT step/NN the/AT computer/NN memory/NN is/BEZ separated/VBN into/IN three/CD regions/NNS :/pct cells/NNS in/IN the/AT W-region/NN are/BER used/VBN for/IN storage/NN of/IN the/AT forms/NNS in/IN the/AT text-form/NN list/NN ;/pct ;/pct
+cells/NNS in/IN the/AT X-region/NN and/CC Y/NN region/NN are/BER reserved/VBN as/CS information/NN cells/NNS for/IN text/NN forms/NNS ./pct
+When/WRB an/AT occurrence/NN Af/NN is/BEZ isolated/VBN during/IN text/NN reading/NN ,/pct a/AT random/JJ memory/NN address/NN Af/NN ,/pct the/AT address/NN of/IN a/AT cell/NN in/IN the/AT X-region/NN ,/pct is/BEZ computed/VBN from/IN the/AT form/NN of/IN Af/NN ./pct
+Let/VB Af/NN denote/VB the/AT form/NN of/IN Af/NN ./pct
+If/CS cell/NN Af/NN has/HVZ not/NEG previously/RB been/BEN assigned/VBN as/CS the/AT information/NN cell/NN of/IN a/AT form/NN in/IN the/AT text-form/NN list/NN ,/pct it/PPS is/BEZ now/RB assigned/VBN as/CS the/AT information/NN cell/NN of/IN Af/NN ./pct
+The/AT form/NN itself/PPL is/BEZ stored/VBN in/IN the/AT next/AP available/JJ cells/NNS of/IN the/AT W-region/NN ,/pct beginning/VBG in/IN cell/NN Af/NN ./pct
+The/AT address/NN Af/NN and/CC the/AT number/NN of/IN cells/NNS required/VBN to/TO store/VB the/AT form/NN are/BER written/VBN in/IN Af/NN ;/pct ;/pct
+the/AT information/NN cell/NN Af/NN is/BEZ saved/VBN to/TO represent/VB the/AT text/NN occurrence/NN ./pct
+Text/NN reading/NN continues/VBZ with/IN the/AT next/AP occurrence/NN ./pct
+Let/VB us/PPO assume/VB that/CS Af/NN is/BEZ identical/JJ to/IN the/AT form/NN of/IN an/AT occurrence/NN Af/NN which/WDT preceded/VBD Af/NN in/IN the/AT text/NN ./pct
+When/WRB this/DT situation/NN exists/VBZ ,/pct the/AT address/NN Af/NN will/MD equal/VB Af/NN which/WDT was/BEDZ produced/VBN from/IN Af/NN ./pct
+If/CS Af/NN was/BEDZ assigned/VBN as/CS the/AT information/NN cell/NN for/IN Af/NN ,/pct the/AT routine/NN can/MD detect/VB that/DT Af/NN is/BEZ identical/JJ to/IN Af/NN by/IN comparing/VBG Af/NN with/IN the/AT form/NN stored/VBN at/IN location/NN Af/NN ./pct
+The/AT address/NN Af/NN is/BEZ stored/VBN in/IN the/AT cell/NN Af/NN ./pct
+When/WRB ,/pct as/CS in/IN this/DT case/NN ,/pct the/AT two/CD forms/NNS match/VB ,/pct the/AT address/NN Af/NN is/BEZ saved/VBN to/TO represent/VB the/AT occurrence/NN Af/NN ./pct
+Text/NN reading/NN continues/VBZ with/IN the/AT next/AP occurrence/NN ./pct
+A/AT third/OD situation/NN is/BEZ possible/JJ ./pct
+The/AT formula/NN for/IN computing/VBG random/JJ addresses/NNS from/IN the/AT form/NN of/IN each/DT occurrence/NN will/MD not/NEG give/VB a/AT distinct/JJ address/NN for/IN each/DT distinct/JJ form/NN ./pct
+Thus/RB ,/pct when/WRB more/AP than/IN one/CD distinct/JJ form/NN leads/VBZ to/IN a/AT particular/JJ cell/NN in/IN the/AT X-region/NN ,/pct a/AT chain/NN of/IN information/NN cells/NNS must/MD be/BE created/VBN to/TO accommodate/VB the/AT forms/NNS ,/pct one/CD cell/NN in/IN the/AT chain/NN for/IN each/DT form/NN ./pct
+If/CS Af/NN leads/VBZ to/IN an/AT address/NN Af/NN that/WPS is/BEZ equal/JJ to/IN the/AT address/NN computed/VBN from/IN Af/NN ,/pct even/RB though/CS Af/NN does/DOZ not/NEG match/VB Af/NN ,/pct the/AT chain/NN of/IN information/NN cells/NNS is/BEZ extended/VBN from/IN Af/NN by/IN storing/VBG the/AT address/NN of/IN the/AT next/AP available/JJ cell/NN in/IN the/AT Y-region/NN ,/pct Af/NN ,/pct in/IN Af/NN ./pct
+The/AT cell/NN Af/NN becomes/VBZ the/AT second/OD information/NN cell/NN in/IN the/AT chain/NN and/CC is/BEZ assigned/VBN as/CS the/AT information/NN cell/NN of/IN Af/NN ./pct
+A/AT third/OD cell/NN can/MD be/BE added/VBN by/IN storing/VBG the/AT address/NN of/IN another/DT Y-cell/NN in/IN Af/NN ;/pct ;/pct
+similarly/RB ,/pct as/QL many/AP cells/NNS are/BER added/VBN as/CS are/BER required/VBN ./pct
+Each/DT information/NN cell/NN in/IN the/AT chain/NN contains/VBZ the/AT address/NN of/IN the/AT Y-cell/NN where/WRB the/AT form/NN to/IN which/WDT it/PPS is/BEZ assigned/VBN is/BEZ stored/VBN ./pct
+Each/DT cell/NN except/IN the/AT last/AP in/IN the/AT chain/NN also/RB contains/VBZ the/AT address/NN of/IN the/AT Y-cell/NN that/WPS is/BEZ the/AT next/AP element/NN of/IN the/AT chain/NN ;/pct ;/pct
+the/AT absence/NN of/IN such/ABL a/AT link/NN in/IN the/AT last/AP cell/NN indicates/VBZ the/AT end/NN of/IN the/AT chain/NN ./pct
+Hence/RB ,/pct when/WRB the/AT address/NN Af/NN is/BEZ computed/VBN from/IN Af/NN ,/pct the/AT cell/NN Af/NN and/CC all/ABN Y-cells/NN in/IN its/PPg chain/NN must/MD be/BE inspected/VBN to/TO determine/VB whether/CS Af/NN is/BEZ already/RB in/IN the/AT form/NN list/NN or/CC whether/CS it/PPS should/MD be/BE added/VBN to/IN the/AT form/NN list/NN and/CC the/AT chain/NN ./pct
+When/WRB the/AT information/NN cell/NN for/IN Af/NN has/HVZ been/BEN determined/VBN ,/pct it/PPS is/BEZ saved/VBN as/CS a/AT representation/NN of/IN Af/NN ./pct
+Text/NN reading/NN continues/VBZ with/IN the/AT next/AP occurrence/NN ./pct
+Text/NN reading/NN is/BEZ terminated/VBN when/WRB a/AT pre-determined/VBN number/NN of/IN forms/NNS have/HV been/BEN stored/VBN in/IN the/AT text-form/NN list/NN ./pct
+This/DT initiates/VBZ the/AT second/OD step/NN of/IN glossary/NN lookup/NN --/pct connecting/VBG the/AT information/NN cell/NN of/IN forms/NNS in/IN the/AT text-form/NN list/NN to/IN dictionary/NN forms/NNS ./pct
+Each/DT form/NN represented/VBN by/IN the/AT dictionary/NN is/BEZ looked/VBN up/RP in/IN the/AT text-form/NN list/NN ./pct
+Each/DT time/NN a/AT dictionary/NN form/NN matches/VBZ a/AT text/NN form/NN ,/pct the/AT information/NN cell/NN of/IN the/AT matching/VBG text/NN form/NN is/BEZ saved/VBN ./pct
+The/AT number/NN of/IN dictionary/NN forms/NNS skipped/VBN since/IN the/AT last/AP one/CD matched/VBN is/BEZ also/RB saved/VBN ./pct
+These/DTS two/CD pieces/NNS of/IN information/NN for/IN each/DT dictionary/NN form/NN that/WPS is/BEZ matched/VBN by/IN a/AT text/NN form/NN constitute/VB the/AT table/NN of/IN dictionary/NN usage/NN ./pct
+If/CS each/DT text/NN form/NN is/BEZ marked/VBN when/WRB matched/VBN with/IN a/AT dictionary/NN form/NN ,/pct the/AT text/NN forms/NNS not/NEG contained/VBN in/IN the/AT dictionary/NN can/MD be/BE identified/VBN when/WRB all/ABN dictionary/NN forms/NNS have/HV been/BEN read/VBN ./pct
+The/AT appropriate/JJ action/NN for/IN handling/VBG these/DTS forms/NNS can/MD be/BE taken/VBN at/IN that/DT time/NN ./pct
+Each/DT dictionary/NN form/NN is/BEZ looked/VBN up/RP in/IN the/AT text-form/NN list/NN by/IN the/AT same/AP method/NN used/VBN to/TO look/VB up/RP a/AT new/JJ text/NN occurrence/NN in/IN the/AT form/NN list/NN during/IN text/NN reading/NN ./pct
+A/AT random/JJ address/NN Af/NN that/WPS lies/VBZ within/IN the/AT X-region/NN of/IN memory/NN mentioned/VBN earlier/RBR is/BEZ computed/VBN from/IN the/AT i-th/NN dictionary/NN form/NN ./pct
+If/CS cell/NN Af/NN is/BEZ an/AT information/NN cell/NN ,/pct it/PPS and/CC any/DTI information/NN cells/NNS in/IN the/AT Y-region/NN that/WPS have/HV been/BEN linked/VBN to/IN Af/NN each/DT contain/VB an/AT address/NN in/IN the/AT W-region/NN where/WRB a/AT potentially/RB matching/JJ form/NN is/BEZ stored/VBN ./pct
+The/AT dictionary/NN form/NN is/BEZ compared/VBN with/IN each/DT of/IN these/DTS text/NN forms/NNS ./pct
+When/WRB a/AT match/NN is/BEZ found/VBN ,/pct an/AT entry/NN is/BEZ made/VBN in/IN the/AT table/NN of/IN dictionary/NN usage/NN ./pct
+If/CS cell/NN Af/NN is/BEZ not/NEG an/AT information/NN cell/NN we/PPSS conclude/VB that/CS the/AT i-th/NN dictionary/NN form/NN is/BEZ not/NEG in/IN the/AT text/NN list/NN ./pct
+These/DTS two/CD steps/NNS essentially/RB complete/VB the/AT lookup/NN operation/NN ./pct
+The/AT final/JJ step/NN merely/RB uses/VBZ the/AT table/NN of/IN dictionary/NN usage/NN to/TO select/VB the/AT dictionary/NN information/NN that/WPS pertains/VBZ to/IN each/DT form/NN matched/VBN in/IN the/AT text-form/NN list/NN ,/pct and/CC uses/VBZ the/AT list/NN of/IN information/NN cells/NNS recorded/VBN in/IN text/NN order/NN to/TO attach/VB the/AT appropriate/JJ information/NN to/IN each/DT occurrence/NN in/IN text/NN ./pct
+The/AT list/NN of/IN text/NN forms/NNS in/IN the/AT W-region/NN of/IN memory/NN and/CC the/AT contents/NNS of/IN the/AT information/NN cells/NNS in/IN the/AT X/NN and/CC Y-regions/NN are/BER no/QL longer/RBR required/VBN ./pct
+Only/RB the/AT assignment/NN of/IN the/AT information/NN cells/NNS is/BEZ important/JJ ./pct
+The/AT first/OD stage/NN of/IN translation/NN after/IN glossary/NN lookup/NN is/BEZ structural/JJ analysis/NN of/IN the/AT input/NN text/NN ./pct
+The/AT grammatical/JJ description/NN of/IN each/DT occurrence/NN in/IN the/AT text/NN must/MD be/BE retrieved/VBN from/IN the/AT dictionary/NN to/TO permit/VB such/ABL an/AT analysis/NN ./pct
+A/AT description/NN of/IN this/DT process/NN will/MD serve/VB to/TO illustrate/VB how/WRB any/DTI type/NN of/IN information/NN can/MD be/BE retrieved/VBN from/IN the/AT dictionary/NN and/CC attached/VBN to/IN each/DT text/NN occurrence/NN ./pct
+The/AT grammatical/JJ descriptions/NNS of/IN all/ABN forms/NNS in/IN the/AT dictionary/NN are/BER recorded/VBN in/IN a/AT separate/JJ part/NN of/IN the/AT dictionary/NN file/NN ./pct
+The/AT order/NN is/BEZ identical/JJ to/IN the/AT ordering/NN of/IN the/AT forms/NNS they/PPSS describe/VB ./pct
+When/WRB entries/NNS are/BER being/BEG retrieved/VBN from/IN this/DT file/NN ,/pct the/AT table/NN of/IN dictionary/NN usage/NN indicates/VBZ which/WDT entries/NNS to/TO skip/VB and/CC which/WDT entries/NNS to/TO store/VB in/IN the/AT computer/NN ./pct
+This/DT selection-rejection/NN process/NN takes/VBZ place/NN as/CS the/AT file/NN is/BEZ read/VBN ./pct
+Each/DT entry/NN that/WPS is/BEZ selected/VBN for/IN storage/NN is/BEZ written/VBN into/IN the/AT next/AP available/JJ cells/NNS of/IN the/AT Aj/NN ./pct
+The/AT address/NN of/IN the/AT first/OD cell/NN and/CC the/AT number/NN of/IN cells/NNS used/VBN is/BEZ written/VBN in/IN the/AT information/NN cell/NN for/IN the/AT form/NN ./pct
+(/pct The/AT address/NN of/IN the/AT information/NN cell/NN is/BEZ also/RB supplied/VBN by/IN the/AT table/NN of/IN dictionary/NN usage/NN ./pct
+)/pct When/WRB the/AT complete/JJ file/NN has/HVZ been/BEN read/VBN ,/pct the/AT grammatical/JJ descriptions/NNS for/IN all/ABN text/NN forms/NNS found/VBN in/IN the/AT dictionary/NN have/HV been/BEN stored/VBN in/IN the/AT W-region/NN ;/pct ;/pct
+the/AT information/NN cell/NN assigned/VBN to/IN each/DT text/NN form/NN contains/VBZ the/AT address/NN of/IN the/AT grammatical/JJ description/NN of/IN the/AT form/NN it/PPS represents/VBZ ./pct
+Hence/RB ,/pct the/AT description/NN of/IN each/DT text/NN occurrence/NN can/MD be/BE retrieved/VBN by/IN reading/VBG the/AT list/NN of/IN text-ordered/JJ information-cell/NN addresses/NNS and/CC outputting/VBG the/AT description/NN indicated/VBN by/IN the/AT information/NN cell/NN for/IN each/DT occurrence/NN ./pct
+The/AT only/AP requirements/NNS on/IN dictionary/NN information/NN made/VBN by/IN the/AT text-lookup/NN operation/NN are/BER that/CS each/DT form/NN represented/VBN by/IN the/AT dictionary/NN be/BE available/JJ for/IN lookup/NN in/IN the/AT text-form/NN list/NN and/CC that/CS information/NN for/IN each/DT form/NN be/BE available/JJ in/IN a/AT sequence/NN identical/JJ with/IN the/AT sequence/NN of/IN the/AT forms/NNS ./pct
+This/DT leaves/VBZ the/AT ordering/NN of/IN entries/NNS variable/JJ ./pct
+(/pct Here/RB an/AT entry/NN is/BEZ a/AT form/NN plus/IN the/AT information/NN that/WPS pertains/VBZ to/IN it/PPO ./pct
+Two/CD very/QL useful/JJ ways/NNS for/IN modifying/VBG a/AT form-dictionary/NN are/BER the/AT addition/NN to/IN the/AT dictionary/NN of/IN complete/JJ paradigms/NNS rather/RB than/CS single/AP forms/NNS and/CC the/AT application/NN of/IN a/AT single/AP change/NN to/IN more/AP than/IN one/CD dictionary/NN form/NN ./pct
+The/AT former/AP is/BEZ intended/VBN to/TO decrease/VB the/AT amount/NN of/IN work/NN necessary/JJ to/TO extend/VB dictionary/NN coverage/NN ./pct
+The/AT latter/AP is/BEZ useful/JJ for/IN modifying/VBG information/NN about/IN some/DTI or/CC all/ABN forms/NNS of/IN a/AT word/NN ,/pct hence/RB reducing/VBG the/AT work/NN required/VBN to/TO improve/VB dictionary/NN contents/NNS ./pct
+Applying/VBG the/AT techniques/NNS developed/VBN at/IN Harvard/NP for/IN generating/VBG a/AT paradigm/NN from/IN a/AT representative/JJ form/NN and/CC its/PPg classification/NN ,/pct we/PPSS can/MD add/VB all/ABN forms/NNS of/IN a/AT word/NN to/IN the/AT dictionary/NN at/IN once/RB ./pct
+An/AT extension/NN of/IN the/AT principle/NN would/MD permit/VB entering/VBG a/AT grammatical/JJ description/NN of/IN each/DT form/NN ./pct
+Equivalents/NNS could/MD be/BE assigned/VBN to/IN the/AT paradigm/NN either/CC at/IN the/AT time/NN it/PPS is/BEZ added/VBN to/IN the/AT dictionary/NN or/CC after/CS the/AT word/NN has/HVZ been/BEN studied/VBN in/IN context/NN ./pct
+Thus/RB ,/pct one/PN can/MD think/VB of/IN a/AT dictionary/NN entry/NN as/CS a/AT word/NN rather/RB than/CS a/AT form/NN ./pct
+If/CS all/ABN forms/NNS of/IN a/AT paradigm/NN are/BER grouped/VBN together/RB within/IN the/AT dictionary/NN ,/pct a/AT considerable/JJ reduction/NN in/IN the/AT amount/NN of/IN information/NN required/VBN is/BEZ possible/JJ ./pct
+For/IN example/NN ,/pct the/AT inflected/VBN forms/NNS of/IN a/AT word/NN can/MD be/BE represented/VBN ,/pct insofar/RB as/CS regular/JJ inflection/NN allows/VBZ ,/pct by/IN a/AT stem/NN and/CC a/AT set/NN of/IN endings/NNS to/TO be/BE attached/VBN ./pct
+(/pct Indeed/RB ,/pct the/AT set/NN of/IN endings/NNS can/MD be/BE replaced/VBN by/IN the/AT name/NN of/IN a/AT set/NN of/IN endings/NNS ./pct
+)/pct The/AT full/JJ forms/NNS can/MD be/BE derived/VBN from/IN such/JJ information/NN just/QL prior/RB to/IN the/AT lookup/NN of/IN the/AT form/NN in/IN the/AT text-form/NN list/NN ./pct
+Similarly/RB ,/pct if/CS the/AT equivalents/NNS for/IN the/AT forms/NNS of/IN a/AT word/NN do/DO not/NEG vary/VB ,/pct the/AT equivalents/NNS need/MD be/BE entered/VBN only/QL once/RB with/IN an/AT indication/NN that/CS they/PPSS apply/VB to/IN each/DT form/NN ./pct
+The/AT dictionary/NN system/NN is/BEZ in/IN no/AT way/NN dependent/JJ upon/IN such/JJ summarization/NN or/CC designed/VBN around/IN it/PPO ./pct
+When/WRB irregularity/NN and/CC variation/NN prevent/VB summarizing/VBG ,/pct information/NN is/BEZ written/VBN in/IN complete/JJ detail/NN ./pct
+Entries/NNS are/BER summarized/VBN only/RB when/WRB by/IN doing/VBG so/RB the/AT amount/NN of/IN information/NN retained/VBN in/IN the/AT dictionary/NN is/BEZ reduced/VBN and/CC the/AT time/NN required/VBN for/IN dictionary/NN operations/NNS is/BEZ decreased/VBN ./pct

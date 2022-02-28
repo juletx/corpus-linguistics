@@ -1,0 +1,117 @@
+In/IN the/AT Midwest/NP ,/pct oxidation/NN ponds/NNS are/BER used/VBN extensively/RB for/IN the/AT treatment/NN of/IN domestic/JJ sewage/NN from/IN suburban/JJ areas/NNS ./pct
+The/AT high/JJ cost/NN of/IN land/NN and/CC a/AT few/AP operational/JJ problems/NNS resulting/VBG from/IN excessive/JJ loadings/NNS have/HV created/VBN the/AT need/NN for/IN a/AT wastewater/NN treatment/NN system/NN with/IN the/AT operational/JJ characteristics/NNS of/IN the/AT oxidation/NN pond/NN but/CC with/IN the/AT ability/NN to/TO treat/VB more/AP organic/JJ matter/NN per/IN unit/NN volume/NN ./pct
+Research/NN at/IN Fayette/NP ,/pct Missouri/NP on/IN oxidation/NN ponds/NNS has/HVZ shown/VBN that/CS the/AT BOD/NN in/IN the/AT treated/VBN effluent/NN varied/VBD from/IN 30/CD to/IN 53/CD mg/l/NN with/IN loadings/NNS from/IN 8/CD to/IN 120/CD lb/NN ./pct
+Since/CS experience/NN indicates/VBZ that/CS effluents/NNS from/IN oxidation/NN ponds/NNS do/DO not/NEG create/VB major/JJ problems/NNS at/IN these/DTS BOD/NN concentrations/NNS ,/pct the/AT goal/NN for/IN the/AT effluent/NN quality/NN of/IN the/AT accelerated/VBN treatment/NN system/NN was/BEDZ the/AT same/AP as/CS from/IN conventional/JJ oxidation/NN ponds/NNS ./pct
+Recent/JJ studies/NNS by/IN Weston/NP and/CC Stack/NP had/HVD indicated/VBN that/CS a/AT turbine/NN aerator/NN could/MD be/BE added/VBN to/IN an/AT oxidation/NN pond/NN to/TO increase/VB the/AT rate/NN of/IN oxygen/NN transfer/NN ./pct
+Their/PPg study/NN showed/VBD that/CS it/PPS was/BEDZ possible/JJ to/TO transfer/VB 3/CD to/IN 4/CD lb/NN of/IN oxygen/NN //pct hr./NN //pct hp./NN
+O'Connor/NP and/CC Eckenfelder/NP discussed/VBD the/AT use/NN of/IN aerated/VBN lagoons/NNS for/IN treating/VBG organic/JJ wastes/NNS ./pct
+They/PPSS indicated/VBD that/CS a/AT 4-day/JJ retention/NN ,/pct aerated/VBN lagoon/NN would/MD give/VB 60/CD to/IN 76/CD per/IN cent/NN BOD/NN reduction/NN ./pct
+Later/RBR ,/pct Eckenfelder/NP increased/VBD the/AT efficiency/NN of/IN treatment/NN to/IN between/IN 75/CD and/CC 85/CD per/IN cent/NN in/IN the/AT summer/NN months/NNS ./pct
+It/PPS appeared/VBD from/IN the/AT limited/VBN information/NN available/JJ that/CS the/AT aerated/VBN lagoon/NN might/MD offer/VB a/AT satisfactory/JJ means/NN of/IN increasing/VBG the/AT capacity/NN of/IN existing/VBG oxidation/NN ponds/NNS as/QL well/RB as/CS providing/VBG the/AT same/AP degree/NN of/IN treatment/NN in/IN a/AT smaller/JJR volume/NN ./pct
+Red/JJ Bridge/NN Subdivision/NN
+With/IN the/AT development/NN of/IN the/AT Red/JJ Bridge/NN Subdivision/NN south/NR of/IN Kansas/NP City/NN ,/pct Missouri/NP ,/pct the/AT developer/NN was/BEDZ faced/VBN with/IN the/AT problem/NN of/IN providing/VBG adequate/JJ sewage/NN disposal/NN ./pct
+The/AT sewage/NN system/NN from/IN Kansas/NP City/NN was/BEDZ not/NEG expected/VBN to/TO serve/VB the/AT Red/JJ Bridge/NN area/NN for/IN several/AP years/NNS ./pct
+This/DT necessitated/VBD the/AT construction/NN of/IN temporary/JJ sewage/NN treatment/NN facilities/NNS with/IN an/AT expected/VBN life/NN from/IN 5/CD to/IN 15/CD Aj/NN ./pct
+For/IN the/AT initial/JJ development/NN an/AT oxidation/NN pond/NN was/BEDZ constructed/VBN as/CS shown/VBN in/IN Figure/NN 1/CD ./pct
+The/AT oxidation/NN pond/NN has/HVZ a/AT surface/NN area/NN of/IN 4.77/CD acres/NNS and/CC a/AT depth/NN of/IN 4/CD Aj/NN ./pct
+The/AT pond/NN is/BEZ currently/RB serving/VBG 1,230/CD persons/NNS or/CC 260/CD persons/NNS per/IN acre/NN ./pct
+In/IN the/AT summer/NN of/IN 1960/CD the/AT oxidation/NN pond/NN became/VBD completely/RB septic/JJ and/CC emitted/VBD obnoxious/JJ odors/NNS ./pct
+It/PPS was/BEDZ possible/JJ to/TO maintain/VB aerobic/JJ conditions/NNS in/IN the/AT pond/NN by/IN regular/JJ additions/NNS of/IN sodium/NN nitrate/NN until/CS the/AT temperature/NN decreased/VBD and/CC the/AT algae/NNS population/NN changed/VBD from/IN blue-green/JJ to/IN green/JJ algae/NNS ./pct
+The/AT anaerobic/JJ conditions/NNS in/IN the/AT existing/VBG oxidation/NN pond/NN necessitated/VBD examination/NN of/IN other/AP methods/NNS for/IN supplying/VBG additional/JJ oxygen/NN than/CS by/IN sodium/NN nitrate/NN ./pct
+At/IN the/AT same/AP time/NN further/JJR expansion/NN in/IN the/AT Red/JJ Bridge/NN Subdivision/NN required/VBD the/AT construction/NN of/IN additional/JJ sewage/NN treatment/NN facilities/NNS ./pct
+The/AT large/JJ land/NN areas/NNS required/VBN for/IN oxidation/NN ponds/NNS made/VBD this/DT type/NN of/IN treatment/NN financially/RB unattractive/JJ to/IN the/AT developer/NN ./pct
+It/PPS was/BEDZ proposed/VBN that/CS aerated/VBN lagoons/NNS be/BE used/VBN to/TO eliminate/VB the/AT problem/NN at/IN the/AT existing/VBG oxidation/NN ponds/NNS and/CC to/TO provide/VB the/AT necessary/JJ treatment/NN for/IN the/AT additional/JJ development/NN ./pct
+Pilot/NN lagoon/NN
+The/AT lack/NN of/IN adequate/JJ data/NN on/IN the/AT aerated/VBN lagoon/NN system/NN prompted/VBD the/AT developer/NN to/TO construct/VB an/AT aerated/VBN lagoon/NN pilot/NN plant/NN to/TO determine/VB its/PPg feasibility/NN for/IN treating/VBG domestic/JJ sewage/NN ./pct
+The/AT pilot/NN plant/NN was/BEDZ a/AT circular/JJ lagoon/NN 81/CD ft/NN in/IN diam/NN at/IN the/AT surface/NN and/CC 65/CD ft/NN in/IN diam/NN at/IN the/AT bottom/NN ,/pct 4/CD ft/NN below/IN the/AT surface/NN ,/pct with/IN a/AT volume/NN of/IN 121,000/CD Aj/NN ./pct
+The/AT side/NN slopes/NNS were/BED coated/VBN with/IN fiberglas/NN matting/NN coated/VBN with/IN asphalt/NN to/TO prevent/VB erosion/NN ./pct
+The/AT pilot/NN lagoon/NN was/BEDZ located/VBN as/CS shown/VBN in/IN Figure/NN 1/CD to/TO serve/VB the/AT area/NN just/RB south/NR of/IN the/AT existing/VBG housing/NN area/NN ./pct
+The/AT major/JJ contributor/NN was/BEDZ a/AT shopping/VBG center/NN with/IN houses/NNS being/BEG added/VBN to/IN the/AT system/NN as/CS the/AT subdivision/NN developed/VBD ./pct
+The/AT pilot/NN lagoon/NN was/BEDZ designed/VBN to/TO handle/VB the/AT wastes/NNS from/IN 314/CD persons/NNS with/IN a/AT 4-day/JJ aeration/NN period/NN ./pct
+Initially/RB ,/pct the/AT wastewater/NN would/MD be/BE entirely/RB from/IN the/AT shopping/VBG center/NN with/IN the/AT domestic/JJ sewage/NN from/IN the/AT houses/NNS increasing/VBG over/IN an/AT 18-month/JJ period/NN ./pct
+This/DT operation/NN would/MD permit/VB evaluation/NN of/IN the/AT pilot/NN plant/NN ,/pct with/IN a/AT slowly/RB increasing/VBG load/NN ,/pct over/IN a/AT reasonable/JJ period/NN of/IN time/NN ./pct
+The/AT pilot/NN plant/NN was/BEDZ equipped/VBN with/IN a/AT 3-hp./JJ turbine/NN aerator/NN (/pct Figure/NN 2/CD )/pct ./pct
+The/AT aerator/NN had/HVD a/AT variable-speed/NN drive/NN to/TO permit/VB operation/NN through/IN a/AT range/NN of/IN speeds/NNS ./pct
+The/AT sewage/NN flow/NN into/IN the/AT treatment/NN plant/NN was/BEDZ metered/VBN and/CC continuously/RB recorded/VBN on/IN 24-hr./JJ charts/NNS ./pct
+The/AT raw/JJ sewage/NN was/BEDZ introduced/VBN directly/RB under/IN the/AT turbine/NN aerator/NN to/TO insure/VB maximum/JJ mixing/NN of/IN the/AT raw/JJ sewage/NN with/IN the/AT aeration/NN tank/NN contents/NNS ./pct
+The/AT effluent/NN was/BEDZ collected/VBN through/IN two/CD pipes/NNS and/CC discharged/VBN to/IN the/AT Blue/JJ River/NN through/IN a/AT surface/NN drainage/NN ditch/NN ./pct
+Analyses/NNS
+Composite/JJ samples/NNS were/BED collected/VBN at/IN weekly/JJ intervals/NNS ./pct
+The/AT long/JJ retention/NN period/NN and/CC the/AT complete/JJ mixing/VBG concept/NN prevented/VBD rapid/JJ changes/NNS in/IN either/CC the/AT mixed/VBN liquor/NN or/CC in/IN the/AT effluent/NN ./pct
+Weekly/JJ samples/NNS would/MD make/VB any/DTI changes/NNS more/QL readily/RB discernible/JJ than/CS daily/JJ samples/NNS ./pct
+The/AT composite/JJ samples/NNS were/BED normally/RB collected/VBN over/IN a/AT 6-hr./JJ period/NN ,/pct but/CC an/AT occasional/JJ 24-hr./JJ composite/NN was/BEDZ made/VBN ./pct
+Examination/NN of/IN the/AT operations/NNS of/IN the/AT shopping/VBG center/NN permitted/VBD correlation/NN of/IN the/AT 6-hr./JJ composite/JJ samples/NNS with/IN 24-hr./JJ operations/NNS ./pct
+The/AT data/NN indicated/VBD that/CS the/AT organic/JJ load/NN during/IN the/AT 6-hr./JJ composites/NNS was/BEDZ essentially/RB 50/CD per/IN cent/NN of/IN the/AT 24-hr./JJ organic/JJ load/NN ./pct
+Grab/NN samples/NNS were/BED collected/VBN from/IN the/AT existing/VBG oxidation/NN pond/NN to/TO determine/VB its/PPg operating/VBG conditions/NNS ./pct
+Efforts/NNS were/BED made/VBN to/TO take/VB the/AT grab/NN samples/NNS at/IN random/JJ periods/NNS so/CS that/CS the/AT mass/NN of/IN data/NN could/MD be/BE treated/VBN as/CS a/AT 6-hr./JJ composite/JJ sample/NN ./pct
+A/AT single/AP 24-hr./JJ composite/JJ sample/NN indicated/VBD that/CS the/AT sewage/NN flow/NN pattern/NN and/CC characteristics/NNS were/BED typical/JJ ./pct
+Pilot/NN plant/NN operations/NNS
+The/AT BOD/NN of/IN the/AT influent/NN to/IN the/AT pilot/NN plant/NN varied/VBD between/IN 110/CD and/CC 710/CD mg/l/NN with/IN an/AT average/NN of/IN 350/CD Aj/NN ./pct
+This/DT was/BEDZ equivalent/JJ to/IN 240/CD mg/lBOD/NN on/IN a/AT 24-hr./JJ basis/NN ./pct
+The/AT BOD/NN of/IN the/AT raw/JJ sewage/NN was/BEDZ typical/JJ of/IN domestic/JJ sewage/NN from/IN a/AT subdivision/NN ./pct
+The/AT BOD/NN in/IN the/AT effluent/NN averaged/VBD 58/CD mg/l/NN ,/pct a/AT 76-per-cent/NN reduction/NN over/IN the/AT 24-hr./JJ period/NN ./pct
+Examination/NN of/IN the/AT data/NN in/IN Table/NN 1/CD ,/pct shows/VBZ that/CS a/AT few/AP samples/NNS contributed/VBD to/IN raising/VBG the/AT effluent/NN Aj/NN ./pct
+The/AT periods/NNS of/IN high/JJ effluent/NN BOD/NN occurred/VBD during/IN cold/JJ periods/NNS when/WRB operational/JJ problems/NNS with/IN the/AT aerator/NN resulted/VBD ./pct
+Ice/NN caused/VBD the/AT aerator/NN to/TO overload/VB ,/pct straining/VBG the/AT drive/NN belts/NNS ./pct
+The/AT slippage/NN of/IN the/AT drive/NN belts/NNS caused/VBD the/AT aerator/NN to/TO slow/VB down/RP and/CC reduce/VB oxygen/NN transfer/NN as/QL well/RB as/CS the/AT mixing/NN of/IN the/AT raw/JJ sewage/NN ./pct
+The/AT organic/JJ loading/NN on/IN the/AT unit/NN averaged/VBD 32/CD lb/NN of/IN BOD/day/NN or/CC about/RB 2/CD lb/NN BOD/day/1,000/NN cu/NN ft/NN aeration/NN capacity/NN ./pct
+Needless/JJ to/TO say/VB ,/pct the/AT organic/JJ load/NN was/BEDZ very/QL low/JJ on/IN a/AT volumetric/JJ basis/NN ,/pct but/CC was/BEDZ 270/CD lb/NN BOD/day/acre/NN on/IN a/AT surface/NN loading/VBG basis/NN ./pct
+It/PPS seems/VBZ that/CS the/AT aerated/VBN lagoon/NN was/BEDZ a/AT very/QL heavily/RB loaded/VBN oxidation/NN pond/NN or/CC a/AT lightly/RB loaded/VBN activated/VBN sludge/NN system/NN ./pct
+The/AT flow/NN rate/NN remained/VBD relatively/QL constant/JJ during/IN the/AT winter/NN months/NNS as/CS shown/VBN in/IN Table/NN 1/CD ./pct
+With/IN the/AT spring/NN rains/NNS the/AT flow/NN rose/VBD rapidly/RB due/RB to/IN infiltration/NN in/IN open/JJ sewers/NNS ./pct
+As/CS construction/NN progresses/VBZ ,/pct the/AT volume/NN of/IN storm/NN drainage/NN will/MD be/BE sharply/RB reduced/VBN ./pct
+The/AT retention/NN period/NN in/IN the/AT aerated/VBN lagoon/NN ranged/VBD from/IN 9.8/CD to/IN 2.6/CD days/NNS ,/pct averaging/VBG 6.4/CD days/NNS ./pct
+The/AT large/JJ amount/NN of/IN vegetable/NN grindings/NNS from/IN the/AT grocery/NN store/NN in/IN the/AT shopping/VBG center/NN created/VBD a/AT suspended/VBN solids/NNS problem/NN ./pct
+The/AT vegetables/NNS were/BED not/NEG readily/RB metabolized/VBN by/IN the/AT bacteria/NNS in/IN the/AT aeration/NN unit/NN and/CC tended/VBD to/TO float/VB on/IN the/AT surface/NN ./pct
+A/AT skimming/VBG device/NN at/IN the/AT effluent/NN weir/NN prevented/VBD loss/NN of/IN most/AP of/IN these/DTS light/JJ solids/NNS ./pct
+The/AT average/JJ volatile/JJ suspended/VBN solids/NNS in/IN the/AT effluent/NN was/BEDZ 75/CD mg/l/NN while/CS MLSS/NN averaged/VBD 170/CD mg/l/NN volatile/JJ suspended/VBN solids/NNS ./pct
+The/AT average/JJ sludge/NN age/NN based/VBN on/IN displacement/NN of/IN solids/NNS was/BEDZ calculated/VBN to/TO be/BE 14.5/CD days/NNS ./pct
+The/AT oxygen/NN uptake/NN rate/NN in/IN the/AT mixed/VBN liquor/NN averaged/VBD 0.8/CD mg/l/hr/NN during/IN the/AT first/OD four/CD months/NNS of/IN this/DT study/NN ./pct
+Variations/NNS in/IN aerator/NN speeds/NNS during/IN the/AT latter/AP two/CD months/NNS of/IN this/DT study/NN caused/VBD increased/VBN mixing/VBG and/CC increased/VBN oxygen/NN demand/NN ./pct
+The/AT increase/NN in/IN oxygen/NN uptake/NN rates/NNS from/IN 1.2/CD to/IN 2.6/CD mg/l/hr/NN which/WDT followed/VBD an/AT increase/NN in/IN rotor/NN speed/NN was/BEDZ believed/VBN to/TO be/BE related/VBN to/IN resuspension/NN of/IN solids/NNS which/WDT had/HVD settled/VBN at/IN the/AT lower/JJR rotor/NN speeds/NNS ./pct
+It/PPS appeared/VBD that/CS most/AP of/IN the/AT mixed/VBN liquor/NN suspended/VBN solids/NNS were/BED active/JJ microbial/JJ solids/NNS with/IN the/AT heavier/JJR ,/pct less/QL active/JJ solids/NNS settling/VBG out/RP ./pct
+The/AT suspended/VBN solids/NNS discharged/VBN in/IN the/AT effluent/NN were/BED found/VBN to/TO be/BE the/AT major/JJ source/NN of/IN the/AT Aj/NN ./pct
+Removal/NN of/IN the/AT suspended/VBN solids/NNS by/IN a/AT membrane/NN filter/NN yielded/VBD an/AT average/JJ effluent/NN containing/VBG only/RB 20/CD mg/l/NN Aj/NN ./pct
+The/AT BOD/NN in/IN the/AT drainage/NN ditch/NN receiving/VBG the/AT pilot/NN plant/NN effluent/NN averaged/VBD 12/CD Aj/NN ./pct
+This/DT low/NN BOD/NN was/BEDZ due/JJ to/IN removal/NN of/IN the/AT excess/JJ suspended/VBN solids/NNS by/IN sedimentation/NN since/CS the/AT only/AP dilution/NN was/BEDZ surface/NN runoff/NN which/WDT was/BEDZ very/QL low/JJ during/IN this/DT study/NN ./pct
+Microscopic/JJ examination/NN
+Routine/JJ microscopic/JJ examinations/NNS were/BED made/VBN of/IN the/AT mixed/VBN liquor/NN as/CS indicated/VBN by/IN McKinney/NP and/CC Gram/NP for/IN the/AT various/AP types/NNS of/IN protozoa/NNS ./pct
+It/PPS was/BEDZ found/VBN that/CS the/AT aerated/VBN lagoon/NN was/BEDZ an/AT activated/VBN sludge/NN system/NN rather/RB than/CS an/AT oxidation/NN pond/NN ./pct
+At/IN no/AT time/NN were/BED algae/NNS found/VBN in/IN the/AT mixed/VBN liquor/NN ./pct
+The/AT bacteria/NNS formed/VBD typical/JJ activated/VBN sludge/NN floc/NN ./pct
+The/AT floc/NN particles/NNS were/BED all/ABN small/JJ as/CS the/AT heavier/JJR floc/NN settled/VBD out/RP ./pct
+Initially/RB ,/pct the/AT flagellated/VBN protozoa/NNS predominated/VBD ,/pct but/CC they/PPSS soon/RB gave/VBD way/NN to/IN the/AT free/RB swimming/VBG ciliated/JJ protozoa/NNS ./pct
+As/CS the/AT temperature/NN decreased/VBD ,/pct the/AT number/NN of/IN free/RB swimming/VBG ciliated/JJ protozoa/NNS decreased/VBD ./pct
+Very/QL little/AP protozoa/NNS activity/NN existed/VBD below/IN 40-degrees-F/NNS ./pct
+When/WRB the/AT temperature/NN reached/VBD 32-degrees-F/NNS all/ABN protozoan/JJ activity/NN ceased/VBD ;/pct ;/pct
+but/CC as/CS the/AT temperature/NN rose/VBD ,/pct the/AT numbers/NNS of/IN protozoa/NNS increased/VBD rapidly/RB ./pct
+Only/RB once/RB were/BED stalked/VBN ciliates/NNS found/VBN in/IN the/AT mixed/VBN liquor/NN ./pct
+The/AT predomination/NN of/IN free/RB swimming/VBG ciliated/JJ protozoa/NNS is/BEZ indicative/JJ of/IN a/AT high/JJ bacterial/JJ population/NN ./pct
+Oxygen/NN transfer/NN
+One/CD of/IN the/AT important/JJ aspects/NNS of/IN this/DT study/NN was/BEDZ to/TO determine/VB the/AT oxygen/NN transfer/NN relationships/NNS of/IN the/AT mechanical/JJ aerator/NN ./pct
+Routine/JJ determinations/NNS were/BED made/VBN for/IN dissolved/VBN oxygen/NN in/IN the/AT mixed/VBN liquor/NN and/CC for/IN oxygen/NN uptake/NN rates/NNS ./pct
+The/AT data/NNS given/VBN in/IN Table/NN 2/CD ,/pct show/VB the/AT routine/JJ operation/NN of/IN the/AT aerator/NN ./pct
+The/AT dissolved/VBN oxygen/NN in/IN the/AT aeration/NN unit/NN was/BEDZ consistently/RB high/JJ until/IN January/NP 29/CD ,/pct 1961/CD ./pct
+An/AT extended/VBN cold/JJ spell/NN caused/VBD ice/NN to/TO build/VB up/RP on/IN the/AT aerator/NN which/WDT was/BEDZ mounted/VBN on/IN a/AT floating/VBG platform/NN and/CC caused/VBD the/AT entire/JJ platform/NN to/TO sink/VB lower/RBR in/IN the/AT water/NN ./pct
+The/AT added/VBN resistance/NN to/IN the/AT rotor/NN damaged/VBD the/AT drive/NN belts/NNS and/CC reduced/VBD the/AT oxygen/NN transfer/NN capacity/NN ./pct
+It/PPS was/BEDZ approximately/RB one/CD month/NN before/CS the/AT belt/NN problem/NN was/BEDZ noticed/VBN and/CC corrected/VBN ,/pct but/CC at/IN no/AT time/NN was/BEDZ there/EX a/AT deficiency/NN of/IN dissolved/VBN oxygen/NN ./pct
+A/AT series/NNS of/IN eight/CD special/JJ tests/NNS were/BED conducted/VBN at/IN different/JJ rotor/NN speeds/NNS to/TO determine/VB the/AT oxygen/NN transfer/NN rate/NN ./pct
+Five/CD of/IN the/AT tests/NNS were/BED conducted/VBN with/IN a/AT polyethylene/NN cover/NN to/TO simulate/VB an/AT ice/NN cover/NN ./pct
+The/AT rate/NN of/IN oxygen/NN transfer/NN at/IN 1.0-mg./NN //pct l./NN dissolved/VBN oxygen/NN concentration/NN and/CC 10-degrees-C/NNS for/IN various/AP rotor/NN speeds/NNS is/BEZ given/VBN in/IN Table/NN 3/CD ./pct
+The/AT maximum/JJ rate/NN of/IN oxygen/NN transfer/NN at/IN 1.0/CD mg/l/NN dissolved/VBN oxygen/NN was/BEDZ calculated/VBN as/CS 220/CD lb/day/NN at/IN a/AT maximum/JJ rate/NN of/IN 9.3/CD Aj/NN ./pct
+The/AT actual/JJ power/NN requirements/NNS indicated/VBD 2/CD lb./NN oxygen/NN transfer/NN //pct hr./NN //pct hp./NN ./pct
+The/AT polyethylene/NN cover/NN reduced/VBD the/AT oxygen/NN transfer/NN rate/NN by/IN 10/CD per/IN cent/NN ,/pct indicating/VBG that/CS the/AT maximum/JJ oxygen/NN transfer/NN is/BEZ at/IN the/AT rotor/NN rather/RB than/CS through/IN the/AT surface/NN ./pct
+Oxidation/NN pond/NN
+During/IN this/DT study/NN septic/JJ conditions/NNS developed/VBD in/IN the/AT oxidation/NN pond/NN in/IN the/AT spring/NN when/WRB the/AT ice/NN melted/VBD ./pct
+Shortly/RB after/CS this/DT study/NN ended/VBD septic/JJ conditions/NNS resulted/VBD which/WDT required/VBD the/AT addition/NN of/IN sodium/NN nitrate/NN ./pct
+The/AT location/NN of/IN the/AT oxidation/NN pond/NN in/IN a/AT high-value/NN residential/JJ area/NN makes/VBZ odor/NN nuisances/NNS a/AT sensitive/JJ problem/NN for/IN the/AT developer/NN ./pct
+The/AT organic/JJ concentration/NN in/IN the/AT influent/JJ raw/JJ sewage/NN ranged/VBD from/IN 160/CD to/IN 270/CD mg/l/NN of/IN BOD/NN with/IN an/AT average/NN of/IN 230/CD Aj/NN ./pct
+The/AT BOD/NN data/NNS are/BER given/VBN in/IN Table/NN 4/CD ./pct
+A/AT single/AP 24-hr./JJ composite/JJ sample/NN had/HVD a/AT BOD/NN of/IN 260/CD mg/l/NN ,/pct indicating/VBG a/AT typical/JJ domestic/JJ sewage/NN ./pct
+The/AT daily/JJ sewage/NN volume/NN to/IN the/AT oxidation/NN pond/NN averaged/VBD 147,000/CD gpd/NN ,/pct giving/VBG a/AT retention/NN period/NN of/IN 42/CD days/NNS ./pct
+The/AT organic/JJ loading/NN on/IN the/AT pond/NN was/BEDZ slightly/RB under/IN 60/CD lb./NN BOD/NP //pct day/NN //pct acre/NN ./pct
+The/AT effluent/NN BOD/NN averaged/VBD 34/CD mg/l/NN ,/pct a/AT little/QL lower/JJR than/CS that/DT of/IN the/AT study/NN at/IN Fayette/NP indicated/VBD for/IN a/AT loading/NN of/IN 60/CD lb./NN Aj/NN ./pct
+The/AT BOD/NN of/IN the/AT effluent/NN ranged/VBD from/IN a/AT minimum/NN of/IN 13/CD to/IN a/AT maximum/JJ of/IN 47/CD mg./NN //pct l./NN ./pct
+Microscopic/JJ examination/NN of/IN the/AT effluent/NN showed/VBD that/CS minimum/JJ BOD/NN occurred/VBD when/WRB the/AT algae/NNS began/VBD to/TO decrease/VB with/IN cold/JJ weather/NN ./pct
+When/WRB the/AT algae/NNS began/VBD to/TO build/VB up/RP again/RB ,/pct the/AT effluent/NN BOD/NN rose/VBD ./pct
+During/IN the/AT two/CD weeks/NNS when/WRB the/AT algae/NNS disappeared/VBD from/IN the/AT effluent/NN BOD's/NN in/IN the/AT effluent/NN were/BED 18/CD and/CC 16/CD Aj/NN ./pct

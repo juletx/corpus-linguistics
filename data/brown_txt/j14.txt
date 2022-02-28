@@ -1,0 +1,108 @@
+Interestingly/RB enough/QLP ,/pct the/AT effect/NN of/IN the/AT digitalis/NN glycosides/NNS is/BEZ inhibited/VBN by/IN a/AT high/JJ concentration/NN of/IN potassium/NN in/IN the/AT incubation/NN medium/NN and/CC is/BEZ enhanced/VBN by/IN the/AT absence/NN of/IN potassium/NN (/pct Wolff/NP ,/pct 1960/CD )/pct ./pct
+B/NP ./pct
+Organification/NN of/IN iodine/NN
+The/AT precise/JJ mechanism/NN for/IN organification/NN of/IN iodine/NN in/IN the/AT thyroid/NN is/BEZ not/NEG as/QL yet/RB completely/RB understood/VBN ./pct
+However/RB ,/pct the/AT formation/NN of/IN organically/RB bound/VBN iodine/NN ,/pct mainly/RB mono-iodotyrosine/NN ,/pct can/MD be/BE accomplished/VBN in/IN cell-free/JJ systems/NNS ./pct
+In/IN the/AT absence/NN of/IN additions/NNS to/IN the/AT homogenate/NN ,/pct the/AT product/NN formed/VBN is/BEZ an/AT iodinated/VBN particulate/JJ protein/NN (/pct Fawcett/NP and/CC Kirkwood/NP ,/pct 1953/CD ;/pct ;/pct
+Taurog/NP ,/pct Potter/NP and/CC Chaikoff/NP ,/pct 1955/CD ;/pct ;/pct
+Taurog/NP ,/pct Potter/NP ,/pct Tong/NP ,/pct and/CC Chaikoff/NP ,/pct 1956/CD ;/pct ;/pct
+Serif/NP and/CC Kirkwood/NP ,/pct 1958/CD ;/pct ;/pct
+De/NP Groot/NP and/CC Carvalho/NP ,/pct 1960/CD )/pct ./pct
+This/DT iodoprotein/NN does/DOZ not/NEG appear/VB to/TO be/BE the/AT same/AP as/CS what/WDT is/BEZ normally/RB present/RB in/IN the/AT thyroid/NN ,/pct and/CC there/EX is/BEZ no/AT evidence/NN so/QL far/RB that/CS thyroglobulin/NN can/MD be/BE iodinated/VBN in/IN vitro/NN by/IN cell-free/JJ systems/NNS ./pct
+In/IN addition/NN ,/pct the/AT iodoamino/NN acid/NN formed/VBN in/IN largest/JJT quantity/NN in/IN the/AT intact/JJ thyroid/NN is/BEZ di-iodotyrosine/NN ./pct
+If/CS tyrosine/NN and/CC a/AT system/NN generating/VBG hydrogen/NN peroxide/NN are/BER added/VBN to/IN a/AT cell-free/JJ homogenate/NN of/IN the/AT thyroid/NN ,/pct large/JJ quantities/NNS of/IN free/JJ mono-iodotyrosine/NN can/MD be/BE formed/VBN (/pct Alexander/NP ,/pct 1959/CD )/pct ./pct
+It/PPS is/BEZ not/NEG clear/JJ whether/CS this/DT system/NN bears/VBZ any/DTI resemblance/NN to/IN the/AT in/IN vivo/NN iodinating/VBG mechanism/NN ,/pct and/CC a/AT system/NN generating/VBG peroxide/NN has/HVZ not/NEG been/BEN identified/VBN in/IN thyroid/NN tissue/NN ./pct
+On/IN chemical/JJ grounds/NNS it/PPS seems/VBZ most/QL likely/JJ that/CS iodide/NN is/BEZ first/RB converted/VBN to/IN Af/NN and/CC then/RB to/IN Af/NN as/CS the/AT active/JJ iodinating/VBG species/NN ./pct
+In/IN the/AT thyroid/NN gland/NN it/PPS appears/VBZ that/CS proteins/NNS (/pct chiefly/RB thyroglobulin/NN )/pct are/BER iodinated/VBN and/CC that/CS free/JJ tyrosine/NN and/CC thyronine/NN are/BER not/NEG iodinated/VBN ./pct
+Iodination/NN of/IN tyrosine/NN ,/pct however/RB ,/pct is/BEZ not/NEG enough/AP for/IN the/AT synthesis/NN of/IN hormone/NN ./pct
+The/AT mono-/JJ and/CC di-iodotyrosine/NN must/MD be/BE coupled/VBN to/TO form/VB tri-iodothyronine/NN and/CC thyroxine/NN ./pct
+The/AT mechanism/NN of/IN this/DT coupling/NN has/HVZ been/BEN studied/VBN in/IN some/DTI detail/NN with/IN non-enzymatic/JJ systems/NNS in/IN vitro/NN and/CC can/MD be/BE simulated/VBN by/IN certain/JJ di-iodotyrosine/NN analogues/NNS (/pct Pitt-Rivers/NP and/CC James/NP ,/pct 1958/CD )/pct ./pct
+There/EX is/BEZ so/QL far/RB no/AT evidence/NN to/TO indicate/VB conclusively/RB that/CS this/DT coupling/NN is/BEZ under/IN enzymatic/JJ control/NN ./pct
+The/AT chemical/JJ nature/NN of/IN the/AT iodocompounds/NNS is/BEZ discussed/VBN below/RB (/pct pp./NNS 76/CD et/CC seq./VBG )/pct ./pct
+C/NP ./pct
+Thyroglobulin/NN synthesis/NN
+Little/AP is/BEZ known/VBN of/IN the/AT synthetic/JJ mechanisms/NNS for/IN formation/NN of/IN thyroglobulin/NN ./pct
+Its/PPg synthesis/NN has/HVZ not/NEG been/BEN demonstrated/VBN in/IN cell-free/JJ systems/NNS ,/pct nor/CC has/HVZ its/PPg synthesis/NN by/IN systems/NNS with/IN intact/JJ thyroid/NN cells/NNS in/IN vitro/NN been/BEN unequivocally/RB proven/VBN ./pct
+There/EX is/BEZ some/DTI reason/NN to/TO think/VB that/CS thyroglobulin/NN synthesis/NN may/MD proceed/VB independently/RB of/IN iodination/NN ,/pct for/CS in/IN certain/AP transplantable/JJ tumours/NNS of/IN the/AT rat/NN thyroid/NN containing/VBG essentially/RB no/AT iodinated/VBN thyroglobulin/NN ,/pct a/AT protein/NN that/WPS appears/VBZ to/TO be/BE thyroglobulin/NN has/HVZ been/BEN observed/VBN in/IN ultracentrifuge/NN experiments/NNS (/pct Wolff/NP ,/pct Robbins/NP and/CC Rall/NP ,/pct 1959/CD )/pct ./pct
+Similar/JJ findings/NNS have/HV been/BEN noted/VBN in/IN a/AT patient/NN with/IN congenital/JJ absence/NN of/IN the/AT organification/NN enzymes/NNS ,/pct whose/WPg thyroid/NN tissue/NN could/MD only/RB concentrate/VB iodide/NN ./pct
+In/IN addition/NN ,/pct depending/IN on/IN availability/NN of/IN dietary/JJ iodine/NN ,/pct thyroglobulin/NN may/MD contain/VB varying/VBG quantities/NNS of/IN iodine/NN ./pct
+D/NP ./pct
+Secretion/NN
+Since/CS the/AT circulating/VBG thyroid/NN hormones/NNS are/BER the/AT amino/NN acids/NNS thyroxine/NN and/CC tri-iodothyronine/NN (/pct cf./VB Section/NN C/NP )/pct ,/pct it/PPS is/BEZ clear/JJ that/CS some/DTI mechanism/NN must/MD exist/VB in/IN the/AT thyroid/NN gland/NN for/IN their/PPg release/NN from/IN proteins/NNS before/IN secretion/NN ./pct
+The/AT presence/NN of/IN several/AP proteases/NNS and/CC peptidases/NNS has/HVZ been/BEN demonstrated/VBN in/IN the/AT thyroid/NN ./pct
+One/CD of/IN the/AT proteases/NNS has/HVZ pH/NN optimum/NN of/IN about/RB 3.7/CD and/CC another/DT of/IN about/RB 5.7/CD (/pct McQuillan/NP ,/pct Stanley/NP and/CC Trikojus/NP ,/pct 1954/CD ;/pct ;/pct
+Alpers/NP ,/pct Robbins/NP and/CC Rall/NP ,/pct 1955/CD )/pct ./pct
+The/AT finding/NN that/CS the/AT concentration/NN of/IN one/CD of/IN these/DTS proteases/NNS is/BEZ increased/VBN in/IN thyroid/NN glands/NNS from/IN TSH-treated/NN animals/NNS suggests/VBZ that/CS this/DT protease/NN may/MD be/BE active/JJ in/IN vivo/NN ./pct
+There/EX is/BEZ no/AT conclusive/JJ evidence/NN yet/RB that/CS either/DTX of/IN the/AT proteases/NNS has/HVZ been/BEN prepared/VBN in/IN highly/QL purified/VBN form/NN nor/CC is/BEZ their/PPg specificity/NN known/VBN ./pct
+A/AT study/NN of/IN their/PPg activity/NN on/IN thyroglobulin/NN has/HVZ shown/VBN that/DT thyroxine/NN is/BEZ not/NEG preferentially/RB released/VBN and/CC that/CS the/AT degradation/NN proceeds/VBZ stepwise/RB with/IN the/AT formation/NN of/IN macromolecular/JJ intermediates/NNS (/pct Alpers/NP ,/pct Petermann/NP and/CC Rall/NP ,/pct 1956/CD )/pct ./pct
+Besides/IN proteolytic/JJ enzymes/NNS the/AT thyroid/NN possesses/VBZ de-iodinating/VBG enzymes/NNS ./pct
+A/AT microsomal/JJ de-iodinase/NN with/IN a/AT pH/NN optimum/NN of/IN around/RB 8/CD ,/pct and/CC requiring/VBG reduced/VBN triphosphopyridine/NN nucleotide/NN for/IN activity/NN ,/pct has/HVZ been/BEN identified/VBN in/IN the/AT thyroid/NN (/pct Stanbury/NP ,/pct 1957/CD )/pct ./pct
+This/DT de-iodinating/VBG enzyme/NN is/BEZ effective/JJ against/IN mono-/JJ and/CC di-iodotyrosine/NN ,/pct but/CC does/DOZ not/NEG de-iodinate/VB thyroxine/NN or/CC tri-iodothyronine/NN ./pct
+It/PPS is/BEZ assumed/VBN that/CS the/AT iodine/NN released/VBN from/IN the/AT iodotyrosines/NNS remains/VBZ in/IN the/AT iodide/NN pool/NN of/IN the/AT thyroid/NN ,/pct where/WRB it/PPS is/BEZ oxidised/VBN and/CC re-incorporated/VBN into/IN thyroglobulin/NN ./pct
+The/AT thyroxine/NN and/CC tri-iodothyronine/NN released/VBN by/IN proteolysis/NN and/CC so/RB escaping/VBG de-iodination/NN presumably/RB diffuse/VB into/IN the/AT blood/NN stream/NN ./pct
+It/PPS has/HVZ been/BEN shown/VBN that/CS thyroglobulin/NN binds/VBZ thyroxine/NN ,/pct but/CC the/AT binding/NN does/DOZ not/NEG appear/VB to/TO be/BE particularly/QL strong/JJ ./pct
+It/PPS has/HVZ been/BEN suggested/VBN that/CS the/AT plasma/NN thyroxine-binding/JJ proteins/NNS ,/pct which/WDT have/HV an/AT extremely/QL high/JJ affinity/NN for/IN thyroxine/NN ,/pct compete/VB with/IN thyroglobulin/NN for/IN thyroxine/NN (/pct Ingbar/NP and/CC Freinkel/NP ,/pct 1957/CD )/pct ./pct
+E/NP ./pct
+Antithyroid/JJ drugs/NNS
+Antithyroid/JJ drugs/NNS are/BER of/IN two/CD general/JJ types/NNS ./pct
+One/CD type/NN has/HVZ a/AT small/JJ univalent/JJ anion/NN of/IN the/AT thiocyanate-perchlorate-fluoro/NN type/NN ./pct
+This/DT ion/NN inhibits/VBZ thyroid/NN hormone/NN synthesis/NN by/IN interfering/VBG with/IN iodide/NN concentration/NN in/IN the/AT thyroid/NN ./pct
+It/PPS does/DOZ not/NEG appear/VB to/TO affect/VB the/AT iodinating/VBG mechanism/NN as/CS such/JJ ./pct
+The/AT other/AP group/NN of/IN antithyroid/JJ agents/NNS or/CC drugs/NNS is/BEZ typified/VBN by/IN thiouracil/NN ./pct
+These/DTS drugs/NNS have/HV no/AT effect/NN on/IN the/AT iodide/NN concentrating/VBG mechanism/NN ,/pct but/CC they/PPSS inhibit/VB organification/NN ./pct
+The/AT mechanism/NN of/IN action/NN of/IN these/DTS drugs/NNS has/HVZ not/NEG been/BEN completely/RB worked/VBN out/RP ,/pct but/CC certain/AP of/IN them/PPO appear/VB to/TO act/VB by/IN reducing/VBG the/AT oxidised/VBN form/NN of/IN iodine/NN before/CS it/PPS can/MD iodinate/VB thyroglobulin/NN (/pct Astwood/NP ,/pct 1954/CD )/pct ./pct
+On/IN the/AT other/AP hand/NN ,/pct there/EX are/BER a/AT few/AP antithyroid/JJ drugs/NNS of/IN this/DT same/AP general/JJ type/NN ,/pct such/JJ as/CS resorcinol/NN ,/pct possessing/VBG no/AT reducing/VBG activity/NN and/CC possibly/RB acting/VBG through/IN formation/NN of/IN a/AT complex/NN with/IN molecular/JJ iodine/NN ./pct
+Any/DTI of/IN the/AT antithyroid/JJ drugs/NNS ,/pct of/IN either/DTX type/NN ,/pct if/CS given/VBN in/IN large/JJ enough/QLP doses/NNS for/IN a/AT long/JJ period/NN of/IN time/NN will/MD cause/VB goitre/NN ,/pct owing/VBG to/IN inhibition/NN of/IN thyroid/NN hormone/NN synthesis/NN ,/pct with/IN production/NN of/IN hypothyroidism/NN ./pct
+The/AT anterior/JJ lobe/NN of/IN the/AT pituitary/NN then/RB responds/VBZ by/IN an/AT increased/VBN output/NN of/IN TSH/NN ,/pct causing/VBG the/AT thyroid/NN to/TO enlarge/VB ./pct
+The/AT effect/NN of/IN drugs/NNS that/WPS act/VB on/IN the/AT iodide-concentrating/JJ mechanism/NN can/MD be/BE counteracted/VBN by/IN addition/NN of/IN relatively/QL large/JJ amounts/NNS of/IN iodine/NN to/IN the/AT diet/NN ./pct
+The/AT antithyroid/JJ drugs/NNS of/IN the/AT thiouracil/NN type/NN ,/pct however/RB ,/pct are/BER not/NEG antagonised/VBN by/IN such/JJ means/NNS ./pct
+Besides/IN those/DTS of/IN the/AT thiouracil/NN and/CC resorcinol/NN types/NNS ,/pct certain/AP antithyroid/JJ drugs/NNS have/HV been/BEN found/VBN in/IN naturally/RB occurring/VBG foods/NNS ./pct
+The/AT most/QL conclusively/RB identified/VBN is/BEZ L-5-vinyl-2-thio-oxazolidone/NP ,/pct which/WDT was/BEDZ isolated/VBN from/IN rutabaga/NN (/pct Greer/NP ,/pct 1950/CD )/pct ./pct
+It/PPS is/BEZ presumed/VBN to/TO occur/VB in/IN other/AP members/NNS of/IN the/AT Brassica/NP family/NN ./pct
+There/EX is/BEZ some/DTI evidence/NN that/CS naturally/RB occurring/VBG goitrogens/NNS may/MD play/VB a/AT role/NN in/IN the/AT development/NN of/IN goitre/NN ,/pct particularly/RB in/IN Tasmania/NP and/CC Australia/NP (/pct Clements/NP and/CC Wishart/NP ,/pct 1956/CD )/pct ./pct
+There/RB it/PPS seems/VBZ that/CS the/AT goitrogen/NN ingested/VBN by/IN dairy/NN animals/NNS is/BEZ itself/PPL inactive/JJ but/CC is/BEZ converted/VBN in/IN the/AT animal/NN to/IN an/AT active/JJ goitrogen/NN ,/pct which/WDT is/BEZ then/RB secreted/VBN in/IN the/AT milk/NN ./pct
+F/NP ./pct
+Dietary/JJ influences/NNS
+Besides/IN the/AT presence/NN of/IN goitrogens/NNS in/IN the/AT diet/NN ,/pct the/AT level/NN of/IN iodine/NN itself/PPL in/IN the/AT diet/NN plays/VBZ a/AT major/JJ role/NN in/IN governing/VBG the/AT activity/NN of/IN the/AT thyroid/NN gland/NN ./pct
+In/IN the/AT experimental/JJ animal/NN and/CC in/IN man/NN gross/JJ deficiency/NN in/IN dietary/JJ iodine/NN causes/VBZ thyroid/NN hyperplasia/NN ,/pct hypertrophy/NN and/CC increased/VBN thyroid/NN activity/NN (/pct Money/NN ,/pct Rall/NP and/CC Rawson/NP ,/pct 1952/CD ;/pct ;/pct
+Stanbury/NP ,/pct Brownell/NP ,/pct Riggs/NP ,/pct Perinetti/NP ,/pct Itoiz/NP ,/pct and/CC Del/NP Castillo/NP ,/pct 1954/CD )/pct ./pct
+In/IN man/NN the/AT normal/JJ level/NN of/IN iodine/NN in/IN the/AT diet/NN and/CC the/AT level/NN necessary/JJ to/TO prevent/VB development/NN of/IN goitre/NN is/BEZ about/RB 100/CD **ymg/NN per/IN day/NN ./pct
+With/IN lower/JJR levels/NNS ,/pct thyroid/NN hypertrophy/NN and/CC increased/VBN thyroid/NN blood-flow/NN enable/VB the/AT thyroid/NN to/TO accumulate/VB a/AT larger/JJR proportion/NN of/IN the/AT daily/JJ intake/NN of/IN iodine/NN ./pct
+Further/RBR ,/pct the/AT gland/NN is/BEZ able/JJ to/TO re-use/VB a/AT larger/JJR fraction/NN of/IN the/AT thyroid/NN hormone/NN de-iodinated/VBN peripherally/RB ./pct
+In/IN the/AT presence/NN of/IN a/AT low/JJ iodine/NN intake/NN ,/pct thyroglobulin/NN labelled/VBN in/IN vivo/NN with/IN Af/NN is/BEZ found/VBN to/TO contain/VB more/AP mono-iodotyrosine/NN than/CS normal/JJ ,/pct the/AT amounts/NNS of/IN di-iodotyrosine/NN and/CC iodothyronines/NNS being/BEG correspondingly/RB reduced/VBN ./pct
+This/DT appears/VBZ to/TO result/VB from/IN both/ABX a/AT reduced/VBN amount/NN of/IN the/AT iodine/NN substrate/NN and/CC a/AT more/QL rapid/JJ secretion/NN of/IN newly/RB iodinated/VBN thyroglobulin/NN ./pct
+If/CS the/AT deficiency/NN persists/VBZ long/RB enough/QLP ,/pct it/PPS is/BEZ reasonable/JJ to/TO suppose/VB that/CS the/AT Af/NN label/NN will/MD reflect/VB the/AT Af/NN distribution/NN in/IN the/AT thyroglobulin/NN ./pct
+Similar/JJ results/NNS might/MD be/BE expected/VBN from/IN the/AT influence/NN of/IN drugs/NNS or/CC pathological/JJ conditions/NNS that/WPS limit/VB iodide/NN trapping/VBG ,/pct or/CC organification/NN ,/pct or/CC accelerate/VB thyroglobulin/NN proteolysis/NN ./pct
+B/NP ./pct
+The/AT thyroid-stimulating/JJ hormone/NN
+The/AT name/NN thyroid-stimulating/JJ hormone/NN (/pct TSH/NP )/pct has/HVZ been/BEN given/VBN to/IN a/AT substance/NN found/VBN in/IN the/AT anterior/JJ pituitary/JJ gland/NN of/IN all/ABN species/NNS of/IN animal/NN so/RB tested/VBN for/IN its/PPg presence/NN ./pct
+The/AT hormone/NN has/HVZ also/RB been/BEN called/VBN thyrotrophin/NP or/CC thyrotrophic/JJ hormone/NN ./pct
+At/IN the/AT present/JJ time/NN we/PPSS do/DO not/NEG know/VB by/IN what/WDT biochemical/JJ mechanism/NN TSH/NN acts/VBZ on/IN the/AT thyroid/NN ,/pct but/CC for/IN bio-assay/NN of/IN the/AT hormone/NN there/EX are/BER a/AT number/NN of/IN properties/NNS by/IN which/WDT its/PPg activity/NN may/MD be/BE estimated/VBN ,/pct including/IN release/NN of/IN iodine/NN from/IN the/AT thyroid/NN ,/pct increase/NN in/IN thyroid/NN weight/NN ,/pct increase/NN in/IN mean/JJ height/NN of/IN the/AT follicular/JJ cells/NNS and/CC increase/NN in/IN the/AT thyroidal/JJ uptake/NN of/IN Af/NN ./pct
+Here/RB we/PPSS shall/MD restrict/VB discussion/NN to/IN those/DTS methods/NNS that/WPS appear/VB sufficiently/QL sensitive/JJ and/CC precise/JJ for/IN determining/VBG the/AT concentration/NN of/IN TSH/NN in/IN blood/NN ./pct
+Brown/NP (/pct 1959/CD )/pct has/HVZ reviewed/VBN generally/RB the/AT various/JJ methods/NNS of/IN assaying/VBG TSH/NN ,/pct and/CC the/AT reader/NN is/BEZ referred/VBN to/IN her/PPg paper/NN for/IN further/AP information/NN on/IN the/AT subject/NN ./pct
+1/CD ./pct
+Chemical/NN constitution/NN and/CC physical/JJ properties/NNS of/IN pituitary/JJ tsh/NN
+As/QL long/RB ago/RB as/CS 1851/CD it/PPS was/BEDZ pointed/VBN out/RP by/IN Niepce/NP (/pct 1851/CD )/pct that/CS there/EX is/BEZ a/AT connection/NN between/IN the/AT pituitary/NN and/CC the/AT thyroid/NN ./pct
+This/DT connection/NN was/BEDZ clarified/VBN by/IN Smith/NP and/CC Smith/NP (/pct 1922/CD )/pct ,/pct who/WPS showed/VBD that/CS saline/NN extracts/NNS of/IN fresh/JJ bovine/JJ pituitary/JJ glands/NNS could/MD re-activate/VB the/AT atrophied/VBN thyroids/NNS of/IN hypophysectomised/VBN tadpoles/NNS ./pct
+The/AT first/OD attempts/NNS to/TO isolate/VB TSH/NN came/VBD a/AT decade/NN later/RBR ,/pct when/WRB Janssen/NP and/CC Loeser/NP (/pct 1931/CD )/pct used/VBN trichloroacetic/JJ acid/NN to/TO separate/VB the/AT soluble/JJ TSH/NN from/IN insoluble/JJ impurities/NNS ./pct
+After/CS their/PPg work/NN other/AP investigators/NNS applied/VBD salt-fractionation/NN techniques/NNS to/IN the/AT problem/NN ,/pct as/QL well/RB as/CS fractionation/NN with/IN organic/JJ solvents/NNS ,/pct such/JJ as/CS acetone/NN ./pct
+Albert/NP (/pct 1949/CD )/pct has/HVZ concluded/VBN that/CS the/AT most/QL active/JJ preparations/NNS of/IN TSH/NN made/VBN during/IN this/DT period/NN ,/pct from/IN 1931/CD to/IN 1945/CD ,/pct were/BED probably/RB about/RB 100/CD to/IN 300/CD times/NNS as/QL potent/JJ as/CS the/AT starting/VBG material/NN ./pct
+Much/AP of/IN this/DT work/NN has/HVZ been/BEN reviewed/VBN by/IN White/NP (/pct 1944/CD )/pct and/CC by/IN Albert/NP (/pct 1949/CD )/pct ./pct
+Developments/NNS up/RP to/IN about/RB 1957/CD have/HV been/BEN discussed/VBN by/IN Sonenberg/NP (/pct 1958/CD )/pct ./pct
+In/IN the/AT last/AP few/AP years/NNS ,/pct the/AT application/NN of/IN chromatographic/JJ and/CC other/AP modern/JJ techniques/NNS to/IN the/AT problem/NN of/IN isolating/VBG TSH/NN has/HVZ led/VBN to/IN further/AP purification/NN (/pct Bates/NP and/CC Condliffe/NP ,/pct 1960/CD ;/pct ;/pct
+Pierce/NP ,/pct Carsten/NP and/CC Wynston/NP ,/pct 1960/CD )/pct ./pct
+The/AT most/QL active/JJ preparations/NNS obtained/VBN by/IN these/DTS two/CD groups/NNS of/IN investigators/NNS appear/VB to/TO be/BE similar/JJ in/IN potency/NN ,/pct composition/NN and/CC physical/JJ properties/NNS ./pct
+Two/CD problems/NNS present/VB themselves/PPLS in/IN considering/VBG any/DTI hormone/NN in/IN blood/NN ./pct
+First/RB ,/pct is/BEZ the/AT circulating/VBG form/NN of/IN the/AT hormone/NN the/AT same/AP as/CS that/DT found/VBN in/IN the/AT gland/NN where/WRB it/PPS is/BEZ synthesised/VBN and/CC stored/VBN ?/pct ?/pct
+Second/RB ,/pct what/WDT is/BEZ its/PPg concentration/NN in/IN normal/JJ circumstances/NNS and/CC in/IN what/WDT circumstances/NNS will/MD this/DT concentration/NN depart/VB from/IN the/AT normal/JJ level/NN and/CC in/IN which/WDT direction/NN ?/pct ?/pct
+It/PPS is/BEZ therefore/RB necessary/JJ to/TO consider/VB the/AT properties/NNS of/IN pituitary/JJ TSH/NN if/CS the/AT fragmentary/JJ chemical/NN information/NN about/IN blood/NN TSH/NN is/BEZ to/TO be/BE discussed/VBN rationally/RB ./pct
+The/AT importance/NN of/IN knowing/VBG in/IN what/WDT chemical/NN forms/NNS the/AT hormone/NN may/MD exist/VB is/BEZ accentuated/VBN by/IN the/AT recent/JJ observation/NN that/CS there/EX exists/VBZ an/AT abnormally/QL long-acting/JJ TSH/NN in/IN blood/NN drawn/VBN from/IN many/AP thyrotoxic/JJ patients/NNS (/pct Adams/NP ,/pct 1958/CD )/pct ./pct
+Whether/CS this/DT abnormal/JJ TSH/NN differs/VBZ chemically/RB from/IN pituitary/JJ TSH/NN ,/pct or/CC is/BEZ ,/pct alternatively/RB ,/pct normal/JJ TSH/NN with/IN its/PPg period/NN of/IN effectiveness/NN modified/VBN by/IN some/DTI other/AP blood/NN constituent/NN ,/pct cannot /None be/BE decided/VBN without/IN chemical/NN study/NN of/IN the/AT activity/NN in/IN the/AT blood/NN of/IN these/DTS patients/NNS and/CC a/AT comparison/NN of/IN the/AT substance/NN responsible/JJ for/IN the/AT blood/NN activity/NN with/IN pituitary/JJ Aj/NN ./pct
+In/IN evaluating/VBG data/NN on/IN the/AT concentration/NN of/IN TSH/NN in/IN blood/NN ,/pct one/PN must/MD examine/VB critically/RB the/AT bio-assay/NN methods/NNS used/VBN to/TO obtain/VB them/PPO ./pct
+The/AT introduction/NN of/IN the/AT United/VBN States/NNS Pharmacopoeia/NN reference/NN standard/NN in/IN 1952/CD and/CC the/AT redefinition/NN and/CC equating/NN of/IN the/AT USP/NN and/CC international/JJ units/NNS of/IN thyroid-stimulating/JJ activity/NN have/HV made/VBN it/PPO possible/JJ to/TO compare/VB results/NNS published/VBN by/IN different/JJ investigators/NNS since/IN that/DT time/NN ./pct
+We/PPSS should/MD like/VB to/TO re-emphasise/VB the/AT importance/NN of/IN stating/VBG results/NNS solely/RB in/IN terms/NNS of/IN international/JJ units/NNS of/IN TSH/NN activity/NN and/CC of/IN avoiding/VBG the/AT re-introduction/NN of/IN biological/JJ units/NNS ./pct
+For/IN the/AT most/AP part/NN ,/pct this/DT discussion/NN will/MD be/BE confined/VBN to/IN results/NNS obtained/VBN since/IN the/AT introduction/NN of/IN the/AT reference/NN standard/NN ./pct
+A/NP ./pct
+Standard/JJ preparations/NNS and/CC units/NNS of/IN thyroid-stimulating/JJ activity/NN
+The/AT international/JJ unit/NN (/pct u./NN )/pct ,/pct adopted/VBN to/TO make/VB possible/JJ the/AT comparison/NN of/IN results/NNS from/IN different/JJ laboratories/NNS (/pct Mussett/NP and/CC Perry/NP ,/pct 1955/CD )/pct ,/pct has/HVZ been/BEN defined/VBN as/CS the/AT amount/NN of/IN activity/NN present/RB in/IN 13.5/CD mg/NN of/IN the/AT International/JJ Standard/JJ Preparation/NN ./pct
+The/AT international/JJ unit/NN is/BEZ equipotent/JJ with/IN the/AT USP/NN unit/NN adopted/VBN in/IN 1952/CD ,/pct which/WDT was/BEDZ defined/VBN as/CS the/AT amount/NN of/IN activity/NN present/RB in/IN 20/CD mg/NN of/IN the/AT USP/NN reference/NN substance/NN ./pct

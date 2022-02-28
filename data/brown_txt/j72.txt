@@ -1,0 +1,112 @@
+Two/CD metabolites/NNS (/pct 1/CD ,/pct and/CC 2/CD )/pct )/pct of/IN p-aminobenzoic/NN acid/NN (/pct PABA/NP )/pct which/WDT act/VB as/CS cofactors/NNS for/IN the/AT hydroxylation/NN of/IN aniline/NN by/IN acid-fast/JJ bacteria/NNS are/BER biosynthesized/VBN from/IN Aj/NN ./pct
+The/AT 7/CD carbons/NNS of/IN PABA/NN are/BER incorporated/VBN directly/RB into/IN metabolite/NN 2/CD (/pct (/pct as/CS shown/VBN with/IN both/ABX ring-labeled/JJ and/CC carboxy-labeled/JJ Af/NN )/pct ./pct
+Thirty-five/CD of/IN the/AT 36/CD carbon/NN atoms/NNS arise/VB from/IN Aj/NN ./pct
+All/ABN 28/CD carbons/NNS of/IN metabolite/NN 1/CD (/pct (/pct a/AT product/NN of/IN mild/JJ acid/NN hydrolysis/NN of/IN 2/CD )/pct arise/VB from/IN Aj/NN ./pct
+Metabolite/NN 1/CD ,/pct isolated/VBN from/IN the/AT medium/NN ,/pct however/RB ,/pct showed/VBD a/AT lower/JJR specific/JJ activity/NN ,/pct which/WDT indicates/VBZ endogenous/JJ synthesis/NN of/IN this/DT metabolite/NN ./pct
+Vigorous/JJ acid/NN hydrolysis/NN of/IN metabolite/NN 1/CD ,/pct destroyed/VBD the/AT biological/JJ activity/NN of/IN the/AT compound/NN and/CC liberated/VBD two/CD aryl/NN amines/NNS ./pct
+Fragment/NN A/NN has/HVZ been/BEN obtained/VBN in/IN crystalline/JJ form/NN as/CS a/AT dioxalate/NN salt/NN and/CC free/JJ base/NN ./pct
+Preliminary/JJ evidence/NN tentatively/RB indicates/VBZ that/CS the/AT molecule/NN (/pct metabolite/NN 1/CD )/pct )/pct is/BEZ cleaved/VBN at/IN a/AT secondary/JJ amide/NN bond/NN ./pct
+(/pct N./NP H./NP Sloane/NP ;/pct ;/pct
+chemical/NN studies/NNS are/BER being/BEG pursued/VBN with/IN the/AT cooperation/NN of/IN K.G./NP Untch/NP ./pct
+)/pct studies/NNS on/IN esterases/NNS
+--/pct Research/NN on/IN esterases/NNS in/IN mammalian/JJ sera/NNS was/BEDZ continued/VBN ./pct
+One/CD of/IN the/AT most/QL interesting/JJ findings/NNS was/BEDZ the/AT extreme/JJ sensitivity/NN of/IN plasma/NN arylesterases/NNS to/IN rare/JJ earth/NN ions/NNS ./pct
+The/AT inhibition/NN of/IN the/AT enzyme/NN by/IN very/QL low/JJ concentrations/NNS of/IN lanthanum/NN ion/NN is/BEZ probably/RB the/AT strongest/JJT known/VBN biological/JJ effect/NN of/IN rare/JJ earth/NN salts/NNS ./pct
+Various/AP metal/NN ions/NNS have/HV been/BEN found/VBN to/TO protect/VB plasma/NN arylesterase/NN against/IN inactivation/NN by/IN urea/NN and/CC guanidine/NN ./pct
+The/AT effects/NNS can/MD be/BE related/VBN to/IN the/AT structure/NN of/IN this/DT enzyme/NN ./pct
+The/AT non-identity/NN of/IN serum/NN and/CC red/JJ blood/NN cell/NN arylesterase/NN was/BEDZ also/RB established/VBN ./pct
+Furthermore/RB ,/pct the/AT hydrolysis/NN of/IN paraoxon/NN was/BEDZ studied/VBN in/IN mammalian/JJ sera/NNS ,/pct and/CC it/PPS was/BEDZ found/VBN that/CS it/PPS is/BEZ hydrolyzed/VBN by/IN albumin/NN (/pct or/CC a/AT factor/NN attached/VBN to/IN it/PPO )/pct in/IN addition/NN to/IN arylesterase/NN ./pct
+Selective/JJ inhibitors/NNS can/MD distinguish/VB the/AT two/CD activities/NNS ./pct
+Investigations/NNS on/IN the/AT acceleration/NN of/IN human/JJ plasma/NN cholinesterase/NN were/BED carried/VBN further/RBR ./pct
+(/pct E./NP G./NP Erdos/NP ,/pct L./NP E./NP Boggs/NP ,/pct C./NP D./NP Mackey/NP )/pct biophysical/JJ studies/NNS on/IN modified/VBN fibrous/JJ proteins/NNS
+--/pct Electron-microscopical/JJ and/CC physical-chemical/JJ methods/NNS were/BED used/VBN to/TO demonstrate/VB the/AT renaturation/NN of/IN heat-denatured/JJ collagen/NN and/CC ribonucleic/JJ acid/NN ./pct
+(/pct R./NP V./NP Rice/NP )/pct
+A/AT method/NN was/BEDZ devised/VBN for/IN extracting/VBG and/CC purifying/VBG soluble/JJ earthworm/NN collagen/NN (/pct EWC/NP )/pct ./pct
+It/PPS was/BEDZ observed/VBN that/CS EWC/NN macromolecules/NNS are/BER the/AT same/AP diameter/NN (/pct 15/CD a./NNS )/pct but/CC much/QL longer/JJR (/pct up/RP to/IN several/AP microns/NNS )/pct than/CS vertebrate/NN tropocollagen/NN ./pct
+This/DT unusual/JJ collagen/NN also/RB was/BEDZ shown/VBN to/TO undergo/VB a/AT reversible/JJ thermal/JJ phase/NN transformation/NN ./pct
+(/pct R./NP V./NP Rice/NP ,/pct M./NP D./NP Maser/NP )/pct studies/NNS on/IN peptides/NNS and/CC peptidases/NNS
+--/pct This/DT investigation/NN involved/VBD several/AP aspects/NNS ./pct
+Substance/NN Z/NN ,/pct an/AT active/JJ urinary/JJ peptide/NN ,/pct was/BEDZ purified/VBN by/IN extraction/NN in/IN organic/JJ solvents/NNS and/CC repeated/VBN column/NN chromatography/NN ;/pct ;/pct
+high-voltage/NN electrophoresis/NN and/CC paper/NN chromatography/NN were/BED used/VBN in/IN preliminary/JJ structural/JJ studies/NNS ;/pct ;/pct
+pharmacological/JJ effects/NNS in/IN vitro/NN on/IN isolated/VBN surviving/VBG organs/NNS and/CC in/IN vivo/NN on/IN blood/NN pressure/NN were/BED assayed/VBN ;/pct ;/pct
+special/JJ equipment/NN required/VBN for/IN registering/VBG respiration/NN and/CC for/IN recording/VBG the/AT contraction/NN of/IN smooth/JJ muscles/NNS under/IN various/JJ conditions/NNS was/BEDZ developed/VBN by/IN the/AT Instruments/NNS Section/NN (/pct Victor/NP Jackman/NP ,/pct W./NP C./NP Barnes/NP ,/pct J./NP F./NP Reiss/NP )/pct ;/pct ;/pct
+and/CC enzymes/NNS which/WDT terminate/VB the/AT action/NN of/IN peptides/NNS such/JJ as/CS bradykinin/NN and/CC perhaps/RB Substance/NN Z/NP were/BED studied/VBN ./pct
+Experiments/NNS are/BER in/IN progress/NN to/TO develop/VB ultraviolet/JJ spectrophotometric/JJ techniques/NNS for/IN assaying/VBG these/DTS enzymes/NNS and/CC for/IN studying/VBG their/PPg sensitivity/NN to/IN metal/NN ions/NNS ./pct
+(/pct E./NP G./NP Erdos/NP ,/pct C./NP D./NP Mackey/NP ,/pct A./NP G./NP Renfrew/NP ,/pct W./NP B./NP Severs/NP ,/pct E./NP M./NP Sloane/NP )/pct seed/NN proteins/NNS
+--/pct In/IN a/AT physiochemical/JJ study/NN of/IN seed/NN proteins/NNS ,/pct the/AT globulins/NNS of/IN the/AT Brazil/NP nut/NN have/HV been/BEN investigated/VBN ./pct
+In/IN addition/NN to/IN the/AT known/VBN principal/JJS globulin/NN ,/pct excelsin/NN ,/pct three/CD other/AP ultracentrifugally/RB distinct/JJ components/NNS have/HV been/BEN observed/VBN ./pct
+A/AT water-soluble/JJ protein/NN of/IN quite/QL low/JJ molecular/JJ weight/NN (/pct ca./RB 10,000/CD )/pct has/HVZ also/RB been/BEN found/VBN in/IN this/DT system/NN and/CC partly/RB characterized/VBN ./pct
+(/pct E./NP F./NP Casassa/NP ,/pct H./NP J./NP Notarius/NP )/pct
+continuum/NN mechanics/NN and/CC viscoelasticity/NN
+theory/NN of/IN non-newtonian/JJ fluids/NNS
+--/pct On/IN the/AT basis/NN of/IN a/AT differentiability/NN assumption/NN in/IN function/NN space/NN ,/pct it/PPS is/BEZ possible/JJ to/TO prove/VB that/CS ,/pct for/IN materials/NNS having/HVG the/AT property/NN that/CS the/AT stress/NN is/BEZ given/VBN by/IN a/AT functional/NN of/IN the/AT history/NN of/IN the/AT deformation/NN gradients/NNS ,/pct the/AT classical/JJ theory/NN of/IN infinitesimal/JJ viscoelasticity/NN is/BEZ valid/JJ when/WRB the/AT deformation/NN has/HVZ been/BEN infinitesimal/JJ for/IN all/ABN times/NNS in/IN the/AT past/NN ./pct
+By/IN strengthening/VBG the/AT differentiability/NN assumption/NN ,/pct it/PPS has/HVZ been/BEN possible/JJ to/TO derive/VB second/OD and/CC higher/JJR order/NN theories/NNS of/IN viscoelasticity/NN ./pct
+In/IN the/AT second-order/NN theory/NN ,/pct one/CD of/IN the/AT normal/JJ stress/NN differences/NNS can/MD be/BE calculated/VBN from/IN the/AT first-order/NN stress/NN relaxation/NN function/NN ./pct
+(/pct B./NP D./NP Coleman/NP with/IN Walter/NP Noll/NP ,/pct Department/NN of/IN Mathematics/NN ,/pct Carnegie/NP Institute/NN of/IN Technology/NN )/pct viscoelastic/JJ measurements/NNS
+--/pct An/AT extensive/JJ series/NN of/IN measurements/NNS was/BEDZ made/VBN on/IN a/AT high-density/NN polyethylene/NN in/IN a/AT torsion/NN pendulum/NN instrument/NN using/VBG forced/VBN sinusoidal/JJ oscillation/NN ,/pct free/JJ vibration/NN ,/pct and/CC creep/NN measurements/NNS over/IN the/AT temperature/NN range/NN of/IN Af/NN to/IN 80-degrees-C/NNS ./pct
+As/QL many/AP as/CS seven/CD decades/NNS of/IN the/AT time/NN scale/NN were/BED thus/RB covered/VBN isothermally/RB ./pct
+The/AT simple/JJ time-temperature/NN equivalence/NN valid/JJ for/IN many/AP amorphous/JJ systems/NNS did/DOD not/NEG hold/VB here/RB ./pct
+It/PPS was/BEDZ possible/JJ ,/pct however/RB ,/pct to/TO decompose/VB the/AT compliance/NN into/IN a/AT sum/NN of/IN a/AT frequency-independent/JJ component/NN and/CC two/CD viscoelastic/JJ mechanisms/NNS ,/pct each/DT compatible/JJ with/IN the/AT Boltzmann/NP superposition/NN principle/NN and/CC with/IN a/AT consistent/JJ set/NN of/IN time-temperature/NN equivalence/NN factors/NNS ./pct
+(/pct Hershel/NP Markovitz/NP ,/pct D.J./NP Plazek/NP ,/pct Haruo/NP Nakayasu/NP )/pct
+geochemistry/NN
+trace/NN elements/NNS in/IN tektites/NNS ,/pct meteorites/NNS ,/pct and/CC related/VBN materials/NNS
+--/pct The/AT results/NNS of/IN microanalysis/NN of/IN tektites/NNS (/pct natural/JJ glasses/NNS of/IN unknown/JJ origin/NN )/pct for/IN gallium/NN and/CC germanium/NN have/HV shown/VBN that/CS these/DTS glasses/NNS are/BER probably/RB produced/VBN from/IN terrestrial/JJ (/pct or/CC less/QL likely/JJ from/IN lunar/JJ )/pct matter/NN by/IN impact/NN of/IN a/AT celestial/JJ body/NN ./pct
+The/AT gallium/NN //pct germanium/NN ratio/NN is/BEZ higher/JJR than/CS that/DT for/IN ordinary/JJ igneous/JJ ,/pct metamorphic/JJ ,/pct or/CC sedimentary/JJ matter/NN as/CS a/AT result/NN of/IN selective/JJ volatilization/NN of/IN the/AT components/NNS of/IN the/AT tektite/NN ./pct
+Gallium/NN oxide/NN is/BEZ less/QL volatile/JJ than/CS silica/NN (/pct the/AT main/JJS constituent/NN of/IN tektites/NNS )/pct and/CC germanium/NN oxide/NN is/BEZ more/QL volatile/JJ ./pct
+Australites/NNS (/pct tektites/NNS from/IN Australia/NP )/pct give/VB the/AT appearance/NN of/IN a/AT second/OD melting/NN ./pct
+In/IN conformity/NN with/IN this/DT conclusion/NN a/AT higher/JJR trace/NN gallium/NN content/NN was/BEDZ found/VBN in/IN the/AT portion/NN (/pct flange/NN )/pct that/WPS has/HVZ undergone/VBN a/AT second/OD melting/NN ./pct
+The/AT silicate/JJ fractions/NNS of/IN stony/JJ meteorites/NNS show/VB gallium/NN //pct germanium/NN ratios/NNS similar/JJ to/IN those/DTS of/IN tektites/NNS because/CS they/PPSS too/RB have/HV undergone/VBN melting/VBG at/IN some/DTI point/NN in/IN their/PPg histories/NNS ./pct
+Libyan/NP Desert/NN silica-glass/NN ,/pct another/DT natural/JJ glass/NN ,/pct is/BEZ composed/VBN of/IN nearly/QL pure/JJ silica/NN and/CC has/HVZ the/AT same/AP trace/NN germanium/NN content/NN as/CS sands/NNS in/IN the/AT area/NN ./pct
+The/AT gallium/NN content/NN ,/pct however/RB ,/pct has/HVZ been/BEN enhanced/VBN five-fold/RB ./pct
+This/DT glass/NN is/BEZ probably/RB formed/VBN from/IN Libyan/NP Desert/NN sands/NNS by/IN comet/NN or/CC stony-meteorite/NN impact/NN ./pct
+Nickel-iron/NN meteorites/NNS with/IN sufficient/JJ kinetic/JJ energy/NN to/TO produce/VB large/JJ terrestrial/JJ explosion/NN craters/NNS may/MD nevertheless/RB melt/VB only/AP small/JJ quantities/NNS of/IN material/NN ./pct
+Most/AP of/IN the/AT impact/NN energy/NN is/BEZ spent/VBN in/IN crushing/VBG and/CC fragmentation/NN ./pct
+When/WRB rapid/JJ quenching/NN follows/VBZ melting/VBG ,/pct impact/NN glasses/NNS may/MD result/VB ./pct
+These/DTS always/RB contain/VB metallic/JJ inclusions/NNS ./pct
+Impact/NN glasses/NNS not/NEG containing/VBG elemental/JJ nickel-iron/NN may/MD have/HV been/BEN produced/VBN by/IN stony/JJ meteorites/NNS or/CC comets/NNS ./pct
+No/AT meteorites/NNS have/HV ever/RB been/BEN recovered/VBN from/IN paleoexplosion/NN craters/NNS ,/pct and/CC recent/JJ craters/NNS containing/VBG impact/NN glass/NN have/HV all/ABN been/BEN produced/VBN by/IN metallic/JJ meteorites/NNS with/IN the/AT exception/NN of/IN Aouelloul/NP crater/NN ,/pct Adrar/NP ,/pct Western/JJ Sahara/NP Desert/NN ./pct
+This/DT crater/NN contains/VBZ impact/NN glass/NN with/IN no/AT metallic/JJ inclusions/NNS and/CC no/AT meteoritic/JJ material/NN has/HVZ been/BEN recovered/VBN ./pct
+(/pct A./NP J./NP Cohen/NP ,/pct John/NP Anania/NP )/pct
+inorganic/JJ chemistry/NN
+Preparation/NN of/IN a/AT coordination/NN compound/NN is/BEZ often/RB accomplished/VBN by/IN the/AT simple/JJ method/NN of/IN reacting/VBG a/AT metal/NN salt/NN with/IN a/AT ligand/NN in/IN a/AT suitable/JJ solvent/NN such/JJ as/CS an/AT alcohol/NN ./pct
+By/IN applying/VBG this/DT general/JJ principle/NN ,/pct a/AT great/JJ number/NN of/IN complex/JJ compounds/NNS of/IN osmium/NN ,/pct ruthenium/NN ,/pct iridium/NN ,/pct and/CC rhenium/NN ,/pct with/IN triphenylphosphine/NN ,/pct triphenylarsine/NN ,/pct and/CC triphenylstibine/NN have/HV been/BEN obtained/VBN in/IN this/DT laboratory/NN during/IN the/AT past/AP few/AP years/NNS ./pct
+(/pct Lauri/NP Vaska/NP ,/pct E./NP M./NP Sloane/NP ,/pct J./NP W./NP DiLuzio/NP )/pct In/IN the/AT absence/NN of/IN direct/JJ evidence/NN to/IN the/AT contrary/JJ ,/pct decomposition/NN of/IN solvent/NN alcohol/NN and/CC coordination/NN of/IN its/PPg fragments/NNS to/IN the/AT metal/NN were/BED not/NEG considered/VBN ,/pct following/IN the/AT above/JJ heretofore-accepted/JJ assumption/NN in/IN preparative/JJ coordination/NN chemistry/NN ./pct
+Recent/JJ work/NN with/IN radiocarbon/NN and/CC deuterated/VBN alcohols/NNS as/CS solvents/NNS ,/pct however/RB ,/pct has/HVZ given/VBN evidence/NN that/CS metal-hydrido/NN and/CC carbonyl/NN complexes/NNS may/MD be/BE readily/RB formed/VBN by/IN reaction/NN with/IN alcohol/NN in/IN some/DTI of/IN these/DTS systems/NNS ./pct
+Some/DTI of/IN the/AT previously/RB reported/VBN compounds/NNS have/HV thus/RB been/BEN reformulated/VBN and/CC a/AT series/NN of/IN new/JJ hydrido/NN and/CC carbonyl/NN compounds/NNS discovered/VBN ,/pct the/AT more/QL representative/JJ examples/NNS being/BEG Af/NN ,/pct Af/NN ,/pct Af/NN ,/pct Af/NN and/CC Af/NN (/pct Af/NN )/pct ./pct
+The/AT coordination/NN complexes/NNS formed/VBN by/IN transition/NN metals/NNS with/IN primary/JJ and/CC secondary/JJ phosphines/NNS and/CC arsines/NNS are/BER being/BEG investigated/VBN (/pct R./NP G./NP Hayter/NP )/pct ./pct
+Particular/JJ interest/NN is/BEZ directed/VBN towards/IN the/AT condensation/NN of/IN these/DTS ligands/NNS with/IN metal/NN halides/NNS to/TO form/VB substituted/VBN phosphide/NN or/CC arside/NN complexes/NNS ./pct
+During/IN the/AT past/JJ year/NN ,/pct these/DTS ligands/NNS have/HV yielded/VBN some/DTI unusual/JJ five-coordinate/JJ complexes/NNS of/IN nickel/NN (/pct 2/CD )/pct and/CC some/DTI interesting/JJ binuclear/JJ phosphorus-bridged/JJ complexes/NNS of/IN palladium/NN (/pct 2/CD )/pct (/pct see/VB figure/NN )/pct ,/pct as/QL well/RB as/CS new/JJ compounds/NNS of/IN the/AT well-known/JJ type/NN Af/NN ./pct
+The/AT structures/NNS ,/pct properties/NNS ,/pct and/CC reactions/NNS of/IN these/DTS compounds/NNS are/BER being/BEG studied/VBN ./pct
+In/IN another/DT study/NN chromium-substituted/JJ aluminum/NN oxyhydroxides/NNS and/CC related/VBN species/NNS ,/pct prepared/VBN homogeneously/RB by/IN high-temperature/NN hydrolysis/NN ,/pct are/BER being/BEG characterized/VBN and/CC investigated/VBN spectrally/RB in/IN the/AT ultraviolet/JJ region/NN with/IN a/AT view/NN to/IN identification/NN and/CC semiquantitative/JJ estimation/NN of/IN the/AT phases/NNS formed/VBN under/IN varying/VBG preparative/JJ conditions/NNS ./pct
+(/pct J./NP A./NP Laswick/NP ,/pct N./NP L./NP Heatwole/NP )/pct
+structure/NN and/CC properties/NNS of/IN macromolecules/NNS
+elasticity/NN of/IN macromolecular/JJ networks/NNS
+--/pct The/AT theory/NN of/IN elasticity/NN of/IN Gaussian/JJ networks/NNS has/HVZ been/BEN developed/VBN on/IN a/AT more/QL general/JJ basis/NN and/CC the/AT equations/NNS of/IN state/NN relating/VBG variables/NNS of/IN pressure/NN ,/pct volume/NN ,/pct temperature/NN ,/pct stress/NN and/CC strain/NN have/HV been/BEN precisely/RB formulated/VBN ./pct
+Simple/JJ elongation/NN has/HVZ been/BEN treated/VBN in/IN detail/NN ./pct
+The/AT various/AP stress-temperature/NN coefficients/NNS for/IN constancy/NN of/IN volume/NN and/CC strain/NN ,/pct constancy/NN of/IN pressure/NN and/CC strain/NN ,/pct and/CC constancy/NN of/IN pressure/NN and/CC length/NN have/HV been/BEN interrelated/VBN ./pct
+The/AT dilation/NN accompanying/VBG elongation/NN and/CC the/AT simultaneously/RB developed/VBN anisotropy/NN of/IN compressibility/NN have/HV been/BEN related/VBN to/IN the/AT elongation/NN ./pct
+In/IN continuation/NN of/IN these/DTS theoretical/JJ studies/NNS ,/pct a/AT more/QL precise/JJ elucidation/NN of/IN the/AT effects/NNS of/IN imperfections/NNS in/IN network/NN structure/NN is/BEZ sought/VBN ./pct
+(/pct P./NP J./NP Flory/NP ,/pct C./NP A./NP J./NP Hoeve/NP )/pct chain/NN conformations/NNS of/IN polymeric/JJ chains/NNS
+--/pct Recent/JJ theoretical/JJ work/NN to/TO calculate/VB the/AT dimensions/NNS of/IN polymeric/JJ chains/NNS by/IN Volkenstein/NP and/CC Lifson/NP has/HVZ been/BEN extended/VBN to/TO include/VB more/QL general/JJ types/NNS of/IN chains/NNS ./pct
+The/AT mean-square/NN end-to-end/JJ distance/NN of/IN the/AT polyisobutylene/NN chain/NN has/HVZ been/BEN calculated/VBN in/IN reasonable/JJ agreement/NN with/IN values/NNS deduced/VBN from/IN viscosity/NN data/NN ./pct
+These/DTS studies/NNS are/BER being/BEG extended/VBN to/IN different/JJ polymers/NNS to/TO increase/VB our/PPg knowledge/NN about/IN the/AT hindrances/NNS to/IN rotation/NN around/IN chain/NN bonds/NNS ./pct
+(/pct C./NP A./NP J./NP Hoeve/NP ,/pct A./NP A./NP Blumberg/NP )/pct crystallization/NN in/IN polymers/NNS and/CC copolymers/NNS
+--/pct The/AT crystallization/NN of/IN copolymers/NNS comprising/VBG Af/NN units/NNS interspersed/VBN with/IN a/AT minor/JJ percentage/NN of/IN Af/NN is/BEZ limited/VBN by/IN the/AT inability/NN of/IN the/AT crystal/NN lattice/NN characteristic/NN of/IN the/AT former/AP to/TO accommodate/VB the/AT bulky/JJ side/NN group/NN of/IN the/AT latter/AP ./pct
+Only/AP uninterrupted/JJ sequences/NNS of/IN the/AT former/AP are/BER eligible/JJ for/IN formation/NN of/IN crystallites/NNS ./pct
+Limitations/NNS on/IN the/AT lengths/NNS of/IN these/DTS sequences/NNS diminish/VB the/AT stability/NN of/IN the/AT comparatively/QL short/JJ crystallites/NNS which/WDT can/MD be/BE formed/VBN ,/pct and/CC this/DT is/BEZ reflected/VBN in/IN a/AT broadening/VBG of/IN the/AT melting/VBG range/NN ./pct
+(/pct Robert/NP Chiang/NP ,/pct J./NP B./NP Jackson/NP ,/pct P./NP J./NP Flory/NP )/pct Carefully/RB executed/VBN melting/VBG studies/NNS on/IN this/DT system/NN (/pct M./NP J./NP Richardson/NP )/pct permit/VB quantitative/JJ estimation/NN of/IN the/AT instability/NN engendered/VBN by/IN reduced/VBN crystallite/NN length/NN ./pct
+The/AT complex/JJ morphology/NN of/IN polycrystalline/JJ homopolymers/NNS is/BEZ necessarily/RB dependent/JJ on/IN the/AT same/AP factor/NN ./pct
+Hence/RB ,/pct the/AT present/JJ studies/NNS offer/VB a/AT possible/JJ basis/NN for/IN interpretations/NNS in/IN the/AT latter/AP field/NN ./pct
+Contraction/NN of/IN muscle/NN
+--/pct Glycerinated/VBN muscle/NN ,/pct in/IN the/AT presence/NN of/IN the/AT physiological/JJ agent/NN (/pct ATP/NP )/pct responsible/JJ for/IN delivering/VBG energy/NN to/IN the/AT mechanochemically/RB active/JJ proteins/NNS of/IN muscle/NN ,/pct has/HVZ been/BEN shown/VBN to/TO undergo/VB a/AT contraction/NN which/WDT is/BEZ highly/QL sensitive/JJ both/ABX to/IN temperature/NN and/CC to/IN solvent/NN composition/NN in/IN mixtures/NNS of/IN alcohols/NNS and/CC water/NN ./pct
+Experiments/NNS carried/VBN out/RP over/IN long/JJ periods/NNS of/IN time/NN in/IN order/NN to/TO allow/VB establishment/NN of/IN a/AT steady/JJ state/NN have/HV shown/VBN that/CS the/AT onset/NN of/IN contraction/NN and/CC its/PPg completion/NN are/BER confined/VBN to/IN an/AT interval/NN of/IN several/AP degrees/NNS Centigrade/NP and/CC to/IN a/AT concentration/NN range/NN of/IN only/RB several/AP per/IN cent/NN ./pct
+The/AT contraction/NN therefore/RB partakes/VBZ of/IN the/AT character/NN of/IN a/AT phase/NN transition/NN ./pct
+While/CS ATP/NN appears/VBZ to/TO be/BE necessary/JJ for/IN the/AT occurrence/NN of/IN contraction/NN ,/pct its/PPg presence/NN and/CC enzymatic/JJ hydrolysis/NN of/IN it/PPO by/IN the/AT muscle/NN protein/NN myosin/NN are/BER not/NEG the/AT only/AP criteria/NNS for/IN contraction/NN ./pct
+(/pct C./NP A./NP J./NP Hoeve/NP ,/pct P./NP J./NP Flory/NP )/pct anionic/JJ Polymerization/NN
+--/pct One/CD of/IN the/AT principal/JJS aims/NNS of/IN anionic/JJ polymerization/NN techniques/NNS is/BEZ the/AT synthesis/NN of/IN polymers/NNS of/IN extremely/QL narrow/JJ molecular/JJ weight/NN distribution/NN ./pct
+A/AT simple/JJ process/NN for/IN the/AT preparation/NN of/IN nearly/QL monodisperse/JJ polystyrene/NN of/IN predictable/JJ molecular/JJ weight/NN has/HVZ been/BEN developed/VBN ./pct
+The/AT preparation/NN of/IN such/JJ products/NNS is/BEZ not/NEG new/JJ ,/pct but/CC the/AT systems/NNS heretofore/RB employed/VBN in/IN polymerizations/NNS have/HV commanded/VBN considerable/JJ experimental/JJ skill/NN and/CC starting/VBG materials/NNS of/IN a/AT high/JJ purity/NN ./pct
+In/IN the/AT new/JJ process/NN impurities/NNS present/RB in/IN the/AT solvent/NN (/pct benzene/NN )/pct ,/pct the/AT monomer/NN ,/pct and/CC in/IN the/AT reaction/NN system/NN which/WDT would/MD cause/VB deactivation/NN of/IN propagation/NN centers/NNS ,/pct are/BER rendered/VBN inactive/JJ prior/RB to/IN polymerization/NN by/IN gradual/JJ addition/NN of/IN initiator/NN ,/pct a/AT mixture/NN of/IN butyl-lithium/NN and/CC telomeric/JJ styryl-lithium/NN ,/pct at/IN a/AT temperature/NN low/JJ enough/QLP to/TO suppress/VB chain/NN growth/NN ./pct
+Upon/IN completion/NN of/IN the/AT purging/VBG step/NN ,/pct additional/JJ initiator/NN appropriate/JJ for/IN the/AT molecular/JJ weight/NN of/IN the/AT sample/NN desired/VBN is/BEZ added/VBN ,/pct and/CC the/AT system/NN is/BEZ then/RB warmed/VBN to/IN the/AT polymerization/NN temperature/NN ,/pct at/IN which/WDT the/AT reaction/NN is/BEZ allowed/VBN to/TO go/VB to/IN completion/NN ./pct
+The/AT predictability/NN of/IN the/AT molecular/JJ weights/NNS was/BEDZ found/VBN to/TO be/BE within/IN 10%/NN for/IN the/AT polymers/NNS prepared/VBN ,/pct with/IN Af/NN ratios/NNS less/AP than/IN 1.1/CD ./pct
+Contrary/JJ to/IN observations/NNS with/IN ethers/NNS ,/pct no/AT apparent/JJ change/NN of/IN the/AT reactivity/NN of/IN the/AT chain/NN ends/NNS takes/VBZ place/NN over/IN considerable/JJ periods/NNS of/IN time/NN in/IN benzene/NN as/CS solvent/NN ./pct

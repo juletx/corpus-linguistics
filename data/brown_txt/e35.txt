@@ -1,0 +1,109 @@
+New/JJ rule/NN no./NN 2/CD :/pct :/pct
+Don't /None build/VB from/IN the/AT outside/NN in/RP --/pct try/VB to/TO build/VB from/IN the/AT inside/NN out/RP
+Don't /None insert/VB your/PPg components/NNS into/IN fixed/VBN openings/NNS ,/pct they/PPSS may/MD or/CC may/MD not/NEG fit/VB ;/pct ;/pct
+position/VB your/PPg components/NNS before/CS you/PPSS close/VB them/PPO in/RP ./pct
+For/IN example/NN :/pct
+Don't /None wall/VB in/RP your/PPg kitchen/NN before/CS you/PPSS hang/VB the/AT wall/NN cabinets/NNS and/CC set/VB the/AT appliances/NNS ./pct
+It's /None a/AT lot/NN quicker/JJR and/CC easier/JJR to/TO dimension/VB the/AT kitchen/NN to/TO fit/VB the/AT cabinets/NNS and/CC erect/VB the/AT end/NN wall/NN after/CS they/PPSS are/BER all/ABN in/IN place/NN ./pct
+Set/VB your/PPg bathtub/NN before/CS you/PPSS close/VB in/RP the/AT end/NN of/IN the/AT bathroom/NN ./pct
+Don't /None try/VB to/TO wrestle/VB a/AT 400-lb./NN tub/NN Af/NN through/IN a/AT narrow/JJ doorway/NN ./pct
+Finish/VB your/PPg plumbing/NN before/CS you/PPSS frame/VB it/PPO in/RP (/pct most/QL economical/JJ framing/NN is/BEZ a/AT thin/JJ non-bearing/JJ partition/NN on/IN either/DTX side/NN of/IN the/AT pipes/NNS )/pct ./pct
+Finish/VB installing/VBG and/CC connecting/VBG up/RP your/PPg furnace/NN and/CC your/PPg water/NN heater/NN before/CS you/PPSS wall/VB them/PPO in/RP ./pct
+There/EX is/BEZ no/AT better/JJR way/NN to/TO waste/VB time/NN than/CS trying/VBG to/TO install/VB a/AT furnace/NN in/IN a/AT finished/VBN Af/NN closet/NN ./pct
+Don't /None position/VB your/PPg studs/NNS before/CS you/PPSS insert/VB your/PPg windows/NNS in/IN conventional/JJ construction/NN ;/pct ;/pct
+that/DT way/NN you/PPSS may/MD pay/VB more/AP to/TO shim/VB the/AT window/NN into/IN place/NN than/CS you/PPSS paid/VBD for/IN the/AT window/NN ./pct
+You/PPSS can/MD save/VB all/ABN that/DT shimming/VBG time/NN if/CS you/PPSS set/VB your/PPg windows/NNS in/IN one/CD ,/pct two/CD ,/pct three/CD order/NN --/pct first/RB the/AT stud/NN on/IN one/CD side/NN ,/pct then/RB the/AT window/NN ,/pct then/RB the/AT stud/NN on/IN the/AT other/AP side/NN ./pct
+Install/VB your/PPg disappearing/VBG stair/NN (/pct or/CC stairs/NNS )/pct to/IN the/AT attic/NN and/CC finish/VB your/PPg overhead/JJ ducts/NNS before/CS you/PPSS drywall/VB the/AT ceiling/NN ./pct
+Don't /None close/VB in/RP your/PPg house/NN until/CS everything/PN has/HVZ been/BEN carried/VBN in/RP ./pct
+Last/AP wall/NN Bob/NP Schmitt/NP erects/VBZ is/BEZ the/AT wall/NN between/IN the/AT house/NN and/CC garage/NN ./pct
+That/DT way/NN he/PPS can/MD truck/VB his/PPg parts/NNS right/QL indoors/RB and/CC unload/VB them/PPO under/IN the/AT roof/NN ./pct
+No/AT auto/NN maker/NN would/MD dream/VB of/IN putting/VBG the/AT head/NN on/IN the/AT engine/NN before/CS he/PPS fitted/VBD the/AT pistons/NNS in/IN the/AT block/NN ./pct
+And/CC trailer/NN makers/NNS ,/pct those/DTS most/QL industrialized/VBN and/CC therefore/RB most/QL efficient/JJ of/IN homebuilders/NNS ,/pct say/VB they/PPSS save/VB hundreds/NNS of/IN dollars/NNS by/IN always/RB building/VBG from/IN the/AT inside/NN out/RP ./pct
+New/JJ rule/NN no./NN 3/CD :/pct rethink/VB everything/PN to/TO get/VB all/ABN the/AT big/JJ savings/NNS the/AT revolution/NN in/IN materials/NNS handling/NN offers/VBZ you/PPO
+This/DT revolution/NN is/BEZ the/AT biggest/JJT build-better-for-less/JJ news/NN of/IN all/ABN ,/pct because/CS :/pct 1/CD ./pct
+It/PPS makes/VBZ it/PPO easy/JJ to/TO handle/VB much/QL heavier/JJR units/NNS ,/pct so/RB you/PPSS can/MD plan/VB to/TO build/VB with/IN much/QL bigger/JJR and/CC heavier/JJR prefabricated/VBN components/NNS like/CS those/DTS shown/VBN in/IN the/AT pictures/NNS alongside/RB ./pct
+2/CD ./pct
+It/PPS makes/VBZ materials/NNS handling/NN the/AT only/AP construction/NN cost/NN that/WPS (/pct like/CS earthmoving/NN and/CC roadbuilding/NN )/pct should/MD be/BE lower/JJR today/NR than/CS in/IN 1929/CD ./pct
+3/CD ./pct
+It/PPS changes/VBZ the/AT answers/NNS to/IN ``/pct Who/WPS should/MD do/DO what/WDT ,/pct and/CC where/WRB ''/pct ?/pct ?/pct
+It/PPS lessens/VBZ the/AT need/NN for/IN costly/JJ on-site/JJ fabrication/NN and/CC increases/VBZ the/AT chance/NN for/IN shop/NN fabrication/NN ,/pct where/WRB almost/RB everything/PN can/MD be/BE made/VBN better/JJR and/CC cheaper/JJR ./pct
+4/CD ./pct
+It/PPS changes/VBZ the/AT answers/NNS on/IN when/WRB to/TO do/DO what/WDT at/IN the/AT site/NN ./pct
+For/IN example/NN ,/pct instead/RB of/IN putting/VBG in/RP your/PPg driveways/NNS last/RB (/pct as/CS many/AP builders/NNS do/DO )/pct you/PPSS can/MD now/RB save/VB money/NN by/IN putting/VBG them/PPO in/RP first/RB ./pct
+Instead/RB of/IN closing/VBG the/AT house/NN in/RP first/RB (/pct as/CS most/AP builders/NNS do/DO )/pct you/PPSS can/MD now/RB cut/VB your/PPg costs/NNS by/IN not/NEG closing/VBG it/PPO in/RP until/CS you/PPSS have/HV to/TO (/pct see/VB p/NN 121/CD )/pct ./pct
+5/CD ./pct
+It/PPS changes/VBZ the/AT answers/NNS on/IN builder-dealer/JJ relations/NNS ./pct
+Not/NEG so/QL long/RB ago/RB many/AP builders/NNS were/BED finding/VBG they/PPSS could/MD cut/VB their/PPg costs/NNS by/IN ``/pct buying/VBG direct/RB ''/pct and/CC short-cutting/VBG the/AT dealer/NN ./pct
+But/CC now/RB many/AP of/IN these/DTS same/AP builders/NNS are/BER finding/VBG they/PPSS can/MD cut/VB their/PPg costs/NNS more/RBR by/IN teaming/VBG up/RP with/IN a/AT dealer/NN who/WPS has/HVZ volume/NN enough/AP to/TO afford/VB the/AT most/QL efficient/JJ specialized/VBN equipment/NN to/TO deliver/VB everything/PN just/RB where/WRB it/PPS is/BEZ needed/VBN --/pct drywall/NN inside/IN the/AT house/NN ,/pct siding/NN along/IN the/AT sides/NNS ,/pct trusses/NNS on/IN the/AT walls/NNS ,/pct roofing/NN on/IN the/AT roof/NN ,/pct etc./RB ./pct
+Says/NNS Clarence/NP Thompson/NP :/pct ``/pct We/PPSS dealers/NNS must/MD earn/VB our/PPg mark-up/NN by/IN performing/VBG a/AT service/NN for/IN the/AT builder/NN cheaper/RBR than/CS he/PPS could/MD do/DO it/PPO himself/PPL ''/pct ./pct
+The/AT revolution/NN now/RB under/IN way/NN in/IN materials/NNS handling/NN makes/VBZ this/DT much/QL easier/JJR ./pct
+The/AT revolution/NN is/BEZ well/QL under/IN way/NN ,/pct but/CC much/QL more/AP remains/VBZ to/TO be/BE done/VBN
+./pct
+Five/CD years/NNS ago/RB a/AT House/NN &/CC Home/NN Round/JJ Table/NN cosponsored/VBN by/IN the/AT Lumber/NN Dealers'/NNSg Research/NN Council/NN reported/VBD unhappily/RB :/pct
+``/pct Only/RB one/CD lumber/NN dealer/NN in/IN ten/CD is/BEZ equipped/VBN to/TO handle/VB unit/NN loads/NNS ;/pct ;/pct
+only/RB one/CD box/NN car/NN in/IN eight/CD has/HVZ the/AT wide/JJ doors/NNS needed/VBN for/IN unit/NN loads/NNS ;/pct ;/pct
+only/RB one/CD producer/NN in/IN a/AT hundred/CD is/BEZ equipped/VBN to/TO package/VB and/CC ship/VB unit/NN loads/NNS ;/pct ;/pct
+only/RB one/CD builder/NN in/IN a/AT thousand/CD is/BEZ equipped/VBN to/TO receive/VB unit/NN loads/NNS ./pct
+``/pct So/RB from/IN raw/JJ materials/NNS to/IN finished/VBN erection/NN the/AT costs/NNS of/IN materials/NNS handling/NN (/pct most/AP of/IN it/PPO inefficient/JJ )/pct add/VB up/RP to/IN one-fourth/NN of/IN the/AT total/NN construction/NN cost/NN of/IN housing/VBG ''/pct ./pct
+``/pct That/DT House/NN &/CC Home/NN Round/JJ Table/NN was/BEDZ the/AT real/JJ starting/VBG point/NN for/IN today's/NRg revolution/NN in/IN materials/NNS handling/NN ''/pct ,/pct says/VBZ Clarence/NP Thompson/NP ,/pct long/RB chairman/NN of/IN the/AT Lumber/NN Dealers'/NNSg Research/NN Council/NN ./pct
+``/pct It/PPS made/VBD our/PPg whole/JJ industry/NN recognize/VB the/AT need/NN for/IN a/AT new/JJ kind/NN of/IN teamwork/NN between/IN manufacturer/NN ,/pct carrier/NN ,/pct equipment/NN maker/NN ,/pct dealer/NN ,/pct and/CC builder/NN ,/pct all/ABN working/VBG together/RB to/TO cut/VB the/AT cost/NN of/IN materials/NNS handling/NN ./pct
+Before/IN that/DT we/PPSS lumber/NN dealers/NNS were/BED working/VBG almost/QL single-handed/JJ on/IN the/AT problem/NN ''/pct ./pct
+Here/RB is/BEZ where/WRB things/NNS stand/VB today/NR :/pct
+1/CD ./pct
+Almost/RB all/ABN of/IN the/AT 3,000/CD lumber/NN dealers/NNS who/WPS cater/VB primarily/RB to/IN the/AT new-house/NN market/NN and/CC supply/VB 90%/NN of/IN this/DT year's/NNg new/JJ houses/NNS are/BER mechanized/VBN ./pct
+There/EX are/BER few/AP areas/NNS left/VBN where/WRB a/AT builder/NN cannot /None find/VB a/AT dealer/NN equipped/VBN to/TO save/VB him/PPO money/NN by/IN delivering/VBG everything/PN at/IN lower/JJR cost/NN just/RB where/WRB his/PPg workmen/NNS will/MD need/VB it/PPO ./pct
+2/CD ./pct
+Practically/RB all/ABN bulky/JJ housing/VBG products/NNS can/MD now/RB be/BE ordered/VBN in/IN standard/JJ units/NNS palletized/VBN or/CC unitized/VBN for/IN mechanical/JJ handling/NN --/pct including/IN lumber/NN ,/pct asphalt/NN shingles/NNS ,/pct glass/NN block/NN ,/pct face/NN brick/NN ,/pct plaster/NN ,/pct lime/NN ,/pct hardboard/NN ,/pct gypsum/NN wallboard/NN and/CC sheathing/NN ,/pct cement/NN ,/pct insulation/NN sheathing/NN ,/pct floor/NN tile/NN ,/pct acoustical/JJ tile/NN ,/pct plaster/NN base/NN ,/pct and/CC asbestos/NN shingles/NNS ./pct
+3/CD ./pct
+Truck/NN and/CC materials-handling/JJ equipment/NN makers/NNS now/RB offer/VB specialized/VBN units/NNS to/TO meet/VB almost/RB every/AT homebuilding/JJ need/NN ./pct
+For/IN some/DTI significant/JJ new/JJ items/NNS see/VB the/AT pictures/NNS ./pct
+4/CD ./pct
+More/AP than/IN 50%/NN of/IN all/ABN lumber/NN is/BEZ unitized/VBN ;/pct ;/pct
+an/AT NLRDA/NN survey/NN found/VBD that/CS at/IN least/AP 492/CD lumber/NN mills/NNS will/MD strap/VB their/PPg shipments/NNS for/IN mechanized/VBN handling/NN ./pct
+Of/IN these/DTS ,/pct 376/CD said/VBD they/PPSS make/VB no/AT extra/JJ charge/NN for/IN strapping/VBG in/IN standard/JJ units/NNS ,/pct because/CS they/PPSS save/VB enough/AP on/IN mechanized/VBN carloading/NN to/TO offset/VB their/PPg strapping/VBG cost/NN ./pct
+Most/AP of/IN the/AT others/NNS will/MD swallow/VB their/PPg $.50/NN to/IN $3/NN charge/VB rather/IN than/IN lose/VB a/AT good/JJ customer/NN ./pct
+``/pct With/IN a/AT 15,500-lb./NN fork-lift/NN ,/pct dealers/NNS can/MD unload/VB unitized/VBN lumber/NN from/IN wide-door/NN box/NN cars/NNS for/IN $.30/mbf/NNS compared/VBN with/IN $1.65/NNS or/CC more/AP to/TO unload/VB loose/JJ lumber/NN one/CD piece/NN at/IN a/AT time/NN ''/pct ,/pct says/VBZ James/NP Wright/NP of/IN Aj/NN ./pct
+5/CD ./pct
+Lumber/NN dealers/NNS and/CC lumber/NN manufacturers/NNS have/HV agreed/VBN on/IN a/AT standard/JJ unit/NN for/IN unitized/VBN shipments/NNS --/pct 48''/NNS ''/pct wide/JJ by/IN a/AT nominal/JJ 30''/NNS ''/pct high/JJ (/pct or/CC six/CD McCracken/NP packets/NNS 24''/NNS ''/pct wide/JJ by/IN nominal/JJ 7''/NNS ''/pct high/JJ )/pct ./pct
+These/DTS units/NNS make/VB it/PPO easy/JJ to/TO load/VB as/QL much/RB as/CS 48,000/CD bd/ft/NN (/pct say/VB 120,000/CD lb/NN in/IN a/AT 50'/NN box/NN car/NN )/pct much/QL more/AP than/IN the/AT average/NN for/IN loose-loaded/JJ cars/NNS ./pct
+6/CD ./pct
+The/AT railroads/NNS have/HV responded/VBN by/IN adding/VBG 20,000/CD more/AP box/NN cars/NNS with/IN doors/NNS 12'/NNS or/CC wider/JJR for/IN forklift/NN unloading/VBG (/pct a/AT 21%/NN increase/NN while/CS the/AT total/NN number/NN of/IN box/NN cars/NNS was/BEDZ falling/VBG 6%/NN )/pct and/CC by/IN cutting/VBG their/PPg freight/NN rates/NNS twice/RB on/IN lumber/NN shipped/VBN in/IN heavily/RB loaded/VBN cars/NNS ./pct
+First/RB was/BEDZ a/AT 1958/CD cut/NN of/IN more/AP than/IN 50%/NN on/IN that/DT portion/NN of/IN the/AT load/NN in/IN excess/NN of/IN 40,000/CD lb/NN ;/pct ;/pct
+later/RBR came/VBD a/AT 1961/CD cut/NN on/IN the/AT West/JJ Coast/NN (/pct still/RB pending/IN elsewhere/RB )/pct of/IN $.07/cwt/NNS on/IN 70,000/CD lb-plus/NN carloads/NNS (/pct which/WDT works/VBZ out/RP to/IN more/AP than/IN $4/mbf/NNS on/IN that/DT portion/NN of/IN the/AT load/NN in/IN excess/NN of/IN 70,000/CD lb/NN ./pct
+7/CD ./pct
+More/AP unitized/VBN lumber/NN is/BEZ being/BEG shipped/VBN on/IN flat/JJ cars/NNS ,/pct and/CC NLRDA/NN studies/NNS show/VB that/CS flat/JJ cars/NNS loaded/VBN with/IN the/AT new/JJ Type/NN 6-B/NP floating-load/NN method/NN can/MD be/BE unloaded/VBN for/IN as/QL little/AP as/CS $.054/mbf/NNS ./pct
+For/IN long/JJ hauls/NNS these/DTS shipments/NNS should/MD be/BE protected/VBN with/IN water-proof/JJ paper/NN ./pct
+This/DT costs/VBZ from/IN $.75/NNS to/IN $2.30/mbf/NNS ,/pct but/CC the/AT cover/NN can/MD pay/VB off/RP if/CS the/AT lumber/NN is/BEZ to/TO be/BE stored/VBN in/IN the/AT open/NN ./pct
+These/DTS carriers/NNS cut/VB handling/VBG costs/NNS for/IN the/AT dealer/NN --/pct and/CC the/AT builder/NN
+./pct
+Says/VBZ NRLDA's/NN James/NP Wright/NP :/pct ``/pct Since/IN 1958/CD carriers/NNS that/WPS move/VB material/NN from/IN the/AT yard/NN to/IN the/AT job/NN site/NN have/HV undergone/VBN more/QL radical/JJ changes/NNS than/CS any/DTI of/IN the/AT dealer's/NNg other/AP equipment/NN ''/pct ./pct
+The/AT reason/NN :/pct today's/NRg components/NNS and/CC lumber/NN packages/NNS are/BER far/QL too/QL bulky/JJ to/TO be/BE handled/VBN by/IN a/AT truckdriver/NN and/CC a/AT helper/NN ./pct
+So/RB manufacturers/NNS have/HV pioneered/VBN a/AT new/JJ type/NN of/IN vehicle/NN --/pct the/AT self-unloading/JJ carrier/NN ./pct
+It/PPS cuts/VBZ the/AT lumber/NN dealer's/NNg cost/NN because/CS it/PPS takes/VBZ only/RB one/CD man/NN --/pct the/AT driver/NN --/pct to/TO unload/VB it/PPO ,/pct and/CC because/CS it/PPS unloads/VBZ in/IN a/AT fraction/NN of/IN the/AT time/NN and/CC at/IN a/AT fraction/NN of/IN the/AT cost/NN of/IN hand/NN unloading/VBG ./pct
+And/CC it/PPS helps/VBZ the/AT builder/NN because/CS it/PPS can/MD handle/VB a/AT more/QL efficiently/RB packaged/VBN load/NN ,/pct can/MD deliver/VB it/PPO to/IN the/AT best/JJT spot/NN (/pct in/IN some/DTI cases/NNS ,/pct right/QL on/IN the/AT roof/NN or/CC inside/IN the/AT house/NN )/pct ,/pct and/CC never/RB takes/VBZ any/DTI of/IN the/AT builder's/NNg high-priced/JJ labor/NN to/TO help/VB unload/VB it/PPO ./pct
+Says/VBZ Wright/NP :/pct ``/pct Our/PPg survey/NN shows/VBZ that/CS one/CD third/NN of/IN the/AT retail/JJ dealers/NNS plan/VB to/TO increase/VB the/AT mechanization/NN of/IN their/PPg materials/NNS handling/NN in/IN the/AT coming/VBG two/CD years/NNS ./pct
+And/CC most/AP of/IN the/AT gain/NN will/MD be/BE in/IN self-unloading/JJ vehicles/NNS ''/pct ./pct
+New/JJ rule/NN no./NN 4/CD :/pct :/pct
+Restudy/VB what/WDT your/PPg men/NNS do/DO ,/pct to/TO help/VB them/PPO waste/VB less/AP of/IN the/AT time/NN you/PPSS pay/VB for/IN
+./pct
+Half/ABN the/AT manhours/NNS you/PPSS pay/VB for/IN on/IN most/AP jobs/NNS are/BER wasted/VBN because/CS the/AT job/NN was/BEDZ not/NEG planned/VBN right/RB ,/pct so/RB the/AT right/JJ tools/NNS were/BED not/NEG handy/JJ at/IN the/AT right/JJ place/NN at/IN the/AT right/JJ time/NN ,/pct or/CC the/AT right/JJ materials/NNS were/BED not/NEG delivered/VBN to/IN the/AT handiest/JJT spots/NNS or/CC materials/NNS were/BED not/NEG stacked/VBN in/IN the/AT right/JJ order/NN for/IN erection/NN ,/pct or/CC you/PPSS bought/VBD cheap/JJ materials/NNS that/WPS took/VBD too/QL long/RB to/TO fit/VB ,/pct or/CC your/PPg workmen/NNS had/HVD to/TO come/VB back/RB twice/RB to/TO finish/VB a/AT job/NN they/PPSS could/MD have/HV done/VBN on/IN one/CD trip/NN ./pct
+Even/RB ``/pct America's/NPg most/QL efficient/JJ builder/NN ''/pct ,/pct Bob/NP Schmitt/NP of/IN Berea/NP ,/pct hopes/VBZ to/TO cut/VB his/PPg labor/NN costs/NNS another/DT $2,000/NNS per/IN house/NN as/CS a/AT result/NN of/IN the/AT time-&-motion/NN studies/NNS now/RB being/BEG completed/VBN on/IN his/PPg operation/NN by/IN industrial/JJ efficiency/NN engineers/NNS from/IN the/AT Stanley/NP Works/NNS ./pct
+Already/RB this/DT study/NN has/HVZ suggested/VBN ways/NNS to/TO cut/VB his/PPg foundation/NN manhours/NNS from/IN 170/CD to/IN 105/CD by/IN eliminating/VBG idle/JJ time/NN and/CC wasted/VBN motion/NN ./pct
+Builder/NN Eddie/NP Carr/NP of/IN Washington/NP ,/pct past/AP president/NN of/IN NAHB/NN ,/pct cut/VBD his/PPg bricklaying/NN costs/NNS $150/NNS a/AT house/NN by/IN adopting/VBG the/AT ``/pct SCR/NN masonry/NN process/NN ''/pct worked/VBN out/RP after/RB careful/JJ time-&-motion/NN studies/NNS by/IN the/AT Structural/JJ Clay/NN Products/NNS Research/NN Foundation/NN to/TO help/VB bricklayers/NNS do/DO better/JJR work/NN for/IN less/AP ./pct
+A/AT midwestern/JJ builder/NN cut/VBD his/PPg labor/NN costs/NNS per/IN thousand/CD bricks/NNS from/IN $81/NNS to/IN $43.50/NNS by/IN adopting/VBG this/DT same/AP process/NN ,/pct cut/VBD them/PPO another/DT $7.50/NNS to/IN $36/NNS by/IN buying/VBG his/PPg bricks/NNS in/IN convenient/JJ ,/pct easy-to-spot/JJ 100-brick/JJ packages/NNS ./pct
+The/AT SCR/NN process/NN ,/pct with/IN its/PPg precision/NN corner-posts/NNS ,/pct its/PPg precision/NN guide/NN lines/NNS ,/pct its/PPg working/VBG level/NN scaffold/NN ,/pct and/CC its/PPg hand-level/NN brick/NN supply/NN takes/VBZ eight/CD manhours/NNS to/TO get/VB set/VBN ,/pct but/CC once/CS ready/JJ it/PPS makes/VBZ it/PPO easy/JJ for/CS bricklayers/NNS to/TO lay/VB a/AT thousand/CD bricks/NNS a/AT day/NN ./pct
+See/VB page/NN 156/CD ./pct
+One/CD good/JJ way/NN to/TO cut/VB your/PPg labor/NN waste/NN is/BEZ to/TO make/VB sure/JJ you/PPSS are/BER using/VBG just/RB the/AT right/JJ number/NN of/IN men/NNS in/IN each/DT crew/NN ./pct
+Reports/NNS Jim/NP Lendrum/NP :/pct ``/pct By/IN studying/VBG men/NNS on/IN the/AT job/NN ,/pct we/PPSS found/VBD that/CS two/CD men/NNS --/pct a/AT carpenter/NN and/CC a/AT helper/NN --/pct can/MD lay/VB a/AT floor/NN faster/RBR than/CS three/CD ./pct
+We/PPSS found/VBD that/CS three/CD men/NNS --/pct two/CD carpenters/NNS and/CC a/AT helper/NN --/pct can/MD put/VB up/RP wall/NN panels/NNS or/CC trusses/NNS more/QL economically/RB than/CS four/CD men/NNS --/pct because/CS four/CD men/NNS don't /None make/VB two/CD teams/NNS ;/pct ;/pct
+they/PPSS make/VB one/CD inefficient/JJ three-men-and-a-helper/JJ team/NN ./pct
+We/PPSS found/VBD that/CS wherever/WRB you/PPSS can/MD use/VB two/CD teams/NNS on/IN a/AT job/NN ,/pct five/CD men/NNS ,/pct not/NEG four/CD ,/pct is/BEZ the/AT magic/JJ number/NN ''/pct ./pct
+No/AT house/NN was/BEDZ ever/RB built/VBN that/WPS could/MD not/NEG have/HV been/BEN built/VBN better/RBR for/IN less/AP if/CS the/AT work/NN had/HVD been/BEN better/RBR planned/VBN and/CC the/AT work/NN better/RBR scheduled/VBN ./pct
+New/JJ rule/NN no./NN 5/CD :/pct :/pct
+Don't /None waste/VB any/DTI $.10-a-minute/NN time/NN on/IN green/JJ lumber/NN to/TO save/VB $.03/NNS a/AT stud/NN
+This/DT is/BEZ the/AT most/QL penny-wise/JJ ,/pct pound-foolish/JJ chisel/NN a/AT builder/NN can/MD commit/VB ./pct
+Green/JJ lumber/NN was/BEDZ all/ABN very/QL well/JJ back/RB in/IN the/AT days/NNS of/IN wet/JJ plaster/NN ,/pct when/WRB the/AT framing/VBG lumber/NN was/BEDZ bound/VBN to/TO swell/VB and/CC then/RB shrink/VB as/CS tons/NNS of/IN water/NN dried/VBD out/RP the/AT gypsum/NN ./pct
+But/CC now/RB that/CS all/ABN production/NN builders/NNS build/VB with/IN drywall/NN and/CC all/ABN smart/JJ builders/NNS build/VB with/IN panels/NNS ,/pct green/JJ lumber/NN is/BEZ an/AT anachronism/NN you/PPSS cannot /None afford/VB ./pct
+Green/JJ studs/NNS cost/VB about/RB $.65/NNS ;/pct ;/pct
+dry/JJ studs/NNS cost/VB less/AP than/IN $.03/NNS more/AP ./pct
+So/RB if/CS a/AT green/JJ stud/NN makes/VBZ a/AT carpenter/NN or/CC a/AT drywall/NN finisher/NN or/CC anybody/PN else/RB waste/VB even/RB 20/CD seconds/NNS ,/pct the/AT green/JJ stud/NN becomes/VBZ more/QL expensive/JJ than/CS a/AT dry/JJ stud/NN ./pct

@@ -1,0 +1,122 @@
+On/IN April/NP 17/CD ,/pct 1610/CD ,/pct the/AT sturdy/JJ little/JJ three-masted/JJ bark/NN ,/pct Discovery/NN ,/pct weighed/VBD anchor/NN in/IN St./NP Katherine's/NPg Pool/NN ,/pct London/NP ,/pct and/CC floated/VBD down/IN the/AT Thames/NP toward/IN the/AT sea/NN ./pct
+She/PPS carried/VBD ,/pct besides/IN her/PPg captain/NN ,/pct a/AT crew/NN of/IN twenty-one/CD and/CC provisions/NNS for/IN a/AT voyage/NN of/IN exploration/NN of/IN the/AT Arctic/NP waters/NNS of/IN North/JJ America/NP ./pct
+Seventeen/CD months/NNS later/RBR ,/pct on/IN September/NP 6/CD ,/pct 1611/CD ,/pct an/AT Irish/JJ fishing/VBG boat/NN sighted/VBD the/AT Discovery/NN limping/VBG eastward/RB outside/IN Galway/NP Bay/NN ./pct
+When/WRB she/PPS reached/VBD port/NN ,/pct she/PPS was/BEDZ found/VBN to/TO have/HV on/IN board/NN only/RB eight/CD men/NNS ,/pct all/ABN near/IN starvation/NN ./pct
+The/AT captain/NN was/BEDZ gone/VBN ,/pct and/CC the/AT mate/NN was/BEDZ gone/VBN ./pct
+The/AT man/NN who/WPS now/RB commanded/VBD her/PPO had/HVD started/VBN the/AT voyage/NN as/CS an/AT ordinary/JJ seaman/NN ./pct
+What/WDT disaster/NN struck/VBD the/AT Discovery/NN during/IN those/DTS seventeen/CD months/NNS ?/pct ?/pct
+What/WDT happened/VBD to/IN the/AT fourteen/CD missing/VBG men/NNS ?/pct ?/pct
+These/DTS questions/NNS have/HV remained/VBN one/CD of/IN the/AT great/JJ sea/NN mysteries/NNS of/IN all/ABN time/NN ./pct
+For/IN hundreds/NNS of/IN years/NNS ,/pct the/AT evidence/NN available/JJ consisted/VBN of/IN (/pct 1/CD )/pct the/AT captain's/NNg fragmentary/JJ journal/NN ,/pct (/pct 2/CD )/pct a/AT highly/QL prejudiced/VBN account/NN by/IN one/CD of/IN the/AT survivors/NNS ,/pct (/pct 3/CD )/pct a/AT note/NN found/VBN in/IN a/AT dead/JJ man's/NNg desk/NN on/IN board/NN ,/pct and/CC (/pct 4/CD )/pct several/AP second-hand/NN reports/NNS ./pct
+All/ABN told/VBN ,/pct they/PPSS offered/VBD a/AT highly/QL confused/VBN picture/NN ./pct
+But/CC since/IN 1927/CD ,/pct researchers/NNS digging/VBG into/IN ancient/JJ court/NN records/NNS and/CC legal/JJ files/NNS have/HV been/BEN able/JJ to/TO find/VB illuminating/JJ pieces/NNS of/IN information/NN ./pct
+Not/NEG enough/AP to/TO do/DO away/RB with/IN all/ABN doubts/NNS ,/pct but/CC sufficient/JJ to/TO give/VB a/AT fairly/QL accurate/JJ picture/NN of/IN the/AT events/NNS of/IN the/AT voyage/NN ./pct
+Historians/NNS have/HV had/HVN two/CD reasons/NNS for/IN persisting/VBG so/QL long/RB in/IN their/PPg investigations/NNS ./pct
+First/OD ,/pct they/PPSS wanted/VBD to/TO clarify/VB a/AT tantalizing/VBG ,/pct bizarre/JJ enigma/NN ./pct
+Second/OD ,/pct they/PPSS believed/VBD it/PPO important/JJ to/TO determine/VB the/AT fate/NN of/IN the/AT captain/NN --/pct a/AT man/NN whose/WPg name/NN is/BEZ permanently/RB stamped/VBN on/IN our/PPg maps/NNS ,/pct on/IN American/JJ towns/NNS and/CC counties/NNS ,/pct on/IN a/AT great/JJ American/JJ river/NN ,/pct and/CC on/IN half/ABN a/AT million/CD square/JJ miles/NNS of/IN Arctic/NP seas/NNS ./pct
+The/AT name/NN :/pct Henry/NP Hudson/NP ./pct
+This/DT is/BEZ the/AT story/NN of/IN his/PPg last/AP tragic/JJ voyage/NN ,/pct as/QL nearly/RB as/CS we/PPSS are/BER able/JJ --/pct or/CC ever/RB ,/pct probably/RB ,/pct will/MD be/BE able/JJ --/pct to/TO determine/VB :/pct
+The/AT sailing/NN in/IN the/AT spring/NN of/IN 1610/CD was/BEDZ Hudson's/NPg fourth/OD in/IN four/CD years/NNS ./pct
+Each/DT time/NN his/PPg objective/NN had/HVD been/BEN the/AT same/AP --/pct a/AT direct/JJ water/NN passage/NN from/IN Western/JJ Europe/NP to/IN the/AT Far/JJ East/NR ./pct
+In/IN 1607/CD and/CC 1608/CD ,/pct the/AT English/JJ Muscovy/NP Company/NN had/HVD sent/VBN him/PPO northward/RB to/TO look/VB for/IN a/AT route/NN over/IN the/AT North/JJ Pole/NN or/CC across/IN the/AT top/NN of/IN Russia/NP ./pct
+Twice/RB he/PPS had/HVD failed/VBN ,/pct and/CC the/AT Muscovy/NP Company/NN indicated/VBD it/PPS would/MD not/NEG back/VB him/PPO again/RB ./pct
+In/IN 1609/CD ,/pct the/AT Dutch/JJ East/JJ India/NP Company/NN hired/VBD Hudson/NP ,/pct gave/VBD him/PPO two/CD learned/VBN geographers/NNS ,/pct fitted/VBN him/PPO out/RP with/IN a/AT ship/NN called/VBN the/AT Half/NN Moon/NN ,/pct and/CC supplied/VBD him/PPO with/IN Dutch/JJ sailors/NNS ./pct
+This/DT time/NN he/PPS turned/VBD westward/RB ,/pct to/IN the/AT middle/JJ Atlantic/JJ coast/NN of/IN North/JJ America/NP ./pct
+His/PPg chief/JJS discovery/NN was/BEDZ important/JJ --/pct the/AT Great/JJ North/JJ (/pct later/RBR ,/pct the/AT Hudson/NP )/pct River/NN --/pct but/CC it/PPS produced/VBD no/AT northwest/JJ passage/NN ./pct
+When/WRB the/AT Half/NN Moon/NN put/VBD in/RP at/IN Dartmouth/NP ,/pct England/NP ,/pct in/IN the/AT fall/NN of/IN 1609/CD ,/pct word/NN of/IN Hudson's/NPg findings/NNS leaked/VBD out/RP ,/pct and/CC English/JJ interest/NN in/IN him/PPO revived/VBN ./pct
+The/AT government/NN forbade/VBD Hudson/NP to/TO return/VB to/IN Amsterdam/NP with/IN his/PPg ship/NN ./pct
+He/PPS thereupon/RB went/VBD to/IN London/NP and/CC spent/VBD the/AT winter/NN talking/VBG to/IN men/NNS of/IN wealth/NN ./pct
+By/IN springtime/NN ,/pct he/PPS was/BEDZ supported/VBN by/IN a/AT rich/JJ merchant/NN syndicate/NN under/IN the/AT patronage/NN of/IN Henry/NP ,/pct Prince/NN of/IN Wales/NP ./pct
+He/PPS had/HVD obtained/VBN and/CC provisioned/VBN a/AT veteran/JJ ship/NN called/VBN the/AT Discovery/NN and/CC had/HVD recruited/VBN a/AT crew/NN of/IN twenty-one/CD ,/pct the/AT largest/JJT he/PPS had/HVD ever/RB commanded/VBN ./pct
+The/AT purpose/NN of/IN this/DT fourth/OD voyage/NN was/BEDZ clear/JJ ./pct
+A/AT century/NN of/IN exploration/NN had/HVD established/VBN that/CS a/AT great/JJ land/NN mass/NN ,/pct North/JJ and/CC South/JJ America/NP ,/pct lay/VBD between/IN Europe/NP and/CC the/AT Indies/NPS ./pct
+One/CD by/IN one/CD ,/pct the/AT openings/NNS in/IN the/AT coast/NN that/WPS promised/VBD a/AT passage/NN through/RP had/HVD been/BEN explored/VBN and/CC discarded/VBN ./pct
+In/IN fact/NN ,/pct Hudson's/NPg sail/NN up/IN the/AT Great/JJ North/JJ River/NN had/HVD disposed/VBN of/IN one/CD of/IN the/AT last/AP hopes/NNS ./pct
+But/CC there/EX remained/VBD one/CD mysterious/JJ ,/pct unexplored/JJ gap/NN ,/pct far/QL to/IN the/AT north/NR ./pct
+Nearly/RB twenty-five/CD years/NNS before/RB ,/pct Captain/NN John/NP Davis/NP had/HVD noted/VBN ,/pct as/CS he/PPS sailed/VBD near/IN the/AT Arctic/JJ Circle/NN ,/pct ``/pct a/AT very/QL great/JJ gulf/NN ,/pct the/AT water/NN whirling/VBG and/CC roaring/VBG ,/pct as/CS it/PPS were/BED the/AT meeting/NN of/IN tides/NNS ''/pct ./pct
+He/PPS named/VBD this/DT opening/VBG ,/pct between/IN Baffin/NP Island/NN and/CC Labrador/NP ,/pct the/AT ``/pct Furious/JJ Overfall/NN ''/pct ./pct
+(/pct Later/RBR ,/pct it/PPS was/BEDZ to/TO be/BE called/VBN Hudson/NP Strait/NN ./pct
+In/IN 1602/CD ,/pct George/NP Waymouth/NP ,/pct in/IN the/AT same/AP little/AP Discovery/NN that/WPS Hudson/NP now/RB commanded/VBD ,/pct had/HVD sailed/VBN 300/CD miles/NNS up/IN the/AT strait/NN before/CS his/PPg frightened/VBN men/NNS turned/VBD the/AT ship/NN back/RB ./pct
+Hudson/NP now/RB proposed/VBD to/TO sail/VB all/ABN the/AT way/NN through/RP and/CC test/VB the/AT seas/NNS beyond/RB for/IN the/AT long-sought/JJ waterway/NN ./pct
+Even/RB Hudson/NP ,/pct experienced/VBN in/IN Arctic/JJ sailing/NN and/CC determined/VBN as/CS he/PPS was/BEDZ ,/pct must/MD have/HV had/HVN qualms/NNS as/CS he/PPS slid/VBD down/IN the/AT Thames/NP ./pct
+Ahead/RB were/BED perilous/JJ ,/pct ice-filled/JJ waters/NNS ./pct
+On/IN previous/JJ voyages/NNS ,/pct it/PPS had/HVD been/BEN in/IN precisely/QL such/JJ dangerous/JJ situations/NNS that/CS he/PPS had/HVD failed/VBN as/CS a/AT leader/NN and/CC captain/NN ./pct
+On/IN the/AT second/OD voyage/NN ,/pct he/PPS had/HVD turned/VBN back/RB at/IN the/AT frozen/VBN island/NN of/IN Novaya/NP Zemlya/NP and/CC meekly/RB given/VBN the/AT crew/NN a/AT certificate/NN stating/VBG that/CS he/PPS did/DOD so/RB of/IN his/PPg own/JJ free/JJ will/NN --/pct which/WDT was/BEDZ obviously/RB not/NEG the/AT case/NN ./pct
+On/IN the/AT third/OD voyage/NN ,/pct a/AT near-mutiny/NN rising/VBG from/IN a/AT quarrel/NN between/IN Dutch/JJ and/CC English/JJ crew/NN members/NNS on/IN the/AT Half/NN Moon/NN had/HVD almost/RB forced/VBN him/PPO to/TO head/VB the/AT ship/NN back/RB to/IN Amsterdam/NP in/IN Mid-Atlantic/NP ./pct
+Worse/JJR ,/pct his/PPg present/JJ crew/NN included/VBN five/CD men/NNS who/WPS had/HVD sailed/VBN with/IN him/PPO before/RB ./pct
+Of/IN only/RB one/CD could/MD he/PPS be/BE sure/JJ --/pct young/JJ John/NP Hudson/NP ,/pct his/PPg second/OD son/NN ./pct
+The/AT mate/NN ,/pct Robert/NP Juet/NP ,/pct who/WPS had/HVD kept/VBN the/AT journal/NN on/IN the/AT Half/NN Moon/NN ,/pct was/BEDZ experienced/VBN --/pct but/IN he/PPS was/BEDZ a/AT bitter/JJ old/JJ man/NN ,/pct ready/JJ to/TO complain/VB or/CC desert/VB at/IN any/DTI opportunity/NN ./pct
+Philip/NP Staffe/NP ,/pct the/AT ship's/NNg carpenter/NN ,/pct was/BEDZ a/AT good/JJ worker/NN ,/pct but/CC perversely/QL independent/JJ ./pct
+Arnold/NP Lodley/NP and/CC Michael/NP Perse/NP were/BED like/CS the/AT rest/NN --/pct lukewarm/JJ ,/pct ready/JJ to/TO swing/VB against/IN Hudson/NP in/IN a/AT crisis/NN ./pct
+But/CC men/NNS willing/JJ to/TO sail/VB at/IN all/ABN into/IN waters/NNS where/WRB wooden/JJ ships/NNS could/MD be/BE crushed/VBN like/CS eggs/NNS were/BED hard/JJ to/TO find/VB ./pct
+Hudson/NP knew/VBD he/PPS had/HVD to/TO use/VB these/DTS men/NNS as/QL long/RB as/CS he/PPS remained/VBD an/AT explorer/NN ./pct
+And/CC he/PPS refused/VBD to/TO be/BE anything/PN else/RB ./pct
+It/PPS is/BEZ believed/VBN that/CS Hudson/NP was/BEDZ related/VBN to/IN other/AP seafaring/JJ men/NNS of/IN the/AT Muscovy/NP Company/NN and/CC was/BEDZ trained/VBN on/IN company/NN ships/NNS ./pct
+He/PPS was/BEDZ a/AT Londoner/NP ,/pct married/VBN ,/pct with/IN three/CD sons/NNS ./pct
+(/pct The/AT common/JJ misconception/NN that/CS he/PPS was/BEDZ Dutch/JJ and/CC that/CS his/PPg first/OD name/NN was/BEDZ Hendrik/NP stem/VB from/IN Dutch/JJ documents/NNS of/IN his/PPg third/OD voyage/NN ./pct
+)/pct In/IN 1610/CD ,/pct Hudson/NP was/BEDZ probably/RB in/IN his/PPg early/JJ forties/NNS ,/pct a/AT good/JJ navigator/NN ,/pct a/AT stubborn/JJ voyager/NN ,/pct but/CC otherwise/RB fatally/QL unsuited/JJ to/IN his/PPg chosen/VBN profession/NN ./pct
+Hudson's/NPg first/OD error/NN of/IN the/AT fourth/OD voyage/NN occurred/VBD only/RB a/AT few/AP miles/NNS down/IN the/AT Thames/NP ./pct
+There/RB at/IN the/AT river's/NNg edge/NN waited/VBD one/CD Henry/NP Greene/NP ,/pct whom/WPO Hudson/NP listed/VBD as/CS a/AT ``/pct clerk/NN ''/pct ./pct
+Greene/NP was/BEDZ in/IN actuality/NN a/AT young/JJ ruffian/NN from/IN Kent/NP ,/pct who/WPS had/HVD broken/VBN with/IN his/PPg parents/NNS in/IN order/NN to/TO keep/VB the/AT company/NN he/PPS preferred/VBD --/pct pimps/NNS ,/pct panders/NNS and/CC whores/NNS ./pct
+He/PPS was/BEDZ not/NEG the/AT sort/NN of/IN sailor/NN Hudson/NP wanted/VBD his/PPg backers/NNS to/TO see/VB on/IN board/NN and/CC he/PPS had/HVD Greene/NP wait/VB at/IN Gravesend/NP ,/pct where/WRB the/AT Discovery/NN picked/VBD him/PPO up/RP ./pct
+For/IN the/AT first/OD three/CD weeks/NNS ,/pct the/AT ship/NN skirted/VBD up/IN the/AT east/NR coast/NN of/IN Great/JJ Britain/NP ,/pct then/RB turned/VBD westward/RB ./pct
+On/IN May/NP 11/CD ,/pct she/PPS reached/VBD Iceland/NP ./pct
+Poor/JJ winds/NNS and/CC fog/NN locked/VBD her/PPO up/RP in/IN a/AT harbor/NN the/AT crew/NN called/VBN ``/pct Lousie/JJ Bay/NN ''/pct ./pct
+The/AT subsequent/JJ two-weeks/NNS wait/NN made/VBD the/AT crew/NN quarrelsome/JJ ./pct
+With/IN Hudson/NP looking/VBG on/RP ,/pct his/PPg protege/NN Greene/NP picked/VBD a/AT fight/NN with/IN the/AT ship's/NNg surgeon/NN ,/pct Edward/NP Wilson/NP ./pct
+The/AT issue/NN was/BEDZ settled/VBN on/IN shore/NN ,/pct Greene/NP winning/VBG and/CC Wilson/NP remaining/VBG ashore/RB ,/pct determined/VBN to/TO catch/VB the/AT next/AP fishing/VBG boat/NN back/RB to/IN England/NP ./pct
+With/IN difficulty/NN ,/pct Hudson/NP persuaded/VBD him/PPO to/TO rejoin/VB the/AT ship/NN ,/pct and/CC they/PPSS sailed/VBD from/IN Iceland/NP ./pct
+Early/RB in/IN June/NP ,/pct the/AT Discovery/NN passed/VBD ``/pct Desolation/NN ''/pct (/pct southern/JJ Greenland/NP )/pct and/CC in/IN mid-June/NP entered/VBD the/AT ``/pct Furious/JJ Overfall/NN ''/pct ./pct
+Floating/VBG ice/NN bore/VBD down/RP from/IN the/AT north/NR and/CC west/NR ./pct
+Fog/NN hung/VBD over/IN the/AT route/NN constantly/RB ./pct
+Turbulent/JJ tides/NNS rose/VBD as/QL much/AP as/CS fifty/CD feet/NNS ./pct
+The/AT ship's/NNg compass/NN was/BEDZ useless/JJ because/RB of/IN the/AT nearness/NN of/IN the/AT magnetic/JJ North/JJ Pole/NN ./pct
+As/CS the/AT bergs/NNS grew/VBD larger/JJR ,/pct Hudson/NP was/BEDZ forced/VBN to/TO turn/VB south/NR into/IN what/WDT is/BEZ now/RB Ungava/NP Bay/NN ,/pct an/AT inlet/NN of/IN the/AT Great/JJ Strait/NN ./pct
+After/IN finding/VBG that/CS its/PPg coasts/NNS led/VBD nowhere/RB ,/pct however/RB ,/pct he/PPS turned/VBD north/NR again/RB ,/pct toward/IN the/AT main/JJS ,/pct ice-filled/JJ passageway/NN --/pct and/CC the/AT crew/NN ,/pct at/IN first/RB uneasy/JJ ,/pct then/RB frightened/VBN ,/pct rebelled/VBN ./pct
+The/AT trouble/NN was/BEDZ at/IN least/AP partly/RB Juet's/NPg doing/NN ./pct
+For/IN weeks/NNS he/PPS had/HVD been/BEN saying/VBG that/CS Hudson's/NPg idea/NN of/IN sailing/VBG through/IN to/IN Java/NP was/BEDZ absurd/JJ ./pct
+The/AT great/JJ ,/pct crushing/VBG ice/NN masses/NNS coming/VBG into/IN view/NN made/VBD him/PPO sound/VB like/CS the/AT voice/NN of/IN pure/JJ reason/NN ./pct
+A/AT group/NN of/IN sailors/NNS announced/VBD to/IN Hudson/NP that/CS they/PPSS would/MD sail/VB no/QL farther/RBR ./pct
+Instead/RB of/IN quelling/VBG the/AT dissension/NN ,/pct as/CS many/AP captains/NNS of/IN the/AT era/NN would/MD have/HV done/VBN (/pct Sir/NP Francis/NP Drake/NP lopped/VBD a/AT man's/NNg head/NN off/RP under/IN similar/JJ circumstances/NNS )/pct ,/pct Hudson/NP decided/VBD to/TO be/BE reasonable/JJ ./pct
+He/PPS went/VBD to/IN his/PPg cabin/NN and/CC emerged/VBD carrying/VBG a/AT large/JJ chart/NN ,/pct which/WDT he/PPS set/VBD up/RP in/IN view/NN of/IN the/AT crew/NN ./pct
+Patiently/RB ,/pct he/PPS explained/VBD what/WDT he/PPS knew/VBD about/IN their/PPg course/NN and/CC their/PPg objectives/NNS ./pct
+When/WRB Hudson/NP had/HVD finished/VBN ,/pct the/AT ``/pct town/NN meeting/NN ''/pct broke/VBD down/RP into/IN a/AT general/JJ ,/pct wordy/JJ argument/NN ./pct
+One/CD man/NN remarked/VBD that/CS if/CS he/PPS had/HVD a/AT hundred/CD pounds/NNS ,/pct he/PPS would/MD give/VB ninety/CD of/IN them/PPO to/TO be/BE back/RB in/IN England/NP ./pct
+Up/RP spoke/VBD carpenter/NN Staffe/NP ,/pct who/WPS said/VBD he/PPS wouldn't /None give/VB ten/CD pounds/NNS to/TO be/BE home/NR ./pct
+The/AT statement/NN was/BEDZ effective/JJ ./pct
+The/AT meeting/NN broke/VBD up/RP ./pct
+Hudson/NP was/BEDZ free/JJ to/TO sail/VB on/RP ./pct
+All/QL through/IN July/NP the/AT Discovery/NN picked/VBD her/PPg way/NN along/IN the/AT 450-mile-long/JJ strait/NN ,/pct avoiding/VBG ice/NN and/CC rocky/JJ islands/NNS ./pct
+On/IN August/NP 3/CD ,/pct two/CD massive/JJ headlands/NNS reared/VBD out/IN of/IN the/AT mists/NNS --/pct great/JJ gateways/NNS never/RB before/RB ,/pct so/QL far/RB as/CS Hudson/NP knew/VBD ,/pct seen/VBN by/IN Europeans/NPS ./pct
+To/IN starboard/JJ was/BEDZ a/AT cape/NN a/AT thousand/CD feet/NNS high/JJ ,/pct patched/VBN with/IN ice/NN and/CC snow/NN ,/pct populated/VBN by/IN thousands/NNS of/IN screaming/VBG sea/NN birds/NNS ./pct
+To/IN port/JJ was/BEDZ a/AT point/NN 200/CD feet/NNS high/JJ rising/VBG behind/RB to/IN a/AT precipice/NN of/IN 2,000/CD feet/NNS ./pct
+Hudson/NP named/VBD the/AT capes/NNS Digges/NP and/CC Wolstenholme/NP ,/pct for/IN two/CD of/IN his/PPg backers/NNS ./pct
+Hudson/NP pointed/VBD the/AT Discovery/NN down/IN the/AT east/NR coast/NN of/IN the/AT newly/RB discovered/VBN sea/NN (/pct now/RB called/VBN Hudson/NP Bay/NN )/pct ,/pct confident/JJ he/PPS was/BEDZ on/IN his/PPg way/NN to/IN the/AT warm/JJ waters/NNS of/IN the/AT Pacific/JJ ./pct
+After/IN three/CD weeks'/NNSg swift/JJ sailing/NN ,/pct however/RB ,/pct the/AT ship/NN entered/VBD an/AT area/NN of/IN shallow/JJ marshes/NNS and/CC river/NN deltas/NNS ./pct
+The/AT ship/NN halted/VBD ./pct
+The/AT great/JJ ``/pct sea/NN to/IN the/AT westwards/RB ''/pct was/BEDZ a/AT dead/JJ end/NN ./pct
+This/DT must/MD have/HV been/BEN Hudson's/NPg blackest/JJT discovery/NN ./pct
+For/CS he/PPS seemed/VBD to/TO sense/VB at/IN once/RB that/CS before/IN him/PPO was/BEDZ no/AT South/JJ Sea/NN ,/pct but/CC the/AT solid/JJ bulk/NN of/IN the/AT North/JJ American/JJ continent/NN ./pct
+This/DT was/BEDZ the/AT bitter/JJ end/NN ,/pct and/CC Hudson/NP seemed/VBD to/TO know/VB he/PPS was/BEDZ destined/VBN to/IN failure/NN ./pct
+Feverishly/RB ,/pct he/PPS tried/VBD to/TO brush/VB away/RB this/DT intuition/NN ./pct
+North/NR and/CC south/NR ,/pct east/NR and/CC west/NR ,/pct back/RB and/CC forth/RB he/PPS sailed/VBD in/IN the/AT land-locked/JJ bay/NN ,/pct plowing/VBG furiously/RB forward/RB until/CS land/NN appeared/VBD ,/pct then/RB turning/VBG to/TO repeat/VB the/AT process/NN ,/pct day/NN after/IN day/NN ,/pct week/NN after/IN week/NN ./pct
+Hundreds/NNS of/IN miles/NNS to/IN the/AT north/NR ,/pct the/AT route/NN back/RB to/IN England/NP through/IN the/AT ``/pct Furious/JJ Overfall/NN ''/pct was/BEDZ again/RB filling/VBG with/IN ice/NN ./pct
+The/AT men/NNS were/BED at/IN first/RB puzzled/VBN ,/pct then/RB angered/VBN by/IN the/AT aimless/JJ tacking/VBG ./pct
+Once/RB more/RBR ,/pct Juet's/NPg complaints/NNS were/BED the/AT loudest/JJT ./pct
+Hudson's/NPg reply/NN was/BEDZ to/TO accuse/VB the/AT mate/NN of/IN disloyalty/NN ./pct
+Juet/NP demanded/VBD that/CS Hudson/NP prove/VB his/PPg charges/NNS in/IN an/AT open/JJ trial/NN ./pct
+The/AT trial/NN was/BEDZ held/VBN September/NP 10/CD ./pct
+Hudson/NP ,/pct presiding/VBG ,/pct heard/VBD Juet's/NPg defense/NN ,/pct then/RB called/VBD for/IN testimony/NN from/IN crew/NN members/NNS ./pct
+Juet/NP had/HVD made/VBN plentiful/JJ enemies/NNS ,/pct several/AP men/NNS stepped/VBD forward/RB ./pct
+Hands/NNS on/IN Bible/NP ,/pct seaman/NN Lodley/NP and/CC carpenter/NN Staffe/NP swore/VBD that/CS Juet/NP had/HVD tried/VBN to/TO persuade/VB them/PPO to/TO keep/VB muskets/NNS and/CC swords/NNS in/IN their/PPg cabins/NNS ./pct
+Cook/NN Bennett/NP Mathues/NP said/VBD Juet/NP had/HVD predicted/VBN bloodshed/NN on/IN the/AT ship/NN ./pct
+Others/NNS added/VBD that/CS Juet/NP had/HVD wanted/VBN to/TO turn/VB the/AT ship/NN homeward/RB ./pct
+Hudson/NP deposed/VBD Juet/NP and/CC cut/VBD his/PPg pay/NN ./pct
+The/AT new/JJ mate/NN was/BEDZ Robert/NP Bylot/NP ,/pct talented/JJ but/IN inexperienced/JJ ./pct
+There/EX were/BED other/AP shifts/NNS and/CC pay/NN cuts/NNS according/IN to/IN the/AT way/NN individuals/NNS had/HVD conducted/VBN themselves/PPLS ./pct
+The/AT important/JJ result/NN ,/pct however/RB ,/pct was/BEDZ that/CS Juet/NP and/CC Francis/NP Clemens/NP ,/pct the/AT deposed/VBN boatswain/NN ,/pct became/VBD Hudson's/NPg sworn/VBN enemies/NNS ./pct
+As/CS Hudson/NP resumed/VBD his/PPg desperate/JJ criss-crossing/NN of/IN the/AT little/JJ bay/NN ,/pct every/AT incident/NN lessened/VBD the/AT crew's/NNg respect/NN for/IN him/PPO ./pct
+Once/RB ,/pct after/CS the/AT Discovery/NN lay/VBD for/IN a/AT week/NN in/IN rough/JJ weather/NN ,/pct Hudson/NP ordered/VBD the/AT anchor/NN raised/VBN before/CS the/AT sea/NN had/HVD calmed/VBN ./pct
+Just/RB as/CS it/PPS was/BEDZ being/BEG hauled/VBN inboard/RB ,/pct a/AT sea/NN hit/VBD the/AT ship/NN ./pct
+Michael/NP Butt/NP and/CC Adame/NP Moore/NP were/BED thrown/VBN off/IN the/AT capstan/NN and/CC badly/RB injured/VBN ./pct
+The/AT anchor/NN cable/NN would/MD have/HV been/BEN lost/VBN overboard/RB ,/pct but/CC Philip/NP Staffe/NP was/BEDZ on/IN hand/NN to/TO sever/VB it/PPO with/IN his/PPg axe/NN ./pct

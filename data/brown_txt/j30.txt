@@ -1,0 +1,104 @@
+Analysis/NN
+Analysis/NN means/VBZ the/AT evaluation/NN of/IN subparts/NNS ,/pct the/AT comparative/JJ ratings/NNS of/IN parts/NNS ,/pct the/AT comprehension/NN of/IN the/AT meaning/NN of/IN isolated/VBN elements/NNS ./pct
+Analysis/NN in/IN roleplaying/NN is/BEZ usually/RB done/VBN for/IN the/AT purpose/NN of/IN understanding/VBG strong/JJ and/CC weak/JJ points/NNS of/IN an/AT individual/NN or/CC as/CS a/AT process/NN to/TO eliminate/VB weak/JJ parts/NNS and/CC strengthen/VB good/JJ parts/NNS ./pct
+Impersonal/JJ purposes/NNS
+Up/RP to/IN this/DT point/NN stress/NN has/HVZ been/BEN placed/VBN on/IN roleplaying/NN in/IN terms/NNS of/IN individuals/NNS ./pct
+Roleplaying/NN can/MD be/BE done/VBN for/IN quite/ABL a/AT different/JJ purpose/NN :/pct to/TO evaluate/VB procedures/NNS ,/pct regardless/RB of/IN individuals/NNS ./pct
+For/IN example/NN :/pct a/AT sales/NNS presentation/NN can/MD be/BE analyzed/VBN and/CC evaluated/VBN through/IN roleplaying/NN ./pct
+Examples/NNS
+Let/VB us/PPO now/RB put/VB some/DTI flesh/NN on/IN the/AT theoretical/JJ bones/NNS we/PPSS have/HV assembled/VBN by/IN giving/VBG illustrations/NNS of/IN roleplaying/NN used/VBN for/IN evaluation/NN and/CC analysis/NN ./pct
+One/PN should/MD keep/VB in/IN mind/NN that/CS many/AP of/IN the/AT exciting/JJ possiblities/NNS of/IN roleplaying/NN are/BER largely/QL unexplored/JJ and/CC have/HV not/NEG been/BEN used/VBN in/IN industry/NN to/IN the/AT extent/NN that/CS they/PPSS have/HV been/BEN in/IN military/JJ and/CC other/AP areas/NNS ./pct
+Evaluation/NN
+The/AT president/NN of/IN a/AT small/JJ firm/NN selling/VBG restaurant/NN products/NNS ,/pct had/HVD considerable/JJ difficulty/NN in/IN finding/VBG suitable/JJ salesmen/NNS for/IN his/PPg business/NN ./pct
+Interviewing/VBG ,/pct checking/VBG references/NNS ,/pct training/VBG the/AT salesmen/NNS ,/pct having/HVG them/PPO go/VB with/IN more/QL experienced/VBN salesmen/NNS was/BEDZ expensive/JJ --/pct and/CC the/AT rate/NN of/IN attrition/NN due/JJ to/IN resignations/NNS or/CC unsatisfactory/JJ performance/NN was/BEDZ too/QL high/JJ ./pct
+It/PPS was/BEDZ his/PPg experience/NN that/CS only/RB one/CD good/JJ salesman/NN was/BEDZ found/VBN out/RP of/IN every/AT seven/CD hired/VBN --/pct and/CC only/RB one/CD was/BEDZ hired/VBN out/RP of/IN every/AT seven/CD interviewed/VBN ./pct
+Roleplaying/NN was/BEDZ offered/VBN as/CS a/AT solution/NN --/pct and/CC the/AT procedure/NN worked/VBD as/CS follows/VBZ :/pct all/ABN candidates/NNS were/BED invited/VBN to/IN a/AT hotel/NN conference/NN room/NN ,/pct where/WRB the/AT president/NN explained/VBD the/AT difficulty/NN he/PPS had/HVD ,/pct and/CC how/WQL unnecessary/JJ it/PPS seemed/VBD to/IN him/PPO to/TO hire/VB people/NNS who/WPS just/RB did/DOD not/NEG work/VB out/RP ./pct
+In/IN place/NN of/IN asking/VBG salesmen/NNS to/TO fill/VB questionnaires/NNS ,/pct checking/VBG their/PPg references/NNS ,/pct interviewing/VBG them/PPO ,/pct asking/VBG them/PPO to/TO be/BE tried/VBN out/RP ,/pct he/PPS told/VBD them/PPO he/PPS would/MD prefer/VB to/TO test/VB them/PPO ./pct
+Each/DT person/NN was/BEDZ to/TO enter/VB the/AT testing/VBG room/NN ,/pct carrying/VBG a/AT suitcase/NN of/IN samples/NNS ./pct
+Each/DT salesman/NN was/BEDZ to/TO read/VB a/AT sheet/NN containing/VBG a/AT description/NN of/IN the/AT product/NN ./pct
+In/IN the/AT testing/VBG room/NN he/PPS was/BEDZ to/TO make/VB ,/pct successively/RB ,/pct three/CD presentations/NNS to/IN three/CD different/JJ people/NNS ./pct
+In/IN the/AT testing/VBG room/NN ,/pct three/CD of/IN the/AT veteran/JJ salesmen/NNS served/VBD as/CS antagonists/NNS ./pct
+One/CD handled/VBD the/AT salesman/NN in/IN a/AT friendly/JJ manner/NN ,/pct another/DT in/IN a/AT rough/JJ manner/NN ,/pct and/CC the/AT third/OD in/IN a/AT hesitating/VBG manner/NN ./pct
+Each/DT was/BEDZ told/VBN to/TO purchase/VB material/NN if/CS he/PPS felt/VBD like/CS it/PPS ./pct
+The/AT antagonists/NNS came/VBD in/RP ,/pct one/CD at/IN a/AT time/NN ,/pct and/CC did/DOD not/NEG see/VB or/CC hear/VB the/AT other/AP presentations/NNS ./pct
+After/IN each/DT presentation/NN ,/pct the/AT antagonist/NN wrote/VBD his/PPg judgment/NN of/IN the/AT salesmen/NNS ;/pct ;/pct
+and/CC so/RB did/DOD the/AT observers/NNS consisting/VBG of/IN the/AT president/NN ,/pct three/CD of/IN his/PPg salesmen/NNS and/CC a/AT psychologist/NN ./pct
+Ten/CD salesmen/NNS were/BED tested/VBN in/IN the/AT morning/NN and/CC ten/CD more/AP in/IN the/AT afternoon/NN ./pct
+This/DT procedure/NN was/BEDZ repeated/VBN one/CD day/NN a/AT month/NN for/IN four/CD months/NNS ./pct
+The/AT batting/VBG average/NN of/IN one/CD success/NN out/RP of/IN seven/CD increased/VBD to/IN one/CD out/RP of/IN three/CD ./pct
+The/AT president/NN of/IN the/AT firm/NN ,/pct calculating/VBG expenses/NNS alone/RB ,/pct felt/VBD his/PPg costs/NNS had/HVD dropped/VBN one-half/NN while/CS success/NN in/IN selection/NN had/HVD improved/VBN over/RP one/CD hundred/CD per/IN cent/NN ./pct
+The/AT reason/NN for/IN the/AT value/NN of/IN this/DT procedure/NN was/BEDZ simply/RB that/CS the/AT applicants/NNS were/BED tested/VBN ``/pct at/IN work/NN ''/pct in/IN different/JJ situations/NNS by/IN the/AT judgment/NN of/IN a/AT number/NN of/IN experts/NNS who/WPS could/MD see/VB how/WRB the/AT salesmen/NNS conducted/VBD themselves/PPLS with/IN different/JJ ,/pct but/CC typical/JJ restaurant/NN owners/NNS and/CC managers/NNS ./pct
+They/PPSS were/BED ,/pct in/IN a/AT sense/NN ,/pct ``/pct tried/VBN out/RP ''/pct in/IN realistic/JJ situations/NNS ./pct
+From/IN the/AT point/NN of/IN view/NN of/IN the/AT applicants/NNS ,/pct less/AP time/NN was/BEDZ wasted/VBN in/IN being/BEG evaluated/VBN --/pct and/CC they/PPSS got/VBD a/AT meal/NN out/RP of/IN it/PPO as/QL well/RB as/CS some/DTI insights/NNS into/IN their/PPg performances/NNS ./pct
+Another/DT use/NN of/IN roleplaying/NN for/IN evaluation/NN illustrates/VBZ how/WRB this/DT procedure/NN can/MD be/BE used/VBN in/IN real/JJ life/NN situations/NNS without/IN special/JJ equipment/NN or/CC special/JJ assistants/NNS during/IN the/AT daily/JJ course/NN of/IN work/NN ./pct
+The/AT position/NN of/IN receptionist/NN was/BEDZ opened/VBN in/IN a/AT large/JJ office/NN and/CC an/AT announcement/NN was/BEDZ made/VBN to/IN the/AT other/AP girls/NNS already/RB working/VBG that/CS they/PPSS could/MD apply/VB for/IN this/DT job/NN which/WDT had/HVD higher/JJR prestige/NN and/CC slightly/QL higher/JJR salary/NN than/CS typing/VBG and/CC clerking/VBG positions/NNS ./pct
+All/ABN applicants/NNS were/BED generally/QL familiar/JJ with/IN the/AT work/NN of/IN the/AT receptionist/NN ./pct
+At/IN the/AT end/NN of/IN work/NN one/CD day/NN ,/pct the/AT personnel/NNS man/NN took/VBD the/AT applicants/NNS one/CD at/IN a/AT time/NN ,/pct asked/VBD them/PPO to/TO sit/VB behind/IN the/AT receptionist's/NNg desk/NN and/CC he/PPS then/RB played/VBD the/AT role/NN of/IN a/AT number/NN of/IN people/NNS who/WPS might/MD come/VB to/IN the/AT receptionist/NN with/IN a/AT number/NN of/IN queries/NNS and/CC for/IN a/AT number/NN of/IN purposes/NNS ./pct
+Each/DT girl/NN was/BEDZ independently/RB ``/pct tested/VBN ''/pct by/IN the/AT personnel/NNS man/VB ,/pct and/CC he/PPS served/VBD not/NEG only/RB as/CS the/AT director/NN ,/pct but/CC as/CS the/AT antagonist/NN and/CC the/AT observer/NN ./pct
+Somewhat/RB to/IN his/PPg surprise/NN he/PPS found/VBD that/CS one/CD girl/NN ,/pct whom/WPO he/PPS would/MD never/RB have/HV considered/VBN for/IN the/AT job/NN since/CS she/PPS had/HVD appeared/VBN somewhat/QL mousy/JJ and/CC also/RB had/HVD been/BEN in/IN the/AT office/NN a/AT relatively/QL short/JJ time/NN ,/pct did/DOD the/AT most/QL outstanding/JJ job/NN of/IN playing/VBG the/AT role/NN of/IN receptionist/NN ,/pct showing/VBG wit/NN ,/pct sparkle/NN ,/pct and/CC aplomb/NN ./pct
+She/PPS was/BEDZ hired/VBN and/CC was/BEDZ found/VBN to/TO be/BE entirely/QL satisfactory/JJ when/WRB she/PPS played/VBD the/AT role/NN eight/CD hours/NNS a/AT day/NN ./pct
+Analysis/NN
+In/IN considering/VBG roleplaying/NN for/IN analysis/NN we/PPSS enter/VB a/AT more/QL complex/JJ area/NN ,/pct since/CS we/PPSS are/BER now/RB no/QL longer/RBR dealing/VBG with/IN a/AT simple/JJ over-all/JJ decision/NN but/CC rather/RB with/IN the/AT examination/NN and/CC evaluation/NN of/IN many/AP elements/NNS seen/VBN in/IN dynamic/JJ functioning/NN ./pct
+Some/DTI cases/NNS in/IN evidence/NN of/IN the/AT use/NN of/IN roleplaying/NN for/IN analysis/NN may/MD help/VB explain/VB the/AT procedure/NN ./pct
+An/AT engineer/NN had/HVD been/BEN made/VBN the/AT works/NNS manager/NN of/IN a/AT firm/NN ,/pct supplanting/VBG a/AT retired/VBN employee/NN who/WPS had/HVD been/BEN considered/VBN outstandingly/QL successful/JJ ./pct
+The/AT engineer/NN had/HVD more/AP than/IN seven/CD years/NNS of/IN experience/NN in/IN the/AT firm/NN ,/pct was/BEDZ well/RB trained/VBN ,/pct was/BEDZ considered/VBN a/AT hard/JJ worker/NN ,/pct was/BEDZ respected/VBN by/IN his/PPg fellow/NN engineers/NNS for/IN his/PPg technical/JJ competence/NN and/CC was/BEDZ regarded/VBN as/CS a/AT ``/pct comer/NN ''/pct ./pct
+However/RB ,/pct he/PPS turned/VBD out/RP to/TO be/BE a/AT complete/JJ failure/NN in/IN his/PPg new/JJ position/NN ./pct
+He/PPS seemed/VBD to/TO antagonize/VB everyone/PN ./pct
+Turnover/NN rates/NNS of/IN personnel/NNS went/VBD up/RP ,/pct production/NN dropped/VBD ,/pct and/CC morale/NN was/BEDZ visibly/RB reduced/VBN ./pct
+Despite/IN the/AT fact/NN that/CS he/PPS was/BEDZ regarded/VBN as/CS an/AT outstanding/JJ engineer/NN ,/pct he/PPS seemed/VBD to/TO be/BE a/AT very/QL poor/JJ administrator/NN ,/pct although/CS no/AT one/PN quite/RB knew/VBD what/WDT was/BEDZ wrong/JJ with/IN him/PPO ./pct
+At/IN the/AT insistence/NN of/IN his/PPg own/JJ supervisor/NN --/pct the/AT president/NN of/IN the/AT firm/NN --/pct he/PPS enrolled/VBD in/IN a/AT course/NN designed/VBN to/TO develop/VB leaders/NNS ./pct
+He/PPS played/VBD a/AT number/NN of/IN typical/JJ situations/NNS before/IN observers/NNS ,/pct other/AP supervisors/NNS who/WPS kept/VBD notes/NNS and/CC then/RB explained/VBD to/IN him/PPO in/IN detail/NN what/WDT he/PPS did/DOD they/PPSS thought/VBD was/BEDZ wrong/JJ ./pct
+Entirely/RB concerned/VBN with/IN efficiency/NN ,/pct he/PPS was/BEDZ merciless/JJ in/IN criticizing/VBG people/NNS who/WPS made/VBD mistakes/NNS ,/pct condemning/VBG them/PPO to/IN too/QL great/JJ an/AT extent/NN ./pct
+He/PPS did/DOD not/NEG really/RB listen/VB to/IN others/NNS ,/pct had/HVD little/AP interest/NN in/IN their/PPg ideas/NNS ,/pct and/CC wanted/VBD to/TO have/HV his/PPg own/JJ way/NN --/pct which/WDT was/BEDZ the/AT only/AP right/JJ way/NN ./pct
+The/AT entire/JJ group/NN of/IN managers/NNS explained/VBD ,/pct in/IN great/JJ detail/NN ,/pct a/AT number/NN of/IN human/JJ relations/NNS errors/NNS that/CS he/PPS made/VBD ./pct
+One/CD by/IN one/CD ,/pct these/DTS errors/NNS were/BED discussed/VBN and/CC one/CD by/IN one/CD he/PPS rejected/VBD accepting/VBG them/PPO as/CS errors/NNS ./pct
+He/PPS admitted/VBD his/PPg behavior/NN ,/pct and/CC defended/VBD it/PPO ./pct
+He/PPS refused/VBD to/TO change/VB his/PPg approach/NN ,/pct and/CC instead/RB he/PPS attacked/VBD high/NN and/CC low/RB --/pct the/AT officials/NNS for/IN their/PPg not/NEG backing/VBG him/PPO ,/pct and/CC subordinates/NNS for/IN their/PPg laxness/NN ,/pct stupidity/NN ,/pct and/CC stubbornness/NN ./pct
+After/IN the/AT diagnosing/NN ,/pct he/PPS left/VBD the/AT course/NN ,/pct convinced/VBN that/CS it/PPS could/MD do/DO him/PPO no/AT good/NN ./pct
+We/PPSS may/MD say/VB that/CS his/PPg problem/NN was/BEDZ diagnosed/VBN but/CC that/CS he/PPS refused/VBD treatment/NN ./pct
+The/AT engineer/NN turned/VBN works/NNS manager/NN had/HVD a/AT particular/JJ view/NN of/IN life/NN --/pct and/CC refused/VBD to/TO change/VB it/PPO ./pct
+We/PPSS may/MD say/VB that/CS his/PPg attitude/NN was/BEDZ foolish/JJ ,/pct since/CS he/PPS may/MD have/HV been/BEN a/AT success/NN had/HVD he/PPS learned/VBN some/DTI human/JJ relations/NNS skills/NNS ;/pct ;/pct
+or/CC we/PPSS may/MD say/VB that/CS his/PPg attitude/NN was/BEDZ commendable/JJ ,/pct showing/VBG his/PPg independence/NN of/IN mind/NN ,/pct in/IN his/PPg refusal/NN to/TO adjust/VB to/IN the/AT opinions/NNS of/IN others/NNS ./pct
+In/IN any/DTI case/NN ,/pct he/PPS refused/VBD to/TO accept/VB the/AT implications/NNS of/IN the/AT analysis/NN ,/pct that/CS he/PPS needed/VBD to/TO be/BE made/VBN over/RP ./pct
+Another/DT case/NN may/MD be/BE given/VBN in/IN illustration/NN of/IN a/AT successful/JJ use/NN of/IN analysis/NN ,/pct and/CC also/RB of/IN the/AT employment/NN of/IN a/AT procedure/NN for/IN intensive/JJ analysis/NN ./pct
+In/IN a/AT course/NN for/IN supermarket/NN operators/NNS ,/pct a/AT district/NN manager/NN who/WPS had/HVD been/BEN recently/RB appointed/VBN to/IN his/PPg position/NN after/CS being/BEG outstandingly/QL successful/JJ as/CS a/AT store/NN manager/NN ,/pct found/VBD that/CS in/IN supervising/VBG other/AP managers/NNS he/PPS was/BEDZ having/HVG a/AT difficult/JJ time/NN ./pct
+On/IN playing/VBG some/DTI typical/JJ situations/NNS before/IN a/AT jury/NN of/IN his/PPg peers/NNS he/PPS showed/VBD some/DTI characteristics/NNS rated/VBN as/CS unsatisfactory/JJ ./pct
+He/PPS was/BEDZ told/VBN he/PPS displayed/VBD ,/pct for/IN example/NN ,/pct a/AT sense/NN of/IN superiority/NN --/pct and/CC he/PPS answered/VBD :/pct ``/pct Well/UH ,/pct I/PPSS am/BEM supposed/VBN to/TO know/VB all/ABN the/AT answers/NNS ,/pct aren't /None I/PPSS ''/pct ?/pct ?/pct
+He/PPS was/BEDZ criticized/VBN for/IN his/PPg curtness/NN and/CC abruptness/NN --/pct and/CC he/PPS answered/VBD :/pct ``/pct I/PPSS am/BEM not/NEG working/VBG to/TO become/VB popular/JJ ''/pct ./pct
+On/IN being/BEG criticized/VBN for/IN his/PPg arbitrary/JJ behavior/NN --/pct he/PPS answered/VBD :/pct ``/pct I/PPSS have/HV to/TO make/VB decisions/NNS ./pct
+That's /None my/PPg job/NN ''/pct ./pct
+In/IN short/JJ ,/pct as/CS frequently/RB happens/VBZ in/IN analyses/NNS ,/pct the/AT individual/NN feels/VBZ threatened/VBN and/CC defends/VBZ himself/PPL ./pct
+However/RB ,/pct in/IN this/DT case/NN the/AT district/NN manager/NN was/BEDZ led/VBN to/TO see/VB the/AT errors/NNS of/IN his/PPg ways/NNS ./pct
+The/AT necessary/JJ step/NN between/IN diagnosis/NN and/CC training/NN is/BEZ acceptance/NN of/IN the/AT validity/NN of/IN the/AT criticisms/NNS ./pct
+How/WRB this/DT was/BEDZ accomplished/VBN may/MD be/BE described/VBN ,/pct since/CS this/DT sometimes/RB is/BEZ a/AT crucial/JJ problem/NN ./pct
+The/AT director/NN helped/VBD tailor-make/VB a/AT check/NN list/NN of/IN the/AT district/NN manager's/NNg errors/NNS by/IN asking/VBG various/AP observers/NNS to/TO write/VB out/RP sentences/NNS commenting/VBG on/IN the/AT mistakes/NNS they/PPSS felt/VBD he/PPS made/VBD ./pct
+These/DTS errors/NNS were/BED then/RB collected/VBN and/CC written/VBN on/IN a/AT blackboard/NN ,/pct condensing/VBG similar/JJ ideas/NNS ./pct
+Eighteen/CD errors/NNS were/BED located/VBN ,/pct and/CC then/RB the/AT director/NN asked/VBD each/DT individual/NN to/TO vote/VB whether/CS or/CC not/NEG they/PPSS felt/VBD that/CS this/DT manager/NN had/HVD made/VBN the/AT particular/JJ errors/NNS ./pct
+They/PPSS were/BED asked/VBN to/TO vote/VB ``/pct true/JJ ''/pct if/CS they/PPSS thought/VBD they/PPSS had/HVD seen/VBN him/PPO make/VB the/AT error/NN ,/pct ``/pct false/JJ ''/pct if/CS they/PPSS thought/VBD he/PPS had/HVD not/NEG ;/pct ;/pct
+and/CC ``/pct cannot /None say/VB ''/pct if/CS they/PPSS were/BED not/NEG certain/JJ ./pct
+The/AT manager/NN sat/VBD behind/IN the/AT group/NN so/CS he/PPS could/MD see/VB and/CC count/VB the/AT hands/NNS that/WPS went/VBD up/RP ,/pct and/CC the/AT director/NN wrote/VBD the/AT numbers/NNS on/IN the/AT blackboard/NN ./pct
+No/AT comments/NNS were/BED made/VBN during/IN the/AT voting/NN ./pct
+The/AT results/NNS looked/VBD as/CS follows/VBZ :/pct Af/NN ./pct
+The/AT first/OD eight/CD of/IN these/DTS eighteen/CD statements/NNS ,/pct which/WDT received/VBD at/IN least/AP one-half/NN of/IN the/AT votes/NNS ,/pct were/BED duplicated/VBN to/TO form/VB an/AT analysis/NN checklist/NN for/IN the/AT particular/JJ manager/NN ,/pct and/CC when/WRB this/DT particular/JJ manager/NN roleplayed/VBD in/IN other/AP situations/NNS ,/pct the/AT members/NNS checked/VBD any/DTI items/NNS that/WPS appeared/VBD ./pct
+To/TO prevent/VB the/AT manager/NN from/IN deliberately/RB controlling/VBG himself/PPL only/RB during/IN the/AT sessions/NNS ,/pct they/PPSS were/BED rather/QL lengthy/JJ (/pct about/RB twenty/CD minutes/NNS )/pct ,/pct the/AT situations/NNS were/BED imperfectly/RB described/VBN to/IN the/AT manager/NN so/CS that/CS he/PPS would/MD not/NEG know/VB what/WDT to/TO expect/VB ,/pct new/JJ antagonists/NNS were/BED brought/VBN on/IN the/AT scene/NN unexpectedly/RB ,/pct and/CC the/AT antagonists/NNS were/BED instructed/VBN to/TO deliberately/RB behave/VB in/IN such/JJ ways/NNS as/CS to/TO upset/VB the/AT manager/NN and/CC get/VB him/PPO to/TO operate/VB in/IN a/AT manner/NN for/IN which/WDT he/PPS had/HVD been/BEN previously/RB criticized/VBN ./pct
+After/IN every/AT session/NN ,/pct the/AT check/NN marks/NNS were/BED totaled/VBN up/RP and/CC graphed/VBN ,/pct and/CC in/IN this/DT way/NN the/AT supervisor's/NNg progress/NN was/BEDZ charted/VBN ./pct
+Summary/NN
+In/IN life/NN we/PPSS learn/VB to/TO play/VB our/PPg roles/NNS and/CC we/PPSS ``/pct freeze/VB ''/pct into/IN patterns/NNS which/WDT become/VB so/QL habitual/JJ that/CS we/PPSS are/BER not/NEG really/QL aware/JJ of/IN what/WDT we/PPSS do/DO ./pct
+We/PPSS can/MD see/VB others/NNS more/QL clearly/RB than/CS we/PPSS can/MD see/VB ourselves/PPLS ,/pct and/CC others/NNS can/MD see/VB us/PPO better/RBR than/CS we/PPSS see/VB ourselves/PPLS ./pct
+To/TO learn/VB what/WDT we/PPSS do/DO is/BEZ the/AT first/OD step/NN for/IN improvement/NN ./pct
+To/TO accept/VB the/AT validity/NN of/IN the/AT judgments/NNS of/IN others/NNS is/BEZ the/AT second/OD step/NN ./pct
+To/TO want/VB to/TO change/VB is/BEZ the/AT third/OD step/NN ./pct
+To/TO practice/VB new/JJ procedures/NNS under/IN guided/VBN supervision/NN and/CC with/IN constant/JJ feedback/NN is/BEZ the/AT fourth/OD step/NN ./pct
+To/TO use/VB these/DTS new/JJ ways/NNS in/IN daily/JJ life/NN is/BEZ the/AT last/AP step/NN ./pct
+Roleplaying/NN used/VBN for/IN analysis/NN follows/VBZ these/DTS general/JJ steps/NNS leading/VBG to/IN training/VBG ./pct
+When/WRB an/AT evaluative/JJ situation/NN is/BEZ set/VBN up/RP ,/pct and/CC no/AT concern/NN is/BEZ with/IN the/AT details/NNS that/WPS lead/VB to/IN an/AT over-all/JJ estimate/NN ,/pct we/PPSS say/VB that/CS roleplaying/NN is/BEZ used/VBN for/IN evaluation/NN ./pct
+Observers/NNS can/MD see/VB a/AT person/NN engaged/VBN in/IN spontaneous/JJ behavior/NN ,/pct and/CC watch/VB him/PPO operating/VBG in/IN a/AT totalistic/JJ fashion/NN ./pct
+This/DT behavior/NN is/BEZ more/QL ``/pct veridical/JJ ''/pct --/pct or/CC true/JJ --/pct than/CS other/AP testing/VBG behavior/NN for/IN some/DTI types/NNS of/IN evaluation/NN ,/pct and/CC so/RB can/MD give/VB quick/JJ and/CC accurate/JJ estimates/NNS of/IN complex/JJ functioning/NN ./pct
+While/CS roleplaying/NN for/IN testing/VBG is/BEZ not/NEG too/QL well/RB understood/VBN at/IN the/AT present/JJ time/NN ,/pct it/PPS represents/VBZ one/CD of/IN the/AT major/JJ uses/NNS of/IN this/DT procedure/NN ./pct
+Chapter/NN 10/CD ,/pct spontaneity/NN training/NN
+the/AT objective/NN of/IN this/DT chapter/NN is/BEZ to/TO clarify/VB the/AT distinctions/NNS between/IN spontaneity/NN theory/NN and/CC other/AP training/VBG concepts/NNS ./pct
+In/IN addition/NN ,/pct the/AT basic/JJ approach/NN utilized/VBN in/IN applying/VBG roleplaying/NN will/MD be/BE reviewed/VBN ./pct
+The/AT goal/NN will/MD be/BE to/TO provide/VB the/AT reader/NN with/IN an/AT integrated/VBN rationale/NN to/TO aid/VB him/PPO in/IN applying/VBG roleplaying/NN techniques/NNS in/IN this/DT unique/JJ training/VBG area/NN ./pct
+The/AT reasons/NNS for/IN extracting/VBG this/DT particular/JJ roleplaying/NN application/NN from/IN the/AT previous/JJ discussion/NN of/IN training/VBG are/BER twofold/JJ ./pct
+1/CD ./pct
+Spontaneity/NN training/VBG theory/NN is/BEZ unique/JJ and/CC relatively/QL new/JJ ./pct

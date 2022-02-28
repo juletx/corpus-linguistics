@@ -17,7 +17,7 @@ fname = sys.argv[1]
 parser = etree.XMLParser(remove_blank_text=True) # discard whitespace nodes
 tree = etree.parse(fname, parser)
 
-for w_elem in tree.xpath("put_your_xpath_here"):
+for w_elem in tree.xpath("/tokens/*"):
     # Use:
     #
     # elem.get("...") -> get attribute
@@ -26,7 +26,7 @@ for w_elem in tree.xpath("put_your_xpath_here"):
     # elem.text       -> get textual content
     #
 
-    token_id = ...
-    token_form = ...
+    token_id = w_elem.get("id")
+    token_form = w_elem.findtext("forma")
     output_string = "{}\t{}".format(token_id, token_form)
     print(output_string)

@@ -1,0 +1,207 @@
+Beckworth/NP handed/VBD the/AT pass/NN to/IN the/AT colonel/NN ./pct
+He/PPS had/HVD thought/VBN that/CS the/AT suggestion/NN of/IN taking/VBG it/PPO himself/PPL would/MD tip/VB the/AT colonel/NN in/IN the/AT direction/NN of/IN serving/VBG his/PPg own/JJ order/NN ,/pct but/CC the/AT slip/NN of/IN paper/NN was/BEDZ folded/VBN and/CC absently/RB thrust/VBN into/IN the/AT colonel's/NNg belt/NN ./pct
+Despite/IN his/PPg yearning/NN ,/pct the/AT colonel/NN would/MD not/NEG go/VB down/RP to/TO see/VB the/AT men/NNS come/VB through/IN the/AT lines/NNS ./pct
+He/PPS would/MD remain/VB in/IN the/AT tent/NN ,/pct waiting/VBG impatiently/RB ,/pct occupied/VBN by/IN some/DTI trivial/JJ task/NN ./pct
+--/pct Beckworth/NP ./pct
+--/pct Sir/NN ?/pct ?/pct
+--/pct Fetch/VB me/PPO the/AT copies/NNS of/IN everything/PN B/NP and/CC C/NP companies/NNS have/HV requisitioned/VBN in/IN the/AT last/AP six/CD months/NNS ./pct
+--/pct The/AT last/AP six/CD months/NNS ,/pct sir/NN ?/pct ?/pct
+--/pct You/PPSS heard/VBD me/PPO ./pct
+There's /None a/AT lot/NN of/IN waste/NN going/VBG on/RP here/RB ./pct
+It's /None got/VBN to/TO stop/VB ./pct
+I/PPSS want/VB to/TO take/VB a/AT look/NN ./pct
+This/DT is/BEZ no/AT damned/VBN holiday/NN ,/pct Beckworth/NP ./pct
+Get/VB busy/JJ ./pct
+--/pct Yes/RB ,/pct sir/NN ./pct
+Beckworth/NP left/VBD the/AT tent/NN ./pct
+Below/RB he/PPS could/MD see/VB the/AT bright/JJ torches/NNS lighting/VBG the/AT riverbank/NN ./pct
+He/PPS glanced/VBD back/RB ./pct
+The/AT colonel/NN crouched/VBD tensely/RB on/IN one/CD of/IN the/AT folding/VBG chairs/NNS ,/pct methodically/RB tearing/VBG at/IN his/PPg thumbnail/NN ./pct
+The/AT bombproof/JJ was/BEDZ a/AT low-ceilinged/JJ structure/NN of/IN heavy/JJ timbers/NNS covered/VBN with/IN earth/NN ./pct
+It/PPS stood/VBD some/DTI fifty/CD paces/NNS from/IN the/AT edge/NN of/IN the/AT bank/NN ./pct
+From/IN the/AT outside/NN ,/pct it/PPS seemed/VBD no/AT more/AP than/IN a/AT low/JJ drumlin/NN ,/pct a/AT lump/NN on/IN the/AT dark/JJ earth/NN ./pct
+A/AT crude/JJ ladder/NN ran/VBD down/RP to/IN a/AT wooden/JJ floor/NN ./pct
+Two/CD slits/NNS enabled/VBD observers/NNS to/TO watch/VB across/IN the/AT river/NN ./pct
+The/AT place/NN smelled/VBD strongly/RB of/IN rank/JJ ,/pct fertile/JJ earth/NN ,/pct rotting/VBG wood/NN and/CC urine/NN ./pct
+The/AT plank/NN floor/NN was/BEDZ slimed/VBN beneath/IN Watson's/NPg boots/NNS ./pct
+At/IN least/AP the/AT Union/NN officer/NN had/HVD been/BEN decent/JJ enough/QLP to/TO provide/VB a/AT candle/NN ./pct
+There/EX was/BEDZ no/AT place/NN to/TO sit/VB ,/pct but/CC Watson/NP walked/VBD slowly/RB from/IN the/AT ladder/NN to/IN the/AT window/NN slits/NNS and/CC back/NN ,/pct stooping/VBG slightly/RB to/TO avoid/VB striking/VBG his/PPg head/NN on/IN the/AT heavy/JJ beams/NNS ./pct
+In/IN the/AT corner/NN was/BEDZ the/AT soldier/NN with/IN the/AT white/JJ flag/NN ./pct
+He/PPS stood/VBD stiffly/RB erect/JJ ,/pct clutching/VBG the/AT staff/NN ,/pct his/PPg body/NN half/QL hidden/VBN by/IN the/AT limp/JJ cloth/NN ./pct
+Watson/NP hardly/RB looked/VBD at/IN him/PPO ./pct
+The/AT man/NN had/HVD come/VBN floundering/VBG aboard/RB the/AT flat-bottomed/JJ barge/NN at/IN the/AT last/AP instant/NN ,/pct brandishing/VBG the/AT flag/NN of/IN truce/NN ./pct
+Someone/PN had/HVD hauled/VBN him/PPO over/IN the/AT side/NN ,/pct and/CC he/PPS had/HVD remained/VBN silent/JJ while/CS they/PPSS crossed/VBD ./pct
+An/AT officer/NN with/IN a/AT squad/NN of/IN men/NNS had/HVD been/BEN waiting/VBG on/IN the/AT bank/NN ./pct
+The/AT men/NNS in/IN the/AT boats/NNS had/HVD started/VBN yelling/VBG happily/RB at/IN first/OD sight/NN of/IN the/AT officer/NN ,/pct two/CD of/IN them/PPO calling/VBG him/PPO Billy/NP ./pct
+When/WRB the/AT boat/NN had/HVD touched/VBN ,/pct the/AT weaker/JJR ones/NNS and/CC the/AT two/CD wounded/VBN men/NNS had/HVD been/BEN lifted/VBN out/RP and/CC carried/VBN away/RB by/IN the/AT soldiers/NNS ./pct
+Watson/NP had/HVD presented/VBN his/PPg pouch/NN and/CC been/BEN led/VBN to/IN the/AT bombproof/JJ ./pct
+The/AT officer/NN had/HVD told/VBN him/PPO that/CS both/ABX lists/NNS must/MD be/BE checked/VBN ./pct
+Watson/NP had/HVD given/VBN his/PPg name/NN and/CC asked/VBN for/IN a/AT safe-conduct/NN pass/NN ./pct
+The/AT officer/NN ,/pct surprised/VBN ,/pct said/VBD he/PPS would/MD have/HV to/TO see/VB ./pct
+Watson/NP had/HVD nodded/VBN absently/RB and/CC muttered/VBD that/CS he/PPS would/MD check/VB the/AT lists/NNS himself/PPL later/RBR ./pct
+He/PPS had/HVD peered/VBN through/IN the/AT darkness/NN at/IN the/AT rampart/NN ./pct
+The/AT men/NNS he/PPS would/MD take/VB back/RB across/IN the/AT river/NN stood/VBD there/RB ,/pct but/CC he/PPS turned/VBD away/RB from/IN them/PPO ./pct
+He/PPS wanted/VBD no/AT part/NN of/IN the/AT emotions/NNS of/IN the/AT exchange/NN ,/pct no/AT memory/NN of/IN the/AT joy/NN and/CC gratitude/NN that/WPS other/AP men/NNS felt/VBD ./pct
+He/PPS had/HVD hoped/VBN to/TO be/BE alone/RB in/IN the/AT bombproof/JJ ,/pct but/CC the/AT soldier/NN had/HVD followed/VBN him/PPO ./pct
+Though/CS Watson/NP carefully/RB ignored/VBD the/AT man/NN ,/pct he/PPS could/MD not/NEG deny/VB his/PPg presence/NN ./pct
+Perhaps/RB it/PPS would/MD be/BE better/JJR to/TO speak/VB to/IN him/PPO ,/pct since/CS silence/NN could/MD not/NEG exorcise/VB his/PPg form/NN ./pct
+Watson/NP glanced/VBD briefly/RB at/IN him/PPO ,/pct seeing/VBG only/RB a/AT body/NN rigidly/RB erect/JJ behind/IN the/AT languid/JJ banner/NN ./pct
+--/pct We/PPSS won't /None be/BE too/QL long/JJ ./pct
+If/CS my/PPg pass/NN is/BEZ approved/VBN ,/pct I/PPSS may/MD be/BE a/AT half/ABN hour/NN ./pct
+The/AT soldier/NN answered/VBD in/IN a/AT curious/JJ ,/pct muffled/VBN voice/NN ,/pct his/PPg lips/NNS barely/RB moving/VBG ./pct
+Watson/NP turned/VBD away/RB and/CC did/DOD not/NEG see/VB the/AT man's/NNg knees/NNS buckle/VB and/CC his/PPg body/NN sag/VB ./pct
+--/pct Yes/RB ,/pct sir/NN ./pct
+He/PPS had/HVD acknowledged/VBN the/AT man/NN ./pct
+It/PPS was/BEDZ easier/JJR to/TO think/VB now/RB ,/pct Watson/NP decided/VBD ./pct
+The/AT stiff/JJ figure/NN in/IN the/AT corner/NN no/AT longer/JJR blocked/VBD his/PPg thoughts/NNS ./pct
+He/PPS paced/VBD slowly/RB ,/pct stooping/VBG ,/pct staring/VBG at/IN the/AT damp/JJ ,/pct slippery/JJ floor/NN ./pct
+He/PPS tried/VBD to/TO order/VB the/AT words/NNS of/IN the/AT three/CD Union/NN officers/NNS ,/pct seeking/VBG to/TO create/VB some/DTI coherent/JJ portrait/NN of/IN the/AT dead/JJ boy/NN ./pct
+But/CC he/PPS groped/VBD blindly/RB ./pct
+His/PPg lack/NN of/IN success/NN steadily/RB eroded/VBD his/PPg interest/NN ./pct
+He/PPS stopped/VBD pacing/VBG ,/pct leaned/VBD against/IN the/AT dank/JJ ,/pct timbered/VBN wall/NN and/CC let/VB his/PPg mind/NN drift/VB ./pct
+A/AT feeling/NN of/IN futility/NN ,/pct an/AT enervation/NN of/IN mind/NN greater/JJR than/CS any/DTI fatigue/NN he/PPS had/HVD ever/RB known/VBN ,/pct seeped/VBD through/IN him/PPO ./pct
+What/WDT in/IN the/AT name/NN of/IN God/NP was/BEDZ he/PPS doing/VBG ,/pct crouched/VBN in/IN a/AT timbered/VBN pit/NN on/IN the/AT wrong/JJ bank/NN of/IN the/AT river/NN ?/pct ?/pct
+Why/WRB had/HVD he/PPS crossed/VBD the/AT dark/JJ water/NN ,/pct to/TO bring/VB back/RB a/AT group/NN of/IN reclaimed/VBN soldiers/NNS or/CC to/TO skulk/VB in/IN a/AT foul-smelling/JJ hole/NN ?/pct ?/pct
+He/PPS grew/VBD annoyed/VBN and/CC at/IN the/AT same/AP time/NN surprised/VBN at/IN that/DT emotion/NN ./pct
+He/PPS was/BEDZ conscious/JJ of/IN a/AT growing/VBG sense/NN of/IN absurdity/NN ./pct
+Hillman/NP had/HVD written/VBN it/PPO all/ABN out/RP ,/pct hadn't /None he/PPS ?/pct ?/pct
+Wasn't /None the/AT report/NN official/JJ enough/QLP ?/pct ?/pct
+What/WDT did/DOD he/PPS hope/VB to/TO accomplish/VB here/RB ?/pct ?/pct
+Hillman/NP had/HVD ordered/VBN him/PPO not/NEG to/TO leave/VB the/AT far/JJ bank/NN ./pct
+Prompted/VBN by/IN a/AT guilty/JJ urge/NN ,/pct he/PPS had/HVD disobeyed/VBN the/AT order/NN of/IN a/AT man/NN he/PPS respected/VBD ./pct
+For/IN what/WDT ?/pct ?/pct
+To/TO tell/VB John/NP something/PN he/PPS would/MD find/VB out/RP for/IN himself/PPL ./pct
+The/AT figure/NN in/IN the/AT corner/NN belched/VBD loudly/RB ,/pct a/AT deep/JJ ,/pct liquid/NN eruption/NN ./pct
+Watson/NP snorted/VBD and/CC then/RB laughed/VBD aloud/RB ./pct
+Exactly/RB !/pct !/pct
+The/AT soldier's/NNg voice/NN was/BEDZ muffled/VBN again/RB ,/pct stricken/VBN with/IN chagrin/NN ./pct
+He/PPS clutched/VBD the/AT staff/NN ,/pct and/CC his/PPg dark/JJ eyes/NNS blinked/VBD apologetically/RB ./pct
+--/pct 'scuse/VB me/PPO ,/pct sir/NN ./pct
+--/pct Let's /None get/VB out/IN of/IN here/RB ./pct
+Watson/NP ran/VBD up/IN the/AT ladder/NN and/CC stood/VBD for/IN a/AT second/OD sucking/VBG in/IN the/AT cool/JJ air/NN that/WPS smelled/VBD of/IN mud/NN and/CC river/NN weeds/NNS ./pct
+To/IN his/PPg left/NR ,/pct the/AT two/CD skiffs/NNS dented/VBD their/PPg sharp/JJ bows/NNS into/IN the/AT soft/JJ bank/NN ./pct
+The/AT flat-bottomed/JJ boat/NN swung/VBD slowly/RB to/IN the/AT pull/NN of/IN the/AT current/NN ./pct
+A/AT soldier/NN held/VBD the/AT end/NN of/IN a/AT frayed/VBN rope/NN ./pct
+Three/CD Union/NN guards/NNS appeared/VBD ,/pct carrying/VBG their/PPg rifles/NNS at/IN ready/JJ ./pct
+Watson/NP stared/VBD at/IN them/PPO curiously/RB ./pct
+They/PPSS were/BED stocky/JJ men/NNS ,/pct well/RB fed/VBN and/CC clean-shaven/JJ ,/pct with/IN neat/JJ uniforms/NNS and/CC sturdy/JJ boots/NNS ./pct
+Behind/IN them/PPO shambled/VBN a/AT long/JJ column/NN of/IN weak/JJ ,/pct tattered/VBN men/NNS ./pct
+The/AT thin/JJ gray/JJ figures/NNS raised/VBD a/AT hoarse/JJ ,/pct cawing/VBG cry/NN like/CS the/AT call/NN of/IN a/AT bird/NN flock/NN ./pct
+They/PPSS moved/VBD toward/IN the/AT skiffs/NNS with/IN shocking/JJ eagerness/NN ,/pct elbowing/VBG and/CC shoving/VBG ./pct
+Four/CD men/NNS were/BED knocked/VBN down/RP ,/pct but/CC did/DOD not/NEG attempt/VB to/TO rise/VB ./pct
+They/PPSS crept/VBD down/IN the/AT muddy/JJ slope/NN toward/IN the/AT waiting/VBG boats/NNS ./pct
+The/AT Union/NN soldiers/NNS grounded/VBD arms/NNS and/CC settled/VBD into/IN healthy/JJ ,/pct indifferent/JJ postures/NNS to/TO watch/VB the/AT feeble/JJ boarding/NN of/IN the/AT skiffs/NNS ./pct
+The/AT crawling/VBG men/NNS tried/VBD to/TO rise/VB and/CC fell/VBD again/RB ./pct
+No/AT one/PN moved/VBD to/IN them/PPO ./pct
+Watson/NP watched/VBD two/CD of/IN them/PPO flounder/VB into/IN the/AT shallow/JJ water/NN and/CC listened/VBD to/IN their/PPg voices/NNS beg/VB shrilly/RB ./pct
+In/IN a/AT confused/VBN ,/pct soaked/VBN and/CC stumbling/VBG shift/NN of/IN bodies/NNS and/CC lifting/VBG arms/NNS ,/pct the/AT two/CD men/NNS were/BED dragged/VBN into/IN the/AT same/AP skiff/NN ./pct
+The/AT third/OD crawling/VBG man/NN forced/VBD himself/PPL erect/JJ ./pct
+He/PPS swayed/VBD like/CS a/AT drunkard/NN ,/pct his/PPg arms/NNS milling/VBG in/IN slow/JJ circles/NNS ./pct
+He/PPS paced/VBD forward/RB unsteadily/RB ,/pct leaning/VBG too/QL far/QL back/RB ,/pct his/PPg head/NN tilted/VBD oddly/RB ./pct
+His/PPg steps/NNS were/BED short/JJ and/CC stiff/JJ ,/pct and/CC ,/pct with/IN his/PPg head/NN thrown/VBN back/RB ,/pct his/PPg progress/NN was/BEDZ a/AT supercilious/JJ strut/NN ./pct
+He/PPS appeared/VBD to/TO be/BE peering/VBG haughtily/RB down/IN his/PPg nose/NN at/IN the/AT crowded/VBN and/CC unclean/JJ vessel/NN that/DT would/MD carry/VB him/PPO to/IN freedom/NN ./pct
+He/PPS stalked/VBD into/IN the/AT water/NN and/CC fell/VBD heavily/RB over/IN the/AT side/NN of/IN the/AT flat-bottomed/JJ barge/NN ,/pct his/PPg weight/NN nearly/RB swamping/VBG the/AT craft/NN ./pct
+Watson/NP looked/VBD for/IN the/AT fourth/OD man/NN ./pct
+He/PPS had/HVD reached/VBN the/AT three/CD passive/JJ guards/NNS ;/pct ;/pct
+he/PPS crept/VBD in/IN an/AT incertain/JJ manner/NN ,/pct patting/VBG the/AT ground/NN before/IN him/PPO ./pct
+The/AT guards/NNS did/DOD not/NEG look/VB at/IN him/PPO ./pct
+The/AT figure/NN on/IN the/AT earth/NN halted/VBD ,/pct seemingly/RB bewildered/VBN ./pct
+He/PPS sank/VBD back/RB on/IN his/PPg thin/JJ haunches/NNS like/CS a/AT weary/JJ hound/NN ./pct
+Then/RB he/PPS began/VBD to/TO crawl/VB again/RB ./pct
+Watson/NP watched/VBD the/AT creeping/VBG figure/NN ./pct
+He/PPS felt/VBD a/AT spectator/NN interest/NN ./pct
+Would/MD the/AT man/NN make/VB it/PPO or/CC not/NEG ?/pct ?/pct
+If/CS only/RB there/EX was/BEDZ a/AT clock/NN for/IN him/PPO to/TO crawl/VB against/IN ./pct
+If/CS he/PPS failed/VBD to/TO reach/VB the/AT riverbank/NN in/IN five/CD minutes/NNS ,/pct say/VB ,/pct then/RB the/AT skiffs/NNS would/MD pull/VB away/RB and/CC leave/VB him/PPO groping/VBG in/IN the/AT mud/NN ./pct
+Say/VB three/CD minutes/NNS to/TO make/VB it/PPO sporting/VBG ./pct
+Still/RB the/AT guards/NNS did/DOD not/NEG move/VB ,/pct but/CC stood/VBD inert/JJ ,/pct aloof/JJ from/IN the/AT slow-scrambling/JJ man/NN ./pct
+The/AT figure/NN halted/VBD ,/pct and/CC Watson/NP gasped/VBD ./pct
+The/AT man/NN began/VBD to/TO creep/VB in/IN the/AT wrong/JJ direction/NN ,/pct deceived/VBN by/IN a/AT slight/JJ rise/NN in/IN the/AT ground/NN !/pct !/pct
+He/PPS turned/VBD slowly/RB and/CC began/VBD to/TO crawl/VB back/RB up/IN the/AT bank/NN toward/IN the/AT rampart/NN ./pct
+Watson/NP raced/VBD for/IN him/PPO ,/pct his/PPg boots/NNS slamming/VBG the/AT soft/JJ earth/NN ./pct
+The/AT guards/NNS came/VBD to/IN life/NN with/IN astonishing/JJ menace/NN ./pct
+They/PPSS spun/VBD and/CC flung/VBD their/PPg rifles/NNS up/RP ./pct
+Watson/NP gesticulated/VBD wildly/RB ./pct
+One/CD man/NN dropped/VBD to/IN his/PPg knee/NN for/IN better/JJR aim/NN ./pct
+--/pct Let/VB me/PPO help/VB him/PPO ,/pct for/IN the/AT love/NN of/IN God/NP !/pct !/pct
+The/AT guards/NNS lowered/VBD their/PPg rifles/NNS and/CC their/PPg rifles/NNS and/CC peered/VBD at/IN Watson/NP with/IN sullen/JJ ,/pct puzzled/VBN faces/NNS ./pct
+Watson/NP pounded/VBD to/IN the/AT crawling/VBG man/NN and/CC stopped/VBD ,/pct panting/VBG heavily/RB ./pct
+He/PPS reached/VBD down/RP and/CC closed/VBD his/PPg fingers/NNS on/IN the/AT man's/NNg upper/JJ arm/NN ./pct
+Beneath/IN his/PPg clutch/NN ,/pct a/AT flat/JJ strip/NN of/IN muscle/NN surged/VBD on/IN the/AT bone/NN ./pct
+Watson/NP bent/VBD awkwardly/RB and/CC lifted/VBD the/AT man/NN to/IN his/PPg feet/NNS ./pct
+Watson/NP stared/VBD into/IN a/AT cadaverous/JJ face/NN ./pct
+Two/CD clotted/VBN balls/NNS the/AT color/NN of/IN mucus/NN rolled/VBD between/IN fiery/JJ lids/NNS ./pct
+Light/JJ sticks/NNS of/IN fingers/NNS ,/pct the/AT tips/NNS gummy/JJ with/IN dark/JJ earth/NN ,/pct patted/VBD at/IN Watson's/NPg throat/NN ./pct
+The/AT man's/NNg voice/NN was/BEDZ a/AT sweet/JJ ,/pct patient/JJ whisper/NN ./pct
+--/pct Henry/NP said/VBD that/CS he'd /None take/VB my/PPg arm/NN and/CC get/VB me/PPO right/QL there/RB ./pct
+But/CC you/PPSS ain't /None Henry/NP ./pct
+--/pct no/RB ./pct
+--/pct It/PPS don't /None matter/VB ./pct
+Is/BEZ it/PPS far/RB ?/pct ?/pct
+How/WRB far/RB could/MD it/PPO be/BE ,/pct Watson/NP thought/VBD bleakly/RB ,/pct how/WRB far/RB can/MD a/AT blind/JJ man/NN crawl/VB ?/pct ?/pct
+Another/DT body/NN length/NN or/CC all/ABN the/AT rest/NN of/IN his/PPg nighted/JJ life/NN ?/pct ?/pct
+--/pct Not/NEG far/RB ./pct
+--/pct You/PPSS talk/VB deep/RB ./pct
+Not/NEG like/CS us/PPO fellas/NNS ./pct
+It/PPS raises/VBZ the/AT voice/NN ,/pct bein/BEG in/IN camp/NN ./pct
+You/PPSS Secesh/NP ?/pct ?/pct
+--/pct yes/RB ./pct
+Come/VB on/IN ,/pct now/RB ./pct
+Can/MD you/PPSS walk/VB ?/pct ?/pct
+--/pct Why/WRB ,/pct course/NN I/PPSS can/MD ./pct
+I/PPSS can/MD walk/VB real/QL good/JJ ./pct
+Watson/NP stumbled/VBD down/IN the/AT bank/NN ./pct
+The/AT man/NN leaned/VBD his/PPg frail/JJ body/NN against/IN Watson's/NPg shoulder/NN ./pct
+He/PPS was/BEDZ no/AT heavier/JJR than/CS a/AT child/NN ./pct
+Watson/NP paused/VBD for/IN breath/NN ./pct
+The/AT man/NN wheezed/VBD weakly/RB ,/pct his/PPg fetid/JJ breath/NN beating/VBG softly/RB against/IN Watson's/NPg neck/NN ./pct
+His/PPg sweet/JJ whisper/NN came/VBD after/IN great/JJ effort/NN ./pct
+--/pct Oh/UH ,/pct Christ/UH ./pct
+I/PPSS wish/VB you/PPO was/BEDZ Henry/NP ./pct
+He/PPS promised/VBD to/TO take/VB me/PPO ./pct
+--/pct hush/UH ./pct
+We're /None almost/RB there/RB ./pct
+Watson/NP supported/VBD the/AT man/NN to/IN the/AT edge/NN of/IN the/AT bank/NN and/CC passed/VBD the/AT frail/JJ figure/NN over/IN the/AT bow/NN of/IN the/AT nearest/JJT skiff/NN ./pct
+The/AT man/NN swayed/VBD on/IN a/AT thwart/NN ,/pct turning/VBG his/PPg ruined/VBN eyes/NNS from/IN side/NN to/IN side/NN ./pct
+Watson/NP turned/VBD away/RB ,/pct sickened/VBN for/IN the/AT first/OD time/NN in/IN many/AP months/NNS ./pct
+He/PPS heard/VBD the/AT patient/JJ voice/NN calling/VBG ./pct
+--/pct Henry/NP ?/pct ?/pct
+Where/WRB are/BER you/PPSS ,/pct Henry/NP ?/pct ?/pct
+--/pct Make/VB him/PPO lie/VB down/RP !/pct !/pct
+Watson/NP snatched/VBD a/AT deep/JJ breath/NN ./pct
+He/PPS had/HVD not/NEG meant/VBN to/TO shout/VB ./pct
+He/PPS stood/VBD with/IN his/PPg back/NN to/IN the/AT skiff/NN ./pct
+The/AT men/NNS mewed/VBD and/CC scratched/VBD ,/pct begging/VBG to/TO be/BE taken/VBN away/RB ./pct
+Watson/NP spoke/VBD bewilderedly/RB to/IN the/AT dark/JJ night/NN flecked/VBN with/IN pine-knot/NN torches/NNS ./pct
+--/pct Goddamn/VB you/PPO !/pct !/pct
+What/WDT do/DO you/PPO do/DO to/IN them/PPO ?/pct ?/pct
+Intelligence/NN jabbed/VBD at/IN him/PPO accusingly/RB ./pct
+He/PPS was/BEDZ angry/JJ ,/pct sickened/VBN ./pct
+He/PPS had/HVD not/NEG felt/VBN that/CS during/IN the/AT afternoon/NN ./pct
+No/RB ,/pct nor/CC later/RBR ./pct
+All/ABN his/PPg emotions/NNS had/HVD been/BEN inward/RB ,/pct self-conscious/JJ ./pct
+In/IN war/NN ,/pct on/IN a/AT night/NN like/CS this/DT ,/pct it/PPS was/BEDZ only/RB the/AT outward/RB emotions/NNS that/WPS mattered/VBD ,/pct what/WDT could/MD be/BE flung/VBN out/RP into/IN the/AT darkness/NN to/TO damage/VB others/NNS ./pct
+Yes/RB ./pct
+That/DT was/BEDZ it/PPS ./pct
+He/PPS was/BEDZ sure/JJ of/IN it/PPO ./pct
+John's/NPg type/NN of/IN man/NN allowed/VBD this/DT sort/NN of/IN thing/NN to/TO happen/VB ./pct
+What/WDT a/AT fool/NN he/PPS had/HVD been/BEN to/TO think/VB of/IN his/PPg brother/NN !/pct !/pct
+So/RB Charles/NP was/BEDZ dead/JJ ./pct
+What/WDT did/DOD it/PPS matter/VB ?/pct ?/pct
+His/PPg name/NN had/HVD been/BEN crossed/VBN off/IN a/AT list/NN ./pct
+Already/RB his/PPg cool/JJ body/NN lay/VBD in/IN the/AT ground/NN ./pct
+What/WDT words/NNS had/HVD any/DTI meaning/NN ?/pct ?/pct
+What/WDT had/HVD he/PPS thought/VBN of/IN ,/pct to/TO go/VB to/IN John/NP ,/pct grovel/VB and/CC beg/VB understanding/NN ?/pct ?/pct
+To/TO confess/VB with/IN a/AT canvas/NN chair/NN as/CS a/AT prie-dieu/NN ,/pct gouging/VBG at/IN his/PPg heart/NN until/CS a/AT rough/JJ and/CC stupid/JJ hand/NN bade/VBD him/PPO rise/VB and/CC go/VB ?/pct ?/pct
+Men/NNS were/BED slaughtered/VBN every/AT day/NN ,/pct tumbled/VBN into/IN eternity/NN like/CS so/QL many/AP torn/VBN parcels/NNS flung/VBN down/IN a/AT portable/JJ chute/NN ./pct
+What/WDT made/VBD him/PPO think/VB John/NP had/HVD a/AT right/NN to/TO witness/VB his/PPg brother's/NNg humiliation/NN ?/pct ?/pct
+What/WDT right/NN had/HVD John/NP to/IN any/DTI special/JJ consideration/NN ?/pct ?/pct
+Was/BEDZ John/NP better/JJR ,/pct more/QL deserving/JJ ?/pct ?/pct
+To/IN hell/NN with/IN John/NP ./pct
+Let/VB him/PPO chafe/VB with/IN impatience/NN to/TO see/VB Charles/NP ,/pct rip/VB open/JJ the/AT note/NN with/IN trembling/VBG hands/NNS and/CC read/VB the/AT formal/JJ report/NN in/IN Hillman's/NPg beautiful/JJ ,/pct schoolmaster's/NNg hand/NN ./pct
+John/NP would/MD curse/VB ./pct
+He/PPS believed/VBD that/CS brave/JJ boys/NNS didn't /None cry/VB ./pct
+Watson/NP spat/VBD on/IN the/AT ground/NN ./pct
+He/PPS was/BEDZ grimly/RB satisfied/VBN ./pct
+He/PPS had/HVD stupidly/RB thought/VBN himself/PPL compelled/VBN to/IN ease/VB his/PPg brother's/NNg pain/NN ./pct
+Now/RB he/PPS knew/VBD perfectly/RB that/CS he/PPS had/HVD but/IN longed/VBN to/TO increase/VB his/PPg own/JJ suffering/NN ./pct

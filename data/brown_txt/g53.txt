@@ -1,0 +1,102 @@
+Samuel/NP Gorton/NP ,/pct founder/NN of/IN Warwick/NP ,/pct was/BEDZ styled/VBN by/IN the/AT historian/NN Samuel/NP Greene/NP Arnold/NP ``/pct one/CD of/IN the/AT most/QL remarkable/JJ men/NNS who/WPS ever/RB lived/VBD ''/pct ./pct
+A/AT biographer/NN called/VBD him/PPO ``/pct the/AT premature/JJ John/NP the/AT Baptist/NP of/IN New/JJ England/NP Transcendentalism/NN ''/pct ./pct
+The/AT historian/NN Charles/NP Francis/NP Adams/NP called/VBD him/PPO ``/pct a/AT crude/JJ and/CC half-crazy/JJ thinker/NN ''/pct ./pct
+His/PPg contemporaries/NNS in/IN Massachusetts/NP called/VBD him/PPO an/AT arch-heretic/NN ,/pct a/AT beast/NN ,/pct a/AT miscreant/NN ,/pct a/AT proud/JJ and/CC pestilent/JJ seducer/NN ,/pct a/AT prodigious/JJ minter/NN of/IN exorbitant/JJ novelties/NNS ./pct
+Edward/NP Rawson/NP ,/pct secretary/NN of/IN the/AT colony/NN of/IN Massachusetts/NP Bay/NN ,/pct described/VBD him/PPO as/CS ``/pct a/AT man/NN whose/WPg spirit/NN was/BEDZ stark/QL drunk/JJ with/IN blasphemies/NNS and/CC insolence/NN ,/pct a/AT corrupter/NN of/IN the/AT truth/NN ,/pct a/AT disturber/NN of/IN the/AT peace/NN wherever/WRB he/PPS comes/VBZ ''/pct ./pct
+Nathaniel/NP Morton/NP stated/VBD he/PPS ``/pct was/BEDZ deeply/RB leavened/VBN with/IN blasphemous/JJ and/CC familistical/JJ opinions/NNS ''/pct ./pct
+He/PPS was/BEDZ thrown/VBN out/RP ,/pct more/RBR or/CC less/RBR ,/pct from/IN Boston/NP ,/pct Plymouth/NP ,/pct Pocasset/NP ,/pct Newport/NP ,/pct and/CC Providence/NP ./pct
+On/IN the/AT other/AP hand/NN ,/pct Dr./NN Ezra/NP Styles/NP recorded/VBD the/AT following/VBG testimony/NN of/IN John/NP Angell/NP ,/pct the/AT last/AP disciple/NN of/IN Gorton/NP :/pct ``/pct
+He/PPS said/VBD Gorton/NP was/BEDZ a/AT holy/JJ man/NN ;/pct ;/pct
+wept/VBD day/NN and/CC night/NN for/CS the/AT sins/NNS and/CC blindness/NN of/IN the/AT world/NN had/HVD a/AT long/JJ walk/NN through/IN the/AT trees/NNS and/CC woods/NNS by/IN his/PPg house/NN ,/pct where/WRB he/PPS constantly/RB walked/VBD morning/NN and/CC evening/NN ,/pct and/CC even/RB in/IN the/AT depths/NNS of/IN the/AT night/NN ,/pct alone/RB by/IN himself/PPL ,/pct for/IN contemplation/NN and/CC the/AT enjoyment/NN of/IN the/AT dispensation/NN of/IN light/NN ./pct
+He/PPS was/BEDZ universally/QL beloved/JJ by/IN his/PPg neighbours/NNS ,/pct and/CC the/AT Indians/NPS ,/pct who/WPS esteemed/VBD him/PPO ,/pct not/NEG only/RB as/CS a/AT friend/NN ,/pct but/CC one/CD high/JJ in/IN communion/NN with/IN God/NP in/IN Heaven/NN ''/pct ./pct
+Gorton/NP sometimes/RB signed/VBD himself/PPL ``/pct a/AT professor/NN of/IN the/AT mysteries/NNS of/IN Christ/NP ''/pct ./pct
+There/EX is/BEZ plenty/NN more/AP to/TO recommend/VB Gorton/NP ,/pct the/AT facts/NNS of/IN whose/WPg life/NN are/BER given/VBN in/IN The/AT Life/NN And/CC Times/NNS Of/IN Samuel/NP Gorton/NP ,/pct by/IN Adelos/NP Gorton/NP ./pct
+He/PPS fought/VBD like/CS a/AT fiend/NN for/IN the/AT helpless/JJ and/CC oppressed/VBN ,/pct worked/VBD for/IN the/AT abolition/NN of/IN slavery/NN ,/pct helped/VBD the/AT Quakers/NPS and/CC Indians/NPS ,/pct and/CC worked/VBD against/IN the/AT prosecution/NN of/IN witches/NNS ./pct
+He/PPS defied/VBD the/AT Boston/NP hierarchy/NN ,/pct and/CC after/CS they/PPSS sent/VBD a/AT small/JJ army/NN to/TO get/VB him/PPO he/PPS befuddled/VBD the/AT court/NN ,/pct including/IN John/NP Cotton/NP ,/pct with/IN one/CD of/IN the/AT most/QL complicated/VBN religious/JJ discourses/NNS ever/RB heard/VBN ./pct
+Samuel/NP Gorton/NP was/BEDZ born/VBN at/IN Gorton/NP ,/pct England/NP ,/pct near/IN the/AT present/JJ city/NN of/IN Manchester/NP ,/pct about/RB 1592/CD ./pct
+Although/CS he/PPS did/DOD not/NEG attend/VB any/DTI celebrated/VBN schools/NNS or/CC universities/NNS ,/pct he/PPS was/BEDZ a/AT master/NN of/IN Greek/NP and/CC Hebrew/NP and/CC could/MD read/VB the/AT Bible/NP in/IN the/AT original/NN ./pct
+He/PPS worked/VBD as/CS a/AT ``/pct clothier/NN ''/pct in/IN London/NP ,/pct but/CC was/BEDZ greatly/RB concerned/VBN with/IN religion/NN ./pct
+Gorton/NP left/VBD England/NP ,/pct he/PPS said/VBD ,/pct ``/pct to/TO enjoy/VB libertie/NN of/IN conscience/NN in/IN respect/NN to/IN faith/NN towards/IN God/NP ,/pct and/CC for/IN no/AT other/AP end/NN ''/pct ./pct
+With/IN his/PPg wife/NN and/CC three/CD or/CC more/AP children/NNS he/PPS arrived/VBD in/IN Boston/NP in/IN March/NP ,/pct 1637/CD ,/pct and/CC soon/RB found/VBD it/PPS was/BEDZ no/AT place/NN for/IN anyone/PN looking/VBG for/IN liberty/NN of/IN conscience/NN ./pct
+Roger/NP Williams/NP had/HVD recently/RB been/BEN thrown/VBN out/RP ,/pct and/CC Anne/NP Hutchinson/NP and/CC her/PPg Antinomians/NPS were/BED slugging/VBG it/PPO out/RP with/IN the/AT powers-that-be/NNS ./pct
+Gorton/NP and/CC his/PPg family/NN moved/VBD to/IN Plymouth/NP ./pct
+Soon/RB he/PPS was/BEDZ in/IN trouble/NN there/RB ,/pct for/IN defending/VBG a/AT woman/NN who/WPS was/BEDZ accused/VBN of/IN smiling/VBG in/IN church/NN ./pct
+She/PPS was/BEDZ Ellen/NP Aldridge/NP ,/pct a/AT widow/NN of/IN good/JJ repute/NN who/WPS was/BEDZ employed/VBN by/IN Gorton's/NPg wife/NN and/CC lived/VBD with/IN the/AT family/NN ./pct
+The/AT report/NN was/BEDZ :/pct ``/pct
+It/PPS had/HVD been/BEN whispered/VBN privately/RB that/CS she/PPS had/HVD smiled/VBN in/IN the/AT congregation/NN ,/pct and/CC the/AT Governor/NN Prence/NP sent/VBD to/TO knoe/VB her/PPg business/NN ,/pct and/CC command/VB ,/pct after/IN punishment/NN as/CS the/AT bench/NN see/VB fit/VBN ,/pct her/PPg departure/NN and/CC also/RB anyone/PN who/WPS brought/VBD her/PPO to/IN the/AT place/NN from/IN which/WDT she/PPS came/VBD '/pct ''/pct ./pct
+Gorton/NP said/VBD they/PPSS were/BED preparing/VBG to/TO deport/VB her/PPO as/CS a/AT vagabond/NN ,/pct and/CC to/TO escape/VB the/AT shame/NN she/PPS fled/VBD to/IN the/AT woods/NNS for/IN several/AP days/NNS ,/pct returning/VBG at/IN night/NN ./pct
+He/PPS advised/VBD the/AT poor/JJ woman/NN not/NEG to/TO appear/VB in/IN court/NN as/CS what/WDT she/PPS was/BEDZ charged/VBN with/IN was/BEDZ not/NEG in/IN violation/NN of/IN law/NN ./pct
+Gorton/NP appeared/VBD for/IN her/PPO ,/pct however/RB ,/pct and/CC what/WDT he/PPS told/VBD the/AT magistrates/NNS must/MD have/HV been/BEN plenty/NN ,/pct for/CS he/PPS was/BEDZ charged/VBN with/IN deluding/VBG the/AT court/NN ,/pct fined/VBN ,/pct and/CC told/VBN to/TO leave/VB the/AT colony/NN within/IN fourteen/CD days/NNS ./pct
+He/PPS left/VBD in/IN a/AT storm/NN for/IN Pocasset/NP ,/pct December/NP 4/CD ,/pct 1638/CD ./pct
+His/PPg wife/NN was/BEDZ in/IN delicate/JJ health/NN and/CC nursing/VBG an/AT infant/NN with/IN measles/NN ./pct
+The/AT unconquerable/JJ Mrs./NP Hutchinson/NP was/BEDZ residing/VBG at/IN Pocasset/NP ,/pct after/CS having/HVG been/BEN excommunicated/VBN by/IN the/AT Boston/NP church/NN and/CC thrown/VBN out/IN of/IN the/AT colony/NN ./pct
+One/PN can/MD imagine/VB that/CS with/IN her/PPO and/CC Gorton/NP there/RB it/PPS was/BEDZ no/AT place/NN for/IN anyone/PN with/IN weak/JJ nerves/NNS ./pct
+William/NP Coddington/NP ,/pct who/WPS was/BEDZ running/VBG the/AT colony/NN ,/pct felt/VBD constrained/VBN to/TO move/VB seven/CD miles/NNS south/NR where/WRB ,/pct with/IN others/NNS --/pct as/CS mentioned/VBN above/RB --/pct he/PPS founded/VBD Newport/NP ./pct
+When/WRB ,/pct in/IN March/NP ,/pct 1640/CD ,/pct the/AT two/CD towns/NNS were/BED united/VBN under/IN Coddington/NP ,/pct Gorton/NP claimed/VBD the/AT union/NN was/BEDZ irregular/JJ and/CC illegally/RB constituted/VBN and/CC that/CS it/PPS had/HVD never/RB been/BEN sanctioned/VBN by/IN the/AT majority/NN of/IN freeholders/NNS ./pct
+Then/RB he/PPS became/VBD involved/VBN in/IN a/AT ruckus/NN remarkably/QL similar/JJ to/IN the/AT one/CD in/IN Plymouth/NP ./pct
+A/AT cow/NN owned/VBN by/IN an/AT old/JJ woman/NN trespassed/VBD on/IN Gorton's/NPg land/NN ./pct
+While/CS driving/VBG the/AT cow/NN back/RB home/NR the/AT woman/NN was/BEDZ assaulted/VBN by/IN a/AT servant/NN maid/NN of/IN Gorton/NP ./pct
+The/AT old/JJ woman/NN complained/VBD to/IN the/AT deputy/NN governor/NN ,/pct who/WPS ordered/VBD the/AT servant/NN brought/VBN before/IN the/AT court/NN ./pct
+Gorton/NP reverted/VBD to/IN his/PPg Plymouth/NP tactics/NNS ,/pct refused/VBD to/TO let/VB her/PPO go/VB ,/pct and/CC appeared/VBD himself/PPL before/IN the/AT Portsmouth/NP grand/JJ jury/NN ./pct
+During/IN the/AT trial/NN he/PPS told/VBD off/RP the/AT jury/NN ,/pct called/VBD them/PPO ``/pct Just/JJ Asses/NNS ''/pct and/CC called/VBD a/AT freeman/NN ``/pct a/AT saucy/JJ boy/NN and/CC Jack-an-Apes/NP ''/pct ./pct
+He/PPS was/BEDZ jailed/VBN and/CC banished/VBN ./pct
+Gorton/NP then/RB moved/VBD to/IN Providence/NP and/CC soon/RB put/VBD the/AT town/NN in/IN a/AT turmoil/NN ./pct
+He/PPS held/VBD that/CS no/AT group/NN of/IN colonists/NNS could/MD set/VB up/RP or/CC maintain/VB a/AT government/NN without/IN royal/JJ sanction/NN ./pct
+Since/CS Rhode/NP Island/NN at/IN that/DT time/NN did/DOD not/NEG have/HV such/JJ sanction/NN ,/pct his/PPg opinion/NN was/BEDZ not/NEG popular/JJ ./pct
+Roger/NP Williams/NP wrote/VBD his/PPg friend/NN Winthrop/NP as/CS follows/VBZ :/pct ``/pct
+Master/NN Gorton/NP ,/pct having/HVG foully/RB abused/VBN high/JJ and/CC low/JJ at/IN Aquidneck/NP is/BEZ now/RB bewitching/VBG and/CC bemaddening/VBG poor/JJ Providence/NP ,/pct both/ABX with/IN his/PPg unclean/JJ and/CC foul/JJ censures/NNS of/IN all/ABN the/AT ministers/NNS of/IN this/DT country/NN (/pct for/IN which/WDT myself/PPL have/HV in/IN Christ's/NPg name/NN withstood/VBN him/PPO )/pct ,/pct and/CC also/RB denying/VBG all/QL visible/JJ and/CC external/JJ ordinances/NNS in/IN depth/NN of/IN Familism/NP :/pct almost/QL all/ABN suck/VB in/RP his/PPg poison/NN ,/pct as/CS at/IN first/RB they/PPSS did/DOD at/IN Aquidneck/NP ./pct
+Some/DTI few/AP and/CC myself/PPL withstand/VB his/PPg inhabitation/NN and/CC town/NN privileges/NNS ,/pct without/IN confession/NN and/CC reformation/NN of/IN his/PPg uncivil/JJ and/CC inhuman/JJ practices/NNS at/IN Portsmouth/NP ;/pct ;/pct
+yet/CC the/AT tide/NN is/BEZ too/QL strong/JJ against/IN us/PPO ,/pct and/CC I/PPSS fear/VB (/pct if/CS the/AT framer/NN of/IN hearts/NNS help/VB not/NEG )/pct it/PPS will/MD force/VB me/PPO to/IN little/AP Patience/NP ,/pct a/AT little/JJ isle/NN next/IN to/IN your/PPg Prudence/NP ''/pct ./pct
+Williams/NP also/RB stated/VBD :/pct ``/pct Our/PPg peace/NN was/BEDZ like/CS the/AT peace/NN of/IN a/AT man/NN who/WPS hath/HVZ the/AT tertian/NN ague/NN ''/pct ./pct
+Providence/NP finally/RB managed/VBD to/TO get/VB Gorton/NP out/IN of/IN the/AT town/NN ,/pct and/CC he/PPS and/CC some/DTI friends/NNS bought/VBD land/NN at/IN Pawtuxet/NP on/IN the/AT west/JJ side/NN of/IN Narragansett/NP Bay/NN ,/pct five/CD miles/NNS south/NR but/CC still/RB within/IN the/AT jurisdiction/NN of/IN the/AT Providence/NP colony/NN ./pct
+This/DT town/NN should/MD not/NEG be/BE confused/VBN with/IN Pawtucket/NP ,/pct just/RB north/NR of/IN Providence/NP ,/pct or/CC Pawcatuck/NP ,/pct Connecticut/NP ,/pct on/IN the/AT Pawcatuck/NP River/NN ,/pct opposite/IN Westerly/NP ,/pct Rhode/NP Island/NN ./pct
+Up/IN to/IN now/RB ,/pct Gorton/NP had/HVD been/BEN looking/VBG for/IN trouble/NN ,/pct and/CC now/RB that/CS he/PPS was/BEDZ trying/VBG to/TO get/VB away/RB from/IN it/PPO ,/pct trouble/NN started/VBD looking/VBG for/IN him/PPO ./pct
+Upon/IN intelligence/NN that/CS the/AT formidable/JJ agitator/NN was/BEDZ to/TO favor/VB them/PPO with/IN his/PPg presence/NN ,/pct the/AT benighted/JJ inhabitants/NNS of/IN Pawtuxet/NP ,/pct alas/UH ,/pct gave/VBD their/PPg allegiance/NN to/IN Massachusetts/NP and/CC asked/VBD that/DT colony/NN to/TO expel/VB the/AT newcomers/NNS ./pct
+As/CS it/PPS was/BEDZ the/AT custom/NN of/IN that/DT alert/JJ colony/NN to/TO take/VB over/RP the/AT property/NN of/IN persons/NNS asking/VBG for/IN protection/NN ,/pct this/DT was/BEDZ an/AT act/NN roughly/QL equivalent/JJ to/IN throwing/VBG open/JJ the/AT door/NN to/IN a/AT pack/NN of/IN wolves/NNS and/CC saying/VBG ``/pct Come/VB and/CC get/VB it/PPO ''/pct ./pct
+Gorton/NP and/CC company/NN ,/pct however/RB ,/pct promptly/RB bought/VBD land/NN from/IN Miantonomi/NP a/AT few/AP miles/NNS south/NR of/IN Pawtuxet/NP ,/pct extending/VBG from/IN the/AT present/JJ Gaspee/NP Point/NN south/NR to/IN Warwick/NP Neck/NP and/CC twenty/CD miles/NNS inland/RB ./pct
+The/AT settlement/NN was/BEDZ called/VBN Shawomet/NP ./pct
+It/PPS was/BEDZ not/NEG within/IN the/AT jurisdiction/NN of/IN anybody/PN or/CC anything/PN ,/pct including/IN Providence/NP and/CC Massachusetts/NP ./pct
+If/CS Gorton/NP wanted/VBD peace/NN and/CC quiet/NN for/IN his/PPg complicated/VBN meditations/NNS this/DT is/BEZ where/WRB he/PPS should/MD have/HV had/HVN it/PPO ./pct
+Instead/RB of/IN that/DT he/PPS was/BEDZ engulfed/VBN by/IN bedlam/NN ./pct
+Pomham/NP and/CC Soconoco/NP ,/pct a/AT couple/NN of/IN minor/JJ sachems/NNS (/pct of/IN something/PN less/AP than/CS exalted/VBN character/NN )/pct under/IN Miantonomi/NP ,/pct declared/VBD that/CS they/PPSS had/HVD never/RB assented/VBN to/IN the/AT sale/NN of/IN land/NN to/IN Gorton/NP and/CC had/HVD never/RB received/VBN anything/PN for/IN it/PPO ./pct
+Following/VBG the/AT glorious/JJ lead/NN of/IN the/AT heroes/NNS of/IN Pawtuxet/NP ,/pct they/PPSS also/RB submitted/VBD themselves/PPLS to/IN the/AT protection/NN of/IN Massachusetts/NP ./pct
+One/CD historical/JJ authority/NN presents/VBZ laborious/JJ and/CC circuitous/JJ testimony/NN tending/VBG to/TO arouse/VB suspicion/NN that/CS Massachusetts/NP was/BEDZ behind/IN the/AT clouds/NNS settling/VBG down/RP on/IN the/AT embattled/VBN Gorton/NP ./pct
+However/RB ,/pct the/AT General/NN Court/NN at/IN Boston/NP ordered/VBD the/AT purchasers/NNS of/IN Shawomet/NP to/TO appear/VB before/IN them/PPO to/TO answer/VB the/AT sachems'/NNSg claim/NN ./pct
+The/AT purchasers/NNS rejected/VBD the/AT order/NN in/IN two/CD letters/NNS written/VBN in/IN vigorous/JJ terms/NNS ./pct
+Then/RB Massachusetts/NP switched/VBD to/IN its/PPg standard/JJ tactics/NNS ./pct
+It/PPS pointed/VBD out/RP twenty-six/CD instances/NNS of/IN blasphemy/NN in/IN the/AT letters/NNS ,/pct and/CC ordered/VBD the/AT writers/NNS to/TO submit/VB or/CC force/NN of/IN arms/NNS would/MD be/BE used/VBN ./pct
+The/AT next/AP week/NN ,/pct forty/CD soldiers/NNS were/BED sent/VBN to/TO get/VB the/AT miscreants/NNS ./pct
+The/AT latter/AP tried/VBD to/TO arbitrate/VB through/IN a/AT delegation/NN from/IN Providence/NP ,/pct which/WDT offer/NN was/BEDZ declined/VBN by/IN the/AT invaders/NNS ./pct
+The/AT Commissioners/NNS at/IN Boston/NP wrote/VBD the/AT victims/NNS to/TO see/VB their/PPg misdeeds/NNS and/CC repent/VB or/CC they/PPSS should/MD ``/pct look/VB upon/RB them/PPO as/CS men/NNS prepared/VBN for/IN slaughter/NN ''/pct ./pct
+At/IN Shawomet/NP ,/pct women/NNS and/CC children/NNS fled/VBD in/IN terror/NN across/IN the/AT Bay/NN ./pct
+The/AT men/NNS fortified/VBD a/AT blockhouse/NN and/CC got/VBD ready/JJ to/TO fight/VB ,/pct but/CC meanwhile/RB appealed/VBD to/IN the/AT King/NN and/CC again/RB tried/VBD to/TO arbitrate/VB ./pct
+Gorton/NP evidently/RB still/RB had/HVD plenty/NN to/TO learn/VB about/IN Massachusetts/NP ,/pct but/CC he/PPS was/BEDZ learning/VBG fast/RB ./pct
+Governor/NN Winthrop/NP wrote/VBD :/pct ``/pct
+You/PPSS may/MD do/DO well/RB to/TO take/VB notice/NN ,/pct that/CS besides/RB the/AT title/NN to/IN land/NN between/IN the/AT English/NPS and/CC the/AT Indians/NPS there/RB ,/pct there/EX are/BER twelve/CD of/IN the/AT English/NPS that/WPS have/HV subscribed/VBN their/PPg names/NNS to/IN horrible/JJ and/CC detestable/JJ blasphemies/NNS ,/pct who/WPS are/BER rather/RB to/TO be/BE judged/VBN as/QL blasphemous/JJ than/CS they/PPSS should/MD delude/VB us/PPO by/IN winning/VBG time/NN under/IN pretence/NN of/IN arbitration/NN ''/pct ./pct
+The/AT attack/NN started/VBD on/IN October/NP 2/CD ,/pct 1643/CD ,/pct and/CC the/AT Gortonists/NPS held/VBD out/RP for/IN a/AT day/NN and/CC a/AT night/NN ./pct
+The/AT attackers/NNS sent/VBD for/IN more/AP soldiers/NNS ,/pct and/CC the/AT defenders/NNS ,/pct to/TO save/VB bloodshed/NN ,/pct surrendered/VBD under/IN the/AT promise/NN that/CS they/PPSS would/MD be/BE treated/VBN as/CS neighbors/NNS ./pct
+Promptly/RB their/PPg livestock/NN was/BEDZ taken/VBN and/CC according/IN to/IN Gorton/NP the/AT soldiers/NNS were/BED ordered/VBN to/TO knock/VB down/RP anyone/PN who/WPS should/MD utter/VB a/AT word/NN of/IN insolence/NN ,/pct and/CC run/VB through/IN anyone/PN who/WPS might/MD step/VB out/IN of/IN line/NN ./pct
+When/WRB the/AT captives/NNS arrived/VBD in/IN Boston/NP ,/pct ``/pct the/AT chaplain/NN (/pct of/IN their/PPg captors/NNS )/pct went/VBD to/IN prayers/NNS in/IN the/AT open/JJ streets/NNS ,/pct that/CS the/AT people/NNS might/MD take/VB notice/NN what/WDT they/PPSS had/HVD done/VBN in/IN a/AT holy/JJ manner/NN ,/pct and/CC in/IN the/AT name/NN of/IN the/AT Lord/NN ''/pct ./pct
+Gorton/NP and/CC ten/CD of/IN his/PPg friends/NNS were/BED thrown/VBN in/IN jail/NN ./pct
+On/IN Sunday/NR they/PPSS refused/VBD to/TO attend/VB church/NN ./pct
+The/AT magistrates/NNS were/BED determined/VBN to/TO compel/VB them/PPO ./pct
+The/AT prisoners/NNS agreed/VBD ,/pct provided/VBN they/PPSS might/MD speak/VB after/IN the/AT sermon/NN ,/pct which/WDT was/BEDZ permitted/VBN ./pct
+Here/RB was/BEDZ Gorton's/NPg chance/NN to/TO indulge/VB in/IN something/PN at/IN which/WDT he/PPS was/BEDZ supreme/JJ ./pct
+The/AT Boston/NP elders/NNS were/BED great/JJ at/IN befuddling/VBG the/AT opposition/NN with/IN torrents/NNS of/IN ecclesiastical/JJ obscurities/NNS ,/pct but/CC Gorton/NP was/BEDZ better/JJR ./pct
+Reverend/NP Cotton/NN preached/VBD to/IN them/PPO about/IN Demetrius/NP and/CC the/AT shrines/NNS of/IN Ephesus/NP ./pct
+Gorton/NP replied/VBD with/IN blasts/NNS that/WPS scandalized/VBD the/AT congregation/NN ./pct
+At/IN the/AT trial/NN which/WDT took/VBD place/NN later/RBR ,/pct the/AT Pomham/NP matter/NN was/BEDZ completely/RB omitted/VBN ./pct
+The/AT Gortonists/NPS were/BED charged/VBN with/IN blasphemy/NN and/CC tried/VBN for/IN their/PPg lives/NNS ./pct
+Four/CD ecclesiastical/JJ questions/NNS were/BED presented/VBN by/IN the/AT General/NN Court/NN to/IN Gorton/NP :/pct ``/pct 1/CD ./pct
+Whether/CS the/AT Fathers/NNS ,/pct who/WPS died/VBD before/CS Christ/NP was/BEDZ born/VBN of/IN the/AT Virgin/NN Mary/NP ,/pct were/BED justified/VBN and/CC saved/VBN only/RB by/IN the/AT blood/NN which/WDT he/PPS shed/VBD ,/pct and/CC the/AT death/NN which/WDT he/PPS suffered/VBD after/IN his/PPg incarnation/NN ?/pct ?/pct
+2/CD ./pct
+Whether/CS the/AT only/AP price/NN of/IN our/PPg redemption/NN were/BED not/NEG the/AT death/NN of/IN Christ/NP on/IN the/AT cross/NN ,/pct with/IN the/AT rest/NN of/IN his/PPg sufferings/NNS and/CC obediences/NNS ,/pct in/IN the/AT time/NN of/IN his/PPg life/NN here/RB ,/pct after/CS he/PPS was/BEDZ born/VBN of/IN the/AT Virgin/NN Mary/NP ?/pct ?/pct
+3/CD ./pct
+Who/WPS was/BEDZ the/AT God/NP whom/WPO he/PPS thinke/VB we/PPSS serve/VB ?/pct ?/pct
+4/CD ./pct
+What/WDT he/PPS means/VBZ when/WRB he/PPS saith/VBZ ,/pct wee/PPSS worship/VB the/AT starre/NN of/IN our/PPg God/NP Remphan/NP ,/pct Chion/NP ,/pct Moloch/NP ''/pct ?/pct ?/pct
+Gorton/NP answered/VBD in/IN writing/VBG ./pct
+All/ABN of/IN the/AT elders/NNS except/IN three/CD voted/VBD for/IN death/NN ,/pct but/CC a/AT majority/NN of/IN the/AT deputies/NNS refused/VBD to/TO sanction/VB the/AT sentence/NN ./pct
+Seven/CD of/IN the/AT prisoners/NNS were/BED sentenced/VBN to/TO be/BE confined/VBN in/IN irons/NNS for/IN as/QL long/RB as/CS it/PPS pleased/VBD the/AT court/NN ,/pct set/VBD to/IN work/NN and/CC ,/pct if/CS they/PPSS broke/VBD jail/NN or/CC proclaimed/VBD heresy/NN ,/pct to/TO be/BE executed/VBN if/CS convicted/VBN ./pct
+The/AT three/CD others/NNS got/VBD off/RP easier/RBR ./pct
+The/AT convicts/NNS were/BED put/VBN in/IN chains/NNS ,/pct paraded/VBN before/IN the/AT congregation/NN at/IN the/AT Reverend/NP Cotton's/NPg lecture/NN as/CS an/AT example/NN ,/pct and/CC sent/VBN to/IN prisons/NNS in/IN various/JJ towns/NNS ,/pct where/WRB they/PPSS languished/VBD all/ABN winter/NN ,/pct chains/NNS included/VBN ./pct

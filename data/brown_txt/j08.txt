@@ -1,0 +1,112 @@
+Biological/JJ warfare/NN
+Biological/JJ warfare/NN is/BEZ the/AT intentional/JJ use/NN of/IN living/VBG microorganisms/NNS or/CC their/PPg toxic/JJ products/NNS for/IN the/AT purpose/NN of/IN destroying/VBG or/CC reducing/VBG the/AT military/JJ effectiveness/NN of/IN man/NN ./pct
+It/PPS is/BEZ the/AT exploitation/NN of/IN the/AT inherent/JJ potential/NN of/IN infectious/JJ disease/NN agents/NNS by/IN scientific/JJ research/NN and/CC development/NN ,/pct resulting/VBG in/IN the/AT production/NN of/IN BW/NN weapons/NNS systems/NNS ./pct
+Man/NN may/MD also/RB be/BE injured/VBN secondarily/RB by/IN damage/NN to/IN his/PPg food/NN crops/NNS or/CC domestic/JJ animals/NNS ./pct
+Biological/JJ warfare/NN is/BEZ considered/VBN to/TO be/BE primarily/RB a/AT strategic/JJ weapon/NN ./pct
+The/AT major/JJ reason/NN for/IN this/DT is/BEZ that/CS it/PPS has/HVZ no/AT quick-kill/NN effect/NN ./pct
+The/AT incubation/NN period/NN of/IN infectious/JJ disease/NN ,/pct plus/IN a/AT variable/JJ period/NN of/IN illness/NN even/RB before/IN a/AT lethal/JJ effect/NN ,/pct render/VB this/DT weapon/NN unsuitable/JJ for/IN hand-to-hand/JJ encounter/NN ./pct
+A/AT man/NN can/MD be/BE an/AT effective/JJ fighting/VBG machine/NN throughout/IN the/AT incubation/NN period/NN of/IN most/AP infectious/JJ diseases/NNS ./pct
+Thus/RB ,/pct an/AT enemy/NN would/MD probably/RB use/VB this/DT weapon/NN for/IN attack/NN on/IN static/JJ population/NN centers/NNS such/JJ as/CS large/JJ cities/NNS ./pct
+An/AT important/JJ operational/JJ procedure/NN in/IN BW/NN for/IN an/AT enemy/NN would/MD be/BE to/TO create/VB an/AT areosol/NN or/CC cloud/NN of/IN agent/NN over/IN the/AT target/NN area/NN ./pct
+This/DT concept/NN has/HVZ stimulated/VBN much/AP basic/JJ research/NN concerning/IN the/AT behavior/NN of/IN particulate/JJ biological/JJ materials/NNS ,/pct the/AT pathogenesis/NN of/IN respiratory/JJ infections/NNS ,/pct the/AT medical/JJ management/NN of/IN such/JJ diseases/NNS and/CC defense/NN against/IN their/PPg occurrence/NN ./pct
+The/AT biological/JJ and/CC physical/JJ properties/NNS of/IN infectious/JJ particles/NNS have/HV been/BEN studied/VBN intensively/RB during/IN the/AT past/AP fifteen/CD years/NNS ./pct
+Much/AP new/JJ equipment/NN and/CC many/AP unique/JJ techniques/NNS have/HV been/BEN developed/VBN for/IN the/AT quantitative/JJ exposure/NN of/IN experimental/JJ animals/NNS to/IN aerosols/NNS of/IN infectious/JJ agents/NNS contained/VBN in/IN particles/NNS of/IN specified/VBN dimensional/JJ characteristics/NNS ./pct
+Much/AP information/NN has/HVZ been/BEN gathered/VBN relative/JJ to/IN quantitative/JJ sampling/NN and/CC assesment/NN techniques/NNS ./pct
+Much/AP of/IN the/AT older/JJR experimental/JJ work/NN on/IN respiratory/JJ infections/NNS was/BEDZ accomplished/VBN by/IN very/QL artificial/JJ procedures/NNS ./pct
+The/AT intranasal/JJ instillation/NN of/IN a/AT fluid/NN suspension/NN of/IN infectious/JJ agent/NN in/IN an/AT anesthetized/VBN animal/NN is/BEZ far/QL different/JJ from/IN exposure/NN ,/pct through/IN natural/JJ respiration/NN ,/pct to/IN aerosolized/VBN organisms/NNS ./pct
+The/AT importance/NN of/IN particle/NN size/NN in/IN such/JJ aerosols/NNS has/HVZ been/BEN thoroughly/RB demonstrated/VBN ./pct
+The/AT natural/JJ anatomical/JJ and/CC physiological/JJ defensive/JJ features/NNS of/IN the/AT upper/JJR respiratory/JJ tract/NN ,/pct such/JJ as/CS the/AT turbinates/NNS of/IN the/AT nose/NN and/CC the/AT cilia/NNS of/IN the/AT trachea/NN and/CC larger/JJR bronchi/NNS ,/pct are/BER capable/JJ of/IN impinging/VBG out/RP the/AT larger/JJR particles/NNS to/IN which/WDT we/PPSS are/BER ordinarily/RB exposed/VBN in/IN our/PPg daily/JJ existence/NN ./pct
+Very/QL small/JJ particles/NNS ,/pct however/RB ,/pct in/IN a/AT size/NN range/NN of/IN 1/CD to/IN 4/CD microns/NNS in/IN diameter/NN are/BER capable/JJ of/IN passing/VBG these/DTS impinging/VBG barriers/NNS and/CC entering/VBG the/AT alveolar/JJ bed/NN of/IN the/AT lungs/NNS ./pct
+This/DT area/NN is/BEZ highly/QL susceptible/JJ to/IN infection/NN ./pct
+The/AT entrance/NN and/CC retention/NN of/IN infectious/JJ particles/NNS in/IN the/AT alveoli/NNS amounts/VBZ almost/RB to/IN an/AT intratissue/JJ inoculation/NN ./pct
+The/AT relationship/NN between/IN particle/NN size/NN and/CC infectious/JJ dose/NN is/BEZ illustrated/VBN in/IN Table/NN 1/CD ./pct
+In/IN considering/VBG BW/NN defense/NN ,/pct it/PPS must/MD be/BE recognized/VBN that/CS a/AT number/NN of/IN critical/JJ meterological/JJ parameters/NNS must/MD be/BE met/VBN for/CS an/AT aerosol/NN to/TO exhibit/VB optimum/JJ effect/NN ./pct
+For/IN example/NN ,/pct bright/JJ sunlight/NN is/BEZ rapidly/RB destructive/JJ for/IN living/VBG microorganisms/NNS suspended/VBN in/IN air/NN ./pct
+There/EX are/BER optimal/JJ humidity/NN requirements/NNS for/IN various/JJ agents/NNS when/WRB airborne/JJ ./pct
+Neutral/JJ or/CC inversion/NN meteorological/JJ conditions/NNS are/BER necessary/JJ for/CS a/AT cloud/NN to/TO travel/VB along/IN the/AT surface/NN ./pct
+It/PPS will/MD rise/VB during/IN lapse/NN conditions/NNS ./pct
+There/EX are/BER ,/pct of/IN course/NN ,/pct certain/AP times/NNS during/IN the/AT 24-hour/JJ daily/JJ cycle/NN when/WRB most/AP of/IN these/DTS conditions/NNS will/MD be/BE met/VBN ./pct
+Certain/AP other/AP properties/NNS of/IN small/JJ particles/NNS ,/pct in/IN addition/NN to/IN those/DTS already/RB mentioned/VBN in/IN connection/NN with/IN penetration/NN of/IN the/AT respiratory/JJ tract/NN ,/pct are/BER noteworthy/JJ in/IN defense/NN considerations/NNS ./pct
+The/AT smaller/JJR the/AT particle/NN the/AT further/RBR it/PPS will/MD travel/VB downwind/RB before/CS settling/VBG out/RP ./pct
+An/AT aerosol/NN of/IN such/QL small/JJ particles/NNS ,/pct moreover/RB ,/pct diffuses/VBZ through/IN structures/NNS in/IN much/AP the/AT same/AP manner/NN as/CS a/AT gas/NN ./pct
+There/EX may/MD be/BE a/AT number/NN of/IN secondary/JJ effects/NNS resulting/VBG from/IN diffusion/NN through/IN buildings/NNS such/JJ as/CS widespread/JJ contamination/NN of/IN kitchens/NNS ,/pct restaurants/NNS ,/pct food/NN stores/NNS ,/pct hospitals/NNS ,/pct etc./RB ./pct
+Depending/IN on/IN the/AT organism/NN ,/pct there/EX may/MD be/BE multiplication/NN in/IN some/DTI food/NN or/CC beverage/NN products/NNS ,/pct i.e./RB ,/pct in/IN milk/NN for/IN example/NN ./pct
+The/AT secondary/JJ consequences/NNS from/IN this/DT could/MD be/BE very/QL serious/JJ and/CC must/MD be/BE taken/VBN into/IN consideration/NN in/IN planning/VBG for/IN defense/NN ./pct
+Something/PN of/IN the/AT behavior/NN of/IN clouds/NNS of/IN small/JJ particles/NNS can/MD be/BE illustrated/VBN by/IN the/AT following/VBG field/NN trials/NNS :/pct
+In/IN the/AT first/OD trial/NN an/AT inert/JJ substance/NN was/BEDZ disseminated/VBN from/IN a/AT boat/NN travelling/VBG some/RB ten/CD miles/NNS off/IN shore/NN under/IN appropriately/RB selected/VBN meteorological/JJ conditions/NNS ./pct
+Zinc/NN cadmium/NN sulfide/NN in/IN particles/NNS of/IN 2/CD microns/NNS in/IN size/NN were/BED disseminated/VBN ./pct
+This/DT material/NN fluoresces/VBZ under/IN ultraviolet/JJ light/NN which/WDT facilitates/VBZ its/PPg sampling/NN and/CC assessment/NN ./pct
+Four/CD hundred/CD and/CC fifty/CD pounds/NNS was/BEDZ disseminated/VBN while/CS the/AT ship/NN was/BEDZ traveling/VBG a/AT distance/NN of/IN 156/CD miles/NNS ./pct
+Figure/NN 1/CD describes/VBZ the/AT results/NNS obtained/VBN in/IN this/DT trial/NN ./pct
+The/AT particles/NNS traveled/VBD a/AT maximum/JJ detected/VBN distance/NN of/IN some/RB 450/CD miles/NNS ./pct
+From/IN these/DTS dosage/NN isopleths/NNS it/PPO can/MD be/BE seen/VBN that/CS an/AT area/NN of/IN over/RP 34,000/CD square/JJ miles/NNS was/BEDZ covered/VBN ./pct
+These/DTS dosages/NNS could/MD have/HV been/BEN increased/VBN by/IN increasing/VBG the/AT source/NN strength/NN which/WDT was/BEDZ small/JJ in/IN this/DT case/NN ./pct
+The/AT behavior/NN of/IN a/AT biological/JJ aerosol/NN ,/pct on/IN a/AT much/QL smaller/JJR scale/NN ,/pct is/BEZ illustrated/VBN by/IN a/AT specific/JJ field/NN trial/NN conducted/VBN with/IN a/AT non-pathogenic/JJ organism/NN ./pct
+An/AT aqueous/JJ suspension/NN of/IN the/AT spores/NNS of/IN B./NP subtilis/NP ,/pct var./NN niger/NP ,/pct generally/RB known/VBN as/CS Bacillus/NP globigii/NP ,/pct was/BEDZ aerosolized/VBN using/VBG commercially/RB available/JJ nozzles/NNS ./pct
+A/AT satisfactory/JJ cloud/NN was/BEDZ produced/VBN even/RB though/CS these/DTS nozzles/NNS were/BED only/RB about/RB 5/CD per/IN cent/NN efficient/JJ in/IN producing/VBG an/AT initial/JJ cloud/NN in/IN the/AT size/NN range/NN of/IN 1/CD to/IN 5/CD microns/NNS ./pct
+In/IN this/DT test/NN ,/pct 130/CD gallons/NNS of/IN a/AT suspension/NN ,/pct having/HVG a/AT count/NN of/IN Af/NN organisms/NNS per/IN ml/NN ,/pct or/CC a/AT total/NN of/IN approximately/RB Af/NN spores/NNS ,/pct was/BEDZ aerosolized/VBN ./pct
+The/AT spraying/VBG operation/NN was/BEDZ conducted/VBN from/IN the/AT rear/JJ deck/NN of/IN a/AT small/JJ Naval/JJ vessel/NN ,/pct cruising/VBG two/CD miles/NNS off-shore/RB and/CC vertical/JJ to/IN an/AT on-sure/JJ breeze/NN ./pct
+Spraying/VBG continued/VBD along/IN a/AT two-mile/JJ course/NN ./pct
+This/DT operation/NN was/BEDZ started/VBN at/IN 5:00/CD p.m./RB and/CC lasted/VBD for/IN 29/CD minutes/NNS ./pct
+There/EX was/BEDZ a/AT slight/JJ lapse/NN condition/NN ,/pct a/AT moderate/JJ fog/NN ,/pct and/CC 100/CD per/IN cent/NN relative/JJ humidity/NN ./pct
+A/AT network/NN of/IN sampling/VBG stations/NNS had/HVD been/BEN set/VBN up/RP on/IN shore/NN ./pct
+These/DTS were/BED located/VBN at/IN the/AT homes/NNS of/IN Government/NN employees/NNS ,/pct in/IN Government/NN Offices/NNS ,/pct buildings/NNS and/CC reservations/NNS within/IN the/AT trial/NN area/NN ./pct
+A/AT rough/JJ attempt/NN was/BEDZ made/VBN to/TO characterize/VB the/AT vertical/JJ profile/NN of/IN the/AT cloud/NN by/IN taking/VBG samples/NNS from/IN outside/IN the/AT windows/NNS on/IN the/AT first/OD ,/pct ninth/OD ,/pct and/CC fifteenth/OD floors/NNS of/IN a/AT Government/NN office/NN building/NN ./pct
+All/ABN samplers/NNS were/BED operated/VBN for/IN a/AT period/NN of/IN two/CD hours/NNS except/IN one/CD ,/pct which/WDT was/BEDZ operated/VBN for/IN four/CD hours/NNS ./pct
+In/IN this/DT instance/NN ,/pct there/EX was/BEDZ a/AT dosage/NN of/IN 562/CD during/IN the/AT first/OD two/CD hours/NNS and/CC a/AT total/JJ dosage/NN of/IN 1980/CD for/IN the/AT four-hour/JJ period/NN ,/pct a/AT four-fold/JJ increase/NN ./pct
+This/DT suggests/VBZ that/CS the/AT sampling/VBG period/NN ,/pct particularly/RB at/IN the/AT more/QL distant/JJ locations/NNS ,/pct should/MD have/HV been/BEN increased/VBN ./pct
+As/CS can/MD be/BE seen/VBN from/IN Figure/NN 2/CD ,/pct an/AT extensive/JJ area/NN was/BEDZ covered/VBN by/IN this/DT aerosol/NN ./pct
+The/AT maximum/JJ distance/NN sampled/VBN was/BEDZ 23/CD miles/NNS from/IN the/AT source/NN ./pct
+As/CS can/MD be/BE seen/VBN from/IN these/DTS dosage/NN isopleths/NNS ,/pct approximately/RB 100/CD square/JJ miles/NNS was/BEDZ covered/VBN within/IN the/AT area/NN sampled/VBN ./pct
+It/PPS is/BEZ quite/QL likely/JJ that/CS an/AT even/QL greater/JJR area/NN was/BEDZ covered/VBN ,/pct particularly/RB downwind/RB ./pct
+The/AT dosages/NNS in/IN the/AT three/CD levels/NNS of/IN the/AT vertical/JJ profile/NN were/BED :/pct Af/NN
+This/DT was/BEDZ not/NEG ,/pct of/IN course/NN ,/pct enough/AP sampling/NN to/TO give/VB a/AT satisfactory/JJ description/NN of/IN the/AT vertical/JJ diffusion/NN of/IN the/AT aerosol/NN ./pct
+A/AT number/NN of/IN unique/JJ medical/JJ problems/NNS might/MD be/BE created/VBN when/WRB man/NN is/BEZ exposed/VBN to/IN an/AT infectious/JJ agent/NN through/IN the/AT respiratory/JJ route/NN rather/RB than/CS by/IN natural/JJ portal/NN of/IN entry/NN ./pct
+Some/DTI agents/NNS have/HV been/BEN shown/VBN to/TO be/BE much/QL more/QL toxic/JJ or/CC infectious/JJ to/IN experimental/JJ animals/NNS when/WRB exposed/VBN to/IN aerosols/NNS of/IN optimum/JJ particle/NN size/NN than/CS by/IN the/AT natural/JJ portal/NN ./pct
+Botulinal/JJ toxin/NN ,/pct for/IN example/NN ,/pct is/BEZ several/AP thousand-fold/NN more/QL toxic/JJ by/IN this/DT route/NN than/CS when/WRB given/VBN per/IN os/NN ./pct
+In/IN some/DTI instances/NNS a/AT different/JJ clinical/JJ disease/NN picture/NN may/MD result/VB from/IN this/DT route/NN of/IN exposure/NN ,/pct making/VBG diagnosis/NN difficult/JJ ./pct
+In/IN tularemia/NN produced/VBN by/IN aerosol/NN exposure/NN ,/pct one/PN would/MD not/NEG expect/VB to/TO find/VB the/AT classical/JJ ulcer/NN of/IN ``/pct rabbit/NN fever/NN ''/pct on/IN a/AT finger/NN ./pct
+An/AT enemy/NN would/MD obviously/RB choose/VB an/AT agent/NN that/WPS is/BEZ believed/VBN to/TO be/BE highly/QL infectious/JJ ./pct
+Agents/NNS that/WPS are/BER known/VBN to/TO cause/VB frequent/JJ infections/NNS among/IN laboratory/NN workers/NNS such/JJ as/CS those/DTS causing/VBG Q/NN fever/NN ,/pct tularemia/NN ,/pct brucellosis/NN ,/pct glanders/NNS ,/pct coccidioidomycosis/NN ,/pct etc./RB ,/pct belong/VB in/IN this/DT category/NN ./pct
+An/AT agent/NN would/MD likely/RB be/BE selected/VBN which/WDT would/MD possess/VB sufficient/JJ viability/NN and/CC virulence/NN stability/NN to/TO meet/VB realistic/JJ minimal/JJ logistic/JJ requirements/NNS ./pct
+It/PPS is/BEZ ,/pct obviously/RB ,/pct a/AT proper/JJ goal/NN of/IN research/NN to/TO improve/VB on/IN this/DT property/NN ./pct
+In/IN this/DT connection/NN it/PPS should/MD be/BE capable/JJ of/IN being/BEG disseminated/VBN without/IN excessive/JJ destruction/NN ./pct
+Moreover/RB ,/pct it/PPS should/MD not/NEG be/BE so/QL fastidious/JJ in/IN its/PPg growth/NN requirements/NNS as/CS to/TO make/VB production/NN on/IN a/AT militarily/RB significant/JJ scale/NN improbable/JJ ./pct
+An/AT aggressor/NN would/MD use/VB an/AT agent/NN against/IN which/WDT there/EX was/BEDZ a/AT minimal/JJ naturally/RB acquired/VBN or/CC artificially/RB induced/VBN immunity/NN in/IN a/AT target/NN population/NN ./pct
+A/AT solid/JJ immunity/NN is/BEZ the/AT one/CD effective/JJ circumstance/NN whereby/WRB attack/NN by/IN a/AT specific/JJ agent/NN can/MD be/BE neutralized/VBN ./pct
+It/PPS must/MD be/BE remembered/VBN ,/pct however/RB ,/pct that/CS there/EX are/BER many/AP agents/NNS for/IN which/WDT there/EX is/BEZ no/AT solid/JJ immunity/NN and/CC a/AT partial/JJ or/CC low-grade/NN immunity/NN may/MD be/BE broken/VBN by/IN an/AT appropriate/JJ dose/NN of/IN agent/NN ./pct
+There/EX is/BEZ a/AT broad/JJ spectrum/NN of/IN organisms/NNS from/IN which/WDT selection/NN for/IN a/AT specified/VBN military/JJ purpose/NN might/MD be/BE made/VBN ./pct
+An/AT enemy/NN might/MD choose/VB an/AT acutely/QL debilitating/JJ microorganism/NN ,/pct a/AT chronic/JJ disease/NN producer/NN or/CC one/CD causing/VBG a/AT high/JJ rate/NN of/IN lethality/NN ./pct
+It/PPS is/BEZ possible/JJ that/CS certain/AP mutational/JJ forms/NNS may/MD be/BE produced/VBN such/JJ as/CS antibiotic/NN resistant/JJ strains/NNS ./pct
+Mutants/NNS may/MD also/RB be/BE developed/VBN with/IN changes/NNS in/IN biochemical/JJ properties/NNS that/WPS are/BER of/IN importance/NN in/IN identification/NN ./pct
+All/ABN of/IN these/DTS considerations/NNS are/BER of/IN critical/JJ importance/NN in/IN considering/VBG defense/NN and/CC medical/JJ management/NN ./pct
+Biological/JJ agents/NNS are/BER ,/pct of/IN course/NN ,/pct highly/QL host-specific/JJ ./pct
+They/PPSS do/DO not/NEG destroy/VB physical/JJ structures/NNS as/CS is/BEZ true/JJ of/IN high/JJ explosives/NNS ./pct
+This/DT may/MD be/BE of/IN overriding/VBG importance/NN in/IN considering/VBG military/JJ objectives/NNS ./pct
+The/AT question/NN of/IN epidemic/NN disease/NN merits/VBZ some/DTI discussion/NN ./pct
+Only/RB a/AT limited/VBN effort/NN has/HVZ been/BEN devoted/VBN to/IN this/DT problem/NN ./pct
+Some/DTI of/IN those/DTS who/WPS question/VB the/AT value/NN of/IN BW/NN have/HV assumed/VBN that/CS the/AT only/AP potential/NN would/MD be/BE in/IN the/AT establishment/NN of/IN epidemics/NNS ./pct
+They/PPSS then/RB point/VB out/RP that/CS with/IN our/PPg present/JJ lack/NN of/IN knowledge/NN of/IN all/ABN the/AT factors/NNS concerned/VBN in/IN the/AT rise/NN and/CC fall/NN of/IN epidemics/NNS ,/pct it/PPS is/BEZ unlikely/JJ that/CS a/AT planned/VBN episode/NN could/MD be/BE initiated/VBN ./pct
+They/PPSS argue/VB further/RBR (/pct and/CC somewhat/QL contradictorily/RB )/pct that/CS our/PPg knowledge/NN and/CC resources/NNS in/IN preventive/JJ medicine/NN would/MD make/VB it/PPO possible/JJ to/TO control/VB such/ABL an/AT outbreak/NN of/IN disease/NN ./pct
+This/DT is/BEZ why/WRB this/DT approach/NN to/IN BW/NN defense/NN has/HVZ not/NEG been/BEN given/VBN major/JJ attention/NN ./pct
+Our/PPg major/JJ problem/NN is/BEZ what/WDT an/AT enemy/NN might/MD accomplish/VB in/IN an/AT initial/JJ attack/NN on/IN a/AT target/NN ./pct
+This/DT ,/pct of/IN course/NN ,/pct does/DOZ not/NEG eliminate/VB from/IN consideration/NN for/IN this/DT purpose/NN agents/NNS that/WPS are/BER associated/VBN naturally/RB with/IN epidemic/NN disease/NN ./pct
+A/AT hypothetical/JJ example/NN will/MD illustrate/VB this/DT point/NN ./pct
+Let/VB us/PPO assume/VB that/CS it/PPS would/MD be/BE possible/JJ for/CS an/AT enemy/NN to/TO create/VB an/AT aerosol/NN of/IN the/AT causative/JJ agent/NN of/IN epidemic/NN typhus/NN (/pct Rickettsia/NP prowazwki/NP )/pct over/IN City/NN A/NP and/CC that/CS a/AT large/JJ number/NN of/IN cases/NNS of/IN typhus/NN fever/NN resulted/VBD therefrom/RB ./pct
+No/AT epidemic/NN was/BEDZ initiated/VBN nor/CC was/BEDZ one/CD expected/VBN because/CS the/AT population/NN in/IN City/NN A/NP was/BEDZ not/NEG lousy/JJ ./pct
+Lousiness/NN is/BEZ a/AT prerequisite/NN for/IN epidemic/NN typhus/NN ./pct
+In/IN this/DT case/NN ,/pct then/RB ,/pct the/AT military/JJ objective/NN was/BEDZ accomplished/VBN with/IN an/AT epidemic/NN agent/NN solely/RB through/IN the/AT results/NNS secured/VBN in/IN the/AT initial/JJ attack/NN ./pct
+This/DT was/BEDZ done/VBN with/IN full/JJ knowledge/NN that/CS there/EX would/MD be/BE no/AT epidemic/NN ./pct
+On/IN the/AT other/AP hand/NN ,/pct a/AT similar/JJ attack/NN might/MD have/HV been/BEN made/VBN on/IN City/NN B/NN whose/WPg population/NN was/BEDZ known/VBN to/TO be/BE lousy/JJ ./pct
+One/PN might/MD expect/VB some/DTI spread/NN of/IN the/AT disease/NN in/IN this/DT case/NN resulting/VBG in/IN increased/VBN effectiveness/NN of/IN the/AT attack/NN ./pct
+The/AT major/JJ defensive/JJ problems/NNS are/BER concerned/VBN with/IN the/AT possibility/NN of/IN overt/JJ military/JJ delivery/NN of/IN biological/JJ agents/NNS from/IN appropriate/JJ disseminating/VBG devices/NNS ./pct
+It/PPS should/MD be/BE no/QL more/QL difficult/JJ to/TO deliver/VB such/JJ devices/NNS than/CS other/AP weapons/NNS ./pct
+The/AT same/AP delivery/NN vehicles/NNS --/pct whether/CS they/PPSS be/BE airplanes/NNS ,/pct submarines/NNS or/CC guided/VBN missiles/NNS --/pct should/MD be/BE usable/JJ ./pct
+If/CS it/PPS is/BEZ possible/JJ for/CS an/AT enemy/NN to/TO put/VB an/AT atomic/JJ bomb/NN on/IN a/AT city/NN ,/pct it/PPS should/MD be/BE equally/QL possible/JJ to/TO put/VB a/AT cloud/NN of/IN biological/JJ agent/NN over/IN that/DT city/NN ./pct
+Biological/JJ agents/NNS are/BER ,/pct moreover/RB ,/pct suitable/JJ for/IN delivery/NN through/IN enemy/NN sabotage/NN which/WDT imposes/VBZ many/AP problems/NNS in/IN defense/NN ./pct
+A/AT few/AP obvious/JJ target/NN areas/NNS of/IN great/JJ importance/NN might/MD be/BE mentioned/VBN ./pct
+The/AT air/NN conditioning/NN and/CC ventilating/VBG systems/NNS of/IN large/JJ buildings/NNS are/BER subject/JJ to/IN attack/NN ./pct
+America/NP is/BEZ rapidly/RB becoming/VBG a/AT nation/NN that/WPS uses/VBZ processed/VBN ,/pct precooked/VBN and/CC even/RB predigested/VBN foods/NNS ./pct
+This/DT is/BEZ an/AT enormous/JJ industry/NN that/WPS is/BEZ subject/JJ to/IN sabotage/NN ./pct
+One/PN must/MD include/VB the/AT preparation/NN of/IN soft/JJ drinks/NNS and/CC the/AT processing/NN of/IN milk/NN and/CC milk/NN products/NNS ./pct
+Huge/JJ industries/NNS are/BER involved/VBN also/RB in/IN the/AT production/NN of/IN biological/JJ products/NNS ,/pct drugs/NNS and/CC cosmetics/NNS which/WDT are/BER liable/JJ to/IN this/DT type/NN of/IN attack/NN ./pct

@@ -1,0 +1,102 @@
+Many/AP other/AP (/pct probably/RB nearly/QL all/ABN )/pct snakes/NNS at/IN maturity/NN are/BER already/RB more/AP than/CS half/ABN their/PPg final/JJ length/NN ./pct
+Laurence/NP M./NP Klauber/NP put/VBD length/NN at/IN maturity/NN at/IN two/CD thirds/NNS the/AT ultimate/JJ length/NN for/IN some/DTI rattlesnakes/NNS ,/pct and/CC Charles/NP C./NP Carpenter's/NPg data/NNS on/IN Michigan/NP garter/NN and/CC ribbon/NN snakes/NNS (/pct Thamnophis/NP )/pct show/VB that/CS the/AT smallest/JJT gravid/JJ females/NNS are/BER more/AP than/CS half/ABN as/CS long/JJ as/CS the/AT biggest/JJT adults/NNS ./pct
+Felix/NP Kopstein/NP states/VBZ that/CS ``/pct when/WRB the/AT snake/NN reaches/VBZ its/PPg maturity/NN it/PPS has/HVZ already/RB reached/VBN about/RB its/PPg maximal/JJ length/NN ''/pct ,/pct but/CC goes/VBZ on/RP to/TO cite/VB the/AT reticulate/JJ python/NN as/CS an/AT exception/NN ,/pct with/IN maximum/JJ length/NN approximately/RB three/CD times/NNS that/DT at/IN maturity/NN ./pct
+It/PPS is/BEZ hard/JJ to/TO understand/VB how/WRB he/PPS concluded/VBD that/CS most/AP snakes/NNS do/DO not/NEG grow/VB appreciably/RB after/CS attaining/VBG maturity/NN ;/pct ;/pct
+he/PPS was/BEDZ working/VBG with/IN species/NNS of/IN Java/NP ,/pct so/RB perhaps/RB some/DTI tropical/JJ snakes/NNS are/BER unusual/JJ in/IN this/DT respect/NN ./pct
+Certain/AP individual/JJ giants/NNS recorded/VBN later/RBR did/DOD fail/VB to/TO show/VB a/AT reasonable/JJ difference/NN after/IN maturity/NN ,/pct but/CC it/PPS is/BEZ impossible/JJ to/TO know/VB whether/CS this/DT is/BEZ due/JJ to/IN captive/JJ conditions/NNS ./pct
+Additional/JJ records/NNS of/IN slow/JJ growth/NN have/HV been/BEN omitted/VBN ./pct
+It/PPS is/BEZ possible/JJ to/TO make/VB a/AT few/AP generalizations/NNS about/IN the/AT six/CD giants/NNS themselves/PPLS ./pct
+There/EX seems/VBZ to/TO be/BE a/AT rough/JJ correlation/NN between/IN the/AT initial/JJ and/CC ultimate/JJ lengths/NNS ,/pct starting/VBG with/IN the/AT smallest/JJT (/pct boa/NN constrictor/NN )/pct and/CC ending/VBG with/IN the/AT largest/JJT (/pct anaconda/NN )/pct ./pct
+Data/NNS on/IN the/AT former/AP are/BER scanty/JJ ,/pct but/CC there/EX can/MD be/BE little/AP doubt/NN that/CS the/AT latter/AP is/BEZ sometimes/RB born/VBN at/IN a/AT length/NN greater/JJR than/CS that/DT of/IN any/DTI of/IN the/AT others/NNS ,/pct thereby/RB lending/VBG support/NN to/IN the/AT belief/NN that/CS the/AT anaconda/NN does/DOZ ,/pct indeed/RB ,/pct attain/VB the/AT greatest/JJT length/NN ./pct
+For/IN four/CD of/IN the/AT six/CD (/pct the/AT anaconda/NN and/CC the/AT amethystine/NN python/NN cannot /None be/BE included/VBN for/IN lack/NN of/IN data/NN )/pct there/EX is/BEZ also/RB a/AT correlation/NN between/IN size/NN at/IN maturity/NN and/CC maximum/JJ length/NN ,/pct the/AT boa/NN constrictor/NN being/BEG the/AT smallest/JJT and/CC the/AT Indian/JJ python/NN the/AT next/AP in/IN size/NN at/IN the/AT former/AP stage/NN ./pct
+Let/VB us/PPO speculate/VB a/AT little/JJ on/IN the/AT maximum/JJ size/NN of/IN the/AT anaconda/NN ./pct
+If/CS ,/pct in/IN a/AT certain/AP part/NN of/IN the/AT range/NN ,/pct it/PPS starts/VBZ life/NN 1/CD foot/NN longer/JJR than/CS do/DO any/DTI of/IN the/AT other/AP (/pct relatively/QL large/JJ )/pct giants/NNS ,/pct and/CC reaches/VBZ maturity/NN at/IN ,/pct let/VB us/PPO guess/VB ,/pct 18/CD inches/NNS longer/JJR than/CS the/AT others/NNS ,/pct a/AT quadrupling/NN of/IN the/AT maturity/NN length/NN would/MD result/VB in/IN a/AT maximum/JJ of/IN (/pct nearly/RB )/pct 40/CD feet/NNS ./pct
+When/WRB it/PPS comes/VBZ to/IN rate/NN of/IN early/JJ growth/NN ,/pct the/AT Indian/JJ python/NN leads/VBZ with/IN a/AT figure/NN of/IN about/RB 3/CD feet/NNS 6/CD inches/NNS per/IN year/NN for/IN the/AT first/OD two/CD years/NNS ,/pct more/AP or/CC less/AP ./pct
+The/AT African/JJ rock/NN python/NN ,/pct a/AT close/JJ second/OD ,/pct is/BEZ followed/VBN in/IN turn/NN by/IN the/AT reticulate/JJ python/NN ./pct
+There/EX are/BER few/AP data/NNS on/IN the/AT boa/NN constrictor/NN ,/pct those/DTS for/IN the/AT anaconda/NN are/BER unconvincing/JJ ,/pct and/CC there/EX is/BEZ nothing/PN at/IN all/ABN on/IN the/AT amethystine/NN python/NN ./pct
+It/PPS seems/VBZ likely/JJ that/CS the/AT Indian/JJ python/NN comes/VBZ out/RP ahead/RB because/CS records/NNS of/IN its/PPg growth/NN have/HV been/BEN made/VBN more/QL carefully/RB and/CC frequently/RB ;/pct ;/pct
+it/PPS responds/VBZ exceptionally/QL well/RB to/IN captivity/NN and/CC does/DOZ not/NEG reach/VB proportions/NNS that/WPS make/VB it/PPO hard/JJ to/TO keep/VB ./pct
+I/PPSS cannot /None make/VB sense/NN out/RP of/IN the/AT figures/NNS for/IN post/IN maturity/NN growth/NN ;/pct ;/pct
+at/IN best/JJT the/AT annual/JJ increase/NN appears/VBZ to/TO be/BE a/AT matter/NN of/IN inches/NNS rather/RB than/IN feet/NNS ./pct
+Until/CS better/JJR records/NNS have/HV been/BEN kept/VBN over/IN longer/JJR periods/NNS of/IN time/NN and/CC much/QL more/AP is/BEZ known/VBN about/IN the/AT maximum/JJ dimensions/NNS ,/pct it/PPS will/MD be/BE wise/JJ to/TO refrain/VB from/IN drawing/VBG conclusions/NNS ./pct
+It/PPS is/BEZ often/RB stated/VBN that/CS the/AT largest/JJT snakes/NNS require/VB five/CD years/NNS to/TO attain/VB maturity/NN ,/pct but/CC this/DT apparently/RB is/BEZ an/AT overestimation/NN ./pct
+The/AT best/JJT way/NN to/TO determine/VB the/AT correct/JJ figure/NN (/pct in/IN captives/NNS )/pct is/BEZ by/IN direct/JJ observation/NN of/IN pairs/NNS isolated/VBN from/IN birth/NN ,/pct a/AT method/NN that/WPS produced/VBD surprising/VBG results/NNS :/pct maturing/VBG of/IN a/AT male/JJ Indian/JJ python/NN in/IN less/AP than/IN two/CD years/NNS ,/pct his/PPg mate/NN in/IN less/AP than/IN three/CD ;/pct ;/pct
+data/NNS on/IN the/AT boa/NN constrictor/NN about/RB match/VB this/DT ./pct
+Another/DT approach/NN is/BEZ to/TO estimate/VB from/IN the/AT rate/NN of/IN growth/NN and/CC the/AT smallest/JJT size/NN at/IN maturity/NN ./pct
+Results/NNS from/IN this/DT approach/NN amply/RB confirm/VB the/AT direct/JJ observations/NNS :/pct about/RB three/CD years/NNS are/BER required/VBN ,/pct there/EX being/BEG a/AT possible/JJ slight/JJ difference/NN between/IN males/NNS and/CC females/NNS in/IN the/AT time/NN required/VBN ./pct
+Only/RB the/AT amethystine/NN python/NN and/CC the/AT anaconda/NN must/MD be/BE excluded/VBN for/IN lack/NN or/CC paucity/NN of/IN data/NN ./pct
+The/AT following/VBG information/NN on/IN snakes/NNS varying/VBG greatly/RB in/IN size/NN (/pct but/CC all/ABN with/IN less/AP than/IN a/AT 10-foot/JJ maximum/NN )/pct shows/VBZ ,/pct when/WRB considered/VBN with/IN the/AT foregoing/NN ,/pct that/CS there/EX is/BEZ probably/RB no/AT correlation/NN between/IN the/AT length/NN of/IN a/AT snake/NN and/CC the/AT time/NN required/VBN for/IN it/PPO to/TO mature/VB ./pct
+Oliver/NP ,/pct in/IN his/PPg summary/NN of/IN the/AT habits/NNS of/IN the/AT snakes/NNS of/IN the/AT United/VBN States/NNS ,/pct could/MD supply/VB data/NN on/IN the/AT maturing/VBG period/NN for/IN only/RB three/CD species/NNS in/IN addition/NN to/IN the/AT rattlers/NNS ,/pct which/WDT I/PPSS shall/MD consider/VB separately/RB ./pct
+These/DTS three/CD were/BED much/QL alike/JJ :/pct lined/VBN snake/NN (/pct Tropidoclonion/NN )/pct ,/pct one/CD year/NN and/CC nine/CD months/NNS ;/pct ;/pct
+red-bellied/JJ snake/NN (/pct Storeria/NP )/pct ,/pct two/CD years/NNS ;/pct ;/pct
+cottonmouth/NN (/pct Ancistrodon/NP )/pct ,/pct two/CD years/NNS ./pct
+Klauber/NP investigated/VBD the/AT rattlesnakes/NNS carefully/RB himself/PPL and/CC also/RB summarized/VBD what/WDT others/NNS have/HV found/VBN ./pct
+He/PPS concluded/VBD that/CS in/IN the/AT southern/JJ species/NNS ,/pct which/WDT are/BER rapidly/RB growing/VBG types/NNS ,/pct females/NNS mate/VB at/IN the/AT age/NN of/IN two/CD and/CC a/AT half/ABN and/CC bear/VB the/AT first/OD young/JJ when/WRB they/PPSS are/BER three/CD ./pct
+Other/AP herpetologists/NNS have/HV ascertained/VBN that/CS in/IN the/AT northern/JJ United/VBN States/NNS the/AT prairie/NN rattlesnake/NN may/MD not/NEG give/VB first/OD birth/NN until/CS it/PPS is/BEZ four/CD or/CC even/RB five/CD years/NNS old/JJ ,/pct and/CC that/CS the/AT young/JJ may/MD be/BE born/VBN every/AT other/AP year/NN ,/pct rather/RB than/IN annually/RB ./pct
+Carpenter's/NPg study/NN showed/VBD that/CS female/JJ common/JJ garter/NN and/CC ribbon/NN snakes/NNS of/IN Michigan/NP mature/VB at/IN about/RB the/AT age/NN of/IN two/CD ./pct
+Maximum/JJ length/NN
+Oversized/JJ monsters/NNS are/BER never/RB brought/VBN home/NR either/CC alive/JJ or/CC preserved/VBN ,/pct and/CC field/NN measurements/NNS are/BER obviously/RB open/JJ to/IN doubt/NN because/RB of/IN the/AT universal/JJ tendency/NN to/TO exaggerate/VB dimensions/NNS ./pct
+Measurements/NNS of/IN skins/NNS are/BER of/IN little/AP value/NN ;/pct ;/pct
+every/AT snake/NN hide/NN is/BEZ noticeably/RB longer/JJR than/CS its/PPg carcass/NN and/CC intentional/JJ stretching/NN presents/VBZ no/AT difficulty/NN to/IN the/AT unscrupulous/JJ explorer/NN ./pct
+In/IN spite/NN of/IN all/ABN the/AT pitfalls/NNS ,/pct there/EX is/BEZ a/AT certain/AP amount/NN of/IN agreement/NN on/IN some/DTI of/IN the/AT giants/NNS ./pct
+The/AT anaconda/NN proves/VBZ to/TO be/BE the/AT fly/NN in/IN the/AT ointment/NN ,/pct but/CC the/AT reason/NN for/IN this/DT is/BEZ not/NEG clear/JJ ;/pct ;/pct
+the/AT relatively/QL wild/JJ conditions/NNS still/RB found/VBN in/IN tropical/JJ South/JJ America/NP might/MD be/BE responsible/JJ ./pct
+There/EX are/BER three/CD levels/NNS on/IN which/WDT to/TO treat/VB the/AT subject/NN ./pct
+The/AT first/OD is/BEZ the/AT strictly/QL scientific/JJ ,/pct which/WDT demands/VBZ concrete/JJ proof/NN and/CC therefore/RB may/MD err/VB on/IN the/AT conservative/JJ side/NN by/IN waiting/VBG for/IN evidence/NN in/IN the/AT flesh/NN ./pct
+This/DT approach/NN rejects/VBZ virtually/RB all/ABN field/NN measurements/NNS ./pct
+The/AT next/AP level/NN attempts/VBZ to/TO weigh/VB varied/VBN evidence/NN and/CC come/VB to/IN a/AT balanced/VBN ,/pct sensible/JJ conclusion/NN ;/pct ;/pct
+field/NN measurements/NNS by/IN experienced/VBN explorers/NNS are/BER not/NEG rejected/VBN ,/pct and/CC even/RB reports/NNS of/IN a/AT less/QL scientific/JJ nature/NN are/BER duly/RB evaluated/VBN ./pct
+The/AT third/OD level/NN leans/VBZ on/IN a/AT belief/NN that/CS a/AT lot/NN of/IN smoke/NN means/VBZ some/DTI fire/NN ./pct
+The/AT argument/NN against/IN this/DT last/AP approach/NN is/BEZ comparable/JJ to/IN that/DT which/WDT rejects/VBZ stories/NNS about/IN hoop/NN snakes/NNS ,/pct about/IN snakes/NNS that/WPS break/VB themselves/PPLS into/IN many/AP pieces/NNS and/CC join/VB up/RP again/RB ,/pct or/CC even/RB of/IN ghosts/NNS that/WPS chase/VB people/NNS out/RP of/IN graveyards/NNS ;/pct ;/pct
+the/AT mere/JJ piling/VBG up/RP of/IN testimony/NN does/DOZ not/NEG prove/VB ,/pct to/IN the/AT scientific/JJ mind/NN ,/pct the/AT existence/NN of/IN hoop/NN snakes/NNS ,/pct joint/NN snakes/NNS ,/pct or/CC ghosts/NNS ./pct
+Oliver/NP has/HVZ recently/RB used/VBN the/AT second-level/NN approach/NN with/IN the/AT largest/JJT snakes/NNS ,/pct and/CC has/HVZ come/VBN to/IN these/DTS conclusions/NNS :/pct the/AT anaconda/NN reaches/VBZ a/AT length/NN of/IN at/IN least/AP 37/CD feet/NNS ,/pct the/AT reticulate/JJ python/NN 33/CD ,/pct the/AT African/JJ rock/NN python/NN 25/CD ,/pct the/AT amethystine/NN python/NN at/IN least/AP 22/CD ,/pct the/AT Indian/JJ python/NN 20/CD ,/pct and/CC the/AT boa/NN constrictor/NN 18-1/2/CD ./pct
+Bernard/NP Heuvelmans/NP also/RB treats/VBZ of/IN the/AT largest/JJT snakes/NNS ,/pct but/CC on/IN the/AT third/OD level/NN ,/pct and/CC is/BEZ chiefly/RB concerned/VBN with/IN the/AT anaconda/NN ./pct
+He/PPS reasons/VBZ that/CS as/CS anacondas/NNS 30/CD feet/NNS long/JJ are/BER often/RB found/VBN ,/pct some/DTI might/MD be/BE 38/CD ,/pct and/CC occasional/JJ ``/pct monstrous/JJ freaks/NNS ''/pct over/IN 50/CD ./pct
+He/PPS rejects/VBZ dimensions/NNS of/IN 70/CD feet/NNS and/CC more/AP ./pct
+His/PPg thirteenth/OD chapter/NN includes/VBZ many/AP exciting/JJ accounts/NNS of/IN huge/JJ serpents/NNS with/IN prodigious/JJ strength/NN ,/pct but/CC these/DTS seem/VB to/TO be/BE given/VBN to/TO complete/VB his/PPg picture/NN ,/pct not/NEG to/TO be/BE believed/VBN ./pct
+Detailed/VBN information/NN on/IN record/NN lengths/NNS of/IN the/AT giants/NNS is/BEZ given/VBN in/IN the/AT section/NN that/WPS follows/VBZ ./pct
+Growth/NN of/IN the/AT six/CD giants/NNS
+Discussions/NNS of/IN the/AT giants/NNS one/CD by/IN one/CD will/MD include/VB ,/pct as/QL far/RB as/CS possible/JJ ,/pct data/NNS on/IN these/DTS aspects/NNS of/IN growth/NN :/pct size/NN at/IN which/WDT life/NN is/BEZ started/VBN and/CC at/IN which/WDT sexual/JJ maturity/NN is/BEZ reached/VBN ;/pct ;/pct
+time/NN required/VBN to/TO reach/VB maturity/NN ;/pct ;/pct
+rate/NN of/IN growth/NN both/ABX before/IN and/CC after/IN this/DT crucial/JJ stage/NN ;/pct ;/pct
+and/CC maximum/JJ length/NN ,/pct with/IN confirmation/NN or/CC amplification/NN of/IN Oliver's/NPg figures/NNS ./pct
+Definite/JJ information/NN on/IN the/AT growth/NN of/IN senile/JJ individuals/NNS is/BEZ lacking/VBG ./pct
+Anaconda/NN :/pct
+At/IN birth/NN ,/pct this/DT species/NN varies/VBZ considerably/RB in/IN size/NN ./pct
+A/AT brood/NN of/IN twenty-eight/CD born/VBN at/IN Brookfield/NP Zoo/NN ,/pct near/IN Chicago/NP ,/pct ranged/VBD in/IN length/NN from/IN 22/CD to/IN 33-1/2/CD inches/NNS and/CC averaged/VBD 29/CD inches/NNS ./pct
+Lawrence/NP E./NP Griffin/NP gives/VBZ measurements/NNS of/IN nineteen/CD young/JJ anacondas/NNS ,/pct presumably/RB members/NNS of/IN a/AT brood/NN ,/pct from/IN ``/pct South/JJ America/NP ''/pct ;/pct ;/pct
+the/AT extreme/JJ measurements/NNS of/IN these/DTS fall/VB between/IN the/AT lower/JJR limit/NN of/IN the/AT Brookfield/NP brood/NN and/CC its/PPg average/NN ./pct
+Raymond/NP L./NP Ditmars/NP had/HVD two/CD broods/NNS that/WPS averaged/VBD 27/CD inches/NNS ./pct
+R./NP R./NP Mole/NP and/CC F./NP W./NP Urich/NP give/VB approximately/RB 20/CD inches/NNS as/CS the/AT average/JJ length/NN of/IN a/AT brood/NN of/IN thirty/CD from/IN the/AT region/NN of/IN the/AT Orinoco/NP estuaries/NNS ./pct
+William/NP Beebe/NP reports/VBZ 26/CD inches/NNS and/CC 2.4/CD ounces/NNS (/pct this/DT snake/NN must/MD have/HV been/BEN emaciated/JJ )/pct for/IN the/AT length/NN and/CC the/AT weight/NN of/IN a/AT young/JJ anaconda/NN from/IN British/JJ Guiana/NP ./pct
+In/IN contrast/NN ,/pct Ditmars/NP recorded/VBD the/AT average/JJ length/NN of/IN seventy-two/CD young/JJ of/IN a/AT 19-foot/JJ female/NN as/CS 38/CD inches/NNS ,/pct and/CC four/CD young/JJ were/BED born/VBN in/IN London/NP at/IN a/AT length/NN of/IN 35/CD or/CC 36/CD inches/NNS and/CC a/AT weight/NN of/IN from/IN 14/CD to/IN 16/CD ounces/NNS ./pct
+Beebe/NP had/HVD a/AT 3-foot/JJ anaconda/NN that/WPS weighed/VBD only/RB 9.8/CD ounces/NNS ./pct
+A/AT difference/NN between/IN subspecies/NNS might/MD explain/VB the/AT great/JJ range/NN in/IN size/NN ./pct
+I/PPSS have/HV little/AP information/NN on/IN the/AT anaconda's/NNg rate/NN of/IN growth/NN ./pct
+Hans/NP Schweizer/NP had/HVD one/CD that/WPS increased/VBD from/IN 19-1/2/CD inches/NNS to/IN 5/CD feet/NNS 3/CD inches/NNS in/IN five/CD years/NNS ,/pct and/CC J./NP J./NP Quelch/NP records/VBZ a/AT growth/NN of/IN from/IN less/AP than/IN 4/CD feet/NNS to/IN nearly/RB 10/CD in/IN about/RB six/CD years/NNS ./pct
+It/PPS is/BEZ very/QL unlikely/JJ that/CS either/DTX of/IN these/DTS anacondas/NNS was/BEDZ growing/VBG at/IN a/AT normal/JJ rate/NN ./pct
+In/IN 1948/CD ,/pct Afranio/NP Do/NP Amaral/NP ,/pct the/AT noted/VBN Brazilian/JJ herpetologist/NN ,/pct wrote/VBD a/AT technical/JJ paper/NN on/IN the/AT giant/JJ snakes/NNS ./pct
+He/PPS concluded/VBD that/CS the/AT anaconda's/NNg maximum/JJ length/NN is/BEZ 12/CD or/CC 13/CD (/pct perhaps/RB 14/CD )/pct meters/NNS ,/pct which/WDT would/MD approximate/VB from/IN 39/CD to/IN 42/CD feet/NNS (/pct 14/CD meters/NNS is/BEZ slightly/RB less/AP than/IN 46/CD feet/NNS )/pct ./pct
+Thus/RB ,/pct his/PPg estimate/NN lies/VBZ between/IN Oliver's/NPg suggestion/NN of/IN at/IN least/AP 37/CD feet/NNS and/CC the/AT 50-foot/JJ ``/pct monstrous/JJ freaks/NNS ''/pct intimated/VBN by/IN Heuvelmans/NP ./pct
+The/AT most/QL convincing/JJ recent/JJ measurement/NN of/IN an/AT anaconda/NN was/BEDZ made/VBN in/IN eastern/JJ Colombia/NP by/IN Roberto/NP Lamon/NP ,/pct a/AT petroleum/NN geologist/NN of/IN the/AT Richmond/NP Oil/NN Company/NN ,/pct and/CC reported/VBN in/IN 1944/CD by/IN Emmett/NP R./NP Dunn/NP ./pct
+However/RB ,/pct as/CS a/AT field/NN measurement/NN ,/pct it/PPS is/BEZ open/JJ to/IN question/NN ./pct
+Oliver's/NPg 37-1/2/CD feet/NNS is/BEZ partly/RB based/VBN on/IN this/DT report/NN and/CC can/MD be/BE accepted/VBN as/CS probable/JJ ./pct
+However/RB ,/pct many/AP herpetologists/NNS remain/VB skeptical/JJ and/CC would/MD prefer/VB a/AT tentative/JJ maximum/NN of/IN about/RB 30/CD feet/NNS ./pct
+It/PPS is/BEZ possible/JJ that/CS especially/QL large/JJ anacondas/NNS will/MD prove/VB to/TO belong/VB to/IN subspecies/NNS limited/VBN to/IN a/AT small/JJ area/NN ./pct
+In/IN snakes/NNS difference/NN in/IN size/NN is/BEZ a/AT common/JJ characteristic/NN of/IN subspecies/NNS ./pct
+Boa/NN constrictor/NN :/pct
+A/AT Colombian/JJ female's/NNg brood/NN of/IN sixteen/CD boa/NN constrictors/NNS born/VBN in/IN the/AT Staten/NP Island/NN Zoo/NN averaged/VBD 20/CD inches/NNS ./pct
+This/DT birth/NN length/NN seems/VBZ to/TO be/BE typical/JJ ./pct
+When/WRB some/RB thirteen/CD records/NNS of/IN newly/RB and/CC recently/RB born/VBN individuals/NNS are/BER collated/VBN ,/pct little/AP or/CC no/AT correlation/NN between/IN length/NN and/CC distribution/NN can/MD be/BE detected/VBN ./pct
+The/AT range/NN is/BEZ from/IN 14/CD to/IN 25/CD inches/NNS ;/pct ;/pct
+the/AT former/AP figure/NN is/BEZ based/VBN on/IN a/AT somewhat/QL unusual/JJ birth/NN of/IN four/CD by/IN a/AT Central/JJ American/JJ female/NN (/pct see/VB chapter/NN on/IN Laying/NN ,/pct Brooding/VBG ,/pct Hatching/VBG ,/pct and/CC Birth/NN )/pct ,/pct the/AT latter/AP on/IN a/AT ``/pct normal/JJ ''/pct newly/RB born/VBN individual/NN ./pct
+However/RB ,/pct as/CS so/QL many/AP of/IN the/AT records/NNS are/BER not/NEG certainly/RB based/VBN on/IN newborn/JJ snakes/NNS ,/pct these/DTS data/NNS must/MD be/BE taken/VBN tentatively/RB ;/pct ;/pct
+final/JJ conclusions/NNS will/MD have/HV to/TO await/VB the/AT measurements/NNS of/IN broods/NNS from/IN definite/JJ localities/NNS ./pct
+Alphonse/NP R./NP Hoge's/NPg measurements/NNS of/IN several/AP very/QL young/JJ specimens/NNS from/IN Brazil/NP suggest/VB that/CS at/IN birth/NN the/AT female/NN is/BEZ slightly/QL larger/JJR than/CS the/AT male/NN ./pct
+I/PPSS have/HV surprisingly/RB little/AP information/NN on/IN the/AT size/NN and/CC age/NN at/IN maturity/NN ./pct
+Carl/NP Kauffeld/NP has/HVZ written/VBN to/IN me/PPO of/IN sexual/JJ activity/NN in/IN February/NP 1943/CD of/IN young/JJ born/VBN in/IN March/NP 1940/CD ./pct
+One/CD female/NN ,/pct collected/VBN on/IN an/AT island/NN off/IN the/AT coast/NN of/IN Nicaragua/NP ,/pct was/BEDZ gravid/JJ and/CC measured/VBD 4/CD feet/NNS 8/CD inches/NNS from/IN snout/NN to/IN vent/NN (/pct her/PPg tail/NN should/MD be/BE between/IN 6/CD and/CC 7/CD inches/NNS long/JJ )/pct ./pct
+The/AT female/NN from/IN Central/JJ America/NP which/WDT gave/VBD birth/NN to/IN four/CD was/BEDZ only/RB 3/CD feet/NNS 11/CD inches/NNS long/JJ ./pct
+What/WDT data/NNS there/EX are/BER on/IN growth/NN indicate/VB considerable/JJ variation/NN in/IN rate/NN ;/pct ;/pct
+unfortunately/RB ,/pct no/AT one/PN has/HVZ kept/VBN complete/JJ records/NNS of/IN one/CD individual/NN ,/pct whereas/CS many/AP have/HV been/BEN made/VBN for/IN a/AT very/QL short/JJ period/NN of/IN time/NN ./pct
+The/AT results/NNS are/BER too/QL varied/VBN to/TO allow/VB generalization/NN ./pct

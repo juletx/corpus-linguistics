@@ -1,0 +1,155 @@
+At/IN the/AT entrance/NN side/NN of/IN the/AT shelter/NN ,/pct each/DT roof/NN beam/NN is/BEZ rested/VBN on/IN the/AT inside/NN 4/CD inches/NNS of/IN the/AT block/NN wall/NN ./pct
+The/AT outside/JJ 4-inch/JJ space/NN is/BEZ filled/VBN by/IN mortaring/VBG blocks/NNS on/IN edge/NN ./pct
+The/AT wooden/JJ bracing/NN between/IN the/AT roof/NN beams/NNS is/BEZ placed/VBN flush/JJ with/IN the/AT inside/NN of/IN the/AT wall/NN ./pct
+Mortar/NN is/BEZ poured/VBN between/IN this/DT bracing/NN and/CC the/AT 4-inch/JJ blocks/NNS on/IN edge/NN to/TO complete/VB the/AT wall/NN thickness/NN for/IN radiation/NN shielding/NN ./pct
+(/pct For/IN details/NNS see/VB inset/NN ,/pct fig./NN 5/CD ./pct
+The/AT first/OD one/CD or/CC two/CD roof/NN boards/NNS (/pct marked/VBN ``/pct E/NN ''/pct in/IN fig./NN 6/CD )/pct are/BER slipped/VBN into/IN place/NN across/IN the/AT roof/NN beams/NNS ,/pct from/IN outside/IN the/AT shelter/NN ./pct
+These/DTS boards/NNS are/BER nailed/VBN to/IN the/AT roof/NN beams/NNS by/IN reaching/VBG up/RP through/IN the/AT open/JJ space/NN between/IN the/AT beams/NNS ,/pct from/IN inside/IN the/AT shelter/NN ./pct
+Concrete/NN blocks/NNS are/BER passed/VBN between/IN the/AT beams/NNS and/CC put/VBN on/IN the/AT boards/NNS ./pct
+The/AT roof/NN blocks/NNS are/BER in/IN two/CD layers/NNS and/CC are/BER not/NEG mortared/VBN together/RB ./pct
+Work/NN on/IN the/AT roof/NN continues/VBZ in/IN this/DT way/NN ./pct
+The/AT last/AP roof/NN boards/NNS are/BER covered/VBN with/IN blocks/NNS from/IN outside/IN the/AT shelter/NN ./pct
+When/WRB the/AT roof/NN blocks/NNS are/BER all/ABN in/IN place/NN ,/pct the/AT final/JJ rows/NNS of/IN wall/NN blocks/NNS are/BER mortared/VBN into/IN position/NN ./pct
+The/AT structure/NN is/BEZ complete/JJ ./pct
+(/pct See/VB fig./NN 7/CD ./pct
+)/pct Building/VBG plans/NNS are/BER on/IN page/NN 21/CD ./pct
+Solid/JJ concrete/NN blocks/NNS ,/pct relatively/QL heavy/JJ and/CC dense/JJ ,/pct are/BER used/VBN for/IN this/DT shelter/NN ./pct
+These/DTS blocks/NNS are/BER sold/VBN in/IN various/JJ sizes/NNS so/RB it/PPS seldom/RB is/BEZ necessary/JJ to/TO cut/VB a/AT block/NN to/TO fit/VB ./pct
+Solid/JJ blocks/NNS are/BER recommended/VBN because/CS hollow/JJ blocks/NNS would/MD have/HV to/TO be/BE filled/VBN with/IN concrete/NN to/TO give/VB effective/JJ protection/NN ./pct
+Bricks/NNS are/BER an/AT alternative/NN ./pct
+If/CS they/PPSS are/BER used/VBN ,/pct the/AT walls/NNS and/CC roof/NN should/MD be/BE 10/CD inches/NNS thick/JJ to/TO give/VB the/AT same/AP protection/NN as/CS the/AT 8-inch/JJ solid/JJ concrete/NN blocks/NNS ./pct
+The/AT illustrations/NNS in/IN fig./NN 8/CD show/VB how/WRB to/TO lay/VB a/AT concrete/NN block/NN wall/NN ./pct
+More/QL detailed/VBN instructions/NNS may/MD be/BE obtained/VBN from/IN your/PPg local/JJ building/VBG supply/NN houses/NNS and/CC craftsmen/NNS ./pct
+Other/AP sources/NNS of/IN information/NN include/VB the/AT National/JJ Concrete/NN Masonry/NN Association/NN ,/pct 38/CD South/JJ Dearborn/NP Street/NN ,/pct Chicago/NP ,/pct Ill./NP ,/pct the/AT Portland/NP Cement/NN Association/NN ,/pct 33/CD West/JJ Grand/JJ Avenue/NN ,/pct Chicago/NP ,/pct Ill./NP ,/pct and/CC the/AT Structural/JJ Clay/NN Products/NNS Association/NN ,/pct Washington/NP ,/pct D.C./NP ./pct
+Aboveground/JJ double-wall/NN shelter/NN
+An/AT outdoor/JJ ,/pct aboveground/JJ fallout/NN shelter/NN also/RB may/MD be/BE built/VBN with/IN concrete/NN blocks/NNS ./pct
+(/pct See/VB fig./NN 9/CD ,/pct double-wall/NN shelter/NN ./pct
+)/pct Most/AP people/NNS would/MD have/HV to/TO hire/VB a/AT contractor/NN to/TO build/VB this/DT shelter/NN ./pct
+Plans/NNS are/BER on/IN pages/NNS 22/CD and/CC 23/CD ./pct
+This/DT shelter/NN could/MD be/BE built/VBN in/IN regions/NNS where/WRB water/NN or/CC rock/NN is/BEZ close/RB to/IN the/AT surface/NN ,/pct making/VBG it/PPO impractical/JJ to/TO build/VB an/AT underground/JJ shelter/NN ./pct
+Two/CD walls/NNS of/IN concrete/NN blocks/NNS are/BER constructed/VBN at/IN least/AP 20/CD inches/NNS apart/RB ./pct
+The/AT space/NN between/IN them/PPO is/BEZ filled/VBN with/IN pit-run/JJ gravel/NN or/CC earth/NN ./pct
+The/AT walls/NNS are/BER held/VBN together/RB with/IN metal/NN ties/NNS placed/VBN in/IN the/AT wet/JJ mortar/NN as/CS the/AT walls/NNS are/BER built/VBN ./pct
+The/AT roof/NN shown/VBN here/RB (/pct fig./NN 9/CD )/pct is/BEZ a/AT 6-inch/JJ slab/NN of/IN reinforced/VBN concrete/NN ,/pct covered/VBN with/IN at/IN least/AP 20/CD inches/NNS of/IN pit-run/JJ gravel/NN ./pct
+An/AT alternate/JJ roof/NN ,/pct perhaps/RB more/RBR within/IN do-it-yourself/JJ reach/NN ,/pct could/MD be/BE constructed/VBN of/IN heavy/JJ wooden/JJ roof/NN beams/NNS ,/pct overlaid/VBN with/IN boards/NNS and/CC waterproofing/NN ./pct
+It/PPS would/MD have/HV to/TO be/BE covered/VBN with/IN at/IN least/AP 28/CD inches/NNS of/IN pit-run/JJ gravel/NN ./pct
+The/AT materials/NNS for/IN a/AT double-wall/NN shelter/NN would/MD cost/VB about/RB $700/NNS ./pct
+Contractors'/NNSg charges/NNS would/MD be/BE additional/JJ ./pct
+The/AT shelter/NN would/MD provide/VB almost/QL absolute/JJ fallout/NN protection/NN ./pct
+Pre-shaped/JJ metal/NN shelter/NN
+Pre-shaped/JJ corrugated/VBN metal/NN sections/NNS or/CC pre-cast/JJ concrete/NN can/MD be/BE used/VBN for/IN shelters/NNS either/CC above/IN or/CC below/IN ground/NN ./pct
+These/DTS are/BER particularly/QL suitable/JJ for/IN regions/NNS where/WRB water/NN or/CC rock/NN is/BEZ close/RB to/IN the/AT surface/NN ./pct
+They/PPSS form/VB effective/JJ fallout/NN shelters/NNS when/WRB mounded/VBN over/RP with/IN earth/NN ,/pct as/CS shown/VBN in/IN figure/NN 10/CD ./pct
+Materials/NNS for/IN this/DT shelter/NN would/MD cost/VB about/RB $700/NNS ./pct
+A/AT contractor/NN probably/RB would/MD be/BE required/VBN to/TO help/VB build/VB it/PPO ./pct
+His/PPg charges/NNS would/MD be/BE added/VBN to/IN the/AT cost/NN of/IN materials/NNS ./pct
+This/DT shelter/NN ,/pct as/CS shown/VBN on/IN page/NN 24/CD ,/pct would/MD provide/VB almost/QL absolute/JJ protection/NN from/IN fallout/NN radiation/NN ./pct
+An/AT alternate/JJ hatchway/NN entrance/NN ,/pct shown/VBN on/IN page/NN 25/CD ,/pct would/MD reduce/VB the/AT cost/NN of/IN materials/NNS $50/NNS to/IN $100/NNS ./pct
+The/AT National/JJ Lumber/NN Manufacturers/NNS Association/NN ,/pct Washington/NP ,/pct D./NP C./NP ,/pct is/BEZ developing/VBG plans/NNS to/TO utilize/VB specially/RB treated/VBN lumber/NN for/IN underground/JJ shelter/NN construction/NN ./pct
+The/AT Structural/JJ Clay/NN Products/NNS Institute/NN ,/pct Washington/NP ,/pct D.C./NP ,/pct is/BEZ working/VBG to/TO develop/VB brick/NN and/CC clay/NN products/NNS suitable/JJ for/IN shelter/NN construction/NN ./pct
+Underground/JJ concrete/NN shelter/NN
+An/AT underground/JJ reinforced/VBN concrete/NN shelter/NN can/MD be/BE built/VBN by/IN a/AT contractor/NN for/IN about/RB $1,000/NNS to/IN $1,500/NNS ,/pct depending/IN on/IN the/AT type/NN of/IN entrance/NN ./pct
+The/AT shelter/NN shown/VBN would/MD provide/VB almost/QL absolute/JJ fallout/NN protection/NN ./pct
+The/AT illustration/NN (/pct fig./NN 11/CD )/pct shows/VBZ this/DT shelter/NN with/IN the/AT roof/NN at/IN ground/NN level/NN and/CC mounded/VBN over/RP ./pct
+The/AT same/AP shelter/NN could/MD be/BE built/VBN into/IN an/AT embankment/NN or/CC below/IN ground/NN level/NN ./pct
+Plans/NNS for/IN the/AT shelter/NN ,/pct with/IN either/CC a/AT stairway/NN or/CC hatchway/NN entrance/NN ,/pct are/BER shown/VBN on/IN pages/NNS 26/CD and/CC 27/CD ./pct
+Another/DT type/NN of/IN shelter/NN which/WDT gives/VBZ excellent/JJ fallout/NN protection/NN can/MD be/BE built/VBN as/CS an/AT added/VBN room/NN to/IN the/AT basement/NN of/IN a/AT home/NN under/IN construction/NN ./pct
+It/PPS would/MD add/VB about/RB $500/NNS to/IN the/AT total/NN cost/NN of/IN the/AT home/NN ./pct
+The/AT shelter/NN illustrated/VBN in/IN figure/NN 12/CD is/BEZ based/VBN on/IN such/ABL a/AT room/NN built/VBN in/IN a/AT new/JJ home/NN in/IN the/AT Washington/NP ,/pct D.C./NP area/NN in/IN the/AT Spring/NN of/IN 1959/CD ./pct
+Important/JJ considerations/NNS common/JJ to/IN each/DT type/NN of/IN shelter/NN are/BER :/pct 1/CD ./pct
+Arrangement/NN of/IN the/AT entrance/NN ./pct
+2/CD ./pct
+Ventilation/NN ./pct
+3/CD ./pct
+Radio/NN reception/NN ./pct
+4/CD ./pct
+Lighting/VBG ./pct
+The/AT entrance/NN must/MD have/HV at/IN least/AP one/CD right-angle/NN turn/NN ./pct
+Radiation/NN scatters/VBZ somewhat/RB like/CS light/NN ./pct
+Some/DTI will/MD go/VB around/IN a/AT corner/NN ./pct
+The/AT rest/NN continues/VBZ in/IN a/AT straight/JJ line/NN ./pct
+Therefore/RB ,/pct sharp/JJ turns/NNS in/IN a/AT shelter/NN entrance/NN will/MD reduce/VB radiation/NN intensity/NN inside/IN the/AT shelter/NN ./pct
+Ventilation/NN is/BEZ provided/VBN in/IN a/AT concrete/NN block/NN basement/NN shelter/NN by/IN vents/NNS in/IN the/AT wall/NN and/CC by/IN the/AT open/JJ entrance/NN ./pct
+A/AT blower/NN may/MD be/BE installed/VBN to/TO increase/VB comfort/NN ./pct
+A/AT blower/NN is/BEZ essential/JJ for/IN the/AT double-wall/NN shelter/NN and/CC for/IN the/AT underground/JJ shelters/NNS ./pct
+It/PPS should/MD provide/VB not/NEG less/AP than/IN 5/CD cubic/JJ feet/NNS per/IN minute/NN of/IN air/NN per/IN person/NN ./pct
+Vent/NN pipes/NNS also/RB are/BER necessary/JJ (/pct as/CS shown/VBN in/IN figs./NNS 9/CD ,/pct 10/CD ,/pct and/CC 11/CD )/pct ,/pct but/CC filters/NNS are/BER not/NEG ./pct
+Radio/NN reception/NN is/BEZ cut/VBN down/RP by/IN the/AT shielding/NN necessary/JJ to/TO keep/VB out/RP radiation/NN ./pct
+As/QL soon/RB as/CS the/AT shelter/NN is/BEZ completed/VBN a/AT radio/NN reception/NN check/NN must/MD be/BE made/VBN ./pct
+It/PPS probably/RB will/MD be/BE necessary/JJ to/TO install/VB an/AT outside/JJ antenna/NN ,/pct particularly/RB to/TO receive/VB CONELRAD/NN broadcasts/NNS ./pct
+Lighting/VBG is/BEZ an/AT important/JJ consideration/NN ./pct
+Continuous/JJ low-level/NN lighting/NN may/MD be/BE provided/VBN in/IN the/AT shelter/NN by/IN means/NNS of/IN a/AT 4-cell/JJ hot-shot/NN battery/NN to/IN which/WDT is/BEZ wired/VBN a/AT 150-milliampere/JJ flashlight-type/JJ bulb/NN ./pct
+Tests/NNS have/HV shown/VBN that/CS such/ABL a/AT device/NN ,/pct with/IN a/AT fresh/JJ battery/NN ,/pct will/MD furnish/VB light/NN continuously/RB for/IN at/IN least/AP 10/CD days/NNS ./pct
+With/IN a/AT spare/JJ battery/NN ,/pct a/AT source/NN of/IN light/NN for/IN 2/CD weeks/NNS or/CC more/AP would/MD be/BE assured/VBN ./pct
+A/AT flashlight/NN or/CC electric/JJ lantern/NN also/RB should/MD be/BE available/JJ for/IN those/DTS periods/NNS when/WRB a/AT brighter/JJR light/NN is/BEZ needed/VBN ./pct
+There/EX should/MD be/BE a/AT regular/JJ electrical/JJ outlet/NN in/IN the/AT shelter/NN as/CS power/NN may/MD continue/VB in/IN many/AP areas/NNS ./pct
+Other/AP considerations/NNS ./pct
+--/pct If/CS there/EX are/BER outside/JJ windows/NNS in/IN the/AT basement/NN corner/NN where/WRB you/PPSS build/VB a/AT shelter/NN ,/pct they/PPSS should/MD be/BE shielded/VBN as/CS shown/VBN in/IN the/AT Appendix/NN ,/pct page/NN 29/CD ./pct
+Other/AP basement/NN windows/NNS should/MD be/BE blocked/VBN when/WRB an/AT emergency/NN threatens/VBZ ./pct
+Basement/NN walls/NNS that/WPS project/VB above/IN the/AT ground/NN should/MD be/BE shielded/VBN as/CS shown/VBN in/IN the/AT Appendix/NN ,/pct page/NN 29/CD ./pct
+In/IN these/DTS shelters/NNS the/AT entrance/NN should/MD be/BE not/NEG more/AP than/IN 2/CD feet/NNS wide/JJ ./pct
+Bunks/NNS ,/pct or/CC materials/NNS to/TO build/VB them/PPO ,/pct may/MD have/HV to/TO be/BE put/VBN inside/IN the/AT enclosure/NN before/CS the/AT shelter/NN walls/NNS are/BER completed/VBN ./pct
+The/AT basement/NN or/CC belowground/JJ shelters/NNS also/RB will/MD serve/VB for/IN tornado/NN or/CC hurricane/NN protection/NN ./pct
+3/CD ./pct
+Living/VBG in/IN a/AT shelter/NN
+The/AT radioactivity/NN of/IN fallout/NN decays/VBZ rapidly/RB at/IN first/RB ./pct
+Forty-nine/CD hours/NNS after/IN an/AT atomic/JJ burst/NN the/AT radiation/NN intensity/NN is/BEZ only/RB about/RB 1/CD percent/NN of/IN what/WDT it/PPS was/BEDZ an/AT hour/NN after/IN the/AT explosion/NN ./pct
+But/CC the/AT radiation/NN may/MD be/BE so/QL intense/JJ at/IN the/AT start/NN that/CS one/CD percent/NN may/MD be/BE extremely/QL dangerous/JJ ./pct
+Therefore/RB ,/pct civil/JJ defense/NN instructions/NNS received/VBN over/IN CONELRAD/NN or/CC by/IN other/AP means/NNS should/MD be/BE followed/VBN ./pct
+A/AT battery-powered/JJ radio/NN is/BEZ essential/JJ ./pct
+Radiation/NN instruments/NNS suitable/JJ for/IN home/NR use/NN are/BER available/JJ ,/pct and/CC would/MD be/BE of/IN value/NN in/IN locating/VBG that/DT portion/NN of/IN the/AT home/NN which/WDT offers/VBZ the/AT best/JJT protection/NN against/IN fallout/NN radiation/NN ./pct
+There/EX is/BEZ a/AT possibility/NN that/CS battery-powered/JJ radios/NNS with/IN built-in/JJ radiation/NN meters/NNS may/MD become/VB available/JJ ./pct
+One/CD instrument/NN thus/RB would/MD serve/VB both/ABX purposes/NNS ./pct
+Your/PPg local/JJ civil/JJ defense/NN will/MD gather/VB its/PPg own/JJ information/NN and/CC will/MD receive/VB broad/JJ information/NN from/IN State/NN and/CC Federal/JJ sources/NNS ./pct
+It/PPS will/MD tell/VB you/PPO as/QL soon/RB as/CS possible/JJ :/pct
+How/WQL long/RB to/TO stay/VB in/IN your/PPg shelter/NN ;/pct ;/pct
+How/WQL soon/RB you/PPSS may/MD go/VB outdoors/RB ;/pct ;/pct
+How/WQL long/RB you/PPSS may/MD stay/VB outside/RB ./pct
+You/PPSS should/MD be/BE prepared/VBN to/TO stay/VB in/IN your/PPg shelter/NN full/JJ time/NN for/IN at/IN least/AP several/AP days/NNS and/CC to/TO make/VB it/PPO your/PPg home/NR for/IN 14/CD days/NNS or/CC longer/RBR ./pct
+A/AT checklist/NN in/IN the/AT Appendix/NN (/pct (/pct page/NN 30/CD )/pct tells/VBZ what/WDT is/BEZ needed/VBN ./pct
+Families/NNS with/IN children/NNS will/MD have/HV particular/JJ problems/NNS ./pct
+They/PPSS should/MD provide/VB for/IN simple/JJ recreation/NN ./pct
+There/EX should/MD be/BE a/AT task/NN for/IN everyone/PN and/CC these/DTS tasks/NNS should/MD be/BE rotated/VBN ./pct
+Part/NN of/IN the/AT family/NN should/MD be/BE sleeping/VBG while/CS the/AT rest/NN is/BEZ awake/JJ ./pct
+To/TO break/VB the/AT monotony/NN it/PPS may/MD be/BE necessary/JJ to/TO invent/VB tasks/NNS that/WPS will/MD keep/VB the/AT family/NN busy/JJ ./pct
+Records/NNS such/JJ as/CS diaries/NNS can/MD be/BE kept/VBN ./pct
+The/AT survival/NN of/IN the/AT family/NN will/MD depend/VB largely/RB on/IN information/NN received/VBN by/IN radio/NN ./pct
+A/AT record/NN should/MD be/BE kept/VBN of/IN the/AT information/NN and/CC instructions/NNS ,/pct including/IN the/AT time/NN and/CC date/NN of/IN broadcast/NN ./pct
+Family/NN rationing/NN probably/RB will/MD be/BE necessary/JJ ./pct
+Blowers/NNS should/MD be/BE operated/VBN periodically/RB on/IN a/AT regular/JJ schedule/NN ./pct
+There/EX will/MD come/VB a/AT time/NN in/IN a/AT basement/NN shelter/NN when/WRB the/AT radiation/NN has/HVZ decayed/VBN enough/RB to/TO allow/VB use/NN of/IN the/AT whole/JJ basement/NN ./pct
+However/RB ,/pct as/QL much/AP time/NN as/CS possible/JJ should/MD be/BE spent/VBN within/IN the/AT shelter/NN to/TO hold/VB radiation/NN exposure/NN to/IN a/AT minimum/NN ./pct
+The/AT housekeeping/NN problems/NNS of/IN living/VBG in/IN a/AT shelter/NN will/MD begin/VB as/QL soon/RB as/CS the/AT shelter/NN is/BEZ occupied/VBN ./pct
+Food/NN ,/pct medical/JJ supplies/NNS ,/pct utensils/NNS ,/pct and/CC equipment/NN ,/pct if/CS not/NEG already/RB stored/VBN in/IN the/AT shelter/NN ,/pct must/MD be/BE quickly/RB gathered/VBN up/RP and/CC carried/VBN into/IN it/PPO ./pct
+After/CS the/AT family/NN has/HVZ settled/VBN in/IN the/AT shelter/NN ,/pct the/AT housekeeping/NN rules/NNS should/MD be/BE spelled/VBN out/RP by/IN the/AT adult/NN in/IN charge/NN ./pct
+Sanitation/NN in/IN the/AT confines/NNS of/IN the/AT family/NN shelter/NN will/MD require/VB much/AP thought/NN and/CC planning/NN ./pct
+Provision/NN for/IN emergency/NN toilet/NN facilities/NNS and/CC disposal/NN of/IN human/JJ wastes/NNS will/MD be/BE an/AT unfamiliar/JJ problem/NN ./pct
+A/AT covered/VBN container/NN such/JJ as/CS a/AT kitchen/NN garbage/NN pail/NN might/MD do/DO as/CS a/AT toilet/NN ./pct
+A/AT 10-gallon/JJ garbage/NN can/NN ,/pct with/IN a/AT tightly/RB fitting/VBG cover/NN ,/pct could/MD be/BE used/VBN to/TO keep/VB the/AT wastes/NNS until/CS it/PPS is/BEZ safe/JJ to/TO leave/VB the/AT shelter/NN ./pct
+Water/NN rationing/NN will/MD be/BE difficult/JJ and/CC should/MD be/BE planned/VBN carefully/RB ./pct
+A/AT portable/JJ electric/JJ heater/NN is/BEZ advisable/JJ for/IN shelters/NNS in/IN cold/JJ climates/NNS ./pct
+It/PPS would/MD take/VB the/AT chill/NN from/IN the/AT shelter/NN in/IN the/AT beginning/NN ./pct
+Even/RB if/CS the/AT electric/JJ power/NN fails/VBZ after/IN an/AT attack/NN ,/pct any/DTI time/NN that/CS the/AT heater/NN has/HVZ been/BEN used/VBN will/MD make/VB the/AT shelter/NN that/QL much/QL more/QL comfortable/JJ ./pct
+Body/NN heat/NN in/IN the/AT close/JJ quarters/NNS will/MD help/VB keep/VB up/RP the/AT temperature/NN ./pct
+Warm/JJ clothing/NN and/CC bedding/NN ,/pct of/IN course/NN ,/pct are/BER essential/JJ ./pct
+Open-flame/NN heating/NN or/CC cooking/VBG should/MD be/BE avoided/VBN ./pct
+A/AT flame/NN would/MD use/VB up/RP air/NN ./pct
+Some/DTI families/NNS already/RB have/HV held/VBN weekend/NN rehearsals/NNS in/IN their/PPg home/NN shelters/NNS to/TO learn/VB the/AT problems/NNS and/CC to/TO determine/VB for/IN themselves/PPLS what/WDT supplies/NNS they/PPSS would/MD need/VB ./pct
+4/CD ./pct
+If/CS an/AT attack/NN finds/VBZ you/PPO without/IN a/AT prepared/VBN shelter/NN
+Few/AP areas/NNS ,/pct if/CS any/DTI ,/pct are/BER as/QL good/JJ as/CS prepared/VBN shelters/NNS but/CC they/PPSS are/BER worth/JJ knowing/VBG about/IN ./pct
+A/AT family/NN dwelling/NN without/IN a/AT basement/NN provides/VBZ some/DTI natural/JJ shielding/NN from/IN fallout/NN radiation/NN ./pct
+On/IN the/AT ground/NN floor/NN the/AT radiation/NN would/MD be/BE about/RB half/RB what/WDT it/PPS is/BEZ outside/RB ./pct
+The/AT best/JJT protection/NN would/MD be/BE on/IN the/AT ground/NN floor/NN in/IN the/AT central/JJ part/NN of/IN the/AT house/NN ./pct
+A/AT belowground/JJ basement/NN can/MD cut/VB the/AT fallout/NN radiation/NN to/IN one-tenth/NN of/IN the/AT outside/JJ level/NN ./pct
+The/AT safest/JJT place/NN is/BEZ the/AT basement/NN corner/NN least/RBT exposed/VBN to/IN windows/NNS and/CC deepest/RBT below/IN ground/NN ./pct
+If/CS there/EX is/BEZ time/NN after/IN the/AT warning/VBG ,/pct the/AT basement/NN shielding/NN could/MD be/BE improved/VBN substantially/RB by/IN blocking/VBG windows/NNS with/IN bricks/NNS ,/pct dirt/NN ,/pct books/NNS ,/pct magazines/NNS ,/pct or/CC other/AP heavy/JJ material/NN ./pct
+5/CD ./pct
+Shelter/NN in/IN apartment/NN buildings/NNS
+Large/JJ apartment/NN buildings/NNS of/IN masonry/NN or/CC concrete/NN provide/VB better/JJR natural/JJ shelter/NN than/CS the/AT usual/JJ family/NN dwellings/NNS ./pct
+In/IN general/JJ ,/pct such/JJ apartments/NNS afford/VB more/AP protection/NN than/CS smaller/JJR buildings/NNS because/CS their/PPg walls/NNS are/BER thick/JJ and/CC there/EX is/BEZ more/AP space/NN ./pct
+The/AT central/JJ area/NN of/IN the/AT ground/NN floor/NN of/IN a/AT heavily/RB constructed/VBN apartment/NN building/NN ,/pct with/IN concrete/NN floors/NNS ,/pct should/MD provide/VB more/AP fallout/NN protection/NN than/CS the/AT ordinary/JJ basement/NN of/IN a/AT family/NN dwelling/NN ./pct
+The/AT basement/NN of/IN such/ABL an/AT apartment/NN building/NN may/MD provide/VB as/QL much/AP natural/JJ protection/NN as/CS the/AT specially/RB constructed/VBN concrete/NN block/NN shelter/NN recommended/VBN for/IN the/AT basement/NN of/IN a/AT family/NN dwelling/NN ./pct
+The/AT Federal/JJ Government/NN is/BEZ aiding/VBG local/JJ governments/NNS in/IN several/AP places/NNS to/TO survey/VB residential/JJ ,/pct commercial/JJ and/CC industrial/JJ buildings/NNS to/TO determine/VB what/WDT fallout/NN protection/NN they/PPSS would/MD provide/VB ,/pct and/CC for/IN how/WQL many/AP people/NNS ./pct
+The/AT problem/NN for/IN the/AT city/NN apartment/NN dweller/NN is/BEZ primarily/RB to/TO plan/VB the/AT use/NN of/IN existing/VBG space/NN ./pct
+Such/JJ planning/NN will/MD require/VB the/AT cooperation/NN of/IN other/AP occupants/NNS and/CC of/IN the/AT apartment/NN management/NN ./pct

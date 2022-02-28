@@ -1,0 +1,108 @@
+Consider/VB a/AT simple/JJ ,/pct closed/VBN ,/pct plane/NN curve/NN C/NN which/WDT is/BEZ a/AT real-analytic/JJ image/NN of/IN the/AT unit/NN circle/NN ,/pct and/CC which/WDT is/BEZ given/VBN by/IN Af/NN ./pct
+These/DTS are/BER real/JJ analytic/JJ periodic/JJ functions/NNS with/IN period/NN T/NN ./pct
+In/IN the/AT following/VBG paper/NN it/PPS is/BEZ shown/VBN that/CS in/IN a/AT certain/AP definite/JJ sense/NN ,/pct exactly/RB an/AT odd/JJ number/NN of/IN squares/NNS can/MD be/BE inscribed/VBN in/IN every/AT such/JJ curve/NN which/WDT does/DOZ not/NEG contain/VB an/AT infinite/JJ number/NN of/IN inscribed/VBN squares/NNS ./pct
+This/DT theorem/NN is/BEZ similar/JJ to/IN the/AT theorem/NN of/IN Kakutani/NP that/CS there/EX exists/VBZ a/AT circumscribing/VBG cube/NN around/IN any/DTI closed/VBN ,/pct bounded/VBN convex/JJ set/NN in/IN Af/NN ./pct
+The/AT latter/AP theorem/NN has/HVZ been/BEN generalized/VBN by/IN Yamabe/NP and/CC Yujobo/NP ,/pct and/CC Cairns/NP to/TO show/VB that/CS in/IN Af/NN there/EX are/BER families/NNS of/IN such/JJ cubes/NNS ./pct
+Here/RB ,/pct for/IN the/AT case/NN of/IN squares/NNS inscribed/VBN in/IN plane/NN curves/NNS ,/pct we/PPSS remove/VB the/AT restriction/NN to/IN convexity/NN and/CC give/VB certain/AP other/AP results/NNS ./pct
+A/AT square/NN inscribed/VBN in/IN a/AT curve/NN C/NN means/VBZ a/AT square/NN with/IN its/PPg four/CD corner/NN points/NNS on/IN the/AT curve/NN ,/pct though/CS it/PPS may/MD not/NEG lie/VB entirely/RB in/IN the/AT interior/NN of/IN C/NN ./pct
+Indeed/RB ,/pct the/AT spiral/NN Af/NN ,/pct with/IN the/AT two/CD endpoints/NNS connected/VBN by/IN a/AT straight/JJ line/NN possesses/VBZ only/RB one/CD inscribed/VBN square/NN ./pct
+The/AT square/NN has/HVZ one/CD corner/NN point/NN on/IN the/AT straight/JJ line/NN segment/NN ,/pct and/CC does/DOZ not/NEG lie/VB entirely/RB in/IN the/AT interior/NN ./pct
+On/IN C/NN ,/pct from/IN the/AT point/NN P/NN at/IN Af/NN to/IN the/AT point/NN Q/NN at/IN Af/NN ,/pct we/PPSS construct/VB the/AT chord/NN ,/pct and/CC upon/IN the/AT chord/NN as/CS a/AT side/NN erect/VB a/AT square/NN in/IN such/ABL a/AT way/NN that/CS as/CS S/NP approaches/VBZ zero/CD the/AT square/NN is/BEZ inside/IN C/NN ./pct
+As/CS S/NP increases/VBZ we/PPSS consider/VB the/AT two/CD free/JJ corner/NN points/NNS of/IN the/AT square/NN ,/pct Af/NN and/CC Af/NN ,/pct adjacent/JJ to/IN P/NN and/CC Q/NN respectively/RB ./pct
+As/CS S/NP approaches/VBZ T/NN the/AT square/NN will/MD be/BE outside/IN C/NN and/CC therefore/RB both/ABX Af/NN and/CC Af/NN must/MD cross/VB C/NN an/AT odd/JJ number/NN of/IN times/NNS as/CS S/NP varies/VBZ from/IN zero/CD to/IN T/NN ./pct
+The/AT points/NNS may/MD also/RB touch/VB C/NN without/IN crossing/VBG ./pct
+Suppose/VB Af/NN crosses/VBZ C/NN when/WRB Af/NN ./pct
+We/PPSS now/RB have/HV certain/AP squares/NNS with/IN three/CD corners/NNS on/IN C/NN ./pct
+For/IN any/DTI such/JJ square/NN the/AT middle/JJ corner/NN of/IN these/DTS will/MD be/BE called/VBN the/AT vertex/NN of/IN the/AT square/NN and/CC the/AT corner/NN not/NEG on/IN the/AT curve/NN will/MD be/BE called/VBN the/AT diagonal/JJ point/NN of/IN the/AT square/NN ./pct
+Each/DT point/NN on/IN C/NN ,/pct as/CS a/AT vertex/NN ,/pct may/MD possess/VB a/AT finite/JJ number/NN of/IN corresponding/JJ diagonal/JJ points/NNS by/IN the/AT above/JJ construction/NN ./pct
+To/IN each/DT paired/VBN vertex/NN and/CC diagonal/JJ point/NN there/EX corresponds/VBZ a/AT unique/JJ forward/JJ corner/NN point/NN ,/pct i.e./RB ,/pct the/AT corner/NN on/IN C/NN reached/VBN first/RB by/IN proceeding/VBG along/IN C/NN from/IN the/AT vertex/NN in/IN the/AT direction/NN of/IN increasing/VBG T/NP ./pct
+If/CS the/AT vertex/NN is/BEZ at/IN Af/NN ,/pct and/CC if/CS the/AT interior/NN of/IN C/NN is/BEZ on/IN the/AT left/NR as/CS one/PN moves/VBZ in/IN the/AT direction/NN of/IN increasing/VBG t/NN ,/pct then/RB every/AT such/JJ corner/NN can/MD be/BE found/VBN from/IN the/AT curve/NN obtained/VBN by/IN rotating/VBG C/NN clockwise/RB through/IN 90-degrees/NNS about/IN the/AT vertex/NN ./pct
+The/AT set/NN of/IN intersections/NNS of/IN Af/NN ,/pct the/AT rotated/VBN curve/NN ,/pct with/IN the/AT original/JJ curve/NN C/NN consists/VBZ of/IN just/RB the/AT set/NN of/IN forward/JJ corner/NN points/NNS on/IN C/NN corresponding/VBG to/IN the/AT vertex/NN at/IN Af/NN ,/pct plus/IN the/AT vertex/NN itself/PPL ./pct
+We/PPSS note/VB that/CS two/CD such/JJ curves/NNS C/NN and/CC Af/NN ,/pct cannot /None coincide/VB at/IN more/AP than/IN a/AT finite/JJ number/NN of/IN points/NNS ;/pct ;/pct
+otherwise/RB ,/pct being/BEG analytic/JJ ,/pct they/PPSS would/MD coincide/VB at/IN all/ABN points/NNS ,/pct which/WDT is/BEZ impossible/JJ since/CS they/PPSS do/DO not/NEG coincide/VB near/IN Af/NN ./pct
+With/IN each/DT vertex/NN we/PPSS associate/VB certain/AP numerical/JJ values/NNS ,/pct namely/RB the/AT set/NN of/IN positive/JJ differences/NNS in/IN the/AT parameter/NN T/NP between/IN the/AT vertex/NN and/CC its/PPg corresponding/JJ forward/JJ corner/NN points/NNS ./pct
+For/IN the/AT vertex/NN at/IN Af/NN ,/pct these/DTS values/NNS will/MD be/BE denoted/VBN by/IN Af/NN ./pct
+The/AT function/NN f{t}/NN defined/VBN in/IN this/DT way/NN is/BEZ multi-valued/JJ ./pct
+We/PPSS consider/VB now/RB the/AT graph/NN of/IN the/AT function/NN f{t}/NN on/IN Af/NN ./pct
+We/PPSS will/MD refer/VB to/IN the/AT plane/NN of/IN C/NN and/CC Af/NN as/CS the/AT C-plane/NN and/CC to/IN the/AT plane/NN of/IN the/AT graph/NN as/CS the/AT Aj/NN ./pct
+The/AT graph/NN ,/pct as/CS a/AT set/NN ,/pct may/MD have/HV a/AT finite/JJ number/NN of/IN components/NNS ./pct
+We/PPSS will/MD denote/VB the/AT values/NNS of/IN f{t}/NN on/IN different/JJ components/NNS by/IN Af/NN ./pct
+Each/DT point/NN with/IN abscissa/NN T/NP on/IN the/AT graph/NN represents/VBZ an/AT intersection/NN between/IN C/NN and/CC Af/NN ./pct
+There/EX are/BER two/CD types/NNS of/IN such/JJ intersections/NNS ,/pct depending/IN essentially/RB on/IN whether/CS the/AT curves/NNS cross/VB at/IN the/AT point/NN of/IN intersection/NN ./pct
+An/AT ordinary/JJ point/NN will/MD be/BE any/DTI point/NN of/IN intersection/NN A/NN such/JJ that/CS in/IN every/AT neighborhood/NN of/IN A/NN in/IN the/AT C-plane/NN ,/pct Af/NN meets/VBZ both/ABX the/AT interior/NN and/CC the/AT exterior/NN of/IN C/NN ./pct
+Any/DTI other/AP point/NN of/IN intersection/NN between/IN C/NN and/CC Af/NN will/MD be/BE called/VBN a/AT tangent/JJ point/NN ./pct
+This/DT terminology/NN will/MD also/RB be/BE applied/VBN to/IN the/AT corresponding/JJ points/NNS in/IN the/AT Aj/NN ./pct
+We/PPSS can/MD now/RB prove/VB several/AP lemmas/NNS ./pct
+Lemma/NN 1/CD ./pct
+In/IN some/DTI neighborhood/NN in/IN the/AT f-plane/NN of/IN any/DTI ordinary/JJ point/NN of/IN the/AT graph/NN ,/pct the/AT function/NN f/NN is/BEZ a/AT single-valued/JJ ,/pct continuous/JJ function/NN ./pct
+Proof/NN ./pct
+We/PPSS first/RB show/VB that/CS the/AT function/NN is/BEZ single-valued/JJ in/IN some/DTI neighborhood/NN ./pct
+With/IN the/AT vertex/NN at/IN Af/NN in/IN the/AT C-plane/NN we/PPSS assume/VB that/CS Af/NN is/BEZ the/AT parametric/JJ location/NN on/IN C/NN of/IN an/AT ordinary/JJ intersection/NN Q/NN between/IN C/NN and/CC Af/NN ./pct
+In/IN the/AT f-plane/NN the/AT coordinates/NNS of/IN the/AT corresponding/JJ point/NN are/BER Af/NN ./pct
+We/PPSS know/VB that/CS in/IN the/AT C-plane/NN both/ABX C/NN and/CC Af/NN are/BER analytic/JJ ./pct
+In/IN the/AT C-plane/NN we/PPSS construct/VB a/AT set/NN of/IN rectangular/JJ Cartesian/JJ coordinates/NNS u/NN ,/pct V/NP with/IN the/AT origin/NN at/IN Q/NN and/CC such/JJ that/CS both/ABX C/NN and/CC Af/NN have/HV finite/JJ slope/NN at/IN Q/NN ./pct
+Near/IN Q/NN ,/pct both/ABX curves/NNS can/MD be/BE represented/VBN by/IN analytic/JJ functions/NNS of/IN U/NP ./pct
+In/IN a/AT neighborhood/NN of/IN Q/NN the/AT difference/NN between/IN these/DTS functions/NNS is/BEZ also/RB a/AT single-valued/JJ ,/pct analytic/JJ function/NN of/IN U/NP ./pct
+Furthermore/RB ,/pct one/PN can/MD find/VB a/AT neighborhood/NN of/IN Q/NN in/IN which/WDT the/AT difference/NN function/NN is/BEZ monotone/JJ ,/pct for/CS since/CS it/PPS is/BEZ analytic/JJ it/PPS can/MD have/HV only/RB a/AT finite/JJ number/NN of/IN extrema/NNS in/IN any/DTI interval/NN ./pct
+Now/RB ,/pct to/TO find/VB Af/NN ,/pct one/PN needs/VBZ the/AT intersection/NN of/IN C/NN and/CC Af/NN near/IN Q/NN ./pct
+But/CC Af/NN is/BEZ just/RB the/AT curve/NN Af/NN translated/VBN without/IN rotation/NN through/IN a/AT small/JJ arc/NN ,/pct for/CS Af/NN is/BEZ always/RB obtained/VBN by/IN rotating/VBG C/NN through/IN exactly/RB 90-degrees/NNS ./pct
+The/AT arc/NN is/BEZ itself/PPL a/AT segment/NN of/IN an/AT analytic/JJ curve/NN ./pct
+Thus/RB if/CS E/NP is/BEZ sufficiently/QL small/JJ ,/pct there/EX can/MD be/BE only/RB one/CD intersection/NN of/IN C/NN and/CC Af/NN near/IN Q/NN ,/pct for/CS if/CS there/EX were/BED more/AP than/IN one/CD intersection/NN for/IN every/AT E/NP then/RB the/AT difference/NN between/IN C/NN and/CC Af/NN near/IN Q/NN would/MD not/NEG be/BE a/AT monotone/JJ function/NN ./pct
+Therefore/RB ,/pct Af/NN is/BEZ single-valued/JJ near/IN Q/NN ./pct
+It/PPS is/BEZ also/RB seen/VBN that/CS Af/NN ,/pct since/CS the/AT change/NN from/IN Af/NN to/IN Af/NN is/BEZ accomplished/VBN by/IN a/AT continuous/JJ translation/NN ./pct
+Thus/RB Af/NN is/BEZ also/RB continuous/JJ at/IN Af/NN ,/pct and/CC in/IN a/AT neighborhood/NN of/IN Af/NN which/WDT does/DOZ not/NEG contain/VB a/AT tangent/JJ point/NN ./pct
+We/PPSS turn/VB now/RB to/IN the/AT set/NN of/IN tangent/JJ points/NNS on/IN the/AT graph/NN ./pct
+This/DT set/NN must/MD consist/VB of/IN isolated/VBN points/NNS and/CC closed/VBN intervals/NNS ./pct
+The/AT fact/NN that/CS there/EX can/MD not/NEG be/BE any/DTI limit/NN points/NNS of/IN the/AT set/NN except/IN in/IN closed/VBN intervals/NNS follows/VBZ from/IN the/AT argument/NN used/VBN in/IN Lemma/NN 1/CD ,/pct namely/RB ,/pct that/CS near/IN any/DTI tangent/JJ point/NN in/IN the/AT C-plane/NN the/AT curves/NNS C/NN and/CC Af/NN are/BER analytic/JJ ,/pct and/CC therefore/RB the/AT difference/NN between/IN them/PPO must/MD be/BE a/AT monotone/JJ function/NN in/IN some/DTI neighborhood/NN on/IN either/DTX side/NN of/IN the/AT tangent/JJ point/NN ./pct
+This/DT prevents/VBZ the/AT occurrence/NN of/IN an/AT infinite/JJ sequence/NN of/IN isolated/VBN tangent/JJ points/NNS ./pct
+Lemma/NN 2/CD ./pct
+In/IN some/DTI neighborhood/NN of/IN an/AT isolated/VBN tangent/JJ point/NN in/IN the/AT f-plane/NN ,/pct say/UH Af/NN ,/pct the/AT function/NN Af/NN is/BEZ either/CC double-valued/JJ or/CC has/HVZ no/AT values/NNS defined/VBN ,/pct except/IN at/IN the/AT tangent/JJ point/NN itself/PPL ,/pct where/WRB it/PPS is/BEZ single-valued/JJ ./pct
+Proof/NN ./pct
+A/AT tangent/JJ point/NN Q/NN in/IN the/AT C-plane/NN occurs/VBZ when/WRB C/NN and/CC Af/NN are/BER tangent/JJ to/IN one/CD another/DT ./pct
+A/AT continuous/JJ change/NN in/IN T/NP through/IN an/AT amount/NN E/NP results/VBZ in/IN a/AT translation/NN along/IN an/AT analytic/JJ arc/NN of/IN the/AT curve/NN Af/NN ./pct
+There/EX are/BER three/CD possibilities/NNS :/pct (/pct A/NP )/pct Af/NN remains/VBZ tangent/JJ to/IN C/NN as/CS it/PPS is/BEZ translated/VBN ;/pct ;/pct
+(/pct B/NP )/pct Af/NN moves/VBZ away/RB from/IN C/NN and/CC does/DOZ not/NEG intersect/VB it/PPO at/IN all/ABN for/IN Af/NN ;/pct ;/pct
+(/pct C/NP )/pct Af/NN cuts/VBZ across/IN C/NN and/CC there/EX are/BER two/CD ordinary/JJ intersections/NNS for/IN every/AT T/NP in/IN Af/NN ./pct
+The/AT first/OD possibility/NN results/VBZ in/IN a/AT closed/VBN interval/NN of/IN tangent/JJ points/NNS in/IN the/AT f-plane/NN ,/pct the/AT end/NN points/NNS of/IN which/WDT fall/VB into/IN category/NN (/pct B/NP )/pct or/CC (/pct C/NP )/pct ./pct
+In/IN the/AT second/OD category/NN the/AT function/NN Af/NN has/HVZ no/AT values/NNS defined/VBN in/IN a/AT neighborhood/NN Af/NN ./pct
+In/IN the/AT third/OD category/NN the/AT function/NN is/BEZ double-valued/JJ in/IN this/DT interval/NN ./pct
+The/AT same/AP remarks/NNS apply/VB to/IN an/AT interval/NN on/IN the/AT other/AP side/NN of/IN Af/NN ./pct
+Again/RB ,/pct the/AT analyticity/NN of/IN the/AT two/CD curves/NNS guarantees/VBZ that/CS such/JJ intervals/NNS exist/VB ./pct
+In/IN the/AT neighborhood/NN of/IN an/AT end/NN point/NN of/IN an/AT interval/NN of/IN tangent/JJ points/NNS in/IN the/AT f-plane/NN the/AT function/NN is/BEZ two-valued/JJ or/CC no-valued/JJ on/IN one/CD side/NN ,/pct and/CC is/BEZ a/AT single-valued/JJ function/NN consisting/VBG entirely/RB of/IN tangent/JJ points/NNS on/IN the/AT other/AP side/NN ./pct
+With/IN the/AT above/JJ results/NNS we/PPSS can/MD make/VB the/AT following/VBG remarks/NNS about/IN the/AT graph/NN of/IN F/NP ./pct
+First/RB ,/pct for/IN any/DTI value/NN of/IN T/NP for/IN which/WDT all/ABN values/NNS of/IN f{t}/NN are/BER ordinary/JJ points/NNS the/AT number/NN of/IN values/NNS of/IN f{t}/NN must/MD be/BE odd/JJ ./pct
+For/CS it/PPS is/BEZ clear/JJ that/CS the/AT total/NN number/NN of/IN ordinary/JJ intersections/NNS of/IN C/NN and/CC Af/NN must/MD be/BE even/JJ (/pct otherwise/RB ,/pct starting/VBG in/IN the/AT interior/NN of/IN C/NN ,/pct Af/NN could/MD not/NEG finally/RB return/VB to/IN the/AT interior/NN )/pct ,/pct and/CC the/AT center/NN of/IN rotation/NN at/IN T/NP is/BEZ the/AT argument/NN of/IN the/AT function/NN ,/pct not/NEG a/AT value/NN ./pct
+Therefore/RB ,/pct for/IN any/DTI value/NN of/IN T/NP the/AT number/NN of/IN values/NNS of/IN f{t}/NN is/BEZ equal/JJ to/IN the/AT (/pct finite/JJ )/pct number/NN of/IN tangent/JJ points/NNS corresponding/VBG to/IN the/AT argument/NN T/NP plus/IN an/AT odd/JJ number/NN ./pct
+Definition/NN ./pct
+The/AT number/NN of/IN ordinary/JJ values/NNS of/IN the/AT function/NN f{t}/NN at/IN T/NP will/MD be/BE called/VBN its/PPg multiplicity/NN at/IN T/NP ./pct
+Lemma/NN 3/CD ./pct
+The/AT graph/NN of/IN f/NN has/HVZ at/IN least/AP one/CD component/NN whose/WPg support/NN is/BEZ the/AT entire/JJ interval/NN Aj/NN ./pct
+Proof/NN
+./pct
+We/PPSS suppose/VB not/NEG ./pct
+Then/RB every/AT component/NN of/IN the/AT graph/NN of/IN F/NP must/MD be/BE defined/VBN over/IN a/AT bounded/VBN sub-interval/NN ./pct
+Suppose/VB Af/NN is/BEZ defined/VBN in/IN the/AT sub-interval/NN Af/NN ./pct
+Now/RB Af/NN and/CC Af/NN must/MD both/ABX be/BE tangent/JJ points/NNS on/IN the/AT T/NP component/NN in/IN the/AT f-plane/NN ;/pct ;/pct
+otherwise/RB by/IN Lemma/NN 1/CD the/AT component/NN would/MD extend/VB beyond/IN these/DTS points/NNS ./pct
+Further/RBR ,/pct we/PPSS see/VB by/IN Lemma/NN 2/CD that/CS the/AT multiplicity/NN of/IN F/NP can/MD only/RB change/VB at/IN a/AT tangent/JJ point/NN ,/pct and/CC at/IN such/ABL a/AT point/NN can/MD only/RB change/VB by/IN an/AT even/JJ integer/NN ./pct
+Thus/RB the/AT multiplicity/NN of/IN Af/NN for/IN a/AT given/VBN T/NP must/MD be/BE an/AT even/JJ number/NN ./pct
+This/DT is/BEZ true/JJ of/IN all/ABN components/NNS which/WDT have/HV such/ABL a/AT bounded/VBN support/NN ./pct
+But/CC this/DT is/BEZ a/AT contradiction/NN ,/pct for/CS we/PPSS know/VB that/CS the/AT multiplicity/NN of/IN f{t}/NN is/BEZ odd/JJ for/IN every/AT T/NP ./pct
+We/PPSS have/HV shown/VBN that/CS the/AT graph/NN of/IN F/NP contains/VBZ at/IN least/AP one/CD component/NN whose/WPg inverse/NN is/BEZ the/AT entire/JJ interval/NN {0,T}/NN ,/pct and/CC whose/WPg multiplicity/NN is/BEZ odd/JJ ./pct
+There/EX must/MD be/BE an/AT odd/JJ number/NN of/IN such/JJ components/NNS ,/pct which/WDT will/MD be/BE called/VBN complete/JJ components/NNS ./pct
+The/AT remaining/VBG (/pct incomplete/JJ )/pct components/NNS all/ABN have/HV an/AT even/JJ number/NN of/IN ordinary/JJ points/NNS at/IN any/DTI argument/NN ,/pct and/CC are/BER defined/VBN only/RB on/IN a/AT proper/JJ sub-interval/NN of/IN Aj/NN ./pct
+We/PPSS must/MD now/RB show/VB that/CS on/IN some/DTI component/NN of/IN the/AT graph/NN there/EX exist/VB two/CD points/NNS for/IN which/WDT the/AT corresponding/JJ diagonal/JJ points/NNS in/IN the/AT C-plane/NN are/BER on/IN opposite/JJ sides/NNS of/IN C/NN ./pct
+We/PPSS again/RB consider/VB a/AT fixed/VBN point/NN P/NN at/IN Af/NN and/CC a/AT variable/JJ point/NN Q/NN at/IN Af/NN on/IN C/NN ./pct
+We/PPSS erect/VB a/AT square/NN with/IN PQ/NN as/CS a/AT side/NN and/CC with/IN free/JJ corners/NNS Af/NN and/CC Af/NN adjacent/JJ to/IN P/NN and/CC Q/NN respectively/RB ./pct
+As/CS S/NP varies/VBZ from/IN zero/CD to/IN T/NN ,/pct the/AT values/NNS of/IN S/NP for/IN which/WDT Af/NN and/CC Af/NN cross/VB C/NN will/MD be/BE denoted/VBN by/IN Af/NN and/CC Af/NN respectively/RB ./pct
+We/PPSS have/HV Af/NN ,/pct plus/IN tangent/JJ points/NNS ./pct
+These/DTS s-values/NN are/BER just/RB the/AT ordinary/JJ values/NNS of/IN Af/NN ./pct
+Lemma/NN 4/CD ./pct
+The/AT values/NNS Af/NN are/BER the/AT ordinary/JJ values/NNS at/IN Af/NN of/IN a/AT multi-valued/JJ function/NN g{t}/NN which/WDT has/HVZ components/NNS corresponding/VBG to/IN those/DTS of/IN f{t}/NN ./pct
+Proof/NN ./pct
+We/PPSS first/RB define/VB a/AT function/NN b{t}/NN as/CS follows/VBZ :/pct given/VBN the/AT set/NN of/IN squares/NNS such/JJ that/CS each/DT has/HVZ three/CD corners/NNS on/IN C/NN and/CC vertex/NN at/IN t/NN ,/pct b{t}/NN is/BEZ the/AT corresponding/JJ set/NN of/IN positive/JJ parametric/JJ differences/NNS between/IN T/NP and/CC the/AT backward/JJ corner/NN points/NNS ./pct
+The/AT functions/NNS F/NP and/CC B/NP have/HV exactly/RB the/AT same/AP multiplicity/NN at/IN every/AT argument/NN T/NP ./pct
+Now/RB with/IN P/NN fixed/VBN at/IN Af/NN ,/pct Af-values/NNS occur/VB when/WRB the/AT corner/NN Af/NN crosses/VBZ C/NN ,/pct and/CC are/BER among/IN the/AT values/NNS of/IN S/NP such/JJ that/CS Af/NN ./pct
+The/AT roots/NNS of/IN this/DT equation/NN are/BER just/RB the/AT ordinates/NNS of/IN the/AT intersections/NNS of/IN the/AT graph/NN of/IN B/NN with/IN a/AT straight/JJ line/NN of/IN unit/NN slope/NN through/IN Af/NN in/IN the/AT b-plane/NN (/pct the/AT plane/NN of/IN the/AT graph/NN of/IN b/NN )/pct ./pct
+We/PPSS define/VB these/DTS values/NNS as/CS Af/NN ,/pct and/CC define/VB g{t}/NN in/IN the/AT same/AP way/NN for/IN each/DT T/NP ./pct
+Thus/RB we/PPSS obtain/VB g{t}/NN by/IN introducing/VBG an/AT oblique/JJ g{t}-axis/NN in/IN the/AT Aj/NN ./pct

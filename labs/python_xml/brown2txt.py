@@ -22,7 +22,7 @@ fname = sys.argv[1]
 parser = etree.XMLParser(remove_blank_text=True) # discard whitespace nodes
 tree = etree.parse(fname, parser)
 
-for elem in tree.xpath("put_your_xpath_here"):
+for elem in tree.xpath("//s"):
     # Use:
     #
     # elem.get("...") -> get attribute
@@ -42,4 +42,11 @@ for elem in tree.xpath("put_your_xpath_here"):
     #
     # output_string = "{}/{}".format(token, postag)
     # print(output_string)
-    pass
+    output_string = ""
+    for subelem in elem.xpath("*"):
+        token = subelem.text
+        postag = subelem.get("type")
+        output_string += "{}/{}".format(token, postag)
+        output_string += " "
+    output_string = output_string[:-1]
+    print(output_string)

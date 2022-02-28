@@ -1,0 +1,100 @@
+The/AT plant/NN was/BEDZ located/VBN west/NR of/IN the/AT Battenkill/NP and/CC south/NR of/IN the/AT location/NN of/IN the/AT former/AP electric/JJ light/NN plant/NN ./pct
+The/AT Manchester/NP Depot/NN Sewer/NN Company/NN issued/VBD 214/CD shares/NNS of/IN stock/NN at/IN $10/NNS each/DT for/IN construction/NN of/IN a/AT sewer/NN in/IN that/DT locality/NN ,/pct and/CC assessments/NNS were/BED made/VBN for/IN its/PPg maintenance/NN ./pct
+It/PPS has/HVZ given/VBN considerable/JJ trouble/NN at/IN times/NNS and/CC empties/VBZ right/QL into/IN the/AT Battenkill/NP ./pct
+Fire/NN District/NN No./NN 1/CD discussed/VBD its/PPg possible/JJ purchase/NN in/IN 1945/CD ,/pct but/CC considered/VBD it/PPO an/AT unwise/JJ investment/NN ./pct
+The/AT sewer/NN on/IN Bonnet/NN Street/NN was/BEDZ constructed/VBN when/WRB there/EX were/BED only/RB a/AT few/AP houses/NNS on/IN the/AT street/NN ./pct
+As/CS new/JJ homes/NNS were/BED built/VBN they/PPSS were/BED connected/VBN so/CS that/CS all/ABN residences/NNS south/NR of/IN School/NN Street/NN are/BER served/VBN by/IN it/PPO ./pct
+B./NP J./NP Connell/NP is/BEZ the/AT present/JJ treasurer/NN and/CC manager/NN ./pct
+The/AT 1946/CD town/NN meeting/NN voted/VBD to/TO have/HV the/AT Selectmen/NNS appoint/VB a/AT committee/NN to/TO investigate/VB and/CC report/VB on/IN the/AT feasibility/NN of/IN some/DTI system/NN of/IN sewage/NN disposal/NN and/CC a/AT disposal/NN plant/NN to/TO serve/VB Manchester/NP Center/NN ,/pct Depot/NN ,/pct and/CC Way's/NPg Lane/NN ./pct
+The/AT committee/NN submitted/VBD a/AT report/NN signed/VBN by/IN Louis/NP Martin/NP and/CC Leon/NP Wiley/NP with/IN a/AT map/NN published/VBN in/IN the/AT 1946/CD town/NN report/NN ./pct
+The/AT layout/NN of/IN the/AT sewer/NN lines/NNS was/BEDZ designed/VBN by/IN Henry/NP W./NP Taylor/NP ,/pct who/WPS was/BEDZ the/AT engineer/NN for/IN the/AT Manchester/NP Village/NN disposal/NN plant/NN ./pct
+No/AT figures/NNS were/BED submitted/VBN with/IN the/AT report/NN and/CC no/AT action/NN was/BEDZ taken/VBN on/IN it/PPO by/IN the/AT town/NN ./pct
+The/AT 1958/CD town/NN meeting/NN directed/VBD town/NN authorities/NNS to/TO seek/VB federal/JJ and/CC state/NN funds/NNS with/IN which/WDT to/TO conduct/VB a/AT preliminary/JJ survey/NN of/IN a/AT proposed/VBN sewage/NN plant/NN with/IN its/PPg attendant/JJ facilities/NNS ./pct
+The/AT final/AP step/NN was/BEDZ a/AT vote/NN for/IN a/AT $230,000/NNS bond/NN issue/NN for/IN the/AT construction/NN of/IN a/AT sewage/NN system/NN by/IN the/AT 1959/CD town/NN meeting/NN ,/pct later/RBR confirmed/VBN by/IN a/AT two-thirds/NNS vote/NN at/IN a/AT special/JJ town/NN meeting/NN June/NP 21/CD ,/pct 1960/CD ./pct
+There/RB the/AT matter/NN stands/VBZ with/IN the/AT prospect/NN that/CS soon/RB Manchester/NP may/MD be/BE removed/VBN from/IN the/AT roster/NN of/IN towns/NNS contributing/VBG raw/JJ sewage/NN to/IN its/PPg main/JJS streams/NNS ./pct
+Telephone/NN and/CC telegraph/NN
+Manchester's/NPg unusual/JJ interest/NN in/IN telegraphy/NN has/HVZ often/RB been/BEN attributed/VBN to/IN the/AT fact/NN that/CS the/AT Rev./NP J./NP D./NP Wickham/NP ,/pct headmaster/NN of/IN Burr/NP and/CC Burton/NP Seminary/NN ,/pct was/BEDZ a/AT personal/JJ friend/NN and/CC correspondent/NN of/IN the/AT inventor/NN ,/pct Samuel/NP F./NP B./NP Morse/NP ./pct
+At/IN any/DTI rate/NN ,/pct Manchester/NP did/DOD not/NEG lag/VB far/RB behind/IN the/AT first/OD commercial/JJ system/NN which/WDT was/BEDZ set/VBN up/RP in/IN 1844/CD between/IN Baltimore/NP and/CC Washington/NP ./pct
+In/IN 1846/CD Matthew/NP B./NP Goodwin/NP ,/pct jeweler/NN and/CC watchmaker/NN ,/pct became/VBD the/AT town's/NNg first/OD telegrapher/NN in/IN a/AT dwelling/NN he/PPS built/VBD for/IN himself/PPL and/CC his/PPg business/NN ``/pct two/CD doors/NNS north/NR of/IN the/AT Equinox/NP House/NN ''/pct or/CC ``/pct one/CD door/NN north/NR of/IN the/AT Bank/NN ,/pct Manchester/NP ,/pct Vermont/NP ''/pct ./pct
+Goodwin/NP was/BEDZ telegrapher/NN for/IN the/AT ``/pct American/JJ Telegraph/NN Company/NN ''/pct and/CC the/AT ``/pct Troy/NP and/CC Canada/NP Junction/NN Telegraph/NN Company/NN ''/pct ./pct
+Shares/NNS of/IN capital/NN stock/NN at/IN $15/NNS each/DT in/IN the/AT latter/AP company/NN were/BED payable/JJ at/IN the/AT Bank/NN of/IN Manchester/NP or/CC at/IN various/AP other/AP Vermont/NP banks/NNS ./pct
+A/AT message/NN of/IN less/AP than/IN fifteen/CD words/NNS to/IN Bennington/NP cost/VBD twenty-five/CD cents/NNS ./pct
+By/IN 1871/CD L./NP C./NP Orvis/NP ,/pct manager/NN of/IN the/AT ``/pct Western/JJ Union/NN Telegraph/NN Company/NN ''/pct ,/pct expressed/VBD willingness/NN to/TO send/VB emergency/NN telegrams/NNS on/IN Sundays/NRS from/IN his/PPg Village/NN drugstore/NN ./pct
+Orvis/NP even/RB needed/VBD to/TO hire/VB an/AT assistant/NN ,/pct Clark/NP J./NP Wait/NP ./pct
+The/AT Manchester/NP Journal/NN commented/VBD editorially/RB on/IN the/AT surprising/VBG amount/NN of/IN local/JJ telegraphic/JJ business/NN ./pct
+In/IN the/AT fall/NN of/IN 1878/CD ,/pct the/AT ``/pct Popular/JJ Telegraph/NN Line/NN ''/pct was/BEDZ established/VBN between/IN Manchester/NP and/CC Factory/NN Point/NN by/IN the/AT owners/NNS ,/pct Paul/NP W./NP Orvis/NP ,/pct Henry/NP Gray/NP ,/pct J./NP N./NP Hard/NP ,/pct and/CC Clark/NP J./NP Wait/NP ./pct
+The/AT line/NN soon/RB lived/VBD up/RP to/IN its/PPg name/NN ,/pct as/CS local/JJ messages/NNS of/IN moderate/JJ length/NN could/MD be/BE sent/VBN for/IN a/AT dime/NN and/CC the/AT company/NN was/BEDZ quickly/RB able/JJ to/TO declare/VB very/QL liberal/JJ dividends/NNS on/IN its/PPg capital/NN stock/NN ./pct
+In/IN 1879/CD the/AT same/AP Clark/NP Wait/NP ,/pct with/IN H./NP H./NP Holley/NP of/IN South/JJ Dorset/NP ,/pct formed/VBD the/AT ``/pct American/JJ Telegraph/NN Line/NN ''/pct ,/pct extending/VBG from/IN Manchester/NP Depot/NN via/IN Factory/NN Point/NN and/CC South/JJ Dorset/NP to/IN Dorset/NP ./pct
+Besides/IN being/BEG most/QL convenient/JJ ,/pct the/AT line/NN ``/pct soon/RB proved/VBD a/AT good/JJ investment/NN for/IN the/AT owners/NNS ''/pct ./pct
+Telegraphers/NNS at/IN the/AT Depot/NN at/IN this/DT time/NN were/BED Aaron/NP C./NP Burr/NP and/CC Mark/NP Manley/NP of/IN ``/pct Burr/NP and/CC Manley/NP ''/pct ,/pct dealers/NNS in/IN lumber/NN and/CC dry/JJ goods/NNS ./pct
+Early/JJ equipment/NN was/BEDZ very/QL flimsy/JJ ;/pct ;/pct
+the/AT smallest/JJT gusts/NNS of/IN wind/NN toppled/VBD poles/NNS ,/pct making/VBG communications/NNS impossible/JJ ./pct
+But/CC companies/NNS continued/VBD to/TO spring/VB up/RP ./pct
+By/IN 1883/CD the/AT ``/pct Battenkill/NP Telegraph/NN Company/NN ''/pct was/BEDZ in/IN existence/NN and/CC Alvin/NP Pettibone/NP was/BEDZ its/PPg president/NN ./pct
+Operating/VBG in/IN 1887/CD was/BEDZ the/AT ``/pct Valley/NN Telegraph/NN Line/NN ''/pct ,/pct officers/NNS of/IN which/WDT were/BED E./NP C./NP Orvis/NP ,/pct president/NN ;/pct ;/pct
+H./NP K./NP Fowler/NP ,/pct vice-president/NN and/CC secretary/NN ;/pct ;/pct
+J./NP N./NP Hard/NP ,/pct treasurer/NN ;/pct ;/pct
+F./NP H./NP Walker/NP ,/pct superintendent/NN ;/pct ;/pct
+H./NP S./NP Walker/NP ,/pct assistant/NN superintendent/NN ./pct
+Two/CD companies/NNS now/RB had/HVD headquarters/NN with/IN Clark/NP J./NP Wait/NP ,/pct who/WPS by/IN then/RB had/HVD his/PPg own/JJ drugstore/NN at/IN Factory/NN Point/NN --/pct the/AT ``/pct Northern/JJ Union/NN Telegraph/NN Company/NN ''/pct and/CC the/AT ``/pct Western/JJ Union/NN ''/pct ./pct
+Operators/NNS were/BED Arthur/NP Koop/NP and/CC Norman/NP Taylor/NP ./pct
+Still/RB existing/VBG on/IN a/AT ``/pct Northern/JJ Union/NN ''/pct telegraph/NN form/NN is/BEZ a/AT typical/JJ peremptory/JJ message/NN from/IN Peru/NP grocer/NN J./NP J./NP Hapgood/NP to/IN Burton/NP and/CC Graves'/NPg store/NN in/IN Manchester/NP --/pct ``/pct Get/VB and/CC send/VB by/IN stage/NN four/CD pounds/NNS best/JJT Porterhouse/NP or/CC serloin/NN stake/NN ,/pct for/IN Mrs./NP Hapgood/NP send/VB six/CD sweet/JJ oranges/NNS ''/pct ./pct
+About/RB 1888/CD J./NP E./NP McNaughton/NP of/IN Barnumville/NP and/CC E./NP G./NP Bacon/NP became/VBD proprietors/NNS of/IN the/AT ``/pct Green/JJ Mountain/NN Telegraph/NN Company/NN ''/pct ,/pct connecting/VBG all/ABN offices/NNS on/IN the/AT Western/JJ Union/NN line/NN and/CC extending/VBG over/IN the/AT mountain/NN from/IN Barnumville/NP to/IN Peru/NP ,/pct Londonderry/NP ,/pct South/JJ Londonderry/NP ,/pct Lowell/NP Lake/NN ,/pct Windham/NP ,/pct North/JJ Windham/NP ,/pct Grafton/NP ,/pct Cambridgeport/NP ,/pct Saxton's/NPg River/NN ,/pct and/CC Bellows/NP Falls/NNS ./pct
+From/IN 1896/CD until/IN 1910/CD John/NP H./NP Whipple/NP was/BEDZ manager/NN of/IN Western/JJ Union/NN at/IN the/AT Center/NN in/IN the/AT drugstore/NN he/PPS purchased/VBD from/IN Clark/NP Wait/NP ./pct
+The/AT Village/NN office/NN of/IN Western/JJ Union/NN with/IN George/NP Towsley/NP as/CS manager/NN and/CC telegrapher/NN continued/VBD in/IN Hard's/NPg drugstore/NN until/IN 1905/CD ./pct
+During/IN the/AT summers/NNS ,/pct Towsley/NP often/RB needed/VBD the/AT assistance/NN of/IN a/AT company/NN operator/NN ./pct
+These/DTS were/BED the/AT years/NNS when/WRB people/NNS flocked/VBD to/IN Manchester/NP not/NEG only/RB to/TO play/VB golf/NN ,/pct which/WDT had/HVD come/VBN into/IN vogue/NN ,/pct but/CC also/RB to/TO witness/VB the/AT Ekwanok/NP Country/NN Club/NN tournaments/NNS ./pct
+New/JJ Yorkers/NPS were/BED kept/VBN informed/VBN of/IN scores/NNS by/IN reporters/NNS who/WPS telegraphed/VBD fifteen/CD to/IN twenty/CD thousand/CD words/NNS daily/RB to/IN the/AT metropolitan/JJ newspapers/NNS ./pct
+This/DT boosted/VBD local/JJ telegraph/NN business/NN and/CC Manchester/NP basked/VBD in/IN all/ABN the/AT free/JJ advertising/NN ./pct
+In/IN 1914/CD when/WRB the/AT town/NN was/BEDZ chosen/VBN for/IN the/AT U./NP S./NP Amateur/NN Golf/NN tournament/NN ,/pct a/AT representative/NN hurried/VBD here/RB from/IN the/AT Boston/NP manager's/NNg office/NN ./pct
+In/IN his/PPg wake/NN came/VBD the/AT District/NN Traffic/NN Supervisor/NN and/CC the/AT cream/NN of/IN the/AT telegraphic/JJ profession/NN ,/pct ten/CD of/IN Boston's/NPg best/JJT ,/pct chosen/VBN for/IN their/PPg long/JJ experience/NN and/CC thorough/JJ knowledge/NN of/IN golf/NN ./pct
+During/IN that/DT tournament/NN alone/RB ,/pct some/DTI 250,000/CD words/NNS winged/VBD their/PPg way/NN out/RP of/IN Manchester/NP ./pct
+The/AT old/JJ Morse/NP system/NN was/BEDZ replaced/VBN locally/RB by/IN the/AT Simplex/NP modern/JJ automatic/JJ method/NN in/IN 1929/CD ,/pct when/WRB Ellamae/NP Heckman/NP (/pct Wilcox/NP )/pct was/BEDZ manager/NN of/IN the/AT Western/JJ Union/NN office/NN ./pct
+During/IN summers/NNS ,/pct business/NN was/BEDZ so/QL brisk/JJ that/CS Mrs./NP Wilcox/NP had/HVD two/CD assistants/NNS and/CC a/AT messenger/NN ./pct
+She/PPS was/BEDZ succeeded/VBN by/IN Clarence/NP Goyette/NP ./pct
+Since/IN that/DT time/NN the/AT telegraph/NN office/NN has/HVZ shifted/VBN in/IN location/NN from/IN the/AT railroad/NN station/NN at/IN the/AT Depot/NN and/CC shops/NNS at/IN the/AT Center/NN back/RB to/IN the/AT town/NN clerk's/NNg office/NN and/CC drugstore/NN at/IN the/AT Village/NN ./pct
+After/CS being/BEG located/VBN for/IN some/DTI years/NNS in/IN the/AT Village/NN at/IN the/AT Equinox/NP Pharmacy/NN under/IN the/AT supervision/NN of/IN Mrs./NP Harry/NP Mercier/NP ,/pct it/PPS is/BEZ presently/RB located/VBN in/IN the/AT Hill/NN and/CC Dale/NN Shop/NN ,/pct Manchester/NP Center/NN ./pct
+The/AT first/OD known/VBN telephone/NN line/NN in/IN Manchester/NP was/BEDZ established/VBN in/IN July/NP 1883/CD between/IN Burr/NP and/CC Manley's/NPg store/NN at/IN Manchester/NP Depot/NN and/CC the/AT Kent/NP and/CC Root/NP Marble/NN Company/NN in/IN South/JJ Dorset/NP ./pct
+This/DT was/BEDZ extended/VBN the/AT following/VBG year/NN to/TO include/VB the/AT railroad/NN station/NN agent's/NNg office/NN and/CC Thayer's/NPg Hotel/NN at/IN Factory/NN Point/NN ./pct
+In/IN November/NP 1887/CD a/AT line/NN connecting/VBG several/AP dwelling/NN houses/NNS in/IN Dorset/NP was/BEDZ extended/VBN to/IN Manchester/NP Depot/NN ./pct
+Telephone/NN wires/NNS from/IN Louis/NP Dufresne's/NPg house/NN in/IN East/JJ Manchester/NP to/IN the/AT Dufresne/NP lumber/NN job/NN near/IN Bourn/NP Pond/NN were/BED up/RP about/RB 1895/CD ./pct
+Eber/NP L./NP Taylor/NP of/IN Manchester/NP Depot/NN recorded/VBD the/AT setting/NN of/IN phone/NN poles/NNS in/IN East/JJ Dorset/NP and/CC Barnumville/NP in/IN his/PPg diary/NN for/IN 1906/CD ./pct
+These/DTS must/MD have/HV been/BEN for/IN local/JJ calls/NNS strictly/RB ,/pct as/CS in/IN May/NP 1900/CD the/AT ``/pct only/AP long/JJ distance/NN telephone/NN ''/pct in/IN town/NN was/BEDZ transferred/VBN from/IN C./NP B./NP Carleton's/NPg to/IN Young's/NPg shoe/NN store/NN ./pct
+A/AT small/JJ single/AP switchboard/NN was/BEDZ installed/VBN in/IN the/AT Village/NN over/IN Woodcock's/NPg hardware/NN store/NN (/pct later/RBR E./NP H./NP Hemenway's/NPg )/pct ./pct
+George/NP Woodcock/NP was/BEDZ manager/NN and/CC troubleshooter/NN ;/pct ;/pct
+Elizabeth/NP Way/NP was/BEDZ the/AT first/OD operator/NN ;/pct ;/pct
+and/CC a/AT night/NN operator/NN was/BEDZ also/RB employed/VBN ./pct
+Anyone/PN fortunate/JJ enough/QLP to/TO have/HV one/CD of/IN those/DTS early/JJ phones/NNS advertised/VBD the/AT fact/NN along/RB with/IN the/AT telephone/NN number/NN in/IN the/AT Manchester/NP Journal/NN ./pct
+In/IN 1918/CD the/AT New/JJ England/NP Telephone/NN Company/NN began/VBD erecting/VBG a/AT building/NN to/TO house/VB its/PPg operations/NNS on/IN the/AT corner/NN of/IN U./NP S./NP Rte./NN 7/CD and/CC what/WDT is/BEZ now/RB Memorial/JJ Avenue/NN at/IN Manchester/NP Center/NN ./pct
+Service/NN running/VBG through/IN Barnumville/NP and/CC to/IN Bennington/NP County/NN towns/NNS east/NR of/IN the/AT mountains/NNS was/BEDZ in/IN the/AT hands/NNS of/IN the/AT ``/pct Gleason/NP Telephone/NN Company/NN ''/pct in/IN 1925/CD ,/pct but/CC major/JJ supervision/NN of/IN telephone/NN lines/NNS in/IN Manchester/NP was/BEDZ with/IN the/AT New/JJ England/NP Telephone/NN and/CC Telegraph/NN Company/NN ,/pct which/WDT eventually/RB gained/VBD all/ABN control/NN ./pct
+More/AP aerial/JJ and/CC underground/JJ equipment/NN was/BEDZ installed/VBN as/QL well/RB as/CS office/NN improvements/NNS to/TO take/VB care/NN of/IN the/AT expanding/VBG business/NN ./pct
+In/IN 1931/CD Mrs./NP F./NP H./NP Briggs/NP ,/pct agent/NN and/CC chief/JJS operator/NN ,/pct who/WPS was/BEDZ to/TO retire/VB in/IN 1946/CD with/IN thirty/CD years'/NNSg service/NN ,/pct led/VBD agency/NN offices/NNS in/IN sales/NNS for/IN the/AT year/NN with/IN $2,490/NNS ./pct
+William/NP Hitchcock/NP ,/pct who/WPS retired/VBD in/IN 1938/CD ,/pct was/BEDZ a/AT veteran/NN of/IN thirty-four/CD years'/NNSg local/JJ service/NN ./pct
+Another/DT veteran/NN telephone/NN operator/NN was/BEDZ Edith/NP Fleming/NP Blackmer/NP ,/pct who/WPS had/HVD been/BEN in/IN the/AT office/NN forty/CD years/NNS at/IN the/AT time/NN of/IN her/PPg death/NN in/IN 1960/CD ./pct
+In/IN 1932/CD Dorset/NP received/VBD its/PPg own/JJ exchange/NN ,/pct which/WDT made/VBD business/NN easier/JJR for/IN the/AT Manchester/NP office/NN ,/pct but/CC it/PPS was/BEDZ not/NEG until/IN February/NP 1953/CD that/CS area/NN service/NN was/BEDZ extended/VBN to/TO include/VB Manchester/NP and/CC Dorset/NP ./pct
+This/DT eliminated/VBD toll/NN calls/NNS between/IN the/AT two/CD towns/NNS ./pct
+Within/IN a/AT month/NN ,/pct calls/NNS were/BED up/RP seventy/CD per/IN cent/NN ./pct
+Electric/JJ power/NN
+electricity/NN plays/VBZ such/ABL an/AT important/JJ part/NN in/IN community/NN life/NN today/NR that/CS it/PPS is/BEZ difficult/JJ to/IN envision/VB a/AT time/NN when/WRB current/NN was/BEDZ not/NEG available/JJ for/IN daily/JJ use/NN ./pct
+Yet/CC one/PN has/HVZ to/TO go/VB back/RB only/RB some/RB sixty/CD years/NNS ./pct
+The/AT first/OD mention/NN of/IN an/AT electric/JJ plant/NN in/IN Manchester/NP seems/VBZ to/TO be/BE one/CD installed/VBN in/IN Reuben/NP Colvin's/NPg and/CC Houghton's/NPg gristmill/NN on/IN the/AT West/JJ Branch/NN in/IN Factory/NN Point/NN ./pct
+No/AT records/NNS are/BER available/JJ as/IN to/IN the/AT date/NN or/CC extent/NN of/IN installation/NN ,/pct but/CC it/PPS may/MD have/HV been/BEN in/IN 1896/CD ./pct
+On/IN June/NP 14/CD ,/pct 1900/CD the/AT Manchester/NP Journal/NN reported/VBD that/CS an/AT electrical/JJ engineer/NN was/BEDZ installing/VBG an/AT electric/JJ light/NN plant/NN for/IN Edward/NP S./NP Isham/NP at/IN ``/pct Ormsby/NP Hill/NN ''/pct ./pct
+This/DT was/BEDZ working/VBG by/IN the/AT end/NN of/IN August/NP and/CC giving/VBG satisfactory/JJ service/NN ./pct
+In/IN November/NP 1900/CD surveying/VBG was/BEDZ done/VBN under/IN John/NP Marsden/NP on/IN the/AT east/NR mountains/NNS to/TO ascertain/VB if/CS it/PPS would/MD be/BE possible/JJ to/TO get/VB sufficient/JJ water/NN and/CC fall/NN to/TO operate/VB an/AT electric/JJ power/NN plant/NN ./pct
+Nothing/PN came/VBD of/IN it/PPO ,/pct perhaps/RB due/RB to/IN lack/NN of/IN opportunity/NN for/IN water/NN storage/NN ./pct
+The/AT next/AP step/NN was/BEDZ construction/NN by/IN the/AT Manchester/NP Light/NN and/CC Power/NN Company/NN of/IN a/AT plant/NN on/IN the/AT west/NR bank/NN of/IN the/AT Battenkill/NP south/NR of/IN Union/NN Street/NN bridge/NN ./pct
+This/DT was/BEDZ nearly/RB completed/VBN May/NP 23/CD ,/pct 1901/CD with/IN a/AT promise/NN of/IN lights/NNS by/IN June/NP 10/CD ,/pct but/CC the/AT first/OD light/NN did/DOD not/NEG go/VB on/RP until/IN September/NP 28/CD ./pct
+It/PPS was/BEDZ at/IN the/AT end/NN of/IN the/AT sidewalk/NN in/IN front/NN of/IN the/AT Dellwood/NP Cemetery/NN cottage/NN ./pct
+The/AT first/OD directors/NNS of/IN the/AT Manchester/NP Light/NN and/CC Power/NN Company/NN were/BED John/NP Marsden/NP ,/pct M./NP L./NP Manley/NP ,/pct William/NP F./NP Orvis/NP ,/pct George/NP Smith/NP ,/pct and/CC John/NP Blackmer/NP ./pct
+The/AT officers/NNS were/BED John/NP Marsden/NP ,/pct president/NN ;/pct ;/pct
+John/NP C./NP Blackmer/NP ,/pct vice-president/NN ;/pct ;/pct
+George/NP Smith/NP ,/pct treasurer/NN ;/pct ;/pct
+and/CC William/NP F./NP Orvis/NP ,/pct secretary/NN ./pct
+Marsden/NP was/BEDZ manager/NN of/IN the/AT company/NN for/IN ten/CD years/NNS and/CC manager/NN of/IN its/PPg successor/NN company/NN ,/pct the/AT Colonial/JJ Light/NN and/CC Power/NN Company/NN ,/pct for/IN one/CD year/NN ./pct
+At/IN about/RB the/AT time/NN the/AT Marsden/NP enterprise/NN was/BEDZ getting/VBG under/IN way/NN ,/pct the/AT Vail/NP Light/NN and/CC Lumber/NN Company/NN started/VBD construction/NN of/IN a/AT chair/NN stock/NN factory/NN on/IN the/AT site/NN of/IN the/AT present/JJ Bennington/NP Co-operative/JJ Creamery/NN ,/pct intending/VBG to/TO use/VB its/PPg surplus/NN power/NN for/IN generating/VBG electricity/NN ./pct
+Manchester/NP then/RB had/HVD two/CD competing/VBG power/NN companies/NNS until/IN 1904/CD ,/pct when/WRB the/AT Manchester/NP Light/NN and/CC Power/NN Company/NN purchased/VBD the/AT transmission/NN system/NN of/IN the/AT Vail/NP Company/NN ./pct
+This/DT was/BEDZ fortunate/JJ ,/pct as/CS the/AT Vail/NP plant/NN burned/VBD in/IN 1905/CD ./pct
+The/AT Colonial/JJ Light/NN and/CC Power/NN Company/NN was/BEDZ succeeded/VBN by/IN the/AT Vermont/NP Hydro-Electric/JJ Corporation/NN ,/pct which/WDT in/IN turn/NN was/BEDZ absorbed/VBN by/IN the/AT Central/JJ Vermont/NP Public/JJ Service/NN Corporation/NN ./pct
+The/AT latter/AP now/RB furnishes/VBZ the/AT area/NN with/IN electricity/NN distributed/VBN from/IN a/AT modern/JJ sub-station/NN at/IN Manchester/NP Depot/NN which/WDT was/BEDZ put/VBN into/IN operation/NN February/NP 19/CD ,/pct 1930/CD and/CC was/BEDZ improved/VBN in/IN January/NP 1942/CD by/IN the/AT installation/NN of/IN larger/JJR transformers/NNS ./pct
+For/IN a/AT time/NN following/IN the/AT abandonment/NN of/IN the/AT local/JJ plant/NN ,/pct electric/JJ current/NN for/IN Manchester/NP was/BEDZ brought/VBN in/RP from/IN the/AT south/NR with/IN an/AT emergency/NN tie-in/NN with/IN the/AT Vermont/NP Marble/NN Company/NN system/NN to/IN the/AT north/NR ./pct
