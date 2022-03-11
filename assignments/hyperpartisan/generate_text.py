@@ -1,4 +1,5 @@
-"""Hyperpartisan assignment."""
+"""Generate two text files for hyperpartisan and non-hyperpartisan
+news articles."""
 import string
 from lxml import etree
 from nltk.tokenize import word_tokenize
@@ -8,7 +9,7 @@ from tqdm import tqdm
 
 PATH = "../../data/hyperpartisan/"
 STOPWORDS = set(stopwords.words('english'))
-PUNCTUATION = string.punctuation + "‘’“”–…"
+PUNCTUATION = string.punctuation + "‘’“”«»–…"
 
 
 def clean_text(text):
