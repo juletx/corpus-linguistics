@@ -8,13 +8,15 @@ from tqdm import tqdm
 
 
 PATH = "../../data/hyperpartisan/"
-STOPWORDS = set(stopwords.words('english'))
 PUNCTUATION = string.punctuation + "‘’“”«»–…•"
+STOPWORDS = set(stopwords.words('english'))
+ENTITIES = set(["lt", "amp", "gt", "quot", "apos"])
+IMAGE = set(["img", "alt", "src", "width", "height", "https", "datarecalcdims", "aligncenter"])
 
 
 def clean_text(text):
-    """Tokenize text, converting words to lowercase,
-    removing puntuation tokens and remove stop words.
+    """Tokenize text, convert words to lowercase, remove puntuation,
+    numbers, stop words, xml entities and image tags.
 
     Args:
         text (str): text to be cleaned
@@ -27,8 +29,8 @@ def clean_text(text):
     # convert to lower case and remove punctuation
     table = str.maketrans('', '', PUNCTUATION)
     words = [str.lower(word.translate(table)) for word in words]
-    # remove stop words
-    words = [word for word in words if not word in STOPWORDS]
+    # remove numbers, stop words, xml entities and image tags
+    words = [word for word in words if word.isalpha() and word not in STOPWORDS | ENTITIES | IMAGE]
     # join words to string
     text = " ".join(words)
     # remove extra whitespace

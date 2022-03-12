@@ -19,15 +19,12 @@ def word_bigram_freq(filename):
     word_freq = defaultdict(int)
     bigram_freq = defaultdict(int)
     with open(filename, encoding='utf-8') as file:
-        pbar = tqdm(total=150000)
-        for line in file:
+        for line in tqdm(file.readlines()):
             words = line.split()
             for i in range(len(words) - 1):
                 word_freq[words[i]] += 1
                 bigram_freq[f"{words[i]}\t{words[i+1]}"] += 1
             word_freq[words[len(words) - 1]] += 1
-            pbar.update(1)
-        pbar.close()
     return word_freq, bigram_freq
 
 
@@ -50,9 +47,9 @@ def log_odd_ratio(string_freq_hyp, string_freq_non, min_freq=20):
     """Return the log odd ratios for words or bigrams.
 
     Args:
-        freq_hyp (defaultdict[str, int]): dictionary with word or bigram frequencies
+        string_freq_hyp (defaultdict[str, int]): dictionary with word or bigram frequencies
             in hyperpartisan file
-        freq_non (defaultdict[str, int]): dictionary with word or bigram frequencies
+        string_freq_non (defaultdict[str, int]): dictionary with word or bigram frequencies
             in non-hyperpartisan file
         min_freq (int): minimum frequency for a word or bigram to be included
 
@@ -103,12 +100,12 @@ def extract_log_odd_ratios():
 
     log_odd_words = log_odd_ratio(word_freq_hyp, word_freq_non)
     hyp_words = "hyperpartisan_words.tsv"
-    non_words = "non_hyperpartisan_words.tsv"
+    non_words = "non-hyperpartisan_words.tsv"
     write_results(log_odd_words, hyp_words, non_words)
 
     log_odd_bigrams = log_odd_ratio(bigram_freq_hyp, bigram_freq_non)
     hyp_bigrams = "hyperpartisan_bigrams.tsv"
-    non_bigrams = "non_hyperpartisan_bigrams.tsv"
+    non_bigrams = "non-hyperpartisan_bigrams.tsv"
     write_results(log_odd_bigrams, hyp_bigrams, non_bigrams)
 
 
