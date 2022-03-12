@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 PATH = "../../data/hyperpartisan/"
 STOPWORDS = set(stopwords.words('english'))
-PUNCTUATION = string.punctuation + "‘’“”«»–…"
+PUNCTUATION = string.punctuation + "‘’“”«»–…•"
 
 
 def clean_text(text):
@@ -75,8 +75,8 @@ def get_class_dict(class_tree):
     return class_dict
 
 
-def main():
-    """Main function"""
+def generate_text_files():
+    """Main function that generates hyperpartisan and non-hyperpartisan text files."""
     # discard whitespace nodes
     parser = etree.XMLParser(remove_blank_text=True)
 
@@ -91,9 +91,9 @@ def main():
     class_dict = get_class_dict(class_tree)
 
     with open(f"{PATH}hyperpartisan.txt", 'w', encoding="utf-8") as hyp_file, \
-            open(f"{PATH}non_hyperpartisan.txt", 'w', encoding="utf-8") as non_file:
+            open(f"{PATH}non-hyperpartisan.txt", 'w', encoding="utf-8") as non_file:
         save_text(article_tree, class_dict, hyp_file, non_file)
 
 
 if __name__ == "__main__":
-    main()
+    generate_text_files()

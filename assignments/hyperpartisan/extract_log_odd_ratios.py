@@ -1,4 +1,4 @@
-"""Calculate log odds for each word in a file."""
+"""Extracts log odds ratios for words and bigrams."""
 from collections import defaultdict
 from math import log
 from tqdm import tqdm
@@ -94,10 +94,10 @@ def write_results(log_odds, hyp_out, non_out, count=50):
             file.write(f"{string}\t{odd}\n")
 
 
-def main():
-    """Main function"""
+def extract_log_odd_ratios():
+    """Main function that extracts log odds ratios for words and bigrams."""
     hyp_inp = f"{PATH}hyperpartisan.txt"
-    non_inp = f"{PATH}non_hyperpartisan.txt"
+    non_inp = f"{PATH}non-hyperpartisan.txt"
     word_freq_hyp, bigram_freq_hyp = word_bigram_freq(hyp_inp)
     word_freq_non, bigram_freq_non = word_bigram_freq(non_inp)
 
@@ -113,4 +113,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    extract_log_odd_ratios()
