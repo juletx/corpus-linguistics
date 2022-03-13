@@ -14,7 +14,7 @@ You will be given two main documents:
 
 The dataset were used in the [semeval-2019 task 4](https://pan.webis.de/semeval19/semeval19-web/) on hyperpartisan News detection. Whereas the task on semeval was to design a system to auto- matically detect hyperpartisan news, in this exercise we are going to exploit both corpora (hyperpartisan and not hyperpartisan news), and analyze which terms are the most relevant in each of the sets. For this, analysis we will use the so-called log odd ratio.
 
-I recommend you to follow a two-step approach to obtain the log-odd ratios of the words. In the rst step, you should generate text les from the XML documents. Then, in a separated step, you should create a le with the words along with its **log-odd ratio**.
+I recommend you to follow a two-step approach to obtain the log-odd ratios of the words. In the first step, you should generate text files from the XML documents. Then, in a separated step, you should create a le with the words along with its **log-odd ratio**.
 
 ## 1. Generate text files
 
@@ -50,4 +50,60 @@ and therefore the log odd ratio of $gold$ is $0.369$.
 
 ## 3. Analyze the results
 
-Having the log-odd ratios, extract the most relevant 50 words in hyperpartisan and non-hyperpartisan documents. Analyze these words, and write a small document with your ndings. Is there any interesting word on some set? Can you draw some conclusions regarding hyperpartisan text with respect to non-hyperpartisan ones? If you also computed the log-odd ratios for bigrams, repeat the analysis using bigrams.
+Having the log-odd ratios, extract the most relevant 50 words in hyperpartisan and non-hyperpartisan documents. Analyze these words, and write a small document with your findings. Is there any interesting word on some set? Can you draw some conclusions regarding hyperpartisan text with respect to non-hyperpartisan ones? If you also computed the log-odd ratios for bigrams, repeat the analysis using bigrams.
+
+### Words
+
+There are many differences betweeen the 50 most relevant words of hyperpartisan and non-hyperpartisan news. Here are the main findings of each class.
+
+Words of hyperpartisan articles:
+
+- Hyperpartisan articles contain words ending in -ist/-ism/-ity(anarchist, anarchism, globalist, globalists, individualist, anarchists, zionists, vulgarity, profanity). These do not appear in non-hyperpartisan words.
+
+- Other hyperpartisan words that describe people (slager, teabagger, shep, lgbtq, courteous). Similar terms do not appear in non-hyperpartisan words.
+
+- Bad words in hyperpartisan articles (fucking, trolling, fuck, fck). There are no bad words in non-hyperpartisan.
+
+- News sites or webs in hyperpartisan articles (wonkette, realclearpolitics, newsbusters, vox, gofundme, newsmax, foxnewscom). This suggest that these news sites are commonly associated with hyperpartisan news. Most correspond to news agencies in the US. No news agencies appear in non-hyperpartisan words.
+
+- Other organizations in hyperpartisan news (usmc (United States Marine Corps), splc (Southern Poverty Law Center), emmys). They are US organizations.
+
+- People in hyperpartisan articles (oreilly, kilmeade, chomsky, cavuto, grahamcassidy, omalley, madsen, beyoncé, willard, odonell, kliff, machado, watters, susteren). They correspond to politicians, journalists and famous people.
+
+Words of non-hyperpartisan articles:
+
+- Demonyms in non-hyperpartisan articles (subsaharan, nigerians, thai, israelpalestinian, nigerian). They correspond to people from other countries. No demonyms appear in hyperpartisan words.
+
+- Places in non-hyperpartisan articles (bangkok, myanmar, rakhine, nigeria, thailand, tribune, kyoto, lima). Many places appear in non-hyperpartsan words, none in hyperpartisan words. They correspond to other countries and cities.
+
+- People in non-hyperpartisan articles (straus, zuma, newsom, hun, schwarzenegger, hu (Hu Jintao)). They correspond to politicians and famous people.
+
+- Organizations in non-hyperpartisan articles (treasuries, boko, haram, tic, utaustin (The University of Texas at Austin), anc (African National Congress, pri (Partido Revolucionario Institucional), nld (National League for Democracy)). Unlike hyperpartisan organizations, many organizations are from other countries different from the US.
+
+- There are many economics terms in non-hyperpartisan articles (renminbi, yen, rebalance, cfr, depreciation, exporters, aggregator, outflow). Some correspond to currencies and other to actions or people.
+
+### Bigrams
+
+There are many differences betweeen the 50 most relevant bigrams of hyperpartisan and non-hyperpartisan news. Here are the main findings of each class.
+
+Bigrams of hyperpartisan articles:
+
+- More negative words than on non-hyperpartisan news (threats violence, hate group, divestment sanctions, overdose deaths, illegal alien)
+
+- People (obama, trump, bill oreilly, romney, darren wilson, mr comey, van susteren). They correspond to politicians or famous people
+
+- Media related terms (media research, independent journalism, media matters, corporate media, associate editor)
+
+- Politics related terms (trump obama, legislature, obamacare, america health, basic income, ruling class) 
+
+Bigrams of non-hyperpartisan articles:
+
+- Demonyms in non-hyperpartisan articles (southeast asian, african).
+
+- Places in non-hyperpartisan news (texas, us, china, southeast asia, travis county, austin). Some places are repeated a lot in different bigrams: china, us and texas are the most repeated ones.
+
+- Many economics related bigrams also appear a lot (emerging economies, exchange rate, emerging markets, direct investment, private investors...).
+
+- Organizations (boko haram, international institutions, china gorvernment...)
+
+- People are also mentioned (dan patrick, jacob zuma, suu kyi, president jacob, david dewhurst)
