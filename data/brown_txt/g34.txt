@@ -35,7 +35,7 @@ He/PPS is/BEZ proud/JJ of/IN having/HVG Segovia/NP for/IN a/AT friend/NN and/CC 
 Carl/NP says/VBZ it/PPS is/BEZ the/AT greatest/JJT poem/NN ever/RB written/VBN to/IN the/AT guitar/NN because/CS he/PPS has/HVZ never/RB heard/VBN of/IN any/DTI other/AP poem/NN to/IN that/DT subtle/JJ instrument/NN ./pct
 ``/pct A/AT portable/JJ companion/NN always/RB ready/JJ to/TO go/VB where/WRB you/PPSS go/VB --/pct a/AT small/JJ friend/NN weighing/VBG less/AP than/CS a/AT freshborn/JJ infant/NN --/pct to/TO be/BE shared/VBN with/IN few/AP or/CC many/AP --/pct just/RB two/CD of/IN you/PPO in/IN sweet/JJ meditation/NN ''/pct ./pct
 The/AT New/JJ York/NP Herald/NN Tribune's/NNg photographer/NN ,/pct Ira/NP Rosenberg/NP ,/pct tells/VBZ an/AT anecdote/NN about/IN the/AT time/NN he/PPS wanted/VBD to/TO take/VB a/AT picture/NN of/IN Carl/NP playing/VBG a/AT guitar/NN ./pct
-Carl/NP hadn't /None brought/VBN his/PPgg along/RB ./pct
+Carl/NP hadn't/HVD* brought/VBN his/PPgg along/RB ./pct
 Mr./NP Rosenberg/NP suggested/VBD that/CS they/PPSS go/VB out/RP and/CC find/VB one/CD ./pct
 ``/pct Preferably/RB ''/pct ,/pct said/VBD Carl/NP ,/pct ``/pct one/CD battered/VBN and/CC worn/VBN ,/pct such/JJ as/CS might/MD be/BE found/VBN in/IN a/AT pawnshop/NN ''/pct ./pct
 They/PPSS went/VBD to/IN the/AT pawnshop/NN of/IN Joseph/NP Miller/NP of/IN 1162/CD Sixth/OD Avenue/NN ./pct
@@ -45,7 +45,7 @@ Well/RB you/PPSS can/MD pose/VB inside/RB ./pct
 ``/pct He/PPS wanted/VBD Mr./NP Sandburg/NP to/TO pose/VB with/IN one/CD of/IN the/AT guitars/NNS he/PPS had/HVD displayed/VBN behind/IN glass/NN in/IN the/AT center/NN of/IN his/PPg shop/NN ,/pct but/CC the/AT poet/NN eyed/VBD this/DT somewhat/QL distastefully/RB ./pct
 '/pct Kalamazoo/NP guitars/NNS '/pct ,/pct he/PPS said/VBD ,/pct '/pct used/VBN by/IN radio/NN hillbilly/NN singers/NNS ./pct
 ``/pct He/PPS chose/VBD one/CD from/IN Mr./NP Miller's/NPg window/NN ,/pct a/AT plain/JJ guitar/NN with/IN no/AT fancy/JJ polish/NN ./pct
-While/CS the/AT picture/NN was/BEDZ taken/VBN ,/pct Mr./NP Miller's/NPg disposition/NN to/TO be/BE generous/JJ to/IN Mr./NP Sandburg/NP increased/VBD to/IN the/AT point/NN where/WRB he/PPS advised/VBD ,/pct '/pct I/PPSS won't /None even/VB charge/VB you/PPO the/AT one/CD dollar/NN rental/NN fee/NN '/pct ''/pct ./pct
+While/CS the/AT picture/NN was/BEDZ taken/VBN ,/pct Mr./NP Miller's/NPg disposition/NN to/TO be/BE generous/JJ to/IN Mr./NP Sandburg/NP increased/VBD to/IN the/AT point/NN where/WRB he/PPS advised/VBD ,/pct '/pct I/PPSS won't/MD* even/VB charge/VB you/PPO the/AT one/CD dollar/NN rental/NN fee/NN '/pct ''/pct ./pct
 A/AT knowledgeable/JJ celebrity/NN
 When/WRB someone/PN in/IN the/AT audience/NN rose/VBD and/CC asked/VBD how/WRB does/DOZ it/PPS feel/VB to/TO be/BE a/AT celebrity/NN ,/pct Carl/NP said/VBD ,/pct ``/pct A/AT celebrity/NN is/BEZ a/AT fellow/NN who/WPS eats/VBZ celery/NN with/IN celerity/NN ''/pct ./pct
 This/DT has/HVZ always/RB been/BEN Carl's/NPg attitude/NN ./pct

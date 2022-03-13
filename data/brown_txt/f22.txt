@@ -4,18 +4,18 @@ The/AT cry/NN ``/pct Garryowen/NP ''/pct !/pct !/pct
 Bursting/VBG from/IN the/AT lips/NNS of/IN a/AT charging/VBG cavalry/NN trooper/NN was/BEDZ the/AT last/AP sound/NN heard/VBN on/IN this/DT earth/NN by/IN untold/JJ numbers/NNS of/IN Cheyennes/NPS ,/pct Sioux/NPS and/CC Apaches/NPS ,/pct Mexican/JJ banditos/NNS under/IN Pancho/NP Villa/NP ,/pct Japanese/NPS in/IN the/AT South/JJ Pacific/JJ ,/pct and/CC Chinese/JJ and/CC North/JJ Korean/JJ Communists/NNS in/IN Korea/NP ./pct
 Garryowen/NP is/BEZ the/AT battle/NN cry/NN of/IN the/AT 7th/OD U.S./NP Cavalry/NN Regiment/NN ,/pct ``/pct The/AT Fighting/VBG Seventh/OD ''/pct ./pct
 Today/NR a/AT battle/NN cry/NN may/MD seem/VB an/AT anachronism/NN ,/pct for/CS in/IN the/AT modern/JJ Army/NN ,/pct esprit/NN de/IN corps/NN has/HVZ been/BEN sacrificed/VBN to/IN organizational/JJ charts/NNS and/CC tables/NNS ./pct
-But/CC don't /None tell/VB that/DT to/IN a/AT veteran/NN of/IN the/AT Fighting/VBG Seventh/OD ,/pct especially/RB in/IN a/AT saloon/NN on/IN Saturday/NR night/NN ./pct
+But/CC don't/DO* tell/VB that/DT to/IN a/AT veteran/NN of/IN the/AT Fighting/VBG Seventh/OD ,/pct especially/RB in/IN a/AT saloon/NN on/IN Saturday/NR night/NN ./pct
 Of/IN all/ABN the/AT thousands/NNS of/IN men/NNS who/WPS have/HV served/VBN in/IN the/AT 7th/OD Cav/NP ,/pct perhaps/RB no/AT one/PN knows/VBZ its/PPg spirit/NN better/RBR than/CS Lieutenant/NN Colonel/NN Melbourne/NP C./NP Chandler/NP ./pct
 Wiry/JJ and/CC burr-headed/JJ ,/pct with/IN steel/NN blue/JJ eyes/NNS and/CC a/AT chest/NN splattered/VBN with/IN medals/NNS ,/pct Chandler/NP is/BEZ the/AT epitome/NN of/IN the/AT old-time/JJ trooper/NN ./pct
 The/AT truth/NN is/BEZ ,/pct however/RB ,/pct that/CS when/WRB Mel/NP Chandler/NP first/RB reported/VBD to/IN the/AT regiment/NN the/AT only/AP steed/NN he/PPS had/HVD ever/RB ridden/VBN was/BEDZ a/AT swivel/JJ chair/NN and/CC the/AT only/AP weapon/NN he/PPS had/HVD ever/RB wielded/VBN was/BEDZ a/AT pencil/NN ./pct
 Chandler/NP had/HVD been/BEN commissioned/VBN in/IN the/AT Medical/JJ Service/NN Corps/NN and/CC was/BEDZ serving/VBG as/CS a/AT personnel/NNS officer/NN for/IN the/AT Kansas/NP City/NN Medical/JJ Depot/NN when/WRB he/PPS decided/VBD that/CS if/CS he/PPS was/BEDZ going/VBG to/TO make/VB the/AT Army/NN his/PPg career/NN ,/pct he/PPS wanted/VBD to/TO be/BE in/IN the/AT fighting/VBG part/NN of/IN it/PPO ./pct
 Though/CS he/PPS knew/VBD no/AT more/AP about/IN military/JJ science/NN and/CC tactics/NNS than/CS any/DTI other/AP desk/NN officer/NN ,/pct he/PPS managed/VBD to/TO get/VB transferred/VBN to/IN the/AT combat/NN forces/NNS ./pct
 The/AT next/AP thing/NN he/PPS knew/VBD he/PPS was/BEDZ reporting/VBG for/IN duty/NN as/CS commanding/VBG officer/NN of/IN Troop/NN H/NP ,/pct 7th/OD Cavalry/NN ,/pct in/IN the/AT middle/NN of/IN corps/NN maneuvers/NNS in/IN Japan/NP ./pct
-Outside/RB of/IN combat/NN ,/pct he/PPS couldn't /None have/HV landed/VBN in/IN a/AT tougher/JJR spot/NN ./pct
-First/OD of/IN all/ABN ,/pct no/AT unit/NN likes/VBZ to/TO have/HV a/AT new/JJ CO/NN brought/VBN in/RP from/IN the/AT outside/NN ,/pct especially/RB when/WRB he's /None an/AT armchair/NN trooper/NN ./pct
-Second/RB ,/pct if/CS there/EX is/BEZ ever/RB a/AT perfect/JJ time/NN to/TO pull/VB the/AT rug/NN out/RP from/IN under/IN him/PPO ,/pct it's /None on/IN maneuvers/NNS ./pct
+Outside/RB of/IN combat/NN ,/pct he/PPS couldn't/MD* have/HV landed/VBN in/IN a/AT tougher/JJR spot/NN ./pct
+First/OD of/IN all/ABN ,/pct no/AT unit/NN likes/VBZ to/TO have/HV a/AT new/JJ CO/NN brought/VBN in/RP from/IN the/AT outside/NN ,/pct especially/RB when/WRB he's/PPSBEZ an/AT armchair/NN trooper/NN ./pct
+Second/RB ,/pct if/CS there/EX is/BEZ ever/RB a/AT perfect/JJ time/NN to/TO pull/VB the/AT rug/NN out/RP from/IN under/IN him/PPO ,/pct it's/PPSBEZ on/IN maneuvers/NNS ./pct
 In/IN combat/NN ,/pct helping/VBG your/PPg CO/NN make/VB a/AT fool/NN of/IN himself/PPL might/MD mean/VB getting/VBG yourself/PPL killed/VBN ./pct
-But/CC in/IN maneuvers/NNS ,/pct with/IN the/AT top/JJS brass/NN watching/VBG him/PPO all/ABN the/AT time/NN ,/pct it's /None easy/JJ ./pct
+But/CC in/IN maneuvers/NNS ,/pct with/IN the/AT top/JJS brass/NN watching/VBG him/PPO all/ABN the/AT time/NN ,/pct it's/PPSBEZ easy/JJ ./pct
 Chandler/NP understood/VBD this/DT and/CC expected/VBD the/AT worst/JJT ./pct
 But/CC his/PPg first/OD few/AP days/NNS with/IN Troop/NN H/NP were/BED full/JJ of/IN surprises/NNS ,/pct beginning/VBG with/IN First/OD Sergeant/NN Robert/NP Early/NP ./pct
 Chandler/NP had/HVD expected/VBN a/AT tough/JJ old/JJ trooper/NN with/IN a/AT gravel/NN voice/NN ./pct
@@ -31,7 +31,7 @@ That/DT saved/VBD Mel/NP Chandler/NP ./pct
 Sergeant/NN Early/NP let/VBD the/AT new/JJ CO/NN know/VB just/QL how/WQL lucky/JJ he/PPS was/BEDZ to/TO be/BE in/IN the/AT best/JJT troop/NN in/IN the/AT best/JJT regiment/NN in/IN the/AT United/VBN States/NNS Army/NN ./pct
 He/PPS fed/VBD the/AT captain/NN bits/NNS of/IN history/NN about/IN the/AT troops/NNS and/CC the/AT regiment/NN ./pct
 For/IN example/NN ,/pct it/PPS was/BEDZ a/AT battalion/NN of/IN the/AT 7th/OD Cavalry/NN under/IN Colonel/NN George/NP Armstrong/NP Custer/NP that/WPS had/HVD been/BEN wiped/VBN out/RP at/IN the/AT Battle/NN of/IN The/AT Little/JJ Big/JJ Horn/NN ./pct
-It/PPS didn't /None take/VB Captain/NN Chandler/NP long/RB to/TO realize/VB that/CS he/PPS had/HVD to/TO carry/VB a/AT heavy/JJ load/NN of/IN tradition/NN on/IN his/PPg shoulders/NNS as/CS commander/NN of/IN Troop/NN Aj/NP ./pct
+It/PPS didn't/DOD* take/VB Captain/NN Chandler/NP long/RB to/TO realize/VB that/CS he/PPS had/HVD to/TO carry/VB a/AT heavy/JJ load/NN of/IN tradition/NN on/IN his/PPg shoulders/NNS as/CS commander/NN of/IN Troop/NN Aj/NP ./pct
 But/CC what/WDT made/VBD the/AT load/NN lighter/JJR was/BEDZ the/AT realization/NN that/CS every/AT officer/NN ,/pct non-com/NN and/CC trooper/NN was/BEDZ ready/JJ and/CC willing/JJ to/TO help/VB him/PPO carry/VB it/PPO ,/pct for/IN the/AT good/NN of/IN the/AT troop/NN and/CC the/AT regiment/NN ./pct
 Maneuvers/NNS over/RP ,/pct the/AT 7th/OD returned/VBD to/IN garrison/NN duty/NN in/IN Tokyo/NP ,/pct Captain/NN Chandler/NP still/RB with/IN them/PPO ./pct
 It/PPS was/BEDZ the/AT 7th/OD Cavalry/NN whose/WPg troopers/NNS were/BED charged/VBN with/IN guarding/VBG the/AT Imperial/JJ Palace/NN of/IN the/AT Emperor/NN ./pct
@@ -57,7 +57,7 @@ Just/RB a/AT month/NN after/CS the/AT Korean/JJ War/NN broke/VBD out/RP ,/pct th
 From/IN then/RB on/RP the/AT Fighting/VBG Seventh/OD was/BEDZ in/IN the/AT thick/JJ of/IN the/AT bitterest/JJT fighting/NN in/IN Korea/NP ./pct
 One/CD night/NN on/IN the/AT Naktong/NP River/NN ,/pct Mel/NP Chandler/NP called/VBD on/IN that/DT fabled/JJ esprit/NN de/IN corps/NN ./pct
 The/AT regiment/NN was/BEDZ dug/VBN in/RP on/IN the/AT east/NR side/NN of/IN the/AT river/NN and/CC the/AT North/JJ Koreans/NPS were/BED steadily/RB building/VBG up/RP a/AT concentration/NN of/IN crack/NN troops/NNS on/IN the/AT other/AP side/NN ./pct
-The/AT troopers/NNS knew/VBD an/AT attack/NN was/BEDZ coming/VBG ,/pct but/CC they/PPSS didn't /None know/VB when/WRB ,/pct and/CC they/PPSS didn't /None know/VB where/WRB ./pct
+The/AT troopers/NNS knew/VBD an/AT attack/NN was/BEDZ coming/VBG ,/pct but/CC they/PPSS didn't/DOD* know/VB when/WRB ,/pct and/CC they/PPSS didn't/DOD* know/VB where/WRB ./pct
 At/IN 6/CD o'clock/RB on/IN the/AT morning/NN of/IN August/NP 12/CD ,/pct they/PPSS were/BED in/IN doubt/NN no/QL longer/RBR ./pct
 Then/RB it/PPS came/VBD ,/pct against/IN Troop/NN Aj/NP ./pct
 The/AT enemy/NN had/HVD filtered/VBN across/IN the/AT river/NN during/IN the/AT night/NN and/CC a/AT full/JJ force/NN of/IN 1000/CD men/NNS ,/pct armed/VBN with/IN Russian/JJ machine/NN guns/NNS ,/pct attacked/VBD the/AT position/NN held/VBN by/IN Chandler's/NPg men/NNS ./pct

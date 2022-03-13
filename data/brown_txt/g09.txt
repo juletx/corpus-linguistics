@@ -37,7 +37,7 @@ Others/NNS look/VB to/IN more/QL objective/JJ devices/NNS of/IN order/NN ./pct
 The/AT musician/NN employing/VBG the/AT serial/JJ technique/NN of/IN composition/NN establishes/VBZ a/AT mathematical/JJ system/NN of/IN rotations/NNS that/WPS ,/pct once/CS set/VBN in/IN motion/NN ,/pct determines/VBZ the/AT sequence/NN of/IN pitches/NNS and/CC even/RB of/IN rhythms/NNS and/CC intensities/NNS ./pct
 The/AT composer/NN may/MD reverse/VB or/CC invert/VB the/AT order/NN of/IN his/PPg original/JJ set/NN of/IN intervals/NNS (/pct or/CC rhythms/NNS or/CC dynamic/JJ changes/NNS )/pct ./pct
 He/PPS may/MD even/RB alter/VB the/AT pattern/NN by/IN applying/VBG a/AT scheme/NN of/IN random/JJ numbers/NNS ./pct
-But/CC he/PPS cannot /None order/VB his/PPg elements/NNS by/IN will/NN ,/pct either/CC rational/JJ or/CC inspired/VBN ./pct
+But/CC he/PPS cannot/MD* order/VB his/PPg elements/NNS by/IN will/NN ,/pct either/CC rational/JJ or/CC inspired/VBN ./pct
 The/AT system/NN works/VBZ as/CS an/AT impersonal/JJ mechanism/NN ./pct
 Musicians/NNS who/WPS use/VB the/AT chance/NN method/NN also/RB exclude/VB subjective/JJ control/NN of/IN formal/JJ development/NN ./pct
 Again/RB ,/pct the/AT composer/NN must/MD select/VB his/PPg own/JJ materials/NNS ./pct
@@ -77,7 +77,7 @@ He/PPS bases/VBZ his/PPg approach/NN on/IN the/AT belief/NN that/CS anything/PN 
 An/AT order/NN can/MD be/BE chanced/VBN rather/IN than/IN chosen/VBN ,/pct and/CC this/DT approach/NN produces/VBZ an/AT experience/NN that/WPS is/BEZ ``/pct free/JJ and/CC discovered/VBN rather/IN than/IN bound/VBN and/CC remembered/VBN ''/pct ./pct
 Thus/RB ,/pct there/EX is/BEZ freshness/NN not/NEG only/RB in/IN the/AT individual/JJ movements/NNS of/IN the/AT dance/NN but/CC in/IN the/AT shape/NN of/IN their/PPg continuity/NN as/QL well/RB ./pct
 Chance/NN ,/pct he/PPS finds/VBZ ,/pct enables/VBZ him/PPO to/TO create/VB ``/pct a/AT world/NN beyond/IN imagination/NN ''/pct ./pct
-He/PPS cites/VBZ with/IN pleasure/NN the/AT comment/NN of/IN a/AT lady/NN ,/pct who/WPS exclaimed/VBD after/IN a/AT concert/NN :/pct ``/pct Why/UH ,/pct it's /None extremely/QL interesting/JJ ./pct
+He/PPS cites/VBZ with/IN pleasure/NN the/AT comment/NN of/IN a/AT lady/NN ,/pct who/WPS exclaimed/VBD after/IN a/AT concert/NN :/pct ``/pct Why/UH ,/pct it's/PPSBEZ extremely/QL interesting/JJ ./pct
 But/CC I/PPSS would/MD never/RB have/HV thought/VBN of/IN it/PPO myself/PPL ''/pct ./pct
 The/AT sequence/NN of/IN movements/NNS in/IN a/AT Cunningham/NP dance/NN is/BEZ unlike/IN any/DTI sequence/NN to/TO be/BE seen/VBN in/IN life/NN ./pct
 At/IN one/CD side/NN of/IN the/AT stage/NN a/AT dancer/NN jumps/VBZ excitedly/RB ;/pct ;/pct

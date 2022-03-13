@@ -43,7 +43,7 @@ Determine/VB the/AT particular/JJ State's/NNg ``/pct allotment/NN percentage/NN 
 By/IN law/NN this/DT is/BEZ 75%/NN for/IN the/AT Virgin/NN Islands/NNS ,/pct Guam/NP and/CC Puerto/NP Rico/NP ./pct
 (/pct Alaska/NP and/CC Hawaii/NP had/HVD fixed/VBN allotment/NN percentages/NNS in/IN effect/NN prior/RB to/IN fiscal/JJ year/NN 1962/CD ./pct
 In/IN all/ABN other/AP States/NNS it/PPS is/BEZ the/AT difference/NN obtained/VBN by/IN subtracting/VBG from/IN 100/CD the/AT result/NN obtained/VBN in/IN item/NN 4/CD above/RB ;/pct ;/pct
-except/IN that/CS no/AT State/NN shall/MD have/HV an/AT allotment/NN percentage/NN less/AP than/IN 33-1/3%/NN nor/CC more/AP than/IN 75%/NN ./pct
+except/IN that/CS no/AT State/NN shall/MD have/HV an/AT allotment/NN percentage/NN less/AP than/IN 33-1:3%/NN nor/CC more/AP than/IN 75%/NN ./pct
 If/CS the/AT resulting/VBG difference/NN for/IN the/AT particular/JJ State/NN is/BEZ less/AP or/CC more/AP than/IN these/DTS extremes/NNS ,/pct the/AT State's/NNg allotment/NN percentage/NN must/MD be/BE raised/VBN or/CC lowered/VBN to/IN the/AT appropriate/JJ extreme/NN ./pct
 6/CD ./pct
 Square/VB each/DT State's/NNg allotment/NN percentage/NN ./pct

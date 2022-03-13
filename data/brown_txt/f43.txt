@@ -35,7 +35,7 @@ The/AT film/NN consists/VBZ of/IN a/AT series/NN of/IN still/JJ ,/pct transparen
 Each/DT frame/NN comes/VBZ between/IN the/AT light/NN and/CC the/AT lens/NN and/CC is/BEZ individually/RB projected/VBN on/IN the/AT screen/NN ,/pct at/IN the/AT rate/NN ,/pct for/IN silent/JJ movies/NNS ,/pct of/IN 16/CD frames/NNS per/IN second/OD ,/pct and/CC ,/pct for/IN sound/NN films/NNS ,/pct 24/CD frames/NNS per/IN second/OD ./pct
 This/DT is/BEZ the/AT rate/NN of/IN projection/NN ;/pct ;/pct
 it/PPS is/BEZ also/RB the/AT rate/NN of/IN photographing/VBG ./pct
-Time/NN is/BEZ built/VBN into/IN the/AT motion/NN picture/NN ,/pct which/WDT cannot /None exist/VB without/IN time/NN ./pct
+Time/NN is/BEZ built/VBN into/IN the/AT motion/NN picture/NN ,/pct which/WDT cannot/MD* exist/VB without/IN time/NN ./pct
 Now/RB time/NN is/BEZ also/RB the/AT concern/NN of/IN the/AT fictional/JJ narrative/NN ,/pct which/WDT is/BEZ ,/pct at/IN its/PPg simplest/JJT ,/pct the/AT story/NN of/IN an/AT action/NN with/IN ,/pct usually/RB ,/pct a/AT beginning/NN ,/pct a/AT middle/NN ,/pct and/CC an/AT end/NN --/pct elements/NNS which/WDT demand/VB time/NN as/CS the/AT first/OD condition/NN for/IN their/PPg existence/NN ./pct
 The/AT ``/pct moving/VBG ''/pct picture/NN of/IN the/AT train/NN or/CC the/AT wave/NN coming/VBG at/IN the/AT audience/NN is/BEZ ,/pct to/TO be/BE sure/JJ ,/pct more/QL intense/JJ than/CS a/AT still/JJ picture/NN of/IN the/AT same/AP subject/NN ,/pct but/CC the/AT difference/NN is/BEZ really/RB one/CD of/IN degree/NN ;/pct ;/pct
 the/AT cinematic/JJ element/NN of/IN time/NN is/BEZ merely/RB used/VBN to/TO increase/VB the/AT realism/NN of/IN an/AT object/NN which/WDT would/MD still/RB be/BE reasonably/QL realistic/JJ in/IN a/AT still/JJ photo/NN ./pct

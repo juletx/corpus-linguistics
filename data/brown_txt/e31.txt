@@ -32,7 +32,7 @@ Other/AP pilot/NN programs/NNS were/BED conducted/VBN by/IN A/NN &/CC S/NN ,/pct
 J./NP L./NP Hudson/NP ,/pct Detroit/NP ;/pct ;/pct
 Joseph/NP Horne/NP ,/pct Pittsburgh/NP ./pct
 Other/AP THC/NN activities/NNS followed/VBD ,/pct conducted/VBN by/IN shopping/VBG centers/NNS ,/pct department/NN stores/NNS ,/pct recreation/NN equipment/NN dealers/NNS ,/pct radio-TV/NN stations/NNS ,/pct newspapers/NNS ,/pct and/CC other/AP organizations/NNS interested/VBN in/IN the/AT need/NN existing/VBG to/TO acquaint/VB youngsters/NNS with/IN the/AT proper/JJ use/NN of/IN sporting/VBG firearms/NNS and/CC the/AT development/NN of/IN correct/JJ attitudes/NNS and/CC appreciations/NNS related/VBN to/IN hunting/VBG and/CC wise/JJ use/NN of/IN our/PPg natural/JJ resources/NNS ./pct
-SAAMI's/NPg field/NN men/NNS have/HV served/VBN as/CS consultants/NNS and/or/CC have/HV participated/VBN in/IN 75/CD Teen/NN Hunter/NN Club/NN activities/NNS which/WDT have/HV reached/VBN over/RP 40,000/CD enthusiastic/JJ young/JJ Americans/NPS ./pct
+SAAMI's/NPg field/NN men/NNS have/HV served/VBN as/CS consultants/NNS and:or/CC have/HV participated/VBN in/IN 75/CD Teen/NN Hunter/NN Club/NN activities/NNS which/WDT have/HV reached/VBN over/RP 40,000/CD enthusiastic/JJ young/JJ Americans/NPS ./pct
 Through/IN the/AT efforts/NNS of/IN SAAMI's/NN shooting/VBG development/NN program/NN these/DTS shooting/VBG activities/NNS ,/pct and/CC many/AP others/NNS ,/pct including/IN assists/NNS in/IN the/AT development/NN of/IN public/JJ and/CC privately/RB financed/VBN shooting/VBG parks/NNS ,/pct trap/NN and/CC skeet/NN leagues/NNS ,/pct rifle/NN and/CC pistol/NN marksmanship/NN programs/NNS have/HV been/BEN promoted/VBN ,/pct to/TO mention/VB only/RB a/AT few/AP ./pct
 The/AT continuation/NN and/CC expansion/NN of/IN the/AT shooting/VBG development/NN program/NN will/MD assure/VB to/IN some/DTI degree/NN that/CS national/JJ and/CC community/NN leaders/NNS will/MD be/BE made/VBN aware/JJ of/IN the/AT ever-growing/JJ need/NN for/IN shooting/VBG facilities/NNS and/CC activities/NNS for/IN hunting/VBG and/CC shooting/VBG in/IN answer/NN to/IN public/JJ demand/NN ./pct
 While/CS individual/JJ sportsmen/NNS are/BER aware/JJ of/IN this/DT situation/NN ,/pct too/QL many/AP of/IN our/PPg political/JJ ,/pct social/JJ ,/pct educational/JJ and/CC even/RB religious/JJ leaders/NNS too/QL often/RB forget/VB it/PPO ./pct
@@ -59,7 +59,7 @@ Almost/RB every/AT official/NN who/WPS reflects/VBZ on/IN it/PPO thinks/VBZ this
 You/PPSS read/VBD various/JJ guesses/NNS on/IN how/WQL many/AP Americans/NPS are/BER camping/VBG ./pct
 The/AT number/NN depends/VBZ on/IN who/WPS is/BEZ talking/VBG at/IN the/AT moment/NN ./pct
 The/AT figures/NNS range/VB as/QL high/JJ as/CS 15/CD million/CD families/NNS ./pct
-I've /None heard/VBN 10/CD million/CD mentioned/VBN often/RB ,/pct but/CC I'm /None more/QL inclined/VBN to/TO think/VB there/EX may/MD be/BE a/AT total/NN of/IN some/RB five/CD to/IN seven/CD million/CD families/NNS camping/VBG ./pct
+I've/PPSSHV heard/VBN 10/CD million/CD mentioned/VBN often/RB ,/pct but/CC I'm/PPSSBEM more/QL inclined/VBN to/TO think/VB there/EX may/MD be/BE a/AT total/NN of/IN some/RB five/CD to/IN seven/CD million/CD families/NNS camping/VBG ./pct
 Seven/CD million/CD families/NNS would/MD total/VB 30/CD million/CD Americans/NPS or/CC more/AP ./pct
 Consider/VB the/AT equipment/NN needed/VBN to/TO protect/VB this/DT many/AP from/IN the/AT weather/NN ,/pct to/TO make/VB their/PPg cooking/NN easy/JJ and/CC their/PPg sleeping/NN comfortable/JJ ./pct
 More/AP campers/NNS than/CS campsites/NNS
@@ -84,19 +84,19 @@ The/AT AAA/NN then/RB splits/VBZ it/PPO down/RP this/DT way/NN :/pct $10.50/NNS 
 What/WDT does/DOZ the/AT camping/VBG couple/NN do/DO to/IN this/DT set/NN of/IN figures/NNS ?/pct ?/pct
 The/AT $9.50/NNS for/IN lodging/VBG they/PPSS save/VB ./pct
 Because/CS they/PPSS prepare/VB their/PPg own/JJ meals/NNS they/PPSS also/RB keep/VB in/IN their/PPg pockets/NNS a/AT good/JJ portion/NN of/IN that/DT $10.50/NNS food/NN bill/NN along/RB with/IN most/AP of/IN the/AT tip/NN money/NN ./pct
-The/AT automobile/NN expenses/NNS are/BER about/RB the/AT only/AP vacationing/VBG cost/NN they/PPSS can't /None either/CC eliminate/VB or/CC pare/VB down/RP drastically/RB by/IN camping/VBG along/IN the/AT way/NN ./pct
+The/AT automobile/NN expenses/NNS are/BER about/RB the/AT only/AP vacationing/VBG cost/NN they/PPSS can't/MD* either/CC eliminate/VB or/CC pare/VB down/RP drastically/RB by/IN camping/VBG along/IN the/AT way/NN ./pct
 Where/WRB Americans/NPS used/VBD to/TO think/VB of/IN a/AT single/AP vacation/NN each/DT summer/NN ,/pct they/PPSS now/RB think/VB about/IN how/WQL many/AP vacations/NNS they/PPSS can/MD have/HV ./pct
 Long/JJ weekends/NNS enable/VB many/AP to/TO get/VB away/RB from/IN home/NN for/IN three/CD or/CC four/CD days/NNS several/AP times/NNS a/AT year/NN ./pct
 And/CC even/RB if/CS they/PPSS stay/VB in/IN resorts/NNS part/VB of/IN the/AT time/NN ,/pct they/PPSS might/MD ,/pct if/CS the/AT right/JJ salesman/NN gets/VBZ them/PPO in/IN tow/NN ,/pct develop/VB a/AT yearning/NN to/TO spice/VB the/AT usual/JJ vacation/NN fare/NN with/IN a/AT camping/VBG trip/NN into/IN the/AT wide/JJ open/JJ spaces/NNS ./pct
-It/PPS would/MD be/BE a/AT mistake/NN to/TO sell/VB those/DTS thousands/NNS of/IN beginning/VBG campers/NNS on/IN the/AT idea/NN they're /None buying/VBG the/AT comforts/NNS of/IN home/NN ./pct
-They're /None not/NEG ./pct
+It/PPS would/MD be/BE a/AT mistake/NN to/TO sell/VB those/DTS thousands/NNS of/IN beginning/VBG campers/NNS on/IN the/AT idea/NN they're/PPSSBER buying/VBG the/AT comforts/NNS of/IN home/NN ./pct
+They're/PPSSBER not/NEG ./pct
 Home/NN is/BEZ the/AT place/NN to/TO find/VB the/AT comforts/NNS of/IN home/NN ./pct
-They're /None buying/VBG fun/NN and/CC adventure/NN and/CC family/NN experiences/NNS ./pct
+They're/PPSSBER buying/VBG fun/NN and/CC adventure/NN and/CC family/NN experiences/NNS ./pct
 But/CC it/PPS would/MD also/RB be/BE a/AT mistake/NN for/IN them/PPO not/NEG to/TO realize/VB how/WQL comfortable/JJ camping/VBG has/HVZ become/VBN ./pct
 This/DT is/BEZ no/QL longer/RBR a/AT way/NN of/IN life/NN for/IN the/AT bearded/VBN logger/NN and/CC the/AT wandering/VBG cowboy/NN ./pct
 Today's/NRg campers/NNS want/VB comforts/NNS ,/pct and/CC they/PPSS have/HV them/PPO ./pct
 And/CC this/DT helps/NNS explain/VB why/WRB so/QL many/AP people/NNS are/BER now/RB going/VBG camping/VBG ./pct
-It's /None fun/NN ,/pct and/CC it's /None easy/JJ --/pct so/QL easy/JJ that/CS there/EX is/BEZ time/NN left/VBN after/CS cooking/VBG ,/pct and/CC tent/NN keeping/NN ,/pct for/IN the/AT women/NNS to/TO get/VB out/RP and/CC enjoy/VB outdoor/JJ fun/NN with/IN their/PPg families/NNS ./pct
+It's/PPSBEZ fun/NN ,/pct and/CC it's/PPSBEZ easy/JJ --/pct so/QL easy/JJ that/CS there/EX is/BEZ time/NN left/VBN after/CS cooking/VBG ,/pct and/CC tent/NN keeping/NN ,/pct for/IN the/AT women/NNS to/TO get/VB out/RP and/CC enjoy/VB outdoor/JJ fun/NN with/IN their/PPg families/NNS ./pct
 Camp/NN meals/NNS are/BER no/AT great/JJ problem/NN ./pct
 Neither/CC are/BER beds/NNS ,/pct thanks/NNS to/IN air/NN mattresses/NNS and/CC sleeping/VBG bags/NNS ./pct
 Neither/CC are/BER shelters/NNS ,/pct because/CS there/EX is/BEZ one/CD to/TO meet/VB the/AT needs/NNS of/IN every/AT camper/NN or/CC prospective/JJ camper/NN ./pct

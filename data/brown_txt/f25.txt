@@ -5,13 +5,13 @@ Jewish/JJ identity/NN was/BEDZ often/RB confused/VBN with/IN social/JJ and/CC ec
 When/WRB I/PPSS pressed/VBD for/IN a/AT purely/QL religious/JJ definition/NN ,/pct I/PPSS encountered/VBD the/AT familiar/JJ blend/NN of/IN liberal/JJ piety/NN ,/pct interfaith/JJ good/JJ will/NN ,/pct and/CC a/AT small/JJ residue/NN of/IN ethnic/JJ loyalty/NN ./pct
 ``/pct I/PPSS like/VB the/AT tradition/NN ''/pct ,/pct a/AT girl/NN said/VBD ./pct
 ``/pct I/PPSS like/VB to/TO follow/VB the/AT holidays/NNS when/WRB they/PPSS come/VB along/RB ./pct
-But/CC you/PPSS don't /None have/HV to/TO worship/VB in/IN the/AT traditional/JJ way/NN ./pct
+But/CC you/PPSS don't/DO* have/HV to/TO worship/VB in/IN the/AT traditional/JJ way/NN ./pct
 You/PPSS can/MD communicate/VB in/IN your/PPg own/JJ way/NN ./pct
-As/CS I/PPSS see/VB it/PPO ,/pct there's /None no/AT real/JJ difference/NN between/IN being/BEG Jewish/JJ ,/pct Catholic/JJ ,/pct or/CC Protestant/JJ ''/pct ./pct
-Another/DT teen-ager/NN remarked/VBD :/pct ``/pct Most/AP Jews/NPS don't /None believe/VB in/IN God/NP ,/pct but/CC they/PPSS believe/VB in/IN people/NNS --/pct in/IN helping/VBG people/NNS ''/pct ./pct
+As/CS I/PPSS see/VB it/PPO ,/pct there's/EXBEZ no/AT real/JJ difference/NN between/IN being/BEG Jewish/JJ ,/pct Catholic/JJ ,/pct or/CC Protestant/JJ ''/pct ./pct
+Another/DT teen-ager/NN remarked/VBD :/pct ``/pct Most/AP Jews/NPS don't/DO* believe/VB in/IN God/NP ,/pct but/CC they/PPSS believe/VB in/IN people/NNS --/pct in/IN helping/VBG people/NNS ''/pct ./pct
 Still/RB another/DT boy/NN asserted/VBD :/pct ``/pct To/TO be/BE a/AT good/JJ Jew/NP is/BEZ to/TO do/DO no/AT wrong/NN ;/pct ;/pct
-it's /None to/TO be/BE a/AT good/JJ person/NN ''/pct ./pct
-When/WRB asked/VBN how/WRB this/DT was/BEDZ different/JJ from/IN being/BEG a/AT good/JJ Protestant/NP ,/pct the/AT boy/NN answered/VBD ,/pct ``/pct It's /None the/AT same/AP thing/NN ''/pct ./pct
+it's/PPSBEZ to/TO be/BE a/AT good/JJ person/NN ''/pct ./pct
+When/WRB asked/VBN how/WRB this/DT was/BEDZ different/JJ from/IN being/BEG a/AT good/JJ Protestant/NP ,/pct the/AT boy/NN answered/VBD ,/pct ``/pct It's/PPSBEZ the/AT same/AP thing/NN ''/pct ./pct
 This/DT accords/VBZ with/IN the/AT study/NN by/IN Maier/NP and/CC Spinrad/NP ./pct
 They/PPSS discovered/VBD that/CS ,/pct although/CS 42/CD per/IN cent/NN of/IN a/AT sample/NN of/IN Catholic/JJ students/NNS and/CC 15/CD per/IN cent/NN of/IN the/AT Protestants/NPS believed/VBD it/PPO important/JJ to/TO live/VB in/IN accordance/NN with/IN the/AT teachings/NNS of/IN their/PPg religion/NN ,/pct only/RB 8/CD per/IN cent/NN of/IN the/AT Jewish/JJ students/NNS had/HVD this/DT conviction/NN ./pct
 The/AT most/QL important/JJ aims/NNS of/IN the/AT Jewish/JJ students/NNS were/BED as/CS follows/VBZ :/pct to/TO make/VB the/AT world/NN a/AT better/JJR place/NN to/TO live/VB in/IN --/pct 30/CD per/IN cent/NN ;/pct ;/pct
@@ -19,14 +19,14 @@ to/TO get/VB happiness/NN for/IN yourself/PPL --/pct 28/CD per/IN cent/NN ;/pct 
 and/CC financial/JJ independence/NN --/pct 21/CD per/IN cent/NN ./pct
 Nevertheless/RB ,/pct most/AP of/IN the/AT teen-agers/NNS I/PPSS interviewed/VBD believed/VBD in/IN maintaining/VBG their/PPg Jewish/JJ identity/NN and/CC even/RB envisioned/VBD joining/VBG a/AT synagogue/NN or/CC temple/NN ./pct
 However/RB ,/pct they/PPSS were/BED hostile/JJ to/IN Jewish/JJ Orthodoxy/NN ,/pct professing/VBG to/TO believe/VB in/IN Judaism/NP ``/pct but/CC in/IN a/AT moderate/JJ way/NN ''/pct ./pct
-One/CD boy/NN said/VBD querulously/RB about/IN Orthodox/JJ Jews/NPS :/pct ``/pct It's /None the/AT twentieth/OD century/NN ,/pct and/CC they/PPSS don't /None have/HV to/TO wear/VB beards/NNS ''/pct ./pct
+One/CD boy/NN said/VBD querulously/RB about/IN Orthodox/JJ Jews/NPS :/pct ``/pct It's/PPSBEZ the/AT twentieth/OD century/NN ,/pct and/CC they/PPSS don't/DO* have/HV to/TO wear/VB beards/NNS ''/pct ./pct
 The/AT reason/NN offered/VBN for/IN clinging/VBG to/IN the/AT ancestral/JJ faith/NN lacked/VBD force/NN and/CC authority/NN even/RB in/IN the/AT teen-agers'/NNSg minds/NNS ./pct
 ``/pct We/PPSS were/BED brought/VBN up/RP that/DT way/NN ''/pct was/BEDZ one/CD statement/NN which/WDT won/VBD general/JJ assent/NN ./pct
 ``/pct I/PPSS want/VB to/TO show/VB respect/NN for/IN my/PPg parents'/NNSg religion/NN ''/pct was/BEDZ the/AT way/NN in/IN which/WDT a/AT boy/NN justified/VBD his/PPg inhabiting/VBG a/AT halfway/JJ house/NN of/IN Judaism/NP ./pct
-Still/RB another/DT suggested/VBD that/CS he/PPS would/MD join/VB a/AT temple/NN ``/pct for/IN social/JJ reasons/NNS ,/pct since/CS I'll /None be/BE living/VBG in/IN a/AT suburb/NN ''/pct ./pct
+Still/RB another/DT suggested/VBD that/CS he/PPS would/MD join/VB a/AT temple/NN ``/pct for/IN social/JJ reasons/NNS ,/pct since/CS I'll/PPSSMD be/BE living/VBG in/IN a/AT suburb/NN ''/pct ./pct
 Intermarriage/NN ,/pct which/WDT is/BEZ generally/RB regarded/VBN as/CS a/AT threat/NN to/IN Jewish/JJ survival/NN ,/pct was/BEDZ regarded/VBN not/NEG with/IN horror/NN or/CC apprehension/NN but/CC with/IN a/AT kind/NN of/IN mild/JJ ,/pct clinical/JJ disapproval/NN ./pct
 Most/AP of/IN the/AT teen-agers/NNS I/PPSS interviewed/VBD rejected/VBN it/PPO on/IN pragmatic/JJ grounds/NNS ./pct
-``/pct When/WRB you/PPSS marry/VB ,/pct you/PPSS want/VB to/TO have/HV things/NNS in/IN common/JJ ''/pct ,/pct a/AT girl/NN said/VBD ,/pct ``/pct and/CC it's /None hard/JJ when/WRB you/PPSS don't /None marry/VB someone/PN with/IN your/PPg own/JJ background/NN ''/pct ./pct
+``/pct When/WRB you/PPSS marry/VB ,/pct you/PPSS want/VB to/TO have/HV things/NNS in/IN common/JJ ''/pct ,/pct a/AT girl/NN said/VBD ,/pct ``/pct and/CC it's/PPSBEZ hard/JJ when/WRB you/PPSS don't/DO* marry/VB someone/PN with/IN your/PPg own/JJ background/NN ''/pct ./pct
 A/AT fourteen-year-old/JJ girl/NN from/IN the/AT Middle/JJ West/NR observed/VBD wryly/RB that/CS ,/pct in/IN her/PPg community/NN ,/pct religion/NN inconveniently/RB interfered/VBD with/IN religious/JJ activities/NNS --/pct at/IN least/AP with/IN the/AT peripheral/JJ activities/NNS that/WPS many/AP middle/JJ class/NN Jews/NPS now/RB regard/VB as/CS religious/JJ ./pct
 It/PPS appears/VBZ that/CS an/AT Orthodox/JJ girl/NN in/IN the/AT community/NN disrupted/VBD plans/NNS for/IN an/AT outing/NN sponsored/VBN by/IN one/CD of/IN the/AT Jewish/JJ service/NN groups/NNS because/CS she/PPS would/MD not/NEG travel/VB on/IN Saturday/NR and/CC ,/pct in/IN addition/NN ,/pct required/VBD kosher/JJ food/NN ./pct
 Another/DT girl/NN from/IN a/AT relatively/QL large/JJ midwestern/JJ city/NN described/VBD herself/PPL as/CS ``/pct the/AT only/AP Orthodox/JJ girl/NN in/IN town/NN ''/pct ./pct
@@ -45,7 +45,7 @@ The/AT vocational/JJ motive/NN is/BEZ the/AT dominant/JJ one/CD for/IN boys/NNS 
 One/CD of/IN the/AT significant/JJ developments/NNS in/IN American-Jewish/JJ life/NN is/BEZ that/CS the/AT cultural/JJ consumers/NNS are/BER largely/RB the/AT women/NNS ./pct
 It/PPS is/BEZ they/PPSS who/WPS read/VB --/pct and/CC make/VB --/pct Jewish/JJ best-sellers/NNS and/CC then/RB persuade/VB their/PPg husbands/NNS to/TO read/VB them/PPO ./pct
 In/IN upper/JJ teen/NN Jewish/JJ life/NN ,/pct the/AT non-college/NN group/NN tends/VBZ to/TO have/HV a/AT sense/NN of/IN marginality/NN ./pct
-``/pct People/NNS automatically/RB assume/VB that/CS I'm /None in/IN college/NN ''/pct ,/pct a/AT nineteen-year-old/JJ machinist/NN observed/VBD irritably/RB ./pct
+``/pct People/NNS automatically/RB assume/VB that/CS I'm/PPSSBEM in/IN college/NN ''/pct ,/pct a/AT nineteen-year-old/JJ machinist/NN observed/VBD irritably/RB ./pct
 However/RB ,/pct among/IN the/AT girls/NNS ,/pct there/EX are/BER some/DTI morale-enhancing/JJ compensations/NNS for/IN not/NEG going/VBG to/IN college/NN ./pct
 The/AT Jewish/JJ working/VBG girl/NN almost/QL invariably/RB works/VBZ in/IN an/AT office/NN --/pct in/IN contradistinction/NN to/IN gentile/JJ factory/NN workers/NNS --/pct and/CC ,/pct buttressed/VBN by/IN a/AT respectable/JJ income/NN ,/pct she/PPS is/BEZ likely/JJ to/TO dress/VB better/RBR and/CC live/VB more/QL expansively/RB than/CS the/AT college/NN student/NN ./pct
 She/PPS is/BEZ even/RB prone/JJ to/TO regard/VB the/AT college/NN girl/NN as/CS immature/JJ ./pct
@@ -67,16 +67,16 @@ On/IN the/AT one/CD hand/NN ,/pct there/EX is/BEZ a/AT sense/NN of/IN not/NEG ha
 This/DT is/BEZ particularly/QL acute/JJ for/IN those/DTS who/WPS attended/VBD Midwood/NP High/JJ School/NN directly/RB across/IN the/AT street/NN from/IN Brooklyn/NP College/NN ./pct
 They/PPSS have/HV a/AT sense/NN of/IN marginality/NN at/IN being/BEG denied/VBN that/DT special/JJ badge/NN of/IN status/NN ,/pct the/AT out-of-town/JJ school/NN ./pct
 At/IN the/AT same/AP time/NN ,/pct there/EX is/BEZ a/AT good/JJ deal/NN of/IN self-congratulation/NN at/IN attending/VBG a/AT good/JJ college/NN --/pct they/PPSS are/BER even/RB inclined/VBN to/TO exaggerate/VB its/PPg not/NEG inconsiderable/JJ virtues/NNS --/pct and/CC they/PPSS express/VB pleasure/NN at/IN the/AT cozy/JJ in-group/NN feeling/NN that/CS the/AT college/NN generates/VBZ ./pct
-``/pct It's /None people/NNS of/IN your/PPg own/JJ kind/NN ''/pct ,/pct a/AT girl/NN remarked/VBD ./pct
-``/pct You/PPSS don't /None have/HV to/TO watch/VB what/WDT you/PPSS say/VB ./pct
+``/pct It's/PPSBEZ people/NNS of/IN your/PPg own/JJ kind/NN ''/pct ,/pct a/AT girl/NN remarked/VBD ./pct
+``/pct You/PPSS don't/DO* have/HV to/TO watch/VB what/WDT you/PPSS say/VB ./pct
 Of/IN course/NN ,/pct I/PPSS would/MD like/VB to/TO go/VB to/IN an/AT out-of-town/JJ school/NN where/WRB there/EX are/BER all/ABN kinds/NNS of/IN people/NNS ,/pct but/CC I/PPSS would/MD want/VB lots/NNS of/IN Jewish/JJ kids/NNS there/RB ''/pct ./pct
 For/IN most/AP Brooklyn/NP College/NN students/NNS ,/pct college/NN is/BEZ at/IN once/CS a/AT perpetuation/NN of/IN their/PPg ethnic/JJ attachments/NNS and/CC a/AT breaking/NN away/RB from/IN the/AT cage/NN of/IN neighborhood/NN and/CC family/NN ./pct
 Brooklyn/NP College/NN is/BEZ unequivocally/QL Jewish/JJ in/IN tone/NN ,/pct and/CC efforts/NNS to/TO detribalize/VB the/AT college/NN by/IN bringing/VBG in/RP unimpeachably/QL midwestern/JJ types/NNS on/IN the/AT faculty/NN have/HV been/BEN unavailing/JJ ./pct
 However/RB ,/pct a/AT growing/VBG intellectual/JJ sophistication/NN and/CC the/AT new/JJ certitudes/NNS imparted/VBN by/IN courses/NNS in/IN psychology/NN and/CC anthropology/NN make/VB the/AT students/NNS increasingly/QL critical/JJ of/IN their/PPg somewhat/QL provincial/JJ and/CC overprotective/JJ parents/NNS ./pct
 And/CC the/AT rebellion/NN of/IN these/DTS third/OD generation/NN Jews/NPS is/BEZ not/NEG the/AT traditional/JJ conflict/NN of/IN culture/NN but/CC ,/pct rather/RB ,/pct a/AT protest/NN against/IN a/AT culture/NN that/CS they/PPSS view/VB as/CS softly/QL and/CC insidiously/QL enveloping/VBG ./pct
-``/pct As/QL long/RB as/CS I'm /None home/NR ,/pct I'll /None never/RB grow/VB up/RP ''/pct ,/pct a/AT nineteen-year-old/JJ boy/NN observed/VBD sadly/RB ./pct
-``/pct They/PPSS don't /None like/VB it/PPO if/CS I/PPSS do/DO anything/PN away/RB from/IN home/NR ./pct
-It's /None so/QL much/AP trouble/NN ,/pct I/PPSS don't /None usually/RB bother/VB ''/pct ./pct
+``/pct As/QL long/RB as/CS I'm/PPSSBEM home/NR ,/pct I'll/PPSSMD never/RB grow/VB up/RP ''/pct ,/pct a/AT nineteen-year-old/JJ boy/NN observed/VBD sadly/RB ./pct
+``/pct They/PPSS don't/DO* like/VB it/PPO if/CS I/PPSS do/DO anything/PN away/RB from/IN home/NR ./pct
+It's/PPSBEZ so/QL much/AP trouble/NN ,/pct I/PPSS don't/DO* usually/RB bother/VB ''/pct ./pct
 For/IN girls/NNS ,/pct the/AT overprotection/NN is/BEZ far/QL more/QL pervasive/JJ ./pct
 Parents/NNS will/MD drive/VB on/IN Friday/NR night/NN to/TO pick/VB up/RP their/PPg daughters/NNS after/IN a/AT sorority/NN or/CC House/NN Plan/NN meeting/NN ./pct
 A/AT freshman/NN girl's/NNg father/NN not/NEG too/QL long/RB ago/RB called/VBD a/AT dean/NN at/IN Brooklyn/NP College/NN and/CC demanded/VBD the/AT ``/pct low-down/NN ''/pct on/IN a/AT boy/NN who/WPS was/BEDZ going/VBG out/RP with/IN his/PPg daughter/NN ./pct

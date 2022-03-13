@@ -12,7 +12,7 @@ They/PPSS give/VB strict/JJ interpretation/NN to/IN William/NP James'/NPg statem
 They/PPSS seem/VB to/TO believe/VB that/CS a/AT person/NN will/MD act/VB automatically/RB as/QL soon/RB as/CS he/PPS contacts/VBZ something/PN new/JJ ./pct
 Hence/RB ,/pct the/AT only/AP defensible/JJ procedure/NN is/BEZ to/TO repress/VB any/DTI and/CC every/AT notion/NN ,/pct unless/CS it/PPS gives/VBZ evidence/NN that/CS it/PPS is/BEZ perfectly/QL safe/JJ ./pct
 Despite/IN this/DT danger/NN ,/pct however/RB ,/pct we/PPSS are/BER informed/VBN on/IN every/AT hand/NN that/CS ideas/NNS ,/pct not/NEG machines/NNS ,/pct are/BER our/PPg finest/JJT tools/NNS ;/pct ;/pct
-they/PPSS are/BER priceless/JJ even/RB though/CS they/PPSS cannot /None be/BE recorded/VBN on/IN a/AT ledger/NN page/NN ;/pct ;/pct
+they/PPSS are/BER priceless/JJ even/RB though/CS they/PPSS cannot/MD* be/BE recorded/VBN on/IN a/AT ledger/NN page/NN ;/pct ;/pct
 they/PPSS are/BER the/AT most/QL valuable/JJ of/IN commodities/NNS --/pct and/CC the/AT most/QL salable/JJ ,/pct for/CS their/PPg demand/NN far/RB exceeds/VBZ supply/NN ./pct
 So/QL all-important/JJ are/BER ideas/NNS ,/pct we/PPSS are/BER told/VBN ,/pct that/CS persons/NNS successful/JJ in/IN business/NN and/CC happy/JJ in/IN social/JJ life/NN usually/RB fall/VB into/IN two/CD classes/NNS :/pct those/DTS who/WPS invent/VB new/JJ ideas/NNS of/IN their/PPg own/JJ ,/pct and/CC those/DTS who/WPS borrow/VB ,/pct beg/VB ,/pct or/CC steal/VB from/IN others/NNS ./pct
 Seemingly/RB ,/pct with/IN an/AT unrestricted/JJ flow/NN of/IN ideas/NNS ,/pct all/ABN will/MD be/BE well/JJ ,/pct and/CC we/PPSS are/BER even/RB assured/VBN that/CS ``/pct an/AT idea/NN a/AT day/NN will/MD keep/VB the/AT sheriff/NN away/RB ''/pct ./pct

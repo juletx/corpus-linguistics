@@ -48,7 +48,7 @@ Longwood/NP Gardens/NNS ,/pct near/IN Kennett/NP Square/NN ,/pct Pa./NP (/pct ab
 Every/AT Wednesday/NR night/NN through/IN Oct./NP 11/CD there/EX will/MD be/BE an/AT elaborate/JJ colored/VBN fountain/NN display/NN ,/pct with/IN 229/CD nozzles/NNS throwing/VBG jets/NNS of/IN water/NN up/RP to/IN 130/CD feet/NNS ./pct
 The/AT ``/pct peacock/NN tail/NN ''/pct nozzle/NN throws/VBZ a/AT giant/JJ fan/NN of/IN water/NN 100/CD feet/NNS wide/JJ and/CC 40/CD feet/NNS high/JJ ./pct
 The/AT gardens/NNS themselves/PPLS are/BER open/JJ free/JJ of/IN charge/NN the/AT year/NN round/RB ,/pct and/CC the/AT 192/CD permanent/JJ employes/NNS make/VB sure/JJ that/CS not/NEG a/AT dead/JJ or/CC wilted/VBN flower/NN is/BEZ ever/RB seen/VBN indoors/RB or/CC out/RP by/IN any/DTI visitor/NN ./pct
-The/AT greenhouses/NNS alone/RB cover/VB 3-1/2/CD acres/NNS ./pct
+The/AT greenhouses/NNS alone/RB cover/VB 3-1:2/CD acres/NNS ./pct
 Books/NNS
 clock/NN without/IN hands/NNS ./pct
 Carson/NP McCullers/NP ,/pct after/IN a/AT long/JJ ,/pct painful/JJ illness/NN that/WPS might/MD have/HV crushed/VBN a/AT less-indomitable/JJ soul/NN ,/pct has/HVZ come/VBN back/RB with/IN an/AT absolute/JJ gem/NN of/IN a/AT novel/NN which/WDT jumped/VBD high/RB on/IN best-seller/NN lists/NNS even/RB before/IN official/JJ publication/NN ./pct

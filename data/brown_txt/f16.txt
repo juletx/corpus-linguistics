@@ -82,7 +82,7 @@ He/PPS went/VBD to/IN his/PPg cabin/NN and/CC emerged/VBD carrying/VBG a/AT larg
 Patiently/RB ,/pct he/PPS explained/VBD what/WDT he/PPS knew/VBD about/IN their/PPg course/NN and/CC their/PPg objectives/NNS ./pct
 When/WRB Hudson/NP had/HVD finished/VBN ,/pct the/AT ``/pct town/NN meeting/NN ''/pct broke/VBD down/RP into/IN a/AT general/JJ ,/pct wordy/JJ argument/NN ./pct
 One/CD man/NN remarked/VBD that/CS if/CS he/PPS had/HVD a/AT hundred/CD pounds/NNS ,/pct he/PPS would/MD give/VB ninety/CD of/IN them/PPO to/TO be/BE back/RB in/IN England/NP ./pct
-Up/RP spoke/VBD carpenter/NN Staffe/NP ,/pct who/WPS said/VBD he/PPS wouldn't /None give/VB ten/CD pounds/NNS to/TO be/BE home/NR ./pct
+Up/RP spoke/VBD carpenter/NN Staffe/NP ,/pct who/WPS said/VBD he/PPS wouldn't/MD* give/VB ten/CD pounds/NNS to/TO be/BE home/NR ./pct
 The/AT statement/NN was/BEDZ effective/JJ ./pct
 The/AT meeting/NN broke/VBD up/RP ./pct
 Hudson/NP was/BEDZ free/JJ to/TO sail/VB on/RP ./pct

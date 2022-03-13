@@ -67,7 +67,7 @@ Expected/VBN of/IN a/AT commander/NN
 Commenting/VBG on/IN these/DTS and/CC other/AP matters/NNS ,/pct Field/NN Marshal/NN Slim/NP makes/VBZ many/AP frank/JJ and/CC provocative/JJ remarks/NNS :/pct
 ``/pct When/WRB in/IN doubt/NN as/IN to/IN two/CD courses/NNS of/IN action/NN ,/pct a/AT general/NN should/MD choose/VB the/AT bolder/JJR ''/pct ./pct
 ``/pct The/AT commander/NN has/HVZ failed/VBN in/IN his/PPg duty/NN if/CS he/PPS has/HVZ not/NEG won/VBN victory/NN --/pct for/CS that/DT is/BEZ his/PPg duty/NN ''/pct ./pct
-``/pct It/PPS only/RB does/DOZ harm/NN to/TO talk/VB to/IN troops/NNS about/IN new/JJ and/CC desirable/JJ equipment/NN which/WDT others/NNS may/MD have/HV but/CC which/WDT you/PPSS cannot /None give/VB them/PPO ./pct
+``/pct It/PPS only/RB does/DOZ harm/NN to/TO talk/VB to/IN troops/NNS about/IN new/JJ and/CC desirable/JJ equipment/NN which/WDT others/NNS may/MD have/HV but/CC which/WDT you/PPSS cannot/MD* give/VB them/PPO ./pct
 It/PPS depresses/VBZ them/PPO ./pct
 So/RB I/PPSS made/VBD no/AT mention/NN of/IN air/NN transport/NN until/CS we/PPSS could/MD get/VB at/IN least/AP some/DTI of/IN it/PPO ''/pct ./pct
 Field/NN Marshal/NN Slim/NP is/BEZ more/QL impressed/VBN by/IN the/AT courage/NN of/IN Japanese/JJ soldiers/NNS than/CS he/PPS is/BEZ by/IN the/AT ability/NN of/IN their/PPg commanders/NNS ./pct

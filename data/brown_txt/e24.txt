@@ -7,7 +7,7 @@ And/CC is/BEZ the/AT sport/NN really/QL important/JJ ?/pct ?/pct
 After/IN all/ABN ,/pct we/PPSS did/DOD pretty/QL well/RB in/IN some/DTI other/AP areas/NNS of/IN the/AT Olympics/NPS competition/NN ./pct
 But/CC if/CS it/PPS is/BEZ important/JJ ,/pct what/WDT can/MD we/PPSS do/DO to/TO improve/VB ourselves/PPLS ?/pct ?/pct
 It/PPS is/BEZ more/AP than/CS just/RB lack/NN of/IN dance/NN training/NN that/WPS is/BEZ our/PPg problem/NN ,/pct for/IN just/RB as/CS gymnastics/NNS can/MD learn/VB from/IN dance/NN ,/pct dance/NN has/HVZ some/DTI very/QL important/JJ things/NNS to/TO learn/VB from/IN gymnastics/NN ./pct
-Taking/VBG first/OD things/NNS first/RB ,/pct let's /None understand/VB the/AT sport/NN called/VBN gymnastics/NN ./pct
+Taking/VBG first/OD things/NNS first/RB ,/pct let's/VBPPO understand/VB the/AT sport/NN called/VBN gymnastics/NN ./pct
 It/PPS is/BEZ made/VBN up/RP of/IN tumbling/VBG ,/pct which/WDT might/MD be/BE said/VBN to/TO start/VB with/IN a/AT somersault/NN ,/pct run/VB through/IN such/JJ stunts/NNS as/CS headstands/NNS ,/pct handstands/NNS ,/pct cartwheels/NNS ,/pct backbends/NNS ,/pct and/CC culminate/VB in/IN nearly/QL impossible/JJ combinations/NNS of/IN aerial/JJ flips/NNS and/CC twists/NNS and/CC apparatus/NN work/NN ./pct
 The/AT apparatus/NN used/VBN by/IN gymnasts/NNS was/BEDZ once/RB a/AT common/JJ sight/NN in/IN American/JJ gyms/NNS ,/pct but/CC about/RB 1930/CD it/PPS was/BEDZ dropped/VBN in/IN favor/NN of/IN games/NNS ./pct
 The/AT parallel/JJ bars/NNS ,/pct horse/NN ,/pct buck/NN ,/pct springboard/NN ,/pct horizontal/JJ bar/NN ,/pct rings/NNS ,/pct and/CC mats/NNS formerly/RB in/IN the/AT school/NN gyms/NNS were/BED replaced/VBN by/IN baseball/NN ,/pct volleyball/NN ,/pct basketball/NN and/CC football/NN ./pct
@@ -47,7 +47,7 @@ Dancers/NNS do/DO have/HV flexibility/NN ./pct
 They/PPSS often/RB fail/VB ,/pct however/RB ,/pct to/TO develop/VB real/JJ abdominal/JJ ,/pct back/NN ,/pct chest/NN ,/pct shoulder/NN and/CC arm/NN strength/NN ./pct
 Ask/VB any/DTI group/NN of/IN ballerinas/NNS to/TO do/DO ten/CD push-ups/NNS or/CC three/CD chin-ups/NNS and/CC the/AT results/NNS ,/pct considering/IN the/AT amount/NN of/IN physical/JJ training/NN they/PPSS have/HV had/HVN ,/pct will/MD be/BE very/QL disappointing/JJ ./pct
 Even/RB the/AT boys/NNS will/MD not/NEG be/BE outstanding/JJ in/IN these/DTS areas/NNS ./pct
-This/DT isn't /None surprising/JJ when/WRB we/PPSS consider/VB that/CS over/RP 29/CD percent/NN of/IN the/AT 11-year-old/JJ boys/NNS in/IN America/NP cannot /None chin/VB themselves/PPLS once/RB ,/pct and/CC that/CS English/JJ school/NN girls/NNS outdo/VB them/PPO in/IN almost/RB every/AT test/NN (/pct even/RB dashes/NNS and/CC endurance/NN )/pct ./pct
+This/DT isn't/BEZ* surprising/JJ when/WRB we/PPSS consider/VB that/CS over/RP 29/CD percent/NN of/IN the/AT 11-year-old/JJ boys/NNS in/IN America/NP cannot/MD* chin/VB themselves/PPLS once/RB ,/pct and/CC that/CS English/JJ school/NN girls/NNS outdo/VB them/PPO in/IN almost/RB every/AT test/NN (/pct even/RB dashes/NNS and/CC endurance/NN )/pct ./pct
 The/AT only/AP area/NN in/IN which/WDT American/JJ boys/NNS hold/VB their/PPg own/JJ is/BEZ the/AT baseball/NN throw/NN ./pct
 The/AT chinning/VBG bar/NN
 For/IN arm/NN and/CC shoulder/NN strength/NN a/AT chinning/VBG bar/NN is/BEZ recommended/VBN ./pct

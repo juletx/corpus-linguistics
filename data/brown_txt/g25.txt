@@ -6,7 +6,7 @@ Rather/RB it/PPS is/BEZ a/AT division/NN established/VBN by/IN two/CD absolutely
 These/DTS ways/NNS are/BER absolutely/QL irreconcilable/JJ because/CS they/PPSS offer/VB two/CD different/JJ recipes/NNS for/IN man's/NNg redemption/NN from/IN chaos/NN ./pct
 The/AT civilizational/JJ crisis/NN ,/pct the/AT third/OD type/NN of/IN change/NN raises/VBZ the/AT question/NN ``/pct what/WDT are/BER we/PPSS to/TO do/DO ''/pct ?/pct ?/pct
 On/IN the/AT most/QL primitive/JJ level/NN ./pct
-For/CS the/AT answer/NN cannot /None be/BE derived/VBN from/IN any/DTI socially/RB cohesive/JJ element/NN in/IN the/AT disrupting/VBG community/NN ./pct
+For/CS the/AT answer/NN cannot/MD* be/BE derived/VBN from/IN any/DTI socially/RB cohesive/JJ element/NN in/IN the/AT disrupting/VBG community/NN ./pct
 There/EX is/BEZ no/AT socially/RB existential/JJ answer/NN to/IN the/AT question/NN ./pct
 For/CS the/AT truth/NN formerly/RB experienced/VBN by/IN the/AT community/NN no/QL longer/RBR has/HVZ existential/JJ status/NN in/IN the/AT community/NN ,/pct nor/CC does/DOZ any/DTI answer/NN elaborated/VBN by/IN philosophers/NNS or/CC theoriticians/NNS ./pct
 In/IN this/DT phase/NN of/IN change/NN ,/pct no/AT idea/NN has/HVZ social/JJ acceptance/NN and/CC so/RB none/PN has/HVZ ontological/JJ status/NN in/IN the/AT community/NN ./pct
@@ -19,7 +19,7 @@ Thus/RB in/IN both/ABX types/NNS attention/NN is/BEZ focused/VBN on/IN the/AT co
 The/AT third/OD type/NN ,/pct however/RB ,/pct wrenches/VBZ attention/NN from/IN the/AT life/NN of/IN action/NN and/CC interests/NNS in/IN the/AT community/NN and/CC focuses/VBZ it/PPO on/IN the/AT ground/NN of/IN being/BEG on/IN which/WDT the/AT community/NN depends/VBZ for/IN its/PPg existence/NN ./pct
 Voegelin/NP has/HVZ analyzed/VBN this/DT experience/NN in/IN the/AT case/NN of/IN the/AT stable/JJ ,/pct healthy/JJ community/NN ./pct
 There/RB the/AT community/NN ,/pct faced/VBN with/IN the/AT need/NN to/TO formulate/VB policy/NN on/IN the/AT level/NN of/IN absolute/JJ justice/NN ,/pct can/MD find/VB the/AT answer/NN to/IN its/PPg problem/NN in/IN the/AT absolute/JJ truth/NN which/WDT it/PPS holds/VBZ as/CS partially/QL experienced/VBN ./pct
-This/DT ,/pct however/RB ,/pct cannot /None be/BE done/VBN by/IN a/AT community/NN whose/WPg very/AP experience/NN of/IN truth/NN is/BEZ confused/VBN and/CC incoherent/JJ :/pct it/PPS has/HVZ no/AT absolute/JJ standard/NN ,/pct and/CC consequently/RB cannot /None distinguish/VB the/AT absolute/NN from/IN the/AT contingent/NN ./pct
+This/DT ,/pct however/RB ,/pct cannot/MD* be/BE done/VBN by/IN a/AT community/NN whose/WPg very/AP experience/NN of/IN truth/NN is/BEZ confused/VBN and/CC incoherent/JJ :/pct it/PPS has/HVZ no/AT absolute/JJ standard/NN ,/pct and/CC consequently/RB cannot/MD* distinguish/VB the/AT absolute/NN from/IN the/AT contingent/NN ./pct
 It/PPS has/HVZ lost/VBN its/PPg ground/NN of/IN being/BEG and/CC floats/VBZ in/IN a/AT mist/NN of/IN appearances/NNS ./pct
 Relativism/NN and/CC equality/NN are/BER its/PPg characteristic/JJ diseases/NNS ./pct
 Precisely/RB at/IN the/AT moment/NN when/WRB it/PPS has/HVZ lost/VBN its/PPg vision/NN the/AT mind/NN of/IN the/AT community/NN turns/VBZ out/RP from/IN itself/PPL in/IN a/AT search/NN for/IN the/AT ontological/JJ standard/NN whereby/WRB it/PPS can/MD measure/VB itself/PPL ./pct
@@ -58,7 +58,7 @@ Now/RB in/IN the/AT mere/JJ fact/NN of/IN the/AT beginning/NN of/IN such/JJ disp
 And/CC when/WRB we/PPSS consider/VB the/AT tenuous/JJ hold/NN tradition/NN has/HVZ on/IN existence/NN ,/pct any/DTI weakening/NN of/IN that/DT hold/NN constitutes/VBZ a/AT crisis/NN of/IN existence/NN ./pct
 The/AT retention/NN of/IN a/AT tradition/NN confronted/VBN with/IN such/ABL a/AT crisis/NN necessitates/VBZ the/AT introduction/NN of/IN new/JJ spiritual/JJ forces/NNS into/IN the/AT situation/NN ./pct
 However/RB ,/pct the/AT crisis/NN occurs/VBZ precisely/RB as/CS a/AT weakening/NN of/IN spiritual/JJ forces/NNS ./pct
-It/PPS would/MD seem/VB ,/pct therefore/RB ,/pct that/CS in/IN a/AT civilizational/JJ crisis/NN man/NN cannot /None save/VB himself/PPL ./pct
+It/PPS would/MD seem/VB ,/pct therefore/RB ,/pct that/CS in/IN a/AT civilizational/JJ crisis/NN man/NN cannot/MD* save/VB himself/PPL ./pct
 The/AT emergence/NN of/IN the/AT crisis/NN itself/PPL would/MD seem/VB to/TO constitute/VB a/AT warranty/NN for/IN the/AT victory/NN of/IN disorder/NN ./pct
 And/CC it/PPS would/MD seem/VB that/CS history/NN is/BEZ a/AT witness/NN to/IN this/DT truth/NN ./pct
 As/CS a/AT further/JJR characterization/NN of/IN the/AT liberal/JJ conservative/JJ split/NN we/PPSS may/MD observe/VB that/CS it/PPS involves/VBZ differences/NNS in/IN the/AT formula/NN for/IN escaping/VBG inevitabilities/NNS in/IN history/NN ./pct

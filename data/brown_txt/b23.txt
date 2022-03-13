@@ -32,13 +32,13 @@ Morale/NN ?/pct ?/pct
 It/PPS is/BEZ generally/RB conceded/VBN that/CS the/AT Formosan/JJ air/NN force/NN is/BEZ the/AT best/JJT by/IN far/RB in/IN Asia/NP ,/pct and/CC the/AT army/NN the/AT best/QL trained/VBN ./pct
 The/AT morale/NN is/BEZ very/QL high/JJ ./pct
 Even/RB so/RB ,/pct it/PPS adds/VBZ up/RP to/IN impossible/JJ odds/NNS ,/pct except/IN that/CS the/AT question/NN arises/VBZ ,/pct On/IN whose/WPg side/NN would/MD the/AT Mainland/NN Chinese/JJ army/NN fight/VB ?/pct ?/pct
-The/AT miserable/JJ people/NNS of/IN China/NP ,/pct the/AT largest/JJT cast/NN ever/RB conscripted/VBN to/TO enact/VB an/AT ideological/JJ passion/NN play/NN ,/pct cannot /None themselves/PPLS resist/VB overtly/RB ./pct
+The/AT miserable/JJ people/NNS of/IN China/NP ,/pct the/AT largest/JJT cast/NN ever/RB conscripted/VBN to/TO enact/VB an/AT ideological/JJ passion/NN play/NN ,/pct cannot/MD* themselves/PPLS resist/VB overtly/RB ./pct
 They/PPSS think/VB ,/pct perforce/RB ,/pct of/IN physical/JJ survival/NN :/pct everything/PN else/RB is/BEZ secondary/JJ ./pct
 But/CC the/AT army/NN which/WDT Mao/NP continues/VBZ to/TO feed/VB well/RB ,/pct where/WRB are/BER its/PPg sympathies/NNS ?/pct ?/pct
 The/AT psychological/JJ strategists/NNS in/IN Taiwan/NP stress/VB the/AT great/JJ sense/NN of/IN family/NN ,/pct cultivated/VBN in/IN China/NP over/IN thousands/NNS of/IN years/NNS ./pct
 It/PPS has/HVZ not/NEG been/BEN extirpated/VBN by/IN ten/CD years/NNS of/IN Communist/NN depersonalization/NN ./pct
 Every/AT soldier/NN in/IN the/AT army/NN has/HVZ ,/pct somewhere/RB ,/pct relatives/NNS who/WPS are/BER close/JJ to/IN starvation/NN ./pct
-The/AT soldiers/NNS themselves/PPLS cannot /None stage/VB a/AT successful/JJ rebellion/NN ,/pct it/PPS is/BEZ assumed/VBN :/pct but/CC will/MD their/PPg discontent/NN spread/VB to/IN the/AT officer/NN class/NN ?/pct ?/pct
+The/AT soldiers/NNS themselves/PPLS cannot/MD* stage/VB a/AT successful/JJ rebellion/NN ,/pct it/PPS is/BEZ assumed/VBN :/pct but/CC will/MD their/PPg discontent/NN spread/VB to/IN the/AT officer/NN class/NN ?/pct ?/pct
 The/AT immediate/JJ families/NNS of/IN the/AT generals/NNS and/CC the/AT admirals/NNS are/BER well/QL fed/VBN :/pct a/AT despot/NN does/DOZ not/NEG economize/VB on/IN his/PPg generals/NNS ./pct
 But/CC there/EX are/BER the/AT cousins/NNS and/CC aunts/NNS and/CC nephews/NNS ./pct
 Their/PPg privations/NNS are/BER almost/RB beyond/IN endurance/NN ./pct
@@ -106,18 +106,18 @@ at/IN the/AT peaks/NNS of/IN the/AT nuclear/JJ test/NN and/CC the/AT Berlin/NP c
 in/IN relation/NN to/IN Laos/NP ,/pct Algeria/NP ,/pct South/JJ Africa/NP ;/pct ;/pct
 right/QL now/RB ,/pct with/IN almost/RB cartoon/NN emphasis/NN ,/pct in/IN the/AT temporally/RB linked/VBN complex/NN of/IN Tshombe-Gizenga-Goa-Ghana/NP ./pct
 What/WDT the/AT moments/NNS reveal/VB
-This/DT prime/JJ element/NN of/IN the/AT truth/NN may/MD be/BE stated/VBN as/CS follows/VBZ :/pct Under/IN prevailing/VBG policy/NN ,/pct the/AT U.S./NP can/MD take/VB the/AT initiative/NN against/IN the/AT Right/NN ,/pct but/CC cannot /None take/VB the/AT initiative/NN against/IN the/AT Left/NN ./pct
+This/DT prime/JJ element/NN of/IN the/AT truth/NN may/MD be/BE stated/VBN as/CS follows/VBZ :/pct Under/IN prevailing/VBG policy/NN ,/pct the/AT U.S./NP can/MD take/VB the/AT initiative/NN against/IN the/AT Right/NN ,/pct but/CC cannot/MD* take/VB the/AT initiative/NN against/IN the/AT Left/NN ./pct
 It/PPS makes/VBZ no/AT difference/NN what/WDT part/NN of/IN the/AT world/NN is/BEZ involved/VBN ,/pct what/WDT form/NN of/IN regime/NN ,/pct what/WDT particular/JJ issue/NN ./pct
-The/AT U.S./NP cannot /None take/VB the/AT initiative/NN against/IN the/AT Left/NN ./pct
+The/AT U.S./NP cannot/MD* take/VB the/AT initiative/NN against/IN the/AT Left/NN ./pct
 There/EX is/BEZ even/RB some/DTI question/NN whether/CS the/AT U.S./NP can/MD any/DTI longer/JJR defend/VB itself/PPL against/IN an/AT initiative/NN by/IN the/AT Left/NN ./pct
 We/PPSS can/MD attack/VB Tshombe/NP ,/pct but/CC not/NEG Gigenza/NP ./pct
 No/AT matter/NN that/CS Gizenga/NP is/BEZ Moscow's/NPg man/NN in/IN the/AT Congo/NP ./pct
 No/AT matter/NN that/CS it/PPS is/BEZ his/PPg troops/NNS who/WPS rape/VB Western/JJ women/NNS and/CC eat/VB Western/JJ men/NNS ./pct
 No/AT matter/NN that/CS the/AT Katanga/NP operation/NN is/BEZ strategically/QL insane/JJ in/IN terms/NNS of/IN Western/JJ interests/NNS in/IN Africa/NP ./pct
-(/pct Even/RB granted/VBN that/CS the/AT Congo/NP should/MD be/BE unified/VBN ,/pct you/PPSS don't /None protect/VB Western/JJ security/NN by/IN first/RB removing/VBG the/AT pro-Western/JJ weight/NN from/IN the/AT power/NN equilibrium/NN ./pct
-We/PPSS can/MD force/VB Britain/NP and/CC France/NP out/IN of/IN the/AT Suez/NP ,/pct but/CC we/PPSS cannot /None so/QL much/RB as/CS try/VB to/TO force/VB the/AT Russian/JJ tanks/NNS back/RB from/IN Budapest/NP ./pct
+(/pct Even/RB granted/VBN that/CS the/AT Congo/NP should/MD be/BE unified/VBN ,/pct you/PPSS don't/DO* protect/VB Western/JJ security/NN by/IN first/RB removing/VBG the/AT pro-Western/JJ weight/NN from/IN the/AT power/NN equilibrium/NN ./pct
+We/PPSS can/MD force/VB Britain/NP and/CC France/NP out/IN of/IN the/AT Suez/NP ,/pct but/CC we/PPSS cannot/MD* so/QL much/RB as/CS try/VB to/TO force/VB the/AT Russian/JJ tanks/NNS back/RB from/IN Budapest/NP ./pct
 We/PPSS can/MD mass/VB our/PPg fleet/NN against/IN the/AT Trujillos/NPS ,/pct but/CC not/NEG against/IN the/AT Castros/NPS ./pct
-We/PPSS can/MD vote/VB in/IN the/AT UN/NN against/IN South/JJ African/NP apartheid/NN or/CC Portuguese/JJ rule/NN in/IN Angola/NP ,/pct but/CC we/PPSS cannot /None even/RB introduce/VB a/AT motion/NN on/IN the/AT Berlin/NP Wall/NN --/pct much/QL less/AP ,/pct give/VB the/AT simple/JJ order/NN to/TO push/VB the/AT Wall/NN down/RP ./pct
+We/PPSS can/MD vote/VB in/IN the/AT UN/NN against/IN South/JJ African/NP apartheid/NN or/CC Portuguese/JJ rule/NN in/IN Angola/NP ,/pct but/CC we/PPSS cannot/MD* even/RB introduce/VB a/AT motion/NN on/IN the/AT Berlin/NP Wall/NN --/pct much/QL less/AP ,/pct give/VB the/AT simple/JJ order/NN to/TO push/VB the/AT Wall/NN down/RP ./pct
 We/PPSS officially/RB receive/VB the/AT anti-French/JJ ,/pct Moscow-allied/JJ Algerian/JJ FLN/NN ,/pct but/CC we/PPSS denounce/VB the/AT pro-Europe/JJ ,/pct anti-Communist/JJ OAS/NN as/CS criminal/JJ ./pct
 In/IN the/AT very/AP week/NN of/IN our/PPg war/NN against/IN Katanga/NP ,/pct we/PPSS make/VB a/AT $133/NNS million/CD grant/NN to/IN Kwame/NP Nkrumah/NP ,/pct who/WPS has/HVZ just/RB declared/VBN his/PPg solidarity/NN with/IN the/AT Communist/NN bloc/NN ,/pct and/CC is/BEZ busily/RB turning/VBG his/PPg own/JJ country/NN into/IN a/AT totalitarian/JJ dictatorship/NN ./pct
 As/CS our/PPg planes/NNS land/VB the/AT war/NN materiel/NN that/WPS kills/VBZ pro-Western/JJ Katangans/NPS ,/pct we/PPSS stand/VB supinely/RB bleating/VBG while/CS Nehru's/NPg troops/NNS smash/VB into/IN a/AT five-hundred-year-old/JJ district/NN of/IN our/PPg NATO/NN ally/NN ,/pct Portugal/NP ./pct
@@ -129,4 +129,4 @@ Most/QL immediately/RB relevant/JJ to/IN these/DTS episodes/NNS in/IN Goa/NP ,/p
 From/IN this/DT belief/NN is/BEZ derived/VBN the/AT practical/JJ orientation/NN of/IN our/PPg policy/NN on/IN the/AT ``/pct uncommitted/JJ ''/pct (/pct ``/pct neutralist/JJ ''/pct ,/pct ``/pct contested/VBN ''/pct )/pct nations/NNS ,/pct especially/RB on/IN those/DTS whose/WPg leaders/NNS make/VB the/AT most/AP noise/NN --/pct Nehru/NP ,/pct Tito/NP ,/pct Nkrumah/NP ,/pct Sukarno/NP ,/pct Betancourt/NP ,/pct etc./RB ./pct
 Our/PPg chief/JJS aim/NN becomes/VBZ that/DT of/IN finding/VBG favor/NN in/IN neutralist/JJ eyes/NNS ./pct
 If/CS we/PPSS grasp/VB this/DT orientation/NN as/CS a/AT key/NN ,/pct our/PPg national/JJ conduct/NN in/IN all/ABN of/IN the/AT events/NNS here/RB mentioned/VBN becomes/VBZ intelligible/JJ ./pct
-And/CC it/PPS becomes/VBZ clear/JJ why/WRB in/IN general/JJ we/PPSS cannot /None take/VB the/AT initiative/NN against/IN the/AT Left/NN ./pct
+And/CC it/PPS becomes/VBZ clear/JJ why/WRB in/IN general/JJ we/PPSS cannot/MD* take/VB the/AT initiative/NN against/IN the/AT Left/NN ./pct

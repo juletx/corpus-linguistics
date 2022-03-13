@@ -29,8 +29,8 @@ To/TO be/BE human/JJ ,/pct he/PPS believes/VBZ ,/pct is/BEZ to/TO seek/VB one's/
 In/IN point/NN of/IN fact/NN ,/pct the/AT race-drivers/NNS one/PN knows/VBZ are/BER nearly/RB always/RB intelligent/JJ ,/pct healthy/JJ technicians/NNS who/WPS differ/VB from/IN other/AP technicians/NNS only/RB in/IN the/AT depth/NN of/IN the/AT passion/NN they/PPSS feel/VB for/IN the/AT work/NN by/IN which/WDT they/PPSS live/VB ./pct
 A/AT Clerfayt/NP may/MD moon/VB on/RP about/IN the/AT face/NN of/IN Death/NN in/IN the/AT cockpit/NN ;/pct ;/pct
 a/AT Portago/NP could/MD say/VB ,/pct as/CS he/PPS did/DOD say/VB to/IN me/PPO ,/pct ``/pct If/CS I/PPSS die/VB tomorrow/NR ,/pct still/RB I/PPSS have/HV had/HVN twenty-eight/CD wonderful/JJ years/NNS ;/pct ;/pct
-but/CC I/PPSS shan't /None die/VB tomorrow/NR ;/pct ;/pct
-I'll /None live/VB to/TO be/BE 105/CD ''/pct ./pct
+but/CC I/PPSS shan't/MD* die/VB tomorrow/NR ;/pct ;/pct
+I'll/PPSSMD live/VB to/TO be/BE 105/CD ''/pct ./pct
 Clerfayt/NP ,/pct transported/VBN ,/pct may/MD think/VB of/IN the/AT engine/NN driving/VBG his/PPg car/NN as/CS ``/pct a/AT mystical/JJ beast/NN under/IN the/AT hood/NN ''/pct ./pct
 The/AT Italian/JJ master/NN Piero/NP Taruffi/NP ,/pct no/QL less/QL sensitive/JJ ,/pct knows/VBZ twice/RB the/AT ecstasy/NN though/CS he/PPS thinks/VBZ of/IN a/AT car's/NNg adhesion/NN to/IN a/AT wet/JJ two-lane/JJ road/NN at/IN 165/CD miles/NNS an/AT hour/NN as/CS a/AT matter/NN best/RBT expressed/VBN in/IN algebraic/JJ formulae/NNS ./pct
 Clerfayt/NP ,/pct driving/VBG ,/pct sees/VBZ himself/PPL ``/pct a/AT volcano/NN whose/WPg cone/NN funneled/VBD down/RP to/IN hell/NN ''/pct ;/pct ;/pct

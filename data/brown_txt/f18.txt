@@ -17,7 +17,7 @@ A/AT Texan/NP wrote/VBD to/IN a/AT male/JJ companion/NN at/IN home/NN :/pct ``/p
 When/WRB you/PPSS see/VB them/PPO again/RB give/VB them/PPO my/PPg love/NN --/pct not/NEG best/JJT respects/NNS now/RB ,/pct but/CC love/NN by/IN God/NP ''/pct ./pct
 William/NP R./NP Stillwell/NP ,/pct an/AT admirable/JJ Georgian/NP whose/WPg delightful/JJ correspondence/NN is/BEZ preserved/VBN in/IN the/AT Georgia/NP Department/NN of/IN Archives/NNS and/CC History/NN ,/pct liked/VBD to/TO tease/VB his/PPg wife/NN in/IN his/PPg letters/NNS ./pct
 After/CS he/PPS had/HVD been/BEN away/RB from/IN home/NN about/RB a/AT year/NN he/PPS wrote/VBD :/pct ``/pct (/pct dear/JJ Wife/NN )/pct if/CS I/PPSS did/DOD not/NEG write/VB and/CC receive/VB letters/NNS from/IN you/PPO I/PPSS believe/VB that/CS I/PPSS would/MD forgit/VB that/CS I/PPSS was/BEDZ married/VBN ./pct
-I/PPSS don't /None feel/VB much/RB like/CS a/AT maryed/VBN man/NN but/CC I/PPSS never/RB forgit/VB it/PPO sofar/RB as/CS to/TO court/VB enny/DTI other/AP lady/NN but/CC if/CS I/PPSS should/MD you/PPSS must/MD forgive/VB me/PPO as/CS I/PPSS am/BEM so/QL forgitful/JJ ''/pct ./pct
+I/PPSS don't/DO* feel/VB much/RB like/CS a/AT maryed/VBN man/NN but/CC I/PPSS never/RB forgit/VB it/PPO sofar/RB as/CS to/TO court/VB enny/DTI other/AP lady/NN but/CC if/CS I/PPSS should/MD you/PPSS must/MD forgive/VB me/PPO as/CS I/PPSS am/BEM so/QL forgitful/JJ ''/pct ./pct
 A/AT Yank/NP ,/pct disturbed/VBN by/IN his/PPg increasing/VBG corpulence/NN ,/pct wrote/VBD :/pct ``/pct I/PPSS am/BEM growing/VBG so/QL fat/JJ I/PPSS am/BEM a/AT burden/NN 2/IN myself/PPL ''/pct ./pct
 Another/DT Yank/NP parodied/VBD the/AT familiar/JJ bedtime/NN prayer/NN :/pct ``/pct now/RB I/PPSS lay/VB me/PPO down/RP to/TO sleep/VB ,/pct the/AT gray-backs/NNS o'er/IN my/PPg body/NN creep/VB ;/pct ;/pct
 if/CS they/PPSS should/MD bite/VB before/CS I/PPSS wake/VB ,/pct I/PPSS pray/VB the/AT Lord/NN their/PPg jaws/NNS to/TO break/VB ''/pct ./pct
@@ -45,7 +45,7 @@ Sometimes/RB soldiers/NNS wrote/VBD letters/NNS while/CS bullets/NNS were/BED wh
 A/AT Yank/NP writing/VBG from/IN Vicksburg/NP ,/pct May/NP 28/CD ,/pct 1863/CD ,/pct stated/VBD :/pct ``/pct not/NEG less/AP than/IN 50/CD balls/NNS have/HV passed/VBN over/IN me/PPO since/CS I/PPSS commenced/VBD writing/VBG ./pct
 I/PPSS could/MD tell/VB you/PPO of/IN plenty/NN narrow/JJ escapes/NNS ,/pct but/CC we/PPSS take/VB no/AT notice/NN of/IN them/PPO now/RB ''/pct ./pct
 A/AT Reb/NP stationed/VBN near/IN Petersburg/NP informed/VBD his/PPg mother/NN :/pct ``/pct I/PPSS need/VB not/NEG tell/VB you/PPO that/CS I/PPSS dodge/VB pretty/QL often/RB for/CS you/PPSS can/MD see/VB that/DT very/QL plainly/RB by/IN the/AT blots/NNS in/IN this/DT letter/NN ./pct
-Just/RB count/VB each/DT blot/NN a/AT dodge/NN and/CC add/VB in/RP a/AT few/AP for/CS I/PPSS don't /None dodge/VB every/AT time/NN ''/pct ./pct
+Just/RB count/VB each/DT blot/NN a/AT dodge/NN and/CC add/VB in/RP a/AT few/AP for/CS I/PPSS don't/DO* dodge/VB every/AT time/NN ''/pct ./pct
 Another/DT Reb/NP writing/VBG under/IN similar/JJ circumstances/NNS before/IN Atlanta/NP reported/VBD :/pct ``/pct the/AT Yankees/NPS keep/VB shooting/VBG so/RB I/PPSS am/BEM afraid/JJ they/PPSS will/MD knock/VB over/RP my/PPg ink/NN ,/pct so/RB I/PPSS will/MD close/VB ''/pct ./pct
 3/CD ,/pct
 the/AT most/QL common/JJ type/NN of/IN letter/NN was/BEDZ that/DT of/IN soldier/NN husbands/NNS to/IN their/PPg wives/NNS ./pct
@@ -79,13 +79,13 @@ A/AT Mississippi/NP soldier/NN wrote/VBD :/pct ``/pct our/PPg General/NN Reub/NP
 An/AT Alabamian/NP wrote/VBD :/pct ``/pct Col./NN Henry/NP is/BEZ (/pct an/AT ignoramus/NN )/pct fit/JJ for/IN nothing/PN higher/RBR than/CS the/AT cultivation/NN of/IN corn/NN ''/pct ./pct
 A/AT Floridian/NP stated/VBD that/CS his/PPg officers/NNS were/BED ``/pct not/NEG fit/JJ to/TO tote/VB guts/NNS to/IN a/AT bear/NN ''/pct ./pct
 On/IN December/NP 9/CD ,/pct 1862/CD ,/pct Sergeant/NN Edwin/NP H./NP Fay/NP ,/pct an/AT unusual/JJ Louisianan/NP who/WPS held/VBD A.B./NP and/CC M.A./NP degrees/NNS from/IN Harvard/NP University/NN and/CC who/WPS before/IN the/AT war/NN was/BEDZ headmaster/NN of/IN a/AT private/JJ school/NN for/IN boys/NNS in/IN Louisiana/NP ,/pct wrote/VBD his/PPg wife/NN :/pct ``/pct I/PPSS saw/VBD Pemberton/NP and/CC he/PPS is/BEZ the/AT most/QL insignificant/JJ puke/NN I/PPSS ever/RB saw/VBD ./pct
-His/PPg head/NN cannot /None contain/VB enough/AP sense/NN to/TO command/VB a/AT regiment/NN ,/pct much/QL less/AP a/AT corps/NN ./pct
+His/PPg head/NN cannot/MD* contain/VB enough/AP sense/NN to/TO command/VB a/AT regiment/NN ,/pct much/QL less/AP a/AT corps/NN ./pct
 Jackson/NP runs/VBZ first/RB and/CC his/PPg Cavalry/NN are/BER well/QL drilled/VBN to/TO follow/VB their/PPg leader/NN ./pct
 He/PPS is/BEZ not/NEG worth/JJ shucks/NNS ./pct
 But/CC he/PPS is/BEZ a/AT West/JJ Point/NN graduate/NN and/CC therefore/RB must/MD be/BE born/VBN to/TO command/VB ''/pct ./pct
 Similar/JJ comments/NNS about/IN officers/NNS are/BER to/TO be/BE found/VBN in/IN the/AT letters/NNS of/IN Northern/JJ soldiers/NNS ./pct
 A/AT Massachusetts/NP soldier/NN ,/pct who/WPS seems/VBZ to/TO have/HV been/BEN a/AT Civil/JJ War/NN version/NN of/IN Bill/NP Mauldin/NP ,/pct wrote/VBD :/pct ``/pct the/AT officers/NNS consider/VB themselves/PPLS as/CS made/VBN of/IN a/AT different/JJ material/NN from/IN the/AT low/JJ fellows/NNS in/IN the/AT ranks/NNS ./pct
-They/PPSS get/VB all/ABN the/AT glory/NN and/CC most/AP of/IN the/AT pay/NN and/CC don't /None earn/VB ten/CD cents/NNS apiece/RB on/IN the/AT average/NN ,/pct the/AT drunken/JJ rascals/NNS ''/pct ./pct
+They/PPSS get/VB all/ABN the/AT glory/NN and/CC most/AP of/IN the/AT pay/NN and/CC don't/DO* earn/VB ten/CD cents/NNS apiece/RB on/IN the/AT average/NN ,/pct the/AT drunken/JJ rascals/NNS ''/pct ./pct
 Private/NN George/NP Gray/NP Hunter/NP of/IN Pennsylvania/NP wrote/VBD :/pct ``/pct I/PPSS am/BEM well/QL convinced/VBN in/IN my/PPg own/JJ mind/NN that/CS had/HVD it/PPS not/NEG been/BEN for/IN officers/NNS this/DT war/NN would/MD have/HV ended/VBN long/QL ago/RB ''/pct ./pct
 Another/DT Yankee/NP became/VBD so/QL disgusted/VBN as/CS to/TO state/VB :/pct ``/pct I/PPSS wish/VB to/IN God/NP one/CD half/ABN of/IN our/PPg officers/NNS were/BED knocked/VBN in/IN the/AT head/NN by/IN slinging/VBG them/PPO against/IN (/pct the/AT other/AP half/ABN )/pct ''/pct ./pct
 No/AT group/NN of/IN officers/NNS came/VBD in/RP for/IN more/QL spirited/VBN denunciation/NN than/CS the/AT doctors/NNS ./pct

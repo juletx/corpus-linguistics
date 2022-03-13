@@ -86,7 +86,7 @@ Davis/NP received/VBD 1,119/CD votes/NNS in/IN Saturday's/NRg election/NN ,/pct 
 Ordinary/NN Carey/NP Williams/NP ,/pct armed/VBN with/IN a/AT pistol/NN ,/pct stood/VBD by/IN at/IN the/AT polls/NNS to/TO insure/VB order/NN ./pct
 ``/pct This/DT was/BEDZ the/AT coolest/JJT ,/pct calmest/JJT election/NN I/PPSS ever/RB saw/VBD ''/pct ,/pct Colquitt/NP Policeman/NN Tom/NP Williams/NP said/VBD ./pct
 ``/pct Being/BEG at/IN the/AT polls/NNS was/BEDZ just/RB like/CS being/BEG at/IN church/NN ./pct
-I/PPSS didn't /None smell/VB a/AT drop/NN of/IN liquor/NN ,/pct and/CC we/PPSS didn't /None have/HV a/AT bit/NN of/IN trouble/NN ''/pct ./pct
+I/PPSS didn't/DOD* smell/VB a/AT drop/NN of/IN liquor/NN ,/pct and/CC we/PPSS didn't/DOD* have/HV a/AT bit/NN of/IN trouble/NN ''/pct ./pct
 The/AT campaign/NN leading/VBG to/IN the/AT election/NN was/BEDZ not/NEG so/QL quiet/JJ ,/pct however/WRB ./pct
 It/PPS was/BEDZ marked/VBN by/IN controversy/NN ,/pct anonymous/JJ midnight/NN phone/NN calls/NNS and/CC veiled/VBN threats/NNS of/IN violence/NN ./pct
 The/AT former/AP county/NN school/NN superintendent/NN ,/pct George/NP P./NP Callan/NP ,/pct shot/VBD himself/PPL to/IN death/NN March/NP 18/CD ,/pct four/CD days/NNS after/CS he/PPS resigned/VBD his/PPg post/NN in/IN a/AT dispute/NN with/IN the/AT county/NN school/NN board/NN ./pct
@@ -95,4 +95,4 @@ Ordinary/NN Williams/NP said/VBD he/PPS ,/pct too/RB ,/pct was/BEDZ subjected/VB
 Many/AP local/JJ citizens/NNS feared/VBD that/CS there/EX would/MD be/BE irregularities/NNS at/IN the/AT polls/NNS ,/pct and/CC Williams/NP got/VBD himself/PPL a/AT permit/NN to/TO carry/VB a/AT gun/NN and/CC promised/VBD an/AT orderly/JJ election/NN ./pct
 Sheriff/NN Felix/NP Tabb/NP said/VBD the/AT ordinary/NN apparently/RB made/VBD good/JJ his/PPg promise/NN ./pct
 ``/pct Everything/PN went/VBD real/QL smooth/JJ ''/pct ,/pct the/AT sheriff/NN said/VBD ./pct
-``/pct There/EX wasn't /None a/AT bit/NN of/IN trouble/NN ''/pct ./pct
+``/pct There/EX wasn't/BEDZ* a/AT bit/NN of/IN trouble/NN ''/pct ./pct

@@ -16,7 +16,7 @@ And/CC these/DTS days/NNS ,/pct of/IN course/NN ,/pct in/IN terms/NNS increasing
 The/AT white/JJ policeman/NN standing/VBG on/IN a/AT Harlem/NP street/NN corner/NN finds/VBZ himself/PPL at/IN the/AT very/AP center/NN of/IN the/AT revolution/NN now/RB occurring/VBG in/IN the/AT world/NN ./pct
 He/PPS is/BEZ not/NEG prepared/VBN for/IN it/PPO --/pct naturally/RB ,/pct nobody/PN is/BEZ --/pct and/CC ,/pct what/WDT is/BEZ possibly/RB much/QL more/AP to/IN the/AT point/NN ,/pct he/PPS is/BEZ exposed/VBN ,/pct as/CS few/AP white/JJ people/NNS are/BER ,/pct to/IN the/AT anguish/NN of/IN the/AT black/JJ people/NNS around/IN him/PPO ./pct
 Even/RB if/CS he/PPS is/BEZ gifted/JJ with/IN the/AT merest/JJT mustard/NN grain/NN of/IN imagination/NN ,/pct something/PN must/MD seep/VB in/RP ./pct
-He/PPS cannot /None avoid/VB observing/VBG that/CS some/DTI of/IN the/AT children/NNS ,/pct in/IN spite/NN of/IN their/PPg color/NN ,/pct remind/VB him/PPO of/IN children/NNS he/PPS has/HVZ known/VBN and/CC loved/VBN ,/pct perhaps/RB even/RB of/IN his/PPg own/JJ children/NNS ./pct
+He/PPS cannot/MD* avoid/VB observing/VBG that/CS some/DTI of/IN the/AT children/NNS ,/pct in/IN spite/NN of/IN their/PPg color/NN ,/pct remind/VB him/PPO of/IN children/NNS he/PPS has/HVZ known/VBN and/CC loved/VBN ,/pct perhaps/RB even/RB of/IN his/PPg own/JJ children/NNS ./pct
 He/PPS knows/VBZ that/CS he/PPS certainly/RB does/DOZ not/NEG want/VB his/PPg children/NNS living/VBG this/DT way/NN ./pct
 He/PPS can/MD retreat/VB from/IN his/PPg uneasiness/NN in/IN only/RB one/CD direction/NN :/pct into/IN a/AT callousness/NN which/WDT very/QL shortly/RB becomes/VBZ second/OD nature/NN ./pct
 He/PPS becomes/VBZ more/QL callous/JJ ,/pct the/AT population/NN becomes/VBZ more/QL hostile/JJ ,/pct the/AT situation/NN grows/VBZ more/QL tense/JJ ,/pct and/CC the/AT police/NN force/NN is/BEZ increased/VBN ./pct
@@ -29,7 +29,7 @@ The/AT idea/NN seems/VBZ to/TO threaten/VB profound/JJ ,/pct barely/QL conscious
 A/AT kind/NN of/IN panic/NN paralyzes/VBZ their/PPg features/NNS ,/pct as/CS though/CS they/PPSS found/VBD themselves/PPLS trapped/VBN on/IN the/AT edge/NN of/IN a/AT steep/NN place/NN ./pct
 I/PPSS once/RB tried/VBD to/TO describe/VB to/IN a/AT very/QL well-known/JJ American/JJ intellectual/NN the/AT conditions/NNS among/IN Negroes/NPS in/IN the/AT South/NR ./pct
 My/PPg recital/NN disturbed/VBD him/PPO and/CC made/VBD him/PPO indignant/JJ ;/pct ;/pct
-and/CC he/PPS asked/VBD me/PPO in/IN perfect/JJ innocence/NN ,/pct ``/pct Why/WRB don't /None all/ABN the/AT Negroes/NPS in/IN the/AT South/NR move/VB North/NR ''/pct ?/pct ?/pct
+and/CC he/PPS asked/VBD me/PPO in/IN perfect/JJ innocence/NN ,/pct ``/pct Why/WRB don't/DO* all/ABN the/AT Negroes/NPS in/IN the/AT South/NR move/VB North/NR ''/pct ?/pct ?/pct
 I/PPSS tried/VBD to/TO explain/VB what/WDT has/HVZ happened/VBN ,/pct unfailingly/RB ,/pct whenever/WRB a/AT significant/JJ body/NN of/IN Negroes/NPS move/VB North/NR ./pct
 They/PPSS do/DO not/NEG escape/VB Jim/NP Crow/NP :/pct they/PPSS merely/RB encounter/VB another/DT ,/pct not-less-deadly/JJ variety/NN ./pct
 They/PPSS do/DO not/NEG move/VB to/IN Chicago/NP ,/pct they/PPSS move/VB to/IN the/AT South/JJ Side/NN ;/pct ;/pct
@@ -45,7 +45,7 @@ Northerners/NNS indulge/VB in/IN an/AT extremely/QL dangerous/JJ luxury/NN ./pct
 They/PPSS seem/VB to/TO feel/VB that/CS because/CS they/PPSS fought/VBD on/IN the/AT right/JJ side/NN during/IN the/AT Civil/JJ War/NN ,/pct and/CC won/VBD ,/pct they/PPSS have/HV earned/VBN the/AT right/NN merely/RB to/TO deplore/VB what/WDT is/BEZ going/VBG on/RP in/IN the/AT South/NR ,/pct without/IN taking/VBG any/DTI responsibility/NN for/IN it/PPO ;/pct ;/pct
 and/CC that/CS they/PPSS can/MD ignore/VB what/WDT is/BEZ happening/VBG in/IN Northern/JJ cities/NNS because/CS what/WDT is/BEZ happening/VBG in/IN Little/JJ Rock/NN or/CC Birmingham/NP is/BEZ worse/JJR ./pct
 Well/UH ,/pct in/IN the/AT first/OD place/NN ,/pct it/PPS is/BEZ not/NEG possible/JJ for/IN anyone/PN who/WPS has/HVZ not/NEG endured/VBN both/ABX to/TO know/VB which/WDT is/BEZ ``/pct worse/JJR ''/pct ./pct
-I/PPSS know/VB Negroes/NPS who/WPS prefer/VB the/AT South/NR and/CC white/JJ Southerners/NNS ,/pct because/CS ``/pct At/IN least/AP there/RB ,/pct you/PPSS haven't /None got/VBN to/TO play/VB any/DTI guessing/VBG games/NNS ''/pct !/pct !/pct
+I/PPSS know/VB Negroes/NPS who/WPS prefer/VB the/AT South/NR and/CC white/JJ Southerners/NNS ,/pct because/CS ``/pct At/IN least/AP there/RB ,/pct you/PPSS haven't/HV* got/VBN to/TO play/VB any/DTI guessing/VBG games/NNS ''/pct !/pct !/pct
 The/AT guessing/VBG games/NNS referred/VBN to/TO have/HV driven/VBN more/AP than/IN one/CD Negro/NP into/IN the/AT narcotics/NNS ward/NN ,/pct the/AT madhouse/NN ,/pct or/CC the/AT river/NN ./pct
 I/PPSS know/VB another/DT Negro/NP ,/pct a/AT man/NN very/QL dear/JJ to/IN me/PPO ,/pct who/WPS says/VBZ ,/pct with/IN conviction/NN and/CC with/IN truth/NN ,/pct ``/pct The/AT spirit/NN of/IN the/AT South/NR is/BEZ the/AT spirit/NN of/IN America/NP ''/pct ./pct
 He/PPS was/BEDZ born/VBN in/IN the/AT North/NR and/CC did/DOD his/PPg military/JJ training/NN in/IN the/AT South/NR ./pct
@@ -70,10 +70,10 @@ Northerners/NNS never/RB think/VB about/IN them/PPO whereas/CS Southerners/NNS a
 Negroes/NPS are/BER ,/pct therefore/RB ,/pct ignored/VBN in/IN the/AT North/NR and/CC are/BER under/IN surveillance/NN in/IN the/AT South/NR ,/pct and/CC suffer/VB hideously/RB in/IN both/ABX places/NNS ./pct
 Neither/CC the/AT Southerner/NN nor/CC the/AT Northerner/NN is/BEZ able/JJ to/TO look/VB on/IN the/AT Negro/NP simply/RB as/CS a/AT man/NN ./pct
 It/PPS seems/VBZ to/TO be/BE indispensable/JJ to/IN the/AT national/JJ self-esteem/NN that/CS the/AT Negro/NP be/BE considered/VBN either/CC as/CS a/AT kind/NN of/IN ward/NN (/pct in/IN which/WDT case/NN we/PPSS are/BER told/VBN how/WQL many/AP Negroes/NPS ,/pct comparatively/RB ,/pct bought/VBD Cadillacs/NPS last/AP year/NN and/CC how/WQL few/AP ,/pct comparatively/RB ,/pct were/BED lynched/VBN )/pct ,/pct or/CC as/CS a/AT victim/NN (/pct in/IN which/WDT case/NN we/PPSS are/BER promised/VBN that/CS he/PPS will/MD never/RB vote/VB in/IN our/PPg assemblies/NNS or/CC go/VB to/IN school/NN with/IN our/PPg kids/NNS )/pct ./pct
-They/PPSS are/BER two/CD sides/NNS of/IN the/AT same/AP coin/NN and/CC the/AT South/NR will/MD not/NEG change/VB --/pct cannot /None change/VB --/pct until/CS the/AT North/NR changes/VBZ ./pct
+They/PPSS are/BER two/CD sides/NNS of/IN the/AT same/AP coin/NN and/CC the/AT South/NR will/MD not/NEG change/VB --/pct cannot/MD* change/VB --/pct until/CS the/AT North/NR changes/VBZ ./pct
 The/AT country/NN will/MD not/NEG change/VB until/CS it/PPS re-examines/VBZ itself/PPL and/CC discovers/VBZ what/WDT it/PPS really/RB means/VBZ by/IN freedom/NN ./pct
 In/IN the/AT meantime/NN ,/pct generations/NNS keep/VB being/BEG born/VBN ,/pct bitterness/NN is/BEZ increased/VBN by/IN incompetence/NN ,/pct pride/NN ,/pct and/CC folly/NN ,/pct and/CC the/AT world/NN shrinks/VBZ around/IN us/PPO ./pct
-It/PPS is/BEZ a/AT terrible/JJ ,/pct an/AT inexorable/JJ ,/pct law/NN that/CS one/CD cannot /None deny/VB the/AT humanity/NN of/IN another/DT without/IN diminishing/VBG one's/PNg own/JJ :/pct in/IN the/AT face/NN of/IN one's/PNg victim/NN ,/pct one/PN sees/VBZ oneself/PPL ./pct
+It/PPS is/BEZ a/AT terrible/JJ ,/pct an/AT inexorable/JJ ,/pct law/NN that/CS one/CD cannot/MD* deny/VB the/AT humanity/NN of/IN another/DT without/IN diminishing/VBG one's/PNg own/JJ :/pct in/IN the/AT face/NN of/IN one's/PNg victim/NN ,/pct one/PN sees/VBZ oneself/PPL ./pct
 Walk/VB through/IN the/AT streets/NNS of/IN Harlem/NP and/CC see/VB what/WDT we/PPSS ,/pct this/DT nation/NN ,/pct have/HV become/VBN ./pct
 4/CD ./pct
 East/JJ River/NN ,/pct downtown/NR :/pct postscript/NN to/IN a/AT letter/NN from/IN Harlem/NP
@@ -95,7 +95,7 @@ I/PPSS find/VB this/DT view/NN amazing/JJ ./pct
 It/PPS is/BEZ a/AT view/NN which/WDT even/RB a/AT minimal/JJ effort/NN at/IN observation/NN would/MD immediately/RB contradict/VB ./pct
 One/PN has/HVZ only/RB ,/pct for/IN example/NN ,/pct to/TO walk/VB through/IN Harlem/NP and/CC ask/VB oneself/PPL two/CD questions/NNS ./pct
 The/AT first/OD question/NN is/BEZ :/pct Would/MD I/PPSS like/VB to/TO live/VB here/RB ?/pct ?/pct
-And/CC the/AT second/OD question/NN is/BEZ :/pct Why/WRB don't /None those/DTS who/WPS now/RB live/VB here/RB move/VB out/RP ?/pct ?/pct
+And/CC the/AT second/OD question/NN is/BEZ :/pct Why/WRB don't/DO* those/DTS who/WPS now/RB live/VB here/RB move/VB out/RP ?/pct ?/pct
 The/AT answer/NN to/IN both/ABX questions/NNS is/BEZ immediately/QL obvious/JJ ./pct
 Unless/CS one/PN takes/VBZ refuge/NN in/IN the/AT theory/NN --/pct however/WQL disguised/VBN --/pct that/CS Negroes/NPS are/BER ,/pct somehow/RB ,/pct different/JJ from/IN white/JJ people/NNS ,/pct I/PPSS do/DO not/NEG see/VB how/WRB one/PN can/MD escape/VB the/AT conclusion/NN that/CS the/AT Negro's/NPg status/NN in/IN this/DT country/NN is/BEZ not/NEG only/RB a/AT cruel/JJ injustice/NN but/CC a/AT grave/JJ national/JJ liability/NN ./pct
 Now/RB ,/pct I/PPSS do/DO not/NEG doubt/VB that/CS ,/pct among/IN the/AT people/NNS at/IN the/AT U.N./NP that/DT day/NN ,/pct there/EX were/BED Stalinist/NP and/CC professional/JJ revolutionists/NNS acting/VBG out/IN of/IN the/AT most/QL cynical/JJ motives/NNS ./pct

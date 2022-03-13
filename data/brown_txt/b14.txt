@@ -16,7 +16,7 @@ His/PPg legs/NNS suddenly/RB feel/VB heavy/JJ and/CC unaccountably/QL weary/JJ ,
 Bitterness/NN comes/VBZ over/IN him/PPO and/CC the/AT taste/NN of/IN time/NN is/BEZ like/CS unripe/JJ persimmons/NNS in/IN his/PPg mouth/NN ./pct
 It/PPS is/BEZ not/NEG much/QL better/JJR if/CS he/PPS meets/VBZ with/IN old/JJ classmates/NNS ./pct
 Too/QL often/RB ,/pct unless/CS he/PPS hails/VBZ them/PPO ,/pct they/PPSS pass/VB him/PPO by/RB ./pct
-He/PPS recalls/VBZ with/IN a/AT wry/JJ smile/NN the/AT wit/NN who/WPS said/VBD ,/pct on/IN returning/VBG from/IN a/AT homecoming/NN reunion/NN ,/pct that/CS he/PPS would/MD never/RB go/VB again/RB because/CS all/ABN his/PPg class/NN had/HVD changed/VBN so/QL much/RB they/PPSS didn't /None even/RB recognize/VB him/PPO ./pct
+He/PPS recalls/VBZ with/IN a/AT wry/JJ smile/NN the/AT wit/NN who/WPS said/VBD ,/pct on/IN returning/VBG from/IN a/AT homecoming/NN reunion/NN ,/pct that/CS he/PPS would/MD never/RB go/VB again/RB because/CS all/ABN his/PPg class/NN had/HVD changed/VBN so/QL much/RB they/PPSS didn't/DOD* even/RB recognize/VB him/PPO ./pct
 If/CS they/PPSS do/DO meet/VB and/CC recognize/VB one/CD another/DT ,/pct slap/VB backs/NNS and/CC embrace/VB ,/pct the/AT moment/NN soon/RB is/BEZ done/VBN ./pct
 After/IN all/ABN ,/pct when/WRB one/PN has/HVZ asked/VBN whatever/WDT became/VBD of/IN old/JJ Joe/NP and/CC Charlie/NP when/WRB one/PN has/HVZ inquired/VBN who/WPS it/PPS was/BEDZ Sue/NP Brown/NP married/VBD and/CC where/WRB it/PPS is/BEZ they/PPSS now/RB live/VB when/WRB questions/NNS are/BER asked/VBN and/CC answered/VBN about/IN families/NNS and/CC children/NNS ,/pct and/CC old/JJ professors/NNS when/WRB the/AT game/NN and/CC its/PPg probable/JJ outcome/NN has/HVZ been/BEN exhausted/VBN that/DT does/DOZ it/PPO ./pct
 Middle-aged/JJ spread/NN
@@ -25,7 +25,7 @@ the/AT gray/JJ hairs/NNS ,/pct the/AT eyeglasses/NNS ,/pct bodies/NNS that/WPS a
 the/AT fading/VBG signs/NNS of/IN old/JJ beauty/NN ;/pct ;/pct
 the/AT athlete/NN of/IN by-gone/JJ years/NNS who/WPS wears/VBZ a/AT size/NN 46/CD suit/NN and/CC puffs/VBZ when/WRB he/PPS has/HVZ finished/VBN a/AT sentence/NN of/IN any/DTI length/NN then/RB ,/pct it/PPS is/BEZ time/NN to/TO break/VB it/PPO up/RP and/CC move/VB on/RP ./pct
 It/PPS is/BEZ ,/pct if/CS anything/PN ,/pct worse/JJR on/IN the/AT old/JJ player/NN
-He/PPS sits/VBZ in/IN the/AT stands/NNS and/CC he/PPS doesn't /None like/VB that/DT ./pct
+He/PPS sits/VBZ in/IN the/AT stands/NNS and/CC he/PPS doesn't/DOZ* like/VB that/DT ./pct
 Enough/AP of/IN his/PPg life/NN was/BEDZ spent/VBN there/RB on/IN the/AT field/NN for/IN him/PPO never/RB to/TO like/VB watching/VBG the/AT game/NN as/CS a/AT spectator/NN in/IN the/AT crowd/NN ./pct
 He/PPS always/RB feels/VBZ lonely/JJ ./pct
 A/AT team/NN feels/VBZ something/PN ./pct
@@ -70,12 +70,12 @@ In/IN that/DT decade/NN the/AT partisan/JJ zeal/NN to/TO defend/VB Mr./NP Hoover
 The/AT Republican/JJ party/NN was/BEDZ not/NEG lacking/VBG in/IN humanity/NN ,/pct but/CC it/PPS permitted/VBD its/PPg extremely/RB partisan/NN leadership/NN to/TO make/VB it/PPS appear/VB devoid/JJ of/IN any/DTI consideration/NN for/IN people/NNS in/IN trouble/NN ./pct
 Farmers/NNS called/VBD their/PPg mule-drawn/JJ pickup/NN trucks/NNS ``/pct Hoover/NP carts/NNS ''/pct ./pct
 Smokers/NNS reduced/VBN to/IN ``/pct the/AT makings/NNS ''/pct ,/pct spoke/VBD of/IN the/AT sack/NN tobacco/NN as/CS ``/pct Hoover/NP dust/NN ''/pct ./pct
-One/PN may/MD be/BE sure/JJ the/AT present/JJ Republican/JJ congressional/JJ leadership/NN hasn't /None meant/VBN to/TO repeat/VB this/DT error/NN ./pct
+One/PN may/MD be/BE sure/JJ the/AT present/JJ Republican/JJ congressional/JJ leadership/NN hasn't/HVZ* meant/VBN to/TO repeat/VB this/DT error/NN ./pct
 But/CC it/PPS is/BEZ in/IN the/AT process/NN of/IN so/RB doing/VBG because/CS it/PPS apparently/RB gives/VBZ priority/NN to/IN trying/VBG to/TO downgrade/VB John/NP F./NP Kennedy/NP ./pct
 That/CS this/DT is/BEZ not/NEG good/JJ politics/NN is/BEZ underscored/VBN by/IN the/AT latest/JJT poll/NN figures/NNS which/WDT show/VB that/CS 72/CD per/IN cent/NN of/IN the/AT people/NNS like/VB the/AT way/NN in/IN which/WDT the/AT new/JJ President/NN is/BEZ conducting/VBG the/AT nation's/NNg business/NN ./pct
 The/AT most/QL articulate/JJ Republicans/NPS are/BER those/DTS who/WPS ,/pct in/IN their/PPg desire/NN to/TO get/VB back/RB at/IN Mr./NP Kennedy/NP ,/pct already/RB have/HV created/VBN the/AT image/NN of/IN a/AT Republican/JJ leadership/NN which/WDT is/BEZ reluctant/JJ to/TO assist/VB the/AT distressed/VBN and/CC the/AT unemployed/JJ ,/pct and/CC which/WDT is/BEZ even/QL more/QL unwilling/JJ to/TO help/VB old/JJ people/NNS who/WPS need/VB medical/JJ care/NN ./pct
-If/CS they/PPSS also/RB defeat/VB the/AT school/NN bill/NN ,/pct the/AT GOP/NN task/NN force/NN won't /None have/HV much/AP research/NN to/TO do/DO ./pct
-It/PPS will/MD early/RB know/VB why/WRB the/AT party/NN won't /None win/VB back/RB city/NN votes/NNS ./pct
+If/CS they/PPSS also/RB defeat/VB the/AT school/NN bill/NN ,/pct the/AT GOP/NN task/NN force/NN won't/MD* have/HV much/AP research/NN to/TO do/DO ./pct
+It/PPS will/MD early/RB know/VB why/WRB the/AT party/NN won't/MD* win/VB back/RB city/NN votes/NNS ./pct
 The/AT 1962/CD General/JJ Assembly/NN has/HVZ important/JJ business/NN to/TO consider/VB ./pct
 The/AT tragedy/NN is/BEZ that/CS it/PPS will/MD not/NEG be/BE able/JJ to/TO transact/VB that/DT business/NN in/IN any/DTI responsible/JJ manner/NN ./pct
 After/CS the/AT Griffin-Byrd/NP political/JJ troup/NN has/HVZ completed/VBN the/AT circuit/NN in/IN November/NP in/IN the/AT name/NN of/IN a/AT Pre-Legislative/JJ Forum/NN ,/pct this/DT is/BEZ going/VBG to/TO be/BE the/AT most/QL politically/RB oriented/VBN Legislature/NN in/IN history/NN ./pct
@@ -90,12 +90,12 @@ To/TO have/HV refused/VBN would/MD have/HV been/BEN political/JJ suicide/NN ./pc
 And/CC it/PPS may/MD be/BE that/CS one/CD or/CC both/ABX men/NNS actually/RB welcomed/VBD the/AT opportunity/NN ,/pct when/WRB the/AT bravado/NN comments/NNS are/BER cast/VBN aside/RB ./pct
 The/AT Georgia/NP State/NN Chamber/NN of/IN Commerce/NN tried/VBD to/TO guard/VB against/IN the/AT danger/NN of/IN eliminating/VBG potential/JJ candidates/NNS ./pct
 It/PPS wanted/VBD the/AT State/NN Democratic/JJ Executive/JJ Committee/NN to/TO pick/VB the/AT ``/pct serious/JJ candidates/NNS ''/pct ./pct
-But/CC State/NN Party/NN Chairman/NN James/NP Gray/NP of/IN Albany/NP said/VBD no/RB ,/pct and/CC he/PPS didn't /None mince/VB any/DTI words/NNS ./pct
+But/CC State/NN Party/NN Chairman/NN James/NP Gray/NP of/IN Albany/NP said/VBD no/RB ,/pct and/CC he/PPS didn't/DOD* mince/VB any/DTI words/NNS ./pct
 ``/pct They/PPSS are/BER just/RB asking/VBG too/QL much/AP ''/pct ,/pct he/PPS said/VBD ./pct
-We/PPSS can't /None think/VB of/IN anyone/PN else/RB who/WPS would/MD want/VB to/TO separate/VB serious/JJ candidates/NNS from/IN other/AP candidates/NNS ,/pct either/RB ./pct
+We/PPSS can't/MD* think/VB of/IN anyone/PN else/RB who/WPS would/MD want/VB to/TO separate/VB serious/JJ candidates/NNS from/IN other/AP candidates/NNS ,/pct either/RB ./pct
 There/EX are/BER other/AP dangers/NNS :/pct
 Politics/NN is/BEZ an/AT accelerating/VBG game/NN ./pct
-``/pct If/CS an/AT opponent/NN accuses/VBZ you/PPO of/IN lying/VBG ,/pct don't /None deny/VB it/PPO ./pct
+``/pct If/CS an/AT opponent/NN accuses/VBZ you/PPO of/IN lying/VBG ,/pct don't/DO* deny/VB it/PPO ./pct
 Say/VB he/PPS is/BEZ a/AT horse/NN thief/NN ''/pct ,/pct runs/VBZ an/AT old/JJ adage/NN ./pct
 These/DTS men/NNS are/BER spenders/NNS ./pct
 If/CS either/DTX one/CD ever/RB started/VBD making/VBG promises/NNS ,/pct there/EX is/BEZ no/AT telling/VBG where/WRB the/AT promises/NNS would/MD end/VB ./pct
@@ -110,10 +110,10 @@ It/PPS has/HVZ arranged/VBN a/AT campaign/NN for/IN governor/NN ./pct
 If/CS it/PPS will/MD simply/RB delay/VB the/AT debates/NNS until/CS the/AT qualifications/NNS are/BER closed/VBN next/AP spring/NN ,/pct and/CC then/RB carry/VB all/ABN the/AT candidates/NNS on/IN a/AT tour/NN of/IN debates/NNS ,/pct it/PPS can/MD provide/VB a/AT service/NN to/IN the/AT state/NN ./pct
 But/CC the/AT Legislature/NN should/MD be/BE granted/VBN the/AT opportunity/NN to/TO complete/VB its/PPg work/NN before/CS choosing/VBG up/RP sides/NNS for/IN the/AT race/NN ./pct
 Former/AP British/JJ Prime/JJ Minister/NN Attlee/NP says/VBZ Eisenhower/NP was/BEDZ not/NEG a/AT ``/pct great/JJ soldier/NN ''/pct ./pct
-Ike's /None somewhat/RB like/CS George/NP Washington/NP ./pct
+Ike's/NPBEZ somewhat/RB like/CS George/NP Washington/NP ./pct
 Both/ABX won/VBD a/AT pretty/QL fair-sized/JJ war/NN with/IN a/AT modest/JJ assist/NN from/IN British/JJ strategy/NN ./pct
-Congressmen/NNS returning/VBG from/IN recess/NN say/VB the/AT people/NNS admire/VB President/NN Kennedy/NP so/QL much/RB ,/pct they're /None even/RB willing/JJ to/TO heed/VB his/PPg call/NN to/IN sacrifice/NN --/pct and/CC give/VB up/RP his/PPg program/NN ./pct
+Congressmen/NNS returning/VBG from/IN recess/NN say/VB the/AT people/NNS admire/VB President/NN Kennedy/NP so/QL much/RB ,/pct they're/PPSSBER even/RB willing/JJ to/TO heed/VB his/PPg call/NN to/IN sacrifice/NN --/pct and/CC give/VB up/RP his/PPg program/NN ./pct
 Slogan/NN of/IN the/AT John/NP Birch/NP Society/NN :/pct ``/pct Paddle/VB your/PPg own/JJ canoe/NN ./pct
 The/AT guy/NN who/WPS makes/VBZ the/AT motor/NN boats/NNS may/MD be/BE a/AT Communist/NN ''/pct ./pct
 A/AT Republican/JJ survey/NN says/VBZ Kennedy/NP won/VBD the/AT '60/CD election/NN on/IN the/AT religious/JJ issue/NN ./pct
-Too/QL many/AP people/NNS were/BED afraid/JJ if/CS the/AT GOP/NN won/VBD ,/pct they'd /None have/HV to/TO spend/VB all/ABN their/PPg time/NN praying/VBG ./pct
+Too/QL many/AP people/NNS were/BED afraid/JJ if/CS the/AT GOP/NN won/VBD ,/pct they'd/PPSSMD have/HV to/TO spend/VB all/ABN their/PPg time/NN praying/VBG ./pct

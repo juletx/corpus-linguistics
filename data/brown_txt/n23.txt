@@ -6,41 +6,41 @@ It/PPS was/BEDZ only/RB then/RB that/CS he/PPS turned/VBD to/TO look/VB at/IN Pe
 She/PPS was/BEDZ sitting/VBG on/IN the/AT edge/NN of/IN the/AT bed/NN again/RB ,/pct back/RB in/IN the/AT same/AP position/NN where/WRB the/AT snake/NN had/HVD found/VBN her/PPO ./pct
 The/AT fear/NN had/HVD not/NEG entirely/RB gone/VBN from/IN her/PPg face/NN ,/pct but/CC there/EX were/BED some/DTI other/AP emotions/NNS now/RB ,/pct crowding/VBG into/IN her/PPg eyes/NNS and/CC the/AT lines/NNS of/IN her/PPg mouth/NN ./pct
 But/CC her/PPg hands/NNS were/BED calm/JJ ,/pct now/RB ./pct
-She's /None got/VBN guts/NNS ,/pct thought/VBD Keith/NP ./pct
-She's /None got/VBN more/AP guts/NNS than/CS any/DTI other/AP woman/NN in/IN the/AT world/NN ./pct
+She's/PPSHVZ got/VBN guts/NNS ,/pct thought/VBD Keith/NP ./pct
+She's/PPSHVZ got/VBN more/AP guts/NNS than/CS any/DTI other/AP woman/NN in/IN the/AT world/NN ./pct
 ``/pct Keith/NP ''/pct ,/pct said/VBD Penny/NP ,/pct ``/pct Keith/NP ,/pct you/PPSS were/BED wonderful/JJ ./pct
-I/PPSS don't /None suppose/VB a/AT wife/NN should/MD be/BE grateful/JJ to/IN her/PPg husband/NN for/IN saving/VBG her/PPg life/NN ,/pct but/CC I/PPSS am/BEM ./pct
+I/PPSS don't/DO* suppose/VB a/AT wife/NN should/MD be/BE grateful/JJ to/IN her/PPg husband/NN for/IN saving/VBG her/PPg life/NN ,/pct but/CC I/PPSS am/BEM ./pct
 Thank/VB you/PPO ,/pct Keith/NP ''/pct ./pct
 He/PPS smiled/VBD at/IN her/PPg sincerity/NN ./pct
 And/CC for/IN the/AT hundredth/OD time/NN that/DT week/NN ,/pct he/PPS was/BEDZ startled/VBN at/IN her/PPg beauty/NN ./pct
 Strange/JJ ./pct
-Seven/CD years/NNS they'd /None been/BEN married/VBN ./pct
+Seven/CD years/NNS they'd/PPSSHVD been/BEN married/VBN ./pct
 He/PPS knew/VBD her/PPg mind/NN pretty/QL well/RB ,/pct by/IN now/RB ,/pct its/PPg quick/JJ perceptions/NNS and/CC sympathies/NNS ,/pct its/PPg painful/JJ insistence/NN on/IN truth/NN and/CC directness/NN ,/pct its/PPg capacity/NN for/IN love/NN almost/RB too/QL deep/JJ for/IN a/AT man/NN to/TO reciprocate/VB ,/pct even/RB in/IN part/NN ./pct
 But/CC her/PPg beauty/NN always/RB surprised/VBD him/PPO anew/RB ./pct
 ``/pct I/PPSS realize/VB that/CS this/DT is/BEZ hardly/RB the/AT time/NN to/TO say/VB it/PPO ,/pct Penny/NP ''/pct ,/pct said/VBD Keith/NP ./pct
-``/pct But/CC knowing/VBG you/PPO ,/pct I/PPSS know/VB that/CS you're /None glad/JJ to/TO be/BE alive/JJ ,/pct and/CC grateful/JJ --/pct and/CC sorry/JJ because/CS I/PPSS killed/VBD the/AT snake/NN ,/pct even/RB though/CS I/PPSS had/HVD to/TO ./pct
-Isn't /None that/DT so/RB ''/pct ?/pct ?/pct
+``/pct But/CC knowing/VBG you/PPO ,/pct I/PPSS know/VB that/CS you're/PPSSBER glad/JJ to/TO be/BE alive/JJ ,/pct and/CC grateful/JJ --/pct and/CC sorry/JJ because/CS I/PPSS killed/VBD the/AT snake/NN ,/pct even/RB though/CS I/PPSS had/HVD to/TO ./pct
+Isn't/BEZ* that/DT so/RB ''/pct ?/pct ?/pct
 Penny/NP lowered/VBD her/PPg eyes/NNS ./pct
 ``/pct Yes/RB ''/pct ,/pct she/PPS said/VBD ,/pct almost/RB in/IN a/AT whisper/NN ,/pct as/CS if/CS admitting/VBG to/IN a/AT crime/NN ./pct
-``/pct The/AT snake/NN was/BEDZ beautiful/JJ ,/pct wasn't /None it/PPS ''/pct ?/pct ?/pct
+``/pct The/AT snake/NN was/BEDZ beautiful/JJ ,/pct wasn't/BEDZ* it/PPS ''/pct ?/pct ?/pct
 Asked/VBD Keith/NP ,/pct his/PPg voice/NN getting/VBG harsher/JJR in/IN spite/IN of/IN himself/PPL ,/pct as/CS he/PPS struggled/VBD to/TO control/VB his/PPg growing/VBG anger/NN ./pct
-``/pct It/PPS was/BEDZ a/AT king/NN cobra/NN ,/pct the/AT largest/JJT you/PPSS ever/RB saw/VBD ,/pct and/CC it/PPS deserved/VBD to/TO live/VB out/RP its/PPg life/NN in/IN the/AT jungle/NN ,/pct didn't /None it/PPS ?/pct ?/pct
-didn't /None it/PPS ?/pct ?/pct
+``/pct It/PPS was/BEDZ a/AT king/NN cobra/NN ,/pct the/AT largest/JJT you/PPSS ever/RB saw/VBD ,/pct and/CC it/PPS deserved/VBD to/TO live/VB out/RP its/PPg life/NN in/IN the/AT jungle/NN ,/pct didn't/DOD* it/PPS ?/pct ?/pct
+didn't/DOD* it/PPS ?/pct ?/pct
 Penny/NP did/DOD not/NEG answer/VB ./pct
 Now/RB ,/pct she/PPS just/RB sat/VBD there/RB looking/VBG at/IN him/PPO ,/pct without/IN an/AT expression/NN except/IN concern/NN for/IN him/PPO ./pct
-``/pct We're /None all/ABN God's/NPg creatures/NNS ,/pct aren't /None we/PPSS ''/pct ?/pct ?/pct
+``/pct We're/PPSSBER all/ABN God's/NPg creatures/NNS ,/pct aren't/BER* we/PPSS ''/pct ?/pct ?/pct
 Keith/NP was/BEDZ snarling/VBG now/RB ./pct
 ``/pct All/ABN of/IN us/PPO --/pct every/AT goddam/JJ roach/NN and/CC worm/NN and/CC killer/NN in/IN that/DT jungle/NN ./pct
-You/PPSS love/VB this/DT village/NN and/CC these/DTS stinking/VBG brown/JJ people/NNS because/CS they're /None God's/NPg creatures/NNS ,/pct too/RB ./pct
-And/CC you/PPSS love/VB Ahmiri/NP ,/pct that/DT black/JJ bastard/NN of/IN a/AT servant/NN even/RB a/AT little/QL more/RBR ,/pct because/CS he's /None a/AT beautiful/JJ man/NN ./pct
-And/CC he/PPS loves/VBZ you/PPO because/CS you're /None a/AT beautiful/JJ woman/NN ./pct
-We're /None all/ABN God's/NPg creatures/NNS ,/pct aren't /None we/PPSS ,/pct Penny/NP ?/pct ?/pct
+You/PPSS love/VB this/DT village/NN and/CC these/DTS stinking/VBG brown/JJ people/NNS because/CS they're/PPSSBER God's/NPg creatures/NNS ,/pct too/RB ./pct
+And/CC you/PPSS love/VB Ahmiri/NP ,/pct that/DT black/JJ bastard/NN of/IN a/AT servant/NN even/RB a/AT little/QL more/RBR ,/pct because/CS he's/PPSBEZ a/AT beautiful/JJ man/NN ./pct
+And/CC he/PPS loves/VBZ you/PPO because/CS you're/PPSSBER a/AT beautiful/JJ woman/NN ./pct
+We're/PPSSBER all/ABN God's/NPg creatures/NNS ,/pct aren't/BER* we/PPSS ,/pct Penny/NP ?/pct ?/pct
 All/ABN of/IN us/PPO ,/pct that/DT is/BEZ ,/pct except/IN me/PPO ./pct
 You/PPSS hate/VB me/PPO ,/pct you/PPSS hate/VB my/PPg guts/NNS ,/pct because/CS I/PPSS like/VB to/TO hunt/VB ./pct
 You/PPSS actually/RB hate/VB me/PPO --/pct and/CC we/PPSS both/ABX know/VB it/PPO --/pct because/CS I/PPSS killed/VBD that/DT filthy/JJ snake/NN ./pct
-Well/UH ,/pct why/WRB don't /None you/PPSS say/VB something/PN ''/pct ?/pct ?/pct
+Well/UH ,/pct why/WRB don't/DO* you/PPSS say/VB something/PN ''/pct ?/pct ?/pct
 Penny/NP would/MD not/NEG rise/VB to/IN his/PPg mood/NN ./pct
-``/pct There/EX isn't /None anything/PN left/VBN to/TO say/VB ,/pct is/BEZ there/EX ,/pct Keith/NP ''/pct ?/pct ?/pct
+``/pct There/EX isn't/BEZ* anything/PN left/VBN to/TO say/VB ,/pct is/BEZ there/EX ,/pct Keith/NP ''/pct ?/pct ?/pct
 She/PPS softly/RB let/VBD herself/PPL into/IN the/AT bed/NN ,/pct and/CC took/VBD her/PPg regular/JJ side/NN ,/pct away/RB from/IN the/AT door/NN ,/pct where/WRB she/PPS slept/VBD better/RBR because/CS Keith/NP was/BEDZ between/IN her/PPO and/CC the/AT invader/NN ./pct
 He/PPS knew/VBD she/PPS was/BEDZ not/NEG sulking/VBG ,/pct not/NEG even/RB angry/JJ at/IN him/PPO ./pct
 Just/RB as/CS he/PPS knew/VBD that/CS she/PPS had/HVD stopped/VBN loving/VBG him/PPO ./pct
@@ -58,7 +58,7 @@ The/AT RAF/NP was/BEDZ Britain's/NPg weapon/NN of/IN attrition/NN ,/pct and/CC f
 He/PPS knew/VBD how/WRB to/TO shoot/VB down/RP Nazis/NPS ./pct
 And/CC he/PPS knew/VBD that/CS the/AT men/NNS talked/VBD about/IN him/PPO behind/IN his/PPg back/NN ,/pct saying/VBG that/CS he/PPS was/BEDZ one/CD up/RP on/IN everybody/PN else/RB --/pct including/IN the/AT pilot/NN of/IN the/AT plane/NN with/IN the/AT swastika/NN on/IN it/PPO --/pct because/CS he/PPS was/BEDZ chemically/RB incapable/JJ of/IN fear/NN ./pct
 That/DT was/BEDZ true/JJ ,/pct but/CC only/RB half/ABN the/AT truth/NN ./pct
-The/AT other/AP half/ABN he/PPS didn't /None like/VB to/TO recognize/VB ,/pct even/RB to/IN himself/PPL ./pct
+The/AT other/AP half/ABN he/PPS didn't/DOD* like/VB to/TO recognize/VB ,/pct even/RB to/IN himself/PPL ./pct
 He/PPS enjoyed/VBD the/AT killing/NN ./pct
 Not/NEG defending/VBG England/NP ,/pct or/CC being/BEG an/AT ace/NN ,/pct or/CC fighting/VBG for/IN humanity/NN ./pct
 He/PPS enjoyed/VBD killing/VBG ./pct
@@ -74,7 +74,7 @@ That/DT was/BEDZ where/WRB he/PPS met/VBD Penny/NP ./pct
 He/PPS was/BEDZ aware/JJ of/IN her/PPO as/CS a/AT frightfully/RB good-looking/JJ American/JJ WAC/NP ,/pct a/AT second/OD lieutenant/NN assigned/VBN to/TO do/DO the/AT paper/NN work/NN ,/pct (/pct regardless/RB of/IN how/QL important/JJ she/PPS might/MD have/HV thought/VBN she/PPS was/BEDZ )/pct in/IN the/AT Command/NN offices/NNS ,/pct but/CC that/DT was/BEDZ all/ABN ./pct
 Penny/NP knew/VBD him/PPO better/RBR ,/pct on/IN her/PPg part/NN ./pct
 He/PPS had/HVD a/AT war/NN reputation/NN ,/pct but/CC this/DT was/BEDZ the/AT kind/NN of/IN man/NN women/NNS like/VB even/RB without/IN medals/NNS ./pct
-They/PPSS don't /None go/VB for/IN bull-like/JJ muscle/NN ,/pct as/CS a/AT rule/NN ./pct
+They/PPSS don't/DO* go/VB for/IN bull-like/JJ muscle/NN ,/pct as/CS a/AT rule/NN ./pct
 He/PPS had/HVD strength/NN in/IN his/PPg six-foot/JJ frame/NN ,/pct but/CC it/PPS was/BEDZ like/CS the/AT tensile/JJ steel/NN in/IN a/AT rapier/NN ./pct
 He/PPS was/BEDZ on/IN the/AT thin/JJ side/NN ,/pct with/IN big/JJ hands/NNS ,/pct and/CC the/AT kind/NN of/IN wrists/NNS that/WPS give/VB away/RB the/AT power/NN in/IN forearm/NN and/CC bicep/NN ./pct
 His/PPg hair/NN was/BEDZ black/JJ ,/pct already/RB greying/VBG at/IN the/AT temples/NNS in/IN the/AT classic/JJ beauty-idiom/NN ,/pct the/AT only/AP one/CD permitted/VBN to/IN a/AT man/NN ./pct
@@ -87,14 +87,14 @@ The/AT Command/NN offices/NNS were/BED in/IN the/AT border/NN country/NN ,/pct u
 The/AT Nazis/NPS knew/VBD this/DT ,/pct of/IN course/NN ,/pct and/CC while/CS their/PPg chief/JJS quarry/NN was/BEDZ the/AT industrial/JJ centers/NNS ,/pct they/PPSS let/VBD a/AT few/AP drop/NN every/AT time/NN they/PPSS went/VBD over/RP ,/pct hoping/VBG for/IN a/AT lucky/JJ hit/NN ./pct
 This/DT time/NN ,/pct they/PPSS had/HVD been/BEN lucky/JJ ./pct
 The/AT Command/NN post/NN was/BEDZ underground/JJ ,/pct and/CC well/RB camouflaged/VBN ./pct
-But/CC there/EX hadn't /None been/BEN enough/AP time/NN to/TO build/VB it/PPO for/IN keeps/NNS ./pct
+But/CC there/EX hadn't/HVD* been/BEN enough/AP time/NN to/TO build/VB it/PPO for/IN keeps/NNS ./pct
 There/EX was/BEDZ a/AT measure/NN of/IN protection/NN in/IN its/PPg concrete/NN walls/NNS and/CC ceiling/NN ,/pct but/CC the/AT engineers/NNS who/WPS hastily/RB installed/VBD it/PPS were/BED well/RB aware/JJ that/DT concrete/NN is/BEZ not/NEG much/QL better/RBR than/CS prayer/NN ,/pct if/CS as/QL efficacious/JJ ,/pct when/WRB a/AT direct/JJ hit/NN comes/VBZ along/RB ./pct
 This/DT one/PN was/BEDZ actually/RB more/AP of/IN a/AT ``/pct near/JJ miss/NN ''/pct ./pct
 The/AT bomb/NN plunged/VBD into/IN the/AT ground/NN near/IN the/AT Post/NN ,/pct but/CC not/NEG precisely/RB into/IN the/AT Command/NN room/NN itself/PPL ./pct
 There/EX was/BEDZ a/AT shattering/VBG ,/pct cracking/VBG sound/NN as/CS the/AT concrete/NN started/VBD to/TO buckle/VB ,/pct the/AT air/NN filled/VBD with/IN dust/NN and/CC flying/VBG debris/NN ,/pct and/CC everyone/PN in/IN the/AT room/NN --/pct men/NNS and/CC women/NNS hit/VBD the/AT floor/NN and/CC used/VBD the/AT desks/NNS as/CS turtlebacks/NNS ,/pct as/CS ordered/VBN ./pct
 That/DT is/BEZ ,/pct everyone/PN but/IN Keith/NP and/CC Penny/NP ./pct
 They/PPSS stood/VBD there/RB ,/pct just/RB the/AT two/CD of/IN them/PPO ,/pct in/IN the/AT rocking/VBG ,/pct shattering/VBG blast/NN ./pct
-Keith/NP was/BEDZ on/IN his/PPg feet/NNS because/CS he/PPS didn't /None care/VB at/IN all/ABN about/IN life/NN any/DTI more/RBR :/pct Penny/NP on/IN her/PPg feet/NNS ,/pct proudly/RB ,/pct because/CS she/PPS cared/VBD too/QL much/RB ./pct
+Keith/NP was/BEDZ on/IN his/PPg feet/NNS because/CS he/PPS didn't/DOD* care/VB at/IN all/ABN about/IN life/NN any/DTI more/RBR :/pct Penny/NP on/IN her/PPg feet/NNS ,/pct proudly/RB ,/pct because/CS she/PPS cared/VBD too/QL much/RB ./pct
 The/AT bomb/NN was/BEDZ a/AT solitary/JJ one/PN ./pct
 The/AT blast/NN damaged/VBD ,/pct but/CC did/DOD not/NEG destroy/VB the/AT room/NN ./pct
 Keith's/NPg eyes/NNS met/VBD Penny's/NPg as/CS they/PPSS stood/VBD there/RB in/IN this/DT strange/JJ marriage/NN of/IN destruction/NN ./pct
@@ -103,11 +103,11 @@ The/AT chaplain/NN married/VBD them/PPO ,/pct on/IN the/AT next/AP day/NN ./pct
 After/IN the/AT war/NN ,/pct Penny/NP had/HVD wanted/VBN Keith/NP at/IN least/AP to/TO visit/VB her/PPg home/NR with/IN her/PPO ./pct
 She/PPS came/VBD from/IN Ohio/NP ,/pct from/IN what/WDT she/PPS called/VBD a/AT ``/pct small/JJ farm/NN ''/pct of/IN two/CD hundred/CD acres/NNS ,/pct as/CS indeed/RB it/PPS was/BEDZ to/IN farmer-type/JJ farmers/NNS ./pct
 But/CC to/IN Keith's/NPg London-bred/JJ mind/NN ,/pct such/JJ acreage/NN sounded/VBD rather/QL invincible/JJ ./pct
-It/PPS wasn't /None that/DT ,/pct however/WRB ,/pct which/WDT decided/VBD them/PPO not/NEG to/TO go/VB to/IN America/NP ./pct
+It/PPS wasn't/BEDZ* that/DT ,/pct however/WRB ,/pct which/WDT decided/VBD them/PPO not/NEG to/TO go/VB to/IN America/NP ./pct
 Keith/NP told/VBD Penny/NP about/IN his/PPg dream/NN to/TO return/VB to/IN India/NP and/CC Burma/NP ./pct
 He/PPS stressed/VBD the/AT wild/JJ beauty/NN of/IN the/AT mountains/NNS ,/pct and/CC the/AT jungles/NNS ./pct
-He/PPS didn't /None tell/VB her/PPO the/AT truth/NN he/PPS now/RB freely/RB admitted/VBD to/IN himself/PPL ./pct
-He/PPS couldn't /None stop/VB killing/VBG ./pct
+He/PPS didn't/DOD* tell/VB her/PPO the/AT truth/NN he/PPS now/RB freely/RB admitted/VBD to/IN himself/PPL ./pct
+He/PPS couldn't/MD* stop/VB killing/VBG ./pct
 That/DT was/BEDZ his/PPg true/JJ love/NN ,/pct not/NEG Penny/NP ./pct
 The/AT terrible/JJ power/NN of/IN a/AT gun/NN ,/pct the/AT thing/NN that/WPS blasted/VBD the/AT soul/NN out/IN of/IN a/AT living/VBG body/NN ,/pct man/NN or/CC beast/NN ,/pct was/BEDZ one/CD he/PPS never/RB wanted/VBD to/TO lose/VB ./pct
 And/CC in/IN the/AT hunting/VBG land/NN ,/pct this/DT hunger/NN was/BEDZ considered/VBN to/TO be/BE a/AT noble/JJ thing/NN ./pct
@@ -125,4 +125,4 @@ They/PPSS came/VBD upon/IN cheetal/NN deer/NN at/IN woodland/NN pools/NNS ./pct
 Peacocks/NNS strutted/VBD across/IN their/PPg path/NN ,/pct preening/VBG ./pct
 There/EX were/BED fantastic/JJ flowers/NNS without/IN perfume/NN ,/pct and/CC gaudy/JJ birds/NNS without/IN song/NN ./pct
 Mouse/NN deer/NN played/VBD around/IN the/AT feet/NNS of/IN the/AT elephants/NNS ,/pct or/CC fled/VBD when/WRB the/AT mighty/JJ legs/NNS thrashed/VBD too/QL close/RB ./pct
-Wild/JJ boar/NN watched/VBD their/PPg progress/NN with/IN little/AP pig/NN eyes/NNS ,/pct and/CC grunted/VBD derision/NN when/WRB they/PPSS didn't /None consider/VB such/JJ game/NN worthy/JJ of/IN a/AT shot/NN from/IN the/AT ./pct
+Wild/JJ boar/NN watched/VBD their/PPg progress/NN with/IN little/AP pig/NN eyes/NNS ,/pct and/CC grunted/VBD derision/NN when/WRB they/PPSS didn't/DOD* consider/VB such/JJ game/NN worthy/JJ of/IN a/AT shot/NN from/IN the/AT ./pct

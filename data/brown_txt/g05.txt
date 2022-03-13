@@ -10,7 +10,7 @@ the/AT capital/NN went/VBD elsewhere/RB ;/pct ;/pct
 the/AT desert/NN encroached/VBD ./pct
 Isfahan/NP became/VBD more/AP of/IN a/AT legend/NN than/CS a/AT place/NN ,/pct and/CC now/RB it/PPS is/BEZ for/IN many/AP people/NNS simply/RB a/AT name/NN to/IN which/WDT they/PPSS attach/VB their/PPg notions/NNS of/IN old/JJ Persia/NP and/CC sometimes/RB of/IN the/AT East/NR ./pct
 They/PPSS think/VB of/IN it/PPO as/CS a/AT kind/NN of/IN spooky/JJ museum/NN in/IN which/WDT they/PPSS may/MD half/RB see/VB and/CC half/RB imagine/VB the/AT old/JJ splendor/NN ./pct
-Those/DTS who/WPS actually/RB get/VB there/RB find/VB that/CS it/PPS isn't /None spooky/JJ at/IN all/ABN but/CC as/QL brilliant/JJ as/CS a/AT tile/NN in/IN sunlight/NN ./pct
+Those/DTS who/WPS actually/RB get/VB there/RB find/VB that/CS it/PPS isn't/BEZ* spooky/JJ at/IN all/ABN but/CC as/QL brilliant/JJ as/CS a/AT tile/NN in/IN sunlight/NN ./pct
 But/CC even/RB for/IN them/PPO it/PPS remains/VBZ a/AT museum/NN ,/pct or/CC perhaps/RB it/PPS would/MD be/BE more/QL accurate/JJ to/TO say/VB a/AT tomb/NN ,/pct a/AT tomb/NN in/IN which/WDT Persia/NP lies/VBZ well/QL preserved/VBN but/CC indeed/RB dead/JJ ./pct
 Everyone/PN is/BEZ ready/JJ to/TO grant/VB the/AT Persians/NPS their/PPg history/NN ,/pct but/CC almost/RB no/AT one/PN is/BEZ willing/JJ to/TO acknowledge/VB their/PPg present/NN ./pct
 It/PPS seems/VBZ that/CS for/IN Persia/NP ,/pct and/CC especially/RB for/IN this/DT city/NN ,/pct there/EX are/BER only/RB two/CD times/NNS :/pct the/AT glorious/JJ past/IN and/CC the/AT corrupt/JJ ,/pct depressing/JJ ,/pct sterile/JJ present/NN ./pct
@@ -27,14 +27,14 @@ Those/DTS three/CD other/AP great/JJ activities/NNS of/IN the/AT Persians/NPS ,/
 But/CC more/QL important/JJ ,/pct and/CC the/AT thing/NN which/WDT the/AT casual/JJ traveler/NN and/CC the/AT blind/JJ sojourner/NN often/RB do/DO not/NEG see/VB ,/pct is/BEZ that/CS these/DTS places/NNS and/CC activities/NNS are/BER often/RB the/AT settings/NNS in/IN which/WDT Persians/NPS exercise/VB their/PPg extraordinary/JJ aesthetic/JJ sensibilities/NNS ./pct
 Water/NN ,/pct air/NN ,/pct fruit/NN ,/pct poetry/NN ,/pct music/NN ,/pct the/AT human/JJ form/NN --/pct these/DTS things/NNS are/BER important/JJ to/IN Persians/NPS ,/pct and/CC they/PPSS experience/VB them/PPO with/IN an/AT intense/JJ and/CC discriminating/VBG awareness/NN ./pct
 I/PPSS should/MD like/VB ,/pct by/IN the/AT way/NN ,/pct to/TO make/VB it/PPO clear/JJ that/CS I/PPSS am/BEM not/NEG using/VBG the/AT word/NN ``/pct Persians/NPS ''/pct carelessly/RB ./pct
-I/PPSS don't /None mean/VB a/AT few/AP aesthetes/NNS who/WPS play/VB about/RB with/IN sensations/NNS ,/pct like/CS a/AT young/JJ prince/NN in/IN a/AT miniature/NN dabbling/VBG his/PPg hand/NN in/IN a/AT pool/NN ./pct
+I/PPSS don't/DO* mean/VB a/AT few/AP aesthetes/NNS who/WPS play/VB about/RB with/IN sensations/NNS ,/pct like/CS a/AT young/JJ prince/NN in/IN a/AT miniature/NN dabbling/VBG his/PPg hand/NN in/IN a/AT pool/NN ./pct
 These/DTS things/NNS are/BER important/JJ to/IN almost/QL all/ABN Persians/NPS and/CC perhaps/RB most/QL important/JJ to/IN the/AT most/QL ordinary/JJ ./pct
 The/AT men/NNS crying/VBG love/NN poems/NNS in/IN an/AT orchard/NN on/IN any/DTI summer's/NNg night/NN are/BER as/QL often/RB as/CS not/NEG the/AT lutihaw/NNS ,/pct mustachioed/JJ toughs/NNS who/WPS spend/VB most/AP of/IN their/PPg lives/NNS in/IN and/CC out/IN of/IN the/AT local/JJ prisons/NNS ,/pct brothels/NNS ,/pct and/CC teahouses/NNS ./pct
 A/AT few/AP months/NNS ago/RB it/PPS was/BEDZ a/AT fairly/QL typical/JJ landlord/NN who/WPS in/IN the/AT dead/JJ of/IN night/NN lugged/VBD me/PPO up/IN a/AT mountainside/NN to/TO drink/VB from/IN a/AT spring/NN famous/JJ in/IN the/AT neighborhood/NN for/IN its/PPg clarity/NN and/CC flavor/NN ./pct
 Not/NEG long/RB ago/RB an/AT acquaintance/NN ,/pct a/AT slick-headed/JJ water/NN rat/NN of/IN a/AT lad/NN up/RP from/IN the/AT maw/NN of/IN the/AT city/NN ,/pct stood/VBD on/IN the/AT balcony/NN puffing/VBG his/PPg first/OD cigarette/NN in/IN weeks/NNS ./pct
 The/AT air/NN ,/pct he/PPS said/VBD ,/pct was/BEDZ just/QL right/JJ ;/pct ;/pct
 a/AT cigarette/NN would/MD taste/VB particularly/QL good/JJ ./pct
-I/PPSS really/RB didn't /None know/VB what/WDT he/PPS meant/VBD ./pct
+I/PPSS really/RB didn't/DOD* know/VB what/WDT he/PPS meant/VBD ./pct
 It/PPS was/BEDZ a/AT nice/JJ day/NN ,/pct granted/VBN ./pct
 But/CC he/PPS knew/VBD ;/pct ;/pct
 he/PPS sniffed/VBD the/AT air/NN and/CC licked/VBD it/PPO on/IN his/PPg lip/NN and/CC knew/VBD as/CS a/AT vintner/NN knows/VBZ a/AT vintage/NN ./pct

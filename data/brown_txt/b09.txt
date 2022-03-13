@@ -10,7 +10,7 @@ Mrs./NP Podger/NP had/HVD obligingly/RB pushed/VBN things/NNS around/RB on/IN th
 Mr./NP Podger/NP sat/VBD down/RP in/IN it/PPO ,/pct pushed/VBD himself/PPL back/RB and/CC forth/RB in/IN one/CD or/CC two/CD slow/JJ ,/pct rhythmic/JJ motions/NNS ,/pct and/CC then/RB swung/VBD his/PPg feet/NNS up/RP into/IN it/PPO ./pct
 He/PPS closed/VBD his/PPg eyes/NNS and/CC let/VBD the/AT unintelligible/JJ drift/NN of/IN voices/NNS sweep/VB pleasantly/RB over/IN him/PPO ./pct
 Suddenly/RB one/CD young/JJ voice/NN rose/VBD above/IN the/AT others/NNS ./pct
-``/pct But/CC ''/pct ,/pct it/PPS said/VBD ,/pct ``/pct do/DO you/PPSS always/RB know/VB when/WRB you're /None happy/JJ ''/pct ?/pct ?/pct
+``/pct But/CC ''/pct ,/pct it/PPS said/VBD ,/pct ``/pct do/DO you/PPSS always/RB know/VB when/WRB you're/PPSSBER happy/JJ ''/pct ?/pct ?/pct
 The/AT voice/NN sank/VBD back/RB into/IN the/AT general/JJ tangle/NN of/IN sound/NN ,/pct but/CC the/AT question/NN stayed/VBD in/IN Mr./NP Podger's/NPg mind/NN ./pct
 Here/RB ,/pct in/IN the/AT cool/JJ ,/pct autumn-touched/JJ evening/NN ,/pct Mr./NP Podger/NP mentally/RB retraced/VBD a/AT day/NN that/WPS had/HVD left/VBN him/PPO greatly/RB contented/VBN and/CC at/IN peace/NN ./pct
 It/PPS had/HVD begun/VBN with/IN the/AT blue/JJ jay/NN feather/NN ./pct
@@ -43,8 +43,8 @@ at/IN will/NN ,/pct the/AT voice/NN of/IN the/AT auctioneer/NN ,/pct the/AT voic
 ``/pct I/PPSS like/VB them/DTS things/NNS ,/pct too/RB ''/pct ,/pct he/PPS had/HVD said/VBN ./pct
 ``/pct We/PPSS got/VBN one/CD at/IN home/NR ./pct
 You/PPSS know/VB what/WDT ?/pct ?/pct
-If/CS you're /None lyin'/VBG out/RP in/IN the/AT hammock/NN at/IN night/NN ,/pct and/CC it/PPS gets/VBZ kinda/QL cool/JJ --/pct you/PPSS know/VB --/pct you/PPSS just/RB take/VB these/DTS sides/NNS with/IN the/AT fringe/NN on/RP --/pct see/UH --/pct and/CC wrap/VB 'em/PPO right/QL over/IN you/PPO ./pct
-I/PPSS do/DO it/PPO ,/pct lots/NNS o'/IN times/NNS --/pct I/PPSS like/VB to/TO lie/VB in/IN a/AT hammock/NN at/IN night/NN ,/pct by/IN myself/PPL ,/pct when/WRB it's /None all/QL quiet/JJ ./pct
+If/CS you're/PPSSBER lyin'/VBG out/RP in/IN the/AT hammock/NN at/IN night/NN ,/pct and/CC it/PPS gets/VBZ kinda/QL cool/JJ --/pct you/PPSS know/VB --/pct you/PPSS just/RB take/VB these/DTS sides/NNS with/IN the/AT fringe/NN on/RP --/pct see/UH --/pct and/CC wrap/VB 'em/PPO right/QL over/IN you/PPO ./pct
+I/PPSS do/DO it/PPO ,/pct lots/NNS o'/IN times/NNS --/pct I/PPSS like/VB to/TO lie/VB in/IN a/AT hammock/NN at/IN night/NN ,/pct by/IN myself/PPL ,/pct when/WRB it's/PPSBEZ all/QL quiet/JJ ./pct
 The/AT wind/NN moves/VBZ it/PPO a/AT little/AP bit/NN --/pct you/PPSS know/VB ./pct
 Mr./NP Podger/NP had/HVD thanked/VBN him/PPO gravely/RB ,/pct and/CC now/RB he/PPS made/VBD use/NN of/IN the/AT advice/NN ./pct
 As/CS he/PPS pulled/VBD the/AT fringed/VBN sides/NNS up/RP and/CC made/VBD himself/PPL into/IN a/AT cocoon/NN ,/pct Mr./NP Podger/NP saw/VBD that/DT thin/JJ ,/pct attractive/JJ ,/pct freckled/VBN little/JJ face/NN again/RB ,/pct and/CC hoped/VBD that/CS the/AT boy/NN ,/pct too/RB ,/pct was/BEDZ lying/VBG in/IN a/AT cool/JJ ,/pct fringed-wrapped/JJ quiet/NN ./pct
@@ -54,10 +54,10 @@ Soon/RB her/PPg purring/VBG rivaled/VBD the/AT chirping/NN of/IN the/AT tree/NN 
 Mr./NP Podger/NP was/BEDZ just/RB adding/VBG this/DT to/IN his/PPg pictures/NNS of/IN the/AT day/NN when/WRB the/AT screen/NN door/NN opened/VBD and/CC Pam/NP burst/VBD out/RP ./pct
 ``/pct Dad/NN ''/pct !/pct !/pct
 She/PPS said/VBD ./pct
-``/pct It's /None getting/VBG so/QL chilly/JJ we've /None lighted/VBN a/AT fire/NN ,/pct and/CC we're /None going/VBG to/TO tell/VB a/AT round/JJ robin/NN story/NN --/pct a/AT nice/JJ ,/pct scary/JJ one/CD ./pct
+``/pct It's/PPSBEZ getting/VBG so/QL chilly/JJ we've/PPSSHV lighted/VBN a/AT fire/NN ,/pct and/CC we're/PPSSBER going/VBG to/TO tell/VB a/AT round/JJ robin/NN story/NN --/pct a/AT nice/JJ ,/pct scary/JJ one/CD ./pct
 We/PPSS need/VB you/PPO to/TO start/VB it/PPO ./pct
 Why/WRB are/BER you/PPSS out/RP here/RB all/ABN by/IN yourself/PPL ?/pct ?/pct
-Aren't /None you/PPSS happy/JJ ''/pct ?/pct ?/pct
+Aren't/BER* you/PPSS happy/JJ ''/pct ?/pct ?/pct
 Mr./NP Podger/NP opened/VBD his/PPg cocoon/NN and/CC emerged/VBD ,/pct tucking/VBG Alacrity/NP under/IN his/PPg arm/NN to/TO bring/VB her/PPO in/RP by/IN the/AT fire/NN ./pct
 ``/pct Of/IN course/NN I/PPSS am/BEM ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct Never/RB happier/JJR in/IN my/PPg life/NN ./pct
@@ -103,7 +103,7 @@ In/IN the/AT past/AP these/DTS same/AP Southerners/NNS were/BED inclined/VBN to/
 And/CC as/CS the/AT businessmen/NNS have/HV begun/VBN to/TO act/VB ,/pct a/AT real/JJ sense/NN of/IN co-operation/NN has/HVZ sprung/VBN up/RP ./pct
 This/DT co-operation/NN has/HVZ emboldened/VBN other/AP Southern/JJ whites/NNS to/TO add/VB their/PPg voices/NNS to/IN demands/NNS for/IN peaceable/JJ accommodation/NN ./pct
 They/PPSS realize/VB that/CS by/IN acting/VBG in/IN concert/NN ,/pct rather/IN than/IN individually/RB ,/pct they/PPSS will/MD not/NEG be/BE picked/VBN out/RP as/CS objects/NNS of/IN retaliation/NN --/pct economic/JJ and/CC otherwise/RB ./pct
-Since/CS moving/VBG from/IN a/AT Chicago/NP suburb/NN to/IN Southern/JJ California/NP a/AT few/AP months/NNS ago/RB ,/pct I've /None been/BEN introduced/VBN to/IN a/AT new/JJ game/NN called/VBN Lanesmanship/NN ./pct
+Since/CS moving/VBG from/IN a/AT Chicago/NP suburb/NN to/IN Southern/JJ California/NP a/AT few/AP months/NNS ago/RB ,/pct I've/PPSSHV been/BEN introduced/VBN to/IN a/AT new/JJ game/NN called/VBN Lanesmanship/NN ./pct
 Played/VBN mostly/RB on/IN the/AT freeways/NNS around/IN Los/NP Angeles/NP ,/pct it/PPS goes/VBZ like/CS this/DT :/pct
 A/AT driver/NN cruising/VBG easily/RB at/IN 70/CD m.p.h./NNS in/IN Lane/NN A/NP of/IN a/AT four-lane/JJ freeway/NN spies/VBZ an/AT incipient/JJ traffic/NN jam/NN ahead/RB ./pct
 Traffic/NN in/IN the/AT next/AP lane/NN appears/VBZ to/TO be/BE moving/VBG more/QL smoothly/RB so/CS he/PPS pokes/VBZ a/AT tentative/JJ fender/NN into/IN Lane/NN B/NP ,/pct which/WDT is/BEZ heavily/RB populated/VBN by/IN cars/NNS also/RB moving/VBG at/IN 70/CD m.p.h./NNS ./pct
@@ -112,13 +112,13 @@ He/PPS can/MD (/pct 1/CD )/pct point/VB his/PPg car/NN resolutely/RB at/IN the/A
 (/pct 2/CD )/pct slow/VB down/RP and/CC permit/VB the/AT ambivalent/JJ driver/NN to/TO change/VB lanes/NNS ;/pct ;/pct
 or/CC (/pct 3/CD )/pct alternately/RB accelerate/VB and/CC decelerate/VB ,/pct thus/RB keeping/VBG the/AT first/OD driver/NN guessing/VBG as/IN to/IN his/PPg intentions/NNS ,/pct thereby/RB making/VBG a/AT fascinating/JJ sport/NN of/IN the/AT whole/JJ affair/NN ./pct
 The/AT really/QL remarkable/JJ thing/NN to/IN me/PPO is/BEZ that/CS most/AP California/NP natives/NNS unhesitatingly/RB elect/VB to/TO slow/VB down/RP and/CC permit/VB the/AT invading/VBG car/NN free/JJ access/NN ./pct
-Whether/CS or/CC not/NEG this/DT is/BEZ done/VBN out/IN of/IN enlightened/VBN self-preservation/NN ,/pct I/PPSS don't /None know/VB ./pct
-But/CC it/PPS is/BEZ done/VBN ,/pct consistently/RB and/CC I'm /None both/ABX surprised/VBN and/CC impressed/VBN ./pct
+Whether/CS or/CC not/NEG this/DT is/BEZ done/VBN out/IN of/IN enlightened/VBN self-preservation/NN ,/pct I/PPSS don't/DO* know/VB ./pct
+But/CC it/PPS is/BEZ done/VBN ,/pct consistently/RB and/CC I'm/PPSSBEM both/ABX surprised/VBN and/CC impressed/VBN ./pct
 This/DT could/MD never/RB happen/VB in/IN my/PPg native/JJ Chicago/NP ./pct
 There/RB such/JJ soggy/JJ acquiesence/NN would/MD be/BE looked/VBN upon/RB as/CS a/AT sure/JJ sign/NN of/IN deteriorating/VBG manhood/NN ./pct
 In/IN Chicago/NP ,/pct the/AT driver/NN cut/VBN out/RP would/MD likely/RB jam/VB his/PPg gas/NN pedal/NN to/IN the/AT floor/NN in/IN an/AT effort/NN to/TO force/VB the/AT other/AP car/NN back/RB ./pct
 Failing/VBG this/DT ,/pct he/PPS would/MD pull/VB alongside/RB at/IN the/AT first/OD opportunity/NN and/CC shake/VB his/PPg fist/NN threateningly/RB ./pct
 This/DT negative/NN explanation/NN of/IN courtesy/NN on/IN the/AT freeways/NNS ,/pct however/WRB ,/pct does/DOZ an/AT injustice/NN to/IN Southern/JJ California/NP drivers/NNS ./pct
 At/IN the/AT risk/NN of/IN losing/VBG my/PPg charge-a-plate/NN at/IN Marshall/NP Field/NP and/CC Company/NN ,/pct I/PPSS would/MD like/VB to/TO challenge/VB an/AT old/JJ and/CC hallowed/VBN stereotype/NN ./pct
-After/IN three/CD months/NNS of/IN research/NN ,/pct I/PPSS can/MD state/VB unequivocally/RB that/CS Los/NP Angeles/NP drivers/NNS are/BER considerably/QL more/QL courteous/JJ and/CC competent/JJ than/CS any/DTI other/AP drivers/NNS I've /None ever/RB encountered/VBN ./pct
+After/IN three/CD months/NNS of/IN research/NN ,/pct I/PPSS can/MD state/VB unequivocally/RB that/CS Los/NP Angeles/NP drivers/NNS are/BER considerably/QL more/QL courteous/JJ and/CC competent/JJ than/CS any/DTI other/AP drivers/NNS I've/PPSSHV ever/RB encountered/VBN ./pct
 During/IN one/CD recent/JJ day/NN of/IN driving/VBG about/IN Los/NP Angeles/NP there/EX were/BED actually/RB a/AT dozen/NN occasions/NNS when/WRB oncoming/JJ drivers/NNS stopped/VBD an/AT entire/JJ lane/NN of/IN traffic/NN to/TO permit/VB me/PPO to/TO pull/VB out/RP of/IN an/AT impossible/JJ side/NN street/NN ./pct

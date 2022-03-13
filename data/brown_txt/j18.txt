@@ -88,7 +88,7 @@ It/PPS then/RB follows/VBZ that/CS Af/NN is/BEZ large/JJ enough/QLP ,/pct but/CC
 )/pct Now/RB Af/NN is/BEZ a/AT diagonalizable/JJ operator/NN which/WDT is/BEZ also/RB nilpotent/JJ ./pct
 Such/ABL an/AT operator/NN is/BEZ obviously/RB the/AT zero/NN operator/NN ;/pct ;/pct
 for/CS since/CS it/PPS is/BEZ nilpotent/JJ ,/pct the/AT minimal/JJ polynomial/NN for/IN this/DT operator/NN is/BEZ of/IN the/AT form/NN Af/NN for/IN some/DTI Af/NN ;/pct ;/pct
-but/CC then/RB since/CS the/AT operator/NN is/BEZ diagonalizable/JJ ,/pct the/AT minimal/JJ polynomial/NN cannot /None have/HV a/AT repeated/VBN root/NN ;/pct ;/pct
+but/CC then/RB since/CS the/AT operator/NN is/BEZ diagonalizable/JJ ,/pct the/AT minimal/JJ polynomial/NN cannot/MD* have/HV a/AT repeated/VBN root/NN ;/pct ;/pct
 hence/RB Af/NN and/CC the/AT minimal/JJ polynomial/NN is/BEZ simply/RB x/NN ,/pct which/WDT says/VBZ the/AT operator/NN is/BEZ 0/CD ./pct
 Thus/RB we/PPSS see/VB that/CS Af/NN and/CC Af/NN ./pct
 Corollary/NN ./pct

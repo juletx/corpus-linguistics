@@ -79,7 +79,7 @@ I/PPSS asked/VBD ./pct
 ``/pct Damned/VBN right/JJ ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct Once/CS I/PPSS get/VB out/RP on/IN the/AT flat/JJ I/PPSS do/DO ./pct
 Some/DTI chaps/NNS that/WPS know/VB an/AT area/NN well/RB can/MD make/VB their/PPg way/NN by/IN landmarks/NNS ,/pct a/AT tree/NN here/RB ,/pct a/AT wash/NN here/RB ,/pct a/AT boulder/NN there/RB ./pct
-But/CC if/CS you/PPSS don't /None know/VB the/AT place/NN like/CS the/AT palm/NN of/IN your/PPg hand/NN ,/pct you'd /None better/RBR use/VB a/AT compass/NN and/CC the/AT speedometer/NN ./pct
+But/CC if/CS you/PPSS don't/DO* know/VB the/AT place/NN like/CS the/AT palm/NN of/IN your/PPg hand/NN ,/pct you'd/PPSSHVD better/RBR use/VB a/AT compass/NN and/CC the/AT speedometer/NN ./pct
 Two/CD miles/NNS northeast/NR ,/pct then/RB five/CD miles/NNS southwest/NR that/DT sort/NN of/IN thing/NN ./pct
 Very/QL simple/JJ ''/pct ./pct
 He/PPS was/BEDZ right/JJ ./pct
@@ -97,8 +97,8 @@ It/PPS was/BEDZ not/NEG a/AT pet/NN ./pct
 It/PPS was/BEDZ a/AT worker/NN ./pct
 ``/pct The/AT buggers/NNS love/VB shade/NN ''/pct ,/pct the/AT rancher/NN said/VBD ./pct
 ``/pct I/PPSS suppose/VB because/CS it/PPS saves/VBZ them/PPO some/DTI loss/NN of/IN body/NN water/NN ./pct
-They'll /None move/VB around/IN that/DT rock/NN all/ABN day/NN ,/pct following/VBG the/AT shade/NN ./pct
-During/IN the/AT hottest/JJT part/NN of/IN the/AT day/NN ,/pct of/IN course/NN ,/pct the/AT sun/NN comes/VBZ straight/QL down/RP and/CC there/EX isn't /None any/DTI shade/NN ''/pct ./pct
+They'll/PPSSMD move/VB around/IN that/DT rock/NN all/ABN day/NN ,/pct following/VBG the/AT shade/NN ./pct
+During/IN the/AT hottest/JJT part/NN of/IN the/AT day/NN ,/pct of/IN course/NN ,/pct the/AT sun/NN comes/VBZ straight/QL down/RP and/CC there/EX isn't/BEZ* any/DTI shade/NN ''/pct ./pct
 We/PPSS drove/VBD close/RB to/IN the/AT boulder/NN ,/pct stopped/VBD the/AT Land/NN Rover/NN ,/pct and/CC walked/VBD over/RP toward/IN the/AT family/NN ./pct
 The/AT man/NN was/BEDZ leaning/VBG against/IN the/AT rock/NN ./pct
 He/PPS gazed/VBD away/RB from/IN us/PPO as/CS we/PPSS approached/VBD ./pct
@@ -137,7 +137,7 @@ The/AT boys/NNS had/HVD beautiful/JJ dark/JJ eyes/NNS and/CC unlike/IN their/PPg
 ``/pct That/DT smell/NN is/BEZ something/PN ,/pct eh/UH ,/pct mate/NN ''/pct ?/pct ?/pct
 The/AT Australian/NP asked/VBD ./pct
 ``/pct They/PPSS swear/VB that/CS every/AT person/NN smells/VBZ different/JJ and/CC every/AT family/NN smells/VBZ different/JJ from/IN every/AT other/AP ./pct
-At/IN the/AT corroborees/NNS ,/pct when/WRB they/PPSS get/VB to/IN dancing/VBG and/CC sweating/VBG ,/pct you'll /None see/VB them/PPO rubbing/VBG up/RP against/IN a/AT man/NN who's /None supposed/VBN to/TO have/HV a/AT specially/RB good/JJ smell/NN ./pct
+At/IN the/AT corroborees/NNS ,/pct when/WRB they/PPSS get/VB to/IN dancing/VBG and/CC sweating/VBG ,/pct you'll/PPSSMD see/VB them/PPO rubbing/VBG up/RP against/IN a/AT man/NN who's/WPSBEZ supposed/VBN to/TO have/HV a/AT specially/RB good/JJ smell/NN ./pct
 Idje/NP ,/pct here/RB ''/pct ,/pct and/CC he/PPS nodded/VBD at/IN the/AT man/NN ,/pct ``/pct is/BEZ said/VBN to/TO have/HV great/JJ odor/NN ./pct
 The/AT stink/NN is/BEZ all/QL the/AT same/AP to/IN me/PPO ,/pct but/CC I/PPSS really/RB think/VB they/PPSS can/MD make/VB one/CD another/DT out/RP blindfolded/VBN ''/pct ./pct
 ``/pct Here/RB ,/pct Idje/NP ,/pct you/PPSS fella/NN like/VB tabac/NN ''/pct ?/pct ?/pct

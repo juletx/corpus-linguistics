@@ -28,9 +28,9 @@ The/AT bid/NN from/IN A./NP Belanger/NP and/CC Sons/NNS of/IN Cambridge/NP ,/pct
 But/CC ,/pct Hemphill/NP added/VBD ,/pct bids/NNS from/IN other/AP contractors/NNS ranged/VBD from/IN $2400/NNS to/IN $3100/NNS per/IN joint/NN ./pct
 Berger's/NPg decision/NN to/TO sue/VB for/IN the/AT full/RB amount/VB of/IN the/AT performance/NN bond/NN was/BEDZ questioned/VBN by/IN Wagner/NP in/IN the/AT morning/NN press/NN conference/NN ./pct
 Wagner/NP said/VBD the/AT city/NN paid/VBD only/RB $37,500/NNS to/IN the/AT Hughes/NP company/NN ./pct
-``/pct We/PPSS won't /None know/VB the/AT full/JJ amount/NN until/CS we/PPSS get/VB a/AT full/JJ report/NN ''/pct ,/pct Wagner/NP said/VBD ./pct
+``/pct We/PPSS won't/MD* know/VB the/AT full/JJ amount/NN until/CS we/PPSS get/VB a/AT full/JJ report/NN ''/pct ,/pct Wagner/NP said/VBD ./pct
 ``/pct We/PPSS can/MD claim/VB on/IN the/AT maximum/JJ amount/NN of/IN the/AT bond/NN ''/pct ,/pct Berger/NP said/VBD ./pct
-Wagner/NP replied/VBD ,/pct ``/pct Can't /None you/PPSS just/RB see/VB the/AT headline/NN :/pct '/pct City/NN Hooked/VBN for/IN $172,000/NNS '/pct ''/pct ?/pct ?/pct
+Wagner/NP replied/VBD ,/pct ``/pct Can't/MD* you/PPSS just/RB see/VB the/AT headline/NN :/pct '/pct City/NN Hooked/VBN for/IN $172,000/NNS '/pct ''/pct ?/pct ?/pct
 '/pct know/VB enough/AP to/TO sue/VB '/pct
 Berger/NP insisted/VBD that/CS ``/pct we/PPSS know/VB enough/AP to/TO sue/VB for/IN the/AT full/JJ amount/NN ''/pct ./pct
 Douglas/NP M./NP Pratt/NP ,/pct president/NN of/IN the/AT PTC/NN ,/pct who/WPS attended/VBD the/AT meeting/NN ,/pct said/VBD the/AT transit/NN company/NN is/BEZ reviewing/VBG the/AT work/NN on/IN the/AT El/NP ./pct
@@ -86,7 +86,7 @@ Battalion/NN Chief/NN Stanton/NP M./NP Gladden/NP ,/pct 42/CD ,/pct the/AT centr
 He/PPS was/BEDZ in/IN Baptist/NP Memorial/JJ hospital/NN ./pct
 Ignition/NN sets/VBZ off/RP blast/NN
 The/AT battalion/NN chief/NN said/VBD he/PPS had/HVD just/RB gotten/VBN into/IN his/PPg 1958/CD model/NN automobile/NN to/TO move/VB it/PPO from/IN the/AT driveway/NN of/IN his/PPg home/NN so/CS that/CS he/PPS could/MD take/VB his/PPg other/AP car/NN to/TO work/VB ./pct
-``/pct I'd /None just/RB turned/VBN on/RP the/AT ignition/NN when/WRB there/EX was/BEDZ a/AT big/JJ flash/NN and/CC I/PPSS was/BEDZ lying/VBG on/IN the/AT driveway/NN ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct I'd/PPSSHVD just/RB turned/VBN on/RP the/AT ignition/NN when/WRB there/EX was/BEDZ a/AT big/JJ flash/NN and/CC I/PPSS was/BEDZ lying/VBG on/IN the/AT driveway/NN ''/pct ,/pct he/PPS said/VBD ./pct
 Gladden's/NPg wife/NN and/CC two/CD of/IN his/PPg sons/NNS ,/pct John/NP ,/pct 17/CD ,/pct and/CC Jim/NP ,/pct 13/CD ,/pct were/BED inside/IN the/AT house/NN ./pct
 The/AT younger/JJR boy/NN said/VBD the/AT blast/NN knocked/VBD him/PPO out/IN of/IN bed/NN and/CC against/IN the/AT wall/NN ./pct
 Hood/NN flies/VBZ over/IN house/NN
@@ -105,7 +105,7 @@ Mining/NP is/BEZ secretary-treasurer/NN of/IN the/AT local/NN and/CC Shiflett/NP
 Both/ABX have/HV been/BEN active/JJ in/IN the/AT association/NN ./pct
 Ankara/NP ,/pct Turkey/NP ,/pct Oct./NP 24/CD (/pct AP/NP )/pct
 --/pct Turkish/JJ political/JJ leaders/NNS bowed/VBD today/NR to/TO military/JJ pressure/NN and/CC agreed/VBD to/TO form/VB an/AT emergency/NN national/JJ front/NN government/NN with/IN Gen./NN Cemal/NP Gursel/NP as/CS president/NN ./pct
-An/AT agreement/NN between/IN the/AT leaders/NNS of/IN four/CD parties/NNS which/WDT contested/VBD indecisive/JJ elections/NNS on/IN Oct./NP 15/CD was/BEDZ reached/VBN after/IN almost/RB 18/CD hours/NNS of/IN political/JJ bargaining/NN under/IN the/AT threat/NN of/IN an/AT army/NN coup/NN d'etat /None ./pct
+An/AT agreement/NN between/IN the/AT leaders/NNS of/IN four/CD parties/NNS which/WDT contested/VBD indecisive/JJ elections/NNS on/IN Oct./NP 15/CD was/BEDZ reached/VBN after/IN almost/RB 18/CD hours/NNS of/IN political/JJ bargaining/NN under/IN the/AT threat/NN of/IN an/AT army/NN coup/NN d'etat/INNN ./pct
 By-passing/VBG the/AT military/JJ junta/NN which/WDT has/HVZ ruled/VBN Turkey/NP since/IN the/AT overthrow/NN of/IN Premier/NN Adnan/NP Menderes/NP 17/CD months/NNS ago/RB ,/pct the/AT army/NN general/JJ staff/NN ,/pct led/VBN by/IN Gen./NN Cedvet/NP Sunay/NP ,/pct had/HVD set/VBN a/AT deadline/NN for/IN the/AT parties/NNS to/TO join/VB in/IN a/AT national/JJ coalition/NN government/NN ./pct
 The/AT army/NN leaders/NNS threatened/VBD to/TO form/VB a/AT new/JJ military/JJ government/NN if/CS the/AT parties/NNS failed/VBD to/TO sign/VB an/AT eight/CD point/NN protocol/NN agreeing/VBG on/IN Gen./NN Gursel/NP as/CS president/NN ./pct
 Gen./NN Gursel/NP has/HVZ headed/VBN the/AT military/JJ junta/NN the/AT last/AP 17/CD months/NNS ./pct

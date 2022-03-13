@@ -1,7 +1,7 @@
 The/AT person/NN who/WPS left/VBD the/AT buggy/NN there/RB has/HVZ never/RB been/BEN identified/VBN ./pct
 It/PPS was/BEDZ a/AT busy/JJ street/NN ,/pct conveniently/RB near/IN the/AT shopping/VBG center/NN ,/pct and/CC unattended/JJ horses/NNS and/CC wagons/NNS were/BED often/RB left/VBN at/IN the/AT curbside/NN ./pct
 There/EX are/BER ,/pct of/IN course/NN ,/pct many/AP weaknesses/NNS in/IN any/DTI case/NN against/IN Emma/NP ./pct
-She/PPS didn't /None like/VB her/PPg stepmother/NN ,/pct but/CC nothing/PN is/BEZ known/VBN to/TO have/HV occurred/VBN shortly/RB before/IN the/AT crime/NN that/WPS could/MD have/HV caused/VBN such/ABL a/AT murderous/JJ rage/NN ./pct
+She/PPS didn't/DOD* like/VB her/PPg stepmother/NN ,/pct but/CC nothing/PN is/BEZ known/VBN to/TO have/HV occurred/VBN shortly/RB before/IN the/AT crime/NN that/WPS could/MD have/HV caused/VBN such/ABL a/AT murderous/JJ rage/NN ./pct
 She/PPS had/HVD no/AT way/NN of/IN knowing/VBG in/IN advance/NN whether/CS an/AT opportunity/NN for/IN murder/NN existed/VBD ./pct
 She/PPS would/MD have/HV been/BEN taking/VBG more/AP than/IN a/AT fair/JJ risk/NN of/IN being/BEG seen/VBN and/CC recognized/VBN during/IN her/PPg travels/NNS ./pct
 If/CS she/PPS avoided/VBD the/AT train/NN and/CC hired/VBD a/AT buggy/NN ,/pct the/AT stableman/NN might/MD have/HV recognized/VBN her/PPO ./pct
@@ -73,7 +73,7 @@ That/DT was/BEDZ his/PPg complete/JJ discussion/NN of/IN Bridget/NP Sullivan/NP 
 Although/CS Pearson/NP disbelieved/VBD almost/RB everything/PN Lizzie/NP said/VBD ,/pct and/CC read/VBD a/AT sinister/JJ purpose/NN into/IN almost/RB everything/PN she/PPS did/DOD ,/pct he/PPS happily/RB accepted/VBD her/PPg statement/NN about/IN Bridget/NP as/CS the/AT whole/JJ truth/NN ./pct
 He/PPS felt/VBD nothing/PN further/RBR need/MD be/BE said/VBN about/IN the/AT servant/NN girl/NN ./pct
 The/AT exoneration/NN Pearson/NP speaks/VBZ of/IN is/BEZ not/NEG an/AT exoneration/NN ,/pct but/CC Lizzie's/NPg expression/NN of/IN her/PPg opinion/NN ,/pct as/CS reported/VBN in/IN the/AT testimony/NN of/IN Assistant/JJ Marshal/NN Fleet/NP ./pct
-This/DT officer/NN had/HVD asked/VBN Lizzie/NP if/CS she/PPS suspected/VBD her/PPg Uncle/NN Morse/NP ,/pct and/CC she/PPS replied/VBD she/PPS didn't /None think/VB he/PPS did/DOD it/PPO because/CS he/PPS left/VBD the/AT house/NN before/IN the/AT murders/NNS and/CC returned/VBD after/IN them/PPO ./pct
+This/DT officer/NN had/HVD asked/VBN Lizzie/NP if/CS she/PPS suspected/VBD her/PPg Uncle/NN Morse/NP ,/pct and/CC she/PPS replied/VBD she/PPS didn't/DOD* think/VB he/PPS did/DOD it/PPO because/CS he/PPS left/VBD the/AT house/NN before/IN the/AT murders/NNS and/CC returned/VBD after/IN them/PPO ./pct
 Fleet/NP asked/VBD the/AT same/AP question/NN about/IN Bridget/NP ,/pct and/CC Lizzie/NP pointed/VBD out/RP that/CS as/QL far/RB as/CS she/PPS knew/VBD Bridget/NP had/HVD gone/VBN up/RP to/IN her/PPg room/NN before/IN her/PPg father's/NNg murder/NN and/CC came/VBD down/RP when/WRB she/PPS called/VBD her/PPO ./pct
 Lizzie/NP ,/pct actually/RB ,/pct never/RB named/VBD any/DTI suspect/NN ./pct
 She/PPS told/VBD police/NNS about/IN the/AT prospective/JJ tenant/NN she/PPS had/HVD heard/VBN quarreling/VBG with/IN her/PPg father/NN some/DTI weeks/NNS before/IN the/AT murders/NNS ,/pct but/CC she/PPS said/VBD she/PPS thought/VBD he/PPS was/BEDZ from/IN out/IN of/IN town/NN because/CS she/PPS heard/VBD him/PPO mention/VB something/PN about/IN talking/VBG to/IN his/PPg partner/NN ./pct

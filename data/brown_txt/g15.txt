@@ -46,7 +46,7 @@ The/AT first/OD sentence/NN ,/pct with/IN its/PPg platitudinous/JJ irony/NN ,/pc
 that/DT is/BEZ to/TO say/VB ,/pct to/IN the/AT churchyard/NN ''/pct ./pct
 And/CC the/AT action/NN is/BEZ consistently/RB presented/VBN with/IN regard/NN for/IN this/DT distinction/NN ./pct
 The/AT highroad/NN ,/pct one/PN might/MD say/VB at/IN first/RB ,/pct belongs/VBZ to/IN life/NN ,/pct while/CS the/AT way/NN to/IN the/AT churchyard/NN belongs/VBZ to/IN death/NN ./pct
-But/CC that/DT is/BEZ too/QL simple/JJ ,/pct and/CC won't /None hold/VB up/RP ./pct
+But/CC that/DT is/BEZ too/QL simple/JJ ,/pct and/CC won't/MD* hold/VB up/RP ./pct
 As/CS the/AT first/OD sentence/NN suggests/VBZ ,/pct both/ABX roads/NNS belong/VB to/IN death/NN in/IN the/AT end/NN ./pct
 But/CC the/AT highroad/NN ,/pct according/IN to/IN the/AT description/NN of/IN its/PPg traffic/NN ,/pct belongs/VBZ to/IN life/NN as/CS it/PPS is/BEZ lived/VBN in/IN unawareness/NN of/IN death/NN ,/pct while/CS the/AT way/NN to/IN the/AT churchyard/NN belongs/VBZ to/IN some/DTI other/AP sort/NN of/IN life/NN :/pct a/AT suffering/VBG form/NN ,/pct an/AT existence/NN wholly/QL comprised/VBN in/IN the/AT awareness/NN of/IN death/NN ./pct
 Thus/RB ,/pct on/IN the/AT highroad/NN ,/pct a/AT troop/NN of/IN soldiers/NNS ``/pct marched/VBD in/IN their/PPg own/JJ dust/NN and/CC sang/VBD ''/pct ,/pct while/CS on/IN the/AT footpath/NN one/CD man/NN walks/VBZ alone/RB ./pct
@@ -64,7 +64,7 @@ This/DT passion/NN brings/VBZ on/IN a/AT fit/NN which/WDT proves/VBZ fatal/JJ ./
 Then/RB an/AT ambulance/NN comes/VBZ along/RB ,/pct and/CC they/PPSS drive/VB Praisegod/NP Piepsam/NP away/RB ./pct
 This/DT is/BEZ simple/JJ enough/QLP ,/pct but/CC several/AP more/AP points/NNS of/IN interest/NN may/MD be/BE mentioned/VBN as/CS relevant/JJ ./pct
 The/AT season/NN ,/pct between/IN spring/NN and/CC summer/NN ,/pct belongs/VBZ to/IN life/NN in/IN its/PPg carefree/JJ aspect/NN ./pct
-Piepsam's/NPg fatal/JJ rage/NN arises/VBZ not/NEG only/RB because/CS he/PPS cannot /None stop/VB the/AT cyclist/NN ,/pct but/CC also/RB because/CS God/NP will/MD not/NEG stop/VB him/PPO ;/pct ;/pct
+Piepsam's/NPg fatal/JJ rage/NN arises/VBZ not/NEG only/RB because/CS he/PPS cannot/MD* stop/VB the/AT cyclist/NN ,/pct but/CC also/RB because/CS God/NP will/MD not/NEG stop/VB him/PPO ;/pct ;/pct
 as/CS Piepsam/NP says/VBZ to/IN the/AT crowd/NN in/IN his/PPg last/AP moments/NNS :/pct ``/pct His/PPg justice/NN is/BEZ not/NEG of/IN this/DT world/NN ''/pct ./pct
 Life/NN is/BEZ further/RBR characterized/VBN ,/pct in/IN antithesis/NN to/IN Piepsam/NP ,/pct as/CS animal/NN :/pct the/AT image/NN of/IN a/AT dog/NN ,/pct which/WDT appears/VBZ at/IN several/AP places/NNS ,/pct is/BEZ first/RB given/VBN as/CS the/AT criterion/NN of/IN amiable/JJ ,/pct irrelevant/JJ interest/NN aroused/VBN by/IN life/NN considered/VBN simply/RB as/CS a/AT spectacle/NN :/pct a/AT dog/NN in/IN a/AT wagon/NN is/BEZ ``/pct admirable/JJ ''/pct ,/pct ``/pct a/AT pleasure/NN to/TO contemplate/VB ''/pct ;/pct ;/pct
 another/DT wagon/NN has/HVZ no/AT dog/NN ,/pct and/CC therefore/RB is/BEZ ``/pct devoid/JJ of/IN interest/NN ''/pct ./pct

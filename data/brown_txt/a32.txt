@@ -47,21 +47,21 @@ Requests/NNS must/MD be/BE mailed/VBN in/RP by/IN December/NP 5/CD ./pct
 Famed/JJ cellist/NN Pablo/NP Casals/NP took/VBD his/PPg instrument/NN to/IN the/AT East/JJ Room/NN of/IN the/AT White/JJ House/NN yesterday/NR and/CC charmed/VBD the/AT staff/NN with/IN a/AT two-hour/JJ rehearsal/NN ./pct
 He/PPS was/BEDZ getting/VBG the/AT feel/NN of/IN the/AT room/NN for/IN a/AT concert/NN tomorrow/NR night/NN for/IN Puerto/NP Rico/NP Governor/NN Luis/NP Munoz/NP Marin/NP ./pct
 President/NN Kennedy's/NPg invitation/NN to/IN the/AT Spanish-born/NP master/NN said/VBD ,/pct ``/pct We/PPSS feel/VB your/PPg performance/NN as/CS one/CD of/IN the/AT world's/NNg greatest/JJT artists/NNS would/MD lend/VB distinction/NN to/IN the/AT entertainment/NN of/IN our/PPg guests/NNS ''/pct ./pct
-For/IN A/AT good/JJ many/AP seasons/NNS I've /None been/BEN looking/VBG at/IN the/AT naughty/JJ stuff/NN on/IN television/NN ,/pct so/RB the/AT other/AP night/NN I/PPSS thought/VBD I/PPSS ought/MD to/TO see/VB how/WRB immorality/NN is/BEZ doing/VBG on/IN the/AT other/AP side/NN of/IN the/AT fence/NN in/IN movies/NNS ./pct
+For/IN A/AT good/JJ many/AP seasons/NNS I've/PPSSHV been/BEN looking/VBG at/IN the/AT naughty/JJ stuff/NN on/IN television/NN ,/pct so/RB the/AT other/AP night/NN I/PPSS thought/VBD I/PPSS ought/MD to/TO see/VB how/WRB immorality/NN is/BEZ doing/VBG on/IN the/AT other/AP side/NN of/IN the/AT fence/NN in/IN movies/NNS ./pct
 After/IN all/ABN ,/pct this/DT year's/NNg movies/NNS are/BER next/AP year's/NNg television/NN shows/NNS ./pct
 So/CS I/PPSS went/VBD to/TO see/VB ``/pct La/AT Dolce/JJ Vita/NN ''/pct ./pct
 It/PPS has/HVZ been/BEN billed/VBN as/CS a/AT towering/VBG monument/NN to/IN immorality/NN ./pct
 All/ABN the/AT sins/NNS of/IN ancient/JJ Rome/NP are/BER said/VBN to/TO be/BE collected/VBN into/IN this/DT three-hour/JJ film/NN ./pct
-If/CS that's /None all/ABN the/AT Romans/NPS did/DOD ,/pct it's /None a/AT surprise/NN to/IN me/PPO that/CS Rome/NP fell/VBD ./pct
+If/CS that's/DTBEZ all/ABN the/AT Romans/NPS did/DOD ,/pct it's/PPSBEZ a/AT surprise/NN to/IN me/PPO that/CS Rome/NP fell/VBD ./pct
 After/IN television/NN ,/pct ``/pct La/AT Dolce/JJ Vita/NN ''/pct seems/VBZ as/QL harmless/JJ as/CS a/AT Gray/JJ Line/NN tour/NN of/IN North/JJ Beach/NN at/IN night/NN ./pct
-I/PPSS cannot /None imagine/VB a/AT single/AP scene/NN that/WPS isn't /None done/VBN in/IN a/AT far/QL naughtier/JJR manner/NN on/IN TV/NN every/AT week/NN ./pct
+I/PPSS cannot/MD* imagine/VB a/AT single/AP scene/NN that/WPS isn't/BEZ* done/VBN in/IN a/AT far/QL naughtier/JJR manner/NN on/IN TV/NN every/AT week/NN ./pct
 I/PPSS believe/VB TV/NP watchers/NNS will/MD be/BE bored/VBN ./pct
 ``/pct La/AT Dolce/JJ Vita/NN ''/pct has/HVZ none/PN of/IN the/AT senseless/JJ brutality/NN or/CC sadism/NN of/IN the/AT average/JJ TV/NP Western/JJ ./pct
 Week/NN in/RP ,/pct week/NN out/RP ,/pct there/EX is/BEZ more/AP sex/NN to/TO be/BE seen/VBN in/IN ``/pct The/AT Adventures/NNS Of/IN Ozzie/NP And/CC Harriet/NP ''/pct ./pct
 There/EX is/BEZ more/AP decadence/NN on/IN ``/pct 77/CD Sunset/NN Strip/NN ''/pct ./pct
 There/EX are/BER more/AP obvious/JJ nymphomaniacs/NNS on/IN any/DTI private-eye/NN series/NN ./pct
 In/IN another/DT respect/NN ,/pct television/NN viewers/NNS will/MD feel/VB right/QL at/IN home/NR because/CS most/AP of/IN the/AT actors/NNS are/BER unknowns/NNS ./pct
-With/IN the/AT exception/NN of/IN Lex/NP Barker/NP and/CC Anita/NP Ekberg/NP ,/pct the/AT credits/NNS are/BER as/QL unfamiliar/JJ as/CS you'll /None find/VB on/IN the/AT Robert/NP Herridge/NP Theater/NN ./pct
+With/IN the/AT exception/NN of/IN Lex/NP Barker/NP and/CC Anita/NP Ekberg/NP ,/pct the/AT credits/NNS are/BER as/QL unfamiliar/JJ as/CS you'll/PPSSMD find/VB on/IN the/AT Robert/NP Herridge/NP Theater/NN ./pct
 Most/AP of/IN the/AT emphasis/NN has/HVZ been/BEN placed/VBN on/IN a/AT ``/pct wild/JJ party/NN ''/pct at/IN a/AT seaside/NN villa/NN ./pct
 Producer/NN Fellini/NP should/MD have/HV looked/VBN at/IN some/DTI of/IN the/AT old/JJ silent/JJ films/NNS where/WRB they/PPSS really/RB had/HVD parties/NNS !/pct !/pct
 The/AT Dolce/JJ Vita/NN get-together/NN boasted/VBD a/AT strip/NN tease/NN (/pct carried/VBN as/QL far/RB as/CS a/AT black/JJ slip/NN )/pct ;/pct ;/pct
@@ -71,7 +71,7 @@ Put/VB them/PPO all/ABN together/RB and/CC they/PPSS spell/VB out/RP the/AT only
 Apparently/RB Fellini/NP caught/VBD the/AT crowd/NN when/WRB its/PPg parties/NNS had/HVD begun/VBN to/TO pall/VB ./pct
 What/WDT a/AT swinging/VBG group/NN they/PPSS must/MD have/HV been/BEN when/WRB they/PPSS first/RB started/VBD entertaining/VBG !/pct !/pct
 As/CS A/AT moral/JJ shocker/NN it/PPS is/BEZ a/AT dud/NN ./pct
-But/CC this/DT doesn't /None detract/VB from/IN its/PPg merit/NN as/CS an/AT interesting/JJ ,/pct if/CS not/NEG great/JJ ,/pct film/NN ./pct
+But/CC this/DT doesn't/DOZ* detract/VB from/IN its/PPg merit/NN as/CS an/AT interesting/JJ ,/pct if/CS not/NEG great/JJ ,/pct film/NN ./pct
 The/AT Chronicle's/NNg Paine/NP Knickerbocker/NP summed/VBD it/PPO up/RP neatly/RB :/pct
 ``/pct This/DT is/BEZ a/AT long/JJ picture/NN and/CC a/AT controversial/JJ one/CD ,/pct but/CC basically/RB it/PPS is/BEZ a/AT moral/JJ ,/pct enthralling/JJ and/CC heartbreaking/JJ description/NN of/IN humans/NNS who/WPS have/HV become/VBN unlinked/VBN from/IN life/NN as/CS perhaps/RB Rome/NP has/HVZ from/IN her/PPO traditional/JJ political/JJ ,/pct cultural/JJ and/CC religious/JJ glories/NNS ''/pct ./pct
 And/CC when/WRB they/PPSS sell/VB it/PPO to/IN television/NN in/IN a/AT couple/NN of/IN years/NNS ,/pct it/PPS can/MD be/BE shown/VBN without/IN editing/VBG ./pct
@@ -89,7 +89,7 @@ It/PPS is/BEZ very/QL chic/JJ to/TO drive/VB foreign/JJ cars/NNS ./pct
 With/IN a/AT foreign/JJ car/NN you/PPSS must/MD wear/VB a/AT cap/NN --/pct it/PPS has/HVZ a/AT leather/NN band/NN in/IN the/AT back/NN ./pct
 You/PPSS must/MD also/RB wear/VB a/AT car/NN coat/NN ./pct
 The/AT wardrobe/NN for/IN a/AT foreign/JJ bomb/NN is/BEZ a/AT little/QL expensive/JJ ./pct
-But/CC we/PPSS couldn't /None really/RB get/VB along/RB without/IN it/PPO ./pct
+But/CC we/PPSS couldn't/MD* really/RB get/VB along/RB without/IN it/PPO ./pct
 ``/pct Where/WRB do/DO you/PPSS put/VB the/AT lighter/NN fluid/NN ,/pct ha/UH ,/pct ha/UH ''/pct ?/pct ?/pct
 Asked/VBD the/AT gas/NN station/NN man/NN ./pct
 The/AT present/JJ crop/NN of/IN small/JJ cars/NNS is/BEZ enriching/VBG American/JJ humor/NN ./pct
@@ -110,7 +110,7 @@ He/PPS asked/VBD gloomily/RB ./pct
 ``/pct About/RB 35/CD ''/pct ./pct
 The/AT gas/NN station/NN man/NN sighed/VBD unhappily/RB ./pct
 ``/pct What/WDT I/PPSS always/RB say/VB is/BEZ what/WDT if/CS somebody/PN clobbers/VBZ you/PPO in/IN a/AT little/JJ car/NN like/CS that/DT ?/pct ?/pct
-Crunch/UH ,/pct that's /None all/ABN she/PPS wrote/VBD ''/pct ./pct
+Crunch/UH ,/pct that's/DTBEZ all/ABN she/PPS wrote/VBD ''/pct ./pct
 ``/pct I/PPSS will/MD die/VB rich/JJ ''/pct ./pct
 ``/pct That/DT will/MD be/BE $1.80/NNS ''/pct ,/pct said/VBD the/AT gas/NN station/NN man/NN ./pct
 ``/pct The/AT windshield/NN looks/VBZ pretty/QL clean/JJ ''/pct ./pct

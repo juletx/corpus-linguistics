@@ -27,14 +27,14 @@ Where/WRB a/AT building/VBG permit/NN is/BEZ required/VBN ,/pct find/VB out/RP w
 In/IN many/AP cases/NNS ,/pct you/PPSS must/MD file/VB a/AT complete/JJ set/NN of/IN plans/NNS with/IN the/AT local/JJ building/VBG inspector/NN ./pct
 These/DTS will/MD be/BE available/JJ at/IN cost/NN from/IN our/PPg Plans/NNS Department/NN ./pct
 The/AT site/NN
-Some/DTI general/JJ things/NNS to/TO look/VB for/IN in/IN a/AT site/NN ,/pct if/CS you/PPSS haven't /None already/RB bought/VBN one/CD ,/pct are/BER accessibility/NN ,/pct water/NN drainage/NN ,/pct and/CC orientation/NN ./pct
+Some/DTI general/JJ things/NNS to/TO look/VB for/IN in/IN a/AT site/NN ,/pct if/CS you/PPSS haven't/HV* already/RB bought/VBN one/CD ,/pct are/BER accessibility/NN ,/pct water/NN drainage/NN ,/pct and/CC orientation/NN ./pct
 How/WRB are/BER the/AT roads/NNS ,/pct and/CC how/WRB will/MD they/PPSS stand/VB up/RP ?/pct ?/pct
 Is/BEZ there/EX evidence/NN of/IN wash-outs/NNS on/IN the/AT property/NN ;/pct ;/pct
 swampy/JJ areas/NNS or/CC intermittent/JJ springs/NNS ?/pct ?/pct
 A/AT visit/NN in/IN the/AT early/JJ spring/NN after/IN a/AT thaw/NN will/MD be/BE very/QL informative/JJ ./pct
 Note/VB where/WRB the/AT sun/NN rises/VBZ and/CC sets/VBZ ,/pct and/CC ask/VB which/WDT direction/NN the/AT prevailing/VBG winds/NNS and/CC storms/NNS come/VB from/IN ./pct
 Will/MD the/AT view/NN be/BE something/PN you/PPSS can/MD live/VB with/IN ?/pct ?/pct
-Don't /None worry/VB too/QL much/RB about/IN rocky/JJ or/CC sloping/VBG terrain/NN ;/pct ;/pct
+Don't/DO* worry/VB too/QL much/RB about/IN rocky/JJ or/CC sloping/VBG terrain/NN ;/pct ;/pct
 we/PPSS will/MD take/VB up/RP alternative/JJ foundations/NNS later/RBR on/RP ./pct
 The/AT materials/NNS
 With/IN this/DT first/OD issue/NN we/PPSS give/VB you/PPO a/AT list/NN of/IN the/AT materials/NNS needed/VBN to/TO build/VB the/AT basic/JJ (/pct AjA/NN version/NN )/pct and/CC the/AT expandable/JJ (/pct AjB/NN version/NN )/pct ./pct
@@ -47,14 +47,14 @@ The/AT outside/JJ surface/NN of/IN the/AT solid/JJ units/NNS shall/MD be/BE of/I
 The/AT inner/JJ panels/NNS do/DO not/NEG have/HV to/TO be/BE weatherproof/JJ ,/pct and/CC the/AT choice/NN will/MD depend/VB on/IN the/AT quality/NN of/IN finish/NN desired/VBN ./pct
 All/ABN panel/NN board/NN comes/VBZ in/IN standard/JJ Af/NN foot/NN size/NN ./pct
 It/PPS is/BEZ recommended/VBN that/CS panels/NNS be/BE both/ABX glued/VBN as/QL well/RB as/CS nailed/VBN to/IN the/AT frame/NN ./pct
-The/AT fixed/VBN window/NN panels/NNS with/IN louvers/NNS should/MD have/HV a/AT good/JJ grade/NN of/IN 1/8-inch/NN double-strength/JJ glass/NN set/VBN in/IN a/AT mastic/NN glazing/VBG compound/NN ./pct
+The/AT fixed/VBN window/NN panels/NNS with/IN louvers/NNS should/MD have/HV a/AT good/JJ grade/NN of/IN 1:8-inch/NN double-strength/JJ glass/NN set/VBN in/IN a/AT mastic/NN glazing/VBG compound/NN ./pct
 The/AT louvers/NNS are/BER constructed/VBN as/CS shown/VBN in/IN the/AT detail/NN ,/pct with/IN a/AT drop/JJ door/NN for/IN ventilation/NN ./pct
 There/EX are/BER standard/JJ sliding/VBG glass/NN windows/NNS in/IN wood/NN or/CC aluminum/NN frames/NNS for/IN those/DTS panels/NNS requiring/VBG them/PPO ./pct
 The/AT door/NN panels/NNS are/BER designed/VBN to/TO accommodate/VB standard/JJ doors/NNS which/WDT should/MD be/BE of/IN exterior/JJ grade/NN ./pct
 The/AT filler/NN panels/NNS for/IN the/AT gable/NN ends/NNS are/BER cut/VBN from/IN full/JJ Af/NN sheets/NNS as/CS shown/VBN ,/pct leaving/VBG no/AT wastage/NN ./pct
 The/AT battens/NNS covering/VBG the/AT joints/NNS are/BER of/IN Af/NN stock/NN and/CC are/BER applied/VBN after/CS the/AT walls/NNS are/BER erected/VBN ./pct
 All/ABN nails/NNS should/MD be/BE rustproof/JJ ,/pct and/CC aluminum/NN is/BEZ highly/QL recommended/VBN ./pct
-Note/VB :/pct If/CS 1/2-inch/NN panel/NN board/NN is/BEZ used/VBN inside/RB and/CC out/RP ,/pct or/CC 5/8-inch/NN one/CD side/NN and/CC 3/8-inch/NN the/AT other/AP ,/pct and/CC 1/8-inch/NN glass/NN is/BEZ used/VBN ,/pct stock/NN lumber/NN in/IN Af/NN ,/pct Af/NN ,/pct and/CC Af/NN can/MD be/BE used/VBN in/IN making/VBG the/AT glass/NN panels/NNS ./pct
+Note/VB :/pct If/CS 1:2-inch/NN panel/NN board/NN is/BEZ used/VBN inside/RB and/CC out/RP ,/pct or/CC 5:8-inch/NN one/CD side/NN and/CC 3:8-inch/NN the/AT other/AP ,/pct and/CC 1:8-inch/NN glass/NN is/BEZ used/VBN ,/pct stock/NN lumber/NN in/IN Af/NN ,/pct Af/NN ,/pct and/CC Af/NN can/MD be/BE used/VBN in/IN making/VBG the/AT glass/NN panels/NNS ./pct
 Other/AP thicknesses/NNS may/MD necessitate/VB ripping/VBG a/AT special/JJ size/NN lumber/NN for/IN the/AT glass/NN trim/NN ./pct
 In/IN any/DTI case/NN ,/pct there/EX is/BEZ no/AT special/JJ milling/NN or/CC rabbeting/NN required/VBN for/IN the/AT panels/NNS ./pct
 With/IN modern/JJ techniques/NNS of/IN woodworking/VBG and/CC the/AT multitude/NN of/IN cutting/VBG tools/NNS ,/pct fixtures/NNS ,/pct and/CC attachments/NNS available/JJ ,/pct the/AT drill/NN press/NN has/HVZ become/VBN a/AT basic/JJ home/NR workshop/NN tool/NN ./pct
@@ -73,15 +73,15 @@ Presses/NNS not/NEG fitted/VBN with/IN sealed/VBN spindle/NN bearings/NNS will/M
 The/AT rest/NN of/IN the/AT press/NN should/MD be/BE kept/VBN clean/JJ by/IN dusting/VBG with/IN a/AT clean/JJ rag/NN or/CC brush/NN ./pct
 Be/BE careful/JJ to/TO keep/VB the/AT drive/NN belt/NN free/JJ of/IN oil/NN and/CC grease/NN ./pct
 Belt/NN tension/NN is/BEZ adjusted/VBN by/IN manipulation/NN of/IN two/CD locking/VBG bolts/NNS and/CC a/AT movable/JJ motor/NN mount/NN ./pct
-Keep/VB the/AT belt/NN just/RB tight/JJ enough/QLP so/CS the/AT pulleys/NNS won't /None slip/VB when/WRB pulled/VBN by/IN hand/NN ;/pct ;/pct
+Keep/VB the/AT belt/NN just/RB tight/JJ enough/QLP so/CS the/AT pulleys/NNS won't/MD* slip/VB when/WRB pulled/VBN by/IN hand/NN ;/pct ;/pct
 excess/JJ tension/NN will/MD only/RB cause/VB undue/JJ wear/NN on/IN the/AT motor/NN and/CC spindle/NN bearings/NNS ./pct
 Most/AP drill/NN presses/NNS have/HV a/AT quill/NN return/NN spring/NN that/WPS raises/VBZ the/AT spindle/NN automatically/RB when/WRB the/AT feed/NN lever/NN is/BEZ released/VBN and/CC holds/VBZ the/AT quill/NN in/IN the/AT raised/VBN position/NN ./pct
 The/AT return/NN spring/NN tension/NN may/MD be/BE adjusted/VBN to/TO suit/VB individual/JJ requirements/NNS by/IN gripping/VBG the/AT spring/NN housing/NN with/IN a/AT pair/NN of/IN pliers/NNS (/pct to/TO prevent/VB the/AT spring/NN from/IN unwinding/VBG when/WRB it/PPS is/BEZ released/VBN )/pct ,/pct loosening/VBG the/AT lock/NN nut/NN or/CC screw/NN ,/pct and/CC rotating/VBG the/AT housing/NN until/CS the/AT desired/VBN tension/NN is/BEZ achieved/VBN ./pct
 Turning/VBG the/AT housing/NN clockwise/RB will/MD reduce/VB tension/NN ,/pct counter-clockwise/RB will/MD increase/VB it/PPO ./pct
-Don't /None lose/VB the/AT chuck/NN key/NN
+Don't/DO* lose/VB the/AT chuck/NN key/NN
 ./pct
 Some/DTI manufacturers/NNS have/HV had/HVN the/AT foresight/NN to/TO provide/VB a/AT socket/NN for/IN the/AT chuck/NN key/NN ;/pct ;/pct
-otherwise/RB ,/pct you'll /None have/HV to/TO spend/VB a/AT few/AP minutes/NNS to/TO either/CC attach/VB a/AT suitable/JJ spring/NN clip/NN somewhere/RB on/IN the/AT press/NN head/NN or/CC fit/VB the/AT key/NN to/IN a/AT length/NN of/IN light/JJ chain/NN and/CC fasten/VB to/IN the/AT bottom/NN of/IN the/AT motor/NN mount/NN so/CS that/CS the/AT key/NN is/BEZ out/IN of/IN the/AT way/NN when/WRB not/NEG in/IN use/NN ./pct
+otherwise/RB ,/pct you'll/PPSSMD have/HV to/TO spend/VB a/AT few/AP minutes/NNS to/TO either/CC attach/VB a/AT suitable/JJ spring/NN clip/NN somewhere/RB on/IN the/AT press/NN head/NN or/CC fit/VB the/AT key/NN to/IN a/AT length/NN of/IN light/JJ chain/NN and/CC fasten/VB to/IN the/AT bottom/NN of/IN the/AT motor/NN mount/NN so/CS that/CS the/AT key/NN is/BEZ out/IN of/IN the/AT way/NN when/WRB not/NEG in/IN use/NN ./pct
 Feeds/NNS and/CC speeds/NNS
 Drill/NN speeds/NNS are/BER important/JJ if/CS you/PPSS want/VB a/AT good/JJ job/NN ./pct
 Each/DT cutting/VBG tool/NN will/MD operate/VB best/RBT at/IN a/AT given/VBN speed/NN ,/pct depending/IN on/IN the/AT material/NN worked/VBN ./pct
@@ -96,7 +96,7 @@ The/AT best/JJT results/NNS will/MD be/BE obtained/VBN by/IN matching/VBG the/AT
 Common/JJ drilling/VBG tools/NNS
 There/EX are/BER numerous/JJ types/NNS and/CC styles/NNS of/IN tools/NNS to/TO drill/VB holes/NNS ./pct
 The/AT most/QL common/JJ are/BER the/AT twist/NN drill/NN ,/pct the/AT solid/JJ center/NN shaft/NN with/IN interchangeable/JJ cutting/VBG blades/NNS ,/pct the/AT double/JJ spur/NN bit/NN ,/pct and/CC the/AT power/NN wood/NN bit/NN ./pct
-All/ABN will/MD do/DO a/AT good/JJ job/NN if/CS sharp/JJ ,/pct but/CC the/AT twist/NN drills/NNS don't /None cut/VB quite/QL as/QL smoothly/RB as/CS the/AT others/NNS ,/pct since/CS they/PPSS do/DO not/NEG have/HV the/AT outlining/VBG spurs/NNS that/WPS sever/VB the/AT fibers/NNS before/CS actual/JJ boring/NN starts/VBZ ./pct
+All/ABN will/MD do/DO a/AT good/JJ job/NN if/CS sharp/JJ ,/pct but/CC the/AT twist/NN drills/NNS don't/DO* cut/VB quite/QL as/QL smoothly/RB as/CS the/AT others/NNS ,/pct since/CS they/PPSS do/DO not/NEG have/HV the/AT outlining/VBG spurs/NNS that/WPS sever/VB the/AT fibers/NNS before/CS actual/JJ boring/NN starts/VBZ ./pct
 The/AT adjustable/JJ fly/NN cutter/NN is/BEZ very/QL useful/JJ for/IN cutting/VBG large/JJ diameter/NN holes/NNS and/CC can/MD be/BE used/VBN to/TO cut/VB exact-size/JJ discs/NNS by/IN reversing/VBG the/AT cutter/NN blade/NN ./pct
 Since/CS fly/NN cutters/NNS are/BER one/CD sided/VBN and/CC not/NEG balanced/VBN ,/pct they/PPSS should/MD be/BE used/VBN at/IN the/AT slowest/JJT speed/NN available/JJ ,/pct and/CC fed/VBN very/QL slowly/RB to/TO avoid/VB binding/VBG ./pct
 Fly/NN cutters/NNS can/MD fool/VB you/PPO into/IN putting/VBG your/PPg hand/NN too/QL close/RB to/IN the/AT tool/NN ,/pct so/CS if/CS you/PPSS want/VB to/TO avoid/VB nicked/VBN fingers/NNS ,/pct keep/VB your/PPg hands/NNS well/QL out/IN of/IN the/AT way/NN ./pct

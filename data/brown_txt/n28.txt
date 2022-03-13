@@ -26,7 +26,7 @@ This/DT young/JJ slave/NN was/BEDZ therefore/RB quite/QL unprepared/JJ when/WRB 
 The/AT woman/NN eyed/VBD the/AT youth/NN with/IN the/AT avidity/NN a/AT coin/NN collector/NN might/MD display/VB toward/IN a/AT rare/JJ doubloon/NN which/WDT is/BEZ not/NEG yet/RB in/IN his/PPg collection/NN ./pct
 ``/pct What/WDT is/BEZ your/PPg name/NN ,/pct boy/NN ?/pct ?/pct
 Come/VB a/AT bit/NN closer/RBR ./pct
-I/PPSS won't /None bite/VB ,/pct you/PPSS know/VB ''/pct ./pct
+I/PPSS won't/MD* bite/VB ,/pct you/PPSS know/VB ''/pct ./pct
 He/PPS gaped/VBD at/IN Madame/NP Lalaurie/NP and/CC sniffed/VBD the/AT Paris/NP perfume/NN which/WDT emanated/VBD from/IN her/PPO ./pct
 Then/RB he/PPS smiled/VBD shyly/RB ./pct
 ``/pct My/PPg name/NN is/BEZ Dandy/NP Brandon/NP ,/pct missy/NN ./pct
@@ -41,11 +41,11 @@ Satisfied/VBN at/IN last/RB ,/pct and/CC after/CS a/AT few/AP amorous/JJ gambits
 This/DT was/BEDZ the/AT big/JJ man/NN with/IN the/AT proprietory/JJ air/NN and/CC the/AT beetling/JJ ,/pct shaggy/JJ eyebrows/NNS ./pct
 ``/pct Aristide/NP !/pct !/pct
 I/PPSS want/VB you/PPO to/TO find/VB Monsieur/NP Prieur/NP at/IN once/RB and/CC give/VB him/PPO this/DT money/NN for/IN the/AT boy's/NNg purchase/NN ./pct
-There's /None $600/NNS in/IN gold/NN in/IN this/DT chamois/NN sack/NN ./pct
+There's/EXBEZ $600/NNS in/IN gold/NN in/IN this/DT chamois/NN sack/NN ./pct
 If/CS the/AT old/JJ fool/NN argues/VBZ about/IN the/AT price/NN ,/pct tell/VB him/PPO I/PPSS shall/MD order/VB my/PPg husband/NN not/NEG to/TO treat/VB him/PPO as/CS a/AT patient/NN any/DTI longer/JJR ./pct
 Prieur/NP has/HVZ gout/NN and/CC depends/VBZ on/IN Louis'/NPg pills/NNS and/CC bleedings/NNS ./pct
 Besides/RB ,/pct he/PPS owns/VBZ 300/CD slaves/NNS ./pct
-One/CD less/AP shouldn't /None matter/VB to/IN him/PPO ''/pct ./pct
+One/CD less/AP shouldn't/MD* matter/VB to/IN him/PPO ''/pct ./pct
 Aristide/NP Devol/NP ,/pct the/AT sardonic/JJ manservant/NN who/WPS had/HVD been/BEN brought/VBN in/IN chains/NNS years/NNS before/RB from/IN his/PPg native/NN Sierra/NP Leone/NP ,/pct smiled/VBD thinly/RB and/CC touched/VBD his/PPg well-brushed/JJ beaver/NN hat/NN ./pct
 His/PPg bold/JJ eyes/NNS raked/VBD the/AT woman/NN ,/pct and/CC a/AT perceptive/JJ spectator/NN might/MD sense/VB that/CS there/EX was/BEDZ more/AP to/IN their/PPg relationship/NN than/CS that/DT of/IN slave/NN to/IN owner/NN ./pct
 ``/pct Another/DT youth/NN ,/pct Madame/NP ''/pct ?/pct ?/pct
@@ -98,14 +98,14 @@ But/CC at/IN the/AT coroner's/NNg inquest/NN Delphine/NP told/VBD a/AT forthrigh
 ``/pct I/PPSS saw/VBD the/AT boy/NN Dandy/NP at/IN the/AT Congo/NP Square/NN festivities/NNS and/CC felt/VBD sorry/JJ for/IN him/PPO ./pct
 It/PPS was/BEDZ our/PPg hope/NN to/TO educate/VB him/PPO and/CC to/TO give/VB him/PPO his/PPg freedom/NN when/WRB the/AT right/JJ time/NN came/VBD ,/pct for/CS he/PPS was/BEDZ a/AT bright/JJ and/CC friendly/JJ youth/NN who/WPS seemed/VBD worthy/JJ of/IN our/PPg interest/NN ./pct
 After/CS I/PPSS paid/VBD Monsieur/NP Prieur/NP for/IN Dandy/NP ,/pct I/PPSS brought/VBD him/PPO home/NR ,/pct but/CC he/PPS was/BEDZ ill/JJ at/IN ease/NN and/CC ran/VBD away/RB the/AT same/AP night/NN ./pct
-How/WRB he/PPS returned/VBD in/IN such/ABL a/AT ghastly/JJ condition/NN ,/pct or/CC why/WRB ,/pct I/PPSS cannot /None say/VB ./pct
-Dr./NN Lalaurie/NP and/CC I/PPSS didn't /None even/RB know/VB he/PPS was/BEDZ in/IN the/AT house/NN until/IN the/AT night/NN of/IN our/PPg ball/NN when/WRB he/PPS came/VBD down/IN the/AT stairs/NNS ''/pct ./pct
+How/WRB he/PPS returned/VBD in/IN such/ABL a/AT ghastly/JJ condition/NN ,/pct or/CC why/WRB ,/pct I/PPSS cannot/MD* say/VB ./pct
+Dr./NN Lalaurie/NP and/CC I/PPSS didn't/DOD* even/RB know/VB he/PPS was/BEDZ in/IN the/AT house/NN until/IN the/AT night/NN of/IN our/PPg ball/NN when/WRB he/PPS came/VBD down/IN the/AT stairs/NNS ''/pct ./pct
 She/PPS daubed/VBD at/IN her/PPg swimming/VBG eyes/NNS with/IN a/AT lacy/JJ handkerchief/NN and/CC said/VBD with/IN obvious/JJ emotion/NN :/pct ``/pct That/DT poor/JJ boy/NN !/pct !/pct
 He/PPS must/MD have/HV fallen/VBN in/RP with/IN evil/JJ companions/NNS ,/pct for/CS he/PPS was/BEDZ a/AT simple/JJ youth/NN and/CC quite/QL trusting/JJ and/CC inexperienced/JJ ./pct
 Ruffians/NNS must/MD have/HV robbed/VBN and/CC beaten/VBN him/PPO before/CS bringing/VBG him/PPO back/RB to/IN our/PPg house/NN to/TO die/VB ./pct
 Such/ABL a/AT pitiful/JJ end/NN ''/pct !/pct !/pct
 Though/CS the/AT slave's/NNg dying/VBG words/NNS about/IN the/AT woman/NN troubled/VBN the/AT coroner's/NNg panel/NN ,/pct Dandy's/NPg accusation/NN was/BEDZ adjudged/VBN an/AT aberration/NN by/IN the/AT jury/NN and/CC disregarded/VBD ./pct
-The/AT Lalauries/NPS were/BED at/IN the/AT top/JJS rung/NN of/IN the/AT social/JJ ladder/NN ,/pct and/CC even/RB a/AT jury/NN didn't /None feel/VB privileged/JJ to/TO doubt/VB the/AT veracity/NN of/IN so/QL illustrious/JJ a/AT lady/NN ./pct
+The/AT Lalauries/NPS were/BED at/IN the/AT top/JJS rung/NN of/IN the/AT social/JJ ladder/NN ,/pct and/CC even/RB a/AT jury/NN didn't/DOD* feel/VB privileged/JJ to/TO doubt/VB the/AT veracity/NN of/IN so/QL illustrious/JJ a/AT lady/NN ./pct
 Moreover/RB ,/pct runaway/JJ slaves/NNS frequently/RB got/VBD into/IN serious/JJ trouble/NN in/IN New/JJ Orleans'/NPg dives/NNS ./pct
 So/CS the/AT verdict/NN was/BEDZ ``/pct death/NN at/IN the/AT hands/NNS of/IN a/AT person/NN or/CC persons/NNS unknown/JJ ''/pct ,/pct and/CC the/AT elite/NN of/IN the/AT city/NN ,/pct accepting/VBG Delphine's/NPg testimony/NN ,/pct welcomed/VBD her/PPO and/CC the/AT doctor/NN back/RB into/IN the/AT fold/NN ./pct
 Once/RB again/RB life/NN went/VBD its/PPg serene/JJ way/NN --/pct soirees/NNS ,/pct fox/NN hunts/NNS ,/pct balls/NNS and/CC dinners/NNS ./pct

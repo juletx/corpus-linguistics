@@ -44,9 +44,10 @@ for elem in tree.xpath("//s"):
     # print(output_string)
     output_string = ""
     for subelem in elem.xpath("*"):
-        token = subelem.text
+        token = subelem.text.strip().replace("/", ":")
         postag = subelem.get("type")
-        output_string += "{}/{}".format(token, postag)
-        output_string += " "
+        if postag is None:
+            postag = subelem.get("pos").replace(" ", "")
+        output_string += f"{token}/{postag} "
     output_string = output_string[:-1]
     print(output_string)

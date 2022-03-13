@@ -17,7 +17,7 @@ As/CS might/MD be/BE expected/VBN ,/pct girls/NNS in/IN this/DT situation/NN ble
 It/PPS is/BEZ also/RB important/JJ to/TO realize/VB that/CS many/AP girls/NNS are/BER born/VBN without/IN a/AT hymen/NN or/CC at/IN most/AP only/RB a/AT tiny/JJ trace/NN of/IN one/CD ;/pct ;/pct
 so/CS that/CS the/AT absence/NN of/IN the/AT hymen/NN is/BEZ by/IN no/AT means/NNS positive/JJ proof/NN that/CS a/AT girl/NN has/HVZ had/HVN sex/NN relations/NNS ./pct
 But/CC there/EX is/BEZ a/AT basis/NN in/IN fact/NN for/IN the/AT exaggerations/NNS of/IN the/AT folk-lore/NN beliefs/NNS ./pct
-Some/DTI hymens/NNS are/BER so/QL strongly/RB developed/VBN that/CS they/PPSS cannot /None be/BE torn/VBN without/IN considerable/JJ pain/NN to/IN the/AT girl/NN and/CC marked/VBN loss/NN of/IN blood/NN ./pct
+Some/DTI hymens/NNS are/BER so/QL strongly/RB developed/VBN that/CS they/PPSS cannot/MD* be/BE torn/VBN without/IN considerable/JJ pain/NN to/IN the/AT girl/NN and/CC marked/VBN loss/NN of/IN blood/NN ./pct
 More/QL rarely/RB ,/pct the/AT hymen/NN is/BEZ so/QL sturdy/JJ that/CS it/PPS does/DOZ not/NEG yield/VB to/IN penetration/NN ./pct
 Extreme/JJ cases/NNS are/BER on/IN record/NN in/IN which/WDT the/AT doctor/NN has/HVZ had/HVN to/TO use/VB instruments/NNS to/TO cut/VB through/IN the/AT hymen/NN to/TO permit/VB marital/JJ relations/NNS to/TO be/BE consummated/VBN ./pct
 These/DTS cases/NNS ,/pct for/IN all/ABN their/PPg rarity/NN ,/pct are/BER so/QL dramatic/JJ that/CS friends/NNS and/CC relations/NNS repeat/VB the/AT story/NN until/CS the/AT general/JJ population/NN may/MD get/VB an/AT entirely/QL false/JJ notion/NN of/IN how/WQL often/RB the/AT hymen/NN is/BEZ a/AT serious/JJ problem/NN to/IN newly-weds/NNS ./pct

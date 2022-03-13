@@ -12,7 +12,7 @@ Most/AP of/IN them/PPO are/BER Democrats/NPS and/CC nearly/QL all/ABN consider/V
 This/DT is/BEZ puzzling/JJ to/IN an/AT outsider/NN conscious/JJ of/IN the/AT classic/JJ tradition/NN of/IN liberalism/NN ,/pct because/CS it/PPS is/BEZ clear/JJ that/CS these/DTS Democrats/NPS who/WPS are/BER left-of-center/JJ are/BER at/IN opposite/JJ poles/NNS from/IN the/AT liberal/JJ Jefferson/NP ,/pct who/WPS held/VBD that/CS the/AT best/JJT government/NN was/BEDZ the/AT least/AP government/NN ./pct
 Yet/CC paradoxically/RB my/PPg liberal/JJ friends/NNS continue/VB to/TO view/VB Jefferson/NP as/CS one/CD of/IN their/PPg patron/NN saints/NNS ./pct
 When/WRB I/PPSS question/VB them/PPO as/IN to/IN what/WDT they/PPSS mean/VB by/IN concepts/NNS like/CS liberty/NN and/CC democracy/NN ,/pct I/PPSS find/VB that/CS they/PPSS fall/VB into/IN two/CD categories/NNS :/pct the/AT simpler/JJR ones/NNS who/WPS have/HV simply/RB accepted/VBN the/AT shibboleths/NNS of/IN their/PPg faith/NN without/IN analysis/NN ;/pct ;/pct
-and/CC the/AT intelligent/JJ ,/pct cynical/JJ ones/NNS who/WPS scornfully/RB reply/VB that/CS these/DTS things/NNS don't /None count/VB any/DTI more/RBR in/IN the/AT world/NN of/IN to-day/NR ./pct
+and/CC the/AT intelligent/JJ ,/pct cynical/JJ ones/NNS who/WPS scornfully/RB reply/VB that/CS these/DTS things/NNS don't/DO* count/VB any/DTI more/RBR in/IN the/AT world/NN of/IN to-day/NR ./pct
 I/PPSS am/BEM naive/JJ ,/pct they/PPSS say/VB ,/pct to/TO make/VB use/NN of/IN such/JJ words/NNS ./pct
 I/PPSS take/VB this/DT to/TO mean/VB that/CS the/AT intelligent/JJ --/pct and/CC therefore/RB necessarily/QL cynical/JJ ?/pct ?/pct
 --/pct liberal/NN considers/VBZ that/CS the/AT need/NN for/IN a/AT national/JJ economy/NN with/IN controls/NNS that/WPS will/MD assure/VB his/PPg conception/NN of/IN social/JJ justice/NN is/BEZ so/QL great/JJ that/CS individual/JJ and/CC local/JJ liberties/NNS as/QL well/RB as/CS democratic/JJ processes/NNS may/MD have/HV to/TO yield/VB before/IN it/PPO ./pct
@@ -41,7 +41,7 @@ but/CC there/EX is/BEZ a/AT leavening/NN of/IN liberalism/NN among/IN college/NN
 And/CC social/JJ relations/NNS arising/VBG out/IN of/IN business/NN ties/NNS impose/VB courtesy/NN ,/pct if/CS not/NEG sympathy/NN ,/pct toward/IN resident/NN and/CC visiting/VBG Northerners/NNS ./pct
 Also/RB ,/pct among/IN the/AT latter/AP a/AT large/JJ percentage/NN soon/RB acquire/VB the/AT prevalent/JJ Southern/JJ attitude/NN on/IN most/AP social/JJ problems/NNS ./pct
 There/EX are/BER of/IN course/NN many/AP Souths/NRS ;/pct ;/pct
-but/CC for/IN this/DT discussion/NN the/AT most/QL important/JJ division/NN is/BEZ between/IN those/DTS who/WPS have/HV been/BEN reconstructed/VBN and/CC those/DTS who/WPS haven't /None ./pct
+but/CC for/IN this/DT discussion/NN the/AT most/QL important/JJ division/NN is/BEZ between/IN those/DTS who/WPS have/HV been/BEN reconstructed/VBN and/CC those/DTS who/WPS haven't/HV* ./pct
 My/PPg definition/NN of/IN this/DT much/QL abused/VBN adjective/NN is/BEZ that/CS a/AT reconstructed/VBN rebel/NN is/BEZ one/CD who/WPS is/BEZ glad/JJ that/CS the/AT North/NR won/VBD the/AT War/NN ./pct
 Nobody/PN knows/VBZ how/WRB many/AP Southerners/NNS there/EX are/BER in/IN this/DT category/NN ./pct
 I/PPSS suspect/VB that/CS there/EX are/BER far/QL more/QL unreconstructed/JJ ones/NNS than/CS the/AT North/NR likes/VBZ to/TO believe/VB ./pct
@@ -71,7 +71,7 @@ It/PPS is/BEZ hard/JJ to/TO see/VB how/WRB the/AT situation/NN could/MD be/BE ot
 And/CC therein/RB ,/pct I/PPSS feel/VB ,/pct many/AP Northerners/NNS delude/VB themselves/PPLS about/IN the/AT South/NR ./pct
 For/IN one/CD thing/NN ,/pct this/DT is/BEZ not/NEG a/AT subject/NN often/RB discussed/VBN or/CC analyzed/VBN ./pct
 There/EX seems/VBZ to/TO be/BE almost/RB a/AT conspiracy/NN of/IN silence/NN veiling/VBG it/PPO ./pct
-I/PPSS suppose/VB the/AT reason/NN is/BEZ a/AT kind/NN of/IN wishful/JJ thinking/NN :/pct don't /None talk/VB about/IN the/AT final/JJ stages/NNS of/IN Reconstruction/NN and/CC they/PPSS will/MD take/VB care/NN of/IN themselves/PPLS ./pct
+I/PPSS suppose/VB the/AT reason/NN is/BEZ a/AT kind/NN of/IN wishful/JJ thinking/NN :/pct don't/DO* talk/VB about/IN the/AT final/JJ stages/NNS of/IN Reconstruction/NN and/CC they/PPSS will/MD take/VB care/NN of/IN themselves/PPLS ./pct
 Or/CC else/RB the/AT North/NR really/RB believes/VBZ that/CS all/ABN Southerners/NNS except/IN a/AT few/AP quaint/JJ old/JJ characters/NNS have/HV come/VBN around/RB to/IN realizing/VBG the/AT errors/NNS of/IN their/PPg past/NN ,/pct and/CC are/BER now/RB at/IN heart/NN sharers/NNS of/IN the/AT American/JJ Dream/NN ,/pct like/CS everybody/PN else/RB ./pct
 If/CS the/AT circumstances/NNS are/BER faced/VBN frankly/RB it/PPS is/BEZ not/NEG reasonable/JJ to/TO expect/VB this/DT to/TO be/BE true/JJ ./pct
 The/AT situation/NN of/IN the/AT South/NR since/IN 1865/CD has/HVZ been/BEN unique/JJ in/IN the/AT western/JJ world/NN ./pct

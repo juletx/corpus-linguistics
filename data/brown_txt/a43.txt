@@ -17,7 +17,7 @@ You/PPSS find/VB the/AT evidence/NN of/IN that/DT in/IN the/AT chart/NN on/IN th
 Many/AP of/IN the/AT toll-road/NN bonds/NNS still/RB are/BER selling/VBG at/IN prices/NNS that/WPS offer/VB the/AT prospect/NN of/IN an/AT annual/JJ yield/NN of/IN 4/CD per/IN cent/NN ,/pct or/CC very/QL close/RB to/IN that/DT ./pct
 And/CC this/DT is/BEZ true/JJ in/IN the/AT case/NN of/IN some/DTI turnpikes/NNS on/IN which/WDT revenues/NNS have/HV risen/VBN close/RB to/IN ,/pct or/CC beyond/IN ,/pct the/AT point/NN at/IN which/WDT the/AT roads/NNS start/VB to/TO pay/VB all/ABN operating/VBG costs/NNS plus/CC annual/JJ interest/NN on/IN the/AT bonds/NNS ./pct
 That/DT 4/CD per/IN cent/NN yield/NN is/BEZ well/QL below/IN the/AT return/NN to/TO be/BE had/HVN on/IN good/JJ corporation/NN bonds/NNS ./pct
-It's /None not/NEG much/QL more/AP ,/pct in/IN fact/NN ,/pct than/CS the/AT return/NN that/WPS is/BEZ offered/VBN on/IN U./NP S./NP Treasury/NN bonds/NNS ./pct
+It's/PPSBEZ not/NEG much/QL more/AP ,/pct in/IN fact/NN ,/pct than/CS the/AT return/NN that/WPS is/BEZ offered/VBN on/IN U./NP S./NP Treasury/NN bonds/NNS ./pct
 For/IN investors/NNS whose/WPg income/NN is/BEZ taxed/VBN at/IN high/JJ rates/NNS ,/pct though/RB ,/pct a/AT tax-free/JJ yield/NN of/IN 4/CD per/IN cent/NN is/BEZ high/JJ ./pct
 It/PPS is/BEZ the/AT equivalent/JJ of/IN 8/CD per/IN cent/NN for/IN an/AT unmarried/JJ investor/NN with/IN more/AP than/IN $16,000/NNS of/IN income/NN to/TO be/BE taxed/VBN ,/pct or/CC for/IN a/AT married/VBN couple/NN with/IN more/AP than/IN $32,000/NNS of/IN taxed/VBN income/NN ./pct
 Swelling/VBG traffic/NN ./pct
@@ -62,7 +62,7 @@ If/CS nothing/PN is/BEZ done/VBN ,/pct the/AT prospect/NN is/BEZ that/CS that/DT
 West/JJ Virginia/NP toll/NN bonds/NNS have/HV defaulted/VBN in/IN interest/NN for/IN months/NNS ,/pct and/CC ,/pct despite/IN recent/JJ improvement/NN in/IN revenues/NNS ,/pct holders/NNS of/IN the/AT bonds/NNS are/BER faced/VBN with/IN more/AP of/IN the/AT same/AP ./pct
 These/DTS ,/pct however/WRB ,/pct are/BER exceptions/NNS ./pct
 The/AT typical/JJ picture/NN at/IN this/DT time/NN is/BEZ one/CD of/IN steady/JJ improvement/NN ./pct
-It's /None going/VBG to/TO take/VB time/NN for/IN investors/NNS to/TO learn/VB how/WRB many/AP of/IN the/AT toll-road/NN bonds/NNS will/MD pay/VB out/RP in/IN full/JJ ./pct
+It's/PPSBEZ going/VBG to/TO take/VB time/NN for/IN investors/NNS to/TO learn/VB how/WRB many/AP of/IN the/AT toll-road/NN bonds/NNS will/MD pay/VB out/RP in/IN full/JJ ./pct
 Already/RB ,/pct however/WRB ,/pct several/AP of/IN the/AT turnpikes/NNS are/BER earning/VBG enough/AP to/TO cover/VB interest/NN requirements/NNS by/IN comfortable/JJ margins/NNS ./pct
 Many/AP others/NNS are/BER attracting/VBG the/AT traffic/NN needed/VBN to/TO push/VB revenues/NNS up/RP to/IN the/AT break-even/JJ point/NN ./pct
 A/AT top/JJS American/JJ official/NN ,/pct after/IN a/AT look/NN at/IN Europe's/NPg factories/NNS ,/pct thinks/VBZ the/AT U.S./NP is/BEZ in/IN a/AT ``/pct very/QL serious/JJ situation/NN ''/pct competitively/RB ./pct
@@ -75,7 +75,7 @@ About/RB half/ABN of/IN these/DTS are/BER exported/VBN ./pct
 A/AT skilled/JJ worker/NN on/IN the/AT assembly/NN line/NN ,/pct for/IN example/NN ,/pct earns/VBZ $37/NNS a/AT week/NN ./pct
 ``/pct Three/CD ,/pct labor/NN troubles/NNS are/BER infrequent/JJ ./pct
 Fiat/NP officials/NNS say/VB they/PPSS have/HV had/HVN no/AT strikes/NNS for/IN more/AP than/IN six/CD years/NNS ./pct
-``/pct Said/VBD Secretary/NN Hodges/NP :/pct '/pct It's /None a/AT tough/JJ combination/NN for/IN the/AT U.S./NP to/TO face/VB ./pct
+``/pct Said/VBD Secretary/NN Hodges/NP :/pct '/pct It's/PPSBEZ a/AT tough/JJ combination/NN for/IN the/AT U.S./NP to/TO face/VB ./pct
 ``/pct Olivetti/NP had/HVD a/AT special/JJ interest/NN for/IN Hodges/NP ./pct
 Olivetti/NP took/VBD over/RP Underwood/NP ,/pct the/AT U.S./NP typewriter/NN maker/NN ,/pct in/IN late/JJ 1959/CD ./pct
 Within/IN a/AT year/NN ,/pct without/IN reducing/VBG wages/NNS ,/pct Underwood's/NPg production/NN costs/NNS were/BED cut/VBN one/CD third/OD ,/pct prices/NNS were/BED slashed/VBN ./pct
@@ -105,17 +105,17 @@ The/AT Indians/NPS and/CC Pakistanis/NPS are/BER chafing/VBG under/IN similar/JJ
 The/AT Kennedy/NP hope/NN is/BEZ that/CS ,/pct at/IN the/AT conference/NN or/CC through/IN bilateral/JJ talks/NNS ,/pct the/AT low-wage/NN textile-producing/JJ countries/NNS in/IN Asia/NP and/CC Europe/NP will/MD see/VB that/CS ``/pct dumping/VBG ''/pct practices/NNS cause/VB friction/NN all/QL around/RB and/CC may/MD result/VB in/IN import/NN quotas/NNS ./pct
 Gradual/JJ ,/pct controlled/VBN expansion/NN of/IN the/AT world's/NNg textile/NN trade/NN is/BEZ what/WDT President/NN Kennedy/NP wants/VBZ ./pct
 This/DT may/MD point/VB the/AT way/NN toward/IN international/JJ stabilization/NN agreements/NNS in/IN other/AP products/NNS ./pct
-It's /None an/AT important/JJ clue/NN to/IN Washington/NP thinking/NN ./pct
+It's/PPSBEZ an/AT important/JJ clue/NN to/IN Washington/NP thinking/NN ./pct
 Note/VB ,/pct too/RB ,/pct that/CS the/AT Kennedy/NP textile/NN plan/NN looks/VBZ toward/IN modernization/NN or/CC shrinkage/NN of/IN the/AT U.S./NP textile/NN industry/NN ./pct
 ``/pct Get/VB competitive/JJ or/CC get/VB out/RP ''/pct ./pct
-In/IN veiled/VBN terms/NNS ,/pct that's /None what/WDT the/AT Kennedy/NP Administration/NN is/BEZ saying/VBG to/IN the/AT American/JJ textile/NN industry/NN ./pct
-The/AT Government/NN will/MD help/VB in/IN transferring/VBG companies/NNS and/CC workers/NNS into/IN new/JJ lines/NNS ,/pct where/WRB modernization/NN doesn't /None seem/VB feasible/JJ ./pct
+In/IN veiled/VBN terms/NNS ,/pct that's/DTBEZ what/WDT the/AT Kennedy/NP Administration/NN is/BEZ saying/VBG to/IN the/AT American/JJ textile/NN industry/NN ./pct
+The/AT Government/NN will/MD help/VB in/IN transferring/VBG companies/NNS and/CC workers/NNS into/IN new/JJ lines/NNS ,/pct where/WRB modernization/NN doesn't/DOZ* seem/VB feasible/JJ ./pct
 Special/JJ depreciation/NN on/IN new/JJ textile/NN machinery/NN may/MD be/BE allowed/VBN ./pct
 Government/NN research/NN will/MD look/VB into/IN new/JJ products/NNS and/CC methods/NNS ./pct
-Import/NN quotas/NNS aren't /None ruled/VBN out/RP where/WRB the/AT national/JJ interest/NN is/BEZ involved/VBN ./pct
-But/CC the/AT Kennedy/NP Administration/NN doesn't /None favor/VB import/NN quotas/NNS ./pct
+Import/NN quotas/NNS aren't/BER* ruled/VBN out/RP where/WRB the/AT national/JJ interest/NN is/BEZ involved/VBN ./pct
+But/CC the/AT Kennedy/NP Administration/NN doesn't/DOZ* favor/VB import/NN quotas/NNS ./pct
 Rather/RB ,/pct they/PPSS are/BER impressed/VBN with/IN the/AT British/JJ Government's/NNg success/NN in/IN forcing/VBG --/pct and/CC helping/VBG --/pct the/AT British/JJ textile/NN industry/NN to/TO shrink/VB and/CC to/TO change/VB over/RP to/IN other/AP products/NNS ./pct
-What's /None happening/VBG in/IN textiles/NNS can/MD be/BE handwriting/NN on/IN the/AT wall/NN for/IN other/AP lines/NNS having/HVG difficulty/NN competing/VBG with/IN imports/NNS from/IN low-wage/NN countries/NNS ./pct
+What's/WDTBEZ happening/VBG in/IN textiles/NNS can/MD be/BE handwriting/NN on/IN the/AT wall/NN for/IN other/AP lines/NNS having/HVG difficulty/NN competing/VBG with/IN imports/NNS from/IN low-wage/NN countries/NNS ./pct
 Among/IN the/AT highest-paid/JJT workers/NNS in/IN the/AT world/NN are/BER U.S./NP coal/NN miners/NNS ./pct
 Yet/RB U.S./NP coal/NN is/BEZ cheap/JJ enough/QLP to/TO make/VB foreign/JJ steelmakers'/NNSg mouths/NNS water/VB ./pct
 Steel/NN Company/NN of/IN Wales/NP ,/pct a/AT British/JJ steelmaker/NN ,/pct wants/VBZ to/TO bring/VB in/RP Virginia/NP coal/NN ,/pct cut/VB down/RP on/RP its/PPg takings/NNS of/IN Welsh/JJ coal/NN in/IN order/NN to/TO be/BE able/JJ to/TO compete/VB more/QL effectively/RB --/pct especially/RB in/IN foreign/JJ markets/NNS ./pct
@@ -126,4 +126,4 @@ Productivity/NN of/IN U.S./NP miners/NNS is/BEZ twice/RB that/DT of/IN the/AT Br
 Welsh/JJ coal/NN miners/NNS ,/pct Communist-led/JJ ,/pct are/BER up/RP in/IN arms/NNS at/IN the/AT suggestion/NN that/CS the/AT steel/NN company/NN bring/VB in/RP American/JJ coal/NN ./pct
 They/PPSS threaten/VB to/TO strike/VB ./pct
 The/AT British/JJ Government/NN will/MD have/HV to/TO decide/VB whether/CS to/TO let/VB U.S./NP coal/NN in/RP ./pct
-The/AT British/JJ coal/NN industry/NN is/BEZ unprofitable/JJ ,/pct has/HVZ large/JJ coal/NN stocks/NNS it/PPS can't /None sell/VB ./pct
+The/AT British/JJ coal/NN industry/NN is/BEZ unprofitable/JJ ,/pct has/HVZ large/JJ coal/NN stocks/NNS it/PPS can't/MD* sell/VB ./pct

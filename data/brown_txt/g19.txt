@@ -80,7 +80,7 @@ he/PPS is/BEZ not/NEG an/AT eccentric/NN but/IN rather/RB an/AT outcast/NN ./pct
 With/IN Rex/NP Stout's/NPg Nero/NP Wolfe/NP ,/pct alienation/NN is/BEZ represented/VBN on/IN a/AT purely/QL physical/JJ plane/NN ./pct
 Wolfe/NP refuses/VBZ to/TO ever/RB leave/VB his/PPg own/JJ house/NN ,/pct and/CC spends/VBZ most/AP of/IN his/PPg time/NN drinking/VBG beer/NN and/CC playing/VBG with/IN orchids/NNS ./pct
 More/QL profound/JJ and/CC more/QL disturbing/JJ ,/pct however/RB ,/pct is/BEZ the/AT moral/JJ isolation/NN of/IN Raymond/NP Chandler's/NPg Philip/NP Marlowe/NP ./pct
-In/IN a/AT society/NN where/WRB everything/PN is/BEZ for/IN sale/NN ,/pct Marlowe/NP is/BEZ the/AT only/AP man/NN who/WPS cannot /None be/BE bought/VBN ./pct
+In/IN a/AT society/NN where/WRB everything/PN is/BEZ for/IN sale/NN ,/pct Marlowe/NP is/BEZ the/AT only/AP man/NN who/WPS cannot/MD* be/BE bought/VBN ./pct
 His/PPg tough/JJ honesty/NN condemns/VBZ him/PPO to/IN a/AT solitary/JJ and/CC difficult/JJ existence/NN ./pct
 Beaten/VBN ,/pct bruised/VBN and/CC exhausted/VBN ,/pct he/PPS pursues/VBZ the/AT elusive/JJ killer/NN through/IN the/AT demi-monde/NN of/IN high/JJ society/NN and/CC low/JJ morals/NNS ,/pct always/RB alone/RB ,/pct always/RB despised/VBN ./pct
 In/IN the/AT end/NN ,/pct he/PPS gets/VBZ his/PPg man/NN ,/pct but/CC no/AT one/PN seems/VBZ to/TO care/VB ;/pct ;/pct

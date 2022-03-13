@@ -25,7 +25,7 @@ With/IN the/AT Discours/NN de/IN la/AT methode/NN and/CC the/AT Principia/NNS th
 In/IN Greek/JJ tragedy/NN as/CS in/IN Shakespeare/NP ,/pct mortal/JJ actions/NNS are/BER encompassed/VBN by/IN forces/NNS which/WDT transcend/VB man/NN ./pct
 The/AT reality/NN of/IN Orestes/NP entails/VBZ that/DT of/IN the/AT Furies/NPS ;/pct ;/pct
 the/AT Weird/JJ Sisters/NNS wait/VB for/IN the/AT soul/NN of/IN Macbeth/NP ./pct
-We/PPSS cannot /None conceive/VB of/IN Oedipus/NP without/IN a/AT Sphinx/NP ,/pct nor/CC of/IN Hamlet/NP without/IN a/AT Ghost/NN ./pct
+We/PPSS cannot/MD* conceive/VB of/IN Oedipus/NP without/IN a/AT Sphinx/NP ,/pct nor/CC of/IN Hamlet/NP without/IN a/AT Ghost/NN ./pct
 The/AT shadows/NNS cast/VBN by/IN the/AT personages/NNS of/IN Greek/JJ and/CC Shakespearean/JJ drama/NN lengthen/VB into/IN a/AT greater/JJR darkness/NN ./pct
 And/CC the/AT entirety/NN of/IN the/AT natural/JJ world/NN is/BEZ party/NN to/IN the/AT action/NN ./pct
 The/AT thunderclaps/NNS over/IN the/AT sacred/JJ wood/NN at/IN Colonus/NP and/CC the/AT storms/NNS in/IN King/NN Lear/NP are/BER caused/VBN by/IN more/AP than/CS weather/NN ./pct

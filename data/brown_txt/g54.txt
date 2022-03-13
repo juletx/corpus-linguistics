@@ -1,9 +1,9 @@
 When/WRB Fred/NP wheeled/VBD him/PPO back/RB into/IN his/PPg room/NN ,/pct the/AT big/JJ one/CD looking/VBG out/RP on/IN the/AT back/JJ porch/NN ,/pct and/CC put/VBD him/PPO to/IN bed/NN ,/pct Papa/NP told/VBD him/PPO he/PPS was/BEDZ very/QL tired/VBN but/CC that/CS he/PPS had/HVD enjoyed/VBN greatly/RB the/AT trip/NN downtown/NR ./pct
-``/pct I've /None been/BEN cooped/VBN up/RP so/QL long/RB ''/pct ,/pct he/PPS added/VBD ./pct
+``/pct I've/PPSSHV been/BEN cooped/VBN up/RP so/QL long/RB ''/pct ,/pct he/PPS added/VBD ./pct
 Getting/VBG out/RP again/RB ,/pct seeing/VBG old/JJ friends/NNS ,/pct had/HVD given/VBN his/PPg spirits/NNS a/AT lift/NN ./pct
 That/DT night/NN after/IN supper/NN I/PPSS went/VBD back/RB over/IN to/IN 48/CD Spruce/NN Street/NN --/pct Ralph/NP and/CC I/PPSS at/IN that/DT time/NN were/BED living/VBG at/IN 168/CD Chestnut/NN --/pct and/CC Ralph/NP went/VBD with/IN me/PPO ./pct
 Papa/NP was/BEDZ still/RB elated/VBN over/IN his/PPg afternoon/NN visit/NN downtown/NR ./pct
-``/pct Baby/NN ,/pct I/PPSS saw/VBD a/AT lot/NN of/IN old/JJ friends/NNS I/PPSS hadn't /None seen/VBN in/IN a/AT long/JJ time/NN ''/pct ,/pct he/PPS told/VBD me/PPO ,/pct his/PPg eyes/NNS bright/JJ ./pct
+``/pct Baby/NN ,/pct I/PPSS saw/VBD a/AT lot/NN of/IN old/JJ friends/NNS I/PPSS hadn't/HVD* seen/VBN in/IN a/AT long/JJ time/NN ''/pct ,/pct he/PPS told/VBD me/PPO ,/pct his/PPg eyes/NNS bright/JJ ./pct
 ``/pct It/PPS was/BEDZ mighty/QL good/JJ for/IN the/AT old/JJ man/NN to/TO get/VB out/RP again/RB ''/pct ./pct
 The/AT next/AP day/NN he/PPS seemed/VBD to/TO be/BE in/IN fairly/QL good/JJ shape/NN and/CC still/RB in/IN excellent/JJ spirits/NNS ./pct
 But/CC a/AT few/AP days/NNS after/IN Fred's/NPg return/NN he/PPS began/VBD hemorrhaging/VBG and/CC that/DT was/BEDZ the/AT beginning/NN of/IN early/JJ and/CC complete/JJ disintegration/NN ./pct
@@ -12,8 +12,8 @@ We/PPSS got/VBD Dr./NN Glenn/NP to/IN him/PPO as/QL quickly/RB as/CS we/PPSS cou
 The/AT hemorrhage/NN was/BEDZ in/IN the/AT prostate/NN region/NN ;/pct ;/pct
 Dr./NN Glenn/NP saw/VBD at/IN once/RB what/WDT had/HVD happened/VBN ./pct
 ``/pct He/PPS has/HVZ lost/VBN much/AP blood/NN ''/pct ,/pct he/PPS said/VBD ./pct
-``/pct It'll /None take/VB a/AT lot/NN to/TO replace/VB it/PPO ''/pct ./pct
-``/pct Dr./NN Glenn/NP ,/pct I've /None got/VBN a/AT lot/NN of/IN blood/NN ''/pct ,/pct Fred/NP spoke/VBD up/RP ,/pct ``/pct plenty/NN of/IN it/PPO ./pct
+``/pct It'll/PPSMD take/VB a/AT lot/NN to/TO replace/VB it/PPO ''/pct ./pct
+``/pct Dr./NN Glenn/NP ,/pct I've/PPSSHV got/VBN a/AT lot/NN of/IN blood/NN ''/pct ,/pct Fred/NP spoke/VBD up/RP ,/pct ``/pct plenty/NN of/IN it/PPO ./pct
 Let/VB me/PPO give/VB Papa/NP blood/NN ''/pct ./pct
 The/AT doctor/NN agreed/VBD ,/pct but/CC explained/VBD that/CS it/PPS would/MD be/BE necessary/JJ first/RB to/TO check/VB Fred's/NPg blood/NN to/TO ascertain/VB whether/CS or/CC not/NEG it/PPS was/BEDZ of/IN the/AT same/AP type/NN as/CS Papa's/NPg ./pct
 To/TO give/VB a/AT patient/NN the/AT wrong/JJ type/NN of/IN blood/NN ,/pct said/VBD the/AT doctor/NN ,/pct would/MD likely/RB kill/VB him/PPO ./pct
@@ -24,14 +24,14 @@ They/PPSS had/HVD to/TO take/VB blood/NN samples/NNS to/IN the/AT laboratory/NN 
 They/PPSS made/VBD the/AT tests/NNS and/CC came/VBD to/IN Fred/NP ;/pct ;/pct
 by/IN now/RB it/PPS was/BEDZ perhaps/RB two/CD days/NNS or/CC longer/RBR after/CS Papa/NP had/HVD begun/VBN hemorrhaging/VBG ./pct
 ``/pct Fred/NP ,/pct your/PPg blood/NN matches/VBZ your/PPg father's/NNg ,/pct all/QL right/RB ''/pct ,/pct Dr./NN Glenn/NP said/VBD ./pct
-``/pct But/CC we/PPSS aren't /None going/VBG to/TO let/VB you/PPSS give/VB him/PPO any/DTI ''/pct ./pct
-``/pct But/CC why/WRB in/IN the/AT name/NN of/IN God/NP can't /None I/PPSS give/VB my/PPg father/NN blood/NN ''/pct ?/pct ?/pct
+``/pct But/CC we/PPSS aren't/BER* going/VBG to/TO let/VB you/PPSS give/VB him/PPO any/DTI ''/pct ./pct
+``/pct But/CC why/WRB in/IN the/AT name/NN of/IN God/NP can't/MD* I/PPSS give/VB my/PPg father/NN blood/NN ''/pct ?/pct ?/pct
 Fred/NP demanded/VBN ./pct
-``/pct Why/WRB can't /None I/PPSS ,/pct Doctor/NN ''/pct ?/pct ?/pct
+``/pct Why/WRB can't/MD* I/PPSS ,/pct Doctor/NN ''/pct ?/pct ?/pct
 ``/pct Because/CS ,/pct Fred/NP ,/pct it/PPS could/MD do/DO him/PPO no/AT good/NN ./pct
-It's /None too/QL late/RB now/RB ./pct
-He's /None past/IN helping/VBG ./pct
-He's /None as/QL good/JJ as/CS gone/VBN ''/pct ./pct
+It's/PPSBEZ too/QL late/RB now/RB ./pct
+He's/PPSBEZ past/IN helping/VBG ./pct
+He's/PPSBEZ as/QL good/JJ as/CS gone/VBN ''/pct ./pct
 And/CC in/IN a/AT few/AP minutes/NNS Papa/NP was/BEDZ dead/JJ ./pct
 It/PPS was/BEDZ well/QL past/IN midnight/NN ./pct
 Papa/NP had/HVD left/VBN us/PPO about/RB the/AT same/AP hour/NN of/IN the/AT night/NN that/CS Ben/NP had/HVD passed/VBN on/RP ./pct
@@ -55,32 +55,32 @@ Frank/NP had/HVD been/BEN given/VBN about/RB half/ABN his/PPg legacy/NN to/TO us
 he/PPS was/BEDZ given/VBN the/AT difference/NN between/IN that/DT amount/NN and/CC $5000/NNS ./pct
 Tom/NP had/HVD received/VBN four/CD years/NNS of/IN education/NN at/IN the/AT University/NN of/IN North/JJ Carolina/NP and/CC two/CD at/IN Harvard/NP ,/pct and/CC Fred/NP had/HVD been/BEN in/IN and/CC out/IN of/IN Georgia/NP Tech/NP and/CC Carneigie/NP Tech/NP and/CC part/NN of/IN the/AT time/NN had/HVD been/BEN a/AT self-help/NN student/NN ./pct
 So/RB ,/pct because/CS he/PPS had/HVD received/VBN less/AP than/CS Tom/NP ,/pct it/PPS was/BEDZ felt/VBN proper/JJ that/CS Fred/NP should/MD receive/VB the/AT few/AP hundred/CD dollars/NNS that/WPS remained/VBD ./pct
-And/CC that's /None how/WRB Papa's/NPg estate/NN was/BEDZ divided/VBN ./pct
+And/CC that's/DTBEZ how/WRB Papa's/NPg estate/NN was/BEDZ divided/VBN ./pct
 Papa/NP ,/pct I/PPSS should/MD emphasize/VB ,/pct had/HVD been/BEN an/AT invalid/NN the/AT last/AP several/AP years/NNS of/IN his/PPg life/NN ;/pct ;/pct
 his/PPg hospital/NN and/CC doctor/NN bills/NNS had/HVD been/BEN large/JJ and/CC his/PPg income/NN had/HVD been/BEN cut/VBN until/CS he/PPS was/BEDZ receiving/VBG little/AP except/IN small/JJ rentals/NNS on/IN some/DTI properties/NNS he/PPS still/RB owned/VBN ./pct
-Had/HVD he/PPS been/BEN able/JJ to/TO escape/VB this/DT long/JJ siege/NN of/IN invalidism/NN ,/pct I'm /None convinced/VBN ,/pct Papa/NP would/MD have/HV left/VBN a/AT sizable/JJ estate/NN ./pct
+Had/HVD he/PPS been/BEN able/JJ to/TO escape/VB this/DT long/JJ siege/NN of/IN invalidism/NN ,/pct I'm/PPSSBEM convinced/VBN ,/pct Papa/NP would/MD have/HV left/VBN a/AT sizable/JJ estate/NN ./pct
 But/CC he/PPS had/HVD succeeded/VBN well/RB ,/pct we/PPSS agreed/VBD ./pct
 He/PPS had/HVD left/VBN us/PPO a/AT legacy/NN far/QL more/QL valuable/JJ than/CS houses/NNS and/CC lands/NNS and/CC stocks/NNS and/CC bonds/NNS ./pct
 For/IN years/NNS Papa/NP and/CC Mama/NN had/HVD been/BEN large/JJ taxpayers/NNS ./pct
 I/PPSS recall/VB that/CS several/AP years/NNS their/PPg taxes/NNS exceeded/VBD $800/NNS ./pct
 In/IN those/DTS years/NNS of/IN lower/JJR property/NN valuations/NNS and/CC lower/JJR tax/NN rates/NNS ,/pct that/DT payment/NN represented/VBD ownership/NN of/IN much/AP property/NN ./pct
 ``/pct Merciful/JJ God/NP ,/pct Julia/NP ''/pct !/pct !/pct
-I/PPSS have/HV known/VBN Papa/NP to/TO exclaim/VB on/IN getting/VBG his/PPg tax/NN bill/NN ,/pct ``/pct we're /None going/VBG to/IN the/AT dogs/NNS ''/pct !/pct !/pct
+I/PPSS have/HV known/VBN Papa/NP to/TO exclaim/VB on/IN getting/VBG his/PPg tax/NN bill/NN ,/pct ``/pct we're/PPSSBER going/VBG to/IN the/AT dogs/NNS ''/pct !/pct !/pct
 But/CC he/PPS never/RB expected/VBD to/TO do/DO that/DT ./pct
-And/CC he/PPS didn't /None ,/pct by/IN a/AT long/JJ shot/NN !/pct !/pct
+And/CC he/PPS didn't/DOD* ,/pct by/IN a/AT long/JJ shot/NN !/pct !/pct
 35/CD ./pct
 In/IN the/AT spring/NN of/IN his/PPg second/OD year/NN at/IN Harvard/NP ,/pct Tom/NP had/HVD been/BEN offered/VBN a/AT job/NN at/IN Northwestern/JJ University/NN as/CS an/AT instructor/NN in/IN the/AT English/NP Department/NN ./pct
 But/CC he/PPS had/HVD delayed/VBN accepting/VBG this/DT job/NN ,/pct and/CC as/CS he/PPS was/BEDZ leaving/VBG to/TO come/VB home/NR to/IN Papa/NP in/IN response/NN to/IN our/PPg telegram/NN ,/pct he/PPS dropped/VBD a/AT postcard/NN to/IN Miss/NP McCrady/NP ,/pct head/NN of/IN the/AT Harvard/NP Appointment/NN Office/NN ,/pct asking/VBG her/PPO please/VB to/TO write/VB Northwestern/JJ authorities/NNS and/CC explain/VB the/AT circumstances/NNS ./pct
-Actually/RB Tom/NP had/HVD been/BEN postponing/VBG giving/VBG them/PPO an/AT answer/NN ,/pct I'm /None confident/JJ ,/pct because/CS he/PPS did/DOD not/NEG want/VB to/TO go/VB out/RP there/RB to/TO teach/VB ./pct
-In/IN fact/NN ,/pct he/PPS didn't /None want/VB to/TO teach/VB anywhere/RB ./pct
+Actually/RB Tom/NP had/HVD been/BEN postponing/VBG giving/VBG them/PPO an/AT answer/NN ,/pct I'm/PPSSBEM confident/JJ ,/pct because/CS he/PPS did/DOD not/NEG want/VB to/TO go/VB out/RP there/RB to/TO teach/VB ./pct
+In/IN fact/NN ,/pct he/PPS didn't/DOD* want/VB to/TO teach/VB anywhere/RB ./pct
 He/PPS wanted/VBD to/TO go/VB back/RB to/IN Harvard/NP for/IN another/DT year/NN of/IN playwriting/NN ./pct
 But/CC Papa's/NPg death/NN had/HVD further/RBR complicated/VBN the/AT financing/NN of/IN Tom's/NPg hoped-for/JJ third/OD year/NN ,/pct and/CC for/IN the/AT weeks/NNS following/VBG it/PPO Tom/NP did/DOD not/NEG know/VB whether/CS his/PPg return/NN to/IN Harvard/NP could/MD be/BE arranged/VBN ./pct
 But/CC things/NNS were/BED worked/VBN out/RP in/IN the/AT family/NN and/CC late/RB in/IN August/NP he/PPS wrote/VBD Miss/NP McCrady/NP an/AT explanatory/JJ letter/NN in/IN which/WDT he/PPS told/VBD her/PPO that/CS matters/NNS at/IN home/NN had/HVD been/BEN in/IN an/AT unsettled/VBN condition/NN after/IN Papa's/NPg death/NN and/CC he/PPS had/HVD not/NEG known/VBN whether/CS he/PPS would/MD stay/VB at/IN home/NN with/IN Mama/NN ,/pct accept/VB the/AT Northwestern/JJ job/NN ,/pct or/CC return/VB to/IN Harvard/NP ./pct
 But/CC he/PPS was/BEDZ happy/JJ to/TO tell/VB her/PPO that/CS his/PPg finances/NNS were/BED now/RB in/IN such/JJ condition/NN that/CS he/PPS could/MD go/VB back/RB to/IN Harvard/NP for/IN a/AT third/OD year/NN with/IN Professor/NN Baker/NP ./pct
-And/CC that's /None what/WDT he/PPS did/DOD ./pct
+And/CC that's/DTBEZ what/WDT he/PPS did/DOD ./pct
 That/DT third/OD year/NN he/PPS wrote/VBD plays/NNS with/IN a/AT fury/NN ./pct
 I/PPSS believe/VB there/EX are/BER seventeen/CD short/JJ plays/NNS by/IN Tom/NP now/RB housed/VBN in/IN the/AT Houghton/NP Library/NN at/IN Harvard/NP ;/pct ;/pct
-I/PPSS think/VB I'm /None right/JJ in/IN that/DT figure/NN ./pct
+I/PPSS think/VB I'm/PPSSBEM right/JJ in/IN that/DT figure/NN ./pct
 That/DT fall/NN he/PPS submitted/VBD to/IN Professor/NN Baker/NP the/AT first/OD acts/NNS and/CC outlines/NNS of/IN the/AT following/VBG acts/NNS of/IN several/AP plays/NNS ,/pct six/CD of/IN them/PPO ,/pct according/IN to/IN some/DTI of/IN his/PPg associates/NNS ,/pct and/CC he/PPS also/RB worked/VBD on/IN a/AT play/NN that/WPO he/PPS first/OD called/VBD Niggertown/NP ,/pct the/AT material/NN for/IN which/WDT he/PPS had/HVD collected/VBN during/IN the/AT summer/NN at/IN home/NN ./pct
 Later/RBR this/DT play/NN would/MD be/BE called/VBN Welcome/UH To/IN Our/PPg City/NN ./pct
 In/IN the/AT spring/NN ,/pct it/PPS must/MD have/HV been/BEN ,/pct he/PPS began/VBD working/VBG on/IN the/AT play/NN that/WPO he/PPS called/VBD The/AT House/NN ,/pct which/WDT later/RBR would/MD be/BE Mannerhouse/NP ./pct
@@ -95,8 +95,8 @@ He/PPS was/BEDZ always/RB concerned/VBN with/IN life/NN ,/pct and/CC he/PPS trie
 he/PPS wanted/VBD nothing/PN compressed/VBN ,/pct tight/JJ ./pct
 He/PPS was/BEDZ a/AT big/JJ man/NN ,/pct and/CC he/PPS wanted/VBD nothing/PN little/JJ ,/pct squeezed/VBN ;/pct ;/pct
 he/PPS despised/VBD parsimony/NN ,/pct and/CC particularly/RB of/IN words/NNS ./pct
-In/IN this/DT play/NN there/EX were/BED some/DTI thirty/CD or/CC more/AP named/VBN characters/NNS and/CC I/PPSS don't /None know/VB how/WQL many/AP more/AP unnamed/JJ ./pct
-In/IN describing/VBG it/PPO to/IN Professor/NN Baker/NP after/CS it/PPS had/HVD been/BEN chosen/VBN for/IN production/NN ,/pct he/PPS defended/VBD his/PPg great/JJ array/NN of/IN characters/NNS by/IN declaring/VBG that/CS he/PPS had/HVD included/VBN that/CS many/AP not/NEG because/CS ``/pct I/PPSS didn't /None know/VB how/WRB to/TO save/VB paint/NN ''/pct ,/pct but/CC because/CS the/AT play/NN required/VBD them/PPO ./pct
+In/IN this/DT play/NN there/EX were/BED some/DTI thirty/CD or/CC more/AP named/VBN characters/NNS and/CC I/PPSS don't/DO* know/VB how/WQL many/AP more/AP unnamed/JJ ./pct
+In/IN describing/VBG it/PPO to/IN Professor/NN Baker/NP after/CS it/PPS had/HVD been/BEN chosen/VBN for/IN production/NN ,/pct he/PPS defended/VBD his/PPg great/JJ array/NN of/IN characters/NNS by/IN declaring/VBG that/CS he/PPS had/HVD included/VBN that/CS many/AP not/NEG because/CS ``/pct I/PPSS didn't/DOD* know/VB how/WRB to/TO save/VB paint/NN ''/pct ,/pct but/CC because/CS the/AT play/NN required/VBD them/PPO ./pct
 And/CC he/PPS threatened/VBD someday/RB to/TO write/VB a/AT play/NN ``/pct with/IN fifty/CD ,/pct eighty/CD ,/pct a/AT hundred/CD people/NNS --/pct a/AT whole/JJ town/NN ,/pct a/AT whole/JJ race/NN ,/pct a/AT whole/JJ epoch/NN ''/pct ./pct
 He/PPS said/VBD he/PPS would/MD do/DO it/PPO ,/pct though/CS probably/RB nobody/PN would/MD produce/VB it/PPO ,/pct for/IN his/PPg own/JJ ``/pct soul's/NNg ease/NN and/CC comfort/NN ''/pct ./pct
 That/DT summer/NN Tom/NP attended/VBD the/AT summer/NN session/NN at/IN Harvard/NP ,/pct but/CC he/PPS did/DOD not/NEG ask/VB Mama/NN to/TO send/VB him/PPO back/RB in/IN the/AT fall/NN ./pct
@@ -108,11 +108,11 @@ The/AT Graham/NP Memorial/JJ would/MD be/BE the/AT campus/NN student/NN union/NN
 Well/UH ,/pct the/AT Theatre/NN Guild/NN kept/VBD that/DT play/NN ,/pct and/CC kept/VBD it/PPO ,/pct and/CC finally/RB in/IN December/NP they/PPSS turned/VBD it/PPO down/RP ./pct
 But/CC they/PPSS would/MD reconsider/VB it/PPO ,/pct they/PPSS assured/VBD him/PPO ,/pct if/CS he/PPS would/MD rewrite/VB it/PPO ./pct
 Tom/NP told/VBD me/PPO about/IN it/PPO ,/pct how/WRB one/CD evening/NN he/PPS went/VBD over/RP to/TO see/VB the/AT Theatre/NN Guild/NN man/NN ./pct
-This/DT man/NN ,/pct Tom/NP said/VBD ,/pct had/HVD the/AT play/NN shut/VBN up/RP in/IN his/PPg desk/NN ,/pct I/PPSS believe/VB ,/pct and/CC when/WRB Tom/NP sat/VBD down/RP ,/pct he/PPS pulled/VBD it/PPO out/RP and/CC apologetically/RB told/VBD Tom/NP that/CS they/PPSS wouldn't /None be/BE able/JJ to/TO use/VB it/PPO ./pct
+This/DT man/NN ,/pct Tom/NP said/VBD ,/pct had/HVD the/AT play/NN shut/VBN up/RP in/IN his/PPg desk/NN ,/pct I/PPSS believe/VB ,/pct and/CC when/WRB Tom/NP sat/VBD down/RP ,/pct he/PPS pulled/VBD it/PPO out/RP and/CC apologetically/RB told/VBD Tom/NP that/CS they/PPSS wouldn't/MD* be/BE able/JJ to/TO use/VB it/PPO ./pct
 Tom/NP said/VBD he/PPS almost/RB burst/VB into/IN tears/NNS ,/pct he/PPS was/BEDZ so/QL disappointed/VBN and/CC put/VBN out/RP ./pct
-The/AT man/NN ,/pct Tom/NP said/VBD ,/pct explained/VBD that/CS it/PPS was/BEDZ not/NEG only/RB too/QL long/JJ and/CC detailed/VBN but/CC that/CS as/CS it/PPS stood/VBD it/PPS wasn't /None the/AT sort/NN of/IN thing/NN the/AT public/NN wanted/VBD ./pct
-The/AT public/NN ,/pct Tom/NP said/VBD the/AT man/NN told/VBD him/PPO ,/pct wanted/VBD realism/NN ,/pct and/CC his/PPg play/NN wasn't /None that/DT ./pct
+The/AT man/NN ,/pct Tom/NP said/VBD ,/pct explained/VBD that/CS it/PPS was/BEDZ not/NEG only/RB too/QL long/JJ and/CC detailed/VBN but/CC that/CS as/CS it/PPS stood/VBD it/PPS wasn't/BEDZ* the/AT sort/NN of/IN thing/NN the/AT public/NN wanted/VBD ./pct
+The/AT public/NN ,/pct Tom/NP said/VBD the/AT man/NN told/VBD him/PPO ,/pct wanted/VBD realism/NN ,/pct and/CC his/PPg play/NN wasn't/BEDZ* that/DT ./pct
 It/PPS was/BEDZ fantastic/JJ writing/NN ,/pct beautiful/JJ writing/NN ,/pct the/AT man/NN declared/VBD ,/pct but/CC the/AT public/NN ,/pct he/PPS insisted/VBD ,/pct wanted/VBD realism/NN ./pct
 Tom/NP was/BEDZ not/NEG willing/JJ to/TO revise/VB the/AT play/NN according/IN to/IN the/AT plan/NN the/AT man/NN suggested/VBD ./pct
 Such/ABL a/AT revision/NN ,/pct he/PPS said/VBD ,/pct would/MD ruin/VB it/PPO ,/pct would/MD change/VB his/PPg whole/JJ conception/NN of/IN the/AT play/NN as/QL well/RB as/CS the/AT treatment/NN ./pct
-He/PPS thought/VBD about/IN it/PPO and/CC he/PPS told/VBD the/AT man/NN he/PPS just/RB couldn't /None do/DO it/PPO over/RP in/IN accordance/NN with/IN the/AT suggestions/NNS he/PPS had/HVD made/VBN ./pct
+He/PPS thought/VBD about/IN it/PPO and/CC he/PPS told/VBD the/AT man/NN he/PPS just/RB couldn't/MD* do/DO it/PPO over/RP in/IN accordance/NN with/IN the/AT suggestions/NNS he/PPS had/HVD made/VBN ./pct

@@ -45,7 +45,7 @@ With/IN those/DTS paintings/NNS of/IN big/JJ constructions/NNS crashing/VBG down
 They/PPSS were/BED ,/pct in/IN effect/NN his/PPg last/AP testament/NN to/IN non-objective/JJ art/NN ./pct
 He/PPS had/HVD taken/VBN out/RP first/OD papers/NNS for/IN American/JJ citizenship/NN ;/pct ;/pct
 but/CC after/CS war/NN came/VBD to/IN Europe/NP ,/pct he/PPS decided/VBD to/TO return/VB to/IN France/NP ,/pct arriving/VBG there/RB in/IN January/NP ,/pct 1940/CD ./pct
-``/pct I/PPSS hated/VBD the/AT war/NN ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct but/CC thought/VBD I/PPSS ought/MD to/TO go/VB because/CS I/PPSS was/BEDZ ,/pct perhaps/RB ,/pct one/CD of/IN those/DTS who/WPS hadn't /None done/VBN enough/AP to/TO prevent/VB it/PPO ''/pct ./pct
+``/pct I/PPSS hated/VBD the/AT war/NN ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct but/CC thought/VBD I/PPSS ought/MD to/TO go/VB because/CS I/PPSS was/BEDZ ,/pct perhaps/RB ,/pct one/CD of/IN those/DTS who/WPS hadn't/HVD* done/VBN enough/AP to/TO prevent/VB it/PPO ''/pct ./pct
 In/IN June/NP ,/pct 1940/CD ,/pct Sergeant/NN Helion/NP ,/pct with/IN a/AT company/NN of/IN reserve/NN troops/NNS waiting/VBG to/TO go/VB into/IN battle/NN ,/pct was/BEDZ sketching/VBG the/AT hills/NNS south/NR of/IN the/AT Loire/NP River/NN ,/pct when/WRB the/AT war/NN suddenly/RB rolled/VBD in/RP upon/IN him/PPO ./pct
 Its/PPg first/OD apparition/NN was/BEDZ a/AT long/JJ ,/pct gloomy/JJ column/NN of/IN refugees/NNS riding/VBG in/IN farm/NN wagons/NNS ,/pct or/CC pushing/VBG prams/NNS ./pct
 His/PPg company/NN then/RB carried/VBD out/RP a/AT confused/VBN retreating/VBG movement/NN until/CS it/PPS was/BEDZ surrounded/VBN by/IN the/AT Germans/NPS ,/pct a/AT few/AP days/NNS before/CS France/NP capitulated/VBD ./pct

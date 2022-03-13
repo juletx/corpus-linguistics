@@ -26,11 +26,11 @@ It/PPS is/BEZ reasonably/QL economical/JJ for/CS the/AT state/NN to/TO have/HV d
 (/pct 7/CD )/pct
 The/AT state/NN has/HVZ recently/RB undertaken/VBN liability/NN insurance/NN for/IN drivers/NNS of/IN state/NN cars/NNS ./pct
 Automobile/NN practices/NNS in/IN other/AP states/NNS ./pct
-A/AT survey/NN of/IN practices/NNS and/or/CC policies/NNS in/IN other/AP states/NNS concerning/IN assignment/NN and/CC use/NN of/IN state/NN automobiles/NNS reveals/VBZ several/AP points/NNS for/IN comparison/NN with/IN Rhode/NP Island's/NNg practices/NNS ./pct
+A/AT survey/NN of/IN practices/NNS and:or/CC policies/NNS in/IN other/AP states/NNS concerning/IN assignment/NN and/CC use/NN of/IN state/NN automobiles/NNS reveals/VBZ several/AP points/NNS for/IN comparison/NN with/IN Rhode/NP Island's/NNg practices/NNS ./pct
 Forty-seven/CD states/NNS assign/VB or/CC provide/VB vehicles/NNS for/IN employees/NNS on/IN state/NN business/NN ./pct
 Two/CD other/AP states/NNS provide/VB vehicles/NNS ,/pct but/CC only/RB with/IN legislative/JJ approval/NN ./pct
 States/NNS which/WDT provide/VB automobiles/NNS for/IN employees/NNS assign/VB them/PPO variously/RB to/IN the/AT agency/NN ,/pct the/AT individual/NN ,/pct or/CC to/IN a/AT central/JJ pool/NN ./pct
-Twenty-six/CD states/NNS operate/VB a/AT central/JJ motor/NN pool/NN for/IN acquisition/NN ,/pct allocation/NN and/or/CC maintenance/NN of/IN state-owned/JJ vehicles/NNS ./pct
+Twenty-six/CD states/NNS operate/VB a/AT central/JJ motor/NN pool/NN for/IN acquisition/NN ,/pct allocation/NN and:or/CC maintenance/NN of/IN state-owned/JJ vehicles/NNS ./pct
 Nineteen/CD states/NNS report/VB laws/NNS ,/pct policies/NNS or/CC regulations/NNS for/IN assigning/VBG state/NN vehicles/NNS in/IN lieu/NN of/IN paying/VBG mileage/NN allowances/NNS ./pct
 Of/IN these/DTS states/NNS the/AT average/JJ ``/pct change-over/NN ''/pct point/NN (/pct at/IN which/WDT a/AT car/NN is/BEZ substituted/VBN for/IN allowances/NNS )/pct is/BEZ 13,200/CD miles/NNS per/IN year/NN ./pct
 Mileage/NN allowances/NNS ./pct
@@ -50,7 +50,7 @@ Flat/JJ payments/NNS over/IN $50/NNS per/IN month/NN are/BER more/QL expensive/J
 Travel/NN allowances/NNS ./pct
 Travel/NN allowances/NNS ,/pct including/IN subsistence/NN ,/pct have/HV been/BEN revised/VBN by/IN administrative/JJ officials/NNS recently/RB and/CC compare/VB favorably/RB with/IN other/AP states'/NNSg allowances/NNS ./pct
 With/IN few/AP exceptions/NNS travelers/NNS on/IN state/NN business/NN are/BER allowed/VBN actual/JJ travel/NN expenses/NNS and/CC $15/NNS per/IN day/NN subsistence/NN ./pct
-Travel/NN allowances/NNS are/BER well-regulated/JJ and/CC pose/VB little/AP problem/NN in/IN administration/NN and/or/CC audit/NN control/NN ./pct
+Travel/NN allowances/NNS are/BER well-regulated/JJ and/CC pose/VB little/AP problem/NN in/IN administration/NN and:or/CC audit/NN control/NN ./pct
 Origin/NN of/IN state/NN automobile/NN practices/NNS
 general/JJ background/NN ./pct
 It/PPS is/BEZ difficult/JJ to/TO pinpoint/VB the/AT time/NN of/IN origin/NN of/IN the/AT state/NN purchasing/VBG automobiles/NNS for/IN use/NN of/IN employees/NNS in/IN Rhode/NP Island/NN ./pct

@@ -64,7 +64,7 @@ Ann/NP was/BEDZ plainly/RB disappointed/VBN in/IN his/PPg appearance/NN ./pct
 The/AT pilot/NN possessed/VBD excellent/JJ skill/NN at/IN his/PPg calling/NN ;/pct ;/pct
 all/ABN day/NN long/RB the/AT Caravan/NP slowly/RB made/VBD her/PPg way/NN through/IN the/AT difficult/JJ passages/NNS ./pct
 Alas/UH ,/pct to/IN Ann's/NPg consternation/NN ,/pct his/PPg language/NN while/CS thus/RB employed/VBN left/VBD much/AP to/TO be/BE desired/VBN ./pct
-He/PPS swore/VBD so/QL loudly/RB at/IN the/AT top/NN of/IN his/PPg voice/NN ,/pct that/CS she/PPS didn't /None get/VB any/DTI sleep/NN all/ABN the/AT next/AP night/NN ./pct
+He/PPS swore/VBD so/QL loudly/RB at/IN the/AT top/NN of/IN his/PPg voice/NN ,/pct that/CS she/PPS didn't/DOD* get/VB any/DTI sleep/NN all/ABN the/AT next/AP night/NN ./pct
 Next/AP morning/NN the/AT Caravan/NP was/BEDZ out/IN of/IN the/AT treacherous/JJ Bay/NN ./pct
 Relieved/VBN of/IN the/AT major/JJ part/NN of/IN his/PPg responsibility/NN for/IN the/AT safety/NN of/IN the/AT ship/NN ,/pct the/AT pilot's/NNg oaths/NNS became/VBD fewer/AP ./pct
 Slowly/RB she/PPS moved/VBD up/IN the/AT Hooghli/NP River/NN ,/pct a/AT mouth/NN of/IN the/AT mighty/JJ Ganges/NP ,/pct toward/IN Calcutta/NP ./pct

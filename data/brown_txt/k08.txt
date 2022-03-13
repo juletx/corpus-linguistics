@@ -31,41 +31,41 @@ His/PPg operatic/JJ music/NN had/HVD little/AP merit/NN ./pct
 But/CC then/RB one/CD day/NN ,/pct while/CS on/IN a/AT week's/NNg visit/NN to/IN the/AT country/NN home/NN of/IN a/AT retired/VBN Swiss/JJ jeweler/NN ,/pct Rousseau/NP amused/VBD the/AT company/NN with/IN a/AT few/AP little/JJ melodies/NNS he/PPS had/HVD written/VBN ,/pct to/IN which/WDT he/PPS attached/VBD no/AT great/JJ importance/NN ./pct
 He/PPS was/BEDZ really/QL amazed/VBN to/TO discover/VB the/AT other/AP guests/NNS so/QL excited/VBN about/IN these/DTS delicate/JJ little/JJ songs/NNS ./pct
 ``/pct Put/VB a/AT few/AP such/JJ songs/NNS together/RB ''/pct ,/pct they/PPSS urged/VBD him/PPO ./pct
-``/pct String/VB them/PPO onto/IN some/DTI sort/NN of/IN little/JJ plot/NN ,/pct and/CC you'll /None have/HV a/AT delightful/JJ operetta/NN ''/pct ./pct
-He/PPS didn't /None believe/VB them/PPO ./pct
+``/pct String/VB them/PPO onto/IN some/DTI sort/NN of/IN little/JJ plot/NN ,/pct and/CC you'll/PPSSMD have/HV a/AT delightful/JJ operetta/NN ''/pct ./pct
+He/PPS didn't/DOD* believe/VB them/PPO ./pct
 ``/pct Nonsense/NN ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct This/DT is/BEZ the/AT sort/NN of/IN stuff/NN I/PPSS write/VB and/CC then/RB throw/VB away/RB ''/pct !/pct !/pct
 ``/pct Heaven/NN forbid/VB ''/pct !/pct !/pct
 Cried/VBD the/AT ladies/NNS ,/pct enchanted/VBN by/IN his/PPg music/NN ./pct
 ``/pct You/PPSS must/MD make/VB an/AT opera/NN out/RP of/IN this/DT material/NN ''/pct ./pct
-And/CC they/PPSS wouldn't /None leave/VB off/RP arguing/VBG and/CC pleading/VBG until/CS he/PPS had/HVD promised/VBN ./pct
+And/CC they/PPSS wouldn't/MD* leave/VB off/RP arguing/VBG and/CC pleading/VBG until/CS he/PPS had/HVD promised/VBN ./pct
 Oh/UH ,/pct the/AT irony/NN and/CC the/AT bitterness/NN of/IN it/PPO !/pct !/pct
 That/CS after/IN all/ABN his/PPg years/NNS of/IN effort/NN to/TO become/VB a/AT composer/NN ,/pct he/PPS should/MD now/RB ,/pct now/RB when/WRB he/PPS was/BEDZ still/RB stoutly/RB replying/VBG to/IN the/AT critics/NNS of/IN his/PPg Discourse/NN on/IN the/AT Arts/NNS and/CC Sciences/NNS ,/pct be/BE so/QL close/RB to/IN a/AT success/NN in/IN music/NN and/CC have/HV to/TO reject/VB it/PPO ./pct
 Or/CC at/IN least/AP appear/VB to/TO reject/VB it/PPO !/pct !/pct
 But/CC what/WDT else/RB could/MD he/PPS do/DO ?/pct ?/pct
-You/PPSS couldn't /None on/IN the/AT one/CD hand/NN decry/VB the/AT arts/NNS and/CC at/IN the/AT same/AP time/NN practice/VB them/PPO ,/pct could/MD you/PPO ?/pct ?/pct
-Well/UH ,/pct yes/RB ,/pct perhaps/RB in/IN literature/NN ,/pct since/CS you/PPSS could/MD argue/VB that/CS you/PPSS couldn't /None keep/VB silent/JJ about/IN your/PPg feelings/NNS against/IN literature/NN and/CC so/RB were/BED involved/VBN in/IN spite/NN of/IN yourself/PPL ./pct
+You/PPSS couldn't/MD* on/IN the/AT one/CD hand/NN decry/VB the/AT arts/NNS and/CC at/IN the/AT same/AP time/NN practice/VB them/PPO ,/pct could/MD you/PPO ?/pct ?/pct
+Well/UH ,/pct yes/RB ,/pct perhaps/RB in/IN literature/NN ,/pct since/CS you/PPSS could/MD argue/VB that/CS you/PPSS couldn't/MD* keep/VB silent/JJ about/IN your/PPg feelings/NNS against/IN literature/NN and/CC so/RB were/BED involved/VBN in/IN spite/NN of/IN yourself/PPL ./pct
 But/CC now/RB music/NN too/RB ?/pct ?/pct
 No/RB ./pct
 That/DT would/MD be/BE too/QL much/AP !/pct !/pct
 And/CC the/AT fault/NN ,/pct of/IN course/NN ,/pct was/BEDZ Rameau's/NPg ./pct
 The/AT fault/NN was/BEDZ Rameau's/NPg and/CC that/DT of/IN the/AT whole/JJ culture/NN of/IN this/DT Parisian/JJ age/NN ./pct
-For/CS it/PPS was/BEDZ Rameau's/NPg type/NN of/IN music/NN that/WPO he/PPS had/HVD been/BEN trying/VBG to/TO write/VB ,/pct and/CC that/WPO he/PPS couldn't /None write/VB ./pct
+For/CS it/PPS was/BEDZ Rameau's/NPg type/NN of/IN music/NN that/WPO he/PPS had/HVD been/BEN trying/VBG to/TO write/VB ,/pct and/CC that/WPO he/PPS couldn't/MD* write/VB ./pct
 These/DTS little/JJ songs/NNS ,/pct however/RB ,/pct were/BED sweet/JJ nothings/NNS from/IN the/AT heart/NN ,/pct tender/JJ memories/NNS of/IN his/PPg childhood/NN ,/pct little/JJ melodies/NNS that/WPO anyone/PN could/MD hum/VB and/CC that/WPS would/MD make/VB one/PN want/VB to/TO weep/VB ./pct
 But/CC no/RB ./pct
-He/PPS couldn't /None appear/VB as/CS a/AT composer/NN now/RB ./pct
+He/PPS couldn't/MD* appear/VB as/CS a/AT composer/NN now/RB ./pct
 That/DT glory/NN ,/pct craved/VBN for/IN so/QL long/RB ,/pct was/BEDZ now/RB forbidden/VBN to/IN him/PPO ./pct
 Still/RB ,/pct just/RB for/IN the/AT ladies/NNS ,/pct and/CC just/RB for/IN this/DT once/RB ,/pct for/IN this/DT one/CD weekend/NN in/IN the/AT country/NN ,/pct he/PPS would/MD make/VB a/AT little/JJ piece/NN out/RP of/IN his/PPg melodies/NNS ./pct
 The/AT ladies/NNS were/BED delighted/VBN and/CC Jean/NP Jacques/NP was/BEDZ applauded/VBN ./pct
 And/CC everyone/PN went/VBD to/IN work/NN to/TO learn/VB the/AT parts/NNS which/WDT he/PPS wrote/VBD ./pct
 But/CC then/RB ,/pct after/CS the/AT little/JJ operetta/NN had/HVD been/BEN given/VBN its/PPg feeble/JJ amateur/NN rendering/NN ,/pct everyone/PN insisted/VBD that/CS it/PPS was/BEDZ too/QL good/JJ to/TO be/BE lost/VBN forever/RB ,/pct and/CC that/CS the/AT Royal/JJ Academy/NN of/IN Music/NN must/MD now/RB have/HV the/AT manuscript/NN in/IN order/NN to/TO give/VB it/PPO the/AT really/QL first-rate/JJ performance/NN it/PPS merited/VBD ./pct
 Rousseau/NP was/BEDZ aware/JJ that/CS he/PPS must/MD seem/VB like/CS a/AT hypocrite/NN ,/pct standing/VBG there/RB and/CC arguing/VBG that/CS he/PPS could/MD not/NEG possibly/RB permit/VB a/AT public/JJ performance/NN ./pct
-The/AT ladies/NNS especially/RB couldn't /None understand/VB what/WDT troubled/VBD him/PPO ./pct
+The/AT ladies/NNS especially/RB couldn't/MD* understand/VB what/WDT troubled/VBD him/PPO ./pct
 A/AT contradiction/NN ?/pct ?/pct
 Bah/UH ,/pct what/WDT was/BEDZ a/AT contradiction/NN in/IN one's/PNg life/NN ?/pct ?/pct
 Every/AT woman/NN has/HVZ had/HVN the/AT experience/NN of/IN saying/VBG no/RB when/WRB she/PPS meant/VBD yes/RB ,/pct and/CC saying/VBG yes/RB when/WRB she/PPS meant/VBD no/RB ./pct
-Rousseau/NP had/HVD to/TO admit/VB that/CS though/CS he/PPS couldn't /None agree/VB to/IN a/AT public/JJ performance/NN ,/pct he/PPS would/MD indeed/RB ,/pct just/RB for/IN his/PPg own/JJ private/JJ satisfaction/NN ,/pct dearly/RB love/VB to/TO know/VB how/WRB his/PPg work/NN would/MD sound/VB when/WRB done/VBN by/IN professional/JJ musicians/NNS and/CC by/IN trained/VBN voices/NNS ./pct
-``/pct I'd /None simply/RB like/VB to/TO know/VB if/CS it/PPS is/BEZ as/QL good/JJ as/CS you/PPSS kind/JJ people/NNS seem/VB to/TO think/VB ''/pct ,/pct he/PPS said/VBD ./pct
+Rousseau/NP had/HVD to/TO admit/VB that/CS though/CS he/PPS couldn't/MD* agree/VB to/IN a/AT public/JJ performance/NN ,/pct he/PPS would/MD indeed/RB ,/pct just/RB for/IN his/PPg own/JJ private/JJ satisfaction/NN ,/pct dearly/RB love/VB to/TO know/VB how/WRB his/PPg work/NN would/MD sound/VB when/WRB done/VBN by/IN professional/JJ musicians/NNS and/CC by/IN trained/VBN voices/NNS ./pct
+``/pct I'd/PPSSMD simply/RB like/VB to/TO know/VB if/CS it/PPS is/BEZ as/QL good/JJ as/CS you/PPSS kind/JJ people/NNS seem/VB to/TO think/VB ''/pct ,/pct he/PPS said/VBD ./pct
 Duclos/NP ,/pct the/AT historian/NN ,/pct pointed/VBD out/RP to/IN Jean/NP Jacques/NP that/CS this/DT was/BEDZ impossible/JJ ./pct
 The/AT musicians/NNS of/IN the/AT Royal/JJ Opera/NN would/MD not/NEG rehearse/VB a/AT work/NN merely/RB to/TO see/VB how/WRB it/PPS would/MD sound/VB ./pct
 Merely/RB to/TO satisfy/VB the/AT author's/NNg curiosity/NN ./pct
@@ -105,18 +105,18 @@ He/PPS felt/VBD himself/PPL now/RB ,/pct as/CS he/PPS himself/PPL says/VBZ in/IN
 And/CC that/DT was/BEDZ why/WRB ,/pct on/IN the/AT day/NN of/IN the/AT performance/NN ,/pct when/WRB a/AT carriage/NN from/IN the/AT royal/JJ stables/NNS called/VBD to/TO take/VB him/PPO to/IN the/AT palace/NN ,/pct he/PPS did/DOD not/NEG bother/VB to/TO shave/VB ./pct
 On/IN the/AT contrary/JJ ,/pct he/PPS was/BEDZ pleased/VBN that/CS his/PPg face/NN showed/VBD a/AT neglect/NN of/IN several/AP days/NNS ./pct
 Seeing/VBG him/PPO in/IN that/DT condition/NN ,/pct and/CC about/RB to/TO enter/VB the/AT hall/NN where/WRB the/AT King/NN ,/pct the/AT Queen/NN ,/pct the/AT whole/JJ royal/JJ family/NN and/CC all/ABN the/AT members/NNS of/IN the/AT highest/JJT aristocracy/NN would/MD be/BE present/RB ,/pct Grimm/NP and/CC the/AT Abbe/NP Raynal/NP and/CC others/NNS tried/VBD to/TO stop/VB him/PPO ./pct
-``/pct You/PPSS can't /None go/VB in/RP that/DT way/NN ''/pct !/pct !/pct
+``/pct You/PPSS can't/MD* go/VB in/RP that/DT way/NN ''/pct !/pct !/pct
 They/PPSS cried/VBD ./pct
 ``/pct Why/WRB not/NEG ''/pct ?/pct ?/pct
 Jean/NP Jacques/NP asked/VBD ./pct
 ``/pct Who/WPS is/BEZ going/VBG to/TO stop/VB me/PPO ''/pct ?/pct ?/pct
-``/pct You/PPSS haven't /None dressed/VBN for/IN the/AT occasion/NN ''/pct !/pct !/pct
+``/pct You/PPSS haven't/HV* dressed/VBN for/IN the/AT occasion/NN ''/pct !/pct !/pct
 They/PPSS pointed/VBD out/RP to/IN him/PPO ./pct
-``/pct I'm /None dressed/VBN as/CS I/PPSS always/RB am/BEM ''/pct ,/pct Rousseau/NP said/VBD ./pct
+``/pct I'm/PPSSBEM dressed/VBN as/CS I/PPSS always/RB am/BEM ''/pct ,/pct Rousseau/NP said/VBD ./pct
 ``/pct Neither/CC better/RBR nor/CC worse/RBR ''/pct ./pct
 ``/pct At/IN home/NN ,/pct yes/RB ''/pct ,/pct they/PPSS argued/VBD ./pct
 ``/pct But/CC here/RB you/PPSS are/BER in/IN the/AT palace/NN ./pct
-There's /None the/AT King/NN ./pct
+There's/RBBEZ the/AT King/NN ./pct
 And/CC Madame/NP De/NP Pompadour/NP ''/pct ./pct
 ``/pct If/CS they/PPSS are/BER here/RB ,/pct then/RB surely/RB I/PPSS have/HV the/AT right/NN to/TO be/BE here/RB ''/pct ,/pct Rousseau/NP said/VBD ./pct
 ``/pct And/CC even/QL more/AP right/NN ./pct
@@ -128,12 +128,12 @@ Rousseau/NP asked/VBD ./pct
 Surely/RB it/PPS would/MD grow/VB there/RB whether/CS I/PPSS washed/VBD myself/PPL or/CC not/NEG ./pct
 A/AT hundred/CD years/NNS ago/RB I/PPSS would/MD have/HV worn/VBN a/AT beard/NN with/IN pride/NN ./pct
 And/CC those/DTS without/IN beards/NNS would/MD have/HV stood/VBN out/RP as/CS not/NEG dressed/VBN for/IN the/AT occasion/NN ./pct
-Now/RB times/NNS have/HV changed/VBN ,/pct and/CC I/PPSS must/MD pretend/VB that/CS hair/NN doesn't /None grow/VB on/IN my/PPg face/NN ./pct
-That's /None the/AT fashion/NN ./pct
+Now/RB times/NNS have/HV changed/VBN ,/pct and/CC I/PPSS must/MD pretend/VB that/CS hair/NN doesn't/DOZ* grow/VB on/IN my/PPg face/NN ./pct
+That's/DTBEZ the/AT fashion/NN ./pct
 And/CC fashion/NN is/BEZ the/AT real/JJ king/NN here/RB ./pct
 Not/NEG Louis/NP 15/CD ,/pct ,/pct since/CS even/RB he/PPS obeys/VBZ ./pct
-Now/RB ,/pct if/CS you/PPSS don't /None mind/VB ,/pct I/PPSS should/MD like/VB to/TO hear/VB my/PPg own/JJ piece/NN performed/VBN ''/pct ./pct
-But/CC of/IN course/NN behind/IN his/PPg boldness/NN he/PPS didn't /None feel/VB bold/JJ at/IN all/ABN ./pct
+Now/RB ,/pct if/CS you/PPSS don't/DO* mind/VB ,/pct I/PPSS should/MD like/VB to/TO hear/VB my/PPg own/JJ piece/NN performed/VBN ''/pct ./pct
+But/CC of/IN course/NN behind/IN his/PPg boldness/NN he/PPS didn't/DOD* feel/VB bold/JJ at/IN all/ABN ./pct
 He/PPS trembled/VBD lest/CS his/PPg piece/NN should/MD fail/VB ./pct
 And/CC this/DT in/IN addition/NN to/IN his/PPg usual/JJ fear/NN of/IN being/BEG among/IN people/NNS of/IN high/JJ society/NN ,/pct his/PPg fear/NN of/IN making/VBG some/DTI inane/JJ or/CC inappropriate/JJ remark/NN ./pct
 And/CC even/QL deeper/JJR than/CS that/DT :/pct his/PPg fear/NN lest/CS in/IN this/DT closed/VBN hall/NN he/PPS should/MD suddenly/RB itch/VB to/TO relieve/VB himself/PPL ./pct

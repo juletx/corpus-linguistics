@@ -9,7 +9,7 @@ The/AT concept/NN of/IN trans-illumination/NN (/pct as/CS shown/VBN by/IN the/AT
 A/AT volume/NN market/NN
 According/IN to/IN a/AT recent/JJ Wall/NN Street/NN Journal/NN survey/NN ,/pct plastics/NNS units/NNS now/RB account/VB for/IN more/AP than/IN 50%/NN of/IN all/ABN sign/NN sales/NNS ./pct
 Five/CD years/NNS ago/RB ,/pct they/PPSS had/HVD only/RB 10%/NN of/IN the/AT market/NN ,/pct with/IN the/AT remainder/NN firmly/RB entrenched/VBN in/IN the/AT stronghold/NN of/IN neon/NN tubing/NN ./pct
-And/CC it's /None far/QL from/IN the/AT end/NN for/IN plastics/NNS ./pct
+And/CC it's/PPSBEZ far/QL from/IN the/AT end/NN for/IN plastics/NNS ./pct
 Industry/NN sources/NNS are/BER now/RB estimating/VBG that/CS 75%/NN of/IN the/AT signs/NNS made/VBN during/IN the/AT 1960's/NNS will/MD be/BE of/IN plastic/NN construction/NN ./pct
 Evidence/NN of/IN this/DT trend/NN can/MD best/RBT be/BE seen/VBN in/IN the/AT recent/JJ activities/NNS of/IN such/JJ leading/VBG companies/NNS in/IN the/AT field/NN as/CS Advance/NN Neon/NN Sign/NN Co./NN ,/pct Los/NP Angeles/NP ,/pct Calif./NP ./pct
 Four/CD years/NNS ago/RB ,/pct the/AT company's/NNg entire/JJ line/NN was/BEDZ devoted/VBN to/IN neon/NN signs/NNS ;/pct ;/pct
@@ -62,7 +62,7 @@ Trans-illuminated/JJ billboards/NNS
 One/CD of/IN the/AT most/QL significant/JJ advancements/NNS in/IN design/NN of/IN plastics/NNS signs/NNS is/BEZ the/AT so-called/JJ trans-illuminated/JJ billboard/NN ,/pct now/RB being/BEG produced/VBN by/IN several/AP large/JJ sign/NN manufacturers/NNS such/JJ as/CS Advance/NN Neon/NN Sign/NN Co./NN ,/pct Los/NP Angeles/NP ,/pct and/CC Industrial/JJ Electric/JJ Inc./VBN ,/pct New/JJ Orleans/NP ,/pct La./NP ./pct
 The/AT essential/JJ difference/NN between/IN the/AT new/JJ trans-illuminated/JJ boards/NNS and/CC existing/VBG billboards/NNS is/BEZ that/CS the/AT former/AP ,/pct constructed/VBN of/IN translucent/JJ plastic/NN panels/NNS ,/pct are/BER lighted/VBN from/IN within/RB ./pct
 With/IN the/AT source/NN of/IN light/NN behind/IN the/AT copy/NN ,/pct there/EX is/BEZ no/AT loss/NN of/IN lumen/NN output/NN ,/pct as/CS with/IN conventional/JJ boards/NNS illuminated/VBN by/IN means/NN of/IN reflected/VBN light/NN ./pct
-Also/RB ,/pct the/AT light/NN sources/NNS are/BER shielded/VBN from/IN dirt/NN and/CC weather/NN exposure/NN and/CC cannot /None obstruct/VB the/AT view/NN of/IN the/AT sign/NN ./pct
+Also/RB ,/pct the/AT light/NN sources/NNS are/BER shielded/VBN from/IN dirt/NN and/CC weather/NN exposure/NN and/CC cannot/MD* obstruct/VB the/AT view/NN of/IN the/AT sign/NN ./pct
 The/AT copy/NN itself/PPL ,/pct including/IN any/DTI text/NN or/CC illustrations/NNS ,/pct is/BEZ reproduced/VBN in/IN full/JJ color/NN directly/RB on/IN a/AT thin/JJ Mylar/NP polyester/NN film/NN by/IN a/AT photo/NN screen/NN process/NN ./pct
 The/AT film/NN has/HVZ an/AT adhesive/NN on/IN the/AT back/NN which/WDT permits/VBZ it/PPO to/TO be/BE stripped/VBN onto/IN the/AT acrylic/NN panels/NNS forming/VBG the/AT sign/NN ,/pct and/CC also/RB to/TO be/BE stripped/VBN off/RP for/IN replacement/NN by/IN new/JJ copy/NN as/CS required/VBN ./pct
 Spare/JJ sets/NNS of/IN face/NN panels/NNS simplify/VB the/AT change/NN from/IN one/CD copy/NN or/CC message/NN to/IN another/DT ;/pct ;/pct
@@ -78,7 +78,7 @@ In/IN this/DT way/NN ,/pct the/AT sign/NN maker/NN has/HVZ an/AT economical/JJ m
 Recently/RB Industrial/JJ Electric/NN unveiled/VBD another/DT new/JJ development/NN made/VBN possible/JJ by/IN modern/JJ plastic/NN materials/NNS --/pct a/AT revolving/VBG spectacular/JJ sign/NN ./pct
 Comprised/VBN of/IN 16/CD triangular/JJ trans-illuminated/JJ plastic/NN sections/NNS ,/pct it/PPS makes/VBZ it/PPO possible/JJ to/TO combine/VB three/CD different/JJ signs/NNS in/IN a/AT single/AP unit/NN ./pct
 The/AT triangles/NNS automatically/RB revolve/VB in/IN a/AT cycle/NN which/WDT permits/VBZ 9/CD sec./NNS of/IN viewing/VBG time/NN for/IN each/DT poster/NN subject/NN ./pct
-Sixteen/CD panels/NNS ,/pct each/DT slightly/QL more/AP than/IN 1-1/2/CD ft./NNS wide/JJ ,/pct make/VB up/RP the/AT 25-ft./JJ length/NN of/IN the/AT sign/NN ./pct
+Sixteen/CD panels/NNS ,/pct each/DT slightly/QL more/AP than/IN 1-1:2/CD ft./NNS wide/JJ ,/pct make/VB up/RP the/AT 25-ft./JJ length/NN of/IN the/AT sign/NN ./pct
 Changeable/JJ letters/NNS fill/VB many/AP needs/NNS
 Perhaps/RB the/AT best/JJT way/NN to/TO indicate/VB the/AT versatility/NN of/IN design/NN that/WPS characterizes/VBZ the/AT use/NN of/IN plastics/NNS in/IN signs/NNS and/CC displays/NNS would/MD be/BE to/TO look/VB at/IN what/WDT is/BEZ happening/VBG in/IN only/RB one/CD of/IN the/AT areas/NNS in/IN this/DT complex/JJ field/NN --/pct changeable/JJ signs/NNS ./pct
 Signs/NNS are/BER meant/VBN to/TO convey/VB a/AT message/NN ,/pct and/CC in/IN most/AP cases/NNS ,/pct this/DT requires/VBZ words/NNS and/CC letters/NNS ./pct

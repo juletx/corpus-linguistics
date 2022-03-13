@@ -1,15 +1,15 @@
 It/PPS would/MD have/HV killed/VBN you/PPO in/IN the/AT cabin/NN ./pct
 Do/DO you/PPO have/HV anything/PN for/IN me/PPO ''/pct ?/pct ?/pct
-Mercer/NP stammered/VBD ,/pct not/NEG knowing/VBG what/WDT B'dikkat/NP meant/VBD ,/pct and/CC the/AT two-nosed/JJ man/NN answered/VBD for/IN him/PPO ,/pct ``/pct I/PPSS think/VB he/PPS has/HVZ a/AT nice/JJ baby/NN head/NN ,/pct but/CC it/PPS isn't /None big/JJ enough/QLP for/IN you/PPO to/TO take/VB yet/RB ''/pct ./pct
+Mercer/NP stammered/VBD ,/pct not/NEG knowing/VBG what/WDT B'dikkat/NP meant/VBD ,/pct and/CC the/AT two-nosed/JJ man/NN answered/VBD for/IN him/PPO ,/pct ``/pct I/PPSS think/VB he/PPS has/HVZ a/AT nice/JJ baby/NN head/NN ,/pct but/CC it/PPS isn't/BEZ* big/JJ enough/QLP for/IN you/PPO to/TO take/VB yet/RB ''/pct ./pct
 Mercer/NP never/RB noticed/VBD the/AT needle/NN touch/NN his/PPg arm/NN ./pct
 B'dikkat/NP had/HVD turned/VBN to/IN the/AT next/AP knot/NN of/IN people/NNS when/WRB the/AT super-condamine/NN hit/VBD Mercer/NP ./pct
 He/PPS tried/VBD to/TO run/VB after/IN B'dikkat/NP ,/pct to/TO hug/VB the/AT lead/NN spacesuit/NN ,/pct to/TO tell/VB B'dikkat/NP that/CS he/PPS loved/VBD him/PPO ./pct
 He/PPS stumbled/VBD and/CC fell/VBD ,/pct but/CC it/PPS did/DOD not/NEG hurt/VB ./pct
 The/AT many-bodied/JJ girl/NN lay/VBD near/IN him/PPO ./pct
 Mercer/NP spoke/VBD to/IN her/PPO ./pct
-``/pct Isn't /None it/PPS wonderful/JJ ?/pct ?/pct
-You're /None beautiful/JJ ,/pct beautiful/JJ ,/pct beautiful/JJ ./pct
-I'm /None so/QL happy/JJ to/TO be/BE here/RB ''/pct ./pct
+``/pct Isn't/BEZ* it/PPS wonderful/JJ ?/pct ?/pct
+You're/PPSSBER beautiful/JJ ,/pct beautiful/JJ ,/pct beautiful/JJ ./pct
+I'm/PPSSBEM so/QL happy/JJ to/TO be/BE here/RB ''/pct ./pct
 The/AT woman/NN covered/VBN with/IN growing/VBG hands/NNS came/VBD and/CC sat/VBD beside/IN them/PPO ./pct
 She/PPS radiated/VBD warmth/NN and/CC good/JJ fellowship/NN ./pct
 Mercer/NP thought/VBD that/CS she/PPS looked/VBD very/QL distinguished/VBN and/CC charming/JJ ./pct
@@ -19,7 +19,7 @@ The/AT two/CD women/NNS babbled/VBD and/CC crooned/VBD at/IN him/PPO ./pct
 With/IN one/CD corner/NN of/IN his/PPg mind/NN he/PPS knew/VBD that/CS they/PPSS were/BED saying/VBG nothing/PN ,/pct just/RB expressing/VBG the/AT euphoria/NN of/IN a/AT drug/NN so/QL powerful/JJ that/CS the/AT known/VBN universe/NN had/HVD forbidden/VBN it/PPO ./pct
 With/IN most/AP of/IN his/PPg mind/NN he/PPS was/BEDZ happy/JJ ./pct
 He/PPS wondered/VBD how/WRB anyone/PN could/MD have/HV the/AT good/JJ luck/NN to/TO visit/VB a/AT planet/NN as/QL nice/JJ as/CS this/DT ./pct
-He/PPS tried/VBD to/TO tell/VB the/AT Lady/NN Da/NP ,/pct but/CC the/AT words/NNS weren't /None quite/QL straight/RB ./pct
+He/PPS tried/VBD to/TO tell/VB the/AT Lady/NN Da/NP ,/pct but/CC the/AT words/NNS weren't/BED* quite/QL straight/RB ./pct
 A/AT painful/JJ stab/NN hit/VBD him/PPO in/IN the/AT abdomen/NN ./pct
 The/AT drug/NN went/VBD after/IN the/AT pain/NN and/CC swallowed/VBD it/PPO ./pct
 It/PPS was/BEDZ like/CS the/AT cap/NN in/IN the/AT hospital/NN ,/pct only/RB a/AT thousand/CD times/NNS better/RBR ./pct
@@ -29,7 +29,7 @@ He/PPS rammed/VBD his/PPg mind/NN into/IN focus/NN and/CC said/VBD to/IN the/AT 
 Maybe/RB I/PPSS will/MD grow/VB another/DT head/NN ./pct
 That/DT would/MD make/VB B'dikkat/NP happy/JJ ''/pct !/pct !/pct
 The/AT Lady/NN Da/NP forced/VBD the/AT foremost/JJS of/IN her/PPO bodies/NNS in/IN an/AT upright/NN position/NN ./pct
-Said/VBN she/PPS ,/pct ``/pct I'm /None strong/JJ ,/pct too/RB ./pct
+Said/VBN she/PPS ,/pct ``/pct I'm/PPSSBEM strong/JJ ,/pct too/RB ./pct
 I/PPSS can/MD talk/VB ./pct
 Remember/VB ,/pct man/NN ,/pct remember/VB ./pct
 People/NNS never/RB live/VB forever/RB ./pct
@@ -37,7 +37,7 @@ We/PPSS can/MD die/VB ,/pct too/RB ,/pct we/PPSS can/MD die/VB like/CS real/JJ p
 I/PPSS do/DO so/RB believe/VB in/IN death/NN ''/pct !/pct !/pct
 Mercer/NP smiled/VBD at/IN her/PPO through/IN his/PPg happiness/NN ./pct
 ``/pct Of/IN course/NN you/PPSS can/MD ./pct
-But/CC isn't /None this/DT nice/JJ ''/pct
+But/CC isn't/BEZ* this/DT nice/JJ ''/pct
 With/IN this/DT he/PPS felt/VBD his/PPg lips/NNS thicken/VB and/CC his/PPg mind/VB go/VB slack/JJ ./pct
 He/PPS was/BEDZ wide/JJ awake/RB ,/pct but/CC he/PPS did/DOD not/NEG feel/VB like/CS doing/VBG anything/PN ./pct
 In/IN that/QL beautiful/JJ place/NN ,/pct among/IN all/ABN those/DTS companionable/JJ and/CC attractive/JJ people/NNS ,/pct he/PPS sat/VBD and/CC smiled/VBD ./pct
@@ -67,7 +67,7 @@ The/AT half-man/NN lay/VBD on/IN the/AT ground/NN ,/pct arteries/NNS pulsating/V
 Mercer/NP squeezed/VBD the/AT man's/NNg shoulder/NN ./pct
 The/AT half-man/NN woke/VBD ,/pct recognized/VBD Mercer/NP and/CC gave/VBD him/PPO a/AT healthily/RB sleepy/JJ grin/NN ./pct
 ``/pct '/pct A/AT good/JJ morrow/NN to/IN you/PPO ,/pct my/PPg boy/NN ./pct
-That's /None out/IN of/IN a/AT play/NN ./pct
+That's/DTBEZ out/IN of/IN a/AT play/NN ./pct
 Did/DOD you/PPSS ever/RB see/VB a/AT play/NN ''/pct ?/pct ?/pct
 ``/pct You/PPSS mean/VB a/AT game/NN with/IN cards/NNS ''/pct ?/pct ?/pct
 ``/pct No/RB ''/pct ,/pct said/VBD the/AT half-man/NN ,/pct ``/pct a/AT sort/NN of/IN eye-machine/NN with/IN real/JJ people/NNS doing/VBG the/AT figures/NNS ''/pct ./pct
@@ -75,21 +75,21 @@ Did/DOD you/PPSS ever/RB see/VB a/AT play/NN ''/pct ?/pct ?/pct
 ``/pct But/CC you/PPSS want/VB to/TO ask/VB me/PPO when/WRB B'dikkat/NP is/BEZ going/VBG to/TO come/VB back/RB with/IN the/AT needle/NN ''/pct ./pct
 ``/pct Yes/RB ''/pct ,/pct said/VBD Mercer/NP ,/pct a/AT little/AP ashamed/JJ of/IN his/PPg obviousness/NN ./pct
 ``/pct Soon/RB ''/pct ,/pct said/VBD the/AT half-man/NN ./pct
-That's /None why/WRB I/PPSS think/VB of/IN plays/NNS ./pct
+That's/DTBEZ why/WRB I/PPSS think/VB of/IN plays/NNS ./pct
 We/PPSS all/ABN know/VB what/WDT is/BEZ going/VBG to/TO happen/VB ./pct
 We/PPSS all/ABN know/VB when/WRB it/PPS is/BEZ going/VBG to/TO happen/VB ./pct
 We/PPSS all/ABN know/VB what/WDT the/AT dummies/NNS will/MD do/DO ''/pct --/pct he/PPS gestured/VBD at/IN the/AT hummocks/NNS in/IN which/WDT the/AT decorticated/VBN men/NNS were/BED cradled/VBN --/pct ``/pct and/CC we/PPSS all/ABN know/VB what/WDT the/AT new/JJ people/NNS will/MD ask/VB ./pct
 But/CC we/PPSS never/RB know/VB how/WRB long/JJ a/AT scene/NN is/BEZ going/VBG to/TO take/VB ''/pct ./pct
-``/pct What's /None a/AT '/pct scene/NN '/pct ''/pct ?/pct ?/pct
+``/pct What's/WDTBEZ a/AT '/pct scene/NN '/pct ''/pct ?/pct ?/pct
 Asked/VBN Mercer/NP ./pct
 ``/pct Is/BEZ that/CS the/AT name/NN for/IN the/AT needle/NN ''/pct ?/pct ?/pct
 The/AT half-man/NN laughed/VBD with/IN something/PN close/RB to/IN real/JJ humor/NN ./pct
 ``/pct No/RB ,/pct no/RB ,/pct no/RB ./pct
-You've /None got/VBN the/AT lovelies/NNS on/IN the/AT brain/NN ./pct
+You've/PPSSHV got/VBN the/AT lovelies/NNS on/IN the/AT brain/NN ./pct
 A/AT scene/NN is/BEZ just/RB a/AT part/NN of/IN a/AT play/NN ./pct
-I/PPSS mean/VB we/PPSS know/VB the/AT order/NN in/IN which/WDT things/NNS happen/VB ,/pct but/CC we/PPSS have/HV no/AT clocks/NNS and/CC nobody/PN cares/VBZ enough/QLP to/TO count/VB days/NNS or/CC to/TO make/VB calendars/NNS and/CC there's /None not/NEG much/AP climate/NN here/RB ,/pct so/CS none/PN of/IN us/PPO know/VB how/WRB long/JJ anything/PN takes/VBZ ./pct
+I/PPSS mean/VB we/PPSS know/VB the/AT order/NN in/IN which/WDT things/NNS happen/VB ,/pct but/CC we/PPSS have/HV no/AT clocks/NNS and/CC nobody/PN cares/VBZ enough/QLP to/TO count/VB days/NNS or/CC to/TO make/VB calendars/NNS and/CC there's/EXBEZ not/NEG much/AP climate/NN here/RB ,/pct so/CS none/PN of/IN us/PPO know/VB how/WRB long/JJ anything/PN takes/VBZ ./pct
 The/AT pain/NN seems/VBZ short/JJ and/CC the/AT pleasure/NN seems/VBZ long/JJ ./pct
-I'm /None inclined/VBN to/TO think/VB that/CS they/PPSS are/BER about/IN two/CD Earth-weeks/NNS each/DT ''/pct ./pct
+I'm/PPSSBEM inclined/VBN to/TO think/VB that/CS they/PPSS are/BER about/IN two/CD Earth-weeks/NNS each/DT ''/pct ./pct
 Mercer/NP did/DOD not/NEG know/VB what/WDT an/AT ``/pct Earth-week/NN ''/pct was/BEDZ ,/pct since/CS he/PPS had/HVD not/NEG been/BEN a/AT well-read/JJ man/NN before/IN his/PPg conviction/NN ,/pct but/CC he/PPS got/VBD nothing/PN more/AP from/IN the/AT half-man/NN at/IN that/DT time/NN ./pct
 The/AT half-man/NN received/VBD a/AT dromozootic/JJ implant/NN ,/pct turned/VBD red/JJ in/IN the/AT face/NN ,/pct shouted/VBD senselessly/RB at/IN Mercer/NP ,/pct ``/pct Take/VB it/PPO out/RP ,/pct you/PPSS fool/NN !/pct !/pct
 Take/VB it/PPO out/IN of/IN me/PPO ''/pct !/pct !/pct

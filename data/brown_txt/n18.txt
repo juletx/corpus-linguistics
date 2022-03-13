@@ -60,17 +60,17 @@ There/EX was/BEDZ little/AP likelihood/NN of/IN any/DTI customers/NNS walking/VB
 I/PPSS was/BEDZ standing/VBG beside/IN her/PPO ,/pct watching/VBG the/AT outspread/VBN palms/NNS and/CC wondering/VBG about/IN the/AT old/JJ horsehair/NN sofa/NN against/IN the/AT wall/NN on/IN which/WDT he/PPS sometimes/RB napped/VBD ./pct
 I/PPSS bent/VBD and/CC kissed/VBD the/AT still/QL pink/JJ neck/NN and/CC suddenly/RB she/PPS jumped/VBD up/RP ,/pct and/CC her/PPg two/CD arms/NNS encircled/VBD me/PPO in/IN a/AT bear-like/JJ crush/NN ./pct
 Her/PPg mouth/NN ,/pct which/WDT had/HVD been/BEN so/QL much/RB in/IN my/PPg thoughts/NNS ,/pct was/BEDZ warm/JJ and/CC moist/JJ and/CC tender/JJ ./pct
-I/PPSS heard/VBD her/PPO murmur/VB ,/pct ``/pct We'd /None better/RBR lock/VB the/AT door/NN ''/pct ./pct
+I/PPSS heard/VBD her/PPO murmur/VB ,/pct ``/pct We'd/PPSSHVD better/RBR lock/VB the/AT door/NN ''/pct ./pct
 It/PPS did/DOD not/NEG take/VB me/PPO long/JJ to/TO slip/VB the/AT bolt/NN securely/RB and/CC return/VB to/IN the/AT rear/NN and/CC its/PPg couch/NN ./pct
 When/WRB we/PPSS opened/VBD the/AT door/NN again/RB for/IN business/NN and/CC switched/VBD on/RP the/AT lights/NNS she/PPS said/VBD :/pct
 ``/pct He/PPS will/MD not/NEG always/RB be/BE indisposed/VBN ''/pct ./pct
 ``/pct I/PPSS know/VB ./pct
 I/PPSS was/BEDZ thinking/VBG about/IN that/DT ./pct
 How/WRB will/MD we/PPSS work/VB it/PPO out/RP ''/pct ?/pct ?/pct
-``/pct I/PPSS don't /None know/VB ''/pct ,/pct she/PPS said/VBD ./pct
-``/pct You're /None the/AT man/NN ./pct
+``/pct I/PPSS don't/DO* know/VB ''/pct ,/pct she/PPS said/VBD ./pct
+``/pct You're/PPSSBER the/AT man/NN ./pct
 You/PPSS figure/VB it/PPO out/RP ./pct
-I've /None noticed/VBN the/AT way/NN you've /None been/BEN looking/VBG at/IN me/PPO ever/RB since/CS we/PPSS met/VBD ''/pct ./pct
+I've/PPSSHV noticed/VBN the/AT way/NN you've/PPSSHV been/BEN looking/VBG at/IN me/PPO ever/RB since/CS we/PPSS met/VBD ''/pct ./pct
 ``/pct I/PPSS guess/VB we/PPSS both/ABX felt/VBD it/PPO ''/pct ./pct
 I/PPSS said/VBD ./pct
 ``/pct I/PPSS guess/VB so/RB ''/pct ,/pct she/PPS said/VBD ./pct
@@ -82,12 +82,12 @@ She/PPS raised/VBD a/AT protesting/VBG hand/NN with/IN a/AT startled/VBN air/NN 
 ``/pct What/WDT are/BER you/PPSS trying/VBG to/TO do/DO ?/pct ?/pct
 Get/VB thrown/VBN out/RP ?/pct ?/pct
 If/CS I/PPSS even/RB hint/VB at/IN it/PPO do/DO you/PPO think/VB it/PPO will/MD matter/VB that/CS you/PPSS are/BER his/PPg nephew/NN --/pct and/CC not/NEG even/RB a/AT blood/NN nephew/NN ''/pct ?/pct ?/pct
-``/pct I/PPSS don't /None want/VB to/TO be/BE thrown/VBN out/RP and/CC I/PPSS don't /None think/VB I/PPSS will/MD ./pct
+``/pct I/PPSS don't/DO* want/VB to/TO be/BE thrown/VBN out/RP and/CC I/PPSS don't/DO* think/VB I/PPSS will/MD ./pct
 I/PPSS think/VB I/PPSS have/HV a/AT way/NN so/CS we/PPSS can/MD carry/VB on/RP without/IN his/PPg suspecting/VBG us/PPO ''/pct ./pct
 ``/pct By/IN telling/VBG him/PPO you/PPSS are/BER making/VBG passes/NNS at/IN me/PPO ''/pct ?/pct ?/pct
 She/PPS said/VBD incredulously/RB ./pct
 ``/pct When/WRB I/PPSS was/BEDZ in/IN college/NN ''/pct ,/pct I/PPSS grinned/VBD ,/pct ``/pct I/PPSS remember/VB a/AT poem/NN I/PPSS had/HVD to/TO read/VB in/IN my/PPg lit/NN class/NN ./pct
-I/PPSS don't /None even/RB remember/VB who/WPS wrote/VBD it/PPO but/CC it/PPS was/BEDZ one/CD of/IN those/DTS 15th/OD or/CC 16th/OD century/NN poets/NNS ./pct
+I/PPSS don't/DO* even/RB remember/VB who/WPS wrote/VBD it/PPO but/CC it/PPS was/BEDZ one/CD of/IN those/DTS 15th/OD or/CC 16th/OD century/NN poets/NNS ./pct
 In/IN those/DTS days/NNS poems/NNS often/RB told/VBD a/AT story/NN in/IN verse/NN and/CC those/DTS boys/NNS had/HVD some/DTI corkers/NNS to/TO tell/VB ;/pct ;/pct
 and/CC now/RB I/PPSS think/VB we/PPSS can/MD use/VB the/AT knowledge/NN they/PPSS passed/VBD on/RP to/IN us/PPO ./pct
 Tomorrow/NR Mardi/NP Gras/NP opens/VBZ officially/RB ./pct
@@ -100,11 +100,11 @@ You/PPSS are/BER both/ABX the/AT same/AP size/NN ./pct
 He/PPS could/MD use/VB your/PPg clothes/NNS for/IN a/AT costume/NN and/CC a/AT heavy/JJ veil/NN for/IN a/AT mask/NN ./pct
 When/WRB I/PPSS show/VB up/RP he/PPS will/MD know/VB you/PPSS are/BER a/AT good/JJ wife/NN to/TO have/HV told/VBN him/PPO about/IN it/PPO ''/pct ./pct
 ``/pct But/CC you/PPSS ''/pct --/pct she/PPS began/VBD ./pct
-``/pct Don't /None worry/VB about/IN me/PPO ./pct
+``/pct Don't/DO* worry/VB about/IN me/PPO ./pct
 It/PPS will/MD turn/VB out/RP all/QL right/RB ''/pct ./pct
-``/pct I/PPSS don't /None understand/VB ''/pct ,/pct she/PPS insisted/VBD ./pct
+``/pct I/PPSS don't/DO* understand/VB ''/pct ,/pct she/PPS insisted/VBD ./pct
 ``/pct Are/BER you/PPSS trying/VBG to/TO cut/VB your/PPg throat/NN ''/pct ?/pct ?/pct
-``/pct No/RB ''/pct ,/pct I/PPSS chuckled/VBD ,/pct ``/pct I'm /None just/RB beginning/VBG to/TO collect/VB dividends/NNS on/IN my/PPg investment/NN in/IN education/NN ''/pct ./pct
+``/pct No/RB ''/pct ,/pct I/PPSS chuckled/VBD ,/pct ``/pct I'm/PPSSBEM just/RB beginning/VBG to/TO collect/VB dividends/NNS on/IN my/PPg investment/NN in/IN education/NN ''/pct ./pct
 As/CS we/PPSS expected/VBD ,/pct on/IN the/AT following/VBG day/NN my/PPg Uncle/NN was/BEDZ completely/RB recovered/VBN and/CC opened/VBD the/AT store/NN as/QL usual/JJ at/IN 10/CD in/IN the/AT morning/NN ./pct
 I/PPSS felt/VBD that/CS he/PPS looked/VBD at/IN me/PPO coldly/RB and/CC appraisingly/RB and/CC seemed/VBD to/TO be/BE uncertain/JJ what/WDT his/PPg attitude/NN towards/IN me/PPO should/MD be/BE ,/pct but/CC he/PPS did/DOD not/NEG say/VB one/CD word/NN which/WDT might/MD indicate/VB that/CS he/PPS had/HVD been/BEN told/VBN of/IN advances/NNS to/IN his/PPg wife/NN ./pct
 I/PPSS quit/VB work/NN at/IN my/PPg usual/JJ hour/NN as/CS if/CS this/DT day/NN was/BEDZ no/RB different/JJ from/IN other/AP days/NNS ./pct

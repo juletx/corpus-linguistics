@@ -1,6 +1,6 @@
 Old/JJ ,/pct tired/JJ ,/pct trembling/VBG the/AT woman/NN came/VBD to/IN the/AT cannery/NN ./pct
 She/PPS had/HVD ,/pct she/PPS said/VBD ,/pct heard/VBN that/CS the/AT plant/NN was/BEDZ closing/VBG ./pct
-It/PPS couldn't /None close/VB ,/pct she/PPS said/VBD ./pct
+It/PPS couldn't/MD* close/VB ,/pct she/PPS said/VBD ./pct
 She/PPS had/HVD raised/VBN a/AT calf/NN ,/pct grown/VBN it/PPO beef-fat/NN ./pct
 She/PPS had/HVD ,/pct with/IN her/PPg own/JJ work-weary/JJ hands/NNS ,/pct put/VBN seeds/NNS in/IN the/AT ground/NN ,/pct watched/VBN them/PPO sprout/VB ,/pct bud/VB ,/pct blossom/VB ,/pct and/CC get/VB ready/JJ to/TO bear/VB ./pct
 She/PPS was/BEDZ ready/JJ to/TO kill/VB the/AT beef/NN ,/pct dress/VB it/PPO out/RP ,/pct and/CC with/IN vegetables/NNS from/IN her/PPO garden/NN was/BEDZ going/VBG to/TO can/VB soup/NN ,/pct broth/NN ,/pct hash/NN ,/pct and/CC stew/NN against/IN the/AT winter/NN ./pct
@@ -10,7 +10,7 @@ Nor/CC in/IN South/JJ Georgia/NP ,/pct where/WRB the/AT summer/NN sun/NN shines/
 This/DT happened/VBD in/IN Decatur/NP ,/pct DeKalb/NP County/NN ,/pct not/NEG 10/CD miles/NNS from/IN the/AT heart/NN of/IN metropolitian/JJ Atlanta/NP ./pct
 And/CC now/RB ,/pct the/AT woman/NN ,/pct tired/JJ and/CC trembling/VBG ,/pct came/VBD here/RB to/IN the/AT DeKalb/NP County/NN cannery/NN ./pct
 ``/pct Is/BEZ it/PPS so/RB the/AT cannery/NN is/BEZ going/VBG to/TO close/VB ''/pct ?/pct ?/pct
-O./NP N./NP Moss/NP ,/pct 61/CD ,/pct tall/JJ ,/pct grey/JJ as/CS a/AT possum/NN ,/pct canning/VBG plant/NN chief/NN since/IN 1946/CD ,/pct didn't /None know/VB what/WDT to/TO say/VB ./pct
+O./NP N./NP Moss/NP ,/pct 61/CD ,/pct tall/JJ ,/pct grey/JJ as/CS a/AT possum/NN ,/pct canning/VBG plant/NN chief/NN since/IN 1946/CD ,/pct didn't/DOD* know/VB what/WDT to/TO say/VB ./pct
 He/PPS did/DOD say/VB she/PPS could/MD get/VB her/PPg beef/NN and/CC vegetables/NNS in/IN cans/NNS this/DT summer/NN ./pct
 He/PPS did/DOD say/VB he/PPS was/BEDZ out/IN of/IN cans/NNS ,/pct the/AT No./NN 3's/NPS ,/pct but/CC ``/pct I/PPSS requisitioned/VBD 22,000/CD ''/pct ./pct
 He/PPS said/VBD he/PPS had/HVD No./NN 2's/NPS enough/AP to/TO last/VB two/CD weeks/NNS more/AP ./pct
@@ -21,16 +21,16 @@ But/CC DeKalb/NP citizens/NNS ,/pct those/DTS who/WPS use/VB the/AT facilities/N
 ``/pct The/AT cannery/NN ''/pct ,/pct said/VBD Mrs./NP Lewellyn/NP Lundeen/NP ,/pct an/AT active/JJ booster/NN of/IN the/AT cannery/NN since/IN its/PPg opening/NN during/IN the/AT war/NN and/CC rationing/VBG years/NNS of/IN 1941/CD ,/pct to/TO handle/VB the/AT ``/pct victory/NN garden/NN ''/pct produce/NN ,/pct ``/pct is/BEZ a/AT service/NN to/IN the/AT taxpayer/NN ./pct
 And/CC one/CD of/IN the/AT best/JJT services/NNS available/JJ to/IN the/AT people/NNS who/WPS try/VB to/TO raise/VB and/CC can/VB meat/NN ,/pct to/TO plant/VB ,/pct grow/VB vegetables/NNS and/CC put/VB them/PPO up/RP ./pct
 It/PPS helps/VBZ those/DTS people/NNS who/WPS help/VB themselves/PPLS ./pct
-``/pct The/AT county/NN ,/pct though/RB ,/pct seems/VBZ more/QL interested/VBN in/IN those/DTS people/NNS who/WPS don't /None even/RB try/VB ,/pct those/DTS who/WPS sit/VB and/CC draw/VB welfare/NN checks/NNS and/CC line/VB up/RP for/IN surplus/NN food/NN ''/pct ./pct
+``/pct The/AT county/NN ,/pct though/RB ,/pct seems/VBZ more/QL interested/VBN in/IN those/DTS people/NNS who/WPS don't/DO* even/RB try/VB ,/pct those/DTS who/WPS sit/VB and/CC draw/VB welfare/NN checks/NNS and/CC line/VB up/RP for/IN surplus/NN food/NN ''/pct ./pct
 A/AT driver/NN of/IN a/AT dairy/NN truck/NN ,/pct who/WPS begins/VBZ work/NN at/IN 1/CD a.m./RB finishes/VBZ before/IN breakfast/NN ,/pct then/RB goes/VBZ out/RP and/CC grows/VBZ a/AT garden/NN ,/pct and/CC who/WPS has/HVZ used/VBN the/AT cannery/NN to/TO save/VB and/CC feed/VB a/AT family/NN of/IN five/CD ,/pct asked/VBD ,/pct ``/pct What/WDT in/IN the/AT world/NN will/MD we/PPSS do/DO ''/pct ?/pct ?/pct
 ``/pct What/WDT in/IN the/AT world/NN ''/pct ,/pct echoed/VBD others/NNS ,/pct those/DTS come/VBN with/IN the/AT beans/NNS ,/pct potatoes/NNS ,/pct the/AT tomatoes/NNS ,/pct ``/pct will/MD any/DTI of/IN us/PPO do/DO ''/pct ?/pct ?/pct
-Moss/NP ,/pct a/AT man/NN who/WPS knows/VBZ how/QL much/AP the/AT cannery/NN helps/VBZ the/AT county/NN ,/pct doesn't /None believe/VB it/PPS will/MD close/VB ./pct
+Moss/NP ,/pct a/AT man/NN who/WPS knows/VBZ how/QL much/AP the/AT cannery/NN helps/VBZ the/AT county/NN ,/pct doesn't/DOZ* believe/VB it/PPS will/MD close/VB ./pct
 But/CC he/PPS is/BEZ in/IN the/AT middle/NN ,/pct an/AT employe/NN of/IN DeKalb/NP ,/pct but/CC on/IN the/AT side/NN of/IN the/AT people/NNS ./pct
 The/AT young/JJ married/VBN people/NNS ;/pct ;/pct
 the/AT old/JJ couples/NNS ./pct
 The/AT dairy/NN truck/NN driver/NN ;/pct ;/pct
 the/AT old/JJ woman/NN with/IN the/AT stew/NN ./pct
-``/pct Don't /None ask/VB me/PPO if/CS I/PPSS think/VB the/AT cannery/NN helps/VBZ ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct Don't/DO* ask/VB me/PPO if/CS I/PPSS think/VB the/AT cannery/NN helps/VBZ ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct Sir/NN ,/pct I/PPSS know/VB the/AT cannery/NN helps/VBZ ''/pct ./pct
 Most/AP of/IN us/PPO would/MD be/BE willing/JJ to/TO admit/VB that/DT forgiveness/NN comes/VBZ hard/RB ./pct
 When/WRB a/AT person/NN has/HVZ thoughtlessly/RB or/CC deliberately/RB caused/VBN us/PPO pain/NN or/CC hardship/NN it/PPS is/BEZ not/NEG always/RB easy/JJ to/TO say/VB ,/pct ``/pct Just/RB forget/VB it/PPO ''/pct ./pct
@@ -44,7 +44,7 @@ After/CS almost/RB everyone/PN had/HVD gone/VBN he/PPS told/VBD me/PPO the/AT si
 I/PPSS settled/VBD it/PPO tonight/NR ''/pct ,/pct he/PPS continued/VBD ./pct
 ``/pct I/PPSS leave/VB this/DT church/NN with/IN a/AT feeling/NN that/CS a/AT great/JJ weight/NN has/HVZ been/BEN lifted/VBN off/IN my/PPg heart/NN ,/pct I/PPSS have/HV left/VBN my/PPg grudge/NN at/IN the/AT altar/NN and/CC forgiven/VBN my/PPg neighbor/NN ''/pct ./pct
 Forgiveness/NN is/BEZ the/AT door/NN through/IN which/WDT a/AT person/NN must/MD pass/VB to/TO enter/VB the/AT Kingdom/NN of/IN God/NP ./pct
-You/PPSS cannot /None wear/VB the/AT banner/NN of/IN God/NP and/CC at/IN the/AT same/AP time/NN harbor/VB envy/NN ,/pct jealousy/NN and/CC grudges/NNS in/IN your/PPg heart/NN ./pct
+You/PPSS cannot/MD* wear/VB the/AT banner/NN of/IN God/NP and/CC at/IN the/AT same/AP time/NN harbor/VB envy/NN ,/pct jealousy/NN and/CC grudges/NNS in/IN your/PPg heart/NN ./pct
 Henry/NP Van/NP Dyke/NP said/VBD ,/pct ``/pct Forgive/VB and/CC forget/VB if/CS you/PPSS can/MD ;/pct ;/pct
 but/CC forgive/VB anyway/RB ''/pct ./pct
 Jesus/NP made/VBD three/CD things/NNS clear/JJ about/IN forgiveness/NN ./pct
@@ -67,19 +67,19 @@ Matthew/NP 18/CD :/pct 21-22/CD ./pct
 Jesus/NP not/NEG only/RB taught/VBD forgiveness/NN ,/pct He/PPS gave/VBD us/PPO an/AT example/NN of/IN it/PPO on/IN the/AT cross/NN ./pct
 With/IN all/ABN the/AT energy/NN of/IN his/PPg broken/VBN body/NN he/PPS prayed/VBD ,/pct ``/pct Father/NN ,/pct forgive/VB them/PPO ,/pct for/CS they/PPSS know/VB not/NEG what/WDT they/PPSS do/DO ''/pct ./pct
 Luke/NP 23:34/CD ./pct
-She's /None been/BEN in/IN and/CC out/IN of/IN my/PPg house/NN for/IN a/AT dozen/NN years/NNS now/RB ,/pct although/CS she's /None still/RB a/AT teen-ager/NN who/WPS looks/VBZ like/CS a/AT baby/NN ,/pct she/PPS is/BEZ getting/VBG married/VBN ./pct
+She's/PPSHVZ been/BEN in/IN and/CC out/IN of/IN my/PPg house/NN for/IN a/AT dozen/NN years/NNS now/RB ,/pct although/CS she's/PPSBEZ still/RB a/AT teen-ager/NN who/WPS looks/VBZ like/CS a/AT baby/NN ,/pct she/PPS is/BEZ getting/VBG married/VBN ./pct
 Her/PPg mother/NN ,/pct now/RB dead/JJ ,/pct was/BEDZ my/PPg good/JJ friend/NN and/CC when/WRB she/PPS came/VBD to/TO tell/VB us/PPO about/IN her/PPg plans/NNS and/CC to/TO show/VB off/RP her/PPg ring/NN I/PPSS had/HVD a/AT sobering/VBG wish/NN to/TO say/VB something/PN meaningful/JJ to/IN her/PPO ,/pct something/PN her/PPg mother/NN would/MD wish/VB said/VBN ./pct
-For/IN a/AT while/NN there/EX was/BEDZ such/JJ shrill/JJ girlish/JJ commotion/NN I/PPSS couldn't /None have/HV made/VBN myself/PPL heard/VBN if/CS I'd /None had/HVN the/AT equivalent/NN of/IN the/AT message/NN to/IN Garcia/NP ./pct
+For/IN a/AT while/NN there/EX was/BEDZ such/JJ shrill/JJ girlish/JJ commotion/NN I/PPSS couldn't/MD* have/HV made/VBN myself/PPL heard/VBN if/CS I'd/PPSSHVD had/HVN the/AT equivalent/NN of/IN the/AT message/NN to/IN Garcia/NP ./pct
 But/CC when/WRB some/DTI of/IN the/AT squeals/NNS had/HVD subsided/VBN and/CC she/PPS had/HVD been/BEN through/IN one/CD of/IN those/DTS sessions/NNS that/WPS are/BER so/QL indispensable/JJ to/IN the/AT young/JJ female/NN --/pct six/CD girls/NNS sprawled/VBN on/IN one/CD bed/NN ,/pct drinking/VBG Cokes/NPS and/CC giggling/VBG --/pct she/PPS came/VBD back/RB to/IN the/AT kitchen/NN to/TO talk/VB with/IN me/PPO a/AT minute/NN ./pct
 ``/pct How/WRB do/DO you/PPSS know/VB you/PPSS love/VB somebody/PN enough/RB to/TO get/VB married/VBN ''/pct ?/pct ?/pct
 She/PPS asked/VBD ./pct
 It/PPS was/BEDZ the/AT oldest/JJT and/CC toughest/JJT question/NN young/JJ lovers/NNS have/HV ever/RB asked/VBN :/pct How/WRB can/MD you/PPSS be/BE sure/JJ ?/pct ?/pct
-``/pct Aren't /None you/PPSS sure/JJ ''/pct ?/pct ?/pct
+``/pct Aren't/BER* you/PPSS sure/JJ ''/pct ?/pct ?/pct
 I/PPSS asked/VBD ,/pct looking/VBG at/IN her/PPO searchingly/RB ./pct
 I/PPSS wanted/VBD to/TO grab/VB her/PPO by/IN the/AT arm/NN and/CC beg/VB her/PPO to/TO wait/VB ,/pct to/TO consider/VB ,/pct to/TO know/VB for/IN certain/JJ because/CS life/NN is/BEZ so/QL long/JJ and/CC marriage/NN is/BEZ so/QL important/JJ ./pct
 But/CC if/CS she/PPS were/BED just/RB having/HVG a/AT normal/JJ case/NN of/IN pre-nuptial/JJ jitters/NNS such/ABL a/AT question/NN might/MD frighten/VB her/PPO out/IN of/IN a/AT really/QL good/JJ marriage/NN ./pct
-Besides/RB ,/pct in/IN all/ABN honesty/NN ,/pct I/PPSS don't /None know/VB how/WRB you/PPSS can/MD be/BE sure/JJ ./pct
-I/PPSS don't /None know/VB any/DTI secret/JJ recipe/NN for/IN certainty/NN ./pct
+Besides/RB ,/pct in/IN all/ABN honesty/NN ,/pct I/PPSS don't/DO* know/VB how/WRB you/PPSS can/MD be/BE sure/JJ ./pct
+I/PPSS don't/DO* know/VB any/DTI secret/JJ recipe/NN for/IN certainty/NN ./pct
 In/IN the/AT fevered/JJ ,/pct intoxicating/VBG ,/pct breathless/JJ state/NN of/IN being/BEG in/IN love/NN the/AT usual/JJ signposts/NNS that/WPS guide/VB you/PPO to/IN lasting/VBG and/CC satisfying/VBG relationships/NNS are/BER sometimes/RB obscured/VBN ./pct
 I/PPSS knew/VBD of/IN but/RB one/CD test/NN and/CC I/PPSS threw/VBD it/PPO out/RP to/IN her/PPO for/IN what/WDT it/PPS was/BEDZ worth/JJ ./pct
 ``/pct Does/DOZ he/PPS ever/RB bore/VB you/PPO ''/pct ?/pct ?/pct
@@ -87,11 +87,11 @@ I/PPSS asked/VBD ./pct
 ``/pct Bore/VB me/PPO ''/pct ?/pct ?/pct
 She/PPS was/BEDZ shocked/VBN ./pct
 Oh/UH ,/pct no-o/RB !/pct !/pct
-Why/UH ,/pct he's /None so/QL darling/JJ and/CC ''/pct
-``/pct I/PPSS mean/VB ''/pct ,/pct I/PPSS went/VBD on/RP ruthlessly/RB ,/pct ``/pct when/WRB he's /None not/NEG talking/VBG about/IN you/PPO or/CC himself/PPL or/CC the/AT wonders/NNS of/IN love/NN ,/pct is/BEZ he/PPS interesting/JJ ?/pct ?/pct
+Why/UH ,/pct he's/PPSBEZ so/QL darling/JJ and/CC ''/pct
+``/pct I/PPSS mean/VB ''/pct ,/pct I/PPSS went/VBD on/RP ruthlessly/RB ,/pct ``/pct when/WRB he's/PPSBEZ not/NEG talking/VBG about/IN you/PPO or/CC himself/PPL or/CC the/AT wonders/NNS of/IN love/NN ,/pct is/BEZ he/PPS interesting/JJ ?/pct ?/pct
 Does/DOZ he/PPS care/VB about/IN things/NNS that/WPS matter/VB to/IN you/PPO ?/pct ?/pct
 Can/MD you/PPSS visualize/VB being/BEG stranded/VBN with/IN him/PPO on/IN a/AT desert/NN island/NN for/IN years/NNS and/CC years/NNS and/CC still/RB find/VB him/PPO fascinating/JJ ?/pct ?/pct
-Because/CS ,/pct honey/NN ,/pct I/PPSS thought/VBD silently/RB ,/pct there/EX are/BER plenty/NN of/IN desert/NN islands/NNS in/IN every/AT marriage/NN --/pct long/JJ periods/NNS when/WRB you're /None hopelessly/RB stranded/VBN ,/pct together/RB ./pct
+Because/CS ,/pct honey/NN ,/pct I/PPSS thought/VBD silently/RB ,/pct there/EX are/BER plenty/NN of/IN desert/NN islands/NNS in/IN every/AT marriage/NN --/pct long/JJ periods/NNS when/WRB you're/PPSSBER hopelessly/RB stranded/VBN ,/pct together/RB ./pct
 And/CC if/CS you/PPSS bore/VB each/DT other/AP then/RB ,/pct heaven/NN help/VB you/PPO ./pct
 She/PPS came/VBD back/RB the/AT other/AP day/NN to/TO reassure/VB me/PPO ./pct
 She/PPS has/HVZ studied/VBN and/CC observed/VBN and/CC she/PPS is/BEZ convinced/VBN that/CS her/PPg young/JJ man/NN is/BEZ going/VBG to/TO be/BE endlessly/RB enchanting/JJ ./pct
@@ -118,7 +118,7 @@ Yet/CC we/PPSS who/WPS lean/VB upon/IN such/ABL a/AT man/NN and/CC draw/VB stren
 We/PPSS press/VB him/PPO to/TO conform/VB to/IN our/PPg comfortable/JJ conceptions/NNS and/CC not/NEG to/TO bruise/VB our/PPg satisfactions/NNS with/IN his/PPg word/NN ,/pct and/CC God's/NPg ./pct
 We/PPSS do/DO not/NEG defeat/VB the/AT good/JJ ones/NNS with/IN this/DT cruelty/NN ,/pct but/CC we/PPSS add/VB to/IN their/PPg burden/NN ,/pct while/CS expecting/VBG them/PPO to/TO bestow/VB saintliness/NN upon/IN us/PPO in/IN return/NN for/IN ostentatious/JJ church/NN attendance/NN and/CC a/AT few/AP bucks/NNS a/AT week/NN ,/pct American/JJ cash/NN ./pct
 If/CS we/PPSS break/VB the/AT minister/NN to/IN our/PPg bit/NN ,/pct we/PPSS are/BER buying/VBG back/RB our/PPg own/JJ sins/NNS ./pct
-If/CS he/PPS won't /None break/VB ,/pct we/PPSS add/VB to/IN the/AT stress/NN he/PPS bears/VBZ ./pct
+If/CS he/PPS won't/MD* break/VB ,/pct we/PPSS add/VB to/IN the/AT stress/NN he/PPS bears/VBZ ./pct
 And/CC a/AT minister/NN of/IN all/ABN men/NNS is/BEZ most/QL conscious/JJ that/CS he/PPS is/BEZ mere/JJ man/NN --/pct prone/JJ to/IN the/AT stresses/NNS that/CS earthly/JJ humanity/NN is/BEZ heir/NN to/IN ./pct
 We/PPSS expect/VB him/PPO to/TO be/BE noble/JJ ,/pct and/CC to/TO make/VB us/PPO so/RB --/pct yet/CC he/PPS knows/VBZ ,/pct and/CC tries/NNS to/TO tell/VB us/PPO ,/pct how/WRB very/QL humble/JJ man/NN must/MD be/BE ./pct
 We/PPSS expect/VB bestowal/NN of/IN God's/NPg love/NN through/IN him/PPO ./pct

@@ -35,7 +35,7 @@ In/IN that/DT moment/NN of/IN vision/NN Adam/NP heard/VBD the/AT voice/NN within
 His/PPg heart/NN suddenly/RB opened/VBD to/IN joy/NN ./pct
 He/PPS thought/VBD that/CS if/CS once/RB ,/pct only/RB once/RB ,/pct he/PPS could/MD talk/VB with/IN Simms/NP Purdew/NP ,/pct something/PN about/IN his/PPg own/JJ life/NN ,/pct and/CC all/ABN life/NN ,/pct would/MD be/BE clear/JJ and/CC simple/JJ ./pct
 If/CS Simms/NP Purdew/NP would/MD turn/VB to/IN him/PPO and/CC say/VB :/pct ``/pct Adam/NP ,/pct you/PPSS know/VB when/WRB I/PPSS was/BEDZ a/AT boy/NN ,/pct it/PPS was/BEDZ a/AT funny/JJ thing/NN happened/VBD ./pct
-Lemme /None tell/VB you/PPO now/RB ''/pct --/pct
+Lemme/VBPPO tell/VB you/PPO now/RB ''/pct --/pct
 If/CS only/RB Simms/NP Purdew/NP could/MD do/DO that/DT ,/pct whatever/WDT the/AT thing/NN he/PPS remembered/VBD and/CC told/VBD ./pct
 It/PPS would/MD be/BE a/AT sign/NN for/IN the/AT untellable/JJ ,/pct and/CC he/PPS ,/pct Adam/NP ,/pct would/MD understand/VB ./pct
 Now/RB ,/pct Adam/NP ,/pct in/IN the/AT gray/JJ light/NN of/IN afternoon/NN ,/pct stared/VBD across/RB at/IN the/AT hut/NN opposite/IN his/PPg tent/NN ,/pct and/CC thought/VBD of/IN Simms/NP Purdew/NP lying/VBG in/IN there/RB in/IN the/AT gloom/NN ,/pct snoring/VBG on/IN his/PPg bunk/NN ,/pct with/IN the/AT fumes/NNS of/IN whisky/NN choking/VBG the/AT air/NN ./pct
@@ -79,10 +79,10 @@ The/AT pattern/NN would/MD not/NEG stop/VB ./pct
 It/PPS came/VBD again/RB and/CC again/RB ./pct
 He/PPS felt/VBD trapped/VBN in/IN that/DT pattern/NN ,/pct in/IN the/AT repetition/NN ./pct
 Suddenly/RB he/PPS thought/VBD he/PPS might/MD weep/VB ./pct
-``/pct What's /None the/AT matter/NN with/IN me/PPO ''/pct ?/pct ?/pct
+``/pct What's/WDTBEZ the/AT matter/NN with/IN me/PPO ''/pct ?/pct ?/pct
 He/PPS demanded/VBD out/RP loud/RB ./pct
 He/PPS looked/VBD wildly/RB around/RB ,/pct at/IN the/AT now/RB empty/JJ street/NN ,/pct at/IN the/AT mud/NN ,/pct at/IN the/AT rain/NN ./pct
-``/pct Oh/UH ,/pct what's /None the/AT matter/NN with/IN me/PPO ''/pct ?/pct ?/pct
+``/pct Oh/UH ,/pct what's/WDTBEZ the/AT matter/NN with/IN me/PPO ''/pct ?/pct ?/pct
 He/PPS demanded/VBD ./pct
 When/WRB he/PPS had/HVD stored/VBN his/PPg stock/NN in/IN the/AT great/JJ oak/NN chest/NN ,/pct locked/VBN the/AT two/CD big/JJ hasps/NNS and/CC secured/VBN the/AT additional/JJ chain/NN ,/pct tied/VBN the/AT fly/NN of/IN the/AT tent/NN ,/pct and/CC picked/VBN up/RP the/AT cash/NN box/NN ,/pct he/PPS moved/VBD up/IN the/AT darkening/VBG street/NN ./pct
 He/PPS would/MD consign/VB the/AT cash/NN box/NN into/IN the/AT hands/NNS of/IN Jed/NP Hawksworth/NP ,/pct then/RB stand/VB by/RB while/CS his/PPg employer/NN checked/VBD the/AT contents/NNS and/CC the/AT list/NN of/IN items/NNS sold/VBN ./pct
@@ -119,7 +119,7 @@ He/PPS thought/VBD :/pct Only/RB in/IN my/PPg heart/NN can/MD I/PPSS make/VB the
 Adam/NP rose/VBD from/IN the/AT crouch/NN necessary/JJ to/TO enter/VB the/AT hut/NN ./pct
 He/PPS saw/VBD Mose/NP squatting/VBG by/IN the/AT hearth/NN ,/pct breaking/VBG up/RP hardtack/NN into/IN a/AT pan/NN ./pct
 A/AT pot/NN was/BEDZ boiling/VBG on/IN the/AT coals/NNS ./pct
-``/pct Gonna /None give/VB Ole/JJ Buckra/NP all/ABN his/PPg money/NN ''/pct ?/pct ?/pct
+``/pct Gonna/VBGTO give/VB Ole/JJ Buckra/NP all/ABN his/PPg money/NN ''/pct ?/pct ?/pct
 Mose/NP asked/VBD softly/RB ./pct
 Adam/NP nodded/VBD ./pct
 ``/pct Yeah/RB ''/pct ,/pct Mose/NP murmured/VBD ,/pct ``/pct yeah/RB ./pct

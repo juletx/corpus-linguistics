@@ -29,7 +29,7 @@ The/AT habitants/NNS were/BED to/TO be/BE encouraged/VBN to/TO trade/VB and/CC w
 Only/RB two/CD principal/JJS storehouses/NNS were/BED actually/RB established/VBN --/pct one/CD at/IN Mobile/NP ,/pct the/AT other/AP at/IN New/JJ Orleans/NP ./pct
 New/JJ Orleans/NP supplied/VBD the/AT goods/NNS for/IN the/AT trade/NN on/IN the/AT Mississippi/NP ,/pct and/CC west/NR of/IN that/DT river/NN ,/pct and/CC on/IN the/AT Ohio/NP and/CC Wabash/NP ./pct
 Mobile/NP was/BEDZ also/RB supplied/VBN by/IN New/JJ Orleans/NP with/IN goods/NNS for/IN the/AT Mobile/NP district/NN ./pct
-The/AT power/NN that/CS Bienville/NP exercised/VBD during/IN his/PPg first/OD administration/NN cannot /None be/BE determined/VBN ./pct
+The/AT power/NN that/CS Bienville/NP exercised/VBD during/IN his/PPg first/OD administration/NN cannot/MD* be/BE determined/VBN ./pct
 Regulations/NNS for/IN the/AT Indian/JJ trade/NN were/BED made/VBN by/IN the/AT Conseil/NN superieure/JJ de/IN la/AT Louisiane/NP ,/pct and/CC Bienville/NP apparently/RB did/DOD not/NEG have/HV control/NN of/IN that/DT body/NN ./pct
 The/AT Conseil/NN even/RB treated/VBD the/AT serious/JJ matter/NN of/IN British/JJ aggression/NN as/CS its/PPg business/NN and/CC ,/pct on/IN its/PPg own/JJ authority/NN ,/pct sent/VBD to/IN disaffected/VBN savages/NNS merchandise/NN ``/pct suitable/JJ for/IN the/AT peltry/NN trade/NN ''/pct ./pct
 It/PPS decided/VBD ,/pct also/RB ,/pct that/CS the/AT purely/QL secular/JJ efforts/NNS of/IN Bienville/NP were/BED insufficient/JJ ,/pct and/CC sent/VBD missionaries/NNS to/TO win/VB the/AT savages/NNS from/IN the/AT heathen/JJ Carolinians/NPS ./pct

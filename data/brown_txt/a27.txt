@@ -1,6 +1,6 @@
 Santa/NP Barbara/NP
 --/pct ``/pct The/AT present/JJ recovery/NN movement/NN will/MD gather/VB steady/JJ momentum/NN to/TO lift/VB the/AT economy/NN to/IN a/AT new/JJ historic/JJ peak/NN by/IN this/DT autumn/NN ''/pct ,/pct Beryl/NP W./NP Sprinkel/NP ,/pct economist/NN of/IN Harris/NP Trust/NN &/CC Savings/NNS Bank/NN ,/pct Chicago/NP ,/pct predicted/VBD at/IN the/AT closing/VBG session/NN here/RB Tuesday/NR of/IN Investment/NN Bankers/NNS Assn./NN ,/pct California/NP group/NN ,/pct conference/NN ./pct
-Another/DT speaker/NN ,/pct William/NP H./NP Draper/NP ,/pct Jr./NP ,/pct former/AP Under/JJ Secretary/NN of/IN the/AT Army/NN and/CC now/RB with/IN the/AT Palo/NP Alto/NP venture/NN capital/NN firm/NN of/IN Draper/NP ,/pct Gaither/NP &/CC Anderson/NP ,/pct urged/VBD the/AT U.S./NP to/TO ``/pct throw/VB down/RP the/AT gauntlet/NN of/IN battle/NN to/IN communism/NN and/CC tell/VB Moscow/NP bluntly/RB we/PPSS won't /None be/BE pushed/VBN around/RB any/DTI more/AP ''/pct ./pct
+Another/DT speaker/NN ,/pct William/NP H./NP Draper/NP ,/pct Jr./NP ,/pct former/AP Under/JJ Secretary/NN of/IN the/AT Army/NN and/CC now/RB with/IN the/AT Palo/NP Alto/NP venture/NN capital/NN firm/NN of/IN Draper/NP ,/pct Gaither/NP &/CC Anderson/NP ,/pct urged/VBD the/AT U.S./NP to/TO ``/pct throw/VB down/RP the/AT gauntlet/NN of/IN battle/NN to/IN communism/NN and/CC tell/VB Moscow/NP bluntly/RB we/PPSS won't/MD* be/BE pushed/VBN around/RB any/DTI more/AP ''/pct ./pct
 He/PPS urged/VBD support/NN for/IN President/NN Kennedy's/NPg requests/NNS for/IN both/ABX defense/NN and/CC foreign/JJ aid/NN appropriations/NNS ./pct
 '/pct not/NEG flash/NN in/IN pan/NN '/pct
 Sprinkel/NP told/VBD conferees/NNS that/CS the/AT recent/JJ improvement/NN in/IN economic/JJ activity/NN was/BEDZ not/NEG a/AT ``/pct temporary/JJ flash/NN in/IN the/AT pan/NN ''/pct but/CC the/AT beginning/NN of/IN a/AT substantial/JJ cyclical/JJ expansion/NN that/WPS will/MD carry/VB the/AT economy/NN back/RB to/IN full/JJ employment/NN levels/NNS and/CC witness/VB a/AT renewal/NN of/IN our/PPg traditional/JJ growth/NN pattern/NN ./pct
@@ -16,10 +16,10 @@ Sacrifices/NNS needed/VBN
 Draper/NP declared/VBD ,/pct ``/pct As/CS I/PPSS see/VB it/PPO ,/pct this/DT country/NN has/HVZ never/RB faced/VBN such/JJ great/JJ dangers/NNS as/QL threaten/VB us/PPO today/NR ./pct
 We/PPSS must/MD justify/VB our/PPg heritage/NN ./pct
 We/PPSS must/MD be/BE ready/JJ for/IN any/DTI needed/VBN sacrifice/NN ''/pct ./pct
-He/PPS said/VBD that/CS from/IN his/PPg experience/NN of/IN two/CD years/NNS with/IN Gen./NN Clay/NP in/IN West/JJ Berlin/NP administration/NN ,/pct that/CS ``/pct Russia/NP respects/VBZ our/PPg show/NN of/IN strength/NN ,/pct but/CC that/CS presently/RB we're /None not/NEG acting/VBG as/CS we/PPSS should/MD and/CC must/MD ''/pct ./pct
-He/PPS called/VBD the/AT Cuban/NP tractor/NN plan/NN an/AT outright/JJ blackmail/NN action/NN ,/pct and/CC noted/VBD that/CS in/IN war/NN ``/pct you/PPSS can't /None buy/VB yourself/PPL out/RP and/CC that's /None what/WDT we're /None trying/VBG to/TO do/DO ''/pct ./pct
-While/CS he/PPS declined/VBD to/TO suggest/VB ,/pct how/WRB ,/pct he/PPS said/VBD that/CS sooner/RBR or/CC later/RBR we/PPSS must/MD get/VB rid/JJ of/IN Castro/NP ,/pct ``/pct for/CS unless/CS we/PPSS do/DO we're /None liable/JJ to/TO face/VB similar/JJ situations/NNS in/IN this/DT hemisphere/NN ./pct
-Its/PPg the/AT start/NN of/IN a/AT direct/JJ threat/NN to/IN our/PPg own/JJ security/NN and/CC I/PPSS don't /None believe/VB we/PPSS can/MD permit/VB that/DT ''/pct ./pct
+He/PPS said/VBD that/CS from/IN his/PPg experience/NN of/IN two/CD years/NNS with/IN Gen./NN Clay/NP in/IN West/JJ Berlin/NP administration/NN ,/pct that/CS ``/pct Russia/NP respects/VBZ our/PPg show/NN of/IN strength/NN ,/pct but/CC that/CS presently/RB we're/PPSSBER not/NEG acting/VBG as/CS we/PPSS should/MD and/CC must/MD ''/pct ./pct
+He/PPS called/VBD the/AT Cuban/NP tractor/NN plan/NN an/AT outright/JJ blackmail/NN action/NN ,/pct and/CC noted/VBD that/CS in/IN war/NN ``/pct you/PPSS can't/MD* buy/VB yourself/PPL out/RP and/CC that's/DTBEZ what/WDT we're/PPSSBER trying/VBG to/TO do/DO ''/pct ./pct
+While/CS he/PPS declined/VBD to/TO suggest/VB ,/pct how/WRB ,/pct he/PPS said/VBD that/CS sooner/RBR or/CC later/RBR we/PPSS must/MD get/VB rid/JJ of/IN Castro/NP ,/pct ``/pct for/CS unless/CS we/PPSS do/DO we're/PPSSBER liable/JJ to/TO face/VB similar/JJ situations/NNS in/IN this/DT hemisphere/NN ./pct
+Its/PPg the/AT start/NN of/IN a/AT direct/JJ threat/NN to/IN our/PPg own/JJ security/NN and/CC I/PPSS don't/DO* believe/VB we/PPSS can/MD permit/VB that/DT ''/pct ./pct
 New/JJ York/NP (/pct AP/NP )/pct
 --/pct Stock/NN market/NN Tuesday/NR staged/VBD a/AT technical/JJ recovery/NN ,/pct erasing/VBG all/ABN of/IN Monday's/NRg losses/NNS in/IN the/AT Associated/VBN Press/NN average/NN and/CC making/VBG the/AT largest/JJT gain/NN in/IN about/RB two/CD weeks/NNS ./pct
 Analysts/NNS saw/VB the/AT move/NN as/CS a/AT continuation/NN of/IN the/AT recovery/NN drive/NN that/WPS got/VBD under/IN way/NN late/JJ Monday/NR afternoon/NN when/WRB the/AT list/NN sank/VBD to/IN a/AT hoped-for/JJ ``/pct support/NN level/NN ''/pct represented/VBN by/IN around/RB 675/CD in/IN the/AT Dow/NP Jones/NP industrial/JJ average/NN ./pct
@@ -49,7 +49,7 @@ Union/NN Oil/NN Co./NN of/IN California/NP Tuesday/NR offered/VBD $120/NNS milli
 Gulf's/NNg holdings/NNS could/MD have/HV been/BEN converted/VBN into/IN 2,700,877/CD shares/NNS of/IN Union/NN Oil/NN common/JJ upon/IN surrender/NN of/IN debentures/NNS plus/CC cash/NN ,/pct according/IN to/IN Union/NN ./pct
 Under/IN the/AT new/JJ offering/NN ,/pct only/AP $60/NNS million/CD in/IN debentures/NNS are/BER convertible/JJ into/IN 923,076/CD common/JJ shares/NNS ./pct
 Due/JJ in/IN 1986/CD
-The/AT new/JJ offering/NN Tuesday/NR consisted/VBD of/IN $60/NNS million/CD worth/NN of/IN 4-7/8/CD debentures/NNS ,/pct due/JJ June/NP 1/CD ,/pct 1986/CD ,/pct at/IN 100%/NN ,/pct and/CC $60/NNS million/CD of/IN 4-1/2%/NN convertible/JJ subordinated/VBN debentures/NNS due/JJ June/NP 1/CD ,/pct 1991/CD ,/pct at/IN 100%/NN ./pct
+The/AT new/JJ offering/NN Tuesday/NR consisted/VBD of/IN $60/NNS million/CD worth/NN of/IN 4-7:8/CD debentures/NNS ,/pct due/JJ June/NP 1/CD ,/pct 1986/CD ,/pct at/IN 100%/NN ,/pct and/CC $60/NNS million/CD of/IN 4-1:2%/NN convertible/JJ subordinated/VBN debentures/NNS due/JJ June/NP 1/CD ,/pct 1991/CD ,/pct at/IN 100%/NN ./pct
 The/AT convertible/JJ debentures/NNS are/BER convertible/JJ into/IN common/JJ shares/NNS at/IN $65/NNS a/AT share/NN by/IN June/NP 1/CD ,/pct 1966/CD ;/pct ;/pct
 $70/NNS by/IN 1971/CD ;/pct ;/pct
 $75/NNS by/IN 1976/CD ;/pct ;/pct
@@ -58,8 +58,8 @@ $85/NNS by/IN 1986/CD ,/pct and/CC $90/NNS thereafter/RB ./pct
 New/JJ York/NP (/pct AP/NP )/pct
 --/pct American/JJ Stock/NN Exchange/NN prices/NNS enjoyed/VBD a/AT fairly/QL solid/JJ rise/NN but/CC here/RB also/RB trading/VBG dwindled/VBD ./pct
 Volume/NN was/BEDZ 1.23/CD million/CD shares/NNS ,/pct down/RP from/IN Monday's/NRg 1.58/CD million/CD ./pct
-Gains/NNS of/IN 2-3/4/CD were/BED posted/VBN for/IN Teleprompter/NP and/CC Republic/NN Foil/NN ./pct
-Fairchild/NP Camera/NN and/CC Kawecki/NP Chemical/JJ gained/VBD 2-1/2/CD each/DT ./pct
+Gains/NNS of/IN 2-3:4/CD were/BED posted/VBN for/IN Teleprompter/NP and/CC Republic/NN Foil/NN ./pct
+Fairchild/NP Camera/NN and/CC Kawecki/NP Chemical/JJ gained/VBD 2-1:2/CD each/DT ./pct
 Question/NN
 --/pct I/PPSS bought/VBD 50/CD shares/NNS of/IN Diversified/VBN Growth/NN Stock/NN Fund/NN on/IN Oct./NP 23/CD ,/pct 1959/CD ,/pct and/CC 50/CD more/AP shares/NNS of/IN the/AT same/AP mutual/JJ fund/NN on/IN Feb./NP 8/CD ,/pct 1960/CD ./pct
 Something/PN has/HVZ gone/VBN wrong/JJ some/DTI place/NN ./pct
@@ -69,20 +69,20 @@ Answer/NN
 --/pct Write/VB to/IN the/AT fund's/NNg custodian/NN bank/NN --/pct the/AT First/OD National/JJ Bank/NN of/IN Jersey/NP City/NN ,/pct N.J./NP ./pct
 That/DT bank/NN handles/VBZ most/AP of/IN the/AT paper/NN work/NN for/IN Diversified/VBN Growth/NN Stock/NN Fund/NN ,/pct Fundamental/JJ Investors/NNS ,/pct Diversified/VBN Investment/NN Fund/NN and/CC Television-Electronics/NN Fund/NN ./pct
 The/AT bank/NN installed/VBD a/AT magnetic/JJ tape/NN electronic/JJ data/NN processing/NN system/NN to/TO handle/VB things/NNS ./pct
-But/CC it/PPS seems/VBZ that/CS this/DT ``/pct electronic/JJ brain/NN ''/pct wasn't /None ``/pct programmed/VBN ''/pct correctly/RB ./pct
+But/CC it/PPS seems/VBZ that/CS this/DT ``/pct electronic/JJ brain/NN ''/pct wasn't/BEDZ* ``/pct programmed/VBN ''/pct correctly/RB ./pct
 This/DT resulted/VBD in/IN a/AT great/JJ number/NN of/IN errors/NNS ./pct
 And/CC letters/NNS began/VBD to/TO come/VB in/RP to/IN this/DT column/NN from/IN irate/JJ shareholders/NNS ./pct
 I/PPSS visited/VBD the/AT bank/NN in/IN March/NP and/CC wrote/VBD a/AT story/NN about/IN the/AT situation/NN ./pct
 At/IN that/DT time/NN ,/pct the/AT people/NNS at/IN the/AT bank/NN said/VBD they/PPSS felt/VBD that/CS they/PPSS had/HVD the/AT situation/NN in/IN hand/NN ./pct
 They/PPSS indicated/VBD that/CS no/AT new/JJ errors/NNS were/BED being/BEG made/VBN and/CC that/CS all/ABN old/JJ errors/NNS would/MD be/BE corrected/VBN ``/pct within/IN 60/CD days/NNS ''/pct ./pct
 That/DT 60-day/JJ period/NN is/BEZ over/RP and/CC letters/NNS are/BER still/RB coming/VBG in/RP from/IN shareholders/NNS of/IN these/DTS four/CD funds/NNS ,/pct complaining/VBG about/IN mistakes/NNS in/IN their/PPg accounts/NNS ./pct
-Maybe/RB it's /None taking/VBG longer/RBR to/TO get/VB things/NNS squared/VBN away/RB than/CS the/AT bankers/NNS expected/VBD ./pct
+Maybe/RB it's/PPSBEZ taking/VBG longer/RBR to/TO get/VB things/NNS squared/VBN away/RB than/CS the/AT bankers/NNS expected/VBD ./pct
 Any/DTI shareholder/NN of/IN any/DTI of/IN these/DTS funds/NNS who/WPS finds/VBZ a/AT mistake/NN in/IN his/PPg account/NN certainly/RB should/MD get/VB in/IN touch/NN with/IN the/AT bank/NN ./pct
-Doyle/NP cannot /None undertake/VB to/TO reply/VB to/IN inquiries/NNS ./pct
+Doyle/NP cannot/MD* undertake/VB to/TO reply/VB to/IN inquiries/NNS ./pct
 He/PPS selects/VBZ queries/NNS or/CC general/JJ interest/NN to/TO answer/VB ./pct
 Washington/NP (/pct AP/NP )/pct
 --/pct Alfred/NP Hayes/NP ,/pct president/NN of/IN the/AT Federal/JJ Reserve/NN Bank/NN of/IN New/JJ York/NP ,/pct said/VBD Tuesday/NR ``/pct there/EX is/BEZ no/AT present/JJ need/NN for/IN far-reaching/JJ reforms/NNS ''/pct which/WDT would/MD basically/RB alter/VB the/AT international/JJ financial/JJ system/NN ./pct
-Hayes/NP said/VBD that/CS if/CS a/AT way/NN can/MD be/BE found/VBN to/TO deal/VB effectively/RB with/IN short-term/NN capital/NN movements/NNS between/IN nations/NNS ,/pct ``/pct there/EX is/BEZ no/AT reason/NN ,/pct in/IN my/PPg judgment/NN why/WRB the/AT international/JJ financial/JJ system/NN cannot /None work/VB satisfactorily/RB for/IN at/IN least/AP the/AT foreseeable/JJ future/NN ''/pct ./pct
+Hayes/NP said/VBD that/CS if/CS a/AT way/NN can/MD be/BE found/VBN to/TO deal/VB effectively/RB with/IN short-term/NN capital/NN movements/NNS between/IN nations/NNS ,/pct ``/pct there/EX is/BEZ no/AT reason/NN ,/pct in/IN my/PPg judgment/NN why/WRB the/AT international/JJ financial/JJ system/NN cannot/MD* work/VB satisfactorily/RB for/IN at/IN least/AP the/AT foreseeable/JJ future/NN ''/pct ./pct
 Washington/NP (/pct UPI/NP )/pct
 --/pct New/JJ York/NP Central/JJ Railroad/NN president/NN Alfred/NP E./NP Perlman/NP said/VBD Tuesday/NR his/PPg line/NN would/MD face/VB the/AT threat/NN of/IN bankruptcy/NN if/CS the/AT Chesapeake/NP &/CC Ohio/NP and/CC Baltimore/NP &/CC Ohio/NP Railroads/NNS merge/VB ./pct
 Perlman/NP said/VBD bankruptcy/NN would/MD not/NEG be/BE an/AT immediate/JJ effect/NN of/IN the/AT merger/NN ,/pct but/CC could/MD possibly/RB be/BE an/AT ultimate/JJ effect/NN ./pct

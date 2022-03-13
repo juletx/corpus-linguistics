@@ -1,55 +1,55 @@
-That's /None what/WDT the/AT man/NN had/HVD said/VBN ./pct
+That's/DTBEZ what/WDT the/AT man/NN had/HVD said/VBN ./pct
 Haney/NP peered/VBD doubtfully/RB at/IN his/PPg drinking/VBG companion/NN through/IN bleary/JJ ,/pct tear-filled/JJ eyes/NNS ./pct
 He/PPS had/HVD no/AT ready/JJ answer/NN ,/pct as/QL much/RB from/IN surprise/NN as/CS from/IN the/AT fit/NN of/IN coughing/VBG ./pct
 Was/BEDZ the/AT man/NN drunk/JJ or/CC crazy/JJ or/CC both/ABX ?/pct ?/pct
 But/CC his/PPg new-found/JJ buddy/NN had/HVD matched/VBN him/PPO drink/NN for/IN drink/NN until/CS he/PPS lost/VBD count/NN ,/pct and/CC the/AT man's/NNg eyes/NNS were/BED still/RB clear/JJ ./pct
 The/AT guy/NN is/BEZ off/IN his/PPg rocker/NN ,/pct Haney/NP thought/VBD to/IN himself/PPL ,/pct and/CC looked/VBD away/RB from/IN those/DTS eyes/NNS ./pct
 Eyes/NNS that/WPS were/BED clear/JJ ,/pct but/CC also/RB bright/JJ with/IN a/AT strange/JJ intensity/NN ,/pct a/AT sort/NN of/IN cold/JJ fire/NN burning/VBG behind/IN them/PPO ./pct
-Why/WRB hadn't /None he/PPS noticed/VBN it/PPO before/RB ?/pct ?/pct
+Why/WRB hadn't/HVD* he/PPS noticed/VBN it/PPO before/RB ?/pct ?/pct
 No/RB ,/pct the/AT man/NN was/BEDZ not/NEG drunk/JJ
 He/PPS wondered/VBD how/WRB he/PPS got/VBD tied/VBN up/RP with/IN this/DT stranger/NN ./pct
 But/CC ,/pct of/IN course/NN ,/pct he/PPS remembered/VBD now/RB ./pct
 It/PPS was/BEDZ blurred/VBN ,/pct after/IN two/CD hours/NNS of/IN steady/JJ drinking/NN ,/pct but/CC the/AT occasion/NN of/IN it/PPO came/VBD back/RB to/IN him/PPO ./pct
 The/AT stranger/NN ,/pct his/PPg head/NN seemingly/RB sunk/VBN in/IN thought/NN ,/pct started/VBD to/TO cross/VB the/AT street/NN against/IN the/AT light/NN just/RB as/CS a/AT huge/JJ moving/VBG van/NN roared/VBD through/IN the/AT intersection/NN ./pct
-Brakes/NNS howled/VBD and/CC a/AT horn/NN blared/VBD furiously/RB ,/pct but/CC the/AT man/NN would/MD have/HV been/BEN hit/VBN if/CS Phil/NP hadn't /None called/VBN out/RP to/IN him/PPO a/AT second/NN before/RB ./pct
+Brakes/NNS howled/VBD and/CC a/AT horn/NN blared/VBD furiously/RB ,/pct but/CC the/AT man/NN would/MD have/HV been/BEN hit/VBN if/CS Phil/NP hadn't/HVD* called/VBN out/RP to/IN him/PPO a/AT second/NN before/RB ./pct
 His/PPg shout/NN had/HVD been/BEN involuntary/JJ ,/pct something/PN anybody/PN might/MD have/HV done/VBN without/IN thinking/VBG ,/pct on/IN the/AT spur/NN of/IN the/AT moment/NN ./pct
-As/CS a/AT matter/NN of/IN fact/NN ,/pct he/PPS wouldn't /None have/HV cared/VBN at/IN all/ABN if/CS the/AT guy/NN had/HVD been/BEN hit/VBN ./pct
+As/CS a/AT matter/NN of/IN fact/NN ,/pct he/PPS wouldn't/MD* have/HV cared/VBN at/IN all/ABN if/CS the/AT guy/NN had/HVD been/BEN hit/VBN ./pct
 Actually/RB ,/pct he/PPS regretted/VBD having/HVG opened/VBN his/PPg mouth/NN when/WRB the/AT truck/NN came/VBD to/IN a/AT stop/NN and/CC the/AT angry/JJ driver/NN jumped/VBD down/RP from/IN the/AT cab/NN and/CC walked/VBD back/RB toward/IN them/PPO ./pct
 By/IN then/RB ,/pct the/AT stranger/NN was/BEDZ thanking/VBG Haney/NP profusely/RB and/CC had/HVD one/CD arm/NN around/IN his/PPg shoulders/NNS as/CS if/CS he/PPS were/BED an/AT old/JJ friend/NN ./pct
 So/CS the/AT driver/NN started/VBD to/TO curse/VB at/IN both/ABX of/IN them/PPO as/CS if/CS they/PPSS had/HVD been/BEN in/IN a/AT plot/NN together/RB to/TO ruin/VB his/PPg safe-driving/NN record/NN ./pct
 Then/RB the/AT man/NN he/PPS saved/VBD turned/VBD and/CC looked/VBD squarely/RB into/IN the/AT truck/NN driver's/NNg face/NN ,/pct without/IN saying/VBG a/AT word/NN ./pct
 Very/QL suddenly/RB ,/pct the/AT driver/NN stopped/VBD swearing/VBG at/IN them/PPO ,/pct turned/VBD on/IN his/PPg heel/NN and/CC went/VBD back/RB to/IN his/PPg truck/NN ./pct
-Haney/NP hadn't /None given/VBN it/PPO much/AP thought/NN at/IN the/AT time/NN ./pct
+Haney/NP hadn't/HVD* given/VBN it/PPO much/AP thought/NN at/IN the/AT time/NN ./pct
 Now/RB he/PPS recalled/VBD it/PPO very/QL clearly/RB ,/pct and/CC wondered/VBD what/WDT the/AT truck/NN driver/NN had/HVD seen/VBN in/IN those/DTS eyes/NNS to/TO make/VB him/PPO back/VB off/RP ./pct
 It/PPS must/MD have/HV been/BEN the/AT sort/NN of/IN look/NN that/WPS can/MD call/VB a/AT bluff/NN without/IN saying/VBG a/AT word/NN ./pct
 When/WRB the/AT light/NN went/VBD their/PPg way/NN ,/pct they/PPSS went/VBD on/RP across/IN the/AT street/NN ./pct
 And/CC when/WRB the/AT stranger/NN found/VBD out/RP that/CS Phil/NP was/BEDZ on/IN the/AT way/NN to/IN one/CD of/IN his/PPg favorite/JJ bars/NNS ,/pct he/PPS insisted/VBD on/IN offering/VBG to/TO buy/VB drinks/NNS for/IN both/ABX of/IN them/PPO ./pct
 Phil/NP usually/RB went/VBD alone/RB and/CC kept/VBD to/IN himself/PPL ,/pct sitting/VBG in/IN a/AT corner/NN and/CC passing/VBG the/AT time/NN by/IN nursing/VBG his/PPg favorite/JJ grudges/NNS ./pct
-But/CC he/PPS decided/VBD he/PPS wouldn't /None mind/VB company/NN in/IN return/NN for/IN free/JJ drinks/NNS ,/pct even/RB though/CS he/PPS made/VBD good/JJ money/NN at/IN his/PPg job/NN ./pct
+But/CC he/PPS decided/VBD he/PPS wouldn't/MD* mind/VB company/NN in/IN return/NN for/IN free/JJ drinks/NNS ,/pct even/RB though/CS he/PPS made/VBD good/JJ money/NN at/IN his/PPg job/NN ./pct
 Phil/NP was/BEDZ like/CS that/DT ./pct
 Now/RB he/PPS wondered/VBD if/CS it/PPS was/BEDZ worth/JJ it/PPO ,/pct having/HVG a/AT screwball/NN for/IN company/NN ./pct
-He/PPS really/RB didn't /None take/VB the/AT offer/NN seriously/RB ,/pct but/CC he/PPS began/VBD to/TO feel/VB uneasy/JJ ./pct
-When/WRB he/PPS finally/RB got/VBD the/AT coughing/NN under/IN control/NN ,/pct he/PPS realized/VBD that/CS Pete/NP (/pct all/ABN he/PPS gave/VBD was/BEDZ his/PPg first/OD name/NN )/pct was/BEDZ still/RB waiting/VBG for/IN an/AT answer/NN --/pct he/PPS didn't /None even/RB seem/VB to/TO wink/VB as/CS he/PPS continued/VBD to/TO stare/VB ./pct
+He/PPS really/RB didn't/DOD* take/VB the/AT offer/NN seriously/RB ,/pct but/CC he/PPS began/VBD to/TO feel/VB uneasy/JJ ./pct
+When/WRB he/PPS finally/RB got/VBD the/AT coughing/NN under/IN control/NN ,/pct he/PPS realized/VBD that/CS Pete/NP (/pct all/ABN he/PPS gave/VBD was/BEDZ his/PPg first/OD name/NN )/pct was/BEDZ still/RB waiting/VBG for/IN an/AT answer/NN --/pct he/PPS didn't/DOD* even/RB seem/VB to/TO wink/VB as/CS he/PPS continued/VBD to/TO stare/VB ./pct
 Haney/NP managed/VBD a/AT weak/JJ laugh/NN ./pct
-``/pct Guess/VB I/PPSS can't /None think/VB of/IN anyone/PN ,/pct Pete/NP ./pct
+``/pct Guess/VB I/PPSS can't/MD* think/VB of/IN anyone/PN ,/pct Pete/NP ./pct
 Thanks/NNS anyhow/RB ''/pct ./pct
 A/AT faint/JJ crease/NN appeared/VBD between/IN the/AT man's/NNg eyebrows/NNS ./pct
-``/pct I/PPSS think/VB you/PPSS aren't /None taking/VBG me/PPO seriously/RB ,/pct Phil/NP ./pct
+``/pct I/PPSS think/VB you/PPSS aren't/BER* taking/VBG me/PPO seriously/RB ,/pct Phil/NP ./pct
 I/PPSS meant/VBD it/PPO ./pct
 And/CC everybody/PN has/HVZ some/DTI kind/NN of/IN grudge/NN ./pct
-I/PPSS might/MD have/HV got/VBN hit/VBN by/IN that/DT truck/NN if/CS it/PPS wasn't /None for/IN you/PPO ./pct
+I/PPSS might/MD have/HV got/VBN hit/VBN by/IN that/DT truck/NN if/CS it/PPS wasn't/BEDZ* for/IN you/PPO ./pct
 I/PPSS believe/VB in/IN returning/VBG favors/NNS ./pct
-I'll /None do/DO anything/PN for/IN somebody/PN I/PPSS like/VB ./pct
-It/PPS won't /None cost/VB you/PPO a/AT cent/NN ,/pct Phil/NP ./pct
+I'll/PPSSMD do/DO anything/PN for/IN somebody/PN I/PPSS like/VB ./pct
+It/PPS won't/MD* cost/VB you/PPO a/AT cent/NN ,/pct Phil/NP ./pct
 Go/VB ahead/RB and/CC try/VB me/PPO ''/pct !/pct !/pct
 Phil/NP rubbed/VBD his/PPg forehead/NN wearily/RB ./pct
 He/PPS was/BEDZ beginning/VBG to/TO feel/VB woolly/JJ ./pct
 Maybe/RB it/PPS would/MD be/BE better/JJR to/TO humor/VB the/AT guy/NN and/CC then/RB make/VB an/AT exit/NN ./pct
-He/PPS really/RB didn't /None expect/VB anything/PN to/TO come/VB of/IN it/PPO ,/pct and/CC there/EX were/BED a/AT few/AP people/NNS
-``/pct All/QL right/RB ''/pct ,/pct he/PPS conceded/VBD finally/RB ,/pct ``/pct if/CS you/PPSS must/MD know/VB ,/pct I/PPSS don't /None get/VB along/RB with/IN the/AT landlord/NN ./pct
-He/PPS keeps/VBZ riding/VBG me/PPO because/CS I/PPSS like/VB to/TO listen/VB to/IN the/AT radio/NN and/CC sing/VB while/CS I'm /None taking/VBG a/AT bath/NN ./pct
-He/PPS says/VBZ the/AT neighbors/NNS complain/VB ,/pct but/CC I/PPSS don't /None believe/VB it/PPO ./pct
-Why/WRB don't /None they/PPSS tell/VB me/PPO themselves/PPLS if/CS it/PPS bothers/VBZ them/PPO ''/pct ?/pct ?/pct
+He/PPS really/RB didn't/DOD* expect/VB anything/PN to/TO come/VB of/IN it/PPO ,/pct and/CC there/EX were/BED a/AT few/AP people/NNS
+``/pct All/QL right/RB ''/pct ,/pct he/PPS conceded/VBD finally/RB ,/pct ``/pct if/CS you/PPSS must/MD know/VB ,/pct I/PPSS don't/DO* get/VB along/RB with/IN the/AT landlord/NN ./pct
+He/PPS keeps/VBZ riding/VBG me/PPO because/CS I/PPSS like/VB to/TO listen/VB to/IN the/AT radio/NN and/CC sing/VB while/CS I'm/PPSSBEM taking/VBG a/AT bath/NN ./pct
+He/PPS says/VBZ the/AT neighbors/NNS complain/VB ,/pct but/CC I/PPSS don't/DO* believe/VB it/PPO ./pct
+Why/WRB don't/DO* they/PPSS tell/VB me/PPO themselves/PPLS if/CS it/PPS bothers/VBZ them/PPO ''/pct ?/pct ?/pct
 The/AT man/NN closed/VBD his/PPg eyes/NNS and/CC nodded/VBD ./pct
 When/WRB he/PPS looked/VBD up/RP again/RB ,/pct he/PPS seemed/VBD almost/QL contented/VBN ./pct
 ``/pct Fine/JJ ./pct
@@ -58,11 +58,11 @@ It/PPS will/MD take/VB a/AT little/AP time/NN ./pct
 I/PPSS want/VB to/TO study/VB your/PPg landlord's/NNg habits/NNS and/CC movements/NNS first/RB ./pct
 You/PPSS see/VB ,/pct I/PPSS always/RB make/VB it/PPO look/VB like/CS an/AT accident/NN ./pct
 Maybe/RB suicide/NN ,/pct if/CS it/PPS looks/VBZ reasonable/JJ ./pct
-In/IN that/DT way/NN there's /None no/AT trouble/NN for/IN the/AT customer/NN ''/pct ./pct
+In/IN that/DT way/NN there's/EXBEZ no/AT trouble/NN for/IN the/AT customer/NN ''/pct ./pct
 Haney's/NPg eyebrows/NNS flew/VBD up/RP ./pct
 ``/pct Customer/NN ''/pct ?/pct ?/pct
 Pete/NP smiled/VBD modestly/RB ./pct
-``/pct It's /None my/PPg line/NN of/IN work/NN ''/pct ,/pct he/PPS said/VBD
+``/pct It's/PPSBEZ my/PPg line/NN of/IN work/NN ''/pct ,/pct he/PPS said/VBD
 Five/CD minutes/NNS later/RBR ,/pct before/CS Haney/NP could/MD make/VB his/PPg break/NN ,/pct the/AT stranger/NN stood/VBD up/RP and/CC nodded/VBD farewell/NN ./pct
 Haney/NP watched/VBD the/AT small/JJ but/CC wiry/JJ man/NN slip/VB out/IN the/AT door/NN quickly/RB and/CC silently/RB ,/pct and/CC felt/VBD relieved/VBN to/TO see/VB that/CS nobody/PN else/RB seemed/VBD to/TO notice/VB his/PPg departure/NN ./pct
 Phil/NP decided/VBD to/TO stay/VB a/AT little/AP longer/JJR ,/pct and/CC as/CS time/NN passed/VBD it/PPS seemed/VBD as/CS if/CS the/AT strange/JJ little/AP man/NN had/HVD never/RB been/BEN there/RB ,/pct but/CC for/IN the/AT other/AP glass/NN on/IN the/AT table/NN ./pct
@@ -91,7 +91,7 @@ The/AT stranger/NN really/RB had/HVD nothing/PN to/TO do/DO with/IN it/PPO ,/pct
 Haney/NP went/VBD to/IN bed/NN ,/pct happy/JJ that/CS at/IN least/AP he/PPS was/BEDZ rid/JJ of/IN that/DT lousy/JJ landlord/NN ./pct
 After/IN all/ABN ,/pct the/AT man/NN had/HVD no/AT family/NN ,/pct so/CS no/AT one/PN suffered/VBD ,/pct and/CC everybody/PN was/BEDZ better/JJR off/RP for/IN it/PPO ./pct
 Really/RB ,/pct he/PPS said/VBD to/IN himself/PPL ,/pct nobody/PN kills/VBZ a/AT man/NN just/RB as/CS a/AT favor/NN !/pct !/pct
-So/RB you/PPSS thought/VBD I/PPSS didn't /None mean/VB what/WDT I/PPSS said/VBD ./pct
+So/RB you/PPSS thought/VBD I/PPSS didn't/DOD* mean/VB what/WDT I/PPSS said/VBD ./pct
 The/AT stranger's/NNg eyes/NNS were/BED large/JJ and/CC sad/JJ ,/pct as/CS if/CS Phil/NP Haney/NP had/HVD hurt/NN his/PPg feelings/NNS ./pct
 It/PPS was/BEDZ like/CS a/AT recurrent/JJ ,/pct annoying/JJ dream/NN ,/pct but/CC now/RB the/AT dream/NN was/BEDZ beginning/VBG to/TO take/VB on/IN overtones/NNS of/IN a/AT nightmare/NN ./pct
 However/WRB ,/pct Haney/NP knew/VBD it/PPS was/BEDZ not/NEG a/AT dream/NN ./pct
@@ -105,18 +105,18 @@ In/IN fact/NN ,/pct he/PPS had/HVD only/RB mentioned/VBN him/PPO on/IN the/AT sp
 His/PPg real/JJ grievance/NN was/BEDZ Lolly/NP ./pct
 Toward/IN the/AT end/NN of/IN his/PPg fourth/OD hairy/JJ highball/NN ,/pct while/CS he/PPS was/BEDZ moodily/RB making/VBG wet/JJ rings/NNS on/IN the/AT table-top/NN with/IN the/AT bottom/NN of/IN the/AT glass/NN ,/pct he/PPS became/VBD aware/JJ that/CS he/PPS was/BEDZ not/NEG alone/RB ./pct
 He/PPS looked/VBD up/RP with/IN bloodshot/JJ eyes/NNS and/CC beheld/VBD the/AT stranger/NN sitting/VBG across/IN the/AT table/NN ,/pct smiling/VBG a/AT secret/JJ smile/NN at/IN him/PPO ,/pct as/CS if/CS they/PPSS were/BED fellow/NN conspirators/NNS ./pct
-He/PPS hadn't /None even/RB noticed/VBN --/pct what/WDT was/BEDZ his/PPg name/NN ?/pct ?/pct
+He/PPS hadn't/HVD* even/RB noticed/VBN --/pct what/WDT was/BEDZ his/PPg name/NN ?/pct ?/pct
 Pete/NP ?/pct ?/pct
---/pct he/PPS hadn't /None seen/VBN him/PPO sit/VB down/RP ./pct
+--/pct he/PPS hadn't/HVD* seen/VBN him/PPO sit/VB down/RP ./pct
 The/AT man/NN was/BEDZ uncanny/JJ ,/pct like/CS a/AT shadow/NN ,/pct and/CC made/VBD as/QL much/AP noise/NN as/CS a/AT shadow/NN ./pct
 Haney/NP felt/VBD like/CS shrinking/VBG out/RP of/IN sight/NN ,/pct but/CC he/PPS was/BEDZ already/RB trapped/VBN in/IN the/AT corner/NN with/IN the/AT wiry/JJ ,/pct dark/JJ little/AP man/NN ./pct
-He/PPS began/VBD to/TO wish/VB that/CS he/PPS hadn't /None shouted/VBN that/DT other/AP evening/NN when/WRB the/AT truck/NN bore/VBD down/RP through/IN the/AT crossing/NN ./pct
+He/PPS began/VBD to/TO wish/VB that/CS he/PPS hadn't/HVD* shouted/VBN that/DT other/AP evening/NN when/WRB the/AT truck/NN bore/VBD down/RP through/IN the/AT crossing/NN ./pct
 Was/BEDZ he/PPS going/VBG to/TO be/BE saddled/VBN from/IN now/RB on/RP with/IN a/AT creep/NN for/IN a/AT bar-buddy/NN ?/pct ?/pct
-He'd /None have/HV to/TO start/VB going/VBG to/IN some/DTI of/IN the/AT other/AP places/NNS again/RB ./pct
+He'd/PPSMD have/HV to/TO start/VB going/VBG to/IN some/DTI of/IN the/AT other/AP places/NNS again/RB ./pct
 In/IN a/AT low/JJ voice/NN ,/pct almost/RB whispering/VBG ,/pct the/AT man/NN had/HVD asked/VBN Phil/NP if/CS he/PPS was/BEDZ happy/JJ with/IN the/AT way/NN the/AT landlord/NN had/HVD been/BEN taken/VBN off/IN his/PPg back/NN ./pct
 He/PPS made/VBD the/AT mistake/NN of/IN answering/VBG in/IN an/AT offhand/JJ way/NN ,/pct and/CC instantly/RB realized/VBD that/CS his/PPg skepticism/NN must/MD have/HV showed/VBN in/IN his/PPg face/NN or/CC voice/NN ./pct
 Pete/NP frowned/VBD slightly/RB ,/pct then/RB became/VBD sad/JJ and/CC moody/JJ ./pct
-Haney/NP didn't /None want/VB to/TO encourage/VB his/PPg company/NN ,/pct but/CC felt/VBD he/PPS ought/MD to/TO buy/VB him/PPO a/AT drink/NN anyhow/RB ,/pct to/TO prevent/VB possible/JJ trouble/NN ./pct
+Haney/NP didn't/DOD* want/VB to/TO encourage/VB his/PPg company/NN ,/pct but/CC felt/VBD he/PPS ought/MD to/TO buy/VB him/PPO a/AT drink/NN anyhow/RB ,/pct to/TO prevent/VB possible/JJ trouble/NN ./pct
 But/CC there/EX was/BEDZ no/AT trouble/NN ./pct
 The/AT guy/NN sulked/VBD over/IN his/PPg drink/NN ,/pct obviously/RB upset/VBN by/IN Haney's/NPg lack/NN of/IN appreciation/NN ./pct
 To/TO break/VB the/AT uncomfortable/JJ silence/NN ,/pct Haney/NP began/VBD to/TO talk/VB ./pct
@@ -126,16 +126,16 @@ When/WRB he/PPS paused/VBD to/TO moisten/VB his/PPg throat/NN ,/pct the/AT stran
 If/CS she/PPS runs/VBZ around/RB with/IN other/AP men/NNS ,/pct and/CC if/CS you/PPSS hate/VB her/PPO as/CS you/PPSS say/VB ,/pct why/WRB not/NEG just/RB divorce/VB her/PPO ''/pct ?/pct ?/pct
 Haney/NP scowled/VBD ./pct
 ``/pct That/DT bitch/NN would/MD love/VB a/AT divorce/NN ''/pct ,/pct he/PPS growled/VBD ./pct
-``/pct Then/RB she'd /None get/VB half/ABN of/IN everything/PN I/PPSS have/HV ./pct
+``/pct Then/RB she'd/PPSMD get/VB half/ABN of/IN everything/PN I/PPSS have/HV ./pct
 Community/NN property/NN deal/NN --/pct you/PPSS know/VB ./pct
-I'd /None have/HV to/TO sell/VB out/RP my/PPg business/NN to/TO pay/VB her/PPO off/RP with/IN her/PPg share/NN ./pct
+I'd/PPSSMD have/HV to/TO sell/VB out/RP my/PPg business/NN to/TO pay/VB her/PPO off/RP with/IN her/PPg share/NN ./pct
 She/PPS can/MD drop/VB dead/JJ ''/pct !/pct !/pct
 Pete/NP nodded/VBD understandingly/RB ./pct
 ``/pct Oh/UH yes/RB ./pct
 Now/RB I/PPSS see/VB ./pct
-You/PPSS must/MD understand/VB ,/pct I/PPSS haven't /None been/BEN in/IN this/DT state/NN too/QL long/JJ ./pct
+You/PPSS must/MD understand/VB ,/pct I/PPSS haven't/HV* been/BEN in/IN this/DT state/NN too/QL long/JJ ./pct
 I/PPSS came/VBD out/RP here/RB to/TO retire/VB ./pct
-That's /None why/WRB I/PPSS --/pct why/WRB I/PPSS do/DO a/AT free/JJ job/NN now/RB and/CC then/RB ./pct
+That's/DTBEZ why/WRB I/PPSS --/pct why/WRB I/PPSS do/DO a/AT free/JJ job/NN now/RB and/CC then/RB ./pct
 You/PPSS should/MD have/HV told/VBN me/PPO about/IN her/PPO before/RB ''/pct ./pct
 Haney/NP felt/VBD a/AT twinge/NN of/IN annoyance/NN when/WRB he/PPS heard/VBD the/AT now/RB familiar/JJ line/NN again/RB ./pct
 Then/RB a/AT wild/JJ thought/NN ran/VBD circles/NNS through/IN his/PPg clouded/VBN brain/NN ./pct
@@ -144,9 +144,9 @@ A/AT retired/VBN professional/JJ killer/NN If/CS he/PPS was/BEDZ just/RB a/AT nu
 But/CC if/CS he/PPS was/BEDZ the/AT real/JJ thing/NN ,/pct he/PPS could/MD do/DO something/PN about/IN Lolly/NP ./pct
 He/PPS felt/VBD very/QL cunning/JJ ,/pct very/QL proud/JJ of/IN himself/PPL as/CS he/PPS played/VBD on/IN the/AT other/AP man's/NNg soft/JJ spot/NN ./pct
 ``/pct No/AT offense/NN intended/VBN ''/pct ,/pct he/PPS said/VBD gently/RB ./pct
-``/pct But/CC it's /None just/RB that/CS --/pct well/UH ,/pct you/PPSS know/VB ./pct
-The/AT cops/NNS didn't /None suspect/VB a/AT thing/NN ,/pct and/CC I/PPSS thought/VBD it/PPS was/BEDZ a/AT coincidence/NN ./pct
-After/IN all/ABN ,/pct I/PPSS didn't /None know/VB you/PPO ,/pct Pete/NP ./pct
+``/pct But/CC it's/PPSBEZ just/RB that/CS --/pct well/UH ,/pct you/PPSS know/VB ./pct
+The/AT cops/NNS didn't/DOD* suspect/VB a/AT thing/NN ,/pct and/CC I/PPSS thought/VBD it/PPS was/BEDZ a/AT coincidence/NN ./pct
+After/IN all/ABN ,/pct I/PPSS didn't/DOD* know/VB you/PPO ,/pct Pete/NP ./pct
 It/PPS could/MD have/HV been/BEN an/AT accident/NN ''/pct ./pct
 He/PPS shrugged/VBD casually/RB ./pct
 ``/pct But/CC if/CS you/PPSS say/VB you/PPSS managed/VBD it/PPO ''/pct The/AT stranger/NN was/BEDZ hooked/VBN ./pct

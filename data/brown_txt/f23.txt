@@ -56,7 +56,7 @@ The/AT evidence/NN suggests/VBZ that/CS foreign/JJ peoples/NNS believe/VB the/AT
 This/DT ignorant/JJ estimate/NN ,/pct I/PPSS repeat/VB ,/pct is/BEZ not/NEG of/IN any/DTI interest/NN in/IN itself/PPL ;/pct ;/pct
 but/CC it/PPS becomes/VBZ very/QL important/JJ if/CS foreign/JJ peoples/NNS react/VB the/AT way/NN human/JJ beings/NNS typically/RB do/DO --/pct namely/RB ,/pct by/IN taking/VBG steps/NNS to/TO end/VB up/RP on/IN what/WDT appears/VBZ to/TO be/BE the/AT winning/VBG side/NN ./pct
 To/IN the/AT extent/NN ,/pct then/RB ,/pct that/CS declining/VBG U.S./NP prestige/NN means/VBZ that/CS other/AP nations/NNS will/MD be/BE tempted/VBN to/TO place/VB their/PPg bets/NNS on/IN an/AT ultimate/JJ American/JJ defeat/NN ,/pct and/CC will/MD thus/RB be/BE more/QL vulnerable/JJ to/IN Soviet/NN intimidation/NN ,/pct there/EX is/BEZ reason/NN for/IN concern/NN ./pct
-Still/RB ,/pct these/DTS guesses/NNS about/IN the/AT outcome/NN of/IN the/AT struggle/NN cannot /None be/BE as/QL important/JJ as/CS the/AT actual/JJ power/NN relationship/NN between/IN the/AT Soviet/NN Union/NN and/CC ourselves/PPLS ./pct
+Still/RB ,/pct these/DTS guesses/NNS about/IN the/AT outcome/NN of/IN the/AT struggle/NN cannot/MD* be/BE as/QL important/JJ as/CS the/AT actual/JJ power/NN relationship/NN between/IN the/AT Soviet/NN Union/NN and/CC ourselves/PPLS ./pct
 Here/RB I/PPSS do/DO not/NEG speak/VB of/IN military/JJ power/NN where/WRB our/PPg advantage/NN is/BEZ obvious/JJ and/CC overwhelming/JJ but/CC of/IN political/JJ power/NN --/pct of/IN influence/NN ,/pct if/CS you/PPSS will/MD --/pct about/IN which/WDT the/AT relevant/JJ questions/NNS are/BER :/pct Is/BEZ Soviet/NN influence/NN throughout/IN the/AT world/NN greater/JJR or/CC less/AP than/CS it/PPS was/BEDZ ten/CD years/NNS ago/RB ?/pct ?/pct
 And/CC is/BEZ Western/JJ influence/NN greater/JJR or/CC less/AP than/CS it/PPS used/VBD to/TO be/BE ?/pct ?/pct
 Communist/JJ gains/NNS
@@ -97,5 +97,5 @@ There/EX was/BEDZ the/AT Polish/JJ Revolution/NN which/WDT we/PPSS misunderstood
 There/EX was/BEDZ the/AT revolution/NN in/IN Tibet/NP which/WDT we/PPSS pretended/VBD did/DOD not/NEG exist/VB ./pct
 Only/RB in/IN one/CD instance/NN have/HV we/PPSS moved/VBN purposively/RB and/CC effectively/RB to/TO dislodge/VB existing/VBG Communist/JJ power/NN :/pct in/IN Guatemala/NP ./pct
 And/CC contrary/JJ to/IN what/WDT has/HVZ been/BEN said/VBN recently/RB ,/pct we/PPSS did/DOD not/NEG wait/VB for/IN ``/pct outside/JJ pressures/NNS ''/pct and/CC ``/pct world/NN opinion/NN ''/pct to/TO bring/VB down/RP that/DT Communist/JJ government/NN ;/pct ;/pct
-we/PPSS moved/VBD decisively/RB to/TO effect/VB an/AT Anti-Communist/JJ coup/NN d'etat /None ./pct
+we/PPSS moved/VBD decisively/RB to/TO effect/VB an/AT Anti-Communist/JJ coup/NN d'etat/INNN ./pct
 We/PPSS served/VBD our/PPg national/JJ interests/NNS ,/pct and/CC by/IN so/RB doing/VBG we/PPSS saved/VBD the/AT Guatemalan/JJ people/NNS the/AT ultimate/JJ in/IN human/JJ misery/NN ./pct

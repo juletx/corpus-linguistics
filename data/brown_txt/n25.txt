@@ -47,7 +47,7 @@ Cautious/JJ feet/NNS stepping/VBG on/IN leafmold/NN ;/pct ;/pct
 faint/JJ creaking/NN of/IN belts/NNS and/CC slings/NNS ;/pct ;/pct
 whispers/NNS :/pct he/PPS heard/VBD none/PN of/IN these/DTS ./pct
 Only/RB the/AT hum/NN of/IN insects/NNS and/CC the/AT distant/JJ fluttering/VBG call/NN of/IN a/AT bird/NN ./pct
-Because/CS he/PPS couldn't /None hear/VB them/PPO ,/pct he/PPS was/BEDZ more/RBR convinced/VBN they/PPSS were/BED there/RB ./pct
+Because/CS he/PPS couldn't/MD* hear/VB them/PPO ,/pct he/PPS was/BEDZ more/RBR convinced/VBN they/PPSS were/BED there/RB ./pct
 A/AT spectacle/NN occurred/VBD across/IN the/AT meadow/NN :/pct the/AT lone/JJ marine/NN took/VBD a/AT seat/NN on/IN the/AT ground/NN ;/pct ;/pct
 leaning/VBG sidewise/RB on/IN a/AT tree/NN trunk/NN ,/pct he/PPS embraced/VBD it/PPO ./pct
 Humiliation/NN made/VBD Matsuo/NP tremble/VB ./pct
@@ -92,7 +92,7 @@ Maintaining/VBG his/PPg clutch/NN on/IN the/AT hair/NN ,/pct Matsuo/NP watched/V
 In/IN one/CD :/pct a/AT package/NN of/IN cigarettes/NNS and/CC a/AT tinplated/VBN lighter/NN ,/pct both/ABX sticky/JJ from/IN the/AT man's/NNg bleeding/NN ./pct
 In/IN the/AT other/AP :/pct a/AT wristwatch/NN with/IN broken/VBN crystal/NN wrapped/VBN in/IN a/AT dirty/JJ handkerchief/NN ./pct
 One/CD by/IN one/CD he/PPS tossed/VBD the/AT objects/NNS aside/RB ./pct
-He/PPS didn't /None smoke/VB and/CC could/MD not/NEG light/VB fires/NNS with/IN a/AT flintless/JJ lighter/NN ;/pct ;/pct
+He/PPS didn't/DOD* smoke/VB and/CC could/MD not/NEG light/VB fires/NNS with/IN a/AT flintless/JJ lighter/NN ;/pct ;/pct
 he/PPS had/HVD no/AT use/NN any/DTI longer/JJR for/IN exact/JJ time/NN ,/pct even/RB had/HVD the/AT watch/NN been/BEN running/VBG ./pct
 Then/RB there/EX was/BEDZ no/AT saying/NN how/WRB many/AP times/NNS the/AT marine/NN had/HVD blown/VBN his/PPg nose/NN on/IN the/AT handkerchief/NN ./pct
 Too/QL bad/JJ the/AT marine/NN had/HVD no/AT water/NN ./pct
@@ -157,7 +157,7 @@ It/PPS was/BEDZ the/AT marine/NN :/pct head/NN lifted/VBN ,/pct he/PPS strained/
 Then/RB he/PPS astonished/VBD Matsuo/NP by/IN pushing/VBG and/CC dragging/VBG himself/PPL until/CS he/PPS sat/VBD ./pct
 He/PPS cupped/VBD his/PPg mouth/NN and/CC yelled/VBD ./pct
 Matsuo/NP hustled/VBD the/AT rifle/NN off/IN his/PPg shoulder/NN ./pct
-Once/RB and/CC for/IN all/ABN he'd /None finish/VB this/DT marine/NN who/WPS would/MD not/NEG die/VB ./pct
+Once/RB and/CC for/IN all/ABN he'd/PPSMD finish/VB this/DT marine/NN who/WPS would/MD not/NEG die/VB ./pct
 He/PPS aimed/VBD ,/pct but/CC listened/VBD ./pct
 It/PPS sounded/VBD as/CS if/CS the/AT man/NN were/BED calling/VBG him/PPO :/pct ``/pct Hey/UH ,/pct Japanese/NP hey/UH there/RB ,/pct Japanese/NP ''/pct ./pct
 The/AT man/NN tilted/VBD back/RB his/PPg head/NN and/CC went/VBD through/IN the/AT pantomime/NN of/IN drinking/VBG from/IN a/AT container/NN ./pct
@@ -180,7 +180,7 @@ down/RP in/IN the/AT broil/NN of/IN the/AT sun/NN he/PPS was/BEDZ becoming/VBG d
 The/AT marine/NN shouted/VBD for/IN it/PPO until/CS it/PPS seemed/VBD that/CS his/PPg voice/NN had/HVD to/TO crack/VB ./pct
 Matsuo/NP shook/VBD his/PPg head/NN ./pct
 He/PPS had/HVD no/AT water/NN for/IN an/AT enemy/NN ./pct
-And/CC when/WRB this/DT was/BEDZ gone/VBN ,/pct he/PPS hadn't /None even/RB a/AT little/QL bitter/JJ tablet/NN to/TO purify/VB other/AP water/NN if/CS he/PPS were/BED to/TO discover/VB some/DTI stagnant/JJ jungle/NN pool/NN ./pct
+And/CC when/WRB this/DT was/BEDZ gone/VBN ,/pct he/PPS hadn't/HVD* even/RB a/AT little/QL bitter/JJ tablet/NN to/TO purify/VB other/AP water/NN if/CS he/PPS were/BED to/TO discover/VB some/DTI stagnant/JJ jungle/NN pool/NN ./pct
 He/PPS capped/VBD the/AT bottle/NN and/CC replaced/VBD it/PPO ./pct
 After/IN all/ABN ,/pct he/PPS had/HVD less/AP reason/NN to/TO desire/VB it/PPO than/CS the/AT marine/NN ./pct
 Before/IN much/QL longer/JJR the/AT marine/NN quieted/VBD down/RP ./pct
@@ -189,7 +189,7 @@ The/AT upper/JJ part/NN of/IN his/PPg packet/NN had/HVD stained/VBN dark/JJ ./pc
 ``/pct Marine/NN ./pct
 There/EX is/BEZ nothing/PN for/IN you/PPO ''/pct ,/pct Matsuo/NP said/VBD ./pct
 ``/pct Your/PPg superiors/NNS will/MD certainly/RB beat/VB you/PPO for/IN your/PPg desertion/NN ,/pct besides/IN the/AT dishonor/NN of/IN it/PPO ./pct
-I've /None nothing/PN for/IN you/PPO ''/pct ./pct
+I've/PPSSHV nothing/PN for/IN you/PPO ''/pct ./pct
 From/IN the/AT convulsive/JJ quivers/NNS of/IN the/AT man's/NNg shoulders/NNS it/PPS was/BEDZ plain/JJ he/PPS had/HVD resumed/VBN the/AT weeping/NN ./pct
 He/PPS reminded/VBD Matsuo/NP of/IN a/AT similar/JJ thing/NN he/PPS had/HVD witnessed/VBN in/IN China/NP ./pct
 In/IN China/NP it/PPS was/BEDZ a/AT baby/NN sitting/VBG on/IN a/AT railroad/NN platform/NN ,/pct smudged/VBN ,/pct blood-specked/JJ ,/pct with/IN the/AT village/NN burning/VBG about/IN him/PPO and/CC shells/NNS exploding/VBG ./pct

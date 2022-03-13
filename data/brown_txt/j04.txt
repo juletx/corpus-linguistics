@@ -83,15 +83,15 @@ The/AT x-ray/NN data/NNS are/BER consistent/JJ with/IN particle/NN sizes/NNS of/
 We/PPSS found/VBD no/AT obvious/JJ effects/NNS due/JJ to/IN preferred/VBN orientation/NN of/IN the/AT crystallites/NNS in/IN this/DT sample/NN nor/CC would/MD we/PPSS expect/VB to/TO on/IN the/AT basis/NN of/IN the/AT shape/NN found/VBN from/IN electron/NN microscopic/JJ examination/NN ./pct
 Nuclear/JJ magnetic/JJ resonance/NN (/pct NMR/NP )/pct measurements/NNS
 The/AT magnetic/JJ resonance/NN absorption/NN was/BEDZ detected/VBN by/IN employing/VBG a/AT Varian/JJ model/NN Af/NN broad/JJ line/NN spectrometer/NN and/CC the/AT associated/VBN 12-inch/JJ electromagnet/NN system/NN ./pct
-One/CD measurement/NN at/IN 40/CD Mc/sec/NN was/BEDZ obtained/VBN with/IN the/AT Varian/JJ model/NN Af/NN unit/NN ./pct
-A/AT bridged-T/JJ type/NN of/IN bridge/NN was/BEDZ used/VBN in/IN the/AT 10/CD -/pct 16/CD Mc/sec/NN range/NN ./pct
+One/CD measurement/NN at/IN 40/CD Mc:sec/NN was/BEDZ obtained/VBN with/IN the/AT Varian/JJ model/NN Af/NN unit/NN ./pct
+A/AT bridged-T/JJ type/NN of/IN bridge/NN was/BEDZ used/VBN in/IN the/AT 10/CD -/pct 16/CD Mc:sec/NN range/NN ./pct
 The/AT rf/NN power/NN level/NN was/BEDZ maintained/VBN small/JJ enough/QLP at/IN all/ABN times/NNS to/TO prevent/VB obvious/JJ line/NN shape/NN distortions/NNS by/IN saturation/NN effects/NNS ./pct
 A/AT modulation/NN frequency/NN of/IN 40/CD cps/NN with/IN an/AT amplitude/NN as/QL small/JJ as/CS possible/JJ ,/pct commensurate/JJ with/IN reasonably/QL good/JJ signal-to-noise/JJ quality/NN ,/pct was/BEDZ used/VBN ./pct
 Background/NN spectra/NNS were/BED obtained/VBN in/IN all/ABN cases/NNS ./pct
 The/AT spectrometer/NN was/BEDZ adjusted/VBN to/TO minimize/VB the/AT amount/NN of/IN dispersion/NN mode/NN mixed/VBN in/RP with/IN the/AT absorption/NN signal/NN ./pct
 A/AT single/AP value/NN of/IN the/AT thermal/JJ relaxation/NN time/NN Af/NN at/IN room/NN temperature/NN was/BEDZ measured/VBN by/IN the/AT progressive/JJ saturation/NN method/NN ./pct
 The/AT value/NN of/IN Af/NN estimated/VBN at/IN 470/CD gauss/NN was/BEDZ Af/NN microseconds/NNS ./pct
-A/AT single/AP measurement/NN of/IN the/AT spin/NN -/pct spin/NN relaxation/NN time/NN Af/NN was/BEDZ obtained/VBN at/IN 10/CD Mc/sec/NN by/IN pulse/NN methods/NNS ./pct
+A/AT single/AP measurement/NN of/IN the/AT spin/NN -/pct spin/NN relaxation/NN time/NN Af/NN was/BEDZ obtained/VBN at/IN 10/CD Mc:sec/NN by/IN pulse/NN methods/NNS ./pct
 This/DT measurement/NN was/BEDZ obtained/VBN by/IN W./NP Blumberg/NP of/IN the/AT University/NN of/IN California/NP ,/pct Berkeley/NP ,/pct by/IN observing/VBG the/AT breadth/NN of/IN the/AT free/JJ induction/NN decay/NN signal/NN ./pct
 The/AT value/NN derived/VBN was/BEDZ 16/CD microseconds/NNS ./pct
 Field/NN shifts/NNS were/BED derived/VBN from/IN the/AT mean/JJ value/NN of/IN the/AT resonance/NN line/NN ,/pct defined/VBN as/CS the/AT field/NN about/IN which/WDT the/AT first/OD moment/NN is/BEZ zero/CD ./pct

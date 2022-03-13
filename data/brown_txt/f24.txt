@@ -19,8 +19,8 @@ The/AT American/JJ newspaperman/NN worried/VBD about/IN getting/VBG to/IN the/AT
 But/CC what/WDT was/BEDZ the/AT story/NN ?/pct ?/pct
 Had/HVD the/AT Communist-led/JJ Pathet/NP Lao/NP finally/RB come/VBN this/QL far/RB ?/pct ?/pct
 Or/CC was/BEDZ it/PPS another/DT revolt/NN inside/IN Vientiane/NP ?/pct ?/pct
-``/pct Let's /None play/VB hero/NN ''/pct ,/pct I/PPSS said/VBD ./pct
-``/pct Let's /None go/VB to/IN the/AT roof/NN and/CC see/VB ''/pct ./pct
+``/pct Let's/VBPPO play/VB hero/NN ''/pct ,/pct I/PPSS said/VBD ./pct
+``/pct Let's/VBPPO go/VB to/IN the/AT roof/NN and/CC see/VB ''/pct ./pct
 Gunfire/NN saves/VBZ the/AT moon/NN
 By/IN 7:50/CD the/AT answer/NN was/BEDZ plain/JJ ./pct
 There/EX had/HVD been/BEN an/AT eclipse/NN of/IN the/AT moon/NN ./pct
@@ -39,7 +39,7 @@ This/DT damage/NN had/HVD been/BEN done/VBN in/IN the/AT battle/NN of/IN Vientia
 And/CC now/RB ,/pct in/IN March/NP ,/pct all/ABN Laos/NP suffered/VBD a/AT state/NN of/IN siege/NN ./pct
 The/AT Pathet/NP Lao/NP forces/NNS held/VBD two/CD northern/JJ provinces/NNS and/CC openly/RB took/VBD the/AT offensive/JJ in/IN three/CD more/AP ./pct
 Throughout/IN the/AT land/NN their/PPg hit-and-run/JJ terrorists/NNS spread/VBD fear/NN of/IN ambush/NN and/CC death/NN ./pct
-``/pct And/CC it's /None all/ABN the/AT more/QL tragic/JJ because/CS it's /None so/QL little/QL deserved/VBN ''/pct ,/pct said/VBD Mr./NP J./NP J./NP A./NP Frans/NP ,/pct a/AT Belgian/JJ official/NN of/IN the/AT United/VBN Nations/NNS Educational/JJ ,/pct Scientific/JJ ,/pct and/CC Cultural/JJ Organization/NN ./pct
+``/pct And/CC it's/PPSBEZ all/ABN the/AT more/QL tragic/JJ because/CS it's/PPSBEZ so/QL little/QL deserved/VBN ''/pct ,/pct said/VBD Mr./NP J./NP J./NP A./NP Frans/NP ,/pct a/AT Belgian/JJ official/NN of/IN the/AT United/VBN Nations/NNS Educational/JJ ,/pct Scientific/JJ ,/pct and/CC Cultural/JJ Organization/NN ./pct
 We/PPSS talked/VBD after/CS I/PPSS hailed/VBD his/PPg Jeep/NN marked/VBN with/IN the/AT U.N./NP flag/NN ./pct
 Practically/QL all/ABN the/AT people/NNS of/IN Laos/NP ,/pct he/PPS explained/VBD --/pct about/RB two/CD million/CD of/IN them/PPO --/pct are/BER rice/NN farmers/NNS ,/pct and/CC the/AT means/NNS and/CC motives/NNS of/IN modern/JJ war/NN are/BER as/QL strange/JJ to/IN them/PPO as/CS clocks/NNS and/CC steel/NN plows/NNS ./pct
 They/PPSS look/VB after/RB their/PPg fields/NNS and/CC children/NNS and/CC water/NN buffaloes/NNS in/IN ten/CD or/CC eleven/CD thousand/CD villages/NNS ,/pct with/IN an/AT average/NN of/IN 200/CD souls/NNS ./pct
@@ -67,7 +67,7 @@ We/PPSS were/BED there/RB at/IN a/AT moment/NN when/WRB the/AT situation/NN in/I
 Even/RB if/CS it/PPS did/DOD not/NEG ,/pct how/WRB would/MD this/DT little/JJ world/NN of/IN gentle/JJ people/NNS cope/VB with/IN its/PPg new/JJ reality/NN of/IN grenades/NNS and/CC submachine/JJ guns/NNS ?/pct ?/pct
 To/TO find/VB out/RP ,/pct we/PPSS traveled/VBD throughout/IN that/DT part/NN of/IN Laos/NP still/RB nominally/RB controlled/VBN ,/pct in/IN the/AT daytime/NN at/IN least/AP ,/pct by/IN the/AT Royal/JJ Lao/NP Army/NN :/pct from/IN Attopeu/NP ,/pct the/AT City/NN of/IN Buffalo/NN Dung/NN in/IN the/AT southeast/NR ,/pct to/IN Muong/NP Sing/NP ,/pct the/AT City/NN of/IN Lions/NNS in/IN the/AT northwest/NR ,/pct close/JJ to/IN Communist/NN China/NP (/pct map/NN ,/pct page/NN 250/CD )/pct ./pct
 We/PPSS rode/VBD over/IN roads/NNS so/QL rough/JJ that/CS our/PPg Jeep/NN came/VBD to/IN rest/NN atop/IN the/AT soil/NN between/IN ruts/NNS ,/pct all/ABN four/CD wheels/NNS spinning/VBG uselessly/RB ./pct
-We/PPSS flew/VBD in/IN rickety/JJ planes/NNS so/QL overloaded/VBN that/CS we/PPSS wondered/VBD why/WRB they/PPSS didn't /None crash/VB ./pct
+We/PPSS flew/VBD in/IN rickety/JJ planes/NNS so/QL overloaded/VBN that/CS we/PPSS wondered/VBD why/WRB they/PPSS didn't/DOD* crash/VB ./pct
 In/IN the/AT end/NN we/PPSS ran/VBD into/IN Communist/JJ artillery/NN fire/NN ./pct
 ``/pct We/PPSS ''/pct were/BED Bill/NP Garrett/NP of/IN the/AT National/JJ Geographic/JJ Illustrations/NNS Staff/NN ,/pct whose/WPg three/CD cameras/NNS and/CC eight/CD lenses/NNS made/VBD him/PPO look/VB as/QL formidable/JJ as/CS any/DTI fighting/VBG man/NN we/PPSS met/VBD ;/pct ;/pct
 Boun/NP My/NP ,/pct our/PPg interpreter/NN ;/pct ;/pct
@@ -114,7 +114,7 @@ Mr./NP Keo/NP agreed/VBD ./pct
 ``/pct Our/PPg people/NNS have/HV been/BEN used/VBN to/IN accepting/VBG things/NNS as/CS they/PPSS found/VBD them/PPO ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct Where/WRB there/EX was/BEDZ no/AT road/NN ,/pct they/PPSS lived/VBD without/IN one/CD ./pct
 Now/RB they/PPSS learn/VB that/CS men/NNS can/MD change/VB their/PPg surroundings/NNS ,/pct through/IN their/PPg traditional/JJ village/NN elders/NNS ,/pct without/IN violence/NN ./pct
-That's /None a/AT big/JJ step/NN toward/IN a/AT modern/JJ state/NN ./pct
+That's/DTBEZ a/AT big/JJ step/NN toward/IN a/AT modern/JJ state/NN ./pct
 You/PPSS might/MD say/VB we/PPSS are/BER in/IN the/AT nation-building/JJ business/NN ''/pct ./pct
 In/IN the/AT villages/NNS people/VB lined/VBD up/RP to/TO give/VB us/PPO flowers/NNS ./pct
 Then/RB came/VBD coconuts/NNS ,/pct eggs/NNS ,/pct and/CC rice/NN wine/NN ./pct
@@ -122,7 +122,7 @@ The/AT Prime/JJ Minister/NN paid/VBD his/PPg respects/NNS to/IN the/AT Buddhist/
 The/AT soldiers/NNS are/BER fighting/VBG and/CC the/AT Americans/NPS are/BER helping/VBG ,/pct he/PPS said/VBD ,/pct but/CC in/IN the/AT fight/NN against/IN the/AT Pathet/NP Lao/NP the/AT key/JJS factor/NN is/BEZ the/AT villager/NN himself/PPL ./pct
 Then/RB we/PPSS were/BED off/RP again/RB ./pct
 We/PPSS did/DOD it/PPO for/IN three/CD days/NNS ./pct
-But/CC our/PPg stumping/VBG tour/NN of/IN the/AT south/NR wasn't /None all/ABN misery/NN ./pct
+But/CC our/PPg stumping/VBG tour/NN of/IN the/AT south/NR wasn't/BEDZ* all/ABN misery/NN ./pct
 Crossing/VBG the/AT 4,000-foot/JJ width/NN of/IN the/AT Mekong/NP at/IN Champassak/NP ,/pct on/IN a/AT raft/NN with/IN an/AT outboard/JJ motor/NN ,/pct we/PPSS took/VBD off/IN our/PPg dusty/JJ shirts/NNS and/CC enjoyed/VBD a/AT veritable/JJ ocean/NN breeze/NN ./pct
 Then/RB we/PPSS hung/VBD overboard/RB in/IN the/AT water/NN ./pct
 Briefly/RB we/PPSS rolled/VBD over/IN a/AT paved/VBN road/NN up/RP to/IN Pak/NP Song/NP ,/pct on/IN the/AT cool/JJ Bolovens/NP Plateau/NN ./pct
@@ -145,4 +145,4 @@ These/DTS were/BED to/TO be/BE kept/VBN on/RP ,/pct to/TO hold/VB in/RP the/AT 3
 As/CS we/PPSS stepped/VBD out/RP into/IN the/AT sunlight/NN ,/pct a/AT man/NN came/VBD up/RP to/IN John/NP Cool/NP and/CC silently/RB showed/VBD him/PPO his/PPg hand/NN ./pct
 It/PPS had/HVD a/AT festering/VBG hole/NN as/QL big/JJ as/CS a/AT silver/NN dollar/NN ./pct
 We/PPSS could/MD see/VB maggots/NNS moving/VBG ./pct
-John/NP said/VBD :/pct ``/pct I/PPSS have/HV some/DTI antiseptic/JJ salve/NN with/IN me/PPO ,/pct but/CC it's /None too/QL late/RB for/IN that/DT ''/pct ./pct
+John/NP said/VBD :/pct ``/pct I/PPSS have/HV some/DTI antiseptic/JJ salve/NN with/IN me/PPO ,/pct but/CC it's/PPSBEZ too/QL late/RB for/IN that/DT ''/pct ./pct

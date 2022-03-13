@@ -15,9 +15,9 @@ He/PPS turned/VBD to/IN Susan/NP and/CC kissed/VBD her/PPO on/IN the/AT cheek/NN
 ``/pct Thank/VB you/PPO ,/pct My/PPg dear/NN ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct You/PPSS are/BER very/QL brave/JJ ''/pct ./pct
 Mike/NP silenced/VBD them/PPO ./pct
-``/pct We'll /None talk/VB later/RBR ./pct
-First/OD ,/pct we've /None got/VBN to/TO get/VB out/IN of/IN here/RB ''/pct ./pct
-``/pct We'll /None grab/VB horses/NNS ''/pct ,/pct Dean/NP said/VBD ./pct
+``/pct We'll/PPSSMD talk/VB later/RBR ./pct
+First/OD ,/pct we've/PPSSHV got/VBN to/TO get/VB out/IN of/IN here/RB ''/pct ./pct
+``/pct We'll/PPSSMD grab/VB horses/NNS ''/pct ,/pct Dean/NP said/VBD ./pct
 ``/pct The/AT main/NN bunch/NN is/BEZ outside/RB ,/pct but/CC there/EX are/BER some/DTI over/IN there/RB inside/IN the/AT wall/NN ''/pct ./pct
 Mike/NP debated/VBD it/PPO ,/pct trying/VBG to/TO decide/VB whether/CS Fiske/NP was/BEDZ strong/JJ enough/QLP to/TO ride/VB ./pct
 But/CC it/PPS at/IN least/AP offered/VBD him/PPO a/AT chance/NN for/IN living/VBG ./pct
@@ -31,15 +31,15 @@ About/RB a/AT dozen/NN animals/NNS were/BED held/VBN inside/IN the/AT stockade/N
 Evidently/RB this/DT was/BEDZ a/AT precaution/NN so/CS that/CS mounts/NNS would/MD be/BE available/JJ in/IN an/AT emergency/NN ./pct
 He/PPS handed/VBD the/AT guard's/NNg rifle/NN to/IN Fiske/NP ./pct
 ``/pct Dean/NP and/CC myself/PPL will/MD try/VB to/TO cut/VB out/RP horses/NNS to/TO ride/VB ''/pct ,/pct he/PPS said/VBD ./pct
-``/pct We'll /None stampede/VB the/AT rest/NN ./pct
+``/pct We'll/PPSSMD stampede/VB the/AT rest/NN ./pct
 You/PPSS stay/VB with/IN the/AT ladies/NNS ./pct
 All/ABN of/IN you/PPO be/BE ready/JJ to/TO ride/VB hell/NN for/IN leather/NN ''/pct ./pct
-He/PPS added/VBD ,/pct ``/pct If/CS this/DT doesn't /None work/VB out/RP ,/pct the/AT three/CD of/IN you/PPO barricade/VB yourself/PPL in/IN the/AT house/NN and/CC talk/VB terms/NNS with/IN them/PPO ''/pct ./pct
+He/PPS added/VBD ,/pct ``/pct If/CS this/DT doesn't/DOZ* work/VB out/RP ,/pct the/AT three/CD of/IN you/PPO barricade/VB yourself/PPL in/IN the/AT house/NN and/CC talk/VB terms/NNS with/IN them/PPO ''/pct ./pct
 He/PPS handed/VBD the/AT bayonet/NN to/IN Dean/NP and/CC kept/VBD the/AT pistol/NN ./pct
 Susan/NP halted/VBD Dean/NP and/CC kissed/VBD him/PPO ./pct
 She/PPS clung/VBD to/IN him/PPO ,/pct talking/VBG to/IN him/PPO ,/pct and/CC dabbing/VBG at/IN her/PPO eyes/NNS ./pct
 Mike/NP turned/VBD away/RB ./pct
-He/PPS was/BEDZ thinking/VBG that/CS the/AT way/NN she/PPS had/HVD responded/VBN to/IN his/PPg own/JJ kiss/NN hadn't /None meant/VBN what/WDT he/PPS had/HVD believed/VBN it/PPS had/HVD ./pct
+He/PPS was/BEDZ thinking/VBG that/CS the/AT way/NN she/PPS had/HVD responded/VBN to/IN his/PPg own/JJ kiss/NN hadn't/HVD* meant/VBN what/WDT he/PPS had/HVD believed/VBN it/PPS had/HVD ./pct
 He/PPS felt/VBD unutterably/RB weary/JJ ./pct
 Dean/NP turned/VBD from/IN Susan/NP and/CC took/VBD Julia/NP Fortune/NP in/IN his/PPg arms/NNS ./pct
 He/PPS kissed/VBD her/PPO also/RB ,/pct and/CC with/IN deep/JJ tenderness/NN ./pct
@@ -60,15 +60,15 @@ He/PPS might/MD tell/VB her/PPO how/WRB sorry/JJ a/AT spectacle/NN she/PPS was/B
 And/CC using/VBG him/PPO ,/pct Mike/NP McLish/NP ,/pct as/CS a/AT sop/NN to/IN her/PPg pride/NN ./pct
 He/PPS handed/VBD the/AT bayonet/NN to/IN Dean/NP and/CC kept/VBD the/AT pistol/NN ./pct
 ``/pct Stay/VB well/QL back/RB of/IN me/PPO ''/pct ,/pct he/PPS said/VBD ./pct
-``/pct I'm /None going/VBG to/TO walk/VB up/RP to/IN the/AT horses/NNS ,/pct bold/JJ as/CS brass/NN ,/pct pretending/VBG I'm /None one/CD of/IN the/AT guerrillas/NNS ./pct
-There's /None bound/VBN to/TO be/BE someone/PN on/IN guard/NN ,/pct but/CC the/AT hat/NN might/MD fool/VB them/PPO long/JJ enough/QLP for/IN me/PPO to/TO get/VB close/RB ''/pct ./pct
+``/pct I'm/PPSSBEM going/VBG to/TO walk/VB up/RP to/IN the/AT horses/NNS ,/pct bold/JJ as/CS brass/NN ,/pct pretending/VBG I'm/PPSSBEM one/CD of/IN the/AT guerrillas/NNS ./pct
+There's/EXBEZ bound/VBN to/TO be/BE someone/PN on/IN guard/NN ,/pct but/CC the/AT hat/NN might/MD fool/VB them/PPO long/JJ enough/QLP for/IN me/PPO to/TO get/VB close/RB ''/pct ./pct
 Holding/VBG the/AT pistol/NN concealed/VBN ,/pct he/PPS walked/VBD to/IN the/AT rear/JJ wall/NN of/IN the/AT stockade/NN ./pct
 It/PPS was/BEDZ pierced/VBN by/IN a/AT wagon/NN gate/NN built/VBN of/IN two/CD wings/NNS ./pct
 One/CD wing/NN stood/VBN open/JJ ./pct
 Mike/NP passed/VBD through/IN it/PPO and/CC moved/VBD toward/IN the/AT dark/JJ mass/NN of/IN horses/NNS ./pct
 They/PPSS were/BED tethered/VBN ,/pct army/NN style/NN ,/pct on/IN stable/NN lines/NNS ./pct
 A/AT voice/NN spoke/VBD near-at-hand/RB ./pct
-``/pct Who's /None that/DT ''/pct ?/pct ?/pct
+``/pct Who's/WPSBEZ that/DT ''/pct ?/pct ?/pct
 Just/RB me/PPO ''/pct ,/pct Mike/NP said/VBD ./pct
 ``/pct Is/BEZ that/DT you/PPSS ,/pct Bill/NP ''/pct ?/pct ?/pct
 He/PPS located/VBD his/PPg man/NN ./pct
@@ -87,10 +87,10 @@ The/AT startled/VBN horses/NNS began/VBD rearing/VBG on/IN their/PPg tethers/NNS
 Dean/NP came/VBD rushing/VBG up/RP ./pct
 ``/pct Are/BER you/PPSS hit/VBN ''/pct ?/pct ?/pct
 He/PPS demanded/VBD ./pct
-``/pct No/RB ,/pct but/CC the/AT fat's /None in/IN the/AT fire/NN ''/pct !/pct !/pct
+``/pct No/RB ,/pct but/CC the/AT fat's/NNBEZ in/IN the/AT fire/NN ''/pct !/pct !/pct
 Mike/NP said/VBD ./pct
-``/pct There's /None no/AT chance/NN now/RB of/IN all/ABN of/IN us/PPO getting/VBG away/RB ./pct
-You'll /None have/HV to/TO try/VB it/PPO alone/RB ''/pct ./pct
+``/pct There's/EXBEZ no/AT chance/NN now/RB of/IN all/ABN of/IN us/PPO getting/VBG away/RB ./pct
+You'll/PPSSMD have/HV to/TO try/VB it/PPO alone/RB ''/pct ./pct
 The/AT sentry's/NNg saddled/VBD horse/NN stood/VBD picketed/VBN nearby/RB ,/pct having/HVG been/BEN kept/VBN handy/JJ in/IN case/NN of/IN need/NN ./pct
 Mike/NP took/VBD the/AT bayonet/NN from/IN Dean's/NPg hand/NN and/CC slashed/VBD the/AT picket/NN line/NN ./pct
 ``/pct Up/RP you/PPSS go/VB ''/pct !/pct !/pct
@@ -101,21 +101,21 @@ Dean/NP resisted/VBD Mike's/NPg attempt/NN to/TO push/VB him/PPO toward/IN the/A
 He/PPS protested/VBD ./pct
 ``/pct Dammit/UH ''/pct !/pct !/pct
 Mike/NP said/VBD frantically/RB ./pct
-``/pct You're /None lighter/JJR than/CS me/PPO ./pct
-It's /None our/PPg only/AP chance/NN now/RB ./pct
+``/pct You're/PPSSBER lighter/JJR than/CS me/PPO ./pct
+It's/PPSBEZ our/PPg only/AP chance/NN now/RB ./pct
 Try/VB to/TO find/VB these/DTS Feds/NPS ./pct
 The/AT rest/NN of/IN us/PPO can/MD fort/VB up/RP in/IN the/AT house/NN and/CC hang/VB on/RP until/CS you/PPSS get/VB back/RB ./pct
-You're /None the/AT one/CD that's /None taking/VBG the/AT big/JJ chance/NN ''/pct ./pct
+You're/PPSSBER the/AT one/CD that's/WPSBEZ taking/VBG the/AT big/JJ chance/NN ''/pct ./pct
 Dean/NP still/RB hesitated/VBD ,/pct but/CC Mike/NP lifted/VBD him/PPO almost/QL bodily/RB into/IN the/AT saddle/NN and/CC thrust/VBD the/AT reins/NNS in/IN his/PPg hand/NN ./pct
 ``/pct No/AT telling/NN how/WRB good/JJ this/DT horse/NN is/BEZ ''/pct ,/pct Mike/NP panted/VBD ./pct
 ``/pct Favor/VB him/PPO and/CC save/VB something/PN in/IN case/NN you/PPSS hit/VB trouble/NN ./pct
 Watch/VB out/RP for/IN Apaches/NPS when/WRB it/PPS comes/VBZ daylight/NN ./pct
 Take/VB the/AT pistol/NN ./pct
 You/PPSS might/MD need/VB it/PPO ./pct
-We'll /None still/RB have/HV the/AT rifle/NN ,/pct and/CC I/PPSS might/MD be/BE able/JJ to/TO round/VB up/RP some/DTI more/AP ./pct
-I'll /None stampede/VB the/AT rest/NN of/IN these/DTS horses/NNS so/CS they/PPSS can't /None chase/VB you/PPO ''/pct ./pct
+We'll/PPSSMD still/RB have/HV the/AT rifle/NN ,/pct and/CC I/PPSS might/MD be/BE able/JJ to/TO round/VB up/RP some/DTI more/AP ./pct
+I'll/PPSSMD stampede/VB the/AT rest/NN of/IN these/DTS horses/NNS so/CS they/PPSS can't/MD* chase/VB you/PPO ''/pct ./pct
 Dean/NP leaned/VBD from/IN the/AT saddle/NN and/CC gave/VBD him/PPO a/AT mighty/JJ whack/NN on/IN the/AT back/NN ./pct
-``/pct McLish/NP ''/pct ,/pct he/PPS said/VBD as/CS he/PPS kicked/VBD the/AT horse/NN into/IN motion/NN ,/pct ``/pct I'd /None be/BE a/AT mighty/JJ sad/JJ man/NN if/CS we/PPSS never/RB met/VBD again/RB ''/pct ./pct
+``/pct McLish/NP ''/pct ,/pct he/PPS said/VBD as/CS he/PPS kicked/VBD the/AT horse/NN into/IN motion/NN ,/pct ``/pct I'd/PPSSMD be/BE a/AT mighty/JJ sad/JJ man/NN if/CS we/PPSS never/RB met/VBD again/RB ''/pct ./pct
 Then/RB he/PPS was/BEDZ on/IN his/PPg way/NN at/IN a/AT gallop/NN ./pct
 Mike/NP ran/VBD down/IN the/AT line/NN ,/pct slashing/VBG picket/NN ropes/NNS with/IN the/AT bayonet/NN ./pct
 He/PPS lifted/VBD a/AT screeching/VBG war/NN whoop/NN ./pct
@@ -126,7 +126,7 @@ The/AT animals/NNS thundered/VBD away/RB into/IN the/AT moonlight/NN ,/pct headi
 The/AT guerrillas/NNS were/BED swarming/VBG from/IN their/PPg bivouac/NN at/IN the/AT west/NR end/NN of/IN the/AT enclosure/NN ./pct
 ``/pct Apaches/NPS ''/pct !/pct !/pct
 Mike/NP yelled/VBD ./pct
-``/pct They're /None stealin'/VBG the/AT stock/NN ''/pct !/pct !/pct
+``/pct They're/PPSSBER stealin'/VBG the/AT stock/NN ''/pct !/pct !/pct
 He/PPS scuttled/VBD in/IN shadow/NN along/IN the/AT east/NR wall/NN of/IN the/AT stockade/NN and/CC then/RB followed/VBD the/AT south/NR wall/NN until/CS he/PPS was/BEDZ at/IN the/AT rear/NN of/IN the/AT two/CD frame/NN buildings/NNS ./pct
 He/PPS crouched/VBD there/RB ./pct
 His/PPg shout/NN had/HVD been/BEN taken/VBN up/RP and/CC repeated/VBN ./pct

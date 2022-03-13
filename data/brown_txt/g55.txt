@@ -10,7 +10,7 @@ I/PPSS went/VBD to/IN an/AT afternoon/NN service/NN at/IN the/AT Aj/NN ./pct
 I/PPSS went/VBD to/IN the/AT Christian/JJ Endeavor/NN Society/NN and/CC to/IN the/AT evening/NN service/NN of/IN the/AT church/NN ./pct
 Much/AP of/IN this/DT lacked/VBD the/AT active/JJ support/NN of/IN the/AT pastor/NN ./pct
 The/AT young/JJ people/NNS were/BED self-energizing/JJ ,/pct and/CC I/PPSS was/BEDZ energized/VBN ./pct
-Once/RB or/CC twice/RB my/PPg father/NN asked/VBD me/PPO if/CS I/PPSS wasn't /None overdoing/VBG a/AT bit/NN in/IN my/PPg churchgoing/NN ./pct
+Once/RB or/CC twice/RB my/PPg father/NN asked/VBD me/PPO if/CS I/PPSS wasn't/BEDZ* overdoing/VBG a/AT bit/NN in/IN my/PPg churchgoing/NN ./pct
 Meanwhile/RB I/PPSS myself/PPL was/BEDZ not/NEG yet/RB saved/VBN ./pct
 At/IN least/AP I/PPSS had/HVD been/BEN unable/JJ to/TO lay/VB hold/NN on/IN the/AT experience/NN of/IN conversion/NN ./pct
 Try/VB as/CS I/PPSS might/MD to/TO confess/VB my/PPg sins/NNS and/CC accept/VB salvation/NN ,/pct no/AT answer/NN came/VBD to/IN me/PPO from/IN heaven/NN ./pct
@@ -73,7 +73,7 @@ It/PPS is/BEZ puzzling/JJ to/IN the/AT occidental/JJ mind/NN (/pct to/IN mine/PP
 These/DTS lives/NNS are/BER in/IN themselves/PPLS outside/IN of/IN the/AT moral/JJ order/NN and/CC are/BER unburdened/VBN with/IN moral/JJ responsibility/NN ./pct
 There/EX is/BEZ indeed/RB a/AT moral/JJ responsibility/NN on/IN man/NN himself/PPL ,/pct for/IN his/PPg own/JJ soul's/NNg sake/NN ,/pct to/TO respect/VB lower/JJR life/NN and/CC to/TO avoid/VB the/AT infliction/NN of/IN suffering/VBG ,/pct but/CC this/DT viewpoint/NN Schweitzer/NP rejects/VBZ ./pct
 So/QL far/RB as/CS ``/pct sacredness/NN ''/pct inheres/VBZ in/IN any/DTI aspect/NN of/IN creation/NN it/PPS seems/VBZ to/IN me/PPO to/TO be/BE found/VBN in/IN human/JJ personality/NN ,/pct whether/CS in/IN Lambarene/NP ,/pct Africa/NP ,/pct or/CC in/IN Washington/NP ,/pct D.C./NP ./pct
-One/PN cannot /None read/VB the/AT records/NNS of/IN scientists/NNS ,/pct officials/NNS and/CC travelers/NNS who/WPS have/HV penetrated/VBN to/IN the/AT minds/NNS of/IN the/AT most/QL savage/JJ races/NNS without/IN realizing/VBG that/CS each/DT individual/NN met/VBN with/IN is/BEZ a/AT person/NN ./pct
+One/PN cannot/MD* read/VB the/AT records/NNS of/IN scientists/NNS ,/pct officials/NNS and/CC travelers/NNS who/WPS have/HV penetrated/VBN to/IN the/AT minds/NNS of/IN the/AT most/QL savage/JJ races/NNS without/IN realizing/VBG that/CS each/DT individual/NN met/VBN with/IN is/BEZ a/AT person/NN ./pct
 Read/VBN ,/pct for/IN instance/NN ,/pct in/IN Malcolm/NP MacDonald's/NPg Borneo/NP People/NNS of/IN Segura/NP and/CC her/PPg wise/JJ father/NN Tomonggong/NP Koh/NP ,/pct and/CC her/PPg final/JJ adjustment/NN to/IN encroaching/VBG civilization/NN ./pct
 Above/IN all/ABN read/VBN in/IN Jens/NP Bjerre's/NPg The/AT Last/AP Cannibal/NN Show/NN the/AT old/JJ man/NN of/IN the/AT Wailbri/NP tribe/NN (/pct not/NEG cannibals/NNS )/pct in/IN central/JJ Australia/NP gave/VBD to/IN the/AT white/JJ man/NN his/PPg choicest/JJT possession/NN ,/pct while/CS the/AT tears/NNS streamed/VBD down/IN his/PPg face/NN ./pct
 The/AT Australian/JJ aborigine/NN is/BEZ the/AT conventional/JJ exemplar/NN of/IN degraded/VBN humanity/NN ;/pct ;/pct

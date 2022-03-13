@@ -14,7 +14,7 @@ Suddenly/RB a/AT treble/JJ auto/NN horn/NN tootley-toot-tootled/VBD ,/pct and/CC
 ``/pct Mor-ee-air-teeeee/NP ''/pct ,/pct he/PPS shrieked/VBD ,/pct his/PPg white/JJ teeth/NNS grossly/RB counterpointing/VBG those/DTS of/IN the/AT glittering/VBG blonde/NN ./pct
 Over/IN the/AT rapidly-diminishing/JJ outline/NN of/IN a/AT jump/NN seat/NN piled/VBD high/RB with/IN luggage/NN Herry's/NPg black/JJ brushcut/NN was/BEDZ just/QL discernible/JJ ,/pct near/IN ,/pct or/CC enviably/RB near/IN that/DT spot/NN where/WRB --/pct hidden/VBN --/pct more/QL delicately-textured/JJ ,/pct most/QL beautifully/RB tinted/VBN hair/NN must/MD still/RB be/BE streaming/VBG back/RB in/IN cool/JJ ,/pct oh/UH cool/JJ wind/NN sweetly/RB perfumed/VBN with/IN sagebrush/NN and/CC yucca/NN flowers/NNS and/CC engine/NN fumes/NNS ./pct
 Damn/VB his/PPg luck/NN ./pct
-I/PPSS would/MD have/HV foregone/VBN my/PPg romantic/JJ chances/NNS rather/IN than/CS leave/NN a/AT friend/NN sweltering/VBG and/CC dusty/JJ and/CC --/pct Well/UH ,/pct at/IN least/AP I/PPSS wouldn't /None have/HV shouted/VBN back/RB a/AT taunt/NN ./pct
+I/PPSS would/MD have/HV foregone/VBN my/PPg romantic/JJ chances/NNS rather/IN than/CS leave/NN a/AT friend/NN sweltering/VBG and/CC dusty/JJ and/CC --/pct Well/UH ,/pct at/IN least/AP I/PPSS wouldn't/MD* have/HV shouted/VBN back/RB a/AT taunt/NN ./pct
 Still/RB nursing/VBG anger/NN I/PPSS listlessly/RB thumbed/VBD a/AT car/NN that/WPS was/BEDZ slowly/RB approaching/VBG ,/pct its/PPg pre-war/JJ chrome/NN nearly/RB blinding/VBG me/PPO ./pct
 It/PPS was/BEDZ stopping/VBG ./pct
 Just/RB as/CS I/PPSS straightened/VBD up/RP with/IN my/PPg duffel/NN bag/NN ,/pct I/PPSS heard/VBD :/pct ``/pct Sahjunt/NN Yoorick/NP ,/pct meet/VB Mrs./NP Major/NN J./NP A./NP Roebuck/NP ''/pct ./pct
@@ -22,21 +22,21 @@ The/AT voice/NN was/BEDZ that/DT of/IN Johnson/NP ,/pct tail/NN gunner/NN off/IN
 Squeezing/VBG a/AT look/NN between/IN Johnson's/NPg fat/JJ jowls/NNS and/CC the/AT car/NN frame/NN a/AT handsome/JJ and/CC still/RB darkhaired/JJ lady/NN inquired/VBD ``/pct Y'all/PPSS drahve/VB ''/pct ?/pct ?/pct
 I/PPSS nodded/VBD ./pct
 ``/pct Onleh/RB one/CD thiihng/NN ''/pct ,/pct Mrs./NP Roebuck/NP continued/VBD ./pct
-``/pct Ahm /None goin/VBG nawth/NR t'jawn /None mah/PPg husbun/NN in/IN Sante/NP Fe/NP ,/pct an/CC y'all/PPSS maht/MD prefuh/VB the/AT suhthuhn/JJ rewt/NN ./pct
-But/CC Corporal/NN Johnson/NP has/HVZ alreadeh/RB said/VBN it/PPS didn /None make/VB no/AT diffrunce/NN t'hi-im /None ''/pct ./pct
-I/PPSS said/VBD that/CS it/PPS didn't /None make/VB any/DTI difference/NN to/IN me/PPO either/RB ,/pct as/QL far/RB as/CS I/PPSS knew/VBD ./pct
+``/pct Ahm/PPSSBEM goin/VBG nawth/NR t'jawn/TOVB mah/PPg husbun/NN in/IN Sante/NP Fe/NP ,/pct an/CC y'all/PPSS maht/MD prefuh/VB the/AT suhthuhn/JJ rewt/NN ./pct
+But/CC Corporal/NN Johnson/NP has/HVZ alreadeh/RB said/VBN it/PPS didn/DOD* make/VB no/AT diffrunce/NN t'hi-im/INPPO ''/pct ./pct
+I/PPSS said/VBD that/CS it/PPS didn't/DOD* make/VB any/DTI difference/NN to/IN me/PPO either/RB ,/pct as/QL far/RB as/CS I/PPSS knew/VBD ./pct
 How/WRB far/RB I/PPSS knew/VBD will/MD shortly/RB become/VB apparent/JJ ./pct
 Let/VB me/PPO pass/VB over/IN the/AT trip/NN to/IN Sante/NP Fe/NP with/IN something/PN of/IN the/AT same/AP speed/NN which/WDT made/VBD Mrs./NP Roebuck/NP ``/pct wonduh/VB if/CS the/AT wahtahm/NN speed/NN limit/NN ''/pct (/pct 35/CD m.p.h./NNS )/pct ``/pct is/BEZ still/RB in/IN ee-faket/NN ''/pct ./pct
 I/PPSS let/VB up/RP on/IN the/AT accelerator/NN ,/pct only/RB to/TO gradually/RB reach/VB again/RB the/AT 60/CD m.p.h./NNS which/WDT would/MD ,/pct I/PPSS hoped/VBD ,/pct overhaul/VB Herry/NP and/CC the/AT blonde/NN ,/pct and/CC as/CS there/EX were/BED cars/NNS whose/WPg drivers/NNS apparently/RB had/HVD something/PN more/QL important/JJ to/TO catch/VB than/CS had/HVD I/PPSS ,/pct Mrs./NP Major/NN Roebuck/NP settled/VBD down/RP to/IN practicing/VBG on/IN Corporal/NN Johnson/NP the/AT kittenish/JJ wiles/NNS she/PPS would/MD need/VB when/WRB making/VBG her/PPg duty/NN call/NN on/IN Colonel/NN and/CC Mrs./NP Somebody/PN in/IN Sante/NP Fe/NP ./pct
 When/WRB Johnson/NP ejaculated/VBD ``/pct Howsabout/WRB my/PPg buying/VBG us/PPO all/ABN a/AT nice/JJ cold/JJ Co-cola/NP ,/pct Ma'am/NN ''/pct ?/pct ?/pct
 Mrs./NP Roebuck/NP smilingly/RB declined/VBD and/CC began/VBD suddenly/RB to/TO go/VB on/RP about/IN her/PPg son/NN ,/pct who/WPS was/BEDZ ``/pct onleh/RB a/AT little/QL younguh/JJR than/CS you/PPSS bawhs/NNS ''/pct ./pct
 Johnson/NP never/RB would/MD have/HV believed/VBN she/PPS had/HVD a/AT son/NN that/DT age/NN ./pct
-Mrs./NP Roebuck/NP thought/VBD Johnson/NP was/BEDZ a/AT ``/pct sweet/JJ bawh/NN t'lah /None lahk/IN thet/DT ''/pct ,/pct but/CC her/PPg Herman/NP was/BEDZ getting/VBG to/TO be/BE a/AT man/NN ,/pct there/EX was/BEDZ no/AT getting/NN around/IN it/PPO ./pct
+Mrs./NP Roebuck/NP thought/VBD Johnson/NP was/BEDZ a/AT ``/pct sweet/JJ bawh/NN t'lah/TOVB lahk/IN thet/DT ''/pct ,/pct but/CC her/PPg Herman/NP was/BEDZ getting/VBG to/TO be/BE a/AT man/NN ,/pct there/EX was/BEDZ no/AT getting/NN around/IN it/PPO ./pct
 ``/pct Just/RB befoh/CS he/PPS left/VBD foh/IN his/PPg academeh/NN we/PPSS wuh/BED hevin/HVG dack-rihs/NNS on/IN the/AT vuhranduh/NN ,/pct Major/NN Roebuck/NP an/CC Ah/PPSS ,/pct an/AT Huhmun/NP says/VBZ '/pct May/MD Ah/PPSS hev/HV one/CD too/RB '/pct ?/pct ?/pct
-Just/RB as/QL p'lite/JJ an/CC --/pct an/CC cohnfidunt/JJ ,/pct an/CC Ah/PPSS says/VBZ '/pct Uh/IN coahse/NN you/PPSS cain't /None '/pct ,/pct but/CC he/PPS says/VBZ '/pct Whah/WRB nawt/NEG ,/pct you/PPSS ah/BER hevin/HVG one/CD '/pct ?/pct ?/pct
-An/CC Ah/PPSS coudn /None ansuh/VB him/PPO an/CC so/RB Ah/PPSS said/VBD '/pct Aw/QL right/RB ,/pct Ah/PPSS gay-ess/VB ,/pct an/CC his/PPg fathuh/NN didn /None uttuh/VB one/CD wohd/NN an/CC aftuh/CS Huhmun/NP was/BEDZ gone/VBN ,/pct the/AT majuh/NN laughed/VBD an/CC tole/VBD me/PPO thet/CS he/PPS an/CC the/AT bawh/NN had/HVD been/BEN hevin/HVG an/AT occasional/JJ drink/NN t'gethuh/RB f'ovuh /None a/AT yeah/NN ,/pct onleh/RB an/AT occasional/JJ one/CD ,/pct but/CC just/RB the/AT same/AP it/PPS was/BEDZ behahn/IN mah/PPg back/NN ,/pct an/CC Ah/PPSS doan /None think/VB thet's /None nahce/JJ at/IN all/ABN ,/pct d'you /None ''/pct ?/pct ?/pct
-``/pct No/RB ,/pct I/PPSS don't /None ''/pct ,/pct Johnson/NP said/VBD ./pct
-``/pct I'm /None a/AT good/JJ Baptist/NP ,/pct and/CC drinking/VBG ''/pct
+Just/RB as/QL p'lite/JJ an/CC --/pct an/CC cohnfidunt/JJ ,/pct an/CC Ah/PPSS says/VBZ '/pct Uh/IN coahse/NN you/PPSS cain't/MD* '/pct ,/pct but/CC he/PPS says/VBZ '/pct Whah/WRB nawt/NEG ,/pct you/PPSS ah/BER hevin/HVG one/CD '/pct ?/pct ?/pct
+An/CC Ah/PPSS coudn/MD* ansuh/VB him/PPO an/CC so/RB Ah/PPSS said/VBD '/pct Aw/QL right/RB ,/pct Ah/PPSS gay-ess/VB ,/pct an/CC his/PPg fathuh/NN didn/DOD* uttuh/VB one/CD wohd/NN an/CC aftuh/CS Huhmun/NP was/BEDZ gone/VBN ,/pct the/AT majuh/NN laughed/VBD an/CC tole/VBD me/PPO thet/CS he/PPS an/CC the/AT bawh/NN had/HVD been/BEN hevin/HVG an/AT occasional/JJ drink/NN t'gethuh/RB f'ovuh/ININ a/AT yeah/NN ,/pct onleh/RB an/AT occasional/JJ one/CD ,/pct but/CC just/RB the/AT same/AP it/PPS was/BEDZ behahn/IN mah/PPg back/NN ,/pct an/CC Ah/PPSS doan/DO* think/VB thet's/DTBEZ nahce/JJ at/IN all/ABN ,/pct d'you/DOPPSS ''/pct ?/pct ?/pct
+``/pct No/RB ,/pct I/PPSS don't/DO* ''/pct ,/pct Johnson/NP said/VBD ./pct
+``/pct I'm/PPSSBEM a/AT good/JJ Baptist/NP ,/pct and/CC drinking/VBG ''/pct
 Mrs./NP Roebuck/NP very/QL kindly/RB let/VB me/PPO drive/VB through/IN Sante/NP Fe/NP to/IN a/AT road/NN which/WDT would/MD ,/pct she/PPS said/VBD ,/pct lead/VB us/PPO to/IN Taos/NP and/CC then/JJ Raton/NP and/CC ``/pct eventshahleh/RB ''/pct out/IN of/IN New/JJ Mexico/NP ./pct
 How/WRB lightly/RB her/PPg ``/pct eventshah-leh/RB ''/pct passed/VBD into/IN the/AT crannies/NNS where/WRB I/PPSS was/BEDZ storing/VBG dialect/NN material/NN for/IN some/DTI vaguely/RB dreamed/VBN opus/NN ,/pct and/CC how/WRB the/AT word/NN would/MD echo/VB ./pct
 And/CC re-echo/VB ./pct
@@ -57,14 +57,14 @@ Something/PN pulled/VBD my/PPg leg/NN ./pct
 I/PPSS drew/VBD back/RB ,/pct drawing/VBG back/RB my/PPg foot/NN for/IN a/AT kick/NN ./pct
 But/CC it/PPS was/BEDZ only/RB Johnson/NP reaching/VBG around/IN the/AT wire/NN chicken/NN fencing/NN ,/pct which/WDT half/ABN covered/VBN the/AT truck/NN cab's/NNg glassless/JJ rear/JJ window/NN ./pct
 The/AT way/NN his/PPg red/JJ rubber/NN lips/NNS were/BED stretched/VBN across/IN his/PPg pearly/JJ little/JJ teeth/NNS I/PPSS thought/VBD he/PPS was/BEDZ only/RB having/HVG a/AT little/JJ joke/NN ,/pct but/CC ,/pct no/RB ,/pct he/PPS wanted/VBD me/PPO to/TO bend/VB down/RP from/IN the/AT roar/NN of/IN wind/NN so/CS he/PPS could/MD roar/VB something/PN into/IN my/PPg ear/NN ./pct
-``/pct Wanna /None beer/NN ''/pct ?/pct ?/pct
+``/pct Wanna/VBAT beer/NN ''/pct ?/pct ?/pct
 ``/pct Hell/UH ,/pct yes/RB ''/pct ,/pct I/PPSS roared/VBD back/RB between/IN dusty/JJ lips/NNS ./pct
 Did/DOD I/PPSS want/VB a/AT beer/NN ?/pct ?/pct
 Did/DOD an/AT anteater/NN want/VB ants/NNS ?/pct ?/pct
 ``/pct Bueno/UH ,/pct amigo/NN ./pct
 Gracias/NNS ''/pct ,/pct I/PPSS hollered/VBD ,/pct my/PPg first/OD long/JJ swallow/NN filling/VBG me/PPO with/IN confidence/NN and/CC immediately/RB doubling/VBG the/AT size/NN of/IN my/PPg Spanish/JJ vocabulary/NN ./pct
 At/IN once/RB my/PPg ears/NNS were/BED drowned/VBN by/IN a/AT flow/NN of/IN what/WDT I/PPSS took/VBD to/TO be/BE Spanish/NP ,/pct but/CC --/pct the/AT driver's/NNg white/JJ teeth/NNS flashing/VBG at/IN me/PPO ,/pct the/AT road/NN wildly/RB veering/VBG beyond/IN his/PPg glistening/VBG hair/NN ,/pct beyond/IN his/PPg gesticulating/VBG bottle/NN --/pct it/PPS could/MD have/HV been/BEN the/AT purest/JJT Oxford/NP English/NP I/PPSS was/BEDZ half/ABN hearing/VBG ;/pct ;/pct
-I/PPSS wouldn't /None have/HV known/VBN the/AT difference/NN ./pct
+I/PPSS wouldn't/MD* have/HV known/VBN the/AT difference/NN ./pct
 Johnson/NP was/BEDZ trying/VBG to/TO grab/VB the/AT wheel/NN ,/pct though/CS the/AT swerve/NN of/IN the/AT truck/NN was/BEDZ throwing/VBG him/PPO away/RB from/IN it/PPO ./pct
 White/JJ teeth/NNS suddenly/RB vanishing/VBG ,/pct the/AT driver/NN slammed/VBD the/AT side/NN of/IN his/PPg bottle/NN against/IN Johnson's/NPg ear/NN ./pct
 We/PPSS were/BED off/IN the/AT road/NN ,/pct gleaming/VBG barbed/VBN wire/NN pulling/VBG taut/JJ ./pct
@@ -79,9 +79,9 @@ I/PPSS regained/VBD my/PPg squatting/VBG position/NN behind/IN the/AT truck/NN c
 Johnson's/NPg left/JJ hand/NN was/BEDZ pressed/VBN against/IN the/AT side/NN of/IN his/PPg head/NN ,/pct red/JJ cheeks/NNS whitening/VBG beneath/IN his/PPg fingers/NNS ./pct
 ``/pct Tee-wah/NP ''/pct ,/pct the/AT driver/NN cackled/VBD ,/pct his/PPg black/JJ eyes/NNS glittering/VBG behind/IN dull/JJ silver/JJ chicken/NN fencing/NN ./pct
 ``/pct That/DT was/BEDZ Tee-wah/NP I/PPSS was/BEDZ talking/VBG ./pct
-You/PPSS thought/VBD I/PPSS was/BEDZ a/AT Mexican/NP ,/pct didn't /None you/PPSS ,/pct buddy/NN ''/pct ?/pct ?/pct
+You/PPSS thought/VBD I/PPSS was/BEDZ a/AT Mexican/NP ,/pct didn't/DOD* you/PPSS ,/pct buddy/NN ''/pct ?/pct ?/pct
 I/PPSS nodded/VBD ./pct
-``/pct Hell/UH ,/pct that's /None all/QL right/JJ ,/pct buddy/NN ''/pct ,/pct the/AT Indian/NP (/pct I/PPSS now/RB guessed/VBD )/pct said/VBD ./pct
+``/pct Hell/UH ,/pct that's/DTBEZ all/QL right/JJ ,/pct buddy/NN ''/pct ,/pct the/AT Indian/NP (/pct I/PPSS now/RB guessed/VBD )/pct said/VBD ./pct
 ``/pct Drink/VB your/PPg beer/NN ''/pct ./pct
 Miraculously/RB ,/pct the/AT bottle/NN was/BEDZ still/RB in/IN my/PPg hand/NN ,/pct foam/NN still/RB geysering/VBG over/IN my/PPg (/pct luckily/RB )/pct waterproof/JJ watch/NN ./pct
 No/AT sooner/RBR had/HVD I/PPSS started/VBD drinking/VBG than/CS the/AT driver/NN started/VBD zigzagging/VBG the/AT truck/NN ./pct
@@ -105,7 +105,7 @@ Another/DT car/NN was/BEDZ coming/VBG ,/pct a/AT tiny/JJ ,/pct dark/JJ shape/NN 
 I/PPSS started/VBD looking/VBG on/IN the/AT splintery/JJ truck/NN bed/NN for/IN a/AT piece/NN of/IN board/NN ,/pct a/AT dirt/NN clod/NN --/pct anything/PN I/PPSS could/MD throw/VB and/CC with/IN better/JJR aim/NN than/CS I/PPSS had/HVD thrown/VBN the/AT beer/NN bottle/NN ./pct
 We/PPSS were/BED slowing/VBG ./pct
 In/IN the/AT ditch/NN sand/NN was/BEDZ white/JJ and/CC soft-looking/JJ ,/pct only/RB an/AT occasional/JJ pebble/NN discernible/JJ ,/pct faintly/RB gleaming/VBG ./pct
-But/CC Johnson/NP couldn't /None quickly/RB unwire/VB the/AT truck/NN door/NN ,/pct and/CC if/CS I/PPSS escaped/VBD ,/pct he/PPS might/MD suffer/VB ./pct
+But/CC Johnson/NP couldn't/MD* quickly/RB unwire/VB the/AT truck/NN door/NN ,/pct and/CC if/CS I/PPSS escaped/VBD ,/pct he/PPS might/MD suffer/VB ./pct
 The/AT car/NN was/BEDZ approaching/VBG fast/RB ./pct
 On/IN the/AT truck/NN bed/NN there/EX was/BEDZ nothing/PN smaller/JJR than/CS a/AT piece/NN of/IN rusty/JJ machinery/NN ;/pct ;/pct
 with/IN more/AP time/NN I/PPSS could/MD have/HV loosened/VBN a/AT small/JJ burr/NN or/CC cotter/NN pin/NN --/pct

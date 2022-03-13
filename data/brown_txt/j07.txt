@@ -15,7 +15,7 @@ According/IN to/IN Whipple/NP (/pct 1955/CD )/pct ,/pct cometary/JJ debris/NN is
 Asteroidal/JJ collisions/NNS are/BER also/RB thought/VBN to/TO contribute/VB material/NN ./pct
 It/PPS is/BEZ also/RB possible/JJ that/CS some/DTI of/IN the/AT dust/NN in/IN the/AT vicinity/NN of/IN the/AT Earth/NN originated/VBD from/IN meteoritic/JJ impacts/NNS upon/IN the/AT moon/NN ./pct
 5.3/CD direct/JJ measurements/NNS of/IN micrometeorite/NN flux/NN
-One/PN cannot /None make/VB a/AT very/QL satisfactory/JJ guess/NN about/IN the/AT micrometeorite/NN flux/NN in/IN space/NN ./pct
+One/PN cannot/MD* make/VB a/AT very/QL satisfactory/JJ guess/NN about/IN the/AT micrometeorite/NN flux/NN in/IN space/NN ./pct
 Even/RB in/IN the/AT neighborhood/NN of/IN the/AT Earth/NN ,/pct where/WRB information/NN has/HVZ been/BEN obtained/VBN both/ABX directly/RB and/CC indirectly/RB ,/pct the/AT derived/VBN flux/NN values/NNS vary/VB by/IN at/IN least/AP four/CD orders/NNS of/IN magnitude/NN ./pct
 This/DT large/JJ discrepancy/NN demonstrates/VBZ the/AT inadequacies/NNS of/IN the/AT experimental/JJ methods/NNS and/CC the/AT lack/NN of/IN understanding/NN of/IN the/AT various/AP phenomena/NNS involved/VBN ./pct
 Beyond/IN a/AT few/AP million/CD kilometers/NNS from/IN the/AT Earth/NN ,/pct but/CC still/RB in/IN the/AT region/NN of/IN the/AT Earth's/NNg orbit/NN ,/pct a/AT prediction/NN of/IN the/AT flux/NN of/IN dust/NN is/BEZ even/QL more/QL unreliable/JJ ./pct
@@ -46,7 +46,7 @@ Preliminary/JJ data/NNS from/IN 1959/CD Eta/NP give/VB an/AT average/JJ impact/N
 The/AT day-to-day/JJ rate/NN varied/VBD by/IN less/AP than/CS a/AT factor/NN of/IN 4.5/CD ./pct
 The/AT data/NNS have/HV not/NEG yet/RB been/BEN analyzed/VBN for/IN diurnal/JJ variations/NNS ./pct
 Note/VB that/CS the/AT mass/NN threshold/NN is/BEZ four/CD times/NNS that/DT of/IN 1958/CD Alpha/NP and/CC that/CS the/AT flux/NN is/BEZ one/CD fifth/OD as/CS large/JJ ./pct
-If/CS one/PN assumes/VBZ that/CS the/AT average/JJ flux/NN did/DOD not/NEG change/VB between/IN measurements/NNS ,/pct a/AT mass-distribution/NN curve/NN is/BEZ obtained/VBN which/WDT relates/VBZ the/AT flux/NN of/IN particles/NNS larger/JJR than/CS a/AT given/VBN radius/NN to/IN the/AT inverse/JJ 7/2/CD power/NN of/IN the/AT radius/NN ./pct
+If/CS one/PN assumes/VBZ that/CS the/AT average/JJ flux/NN did/DOD not/NEG change/VB between/IN measurements/NNS ,/pct a/AT mass-distribution/NN curve/NN is/BEZ obtained/VBN which/WDT relates/VBZ the/AT flux/NN of/IN particles/NNS larger/JJR than/CS a/AT given/VBN radius/NN to/IN the/AT inverse/JJ 7:2/CD power/NN of/IN the/AT radius/NN ./pct
 Space/NN probes/NNS have/HV yielded/VBN little/AP information/NN ./pct
 Pioneer/NN 1/CD ,/pct recorded/VBD a/AT decrease/NN in/IN flux/NN with/IN distance/NN from/IN the/AT Earth/NN on/IN the/AT basis/NN of/IN 11/CD counts/NNS in/IN 9/CD hours/NNS ./pct
 With/IN detectors/NNS sensitive/JJ to/IN three/CD mass/NN intervals/NNS and/CC based/VBN on/IN a/AT few/AP counts/NNS ,/pct the/AT second/OD and/CC third/OD Russian/JJ space/NN probes/NNS indicate/VB that/CS the/AT flux/NN of/IN the/AT smallest/JJT particles/NNS detected/VBN is/BEZ less/AP than/CS that/DT of/IN larger/JJR ones/NNS ./pct
@@ -86,7 +86,7 @@ The/AT mass/NN scale/NN used/VBN in/IN Table/NN 5-1/CD was/BEDZ derived/VBN on/I
 A/AT concentration/NN distribution/NN has/HVZ been/BEN derived/VBN from/IN radar/NN observations/NNS sensitive/JJ to/IN the/AT fifteenth/OD magnitude/NN (/pct Manning/NP and/CC Eshleman/NP ,/pct 1959/CD )/pct ./pct
 Extrapolation/NN of/IN this/DT relationship/NN through/IN the/AT thirtieth/OD magnitude/NN covers/VBZ the/AT range/NN of/IN micrometeorites/NNS ./pct
 The/AT approximate/JJ equation/NN is/BEZ Af/NN ,/pct where/WRB N/NP is/BEZ the/AT number/NN of/IN Af/NN with/IN electron/NN line-density/NN greater/JJR than/CS or/CC equal/JJ to/IN Af/NN ,/pct and/CC Q/NP is/BEZ proportional/JJ to/IN the/AT mass/NN of/IN the/AT meteorite/NN ./pct
-Therefore/RB ,/pct N/NP is/BEZ inversely/RB proportional/JJ to/IN the/AT radius/NN cubed/VBN and/CC in/IN fair/JJ agreement/NN with/IN the/AT inverse/JJ 7/2/CD power/NN derived/VBN from/IN 1958/CD Alpha/NP and/CC 1959/CD Eta/NP data/NNS ./pct
+Therefore/RB ,/pct N/NP is/BEZ inversely/RB proportional/JJ to/IN the/AT radius/NN cubed/VBN and/CC in/IN fair/JJ agreement/NN with/IN the/AT inverse/JJ 7:2/CD power/NN derived/VBN from/IN 1958/CD Alpha/NP and/CC 1959/CD Eta/NP data/NNS ./pct
 At/IN the/AT fifteenth/OD magnitude/NN ,/pct Af/NN ,/pct and/CC at/IN the/AT twenty-fifth/OD magnitude/NN ,/pct Af/NN ./pct
 These/DTS extrapolated/VBN fluxes/NNS are/BER about/RB an/AT order/NN of/IN magnitude/NN less/AP than/CS the/AT values/NNS from/IN the/AT satellite/NN data/NN and/CC the/AT figures/NNS in/IN Whipple's/NPg table/NN ./pct
 The/AT extrapolation/NN may/MD be/BE in/IN error/NN for/IN several/AP reasons/NNS ./pct

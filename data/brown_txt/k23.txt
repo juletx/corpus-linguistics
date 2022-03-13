@@ -28,7 +28,7 @@ I/PPSS hope/VB Raphael/NP bought/VBD them/PPO whole/JJ ''/pct ./pct
 Angelina/NP stepped/VBD back/RB ,/pct her/PPg eyes/NNS roaming/VBG the/AT tray/NN for/IN omissions/NNS ./pct
 Then/RB she/PPS looked/VBD at/IN the/AT old/JJ woman/NN again/RB ,/pct her/PPg eyes/NNS calm/VB ./pct
 ``/pct Yes/RB ''/pct ,/pct she/PPS said/VBD ,/pct ``/pct I/PPSS remember/VB that/CS they/PPSS came/VBD here/RB every/AT summer/NN ./pct
-I/PPSS used/VBD to/TO play/VB with/IN the/AT older/JJR one/CD sometimes/RB ,/pct when/WRB he'd /None let/VB me/PPO ./pct
+I/PPSS used/VBD to/TO play/VB with/IN the/AT older/JJR one/CD sometimes/RB ,/pct when/WRB he'd/PPSMD let/VB me/PPO ./pct
 Abel/NP ''/pct ?/pct ?/pct
 The/AT name/NN fell/VBD with/IN lazy/JJ affectionate/JJ remembrance/NN from/IN her/PPO lips/NNS ./pct
 For/IN an/AT instant/NN the/AT old/JJ aunt/NN felt/VBD something/PN indefinable/JJ flash/VB through/IN her/PPg smile/NN ./pct
@@ -37,7 +37,7 @@ Then/RB Angelina/NP turned/VBD and/CC with/IN an/AT easy/JJ grace/NN walked/VBD 
 Jessica/NP Packard/NP lifted/VBD her/PPO head/NN and/CC followed/VBD the/AT retreating/VBG figure/NN ,/pct her/PPg eyes/NNS resting/VBG nearly/RB closed/VBD on/IN the/AT unself-conscious/JJ rise/NN and/CC fall/NN of/IN the/AT rounded/VBN hips/NNS ./pct
 For/IN a/AT moment/NN she/PPS held/VBD her/PPg face/NN to/IN the/AT empty/JJ doorway/NN ;/pct ;/pct
 then/RB she/PPS snorted/VBD and/CC groped/VBD for/IN her/PPg fork/NN ./pct
-There's /None no/AT greater/JJR catastrophe/NN in/IN the/AT universe/NN ,/pct she/PPS reflected/VBD dourly/RB ,/pct impaling/VBG tender/JJ green/JJ beans/NNS on/IN the/AT silver/NN fork/NN ,/pct than/CS the/AT dwindling/VBG away/RB of/IN a/AT family/NN ./pct
+There's/EXBEZ no/AT greater/JJR catastrophe/NN in/IN the/AT universe/NN ,/pct she/PPS reflected/VBD dourly/RB ,/pct impaling/VBG tender/JJ green/JJ beans/NNS on/IN the/AT silver/NN fork/NN ,/pct than/CS the/AT dwindling/VBG away/RB of/IN a/AT family/NN ./pct
 Procreation/NN ,/pct expansion/NN ,/pct proliferation/NN --/pct these/DTS are/BER the/AT laws/NNS of/IN living/VBG things/NNS ,/pct with/IN the/AT penalty/NN for/IN not/NEG obeying/VBG them/PPO the/AT ultimate/JJ in/IN punishments/NNS :/pct oblivion/NN ./pct
 When/WRB the/AT fate/NN of/IN the/AT individual/NN is/BEZ visited/VBN on/IN the/AT group/NN ,/pct then/RB (/pct the/AT warm/JJ sweet/JJ butter/NN dripped/VBD from/IN her/PPO raised/VBN trembling/VBG fork/NN and/CC she/PPS pushed/VBD her/PPg head/NN forward/RB belligerently/RB )/pct ,/pct ah/UH ,/pct then/RB the/AT true/JJ bitterness/NN of/IN existence/NN could/MD be/BE tasted/VBN ./pct
 And/CC indeed/RB the/AT young/JJ garden/NN beans/NNS were/BED brackish/JJ in/IN her/PPg mouth/NN ./pct
@@ -76,22 +76,22 @@ Abel/NP moved/VBD and/CC adjusted/VBD his/PPg long/JJ legs/NNS ./pct
 Not/NEG until/CS the/AT words/NNS had/HVD been/BEN spoken/VBN did/DOD Abel/NP suddenly/RB see/VB the/AT old/JJ house/NN and/CC the/AT insistent/JJ sea/NN ,/pct and/CC feel/VB his/PPg contrition/NN blotted/VBN out/RP in/IN one/CD shameful/JJ moment/NN of/IN covetousness/NN ./pct
 He/PPS and/CC Mark/NP were/BED the/AT last/NN of/IN the/AT family/NN ,/pct and/CC there/RB lay/VB the/AT Cape/NN Ann/NP property/NN which/WDT had/HVD seemed/VBN to/TO have/HV no/AT end/NN ,/pct stretching/VBG from/IN horizon/NN to/IN horizon/NN ,/pct in/IN those/DTS golden/JJ days/NNS of/IN summer/NN ./pct
 Now/RB Abel/NP turned/VBD his/PPg head/NN to/TO look/VB at/IN his/PPg brother/NN ./pct
-Mark/NP held/VBD the/AT wheel/NN loosely/RB ,/pct but/CC his/PPg fingers/NNS curved/VBD around/IN it/PPO in/IN a/AT purposeful/JJ way/NN and/CC the/AT deliberate/JJ set/NN of/IN his/PPg body/NN spoke/VBD plainly/RB of/IN the/AT figure/NN he'd /None make/VB in/IN the/AT years/NNS to/TO come/VB ./pct
+Mark/NP held/VBD the/AT wheel/NN loosely/RB ,/pct but/CC his/PPg fingers/NNS curved/VBD around/IN it/PPO in/IN a/AT purposeful/JJ way/NN and/CC the/AT deliberate/JJ set/NN of/IN his/PPg body/NN spoke/VBD plainly/RB of/IN the/AT figure/NN he'd/PPSMD make/VB in/IN the/AT years/NNS to/TO come/VB ./pct
 His/PPg sandy/JJ hair/NN was/BEDZ already/RB beginning/VBG to/TO thin/VB and/CC recede/VB at/IN the/AT sides/NNS ,/pct and/CC Abel/NP looked/VBD quickly/RB away/RB ./pct
 Mark/NP easily/RB looked/VBD years/NNS older/JJR than/CS himself/PPL ,/pct settled/VBN ,/pct his/PPg world/NN comfortably/RB categorized/VBN ./pct
 The/AT vacation/NN traffic/NN was/BEDZ becoming/VBG heavier/JJR as/CS they/PPSS approached/VBD the/AT sea/NN ./pct
-``/pct She/PPS didn't /None mention/VB bringing/VBG Myra/NP ''/pct ,/pct Mark/NP said/VBD ,/pct maneuvering/VBG the/AT car/NN into/IN the/AT next/AP lane/NN ./pct
-``/pct She's /None probably/RB getting/VBG old/JJ --/pct crotchety/JJ ,/pct I/PPSS mean/VB --/pct and/CC we/PPSS figured/VBD uh-uh/UH ,/pct better/RBR not/NEG ./pct
-They've /None never/RB met/VBN ,/pct you/PPSS know/VB ./pct
-But/CC Myra/NP wouldn't /None budge/VB without/IN an/AT express/NN invitation/NN ./pct
+``/pct She/PPS didn't/DOD* mention/VB bringing/VBG Myra/NP ''/pct ,/pct Mark/NP said/VBD ,/pct maneuvering/VBG the/AT car/NN into/IN the/AT next/AP lane/NN ./pct
+``/pct She's/PPSBEZ probably/RB getting/VBG old/JJ --/pct crotchety/JJ ,/pct I/PPSS mean/VB --/pct and/CC we/PPSS figured/VBD uh-uh/UH ,/pct better/RBR not/NEG ./pct
+They've/PPSSHV never/RB met/VBN ,/pct you/PPSS know/VB ./pct
+But/CC Myra/NP wouldn't/MD* budge/VB without/IN an/AT express/NN invitation/NN ./pct
 I/PPSS feel/VB kind/NN of/IN bad/RB about/IN it/PPO ''/pct ./pct
 He/PPS gave/VBD Abel/NP a/AT quick/JJ glance/NN and/CC moved/VBD closer/RBR to/IN the/AT wheel/NN ,/pct hugging/VBG it/PPO to/IN him/PPO ,/pct and/CC Abel/NP caught/VBD this/DT briefest/JJT of/IN allusions/NNS to/IN guilt/NN ./pct
-``/pct I/PPSS imagine/VB the/AT old/JJ girl/NN hasn't /None missed/VBN us/PPO much/RB ''/pct ,/pct Mark/NP added/VBD ,/pct his/PPg eyes/NNS on/IN the/AT road/NN ./pct
+``/pct I/PPSS imagine/VB the/AT old/JJ girl/NN hasn't/HVZ* missed/VBN us/PPO much/RB ''/pct ,/pct Mark/NP added/VBD ,/pct his/PPg eyes/NNS on/IN the/AT road/NN ./pct
 Abel/NP ignored/VBD the/AT half-expressed/JJ bid/NN for/IN confirmation/NN ./pct
 He/PPS smiled/VBD ./pct
 It/PPS was/BEDZ barely/QL possible/JJ that/CS his/PPg brother/NN was/BEDZ right/JJ ./pct
 He/PPS could/MD tell/VB they/PPSS were/BED approaching/VBG the/AT sea/NN ./pct
-The/AT air/NN took/VBD on/RP a/AT special/JJ strength/NN now/RB that/CS they'd /None left/VBN the/AT fecund/JJ warmth/NN of/IN the/AT farmland/NN behind/RB ./pct
+The/AT air/NN took/VBD on/RP a/AT special/JJ strength/NN now/RB that/CS they'd/PPSSHVD left/VBN the/AT fecund/JJ warmth/NN of/IN the/AT farmland/NN behind/RB ./pct
 There/EX was/BEDZ the/AT smell/NN of/IN the/AT coast/NN ,/pct like/CS a/AT primeval/JJ memory/NN ,/pct composed/VBN of/IN equal/JJ parts/NNS salt/NN water/NN ,/pct clams/NNS ,/pct seaweed/NN and/CC northern/JJ air/NN ./pct
 He/PPS turned/VBD from/IN the/AT flying/VBG trees/NNS to/TO look/VB ahead/RB and/CC saw/VBD with/IN an/AT inward/RB boy's/NNg eye/NN again/RB the/AT great/JJ fieldstone/NN house/NN which/WDT ,/pct built/VBN on/IN one/CD of/IN the/AT many/AP acres/NNS of/IN ancestral/JJ land/NN bordering/VBG the/AT west/NR harbor/NN ,/pct had/HVD been/BEN Izaak's/NPg bride-gift/NN to/IN his/PPg cousin-wife/NN as/CS the/AT last/AP century/NN ended/VBD ./pct
 Mark's/NPg thoughts/NNS must/MD have/HV been/BEN keeping/VBG silent/JJ pace/NN beside/IN his/PPg own/JJ ,/pct climbing/VBG the/AT same/AP crags/NNS in/IN dirty/JJ white/JJ sneakers/NNS ,/pct clambering/VBG out/RP on/IN top/NN of/IN the/AT headland/NN and/CC coming/VBG upon/IN the/AT sudden/JJ glinting/VBG water/NN at/IN the/AT same/AP instant/NN ./pct

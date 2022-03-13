@@ -2,19 +2,19 @@
 Maybe/RB to/TO beat/VB up/RP on/IN his/PPg squaw/NN ''/pct ./pct
 Benson/NP looked/VBD up/RP and/CC saw/VBD Ramey's/NPg long/JJ head/NN tilt/VB forward/RB to/TO rub/VB his/PPg chin/NN on/IN the/AT stiff/JJ edge/NN of/IN the/AT overall/NN bib/NN ./pct
 Ramey/NP reached/VBD out/RP with/IN the/AT tire/NN iron/NN and/CC dislodged/VBD a/AT chunk/NN of/IN mud/NN that/WPS was/BEDZ caked/VBN on/IN the/AT spare/JJ tire/NN rack/NN ./pct
-``/pct I'd /None like/VB to/TO know/VB just/RB which/WDT it/PPS is/BEZ that/CS those/DTS guys/NNS don't /None understand/VB ,/pct the/AT liquor/NN or/CC automobiles/NNS ''/pct ./pct
+``/pct I'd/PPSSMD like/VB to/TO know/VB just/RB which/WDT it/PPS is/BEZ that/CS those/DTS guys/NNS don't/DO* understand/VB ,/pct the/AT liquor/NN or/CC automobiles/NNS ''/pct ./pct
 Somehow/RB the/AT thought/NN of/IN a/AT simple/JJ man/NN bewildered/VBD by/IN things/NNS no/AT one/PN had/HVD ever/RB really/RB helped/VBN him/PPO understand/VB moved/VBD the/AT driver/NN ./pct
 For/IN a/AT moment/NN his/PPg hatred/NN toward/IN drunken/JJ or/CC careless/JJ drivers/NNS softened/VBD ./pct
-Maybe/RB the/AT Indian/NP wasn't /None too/QL much/RB at/IN fault/NN ,/pct Ramey/NP thought/VBD ./pct
+Maybe/RB the/AT Indian/NP wasn't/BEDZ* too/QL much/RB at/IN fault/NN ,/pct Ramey/NP thought/VBD ./pct
 Maybe/RB he/PPS was/BEDZ only/RB doing/VBG the/AT best/JJT he/PPS knew/VBD how/WRB ,/pct like/CS any/DTI of/IN us/PPO ./pct
-Anyway/RB ,/pct he/PPS doesn't /None deserve/VB to/TO lie/VB there/RB in/IN the/AT sun/NN and/CC be/BE stared/VBN at/IN ./pct
+Anyway/RB ,/pct he/PPS doesn't/DOZ* deserve/VB to/TO lie/VB there/RB in/IN the/AT sun/NN and/CC be/BE stared/VBN at/IN ./pct
 ``/pct Ever/RB see/VB yourself/PPL spread/VBN out/RP on/IN the/AT pavement/NN ,/pct Benny/NP ''/pct ?/pct ?/pct
 He/PPS said/VBD to/IN his/PPg partner/NN ./pct
 ``/pct You/PPSS mean/VB dream/VB ''/pct ?/pct ?/pct
 ``/pct Not/NEG exactly/RB ./pct
 Just/RB see/VB it/PPO ''/pct ./pct
 Benson/NP grinned/VBD and/CC flipped/VBD a/AT rock/NN with/IN his/PPg thumb/NN like/CS a/AT marble/NN ./pct
-``/pct Nope/RB ,/pct just/RB you/PPSS ,/pct all/ABN the/AT time/NN --/pct sometimes/RB I/PPSS think/VB it's /None the/AT only/AP way/NN I'll /None ever/RB get/VB a/AT decent/JJ partner/NN ''/pct ./pct
+``/pct Nope/RB ,/pct just/RB you/PPSS ,/pct all/ABN the/AT time/NN --/pct sometimes/RB I/PPSS think/VB it's/PPSBEZ the/AT only/AP way/NN I'll/PPSSMD ever/RB get/VB a/AT decent/JJ partner/NN ''/pct ./pct
 Ramey/NP smiled/VBD but/CC he/PPS thought/VBD to/IN himself/PPL ,/pct I/PPSS always/RB see/VB me/PPO too/RB ./pct
 Never/RB Benny/NP ./pct
 Whenever/WRB he/PPS saw/VBD someone/PN lying/VBG in/IN the/AT dirt/NN ,/pct Ramey/NP wondered/VBD what/WDT the/AT person/NN had/HVD been/BEN thinking/VBG and/CC he/PPS would/MD try/VB out/RP thoughts/NNS in/IN his/PPg own/JJ mind/NN ./pct
@@ -22,9 +22,9 @@ Then/RB he/PPS would/MD realize/VB they/PPSS were/BED really/RB things/NNS that/
 With/IN this/DT realization/NN ,/pct sometimes/RB ,/pct he/PPS saw/VBD himself/PPL as/CS he/PPS looked/VBD down/RP ./pct
 ``/pct You/PPSS seen/VBN him/PPO yet/RB ''/pct ?/pct ?/pct
 Benson/NP said/VBD ,/pct referring/VBG to/IN the/AT Indian/NP ./pct
-``/pct He/PPS wasn't /None in/IN the/AT car/NN ''/pct ,/pct Ramey/NP said/VBD ./pct
-``/pct You/PPSS didn't /None go/VB clear/RB around/RB ''/pct ,/pct Benson/NP said/VBD ./pct
-``/pct If/CS you/PPSS want/VB to/TO see/VB something/PN ,/pct he's /None back/RB on/IN the/AT other/AP side/NN by/IN the/AT trunk/NN of/IN the/AT car/NN ''/pct ./pct
+``/pct He/PPS wasn't/BEDZ* in/IN the/AT car/NN ''/pct ,/pct Ramey/NP said/VBD ./pct
+``/pct You/PPSS didn't/DOD* go/VB clear/RB around/RB ''/pct ,/pct Benson/NP said/VBD ./pct
+``/pct If/CS you/PPSS want/VB to/TO see/VB something/PN ,/pct he's/PPSBEZ back/RB on/IN the/AT other/AP side/NN by/IN the/AT trunk/NN of/IN the/AT car/NN ''/pct ./pct
 ``/pct Too/QL long/JJ a/AT waiting/VBG line/NN ''/pct ,/pct Ramey/NP answered/VBD ,/pct pretending/VBG to/TO joke/VB ./pct
 A/AT few/AP minutes/NNS later/RBR the/AT insurance/NN man/NN ,/pct a/AT road/NN checker/NN ,/pct drove/VBD up/RP in/IN the/AT gray/JJ coupe/NN with/IN license/NN plates/NNS on/IN it/PPO from/IN a/AT far-away/JJ state/NN ./pct
 It/PPS was/BEDZ a/AT trick/NN they/PPSS used/VBD to/TO try/VB and/CC conceal/VB their/PPg identity/NN when/WRB they/PPSS followed/VBD trucks/NNS to/TO check/VB their/PPg speed/NN ./pct
@@ -36,7 +36,7 @@ The/AT insurance/NN man/NN informed/VBD them/PPO that/CS he/PPS had/HVD talked/V
 He/PPS chatted/VBD with/IN Ramey/NP and/CC Benson/NP for/IN a/AT minute/NN or/CC so/RB in/IN the/AT meager/JJ shade/NN of/IN the/AT trailer/NN ./pct
 Every/AT so/QL often/RB the/AT diminishing/VBG sound/NN of/IN a/AT car/NN came/VBD under/IN the/AT trailer/NN as/CS it/PPS slowed/VBD down/RP for/IN the/AT wreck/NN then/RB speeded/VBD up/RP again/RB as/CS it/PPS got/VBD clear/RB ./pct
 When/WRB they/PPSS were/BED ready/JJ to/TO leave/VB ,/pct Benson/NP and/CC Ramey/NP walked/VBD back/RB around/IN the/AT rear/NN of/IN the/AT trailer/NN ./pct
-``/pct There's /None a/AT body/NN you/PPSS won't /None mind/VB looking/VBG at/IN ''/pct ,/pct Benson/NP said/VBD and/CC they/PPSS stopped/VBD ./pct
+``/pct There's/EXBEZ a/AT body/NN you/PPSS won't/MD* mind/VB looking/VBG at/IN ''/pct ,/pct Benson/NP said/VBD and/CC they/PPSS stopped/VBD ./pct
 She/PPS had/HVD driven/VBN up/RP with/IN her/PPg husband/NN in/IN a/AT convertible/JJ with/IN Eastern/JJ license/NN plates/NNS ,/pct although/CS the/AT two/CD drivers/NNS knew/VBD nothing/PN at/IN the/AT moment/NN about/IN that/DT ./pct
 She/PPS wore/VBD shorts/NNS and/CC a/AT loose/JJ terry-cloth/NN shirt/NN ./pct
 Slender/JJ and/CC tanned/VBN ,/pct her/PPg dark/JJ brown/JJ hair/NN was/BEDZ drawn/VBN straight/RB back/RB ,/pct simply/RB ./pct
@@ -49,14 +49,14 @@ The/AT truck/NN routes/NNS ,/pct the/AT industrial/JJ areas/NNS with/IN walls/NN
 How/WRB would/MD you/PPSS ever/RB see/VB her/PPO again/RB ?/pct ?/pct
 The/AT feeling/NN subsided/VBD ,/pct it/PPS was/BEDZ only/RB a/AT small/JJ yearning/NN ./pct
 Their/PPg work/NN was/BEDZ lonely/JJ ./pct
-``/pct What's /None she/PPS doing/VBG in/IN this/DT bunch/NN ''/pct ?/pct ?/pct
+``/pct What's/WDTBEZ she/PPS doing/VBG in/IN this/DT bunch/NN ''/pct ?/pct ?/pct
 Benson/NP said/VBD ,/pct and/CC Ramey/NP wondered/VBD how/WRB close/JJ their/PPg thoughts/NNS might/MD have/HV been/BEN ./pct
 The/AT girl/NN looked/VBD around/RB at/IN the/AT countryside/NN ./pct
 Her/PPg glance/NN swung/VBD past/IN the/AT trailer/NN where/WRB the/AT two/CD drivers/NNS were/BED standing/VBG ./pct
 It/PPS made/VBD only/RB a/AT tiny/JJ bump/NN over/IN the/AT two/CD men/NNS like/CS a/AT tire/NN over/IN a/AT piece/NN of/IN gravel/NN then/RB moved/VBD on/RP ./pct
 She/PPS began/VBD to/TO watch/VB a/AT blonde-haired/JJ man/NN ,/pct also/RB in/IN shorts/NNS ,/pct standing/VBG right/QL at/IN the/AT rear/NN of/IN the/AT wrecked/VBN car/NN in/IN the/AT one/CD spot/NN that/WPS most/AP of/IN the/AT crowd/NN had/HVD detoured/VBN slightly/RB ./pct
 What/WDT had/HVD caught/VBN his/PPg attention/NN was/BEDZ obscured/VBN by/IN the/AT car/NN itself/PPL ,/pct so/CS that/CS neither/CC the/AT girl/NN nor/CC the/AT truck/NN drivers/NNS could/MD see/VB ,/pct but/CC Benson/NP knew/VBD what/WDT it/PPS was/BEDZ ./pct
-The/AT girl/NN took/VBD a/AT couple/NN of/IN steps/NNS toward/IN the/AT man/NN in/IN shorts/NNS when/WRB Benson/NP ,/pct in/IN that/DT barefoot/JJ courtliness/NN Ramey/NP could/MD never/RB decide/VB was/BEDZ real/JJ ,/pct said/VBD ,/pct ``/pct You/PPSS don't /None want/VB to/TO go/VB around/IN there/RB ,/pct Ma'am/NN ''/pct ./pct
+The/AT girl/NN took/VBD a/AT couple/NN of/IN steps/NNS toward/IN the/AT man/NN in/IN shorts/NNS when/WRB Benson/NP ,/pct in/IN that/DT barefoot/JJ courtliness/NN Ramey/NP could/MD never/RB decide/VB was/BEDZ real/JJ ,/pct said/VBD ,/pct ``/pct You/PPSS don't/DO* want/VB to/TO go/VB around/IN there/RB ,/pct Ma'am/NN ''/pct ./pct
 The/AT girl/NN stopped/VBD but/CC did/DOD not/NEG turn/VB her/PPg head/NN or/CC acknowledge/VB that/CS someone/PN had/HVD spoken/VBN to/IN her/PPO ./pct
 The/AT man/NN stood/VBD near/IN the/AT bent/VBN levi-clad/JJ body/NN of/IN the/AT Indian/NP who/WPS lay/VBD face/NN down/RP almost/RB under/IN the/AT car/NN ./pct
 The/AT two/CD drivers/NNS moved/VBD closer/RBR ./pct
@@ -70,15 +70,15 @@ The/AT two/CD men/NNS in/IN overalls/NNS stood/VBD just/RB behind/IN the/AT blon
 He/PPS wore/VBD tennis/NN shorts/NNS and/CC a/AT white/JJ sweater/NN with/IN a/AT red/JJ V/NP at/IN the/AT neck/NN ,/pct the/AT sleeves/NNS pushed/VBN above/IN the/AT elbows/NNS ./pct
 He/PPS turned/VBD and/CC looked/VBD at/IN them/PPO with/IN clear/JJ blue/JJ eyes/NNS ,/pct immaculate/JJ eyes/NNS ./pct
 He/PPS was/BEDZ very/QL tanned/VBN --/pct big/JJ hands/NNS might/MD have/HV torn/VBN him/PPO from/IN a/AT Coca-Cola/NP poster/NN ./pct
-``/pct He's /None dead/JJ ,/pct isn't /None he/PPS ''/pct ?/pct ?/pct
+``/pct He's/PPSBEZ dead/JJ ,/pct isn't/BEZ* he/PPS ''/pct ?/pct ?/pct
 The/AT man/NN said/VBD ./pct
 He/PPS turned/VBD and/CC bent/VBD over/IN the/AT body/NN of/IN the/AT Indian/NP ./pct
 There/EX was/BEDZ nothing/PN in/IN particular/JJ on/IN the/AT man's/NNg face/NN ./pct
 It/PPS was/BEDZ simply/RB a/AT matter/NN of/IN curiosity/NN ,/pct a/AT natural/JJ right/NN to/TO examine/VB ./pct
-``/pct What's /None this/DT ''/pct ?/pct ?/pct
+``/pct What's/WDTBEZ this/DT ''/pct ?/pct ?/pct
 The/AT man/NN said/VBD ,/pct backing/VBG up/RP a/AT step/NN ,/pct still/RB looking/VBG down/RP ./pct
 His/PPg words/NNS were/BED mostly/RB to/IN himself/PPL ./pct
-``/pct Don't /None ''/pct ./pct
+``/pct Don't/DO* ''/pct ./pct
 There/EX was/BEDZ a/AT gentle/JJ concern/NN in/IN Benson's/NPg voice/NN ./pct
 Ramey/NP looked/VBD down/RP and/CC saw/VBD the/AT white/JJ sneaker/NN at/IN the/AT bottom/NN of/IN the/AT man's/NNg tanned/VBN leg/NN cautiously/RB nudge/VB a/AT bit/NN of/IN folded/VBN ,/pct blood-flecked/JJ substance/NN lying/VBG by/IN itself/PPL on/IN the/AT pavement/NN ./pct
 ``/pct But/CC what/WDT is/BEZ it/PPS ''/pct ?/pct ?/pct
@@ -88,8 +88,8 @@ The/AT man/NN had/HVD spoken/VBN only/RB once/RB ./pct
 Ramey/NP heard/VBD the/AT words/NNS again/RB inside/RB ,/pct weakened/VBN ,/pct the/AT way/NN moving/VBG water/NN sounds/VBZ through/IN a/AT grove/NN of/IN trees/NNS ,/pct until/CS he/PPS was/BEDZ not/NEG sure/JJ whether/CS it/PPS was/BEDZ sound/NN or/CC light-headedness/NN pressing/VBG in/IN his/PPg ears/NNS ./pct
 The/AT sneaker/NN reached/VBD out/RP once/RB more/RBR to/TO tap/VB against/IN the/AT mass/NN and/CC Ramey's/NPg vision/NN darkened/VBD except/IN for/IN an/AT unreasonable/JJ clarity/NN of/IN the/AT man's/NNg leg/NN ./pct
 Ramey/NP saw/VBD sunlight/NN touch/VB the/AT curly/JJ blonde/JJ hairs/NNS on/IN the/AT brown/JJ skin/NN ./pct
-He/PPS stared/VBD at/IN the/AT shining/VBG ,/pct shining/VBG circles/NNS of/IN hairs/NNS and/CC heard/VBD the/AT voice/NN of/IN his/PPg partner/NN through/IN trees/NNS ,/pct ``/pct Don't /None do/DO that/DT ,/pct fella/NN ./pct
-Them's /None brains/NNS ''/pct ./pct
+He/PPS stared/VBD at/IN the/AT shining/VBG ,/pct shining/VBG circles/NNS of/IN hairs/NNS and/CC heard/VBD the/AT voice/NN of/IN his/PPg partner/NN through/IN trees/NNS ,/pct ``/pct Don't/DO* do/DO that/DT ,/pct fella/NN ./pct
+Them's/DTSBEZ brains/NNS ''/pct ./pct
 The/AT man/NN seemed/VBD to/TO sink/VB a/AT little/AP as/CS Ramey/NP brought/VBD the/AT tire/NN iron/NN down/RP on/IN his/PPg shoulder/NN and/CC it/PPS seemed/VBD that/CS the/AT blonde/JJ head/NN was/BEDZ turning/VBG as/CS he/PPS hit/VBD the/AT man/NN again/RB ,/pct with/IN his/PPg fist/NN ./pct
 Ramey/NP swung/VBD and/CC caught/VBD the/AT man/NN just/RB to/IN the/AT left/NR of/IN his/PPg mouth/NN ./pct
 It/PPS was/BEDZ a/AT straight/JJ ,/pct solid/JJ ,/pct once-in-a-lifetime/JJ shot/NN ;/pct ;/pct
@@ -98,7 +98,7 @@ Ramey's/NPg fist/NN and/CC the/AT air/NN expelled/VBN from/IN the/AT man's/NNg c
 The/AT man/NN took/VBD two/CD short/JJ steps/NNS backward/RB then/RB sat/VBD down/RP heavily/RB on/IN the/AT pavement/NN ./pct
 Ramey/NP heard/VBD a/AT cry/NN from/IN the/AT girl/NN and/CC felt/VBD a/AT slight/JJ pain/NN somewhere/NN in/IN his/PPg hand/NN ./pct
 As/CS he/PPS watched/VBD the/AT man/NN sit/VB suddenly/RB ,/pct a/AT detached/VBN part/NN of/IN his/PPg mind/NN observed/VBD how/WRB very/QL difficult/JJ it/PPS was/BEDZ ,/pct really/RB ,/pct to/TO knock/VB a/AT man/NN off/IN his/PPg feet/NNS ./pct
-He/PPS hadn't /None done/VBN it/PPO this/DT time/NN and/CC he/PPS would/MD never/RB again/RB hit/VB anyone/PN so/QL hard/RB ./pct
+He/PPS hadn't/HVD* done/VBN it/PPO this/DT time/NN and/CC he/PPS would/MD never/RB again/RB hit/VB anyone/PN so/QL hard/RB ./pct
 With/IN a/AT thoughtful/JJ look/NN ,/pct the/AT man/NN sat/VBD on/IN the/AT pavement/NN ,/pct legs/NNS straight/RB out/RP in/IN front/NN of/IN him/PPO ./pct
 His/PPg arms/NNS hung/VBD like/CS empty/JJ shirt/NN sleeves/NNS ,/pct and/CC his/PPg mouth/NN was/BEDZ slightly/QL open/JJ ./pct
 After/IN what/WDT seemed/VBD several/AP seconds/NNS ,/pct the/AT open/JJ mouth/NN grew/VBD dark/JJ inside/RB then/RB blood/NN began/VBD to/TO ooze/VB from/IN it/PPO ./pct
@@ -109,7 +109,7 @@ Ramey/NP could/MD hear/VB the/AT crowd/NN coming/VBG up/RP rapidly/RB behind/IN 
 He/PPS did/DOD not/NEG look/VB around/RB ./pct
 ``/pct What/WDT happened/VBD ''/pct ?/pct ?/pct
 Someone/PN said/VBD ./pct
-``/pct He's /None hurt/VBN ''/pct !/pct !/pct
+``/pct He's/PPSBEZ hurt/VBN ''/pct !/pct !/pct
 A/AT woman's/NNg voice/NN said/VBD ,/pct and/CC then/RB he/PPS heard/VBD a/AT sort/NN of/IN wail/NN from/IN the/AT man's/NNg wife/NN ./pct
 The/AT man/NN on/IN the/AT ground/NN began/VBD to/TO move/VB ;/pct ;/pct
 one/CD of/IN his/PPg hands/NNS flattened/VBD out/RP on/IN the/AT pavement/NN and/CC supported/VBD him/PPO ./pct
@@ -131,12 +131,12 @@ Ramey/NP looked/VBD around/RB and/CC caught/VBD sight/NN of/IN his/PPg partner/N
 Benson/NP moved/VBD his/PPg arms/NNS ,/pct gesturing/VBG with/IN an/AT unfamiliar/JJ vigor/NN and/CC talking/VBG rapidly/RB ./pct
 Ramey/NP caught/VBD a/AT glimpse/NN of/IN the/AT insurance/NN man/NN ./pct
 Some/DTI of/IN the/AT ruddiness/NN was/BEDZ gone/VBN from/IN his/PPg face/NN and/CC he/PPS stared/VBD at/IN Ramey/NP ./pct
-It's /None all/ABN over/RP now/RB ,/pct the/AT driver/NN thought/VBD as/CS he/PPS saw/VBD the/AT patrolman/NN turn/VB and/CC walk/VB rapidly/RB down/RP along/IN the/AT trailer/NN toward/IN them/PPO ./pct
+It's/PPSBEZ all/ABN over/RP now/RB ,/pct the/AT driver/NN thought/VBD as/CS he/PPS saw/VBD the/AT patrolman/NN turn/VB and/CC walk/VB rapidly/RB down/RP along/IN the/AT trailer/NN toward/IN them/PPO ./pct
 Ramey/NP watched/VBD him/PPO coming/VBG with/IN a/AT vision/NN as/QL clean/JJ as/CS the/AT glare/NN on/IN the/AT metal/NN sides/NNS of/IN the/AT trailer/NN ./pct
 He/PPS saw/VBD the/AT dark/JJ sweat/NN spots/NNS flip/VB in/IN and/CC out/IN of/IN sight/NN under/IN the/AT patrolman's/NNg swinging/VBG arms/NNS and/CC in/IN the/AT leather/NN holster/NN that/WPS swaggered/VBD and/CC rolled/VBD at/IN the/AT side/NN of/IN his/PPg stocky/JJ body/NN ,/pct the/AT sun/NN left/VBD a/AT smoky/JJ shine/NN on/IN the/AT narrow/JJ strip/NN of/IN blue/JJ metal/NN that/WPS ran/VBD between/IN the/AT horned/JJ handles/NNS of/IN his/PPg pistol/NN ./pct
 ``/pct All/QL right/RB ,/pct step/VB back/RB ''/pct !/pct !/pct
 The/AT patrolman/NN said/VBD to/IN no/AT one/PN in/IN particular/JJ as/CS he/PPS pushed/VBD between/IN the/AT fat/JJ man/NN in/IN the/AT baseball/NN cap/NN and/CC a/AT young/JJ boy/NN in/IN levis/NNS ./pct
 He/PPS walked/VBD straight/RB up/IN to/IN the/AT man/NN sitting/VBG on/IN the/AT ground/NN and/CC bent/VBD over/RP to/TO look/VB at/IN him/PPO ./pct
 ``/pct You/PPSS all/QL right/JJ ''/pct ?/pct ?/pct
-``/pct Mough/NN --/pct it's /None my/PPg mough/NN ''/pct ,/pct the/AT man/NN said/VBD ,/pct trying/VBG to/TO talk/VB without/IN moving/VBG his/PPg lips/NNS ./pct
+``/pct Mough/NN --/pct it's/PPSBEZ my/PPg mough/NN ''/pct ,/pct the/AT man/NN said/VBD ,/pct trying/VBG to/TO talk/VB without/IN moving/VBG his/PPg lips/NNS ./pct
 His/PPg brown/JJ face/NN looked/VBD gray/JJ from/IN dirt/NN streaks/NNS where/WRB his/PPg hand/NN had/HVD come/VBN off/IN the/AT dusty/JJ pavement/NN and/CC rubbed/VBN across/IN it/PPO ./pct

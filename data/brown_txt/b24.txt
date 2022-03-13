@@ -26,7 +26,7 @@ As/CS Critic/NN Walter/NP Kerr/NP points/VBZ out/RP :/pct ``/pct Adaptations/NNS
 And/CC other/AP defenders/NNS invariably/RB argue/VB that/CS ,/pct after/IN all/ABN ,/pct Shakespeare/NP and/CC Moliere/NP were/BED adapters/NNS too/RB ./pct
 The/AT difference/NN is/BEZ that/CS the/AT masters/NNS took/VBD the/AT bare/JJ frame/NN of/IN a/AT plot/NN and/CC filled/VBD it/PPO with/IN their/PPg own/JJ world/NN ;/pct ;/pct
 most/AP modern/JJ adapters/NNS totally/RB accept/VB the/AT world/NN of/IN a/AT book/NN ,/pct squeeze/VB it/PPO dry/JJ of/IN life/NN ,/pct and/CC add/VB only/AP one/CD contribution/NN of/IN their/PPg own/JJ :/pct stage/NN technique/NN ./pct
-The/AT most/QL frequent/JJ excuse/NN for/IN the/AT prevalence/NN of/IN unoriginals/NNS and/CC tested/VBN imports/NNS is/BEZ increasing/VBG production/NN expense/NN --/pct producers/NNS cannot /None afford/VB to/TO take/VB chances/NNS ./pct
+The/AT most/QL frequent/JJ excuse/NN for/IN the/AT prevalence/NN of/IN unoriginals/NNS and/CC tested/VBN imports/NNS is/BEZ increasing/VBG production/NN expense/NN --/pct producers/NNS cannot/MD* afford/VB to/TO take/VB chances/NNS ./pct
 But/CC that/DT explanation/NN is/BEZ only/RB partly/RB true/JJ ./pct
 Off-Broadway/RB ,/pct where/WRB production/NN is/BEZ still/RB comparatively/QL cheap/JJ ,/pct is/BEZ proving/VBG itself/PPL only/RB slightly/QL more/QL original/JJ ./pct
 Laudably/RB enough/QLP ,/pct it/PPS is/BEZ offering/VBG classics/NNS and/CC off-beat/JJ imports/NNS ,/pct but/CC last/AP week/NN only/AP one/CD U.S./NP original/JJ was/BEDZ on/IN the/AT boards/NNS ,/pct Robert/NP D./NP Hock's/NPg stunning/JJ Civil/JJ War/NN work/NN ,/pct Borak/NP ./pct
@@ -42,7 +42,7 @@ The/AT belly/NN boites/NNS ,/pct with/IN their/PPg papier-mache/NN palm/NN trees
 Customers/NNS often/RB bring/VB their/PPg children/NNS ;/pct ;/pct
 between/IN performances/NNS ,/pct enthusiastic/JJ young/JJ men/NNS from/IN the/AT audience/NN will/MD take/VB the/AT floor/NN to/TO demonstrate/VB their/PPg own/JJ amateur/JJ graces/NNS ./pct
 Except/IN for/IN the/AT odd/JJ uptown/JJ sex/NN maniac/NN or/CC an/AT overeager/JJ Greek/JJ sailor/NN ,/pct the/AT people/NNS watch/VB in/IN calm/JJ absorption/NN ./pct
-Small/JJ ,/pct shirt-sleeved/JJ orchestras/NNS play/VB in/IN 2/4/CD or/CC 4/4/CD time/NN ,/pct using/VBG guitars/NNS ,/pct violins/NNS ,/pct and/CC more/QL alien/JJ instruments/NNS with/IN names/NNS that/WPS would/MD open/VB Sesame/NN :/pct the/AT oud/NN ,/pct grandfather/NN of/IN the/AT lute/NN ;/pct ;/pct
+Small/JJ ,/pct shirt-sleeved/JJ orchestras/NNS play/VB in/IN 2:4/CD or/CC 4:4/CD time/NN ,/pct using/VBG guitars/NNS ,/pct violins/NNS ,/pct and/CC more/QL alien/JJ instruments/NNS with/IN names/NNS that/WPS would/MD open/VB Sesame/NN :/pct the/AT oud/NN ,/pct grandfather/NN of/IN the/AT lute/NN ;/pct ;/pct
 the/AT darbuka/NN ,/pct a/AT small/JJ drum/NN with/IN the/AT treelike/JJ shape/NN of/IN a/AT roemer/NN glass/NN ;/pct ;/pct
 the/AT def/NN ,/pct a/AT low-pitched/JJ tambourine/NN ./pct
 The/AT girls/NNS sit/VB quietly/RB with/IN the/AT musicians/NNS ,/pct wearing/VBG prim/JJ dresses/NNS or/CC plain/JJ ,/pct secretarial/JJ shifts/NNS ,/pct until/CS it/PPS is/BEZ time/NN to/TO go/VB off/RP to/IN a/AT back/NN room/NN and/CC reappear/VB in/IN the/AT spare/JJ uniform/NN of/IN the/AT harem/NN ./pct
@@ -76,7 +76,7 @@ She/PPS has/HVZ the/AT small/JJ ,/pct highly/QL developed/VBN body/NN of/IN a/AT
 Leila/NP (/pct Malia/NP Phillips/NP )/pct ,/pct 25/CD ,/pct is/BEZ a/AT Greenwich/NP Village/NN painter/NN of/IN Persianesque/JJ miniatures/NNS who/WPS has/HVZ red/JJ hair/NN that/WPS cascades/VBZ almost/RB to/IN her/PPg ankles/NNS ./pct
 A/AT graduate/NN of/IN Hollywood/NP High/JJ School/NN ,/pct she/PPS likes/VBZ to/TO imagine/VB herself/PPL ,/pct as/CS she/PPS takes/VBZ the/AT floor/NN ,/pct ``/pct a/AT village/NN girl/NN coming/VBG in/IN to/IN a/AT festival/NN ''/pct ./pct
 Gloria/NP (/pct surname/NN :/pct Ziraldo/NP )/pct ,/pct circa/RB 30/CD ,/pct who/WPS was/BEDZ born/VBN in/IN Italy/NP and/CC once/RB did/DOD ``/pct chorus/NN work/NN ''/pct in/IN Toronto/NP ,/pct has/HVZ been/BEN around/RB longer/RBR than/CS most/AP of/IN the/AT others/NNS ,/pct wistfully/RB remembers/VBZ the/AT old/JJ days/NNS when/WRB ``/pct we/PPSS used/VBD to/TO get/VB the/AT seamen/NNS from/IN the/AT ships/NNS ,/pct you/PPSS know/VB ,/pct with/IN big/JJ turtleneck/NN sweaters/NNS and/CC handkerchiefs/NNS and/CC all/ABN ./pct
-But/CC the/AT ships/NNS are/BER very/QL slow/JJ now/RB ,/pct and/CC we/PPSS don't /None get/VB so/QL many/AP sailors/NNS any/DTI more/AP ''/pct ./pct
+But/CC the/AT ships/NNS are/BER very/QL slow/JJ now/RB ,/pct and/CC we/PPSS don't/DO* get/VB so/QL many/AP sailors/NNS any/DTI more/AP ''/pct ./pct
 The/AT uptown/JJ crowd/NN has/HVZ moved/VBN in/RP ,/pct and/CC what/WDT girl/NN worth/JJ her/PPg seventh/OD veil/NN would/MD trade/VB a/AT turtleneck/NN sweater/NN for/CS a/AT button-down/JJ collar/NN ?/pct ?/pct
 A/AT short/JJ ,/pct tormented/VBN span/NN
 Of/IN the/AT handful/NN of/IN painters/NNS that/WPO Austria/NP has/HVZ produced/VBN in/IN the/AT 20th/OD century/NN ,/pct only/RB one/CD ,/pct Oskar/NP Kokoschka/NP ,/pct is/BEZ widely/RB known/VBN in/IN the/AT U.S./NP ./pct

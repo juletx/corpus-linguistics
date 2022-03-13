@@ -7,7 +7,7 @@ Square/JJ corner-/NN and/CC gate/NN posts/NNS were/BED an/AT open-work/NN patter
 they/PPSS were/BED topped/VBN by/IN steeples/NNS complete/JJ in/IN every/AT detail/NN :/pct high-pitched/JJ roof/NN ,/pct pinnacle/NN ,/pct and/CC narrow/JJ gable/NN ./pct
 On/IN these/DTS posts/NNS the/AT gates/NNS swung/VBD open/JJ with/IN a/AT squeak/NN and/CC shut/VB with/IN a/AT metallic/JJ clang/NN ./pct
 The/AT only/AP extended/VBN view/NN possible/JJ to/IN anyone/PN less/QL tall/JJ than/CS the/AT fences/NNS was/BEDZ that/DT obtained/VBN from/IN an/AT upper/JJ bough/NN of/IN the/AT apple/NN tree/NN ./pct
-The/AT primary/JJ quality/NN of/IN that/DT view/NN seems/VBZ ,/pct now/RB ,/pct to/TO have/HV been/BEN its/PPg quietness/NN ,/pct but/CC that/DT cannot /None at/IN the/AT time/NN have/HV impressed/VBN us/PPO ./pct
+The/AT primary/JJ quality/NN of/IN that/DT view/NN seems/VBZ ,/pct now/RB ,/pct to/TO have/HV been/BEN its/PPg quietness/NN ,/pct but/CC that/DT cannot/MD* at/IN the/AT time/NN have/HV impressed/VBN us/PPO ./pct
 What/WDT one/PN actually/RB remembers/VBZ is/BEZ its/PPg greenness/NN ./pct
 From/IN high/JJ in/IN the/AT tree/NN ,/pct the/AT whole/JJ block/NN lay/VBD within/IN range/NN of/IN the/AT eye/NN ,/pct but/CC the/AT ground/NN was/BEDZ almost/QL nowhere/RB visible/JJ ./pct
 One/PN looked/VBD down/RP on/IN a/AT sea/NN of/IN leaves/NNS ,/pct a/AT breaking/VBG wave/NN of/IN flower/NN ./pct
@@ -18,7 +18,7 @@ That/DT was/BEDZ one/CD epoch/NN :/pct the/AT apple-tree/NN epoch/NN ./pct
 Another/DT had/HVD ended/VBN before/CS it/PPS began/VBD ./pct
 Time/NN is/BEZ a/AT queer/JJ thing/NN and/CC memory/NN a/AT queerer/JJR ;/pct ;/pct
 the/AT tricks/NNS that/CS time/NN plays/VBZ with/IN memory/NN and/CC memory/NN with/IN time/NN are/BER queerest/JJT of/IN all/ABN ./pct
-From/IN maturity/NN one/PN looks/VBZ back/RB at/IN the/AT succession/NN of/IN years/NNS ,/pct counts/VBZ them/PPO and/CC makes/VBZ them/PPO many/AP ,/pct yet/CC cannot /None feel/VB length/NN in/IN the/AT number/NN ,/pct however/WQL large/JJ ./pct
+From/IN maturity/NN one/PN looks/VBZ back/RB at/IN the/AT succession/NN of/IN years/NNS ,/pct counts/VBZ them/PPO and/CC makes/VBZ them/PPO many/AP ,/pct yet/CC cannot/MD* feel/VB length/NN in/IN the/AT number/NN ,/pct however/WQL large/JJ ./pct
 In/IN a/AT stream/NN that/WPS turns/VBZ a/AT mill-wheel/NN there/EX is/BEZ a/AT lot/NN of/IN water/NN ;/pct ;/pct
 the/AT mill-pond/NN is/BEZ quiet/JJ ,/pct its/PPg surface/NN dark/JJ and/CC shadowed/VBN ,/pct and/CC there/EX does/DOZ not/NEG seem/VB to/TO be/BE much/AP water/NN in/IN it/PPO ./pct
 Time/NN in/IN the/AT sum/NN is/BEZ nothing/PN ./pct
@@ -65,7 +65,7 @@ even/RB when/WRB the/AT fences/NNS became/VBD a/AT part/NN of/IN the/AT game/NN 
 We/PPSS enjoyed/VBD a/AT paradoxical/JJ freedom/NN when/WRB we/PPSS were/BED still/RB too/QL young/JJ for/IN school/NN ./pct
 In/IN the/AT heat/NN of/IN the/AT summer/NN ,/pct the/AT garden/NN solitudes/NNS were/BED ours/PPgg alone/RB ;/pct ;/pct
 our/PPg elders/NNS stayed/VBD in/IN the/AT dark/JJ house/NN or/CC sat/VBD fanning/VBG on/IN the/AT front/JJ porch/NN ./pct
-They/PPSS never/RB troubled/VBD themselves/PPLS about/IN us/PPO while/CS we/PPSS were/BED playing/VBG ,/pct because/CS the/AT fence/NN formed/VBD such/ABL a/AT definite/JJ boundary/NN and/CC ``/pct Don't /None go/VB outside/IN the/AT gate/NN ''/pct was/BEDZ a/AT command/NN so/QL impossible/JJ of/IN misinterpretation/NN ./pct
+They/PPSS never/RB troubled/VBD themselves/PPLS about/IN us/PPO while/CS we/PPSS were/BED playing/VBG ,/pct because/CS the/AT fence/NN formed/VBD such/ABL a/AT definite/JJ boundary/NN and/CC ``/pct Don't/DO* go/VB outside/IN the/AT gate/NN ''/pct was/BEDZ a/AT command/NN so/QL impossible/JJ of/IN misinterpretation/NN ./pct
 We/PPSS were/BED not/NEG ,/pct however/RB ,/pct entirely/QL unacquainted/JJ with/IN the/AT varying/VBG aspects/NNS of/IN the/AT street/NN ./pct
 We/PPSS were/BED forbidden/VBN to/TO swing/VB on/IN the/AT gates/NNS ,/pct lest/CS they/PPSS sag/VB on/IN their/PPg hinges/NNS in/IN a/AT poor-white-trash/NN way/NN ,/pct but/CC we/PPSS could/MD stand/VB on/IN them/PPO ,/pct when/WRB they/PPSS were/BED latched/VBN ,/pct rest/VB our/PPg chins/NNS on/IN the/AT top/NN ,/pct and/CC stare/VB and/CC stare/VB ,/pct committing/VBG to/IN memory/NN ,/pct quite/QL unintentionally/RB ,/pct all/ABN the/AT details/NNS that/WPS lay/VBD before/IN our/PPg eyes/NNS ./pct
 The/AT street/NN that/WPS is/BEZ full/JJ now/RB of/IN traffic/NN and/CC parked/VBN cars/NNS then/RB and/CC for/IN many/AP years/NNS drowsed/VBD on/IN an/AT August/NP afternoon/NN in/IN the/AT shade/NN of/IN the/AT curbside/JJ trees/NNS ,/pct and/CC silence/NN was/BEDZ a/AT weight/NN ,/pct almost/QL palpable/JJ ,/pct in/IN the/AT air/NN ./pct

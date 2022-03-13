@@ -42,7 +42,7 @@ She/PPS sees/VBZ that/CS there/EX is/BEZ a/AT cup/NN of/IN steaming/VBG hot/JJ c
 ``/pct Usually/RB at/IN this/DT point/NN a/AT man/NN is/BEZ withdrawn/VBN from/IN society/NN and/CC one/CD of/IN my/PPg jobs/NNS is/BEZ to/TO see/VB that/CS he/PPS relearns/VBZ to/TO mingle/VB with/IN his/PPg fellow/NN men/NNS ''/pct ,/pct Mrs./NP Marr/NP explained/VBD ./pct
 The/AT Denverite/NP has/HVZ worked/VBN out/RP an/AT entire/JJ program/NN to/TO achieve/VB this/DT using/VBG the/AT facilities/NNS of/IN the/AT center/NN ./pct
 ``/pct And/CC I/PPSS bum/VB tickets/NNS to/IN everything/PN I/PPSS can/MD ''/pct ,/pct she/PPS said/VBD ./pct
-``/pct I've /None become/VBN the/AT greatest/JJT beggar/NN in/IN the/AT world/NN ''/pct ./pct
+``/pct I've/PPSSHV become/VBN the/AT greatest/JJT beggar/NN in/IN the/AT world/NN ''/pct ./pct
 In/IN addition/NN to/IN the/AT tickets/NNS to/IN the/AT movies/NNS ,/pct sporting/VBG events/NNS and/CC concerts/NNS ,/pct Mrs./NP Marr/NP lines/VBZ up/RP candy/NN and/CC cookies/NNS because/CS alcoholics/NNS require/VB a/AT lot/NN of/IN sweets/NNS to/TO replace/VB the/AT sugar/NN in/IN their/PPg system/NN ./pct
 Mrs./NP Marr/NP also/RB has/HVZ a/AT number/NN of/IN parolees/NNS to/TO ``/pct mother/VB ''/pct ,/pct watching/VBG to/TO see/VB that/CS they/PPSS do/DO not/NEG break/VB their/PPg parole/NN and/CC that/CS they/PPSS also/RB learn/VB to/TO readjust/VB to/IN society/NN ./pct
 By/IN mid-June/NP ,/pct millions/NNS of/IN Americans/NPS will/MD take/VB to/IN the/AT road/NN on/IN vacation/NN trips/NNS up/RP and/CC down/RP and/CC back/RB and/CC forth/RB across/IN this/DT vast/JJ and/CC lovely/JJ land/NN ./pct
@@ -58,7 +58,7 @@ My/PPg husband/NN and/CC I/PPSS ,/pct a/AT month/NN ahead/RB of/IN the/AT rush/N
 set/VBN for/IN influx/NN
 I/PPSS can/MD testify/VB that/CS motels/NNS ,/pct service/NN and/CC comfort/NN stations/NNS (/pct they/PPSS go/VB together/RB like/CS Scots/NPS and/CC heather/NN )/pct ,/pct dog/NN wagons/NNS ,/pct roadside/NN restaurants/NNS ,/pct souvenir/NN stands/NNS and/CC snake/NN farms/NNS are/BER braced/VBN and/CC waiting/VBG ./pct
 I/PPSS hope/VB it/PPO can/MD be/BE said/VBN without/IN boasting/VBG that/CS no/AT other/AP nation/NN offers/VBZ its/PPg vacationing/VBG motorists/NNS such/JJ variety/NN and/CC beauty/NN of/IN scene/NN ,/pct such/ABL an/AT excellent/JJ network/NN of/IN roads/NNS on/IN which/WDT to/TO enjoy/VB it/PPO and/CC such/JJ decent/JJ ,/pct far-flung/JJ over-night/JJ accommodations/NNS ./pct
-Maybe/RB motel-keeping/NN isn't /None the/AT nation's/NNg biggest/JJT industry/NN ,/pct but/CC it/PPS certainly/RB looks/VBZ that/DT way/NN from/IN the/AT highway/NN ./pct
+Maybe/RB motel-keeping/NN isn't/BEZ* the/AT nation's/NNg biggest/JJT industry/NN ,/pct but/CC it/PPS certainly/RB looks/VBZ that/DT way/NN from/IN the/AT highway/NN ./pct
 There/EX are/BER motels/NNS for/IN all/ABN purposes/NNS and/CC all/ABN tastes/NNS ./pct
 There/EX are/BER even/RB motels/NNS for/IN local/JJ weather/NN peculiarities/NNS in/IN Shamrock/NN ,/pct Tex./NP ,/pct as/CS I/PPSS discovered/VBD ./pct
 There/RB the/AT Royal/JJ Motel/NN advertises/VBZ ``/pct all/ABN facilities/NNS ,/pct vented/VBN heat/NN ,/pct air/NN conditioned/VBN ,/pct carpeted/VBN ,/pct free/JJ TV/NN ,/pct storm/NN cellar/NN ''/pct ./pct

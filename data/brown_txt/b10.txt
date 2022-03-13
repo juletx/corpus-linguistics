@@ -3,62 +3,62 @@ An/AT out-of-town/JJ writer/NN came/VBD up/RP to/IN Paul/NP Richards/NP today/NR
 Now/RB Richards/NP ,/pct of/IN course/NN ,/pct is/BEZ known/VBN as/CS a/AT deep/JJ thinker/NN as/CS baseball/NN managers/NNS go/VB ./pct
 He/PPS can/MD often/RB make/VB the/AT complex/JJ ridiculously/QL simple/JJ ,/pct and/CC vice/RB versa/RB ./pct
 This/DT happened/VBD to/TO be/BE vice/RB versa/RB ,/pct but/CC even/RB so/RB ,/pct the/AT answer/NN was/BEDZ a/AT masterpiece/NN ./pct
-``/pct It's /None a/AT whole/JJ lot/QL easier/JJR ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct to/TO increase/VB the/AT population/NN of/IN Nevada/NP ,/pct than/CS it/PPS is/BEZ to/TO increase/VB the/AT population/NN of/IN New/JJ York/NP city/NN ''/pct ./pct
+``/pct It's/PPSBEZ a/AT whole/JJ lot/QL easier/JJR ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct to/TO increase/VB the/AT population/NN of/IN Nevada/NP ,/pct than/CS it/PPS is/BEZ to/TO increase/VB the/AT population/NN of/IN New/JJ York/NP city/NN ''/pct ./pct
 And/CC with/IN that/DT he/PPS walked/VBD off/RP to/TO give/VB instruction/NN to/IN a/AT rookie/NN pitcher/NN ./pct
 ``/pct That/DT is/BEZ undoubtedly/RB a/AT hell/NN of/IN a/AT quote/NN ''/pct ,/pct said/VBD the/AT writer/NN ,/pct scratching/VBG his/PPg head/NN ./pct
-``/pct Now/RB ,/pct if/CS I/PPSS can/MD just/RB figure/VB out/RP what/WDT he's /None talking/VBG about/IN ,/pct I'll /None use/VB it/PPO ''/pct ./pct
+``/pct Now/RB ,/pct if/CS I/PPSS can/MD just/RB figure/VB out/RP what/WDT he's/PPSBEZ talking/VBG about/IN ,/pct I'll/PPSSMD use/VB it/PPO ''/pct ./pct
 Two/CD spots/NNS open/JJ
 This/DT was/BEDZ just/RB Richard's/NPg way/NN of/IN saying/VBG that/CS last/AP year/NN the/AT Birds/NNS opened/VBD spring/NN training/NN with/IN a/AT lot/NN of/IN jobs/NNS wide/QL open/JJ ./pct
 Some/DTI brilliant/JJ rookies/NNS nailed/VBD them/PPO down/RP ,/pct so/CS that/CS this/DT spring/NN just/RB two/CD spots/NNS ,/pct left/JJ and/CC right/JJ field/NN ,/pct are/BER really/RB up/RP for/IN grabs/NNS ./pct
-It/PPS should/MD be/BE easier/JJR to/TO plug/VB two/CD spots/NNS than/CS it/PPS was/BEDZ to/TO fill/VB the/AT wholesale/JJ lots/NNS that/WPS were/BED open/JJ last/AP year/NN ,/pct but/CC so/QL far/RB it/PPS hasn't /None worked/VBN that/DT way/NN ./pct
+It/PPS should/MD be/BE easier/JJR to/TO plug/VB two/CD spots/NNS than/CS it/PPS was/BEDZ to/TO fill/VB the/AT wholesale/JJ lots/NNS that/WPS were/BED open/JJ last/AP year/NN ,/pct but/CC so/QL far/RB it/PPS hasn't/HVZ* worked/VBN that/DT way/NN ./pct
 This/DT angle/NN of/IN just/RB where/WRB the/AT Orioles/NPS can/MD look/VB for/IN improvement/NN this/DT year/NN is/BEZ an/AT interesting/JJ one/CD ./pct
-You'd /None never/RB guess/VB it/PPO from/IN the/AT way/NN they've /None played/VBN so/QL far/RB this/DT spring/NN ,/pct but/CC there/EX remains/VBZ a/AT feeling/NN among/IN some/DTI around/IN here/RN that/CS the/AT Orioles/NPS still/RB have/HV a/AT chance/NN to/TO battle/VB for/IN the/AT pennant/NN in/IN 1961/CD ./pct
+You'd/PPSSMD never/RB guess/VB it/PPO from/IN the/AT way/NN they've/PPSSHV played/VBN so/QL far/RB this/DT spring/NN ,/pct but/CC there/EX remains/VBZ a/AT feeling/NN among/IN some/DTI around/IN here/RN that/CS the/AT Orioles/NPS still/RB have/HV a/AT chance/NN to/TO battle/VB for/IN the/AT pennant/NN in/IN 1961/CD ./pct
 Obviously/RB ,/pct if/CS this/DT club/NN is/BEZ going/VBG to/TO move/VB from/IN second/OD to/IN first/OD in/IN the/AT American/JJ League/NN ,/pct it/PPS will/MD have/HV to/TO show/VB improvement/NN someplace/RB ./pct
 Where/WRB can/MD that/DT improvement/NN possibly/RB come/VB from/IN ?/pct ?/pct
-You/PPSS certainly/RB can't /None expect/VB the/AT infield/NN to/TO do/DO any/DTI better/RBR than/CS it/PPS did/DOD last/AP year/NN ./pct
+You/PPSS certainly/RB can't/MD* expect/VB the/AT infield/NN to/TO do/DO any/DTI better/RBR than/CS it/PPS did/DOD last/AP year/NN ./pct
 Robby/NP could/MD be/BE better/JJR
 ./pct
-Brooks/NP Robinson/NP is/BEZ great/JJ ,/pct and/CC it/PPS is/BEZ conceivable/JJ that/CS he'll /None do/DO even/QL better/RBR in/IN 1961/CD than/CS he/PPS did/DOD in/IN 1960/CD ./pct
-You/PPSS can't /None expect/VB it/PPO ,/pct though/RB ./pct
+Brooks/NP Robinson/NP is/BEZ great/JJ ,/pct and/CC it/PPS is/BEZ conceivable/JJ that/CS he'll/PPSMD do/DO even/QL better/RBR in/IN 1961/CD than/CS he/PPS did/DOD in/IN 1960/CD ./pct
+You/PPSS can't/MD* expect/VB it/PPO ,/pct though/RB ./pct
 Robby's/NPg performance/NN last/AP year/NN was/BEDZ tremendous/JJ ./pct
-It's /None the/AT same/AP with/IN Ron/NP Hansen/NP and/CC Jim/NP Gentile/NP ./pct
+It's/PPSBEZ the/AT same/AP with/IN Ron/NP Hansen/NP and/CC Jim/NP Gentile/NP ./pct
 If/CS they/PPSS do/DO as/QL well/RB as/CS they/PPSS did/DOD in/IN 1960/CD there/EX can/MD be/BE no/AT complaint/NN ./pct
-They/PPSS shouldn't /None be/BE asked/VBN to/TO carry/VB any/DTI more/AP of/IN the/AT burden/NN ./pct
+They/PPSS shouldn't/MD* be/BE asked/VBN to/TO carry/VB any/DTI more/AP of/IN the/AT burden/NN ./pct
 Hansen/NP will/MD be/BE getting/VBG a/AT late/JJ spring/NN training/NN start/NN ,/pct which/WDT might/MD very/QL well/RB set/VB him/PPO back/RB ./pct
-He/PPS got/VBD off/RP to/IN an/AT exceptional/JJ start/NN last/AP season/NN ,/pct and/CC under/IN the/AT circumstances/NNS probably/RB won't /None duplicate/VB it/PPO ./pct
+He/PPS got/VBD off/RP to/IN an/AT exceptional/JJ start/NN last/AP season/NN ,/pct and/CC under/IN the/AT circumstances/NNS probably/RB won't/MD* duplicate/VB it/PPO ./pct
 There/EX are/BER some/DTI clubs/NNS which/WDT claim/VB they/PPSS learned/VBD something/PN about/IN pitching/VBG to/IN him/PPO last/AP year/NN ./pct
-They/PPSS don't /None expect/VB to/TO stop/VB him/PPO ,/pct just/RB slow/VB him/PPO down/RP some/DTI with/IN the/AT bat/NN ./pct
-He'll /None still/RB be/BE a/AT top/JJS player/NN ,/pct they/PPSS concede/VB ,/pct because/CS he's /None got/VBN a/AT great/JJ glove/NN and/CC the/AT long/JJ ball/NN going/VBG for/IN him/PPO ./pct
+They/PPSS don't/DO* expect/VB to/TO stop/VB him/PPO ,/pct just/RB slow/VB him/PPO down/RP some/DTI with/IN the/AT bat/NN ./pct
+He'll/PPSMD still/RB be/BE a/AT top/JJS player/NN ,/pct they/PPSS concede/VB ,/pct because/CS he's/PPSBEZ got/VBN a/AT great/JJ glove/NN and/CC the/AT long/JJ ball/NN going/VBG for/IN him/PPO ./pct
 But/CC they/PPSS expect/VB to/TO reduce/VB his/PPg over-all/JJ offensive/JJ production/NN ./pct
 Breeding/NP might/MD move/VB up/RP
 Gentile/NP can/MD hardly/RB do/DO better/RBR than/CS drive/VB in/RP 98/CD runs/NNS ./pct
-Don't /None ask/VB him/PPO more/AP ./pct
+Don't/DO* ask/VB him/PPO more/AP ./pct
 I/PPSS have/HV a/AT hunch/NN Marv/NP Breeding/NP might/MD move/VB up/RP a/AT notch/NN ./pct
-But/CC even/RB so/RB ,/pct he/PPS had/HVD a/AT good/JJ year/NN in/IN 1960/CD and/CC won't /None do/DO too/QL much/QL better/RBR ./pct
-So/RB ,/pct all/ABN in/IN all/ABN ,/pct the/AT infield/NN can't /None be/BE expected/VBN to/TO supply/VB the/AT added/VBN improvement/NN to/TO propel/VB the/AT Birds/NNS from/IN second/OD to/IN first/OD ./pct
+But/CC even/RB so/RB ,/pct he/PPS had/HVD a/AT good/JJ year/NN in/IN 1960/CD and/CC won't/MD* do/DO too/QL much/QL better/RBR ./pct
+So/RB ,/pct all/ABN in/IN all/ABN ,/pct the/AT infield/NN can't/MD* be/BE expected/VBN to/TO supply/VB the/AT added/VBN improvement/NN to/TO propel/VB the/AT Birds/NNS from/IN second/OD to/IN first/OD ./pct
 And/CC the/AT pitching/NN will/MD also/RB have/HV trouble/NN doing/VBG better/RBR ./pct
 Richards/NP got/VBD a/AT great/JJ performance/NN out/IN of/IN his/PPg combination/NN of/IN youth/NN and/CC experience/NN last/AP season/NN ./pct
 Where/WRB ,/pct then/RB ,/pct can/MD we/PPSS look/VB for/IN improvement/NN ?/pct ?/pct
 ``/pct From/IN Triandos/NP ,/pct Brandt/NP and/CC Walker/NP ''/pct ,/pct answers/VBZ Richards/NP ./pct
-``/pct They're /None the/AT ones/NNS we/PPSS can/MD expect/VB to/TO do/DO better/RBR ''/pct ./pct
+``/pct They're/PPSSBER the/AT ones/NNS we/PPSS can/MD expect/VB to/TO do/DO better/RBR ''/pct ./pct
 The/AT man/NN is/BEZ right/JJ ,/pct and/CC at/IN this/DT time/NN ,/pct indications/NNS are/BER that/CS these/DTS three/CD are/BER ready/JJ for/IN better/JJR seasons/NNS ./pct
-Triandos/NP hasn't /None proved/VBN it/PPO yet/RB ,/pct but/CC he/PPS says/VBZ he's /None convinced/VBN his/PPg thumb/NN is/BEZ all/QL right/JJ ./pct
-He/PPS jammed/VBD it/PPO this/DT spring/NN and/CC has/HVZ had/HVN to/TO rest/VB it/PPO ,/pct but/CC he/PPS says/VBZ the/AT old/JJ injury/NN hasn't /None bothered/VBN him/PPO ./pct
+Triandos/NP hasn't/HVZ* proved/VBN it/PPO yet/RB ,/pct but/CC he/PPS says/VBZ he's/PPSBEZ convinced/VBN his/PPg thumb/NN is/BEZ all/QL right/JJ ./pct
+He/PPS jammed/VBD it/PPO this/DT spring/NN and/CC has/HVZ had/HVN to/TO rest/VB it/PPO ,/pct but/CC he/PPS says/VBZ the/AT old/JJ injury/NN hasn't/HVZ* bothered/VBN him/PPO ./pct
 If/CS he/PPS can/MD bounce/VB back/RB with/IN one/CD of/IN those/DTS 25/CD home/NN runs/NNS years/NNS ,/pct the/AT club/NN will/MD have/HV to/TO be/BE better/JJR off/RP offensively/RB ./pct
-I'm /None still/RB not/NEG convinced/VBN ,/pct though/RB ,/pct I'll /None have/HV to/TO see/VB more/AP of/IN him/PPO before/CS predicting/VBG that/DT big/JJ year/NN for/IN him/PPO ./pct
+I'm/PPSSBEM still/RB not/NEG convinced/VBN ,/pct though/RB ,/pct I'll/PPSSMD have/HV to/TO see/VB more/AP of/IN him/PPO before/CS predicting/VBG that/DT big/JJ year/NN for/IN him/PPO ./pct
 Hank/NP Foiles/NP ,/pct backed/VBN up/RP by/IN Frank/NP House/NP who/WPS will/MD be/BE within/IN calling/VBG distance/NN in/IN the/AT minors/NNS ,/pct make/VB up/RP better/JJR second/OD line/NN catching/NN than/CS the/AT Birds/NNS had/HVD all/ABN last/AP year/NN ,/pct but/CC Gus/NP is/BEZ still/RB that/DT big/JJ man/NN you/PPSS need/VB when/WRB you/PPSS start/VB talking/VBG pennant/NN ./pct
 To/IN me/PPO ,/pct Brandt/NP looks/VBZ as/CS though/CS he/PPS could/MD be/BE in/RP for/IN a/AT fine/JJ year/NN ./pct
-He/PPS hasn't /None played/VBN too/QL much/AP ,/pct because/CS Richards/NP has/HVZ been/BEN working/VBG on/IN him/PPO furiously/RB in/IN batting/VBG practice/NN ./pct
-He's /None hitting/VBG the/AT ball/NN hard/RB ,/pct in/IN the/AT batting/VBG cage/NN ,/pct and/CC his/PPg whole/JJ attitude/NN is/BEZ improved/VBN over/IN this/DT time/NN last/AP year/NN ./pct
+He/PPS hasn't/HVZ* played/VBN too/QL much/AP ,/pct because/CS Richards/NP has/HVZ been/BEN working/VBG on/IN him/PPO furiously/RB in/IN batting/VBG practice/NN ./pct
+He's/PPSBEZ hitting/VBG the/AT ball/NN hard/RB ,/pct in/IN the/AT batting/VBG cage/NN ,/pct and/CC his/PPg whole/JJ attitude/NN is/BEZ improved/VBN over/IN this/DT time/NN last/AP year/NN ./pct
 When/WRB he/PPS came/VBD to/IN Baltimore/NP ,/pct he/PPS was/BEDZ leaving/VBG a/AT team/NN which/WDT was/BEDZ supposed/VBN to/TO win/VB the/AT National/JJ League/NN pennant/NN ,/pct and/CC he/PPS was/BEDZ joining/VBG what/WDT seemed/VBD to/TO be/BE a/AT second/OD division/NN American/JJ League/NN club/NN ./pct
 He/PPS was/BEDZ down/RP ,/pct hard/JJ to/TO talk/VB to/IN ,/pct and/CC far/QL too/QL nonchalant/JJ on/IN the/AT field/NN ./pct
 As/IN of/IN now/RB ,/pct that/DT all/ABN seems/VBZ behind/IN him/PPO ./pct
-He's /None been/BEN entirely/QL different/JJ all/ABN spring/NN ./pct
+He's/PPSHVZ been/BEN entirely/QL different/JJ all/ABN spring/NN ./pct
 And/CC Walker/NP looks/VBZ stronger/JJR ,/pct seems/VBZ to/TO be/BE throwing/VBG better/RBR than/CS he/PPS did/DOD last/AP year/NN ./pct
 Let/VB him/PPO bounce/VB back/RB ,/pct and/CC he/PPS could/MD really/RB set/VB up/RP the/AT staff/NN ./pct
 So/RB ,/pct if/CS the/AT Orioles/NPS are/BER to/TO improve/VB ,/pct Brandt/NP ,/pct Triandos/NP and/CC Walker/NP will/MD have/HV to/TO do/DO it/PPO ./pct
-So/QL far/RB the/AT platoons/NNS on/IN left/JJ and/CC right/JJ fielders/NNS don't /None seem/VB capable/JJ of/IN carrying/VBG the/AT load/NN ./pct
-Of/IN course/NN ,/pct this/DT isn't /None taking/VBG into/IN consideration/NN the/AT population/NN of/IN Nevada/NP and/CC New/JJ York/NP city/NN ,/pct but/CC it's /None the/AT way/NN things/NNS look/VB from/IN here/RN at/IN this/DT point/NN ./pct
+So/QL far/RB the/AT platoons/NNS on/IN left/JJ and/CC right/JJ fielders/NNS don't/DO* seem/VB capable/JJ of/IN carrying/VBG the/AT load/NN ./pct
+Of/IN course/NN ,/pct this/DT isn't/BEZ* taking/VBG into/IN consideration/NN the/AT population/NN of/IN Nevada/NP and/CC New/JJ York/NP city/NN ,/pct but/CC it's/PPSBEZ the/AT way/NN things/NNS look/VB from/IN here/RN at/IN this/DT point/NN ./pct
 Is/BEZ the/AT mother/NN of/IN an/AT ``/pct autistic/JJ ''/pct child/NN at/IN fault/NN ?/pct ?/pct
 (/pct The/AT ``/pct autistic/JJ ''/pct child/NN is/BEZ one/CD who/WPS seems/VBZ to/TO lack/VB a/AT well-defined/JJ sense/NN of/IN self/NN ./pct
 He/PPS tends/VBZ to/TO treat/VB himself/PPL and/CC other/AP people/NNS as/CS if/CS they/PPSS were/BED objects/NNS --/pct and/CC sometimes/RB he/PPS treats/VBZ objects/NNS as/CS if/CS they/PPSS were/BED people/NNS ./pct
@@ -68,24 +68,24 @@ We/PPSS think/VB differently/RB ./pct
 We/PPSS believe/VB that/CS autism/NN ,/pct like/CS so/QL many/AP other/AP conditions/NNS of/IN defect/NN and/CC deviation/NN ,/pct is/BEZ to/IN a/AT large/JJ extent/NN inborn/JJ ./pct
 A/AT mother/NN can/MD help/VB a/AT child/NN adapt/VB to/IN his/PPg difficulties/NNS ./pct
 Sometimes/RB she/PPS can/MD --/pct to/IN a/AT large/JJ extent/NN --/pct help/VB him/PPO overcome/VB them/PPO ./pct
-But/CC we/PPSS don't /None think/VB she/PPS creates/VBZ them/PPO ./pct
-We/PPSS don't /None think/VB she/PPS can/MD make/VB her/PPg child/NN defective/JJ ,/pct emotionally/RB disturbed/VBN or/CC autistic/JJ ./pct
+But/CC we/PPSS don't/DO* think/VB she/PPS creates/VBZ them/PPO ./pct
+We/PPSS don't/DO* think/VB she/PPS can/MD make/VB her/PPg child/NN defective/JJ ,/pct emotionally/RB disturbed/VBN or/CC autistic/JJ ./pct
 The/AT mother/NN of/IN a/AT difficult/JJ child/NN can/MD do/DO a/AT great/JJ deal/NN to/TO help/VB her/PPg own/JJ child/NN and/CC often/RB ,/pct by/IN sharing/VBG her/PPg experiences/NNS ,/pct she/PPS can/MD help/VB other/AP mothers/NNS with/IN the/AT same/AP problem/NN ./pct
-Since/CS little/AP is/BEZ known/VBN about/IN autism/NN ,/pct and/CC almost/RB nothing/PN has/HVZ been/BEN written/VBN for/IN the/AT layman/NN ,/pct we'd /None like/VB to/TO share/VB one/CD experienced/VBN mother's/NNg comments/NNS ./pct
+Since/CS little/AP is/BEZ known/VBN about/IN autism/NN ,/pct and/CC almost/RB nothing/PN has/HVZ been/BEN written/VBN for/IN the/AT layman/NN ,/pct we'd/PPSSMD like/VB to/TO share/VB one/CD experienced/VBN mother's/NNg comments/NNS ./pct
 She/PPS wrote/VBD :/pct
 total/JJ disinterest/NN
 As/CS the/AT mother/NN of/IN an/AT autistic/JJ child/NN who/WPS is/BEZ lacking/VBG in/IN interest/NN and/CC enthusiasm/NN about/IN almost/RB anything/PN ,/pct I/PPSS have/HV to/TO manipulate/VB my/PPg son's/NNg fingers/NNS for/IN him/PPO when/WRB he/PPS first/RB plays/VBZ with/IN a/AT new/JJ toy/NN ./pct
 He/PPS wants/VBZ me/PPO to/TO do/DO everything/PN for/IN him/PPO ./pct
-``/pct You/PPSS don't /None believe/VB that/CS autistic/JJ children/NNS become/VB autistic/JJ because/RB of/IN something/PN that/WPS happens/VBZ to/IN them/PPO or/CC because/RB of/IN the/AT way/NN their/PPg mother/NN treats/VBZ them/PPO ./pct
+``/pct You/PPSS don't/DO* believe/VB that/CS autistic/JJ children/NNS become/VB autistic/JJ because/RB of/IN something/PN that/WPS happens/VBZ to/IN them/PPO or/CC because/RB of/IN the/AT way/NN their/PPg mother/NN treats/VBZ them/PPO ./pct
 But/CC I/PPSS do/DO and/CC my/PPg psychiatrist/NN does/DOZ ,/pct too/RB ./pct
-I/PPSS know/VB ,/pct that/CS my/PPg son/NN wants/VBZ control/NN and/CC direction/NN ,/pct but/CC being/BEG autistic/JJ myself/PPL I/PPSS cannot /None give/VB full/JJ control/NN or/CC direction/NN ./pct
+I/PPSS know/VB ,/pct that/CS my/PPg son/NN wants/VBZ control/NN and/CC direction/NN ,/pct but/CC being/BEG autistic/JJ myself/PPL I/PPSS cannot/MD* give/VB full/JJ control/NN or/CC direction/NN ./pct
 ``/pct One/CD thing/NN I/PPSS notice/VB which/WDT I/PPSS have/HV seldom/RB heard/VBN mentioned/VBN ./pct
-This/DT is/BEZ that/CS autistic/JJ people/NNS don't /None enjoy/VB physical/JJ contact/NN with/IN others/NNS --/pct for/IN instance/NN ,/pct my/PPg children/NNS and/CC I/PPSS ./pct
+This/DT is/BEZ that/CS autistic/JJ people/NNS don't/DO* enjoy/VB physical/JJ contact/NN with/IN others/NNS --/pct for/IN instance/NN ,/pct my/PPg children/NNS and/CC I/PPSS ./pct
 When/WRB I/PPSS hold/VB my/PPg son/NN he/PPS stiffens/VBZ his/PPg whole/JJ body/NN in/IN my/PPg arms/NNS until/CS he/PPS is/BEZ as/QL straight/JJ and/CC stiff/JJ as/CS a/AT board/NN ./pct
-He/PPS pushes/VBZ and/CC straightens/VBZ himself/PPL as/CS if/CS he/PPS can't /None stand/VB the/AT feeling/NN of/IN being/BEG held/VBN ./pct
+He/PPS pushes/VBZ and/CC straightens/VBZ himself/PPL as/CS if/CS he/PPS can't/MD* stand/VB the/AT feeling/NN of/IN being/BEG held/VBN ./pct
 Physical/JJ contact/NN is/BEZ uncomfortable/JJ for/IN him/PPO ''/pct !/pct !/pct
 This/DT mother/NN is/BEZ quite/QL correct/JJ ./pct
-As/CS a/AT rule/NN ,/pct the/AT autistic/JJ child/NN doesn't /None enjoy/VB physical/JJ contact/NN with/IN others/NNS ./pct
+As/CS a/AT rule/NN ,/pct the/AT autistic/JJ child/NN doesn't/DOZ* enjoy/VB physical/JJ contact/NN with/IN others/NNS ./pct
 Parents/NNS have/HV to/TO find/VB other/AP ways/NNS of/IN comforting/VBG him/PPO ./pct
 For/IN the/AT young/JJ child/NN this/DT may/MD be/BE no/AT more/AP than/CS providing/VBG food/NN ,/pct light/NN or/CC movement/NN ./pct
 As/CS he/PPS grows/VBZ older/JJR it/PPS may/MD be/BE a/AT matter/NN of/IN providing/VBG some/DTI accustomed/VBN object/NN (/pct his/PPg ``/pct magic/JJ ''/pct thing/NN )/pct ./pct
@@ -114,7 +114,7 @@ Is/BEZ a/AT relaxed/VBN home/NR atmosphere/NN enough/AP to/TO help/VB her/PPO ou
 Answer/NN
 --/pct Her/PPg choice/NN of/IN one/CD color/NN means/VBZ she/PPS is/BEZ simply/RB enjoying/VBG the/AT motor/NN act/NN of/IN coloring/VBG ,/pct without/IN having/HVG reached/VBN the/AT point/NN of/IN selecting/VBG suitable/JJ colors/NNS for/IN different/JJ objects/NNS ./pct
 This/DT immature/JJ use/NN of/IN crayons/NNS may/MD suggest/VB that/CS she/PPS is/BEZ a/AT little/QL immature/JJ for/IN the/AT first/OD grade/NN ./pct
-No/RB ,/pct coloring/VBG isn't /None exactly/RB something/PN you/PPSS teach/VB a/AT child/NN ./pct
+No/RB ,/pct coloring/VBG isn't/BEZ* exactly/RB something/PN you/PPSS teach/VB a/AT child/NN ./pct
 You/PPSS sometimes/RB give/VB them/PPO a/AT little/JJ demonstration/NN ,/pct a/AT little/JJ guidance/NN ,/pct and/CC suggestions/NNS about/IN staying/VBG inside/IN the/AT lines/NNS ./pct
 But/CC most/AP learn/VB to/TO color/VB and/CC paint/VB as/CS and/CC when/WRB they/PPSS are/BER ready/JJ with/IN only/RB a/AT very/QL little/JJ demonstration/NN ./pct
 Seen/VBN in/IN decorating/VBG circles/NNS of/IN late/JJ is/BEZ a/AT renewed/VBN interest/NN in/IN an/AT old/JJ art/NN :/pct embroidery/NN ./pct

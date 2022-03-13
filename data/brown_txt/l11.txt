@@ -1,47 +1,47 @@
 ``/pct Right/RB ''/pct ,/pct said/VBD the/AT fingerprint/NN man/NN ./pct
-``/pct Also/RB ,/pct if/CS you're /None going/VBG to/TO believe/VB those/DTS prints/NNS ,/pct you'll /None have/HV to/TO look/VB for/IN a/AT killer/NN who's /None a/AT top-grade/NN piano/NN player/NN ''/pct ./pct
+``/pct Also/RB ,/pct if/CS you're/PPSSBER going/VBG to/TO believe/VB those/DTS prints/NNS ,/pct you'll/PPSSMD have/HV to/TO look/VB for/IN a/AT killer/NN who's/WPSBEZ a/AT top-grade/NN piano/NN player/NN ''/pct ./pct
 He/PPS demonstrated/VBD by/IN playing/VBG an/AT imaginary/JJ piano/NN ,/pct doing/VBG a/AT staccato/NN passage/NN with/IN a/AT broadly/RB exaggerated/VBN attack/NN ./pct
 To/TO make/VB it/PPO clearer/JJR he/PPS shifted/VBD to/IN acting/VBG out/RP ,/pct but/CC with/IN no/AT change/NN of/IN manner/NN ,/pct the/AT killing/NN of/IN Rose/NP Mallory/NP ./pct
-His/PPg hands/NNS snatched/VBD at/IN an/AT imaginary/JJ bucket/NN ,/pct swooping/VBG down/RP hard/RB to/TO grab/VB it/PPO and/CC coming/VBG away/RB with/IN equal/JJ snap/NN like/IN a/AT ball/NN that's /None been/BEN bounced/VBN hard/RB ./pct
+His/PPg hands/NNS snatched/VBD at/IN an/AT imaginary/JJ bucket/NN ,/pct swooping/VBG down/RP hard/RB to/TO grab/VB it/PPO and/CC coming/VBG away/RB with/IN equal/JJ snap/NN like/IN a/AT ball/NN that's/WPSHVZ been/BEN bounced/VBN hard/RB ./pct
 In/IN the/AT same/AP way/NN he/PPS pantomimed/VBD grasping/VBG a/AT mantel/NN and/CC bouncing/VBG cleanly/RB off/IN that/DT ,/pct pressing/VBG his/PPg hands/NNS against/IN the/AT floor/NN and/CC bouncing/VBG cleanly/RB off/IN that/DT ./pct
 He/PPS was/BEDZ moving/VBG like/IN a/AT ballet/NN dancer/NN ,/pct playing/VBG for/IN laughs/NNS ./pct
 If/CS Rose/NP Mallory's/NPg killer/NN acted/VBD this/DT way/NN ,/pct catching/VBG up/RP with/IN him/PPO was/BEDZ going/VBG to/TO be/BE a/AT cinch/NN ./pct
-We'd /None know/VB him/PPO by/IN his/PPg stretch/NN pants/NNS and/CC the/AT flowers/NNS he'd /None wear/VB twined/VBN in/IN his/PPg hair/NN ./pct
+We'd/PPSSMD know/VB him/PPO by/IN his/PPg stretch/NN pants/NNS and/CC the/AT flowers/NNS he'd/PPSMD wear/VB twined/VBN in/IN his/PPg hair/NN ./pct
 Perhaps/RB if/CS Felix/NP had/HVD first/RB come/VBN upon/IN us/PPO when/WRB this/DT boy/NN was/BEDZ not/NEG cavorting/VBG so/QL gaily/RB up/IN and/CC down/IN the/AT hall/NN outside/IN the/AT murdered/VBN woman's/NNg apartment/NN ,/pct we/PPSS might/MD have/HV had/HVN less/AP trouble/NN convincing/VBG Felix/NP of/IN our/PPg seriousness/NN ./pct
 This/DT ,/pct you/PPSS will/MD remember/VB ,/pct was/BEDZ still/RB New/JJ Year's/NNg Day/NN ./pct
 By/IN the/AT time/NN Felix/NP turned/VBD up/RP it/PPS was/BEDZ early/JJ afternoon/NN ,/pct which/WDT ,/pct one/PN would/MD think/VB ,/pct would/MD be/BE late/JJ enough/QLP so/CS that/CS by/IN then/RB ,/pct except/IN for/IN small/JJ children/NNS and/CC a/AT few/AP hardy/JJ souls/NNS who/WPS had/HVD not/NEG yet/RB sobered/VBN up/RP ,/pct it/PPS could/MD have/HV been/BEN expected/VBN that/CS people/NNS would/MD no/QL longer/JJR be/BE having/HVG any/DTI sort/NN of/IN active/JJ interest/NN in/IN the/AT previous/JJ night's/NNg noisemakers/NNS and/CC paper/NN hats/NNS ./pct
 Felix/NP was/BEDZ the/AT exception/NN ./pct
 He/PPS had/HVD retained/VBN his/PPg hat/NN and/CC his/PPg horn/NN ,/pct and/CC ,/pct whatever/WDT fun/NN might/MD still/RB be/BE going/VBG ,/pct he/PPS was/BEDZ ready/JJ to/TO join/VB it/PPO ./pct
 That/DT ,/pct incidentally/RB ,/pct might/MD give/VB you/PPO some/DTI idea/NN of/IN what/WDT Felix/NP was/BEDZ like/JJ ./pct
-After/IN all/ABN ,/pct he/PPS hadn't /None happened/VBN upon/IN us/PPO in/IN that/DT second-floor/NN hall/NN without/IN warning/VBG ./pct
+After/IN all/ABN ,/pct he/PPS hadn't/HVD* happened/VBN upon/IN us/PPO in/IN that/DT second-floor/NN hall/NN without/IN warning/VBG ./pct
 The/AT M.E.'s/NPg boys/NNS had/HVD finished/VBN their/PPg on-the-spot/JJ examination/NN and/CC the/AT body/NN had/HVD been/BEN removed/VBN for/IN autopsy/NN ./pct
 The/AT meat/NN wagon/NN ,/pct therefore/RB ,/pct was/BEDZ not/NEG out/RP in/IN front/NN of/IN the/AT house/NN any/DTI more/RBR ,/pct but/CC the/AT cluster/NN of/IN squad/NN cars/NNS was/BEDZ still/RB there/RB and/CC there/EX was/BEDZ a/AT cop/NN on/IN the/AT door/NN downstairs/RB to/TO screen/VB any/DTI comings/NNS and/CC goings/NNS ./pct
 There/EX was/BEDZ ,/pct furthermore/RB ,/pct the/AT crowd/NN of/IN curious/JJ onlookers/NNS gathered/VBN in/IN the/AT street/NN and/CC a/AT couple/NN more/AP cops/NNS to/TO hold/VB them/PPO at/IN a/AT decent/JJ distance/NN ./pct
 Just/RB put/VB yourself/PPL in/IN Felix's/NPg place/NN for/IN a/AT moment/NN ./pct
-You're /None a/AT taxpayer/NN ,/pct householder/NN ,/pct landlord/NN ./pct
-You've /None been/BEN away/RB from/IN home/NR for/IN the/AT New/JJ Year/NN festivities/NNS ,/pct but/CC now/RB the/AT party/NN is/BEZ over/RP and/CC you/PPSS come/VB home/NR ./pct
+You're/PPSSBER a/AT taxpayer/NN ,/pct householder/NN ,/pct landlord/NN ./pct
+You've/PPSSHV been/BEN away/RB from/IN home/NR for/IN the/AT New/JJ Year/NN festivities/NNS ,/pct but/CC now/RB the/AT party/NN is/BEZ over/RP and/CC you/PPSS come/VB home/NR ./pct
 Defining/VBG sobriety/NN in/IN the/AT limited/VBN sense/NN of/IN being/BEG free/JJ from/IN the/AT clinical/JJ symptoms/NNS of/IN the/AT effects/NNS of/IN alcohol/NN ingested/VBN and/CC not/NEG yet/RB eliminated/VBN from/IN the/AT system/NN ,/pct you/PPSS are/BER sober/JJ ./pct
-You/PPSS still/RB have/HV your/PPg paper/NN hat/NN and/CC you're /None wearing/VBG it/PPO ,/pct but/CC then/RB ,/pct it/PPS is/BEZ an/AT extraordinary/JJ paper/NN hat/NN and/CC ,/pct in/IN addition/NN to/IN anything/PN else/RB you/PPSS may/MD be/BE ,/pct you/PPSS are/BER also/RB the/AT sculptor/NN who/WPS created/VBD that/DT most/QL peculiar/JJ dame/NN out/RP in/IN the/AT back/NN yard/NN ./pct
-It's /None not/NEG too/QL much/AP to/TO assume/VB that/CS you/PPSS will/MD have/HV a/AT more/QL lasting/JJ interest/NN in/IN paper/NN hats/NNS than/CS will/MD Mr./NP Average/JJ Citizen/NN ./pct
+You/PPSS still/RB have/HV your/PPg paper/NN hat/NN and/CC you're/PPSSBER wearing/VBG it/PPO ,/pct but/CC then/RB ,/pct it/PPS is/BEZ an/AT extraordinary/JJ paper/NN hat/NN and/CC ,/pct in/IN addition/NN to/IN anything/PN else/RB you/PPSS may/MD be/BE ,/pct you/PPSS are/BER also/RB the/AT sculptor/NN who/WPS created/VBD that/DT most/QL peculiar/JJ dame/NN out/RP in/IN the/AT back/NN yard/NN ./pct
+It's/PPSBEZ not/NEG too/QL much/AP to/TO assume/VB that/CS you/PPSS will/MD have/HV a/AT more/QL lasting/JJ interest/NN in/IN paper/NN hats/NNS than/CS will/MD Mr./NP Average/JJ Citizen/NN ./pct
 You/PPSS have/HV your/PPg paper/NN horn/NN clutched/VBN in/IN your/PPg big/JJ ,/pct craggy/JJ fist/NN ,/pct and/CC for/IN your/PPg entrance/NN you/PPSS have/HV planned/VBN a/AT noisy/JJ ,/pct colorful/JJ and/CC exuberant/JJ greeting/NN to/IN your/PPg friends/NNS and/CC tenants/NNS ./pct
 You/PPSS find/VB your/PPg house/NN a/AT focus/NN of/IN public/NN and/CC police/NN attention/NN ./pct
 Can/MD you/PPSS imagine/VB yourself/PPL forgetting/VBG under/IN the/AT circumstances/NNS that/CS you/PPSS are/BER approaching/VBG this/DT startling/JJ and/CC unexpected/JJ situation/NN so/QL unsuitably/RB hatted/JJ and/CC armed/VBN with/IN a/AT paper/NN horn/NN ?/pct ?/pct
 Maybe/RB one/PN could/MD be/BE startled/VBN into/IN forgetfulness/NN ./pct
 You/PPSS shoulder/VB your/PPg way/NN through/IN the/AT cluster/NN of/IN the/AT curious/JJ and/CC you/PPSS barge/VB up/IN to/IN the/AT cop/NN on/IN the/AT door/NN ./pct
-You/PPSS identify/VB yourself/PPL and/CC ask/VB him/PPO what's /None going/VBG on/RP ./pct
+You/PPSS identify/VB yourself/PPL and/CC ask/VB him/PPO what's/WDTBEZ going/VBG on/RP ./pct
 Instead/RB of/IN answering/VBG you/PPO ,/pct he/PPS sticks/VBZ his/PPg head/NN in/IN the/AT door/NN and/CC shouts/VBZ up/IN the/AT stairs/NNS ./pct
 ``/pct Got/VBN the/AT upstairs/NN guy/VB ''/pct ,/pct he/PPS bellows/VBZ ./pct
 ``/pct The/AT owner/NN ./pct
 Do/DO I/PPSS send/VB him/PPO up/RP ''/pct ?/pct ?/pct
 Then/RB he/PPS turns/VBZ back/RB to/IN you/PPO ./pct
 ``/pct Go/VB on/RP in/RP ''/pct ,/pct he/PPS says/VBZ ./pct
-``/pct They'll /None tell/VB you/PPO what's /None cooking/VBG ''/pct ./pct
+``/pct They'll/PPSSMD tell/VB you/PPO what's/WDTBEZ cooking/VBG ''/pct ./pct
 Even/QL then/RB ,/pct as/CS you/PPSS go/VB into/IN the/AT house/NN oppressed/VBN by/IN the/AT knowledge/NN that/CS something/PN is/BEZ cooking/VBG and/CC that/CS your/PPg house/NN has/HVZ passed/VBN under/IN this/DT unaccountable/JJ ,/pct official/JJ control/NN ,/pct could/MD you/PPSS go/VB on/RP forgetting/VBG that/CS you/PPSS still/RB had/HVD that/DT ridiculous/JJ hat/NN on/IN your/PPg head/NN and/CC you/PPSS were/BED still/RB carrying/VBG that/DT childish/JJ horn/NN in/IN your/PPg hand/NN ?/pct ?/pct
-What/WDT I'm /None getting/VBG at/IN is/BEZ that/CS we/PPSS were/BED fully/RB prepared/VBN for/IN Felix's/NPg being/BEG an/AT odd/JJ one/CD ./pct
-We'd /None seen/VBN his/PPg handiwork/NN out/RP in/IN the/AT back/NN yard/NN ,/pct and/CC the/AT little/AP his/PPg tenants/NNS had/HVD told/VBN us/PPO of/IN him/PPO did/DOD make/VB him/PPO sound/VB a/AT little/QL special/JJ ./pct
+What/WDT I'm/PPSSBEM getting/VBG at/IN is/BEZ that/CS we/PPSS were/BED fully/RB prepared/VBN for/IN Felix's/NPg being/BEG an/AT odd/JJ one/CD ./pct
+We'd/PPSSHVD seen/VBN his/PPg handiwork/NN out/RP in/IN the/AT back/NN yard/NN ,/pct and/CC the/AT little/AP his/PPg tenants/NNS had/HVD told/VBN us/PPO of/IN him/PPO did/DOD make/VB him/PPO sound/VB a/AT little/QL special/JJ ./pct
 We/PPSS were/BED not/NEG ,/pct however/WRB ,/pct prepared/VBN for/IN anything/PN like/IN the/AT apparition/NN that/WPS confronted/VBD us/PPO as/CS Felix/NP came/VBD up/IN the/AT stairs/NNS ./pct
 He/PPS ,/pct of/IN course/NN ,/pct must/MD have/HV been/BEN equally/RB unprepared/JJ for/IN what/WDT confronted/VBD him/PPO ,/pct but/CC ,/pct nonetheless/RB ,/pct I/PPSS did/DOD find/VB his/PPg reaction/NN startling/JJ ./pct
-If/CS Felix/NP was/BEDZ still/RB wearing/VBG the/AT hat/NN and/CC carrying/VBG the/AT horn/NN because/CS he'd /None forgotten/VBN about/IN them/PPO ,/pct he/PPS now/RB remembered/VBD ./pct
+If/CS Felix/NP was/BEDZ still/RB wearing/VBG the/AT hat/NN and/CC carrying/VBG the/AT horn/NN because/CS he'd/PPSHVD forgotten/VBN about/IN them/PPO ,/pct he/PPS now/RB remembered/VBD ./pct
 He/PPS came/VBD bounding/VBG up/IN the/AT stairs/NNS and/CC joined/VBD the/AT dance/NN ./pct
 He/PPS adjusted/VBD the/AT hat/NN ,/pct lifted/VBD the/AT horn/NN to/IN his/PPg lips/NNS as/CS though/CS it/PPS were/BED a/AT flute/NN ,/pct and/CC fell/VBD in/RP alongside/IN our/PPg fingerprint/NN expert/NN to/TO cavort/VB with/IN him/PPO ./pct
 Our/PPg man/NN stopped/VBD dead/JJ and/CC glowered/VBD at/IN Felix/NP ./pct
@@ -49,12 +49,12 @@ Felix/NP threw/VBD his/PPg head/NN back/RB and/CC laughed/VBD a/AT laugh/NN that
 This/DT was/BEDZ a/AT bull/NN of/IN a/AT man/NN ./pct
 He/PPS was/BEDZ big-chested/JJ ,/pct big-shouldered/JJ and/CC heavy-armed/JJ ./pct
 His/PPg face/NN was/BEDZ ruddy/JJ and/CC heavy/JJ and/CC unlined/JJ ,/pct and/CC when/WRB he/PPS laughed/VBD he/PPS showed/VBD his/PPg teeth/NNS ,/pct which/WDT were/BED big/JJ and/CC white/JJ and/CC strong/JJ and/CC unquestionably/RB home-grown/JJ ./pct
-I/PPSS don't /None remember/VB ever/RB seeing/VBG teeth/NNS that/WPS were/BED quite/QL so/QL white/JJ and/CC at/IN the/AT same/AP time/NN quite/QL so/QL emphatically/RB not/NEG dentures/NNS ./pct
+I/PPSS don't/DO* remember/VB ever/RB seeing/VBG teeth/NNS that/WPS were/BED quite/QL so/QL white/JJ and/CC at/IN the/AT same/AP time/NN quite/QL so/QL emphatically/RB not/NEG dentures/NNS ./pct
 His/PPg hair/NN had/HVD receded/VBN most/AP of/IN the/AT way/NN to/IN the/AT back/NN of/IN his/PPg neck/NN ./pct
 He/PPS had/HVD only/RB a/AT fringe/NN of/IN hair/NN and/CC he/PPS wore/VBD it/PPO cropped/VBN short/JJ ./pct
 It/PPS was/BEDZ almost/RB as/QL white/JJ as/CS his/PPg teeth/NNS ./pct
 For/IN a/AT man/NN of/IN his/PPg mass/NN he/PPS was/BEDZ curiously/RB short/JJ ./pct
-He/PPS wasn't /None a/AT dwarf/NN but/CC he/PPS was/BEDZ a/AT bit/NN of/IN a/AT comic/JJ figure/NN ./pct
+He/PPS wasn't/BEDZ* a/AT dwarf/NN but/CC he/PPS was/BEDZ a/AT bit/NN of/IN a/AT comic/JJ figure/NN ./pct
 A/AT man/NN with/IN so/QL big/JJ and/CC so/QL staggeringly/RB developed/VBN a/AT torso/NN and/CC such/JJ long/JJ and/CC powerful/JJ arms/NNS is/BEZ expected/VBN to/TO stand/VB taller/JJR than/CS five/CD feet/NNS five/CD ./pct
 For/IN Felix/NP it/PPS was/BEDZ a/AT bit/NN of/IN a/AT stretch/NN to/TO make/VB even/RB that/DT measurement/NN ./pct
 The/AT man/NN was/BEDZ just/RB this/DT side/NN of/IN being/BEG a/AT freak/NN ./pct
@@ -73,9 +73,9 @@ Gibby/NP said/VBD ./pct
 ``/pct You/PPSS always/RB live/VB up/RP to/IN your/PPg name/NN ,/pct always/RB like/IN this/DT ,/pct always/RB making/VBG happy/JJ ''/pct ?/pct ?/pct
 ``/pct I/PPSS try/VB ''/pct ,/pct Felix/NP said/VBD blithely/RB ./pct
 ``/pct The/AT world/NN is/BEZ full/JJ of/IN blokes/NNS who/WPS put/VBD their/PPg hearts/NNS into/IN making/VBG the/AT tragic/JJ scene/NN ./pct
-I've /None never/RB noticed/VBN that/CS it/PPS improves/VBZ things/NNS any/RB ''/pct ./pct
+I've/PPSSHV never/RB noticed/VBN that/CS it/PPS improves/VBZ things/NNS any/RB ''/pct ./pct
 ``/pct Bully/JJ for/IN you/PPO ''/pct ,/pct Gibby/NP said/VBD ./pct
-``/pct What's /None the/AT rest/NN of/IN your/PPg name/NN ''/pct ?/pct ?/pct
+``/pct What's/WDTBEZ the/AT rest/NN of/IN your/PPg name/NN ''/pct ?/pct ?/pct
 ``/pct No/AT rest/NN of/IN it/PPO ./pct
 Felix/NP is/BEZ all/ABN there/EX is/BEZ ''/pct ./pct
 ``/pct All/ABN there/EX ever/RB was/BEDZ ''/pct ?/pct ?/pct
@@ -98,9 +98,9 @@ Come/VB right/QL along/RB ./pct
 I/PPSS love/VB fingerprints/NNS ''/pct ./pct
 He/PPS was/BEDZ prancing/VBG along/IN the/AT hall/NN ,/pct heading/VBG for/IN the/AT next/AP flight/NN of/IN stairs/NNS ./pct
 Gibby/NP called/VBD him/PPO back/RB ./pct
-``/pct We're /None here/RB because/CS of/IN what/WDT happened/VBD last/AP night/NN ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct We're/PPSSBER here/RB because/CS of/IN what/WDT happened/VBD last/AP night/NN ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct Past/NN ,/pct yes/RB ,/pct but/CC important/JJ ./pct
-Since/CS it/PPS is/BEZ important/JJ ,/pct for/IN the/AT record/NN let's /None have/HV the/AT full/JJ name/NN ''/pct ./pct
+Since/CS it/PPS is/BEZ important/JJ ,/pct for/IN the/AT record/NN let's/VBPPO have/HV the/AT full/JJ name/NN ''/pct ./pct
 ``/pct That/QL important/JJ ''/pct ?/pct ?/pct
 Felix/NP asked/VBD ./pct
 ``/pct That/QL important/JJ ''/pct ./pct
@@ -108,24 +108,24 @@ Felix/NP asked/VBD ./pct
 ``/pct Felix/NP Grubb/NP ''/pct ?/pct ?/pct
 Gibby/NP asked/VBD ,/pct not/NEG bothering/VBG to/TO whisper/VB ./pct
 ``/pct Shh/UH ''/pct ,/pct Felix/NP implored/VBD ./pct
-``/pct I/PPSS can't /None see/VB what/WDT would/MD make/VB it/PPO necessary/JJ for/IN you/PPO to/TO know/VB ./pct
+``/pct I/PPSS can't/MD* see/VB what/WDT would/MD make/VB it/PPO necessary/JJ for/IN you/PPO to/TO know/VB ./pct
 Nothing/PN could/MD make/VB it/PPO necessary/JJ to/TO proclaim/VB it/PPO to/IN the/AT whole/JJ world/NN ''/pct ./pct
 Obligingly/RB Gibby/NP lowered/VBD his/PPg voice/NN ./pct
 ``/pct Felix/NP Grubb/NP ''/pct ?/pct ?/pct
 He/PPS repeated/VBD ./pct
 ``/pct No/RB ./pct
 Edmund/NP ,/pct but/CC not/NEG for/IN years/NNS ./pct
-For/IN years/NNS it's /None been/BEN just/RB Felix/NP ./pct
-First/OD thing/NN I/PPSS did/DOD after/IN my/PPg twenty-first/OD birthday/NN was/BEDZ go/VB into/IN court/NN and/CC have/HV it/PPO officially/RB changed/VBN ,/pct and/CC this/DT is/BEZ something/PN I/PPSS don't /None tell/VB everybody/PN ./pct
+For/IN years/NNS it's/PPSHVZ been/BEN just/RB Felix/NP ./pct
+First/OD thing/NN I/PPSS did/DOD after/IN my/PPg twenty-first/OD birthday/NN was/BEDZ go/VB into/IN court/NN and/CC have/HV it/PPO officially/RB changed/VBN ,/pct and/CC this/DT is/BEZ something/PN I/PPSS don't/DO* tell/VB everybody/PN ./pct
 That/DT was/BEDZ almost/RB forty/CD years/NNS ago/RB ''/pct ./pct
 Having/HVG volunteered/VBN that/CS he/PPS was/BEDZ a/AT man/NN of/IN about/RB sixty/CD ,/pct he/PPS bounded/VBD up/IN the/AT stairs/NNS and/CC with/IN each/DT leap/NN rendered/VBD the/AT number/NN less/QL credible/JJ ./pct
 This/DT was/BEDZ a/AT broth/NN of/IN a/AT boy/NN ,/pct our/PPg Felix/NP ,/pct and/CC nothing/PN was/BEDZ more/QL obvious/JJ than/CS the/AT joy/NN he/PPS took/VBD in/IN demonstrating/VBG how/WRB agile/JJ he/PPS was/BEDZ and/CC how/WRB full/JJ of/IN juice/NN and/CC spirit/NN ./pct
 We/PPSS followed/VBD him/PPO up/IN the/AT stairs/NNS ./pct
 The/AT cops/NNS would/MD gather/VB up/RP Connor/NP and/CC the/AT foursome/NN on/IN the/AT third/OD floor/NN and/CC bring/VB us/PPO those/DTS of/IN them/PPO who/WPS would/MD voluntarily/RB submit/VB to/IN fingerprinting/VBG ./pct
-You/PPSS may/MD think/VB we/PPSS didn't /None need/VB Nancy/NP and/CC Jean/NP ,/pct but/CC you/PPSS always/RB get/VB what/WDT you/PPSS can/MD when/WRB you/PPSS can/MD ,/pct and/CC we/PPSS had/HVD no/AT guarantee/NN that/CS a/AT fingerprint/NN record/NN on/IN them/PPO couldn't /None be/BE useful/JJ before/CS we/PPSS were/BED through/RP with/IN this/DT case/NN ./pct
+You/PPSS may/MD think/VB we/PPSS didn't/DOD* need/VB Nancy/NP and/CC Jean/NP ,/pct but/CC you/PPSS always/RB get/VB what/WDT you/PPSS can/MD when/WRB you/PPSS can/MD ,/pct and/CC we/PPSS had/HVD no/AT guarantee/NN that/CS a/AT fingerprint/NN record/NN on/IN them/PPO couldn't/MD* be/BE useful/JJ before/CS we/PPSS were/BED through/RP with/IN this/DT case/NN ./pct
 Also/RB ,/pct if/CS we/PPSS had/HVD excluded/VBN the/AT ladies/NNS we/PPSS would/MD have/HV to/IN that/DT extent/NN let/VBN the/AT whole/JJ world/NN know/VB at/IN least/AP that/QL much/AP of/IN where/WRB we/PPSS stood/VBD ./pct
 The/AT killer/NN ,/pct if/CS in/IN our/PPg present/JJ group/NN ,/pct would/MD certainly/RB be/BE interested/VBN in/IN knowing/VBG that/QL much/AP ,/pct and/CC even/RB though/CS with/IN the/AT fingerprint/NN evidence/NN what/WDT it/PPS was/BEDZ I/PPSS could/MD see/VB no/AT way/NN he/PPS could/MD use/VB this/DT bit/NN of/IN information/NN to/TO improve/VB on/IN his/PPg situation/NN ,/pct there/EX might/MD always/RB be/BE some/DTI way/NN ./pct
-If/CS you/PPSS can/MD possibly/RB avoid/VB it/PPO ,/pct you/PPSS don't /None hand/VB out/RP any/DTI extra/JJ chances/NNS ./pct
+If/CS you/PPSS can/MD possibly/RB avoid/VB it/PPO ,/pct you/PPSS don't/DO* hand/VB out/RP any/DTI extra/JJ chances/NNS ./pct
 Felix/NP took/VBD us/PPO into/IN his/PPg studio/NN ./pct
 It/PPS was/BEDZ that/DT oddly/RB shaped/VBN space/NN at/IN the/AT very/JJ top/NN of/IN the/AT house/NN ,/pct where/WRB ceiling/NN heights/NNS had/HVD to/TO accommodate/VB themselves/PPLS to/IN the/AT varying/VBG angles/NNS of/IN roof/NN slope/NN ./pct
 At/IN each/DT angle/NN of/IN its/PPg pitch/NN a/AT big/JJ skylight/NN had/HVD been/BEN fitted/VBN into/IN the/AT roof/NN and/CC all/ABN these/DTS skylights/NNS were/BED fitted/VBN with/IN systems/NNS of/IN multiple/JJ screens/NNS and/CC shades/NNS ./pct

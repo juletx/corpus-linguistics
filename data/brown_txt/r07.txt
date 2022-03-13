@@ -6,9 +6,9 @@ Arlene/NP was/BEDZ boosting/VBG them/PPO up/RP when/WRB the/AT policeman/NN came
 He/PPS was/BEDZ very/QL rude/JJ ./pct
 Arlene/NP had/HVD a/AT hard/JJ voice/NN ,/pct too/RB ,/pct this/DT time/NN ./pct
 The/AT policeman's/NNg eyes/NNS rather/QL popped/VBD for/IN a/AT second/NN ;/pct ;/pct
-but/CC then/JJ Arlene/NP got/VBD another/DT tone/NN in/IN a/AT hurry/NN ,/pct and/CC she/PPS said/VBD ,/pct ``/pct If/CS it/PPS wasn't /None for/IN these/DTS dear/JJ children/NNS ''/pct --/pct ./pct
+but/CC then/JJ Arlene/NP got/VBD another/DT tone/NN in/IN a/AT hurry/NN ,/pct and/CC she/PPS said/VBD ,/pct ``/pct If/CS it/PPS wasn't/BEDZ* for/IN these/DTS dear/JJ children/NNS ''/pct --/pct ./pct
 The/AT policeman/NN got/VBD a/AT confused/VBN ,/pct funny/JJ look/NN on/IN his/PPg face/NN ,/pct and/CC he/PPS had/HVD answered/VBN kind/NN of/IN politely/RB ,/pct ``/pct Now/RB ,/pct look/VB here/RB ,/pct lady/NN :/pct I/PPSS know/VB you/PPO got/VBN to/TO entertain/VB these/DTS kids/NNS and/CC all/ABN ./pct
-But/CC this/DT is/BEZ a/AT public/JJ park/NN and/CC it's /None a/AT city/NN ordinance/NN that/CS the/AT statues/NNS cannot /None be/BE crawled/VBN on/IN ''/pct ./pct
+But/CC this/DT is/BEZ a/AT public/JJ park/NN and/CC it's/PPSBEZ a/AT city/NN ordinance/NN that/CS the/AT statues/NNS cannot/MD* be/BE crawled/VBN on/IN ''/pct ./pct
 Arlene/NP was/BEDZ so/QL ashamed/JJ that/CS she/PPS hung/VBD her/PPg head/NN when/WRB she/PPS said/VBD ,/pct ``/pct Yes/RB ,/pct sir/NN ''/pct ./pct
 The/AT policeman/NN walked/VBD on/RP ,/pct but/CC he/PPS looked/VBD back/RB once/RB ./pct
 That/WPS had/HVD happened/VBN on/IN the/AT day/NN when/WRB two/CD other/AP unusual/JJ things/NNS had/HVD occurred/VBN ./pct
@@ -25,7 +25,7 @@ Maybe/RB that/DT was/BEDZ why/WRB they/PPSS were/BED cordial/JJ and/CC loyal/JJ 
 ``/pct Just/RB you/PPSS wait/VB ''/pct ,/pct advised/VBD Arlene/NP ,/pct echoing/VBG the/AT dialogue/NN in/IN a/AT recent/JJ British/JJ movie/NN ./pct
 And/CC when/WRB they/PPSS had/HVD got/VBN to/IN their/PPg little/AP lawn/NN ,/pct they/PPSS had/HVD had/HVN a/AT most/QL twirlingly/RB magnificent/JJ time/NN ./pct
 First/OD ,/pct Arlene/NP had/HVD put/VBN them/PPO through/IN some/DTI rapid/JJ somersaults/NNS ./pct
-They/PPSS had/HVD protested/VBN that/DT that/WPS wasn't /None any/DTI surprise/NN ./pct
+They/PPSS had/HVD protested/VBN that/DT that/WPS wasn't/BEDZ* any/DTI surprise/NN ./pct
 ``/pct Just/RB you/PPSS wait/VB ''/pct ,/pct said/VBD Arlene/NP again/RB ,/pct as/CS though/CS she/PPS were/BED discovering/VBG the/AT pleasantly/RB tingling/VBG insinuations/NNS of/IN that/DT handy/JJ little/AP sturdy/JJ statement/NN ./pct
 ``/pct This/DT is/BEZ a/AT warm-up/NN ''/pct ./pct
 ``/pct Is/BEZ it/PPS anything/PN like/CS cooked-over/JJ oatmeal/NN ''/pct ?/pct ?/pct
@@ -37,61 +37,61 @@ She/PPS would/MD sometimes/RB even/VB get/VB a/AT little/QL hard/JJ on/IN you/PP
 But/CC not/NEG hard/RB for/IN very/QL long/JJ ./pct
 Just/RB long/JJ enough/QLP to/TO make/VB you/PPO feel/VB important/JJ ./pct
 ``/pct Now/RB ''/pct ,/pct said/VBD Arlene/NP ,/pct eventually/RB ,/pct making/VBG them/PPO both/ABX sit/VB in/IN formation/NN on/IN a/AT big/JJ root/NN of/IN a/AT live/JJ oak/NN ,/pct the/AT sort/NN of/IN root/NN that/WPS divided/VBD itself/PPL and/CC made/VBD their/PPg bottoms/NNS sag/VB down/RP and/CC feel/VB comfortable/JJ ./pct
-``/pct Now/RB ,/pct we're /None going/VBG to/TO be/BE like/CS what/WDT General/NN Burnside/NP and/CC his/PPg horse/NN make/VB us/PPO think/VB of/IN ''/pct ./pct
+``/pct Now/RB ,/pct we're/PPSSBER going/VBG to/TO be/BE like/CS what/WDT General/NN Burnside/NP and/CC his/PPg horse/NN make/VB us/PPO think/VB of/IN ''/pct ./pct
 The/AT children/NNS looked/VBD at/IN each/DT other/AP and/CC sagged/VBD their/PPg bottoms/NNS down/RP even/QL more/QL comfortably/RB than/CS ever/RB ./pct
 Their/PPg curiosity/NN went/VBD happily/RB out/IN of/IN bounds/NNS ./pct
 Then/RB ,/pct Arlene/NP threw/VBD herself/PPL backwards/RB and/CC wiggled/VBD in/IN a/AT way/NN that/WPS was/BEDZ just/RB wonderful/JJ ./pct
 She/PPS held/VBD herself/PPL that/DT way/NN and/CC turned/VBD her/PPg head/NN towards/IN them/PPO and/CC laughed/VBD and/CC winked/VBD ./pct
-``/pct Imagine/VB being/BEG able/JJ to/TO laugh/VB and/CC wink/VB when/WRB you're /None like/CS the/AT top/JJS part/NN of/IN that/DT picture/NN frame/NN at/IN home/NR ''/pct ,/pct one/CD of/IN them/PPO said/VBN ./pct
+``/pct Imagine/VB being/BEG able/JJ to/TO laugh/VB and/CC wink/VB when/WRB you're/PPSSBER like/CS the/AT top/JJS part/NN of/IN that/DT picture/NN frame/NN at/IN home/NR ''/pct ,/pct one/CD of/IN them/PPO said/VBN ./pct
 They/PPSS both/ABX laughed/VBD and/CC winked/VBD back/RB ./pct
-``/pct I'm /None General/NN Burnside's/NPg horse/NN ,/pct upside/RB down/RP ''/pct ,/pct Arlene/NP said/VBD ,/pct sort/NN of/IN gaspingly/RB ,/pct for/IN her/PPO :/pct even/RB she/PPS had/HVD to/TO breathe/VB kind/NN of/IN funny/JJ when/WRB she/PPS was/BEDZ in/IN that/DT position/NN ./pct
+``/pct I'm/PPSSBEM General/NN Burnside's/NPg horse/NN ,/pct upside/RB down/RP ''/pct ,/pct Arlene/NP said/VBD ,/pct sort/NN of/IN gaspingly/RB ,/pct for/IN her/PPO :/pct even/RB she/PPS had/HVD to/TO breathe/VB kind/NN of/IN funny/JJ when/WRB she/PPS was/BEDZ in/IN that/DT position/NN ./pct
 She/PPS made/VBD General/NN Burnside's/NPg horse's/NNg belly/NN do/DO so/QL funny/JJ when/WRB it/PPS was/BEDZ upside/RB down/RP ./pct
 Then/RB ,/pct she/PPS was/BEDZ back/RB on/IN her/PPg feet/NNS ,/pct winking/VBG and/CC smiling/VBG that/QL enormous/JJ smile/NN (/pct she/PPS had/HVD lots/NNS of/IN wonderful/JJ big/JJ teeth/NNS that/CS you/PPSS never/RB would/MD have/HV suspected/VBN she/PPS had/HVD when/WRB she/PPS was/BEDZ not/NEG smiling/VBG )/pct ./pct
 And/CC she/PPS would/MD wink/VB and/CC throw/VB kisses/NNS ./pct
 They/PPSS both/ABX tried/VBD to/TO keep/VB smiling/VBG and/CC winking/VBG for/IN a/AT long/JJ time/NN ,/pct but/CC it/PPS made/VBD their/PPg lips/NNS and/CC eyelids/NNS tremble/VB ./pct
 But/CC they/PPSS kept/VBD on/IN clapping/VBG for/IN a/AT long/JJ ,/pct long/JJ time/NN ./pct
-``/pct This/DT time/NN ''/pct ,/pct Arlene/NP said/VBD ,/pct and/CC she/PPS even/RB kept/VBD on/IN wiggling/VBG a/AT little/AP bit/NN while/CS she/PPS was/BEDZ just/RB talking/VBG ,/pct ``/pct you're /None going/VBG to/TO tell/VB me/PPO what/WDT I/PPSS am/BEM and/CC what/WDT I'm /None doing/VBG ./pct
+``/pct This/DT time/NN ''/pct ,/pct Arlene/NP said/VBD ,/pct and/CC she/PPS even/RB kept/VBD on/IN wiggling/VBG a/AT little/AP bit/NN while/CS she/PPS was/BEDZ just/RB talking/VBG ,/pct ``/pct you're/PPSSBER going/VBG to/TO tell/VB me/PPO what/WDT I/PPSS am/BEM and/CC what/WDT I'm/PPSSBEM doing/VBG ./pct
 It/PPS all/ABN has/HVZ something/PN to/TO do/DO with/IN General/NN Burnside/NP and/CC his/PPg horse/NN ''/pct ./pct
 This/DT time/NN ,/pct it/PPS was/BEDZ so/QL grand/JJ ;/pct ;/pct
 they/PPSS could/MD tell/VB exactly/RB what/WDT it/PPS was/BEDZ ./pct
 It/PPS was/BEDZ General/NN Burnside's/NPg horse/NN running/VBG in/IN a/AT circle/NN ./pct
 His/PPg legs/NNS shook/VBD ,/pct and/CC the/AT shaking/NN went/VBD right/QL on/RP up/IN his/PPg body/NN through/IN his/PPg hips/NNS to/IN his/PPg shoulders/NNS ./pct
-``/pct That's /None the/AT General's/NNg horse/NN ''/pct ,/pct one/CD of/IN them/PPO cried/VBN out/RP ./pct
-The/AT other/AP remarked/VBN ,/pct in/IN a/AT happy/JJ laughter/NN ,/pct ``/pct That's /None a/AT funny/JJ old/JJ horse/NN ''/pct ./pct
+``/pct That's/DTBEZ the/AT General's/NNg horse/NN ''/pct ,/pct one/CD of/IN them/PPO cried/VBN out/RP ./pct
+The/AT other/AP remarked/VBN ,/pct in/IN a/AT happy/JJ laughter/NN ,/pct ``/pct That's/DTBEZ a/AT funny/JJ old/JJ horse/NN ''/pct ./pct
 The/AT first/OD one/PN said/VBD ,/pct ``/pct He/PPS sure/RB does/DOZ shake/VB ./pct
-He's /None old/JJ ''/pct ./pct
+He's/PPSBEZ old/JJ ''/pct ./pct
 Then/RB there/EX was/BEDZ the/AT General/NN kissing/VBG his/PPg wife/NN ./pct
 They/PPSS had/HVD to/TO be/BE told/VBN that/DT one/PN ./pct
 But/CC it/PPS was/BEDZ even/RB funnier/JJR after/CS they/PPSS had/HVD been/BEN told/VBN ./pct
 Their/PPg father/NN ,/pct when/WRB he/PPS came/VBD back/RB from/IN those/DTS many/AP business/NN trips/NNS ,/pct just/RB bumped/VBD their/PPg mother/NN on/IN the/AT forehead/NN with/IN his/PPg lips/NNS and/CC asked/VBD if/CS anybody/PN had/HVD thought/VBN to/TO mix/VB the/AT martinis/NNS and/CC put/VB them/PPO in/IN the/AT electric/JJ icebox/NN ./pct
 But/CC not/NEG General/NN Burnside/NP ./pct
 He/PPS was/BEDZ the/AT funniest/JJT man/NN ./pct
-He/PPS never/RB could/MD keep/VB still/JJ ,/pct even/RB when/WRB he/PPS didn't /None move/VB his/PPg feet/NNS ./pct
+He/PPS never/RB could/MD keep/VB still/JJ ,/pct even/RB when/WRB he/PPS didn't/DOD* move/VB his/PPg feet/NNS ./pct
 Then/RB ,/pct they/PPSS had/HVD to/TO get/VB up/RP and/CC be/BE General/NN Burnside/NP ./pct
 Or/CC his/PPg horse/NN ./pct
 All/ABN they/PPSS could/MD think/VB of/IN was/BEDZ to/TO run/VB around/RB in/IN circles/NNS ,/pct kicking/VBG their/PPg legs/NNS out/RP ./pct
-It/PPS wasn't /None very/QL funny/JJ ./pct
+It/PPS wasn't/BEDZ* very/QL funny/JJ ./pct
 Then/RB ,/pct they/PPSS said/VBD General/NN Burnside/NP was/BEDZ going/VBG to/TO jump/VB over/IN his/PPg horse's/NNg head/NN ;/pct ;/pct
 and/CC they/PPSS did/DOD some/DTI somersaults/NNS ./pct
-But/CC that/DT wasn't /None very/QL funny/JJ ,/pct either/RB ./pct
+But/CC that/DT wasn't/BEDZ* very/QL funny/JJ ,/pct either/RB ./pct
 ``/pct You/PPSS ought/MD to/TO shake/VB ''/pct ,/pct Arlene/NP advised/VBD them/PPO ./pct
 And/CC Arlene/NP showed/VBD them/PPO how/WRB to/TO begin/VB ./pct
 She/PPS also/RB taught/VBD them/PPO to/TO sing/VB ``/pct I/PPSS wish/VB I/PPSS could/MD shimmy/VB like/CS my/PPg sister/NN Kate/NP ''/pct ./pct
 That/WPS helped/VBD a/AT lot/NN ./pct
 They/PPSS were/BED clumsy/JJ ,/pct but/CC they/PPSS were/BED beginning/VBG to/TO catch/VB on/RP ./pct
 They/PPSS also/RB caught/VBD on/RP a/AT little/AP bit/NN on/IN how/WRB to/TO smile/VB a/AT lot/NN without/IN your/PPg lips/NNS trembling/VBG ./pct
-``/pct Imagine/VB you/PPSS won't /None get/VB your/PPg allowance/NN if/CS you're /None caught/VBN not/NEG smiling/VBG --/pct or/CC smiling/VBG with/IN your/PPg lips/NNS trembling/VBG too/QL much/RB ''/pct ,/pct Arlene/NP suggested/VBD ./pct
+``/pct Imagine/VB you/PPSS won't/MD* get/VB your/PPg allowance/NN if/CS you're/PPSSBER caught/VBN not/NEG smiling/VBG --/pct or/CC smiling/VBG with/IN your/PPg lips/NNS trembling/VBG too/QL much/RB ''/pct ,/pct Arlene/NP suggested/VBD ./pct
 That/WPS helped/VBD a/AT great/JJ deal/NN ./pct
 They/PPSS were/BED a/AT little/QL late/JJ in/IN getting/VBG home/NR ./pct
-``/pct I'm /None sorry/JJ ,/pct Mrs./NP Minks/NP ''/pct ,/pct Arlene/NP said/VBD in/IN a/AT tone/NN so/QL low/JJ you/PPSS could/MD hardly/RB hear/VB it/PPO ./pct
+``/pct I'm/PPSSBEM sorry/JJ ,/pct Mrs./NP Minks/NP ''/pct ,/pct Arlene/NP said/VBD in/IN a/AT tone/NN so/QL low/JJ you/PPSS could/MD hardly/RB hear/VB it/PPO ./pct
 My/PPg mother/NN constituted/VBD herself/PPL the/AT voice/NN of/IN all/ABN of/IN us/PPO ./pct
-``/pct It's /None perfectly/RB understandable/JJ ,/pct Arlene/NP ''/pct ,/pct my/PPg mother/NN said/VBD in/IN a/AT friendly/JJ way/NN ./pct
+``/pct It's/PPSBEZ perfectly/RB understandable/JJ ,/pct Arlene/NP ''/pct ,/pct my/PPg mother/NN said/VBD in/IN a/AT friendly/JJ way/NN ./pct
 ``/pct I/PPSS suppose/VB you/PPO all/ABN were/BED playing/VBG and/CC forgot/VBD ''/pct ?/pct ?/pct
 ``/pct Yes/RB ,/pct ma'am/NN ''/pct ,/pct the/AT children/NNS chorused/VBD heartily/RB ./pct
-We/PPSS couldn't /None help/VB laughing/VBG ./pct
+We/PPSS couldn't/MD* help/VB laughing/VBG ./pct
 The/AT children/NNS rushed/VBD off/RP to/TO get/VB rid/JJ of/IN their/PPg sweaters/NNS ;/pct ;/pct
 and/CC Arlene/NP began/VBD tapping/VBG the/AT kitchen/NN door/NN open/RB ./pct
-``/pct Arlene's /None a/AT good/JJ girl/NN ''/pct ,/pct my/PPg uncle/NN remarked/VBD to/IN us/PPO ;/pct ;/pct
+``/pct Arlene's/NPBEZ a/AT good/JJ girl/NN ''/pct ,/pct my/PPg uncle/NN remarked/VBD to/IN us/PPO ;/pct ;/pct
 but/CC he/PPS said/VBD it/PPO too/QL soon/RB ,/pct for/CS it/PPS came/VBD out/RP just/RB before/CS the/AT tap/NN to/IN which/WDT the/AT door/NN responded/VBD ./pct
 That/DT tap/NN had/HVD a/AT slight/JJ bangish/JJ quality/NN ./pct
 ``/pct She/PPS really/RB is/BEZ a/AT dear/JJ little/JJ thing/NN ''/pct ,/pct my/PPg mother/NN agreed/VBD ./pct
@@ -140,7 +140,7 @@ This/DT evening/NN ,/pct they/PPSS were/BED pushed/VBN in/RP from/IN the/AT brea
 There/EX had/HVD been/BEN some/DTI coconut/NN in/IN it/PPO ,/pct for/CS I/PPSS remember/VB my/PPg mother's/NNg taking/VBG a/AT quick/JJ glance/NN at/IN a/AT stringy/JJ bit/NN of/IN this/DT nut/NN on/IN the/AT cheek/NN of/IN one/CD of/IN them/PPO and/CC then/RB putting/VBG down/RP her/PPg radish/NN with/IN a/AT shiver/NN ./pct
 They/PPSS were/BED pushed/VBN gently/RB into/IN the/AT room/NN by/IN Arlene/NP --/pct whose/WPg only/AP part/NN appearing/VBG were/BED hands/NNS that/WPS crept/VBD quickly/RB back/RB around/RB to/IN the/AT kitchen/NN side/NN of/IN the/AT door/NN ./pct
 We/PPSS had/HVD just/RB sat/VBN down/RP ./pct
-``/pct Tell/VB Mr./NP Gorboduc/NP what/WDT you're /None doing/VBG these/DTS days/NNS ''/pct ,/pct my/PPg mother/NN advised/VBD the/AT children/NNS ,/pct ceremonially/RB ./pct
+``/pct Tell/VB Mr./NP Gorboduc/NP what/WDT you're/PPSSBER doing/VBG these/DTS days/NNS ''/pct ,/pct my/PPg mother/NN advised/VBD the/AT children/NNS ,/pct ceremonially/RB ./pct
 There/EX was/BEDZ an/AT air/NN of/IN revolt/NN about/IN the/AT children/NNS --/pct even/RB irreverence/NN for/IN their/PPg own/JJ principles/NNS ./pct
 This/DT could/MD be/BE told/VBN chiefly/RB from/IN a/AT sort/NN of/IN head-tossing/NN and/CC prancing/VBG ,/pct a/AT horselike/JJ balkiness/NN of/IN demeanor/NN ./pct
 Possibly/RB ,/pct the/AT coconut-containing/JJ dessert/NN had/HVD brought/VBN up/RP bitter/JJ problems/NNS of/IN administration/NN ./pct
@@ -151,11 +151,11 @@ This/DT happy/JJ bulletin/NN convulsed/VBD Mr./NP Gorboduc/NP ./pct
 ``/pct You/PPSS do/DO ''/pct ?/pct ?/pct
 He/PPS asked/VBD ,/pct between/IN wheezes/NNS of/IN laughter/NN ./pct
 He/PPS was/BEDZ forced/VBN to/TO wipe/VB his/PPg eyes/NNS ./pct
-``/pct You/PPSS don't /None step/VB on/IN the/AT flowers/NNS ,/pct do/DO you/PPSS ?/pct ?/pct
+``/pct You/PPSS don't/DO* step/VB on/IN the/AT flowers/NNS ,/pct do/DO you/PPSS ?/pct ?/pct
 Eh/UH ''/pct ?/pct ?/pct
 One/CD of/IN the/AT children/NNS maneuvered/VBD out/IN of/IN range/NN of/IN the/AT poking/VBG index/NN finger/NN ./pct
 ``/pct No/RB ''/pct ,/pct he/PPS said/VBD ./pct
-``/pct We/PPSS don't /None ''/pct ./pct
+``/pct We/PPSS don't/DO* ''/pct ./pct
 Mr./NP Gorboduc/NP took/VBD a/AT swig/NN of/IN his/PPg sherry/NN ./pct
 He/PPS was/BEDZ so/QL long/JJ thinking/VBG that/CS my/PPg mother/NN had/HVD time/NN to/TO inspect/VB her/PPg sherry/NN for/IN dregs/NNS ./pct
 Usually/RB ,/pct this/DT was/BEDZ done/VBN when/WRB attention/NN was/BEDZ diverted/VBN by/IN someone/PN else's/RBg long/JJ ,/pct boring/VBG story/NN ./pct

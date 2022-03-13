@@ -27,7 +27,7 @@ Now/RB the/AT problem/NN is/BEZ presented/VBN piecemeal/RB and/CC sometimes/RB c
 While/CS one/CD element/NN is/BEZ announcing/VBG progress/NN ,/pct another/DT is/BEZ delineating/VBG its/PPg problems/NNS ./pct
 The/AT result/NN can/MD only/RB be/BE confusion/NN in/IN the/AT public/NN mind/NN ./pct
 A/AT unified/VBN concept/NN can/MD serve/VB as/CS a/AT guide/NN to/IN budgeting/VBG and/CC ,/pct if/CS public/NN support/NN is/BEZ gained/VBN ,/pct will/MD command/VB Congressional/JJ support/NN ./pct
-Industry's/NNg main/JJS criticism/NN of/IN the/AT Navy's/NNg antisubmarine/JJ effort/NN is/BEZ that/CS it/PPS cannot /None determine/VB where/WRB any/DTI one/CD company/NN or/CC industry/NN can/MD apply/VB its/PPg skills/NNS and/CC know-how/NN ./pct
+Industry's/NNg main/JJS criticism/NN of/IN the/AT Navy's/NNg antisubmarine/JJ effort/NN is/BEZ that/CS it/PPS cannot/MD* determine/VB where/WRB any/DTI one/CD company/NN or/CC industry/NN can/MD apply/VB its/PPg skills/NNS and/CC know-how/NN ./pct
 Lacking/VBG guidance/NN ,/pct industry/NN picks/VBZ its/PPg own/JJ areas/NNS ./pct
 The/AT result/NN ,/pct coupled/VBN with/IN the/AT salesmanship/NN for/IN which/WDT American/JJ industry/NN is/BEZ famous/JJ ,/pct is/BEZ considerable/JJ expenditure/NN of/IN funds/NNS and/CC efforts/NNS in/IN marginal/JJ areas/NNS ./pct
 An/AT over-all/JJ concept/NN will/MD guide/VB industry/NN where/WRB available/JJ talents/NNS and/CC facilities/NNS will/MD yield/VB greatest/JJT dividends/NNS ./pct

@@ -39,17 +39,17 @@ Al/NP Smith's/NPg 340-blast/NN over/IN left/NR in/IN the/AT fourth/OD --/pct his
 A/AT double/NN by/IN Green/JJ ,/pct Allison's/NPg run-scoring/JJ 2-baser/NN ,/pct an/AT infield/NN single/NN by/IN Lemon/NP and/CC Gardner's/NPg solid/JJ single/NN to/IN center/NN put/VBD the/AT Twins/NNS back/RB in/IN front/NN in/IN the/AT last/AP of/IN the/AT fifth/OD ./pct
 Ogden/NP ,/pct Utah/NP ,/pct May/NP 1/CD --/pct (/pct AP/NP )/pct
 --/pct Boston/NP Red/NN Sox/NPS Outfielder/NN Jackie/NP Jensen/NP said/VBD Monday/NR night/NN he/PPS was/BEDZ through/RP playing/VBG baseball/NN ./pct
-``/pct I've /None had/HVN it/PPO ''/pct ,/pct he/PPS told/VBD a/AT newsman/NN ./pct
-``/pct I/PPSS know/VB when/WRB my/PPg reflexes/NNS are/BER gone/VBN and/CC I'm /None not/NEG going/VBG to/TO be/BE any/DTI 25th/OD man/NN on/IN the/AT ball/NN club/NN ''/pct ./pct
+``/pct I've/PPSSHV had/HVN it/PPO ''/pct ,/pct he/PPS told/VBD a/AT newsman/NN ./pct
+``/pct I/PPSS know/VB when/WRB my/PPg reflexes/NNS are/BER gone/VBN and/CC I'm/PPSSBEM not/NEG going/VBG to/TO be/BE any/DTI 25th/OD man/NN on/IN the/AT ball/NN club/NN ''/pct ./pct
 This/DT was/BEDZ the/AT first/OD word/NN from/IN Jensen/NP on/IN his/PPg sudden/JJ walkout/NN ./pct
 Jensen/NP got/VBD only/AP six/CD hits/NNS in/IN 46/CD at-bats/NNS for/IN a/AT batting/VBG average/NN in/IN the/AT first/OD 12/CD games/NNS ./pct
 He/PPS took/VBD a/AT midnight/NN train/NN out/RP of/IN Cleveland/NP Saturday/NR ,/pct without/IN an/AT official/JJ word/NN to/IN anybody/PN ,/pct and/CC has/HVZ stayed/VBN away/RB from/IN newsmen/NNS on/IN his/PPg train/NN trip/NN across/IN the/AT nation/NN to/IN Reno/NP ,/pct Nev./NP ,/pct where/WRB his/PPg wife/NN ,/pct former/AP Olympic/JJ Diving/NN Champion/NN Zoe/NP Ann/NP Olsen/NP ,/pct awaited/VBD ./pct
-She/PPS said/VBD ,/pct when/WRB she/PPS learned/VBD Jackie/NP was/BEDZ heading/VBG home/NR :/pct ``/pct I'm /None just/RB speculating/VBG ,/pct but/CC I/PPSS have/HV to/TO think/VB Jack/NP feels/VBZ he's /None hurting/VBG Boston's/NPg chances/NNS ''/pct ./pct
+She/PPS said/VBD ,/pct when/WRB she/PPS learned/VBD Jackie/NP was/BEDZ heading/VBG home/NR :/pct ``/pct I'm/PPSSBEM just/RB speculating/VBG ,/pct but/CC I/PPSS have/HV to/TO think/VB Jack/NP feels/VBZ he's/PPSBEZ hurting/VBG Boston's/NPg chances/NNS ''/pct ./pct
 The/AT Union/NN Pacific/NP Railroad/NN streamliner/NN ,/pct City/NN of/IN San/NP Francisco/NP ,/pct stopped/VBD in/IN Ogden/NP ,/pct Utah/NP ,/pct for/IN a/AT few/AP minutes/NNS ./pct
 Sports/NNS Writer/NN Ensign/NP Ritchie/NP of/IN the/AT Ogden/NP Standard/JJ Examiner/NN went/VBD to/IN his/PPg compartment/NN to/TO talk/VB with/IN him/PPO ./pct
-The/AT conductor/NN said/VBD to/IN Ritchie/NP :/pct ``/pct I/PPSS don't /None think/VB you/PPSS want/VB to/TO talk/VB to/IN him/PPO ./pct
-You'll /None probably/RB get/VB a/AT ball/NN bat/NN on/IN the/AT head/NN ./pct
-He's /None mad/JJ at/IN the/AT world/NN ''/pct ./pct
+The/AT conductor/NN said/VBD to/IN Ritchie/NP :/pct ``/pct I/PPSS don't/DO* think/VB you/PPSS want/VB to/TO talk/VB to/IN him/PPO ./pct
+You'll/PPSSMD probably/RB get/VB a/AT ball/NN bat/NN on/IN the/AT head/NN ./pct
+He's/PPSBEZ mad/JJ at/IN the/AT world/NN ''/pct ./pct
 But/CC Jackie/NP had/HVD gone/VBN into/IN the/AT station/NN ./pct
 Ritchie/NP walked/VBD up/RP to/IN him/PPO at/IN the/AT magazine/NN stand/NN ./pct
 ``/pct I/PPSS told/VBD him/PPO who/WPS I/PPSS was/BEDZ and/CC he/PPS was/BEDZ quite/QL cold/JJ ./pct
@@ -57,9 +57,9 @@ But/CC he/PPS warmed/VBD up/RP after/IN a/AT while/NN ./pct
 I/PPSS told/VBD him/PPO what/WDT Liston/NP had/HVD said/VBN and/CC he/PPS said/VBD Liston/NP was/BEDZ a/AT double-crosser/NN and/CC said/VBD anything/PN he/PPS (/pct Liston/NP )/pct got/VBD was/BEDZ through/IN a/AT keyhole/NN ./pct
 He/PPS said/VBD he/PPS had/HVD never/RB talked/VBN to/IN Liston/NP ''/pct ./pct
 Liston/NP is/BEZ Bill/NP Liston/NP ,/pct baseball/NN writer/NN for/IN the/AT Boston/NP Traveler/NN ,/pct who/WPS quoted/VBD Jensen/NP as/CS saying/VBG :/pct
-``/pct I/PPSS can't /None hit/VB anymore/RB ./pct
-I/PPSS can't /None run/VB ./pct
-I/PPSS can't /None throw/VB ./pct
+``/pct I/PPSS can't/MD* hit/VB anymore/RB ./pct
+I/PPSS can't/MD* run/VB ./pct
+I/PPSS can't/MD* throw/VB ./pct
 Suddenly/RB my/PPg reflexes/NNS are/BER gone/VBN ./pct
 Just/RB when/WRB it/PPS seems/VBZ baseball/NN might/MD be/BE losing/VBG its/PPg grip/NN on/IN the/AT masses/NNS up/RP pops/VBZ heroics/NNS to/TO start/VB millions/NNS of/IN tongues/NNS to/IN wagging/VBG ./pct
 And/CC so/RB it/PPS was/BEDZ over/IN the/AT weekend/NN what/WDT with/IN 40-year-old/JJ Warren/NP Spahn/NP pitching/VBG his/PPg no-hit/NN masterpiece/NN against/IN the/AT Giants/NNS and/CC the/AT Giants'/NNSg Willie/NP Mays/NP retaliating/VBG with/IN a/AT record-tying/JJ 4-homer/JJ spree/NN Sunday/NR ./pct
@@ -72,13 +72,13 @@ But/CC there/EX surely/RB can/MD be/BE no/AT doubt/NN about/IN the/AT slender/JJ
 Yes/RB ,/pct with/IN Bob/NP Grove/NP ,/pct Carl/NP Hubbell/NP ,/pct Herb/NP Pennock/NP ,/pct Art/NP Nehf/NP ,/pct Vernon/NP Gomez/NP ,/pct et/CC al/NNS ./pct
 Spahn/NP not/NEG only/RB is/BEZ a/AT superior/JJ pitcher/NN but/CC a/AT gentlemanly/JJ fine/JJ fellow/NN ,/pct a/AT ball/NN player's/NNg ball/NN player/NN ,/pct as/CS they/PPSS say/VB in/IN the/AT trade/NN ./pct
 I/PPSS remember/VB his/PPg beardown/JJ performance/NN in/IN a/AT meaningless/JJ exhibition/NN game/NN at/IN Bears/NNS Stadium/NN Oct./NP 14/CD ,/pct 1951/CD ,/pct before/IN a/AT new/JJ record/NN crowd/NN for/IN the/AT period/NN of/IN 18,792/CD ./pct
-``/pct Spahnie/NP doesn't /None know/VB how/WRB to/TO merely/RB go/VB through/IN the/AT motions/NNS ''/pct ,/pct remarked/VBD Enos/NP Slaughter/NP ,/pct another/DT all-out/JJ guy/NN ,/pct who/WPS played/VBD rightfield/NN that/DT day/NN and/CC popped/VBD one/CD over/IN the/AT clubhouse/NN ./pct
+``/pct Spahnie/NP doesn't/DOZ* know/VB how/WRB to/TO merely/RB go/VB through/IN the/AT motions/NNS ''/pct ,/pct remarked/VBD Enos/NP Slaughter/NP ,/pct another/DT all-out/JJ guy/NN ,/pct who/WPS played/VBD rightfield/NN that/DT day/NN and/CC popped/VBD one/CD over/IN the/AT clubhouse/NN ./pct
 The/AT spectacular/JJ Mays/NP ,/pct who/WPS reaches/VBZ a/AT decade/NN in/IN the/AT big/JJ leagues/NNS come/VB May/NP 25/CD ,/pct joined/VBD six/CD other/AP sluggers/NNS who/WPS walloped/VBD four/CD home/NN runs/NNS in/IN a/AT span/NN of/IN nine/CD innings/NNS ./pct
 Incidentally/RB ,/pct only/AP two/CD did/DOD it/PPO before/IN a/AT home/NR audience/NN ./pct
 Bobby/NP Lowe/NP of/IN Boston/NP was/BEDZ the/AT first/OD to/TO hit/VB four/CD at/IN home/NR and/CC Gil/NP Hodges/NP turned/VBD the/AT trick/NN in/IN Brooklyn's/NPg Ebbetts/NP Field/NN ./pct
 Ed/NP Delahanty/NP and/CC Chuck/NP Klein/NP of/IN the/AT Phillies/NPS ,/pct the/AT Braves'/NNSg Joe/NP Adcock/NP ,/pct Lou/NP Gehrig/NP of/IN the/AT Yankees/NPS ,/pct Pat/NP Seerey/NP of/IN the/AT White/JJ Sox/NPS and/CC Rocky/NP Colavito/NP ,/pct then/RB with/IN Cleveland/NP ,/pct made/VBD their/PPg history/NN on/IN the/AT road/NN ./pct
 Willie's/NPg big/JJ day/NN revived/VBD the/AT running/VBG argument/NN about/IN the/AT relative/JJ merits/NNS of/IN Mays/NP and/CC Mickey/NP Mantle/NP ./pct
-This/DT is/BEZ an/AT issue/NN which/WDT boils/VBZ down/RP to/IN a/AT matter/NN of/IN opinion/NN ,/pct depending/IN on/IN whether/CS you're /None an/AT American/JJ or/CC National/JJ fan/NN and/CC anti/IN or/CC pro-Yankee/JJ ./pct
+This/DT is/BEZ an/AT issue/NN which/WDT boils/VBZ down/RP to/IN a/AT matter/NN of/IN opinion/NN ,/pct depending/IN on/IN whether/CS you're/PPSSBER an/AT American/JJ or/CC National/JJ fan/NN and/CC anti/IN or/CC pro-Yankee/JJ ./pct
 The/AT record/NN books/NNS ,/pct however/WRB ,/pct would/MD favor/VB the/AT Giants'/NNSg ace/NN ./pct
 In/IN four/CD of/IN his/PPg nine/CD previous/JJ seasons/NNS Mays/NP hit/VBD as/QL many/AP as/CS 25/CD home/NN runs/NNS and/CC stole/VBD as/QL many/AP as/CS 25/CD bases/NNS ./pct
 Once/RB the/AT figure/NN was/BEDZ 30-30/CD ./pct
@@ -103,6 +103,6 @@ The/AT Yanks/NPS also/RB took/VBD advantage/NN of/IN three/CD Cincinnati/NP erro
 The/AT crowd/NN of/IN 32,589/CD had/HVD only/AP two/CD chances/NNS to/TO applaud/VB ./pct
 In/IN the/AT third/OD Frank/NP Robinson/NP hammered/VBD a/AT long/JJ home/NN run/NN deep/RB into/IN the/AT corner/NN of/IN the/AT bleachers/NNS in/IN right/JJ center/NN ,/pct about/RB 400/CD feet/NNS away/RB ,/pct with/IN two/CD men/NNS on/RP ./pct
 Momentarily/RB the/AT Reds/NNS were/BED back/RB in/IN the/AT ball/NN game/NN ,/pct trailing/VBG only/AP 6-3/CD ,/pct but/CC the/AT drive/NN fizzled/VBD when/WRB John/NP Edwards/NP fouled/VBD out/RP with/IN men/NNS on/IN second/OD and/CC third/OD and/CC two/CD out/RP ./pct
-In/IN the/AT fifth/OD ,/pct Wally/NP Post/NP slashed/VBD a/AT 2-run/JJ homer/NN off/IN Bud/NP Daley/NP ,/pct but/CC by/IN that/DT time/NN the/AT score/NN was/BEDZ 11-5/CD and/CC it/PPS really/RB didn't /None matter/VB ./pct
+In/IN the/AT fifth/OD ,/pct Wally/NP Post/NP slashed/VBD a/AT 2-run/JJ homer/NN off/IN Bud/NP Daley/NP ,/pct but/CC by/IN that/DT time/NN the/AT score/NN was/BEDZ 11-5/CD and/CC it/PPS really/RB didn't/DOD* matter/VB ./pct
 The/AT Yankee/NP triumph/NN made/VBD Ralph/NP Houk/NP only/AP the/AT third/OD man/NN to/TO lead/VB a/AT team/NN to/IN both/ABX a/AT pennant/NN and/CC a/AT World/NN Series/NN victory/NN in/IN his/PPg first/OD year/NN as/CS a/AT manager/NN ./pct
 Only/RB Bucky/NP Harris/NP ,/pct the/AT ``/pct boy-manager/NN ''/pct of/IN Washington/NP in/IN 1924/CD ,/pct and/CC Eddie/NP Dyer/NP of/IN the/AT St./NP Louis/NP Cardinals/NNS in/IN 1946/CD had/HVD accomplished/VBN the/AT feat/NN ./pct

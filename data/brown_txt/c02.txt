@@ -52,7 +52,7 @@ Miss/NP Sutherland/NP first/RB sang/VBD Lucia/NP at/IN Covent/NP Garden/NN in/IN
 )/pct She/PPS has/HVZ since/RB turned/VBN to/IN Bellini/NP ,/pct whose/WPg opera/NN ``/pct Beatrice/NP Di/NP Tenda/NP ''/pct in/IN a/AT concert/NN version/NN with/IN the/AT American/JJ Opera/NN Society/NN introduced/VBD her/PPO to/IN New/JJ York/NP last/AP season/NN ./pct
 She/PPS will/MD sing/VB ``/pct La/AT Sonambula/NN ''/pct with/IN it/PPO here/RB next/AP week/NN ./pct
 Anyone/PN for/IN musical/JJ Ping-pong/NP ?/pct ?/pct
-It's /None really/RB quite/QL fun/NN --/pct as/QL long/RB as/CS you/PPSS like/VB games/NNS ./pct
+It's/PPSBEZ really/RB quite/QL fun/NN --/pct as/QL long/RB as/CS you/PPSS like/VB games/NNS ./pct
 You/PPSS will/MD need/VB a/AT stereo/NN music/NN system/NN ,/pct with/IN speakers/NNS preferably/RB placed/VBN at/IN least/AP seven/CD or/CC eight/CD feet/NNS apart/RB ,/pct and/CC one/CD or/CC more/AP of/IN the/AT new/JJ London/NP ``/pct Phase/NN 4/CD ''/pct records/NNS ./pct
 There/EX are/BER 12/CD of/IN these/DTS to/TO choose/VB from/IN ,/pct all/ABN of/IN them/PPO of/IN popular/JJ music/NN except/IN for/IN the/AT star/NN release/NN ,/pct Pass/VB In/IN Review/NN (/pct SP-44001/NP )/pct ./pct
 This/DT features/VBZ the/AT marching/VBG songs/NNS of/IN several/AP nations/NNS ,/pct recorded/VBN as/CS though/CS the/AT various/JJ national/JJ bands/NNS were/BED marching/VBG by/IN your/PPg reviewing/VBG stand/NN ./pct
@@ -71,13 +71,13 @@ Drums/NNS ,/pct xylophones/NNS ,/pct castanets/NNS ,/pct and/CC other/AP percuss
 Only/RB too/QL often/RB ,/pct however/RB ,/pct you/PPSS have/HV the/AT feeling/NN that/CS you/PPSS are/BER sitting/VBG in/IN a/AT room/NN with/IN some/DTI of/IN the/AT instruments/NNS lined/VBN up/RP on/IN one/CD wall/NN to/IN your/PPg left/NR and/CC others/NNS facing/VBG them/PPO on/IN the/AT wall/NN to/IN your/PPg right/NR ./pct
 They/PPSS are/BER definitely/RB in/IN the/AT same/AP room/NN with/IN you/PPO ,/pct but/CC your/PPg head/NN starts/VBZ to/TO swing/VB as/CS though/CS you/PPSS were/BED sitting/VBG on/IN the/AT very/AP edge/NN of/IN a/AT tennis/NN court/NN watching/VBG a/AT spirited/VBN volley/NN ./pct
 The/AT Percussive/JJ Twenties/NNS (/pct SP-44006/NP )/pct stirs/VBZ pleasant/JJ memories/NNS with/IN well-known/JJ songs/NNS of/IN that/DT day/NN ,/pct and/CC Johnny/NP Keating's/NPg Kombo/NP gives/VBZ forth/RB with/IN tingling/VBG jazz/NN in/IN Percussive/JJ Moods/NNS (/pct SP-44005/NP )/pct ./pct
-Big/JJ Band/NN Percussion/NN (/pct SP-44002/NP )/pct seemed/VBD one/CD of/IN the/AT least/QL attractive/JJ discs/NNS --/pct the/AT arrangements/NNS just/RB didn't /None have/HV so/QL much/AP character/NN as/CS the/AT others/NNS ./pct
+Big/JJ Band/NN Percussion/NN (/pct SP-44002/NP )/pct seemed/VBD one/CD of/IN the/AT least/QL attractive/JJ discs/NNS --/pct the/AT arrangements/NNS just/RB didn't/DOD* have/HV so/QL much/AP character/NN as/CS the/AT others/NNS ./pct
 There/EX is/BEZ an/AT extraordinary/JJ sense/NN of/IN presence/NN in/IN all/ABN of/IN these/DTS recordings/NNS ,/pct apparently/RB obtained/VBN at/IN least/AP in/IN part/NN by/IN emphasizing/VBG the/AT middle/JJ and/CC high/JJ frequencies/NNS ./pct
 The/AT penalty/NN for/IN this/DT is/BEZ noticeable/JJ in/IN the/AT big/JJ ,/pct bold/JJ ,/pct brilliant/JJ ,/pct but/CC brassy/JJ piano/NN sounds/NNS in/IN Melody/NN And/CC Percussion/NN For/IN Two/CD Pianos/NNS (/pct SP-44007/NP )/pct ./pct
 All/ABN of/IN the/AT releases/NNS ,/pct however/WRB ,/pct are/BER recorded/VBN at/IN a/AT gratifyingly/QL high/JJ level/NN ,/pct with/IN resultant/JJ masking/NN of/IN any/DTI surface/NN noise/NN ./pct
 Pass/VB In/IN Review/NN practically/RB guarantees/VBZ enjoyment/NN ,/pct and/CC is/BEZ a/AT dramatic/JJ demonstration/NN of/IN the/AT potentialities/NNS of/IN any/DTI stereo/NN music/NN system/NN ./pct
 Many/AP Hollywood/NP films/NNS manage/VB somehow/RB to/TO be/BE authentic/JJ ,/pct but/CC not/NEG realistic/JJ ./pct
-Strange/JJ ,/pct but/CC true/JJ --/pct authenticity/NN and/CC realism/NN often/RB aren't /None related/VBN at/IN all/ABN ./pct
+Strange/JJ ,/pct but/CC true/JJ --/pct authenticity/NN and/CC realism/NN often/RB aren't/BER* related/VBN at/IN all/ABN ./pct
 Almost/RB every/AT film/NN bearing/VBG the/AT imprimatur/NN of/IN Hollywood/NP is/BEZ physically/RB authentic/JJ --/pct in/IN fact/NN ,/pct impeccably/RB so/RB ./pct
 In/IN any/DTI given/VBN period/NN piece/NN the/AT costumes/NNS ,/pct bric-a-brac/NN ,/pct vehicles/NNS ,/pct and/CC decor/NN ,/pct bear/VB the/AT stamp/NN of/IN unimpeachable/JJ authenticity/NN ./pct
 The/AT major/JJ studios/NNS maintain/VB a/AT cadre/NN of/IN film/NN librarians/NNS and/CC research/NN specialists/NNS who/WPS look/VB to/IN this/DT matter/NN ./pct
@@ -87,10 +87,10 @@ The/AT drama/NN itself/PPL --/pct and/CC this/DT seems/VBZ to/TO be/BE lavishly/
 The/AT storyline/NN ,/pct in/IN sort/NN ,/pct is/BEZ wildly/RB unrealistic/JJ ./pct
 Thus/RB ,/pct in/IN ``/pct The/AT Story/NN Of/IN Ruth/NP ''/pct we/PPSS have/HV Ruth/NP ,/pct Naomi/NP ,/pct and/CC Boaz/NP and/CC sets/NNS that/WPS are/BER meticulously/QL authentic/JJ ./pct
 But/CC except/IN for/IN a/AT vague/JJ adherence/NN to/IN the/AT basic/JJ storyline/NN --/pct i.e./RB ,/pct that/CS Ruth/NP remained/VBD with/IN Naomi/NP and/CC finally/RB wound/VBD up/RP with/IN Boaz/NP --/pct the/AT film/NN version/NN has/HVZ little/AP to/TO do/DO with/IN the/AT Bible/NP ./pct
-And/CC in/IN the/AT new/JJ ``/pct King/NN Of/IN Kings/NNS ''/pct the/AT plot/NN involves/VBZ intrigues/NNS and/CC twists/NNS and/CC turns/NNS that/DT cannot /None be/BE traced/VBN to/IN the/AT Gospels/NPS ./pct
+And/CC in/IN the/AT new/JJ ``/pct King/NN Of/IN Kings/NNS ''/pct the/AT plot/NN involves/VBZ intrigues/NNS and/CC twists/NNS and/CC turns/NNS that/DT cannot/MD* be/BE traced/VBN to/IN the/AT Gospels/NPS ./pct
 Earlier/RBR this/DT month/NN Edward/NP R./NP Murrow/NP ,/pct director/NN of/IN the/AT United/VBN States/NNS Information/NN Agency/NN ,/pct came/VBD to/IN Hollywood/NP and/CC had/HVD dinner/NN with/IN more/AP than/IN 100/CD leaders/NNS of/IN the/AT motion/NN picture/NN industry/NN ./pct
 He/PPS talked/VBD about/IN unauthentic/JJ storylines/NNS too/RB ./pct
-He/PPS intimated/VBD that/CS they/PPSS weren't /None doing/VBG the/AT country/NN much/AP good/NN in/IN the/AT Cold/JJ War/NN ./pct
+He/PPS intimated/VBD that/CS they/PPSS weren't/BED* doing/VBG the/AT country/NN much/AP good/NN in/IN the/AT Cold/JJ War/NN ./pct
 And/CC to/IN an/AT industry/NN that/WPS prides/VBZ itself/PPL on/IN authenticity/NN ,/pct he/PPS urged/VBD greater/JJR realism/NN ./pct
 ``/pct In/IN many/AP corners/NNS of/IN the/AT globe/NN ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct the/AT major/JJ source/NN of/IN impressions/NNS about/IN this/DT country/NN are/BER in/IN the/AT movies/NNS they/PPSS meet/VB ./pct
 Would/MD we/PPSS want/VB a/AT future-day/JJ Gibbon/NP or/CC Macaulay/NP recounting/VBG the/AT saga/NN of/IN America/NP with/IN movies/NNS as/CS his/PPg prime/JJ source/NN of/IN knowledge/NN ?/pct ?/pct

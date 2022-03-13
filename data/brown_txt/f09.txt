@@ -23,14 +23,14 @@ She/PPS lied/VBD in/IN order/NN to/TO get/VB it/PPO ./pct
 She/PPS has/HVZ been/BEN acting/VBG as/CS a/AT prostitute/NN ./pct
 ``/pct Our/PPg information/NN is/BEZ that/CS she/PPS gave/VBD the/AT proceeds/NNS of/IN her/PPg acts/NNS to/IN Jelke/NP ''/pct ./pct
 Diane/NP sobbingly/RB denied/VBD this/DT to/IN the/AT court/NN ./pct
-``/pct That's /None a/AT lie/NN ./pct
+``/pct That's/DTBEZ a/AT lie/NN ./pct
 I/PPSS never/RB gave/VBD that/DT boy/NN a/AT cent/NN ./pct
 I/PPSS am/BEM not/NEG a/AT prostitute/NN ,/pct and/CC I/PPSS had/HVD only/RB one/CD very/QL wealthy/JJ boy/NN friend/NN ''/pct ,/pct she/PPS said/VBD ./pct
 During/IN the/AT course/NN of/IN the/AT trial/NN ,/pct Jelke/NP backed/VBD up/RP part/NN of/IN that/DT statement/NN ./pct
-``/pct Diane/NP is/BEZ the/AT type/NN of/IN girl/NN ''/pct ,/pct Jelke/NP said/VBD ,/pct ``/pct who/WPS wouldn't /None get/VB loving/VBG --/pct even/RB on/IN her/PPg wedding/NN night/NN --/pct unless/CS you/PPSS piled/VBD up/RP all/ABN your/PPg money/NN in/IN the/AT middle/NN of/IN the/AT floor/NN ''/pct ./pct
+``/pct Diane/NP is/BEZ the/AT type/NN of/IN girl/NN ''/pct ,/pct Jelke/NP said/VBD ,/pct ``/pct who/WPS wouldn't/MD* get/VB loving/VBG --/pct even/RB on/IN her/PPg wedding/NN night/NN --/pct unless/CS you/PPSS piled/VBD up/RP all/ABN your/PPg money/NN in/IN the/AT middle/NN of/IN the/AT floor/NN ''/pct ./pct
 But/CC she/PPS seemed/VBD to/TO have/HV underestimated/VBN the/AT number/NN of/IN her/PPg ``/pct boy/NN friends/NNS ''/pct ./pct
 She/PPS came/VBD to/IN New/JJ York/NP from/IN Detroit/NP as/CS a/AT teenager/NN ,/pct but/CC with/IN a/AT ``/pct sponsor/NN ''/pct instead/RB of/IN a/AT chaperone/NN ./pct
-As/CS she/PPS told/VBD it/PPO ,/pct ``/pct He's /None a/AT rich/JJ boy/NN friend/NN ,/pct an/AT old/JJ guy/NN about/RB 60/CD ''/pct ./pct
+As/CS she/PPS told/VBD it/PPO ,/pct ``/pct He's/PPSBEZ a/AT rich/JJ boy/NN friend/NN ,/pct an/AT old/JJ guy/NN about/RB 60/CD ''/pct ./pct
 She/PPS was/BEDZ Mary/NP Lou/NP Brew/NP then/RB ,/pct wide-eyed/JJ ,/pct but/CC not/NEG naive/JJ ./pct
 She/PPS had/HVD talked/VBN her/PPg ``/pct boy/NN friend/NN ''/pct into/IN sending/VBG her/PPO to/IN New/JJ York/NP to/TO take/VB a/AT screen/NN test/NN ./pct
 The/AT screen/NN test/NN was/BEDZ never/RB made/VBN --/pct but/CC Diane/NP was/BEDZ ./pct
@@ -38,16 +38,16 @@ She/PPS quickly/RB moved/VBD into/IN cafe/NN society/NN ,/pct possibly/RB easing
 She/PPS seemed/VBD so/QL anxious/JJ to/TO go/VB on/IN the/AT stage/NN that/CS some/DTI of/IN her/PPg friends/NNS in/IN the/AT cocktail/NN circuit/NN set/VBD up/RP a/AT practical/JJ joke/NN ./pct
 An/AT ex-fighter/NN was/BEDZ introduced/VBN to/IN her/PPO in/IN a/AT bar/NN as/CS ``/pct Mr./NP Warfield/NP ,/pct the/AT famous/JJ producer/NN ''/pct ./pct
 The/AT phony/JJ producer/NN asked/VBD her/PPO if/CS she/PPS would/MD like/VB to/TO be/BE in/IN one/CD of/IN his/PPg shows/NNS ./pct
-``/pct I'd /None love/VB to/TO audition/VB for/IN you/PPO ''/pct ,/pct she/PPS gushed/VBD ./pct
+``/pct I'd/PPSSMD love/VB to/TO audition/VB for/IN you/PPO ''/pct ,/pct she/PPS gushed/VBD ./pct
 The/AT audition/NN was/BEDZ held/VBN a/AT few/AP minutes/NNS later/RBR in/IN somebody's/PNg apartment/NN ./pct
 She/PPS thought/VBD she/PPS had/HVD great/JJ possibilities/NNS in/IN the/AT ballet/NN and/CC wanted/VBD to/TO show/VB the/AT eminent/JJ producer/NN how/WQL well/RB she/PPS could/MD dance/VB ./pct
-After/IN a/AT few/AP minutes/NNS he/PPS said/VBD ,/pct ``/pct I/PPSS can't /None use/VB you/PPO if/CS you/PPSS dance/VB like/CS that/DT ./pct
-I'd /None like/VB to/TO see/VB you/PPO dance/VB nude/JJ ''/pct ./pct
+After/IN a/AT few/AP minutes/NNS he/PPS said/VBD ,/pct ``/pct I/PPSS can't/MD* use/VB you/PPO if/CS you/PPSS dance/VB like/CS that/DT ./pct
+I'd/PPSSMD like/VB to/TO see/VB you/PPO dance/VB nude/JJ ''/pct ./pct
 She/PPS hastily/RB complied/VBD ./pct
 Diane/NP loved/VBD to/TO dance/VB in/IN the/AT nude/JJ ,/pct something/PN she/PPS was/BEDZ to/TO demonstrate/VB time/NN and/CC again/RB ./pct
 She/PPS developed/VBD another/DT quaint/JJ habit/NN ./pct
 Even/RB among/IN the/AT fast/JJ set/NN in/IN which/WDT she/PPS was/BEDZ moving/VBG ,/pct her/PPg method/NN for/IN keeping/VBG an/AT escort/NN from/IN departing/VBG too/QL early/RB was/BEDZ unique/JJ ./pct
-When/WRB the/AT date/NN would/MD try/VB to/TO bid/VB her/PPO good-night/UH at/IN the/AT door/NN ,/pct she/PPS would/MD tell/VB him/PPO ,/pct ``/pct If/CS you/PPSS go/VB home/NR now/RB ,/pct I'll /None scream/VB ''/pct ./pct
+When/WRB the/AT date/NN would/MD try/VB to/TO bid/VB her/PPO good-night/UH at/IN the/AT door/NN ,/pct she/PPS would/MD tell/VB him/PPO ,/pct ``/pct If/CS you/PPSS go/VB home/NR now/RB ,/pct I'll/PPSSMD scream/VB ''/pct ./pct
 More/QL often/RB than/CS not/NEG he/PPS would/MD bow/VB to/IN the/AT inevitable/JJ ./pct
 One/CD who/WPS needed/VBD no/RB such/JJ threats/NNS was/BEDZ a/AT French/JJ financier/NN ./pct
 One/CD of/IN the/AT blonde's/NNg yearnings/NNS that/WPO he/PPS satisfied/VBD was/BEDZ for/IN travel/NN ./pct
@@ -71,7 +71,7 @@ The/AT hotel/NN staff/NN ,/pct as/QL well/RB as/CS residents/NNS of/IN the/AT Ex
 They/PPSS were/BED asked/VBN to/TO leave/VB the/AT hotel/NN ./pct
 No/AT charges/NNS were/BED filed/VBN ''/pct ./pct
 The/AT girls/NNS ,/pct after/CS dressing/VBG ,/pct were/BED indignant/JJ ./pct
-``/pct You/PPSS can't /None do/DO this/DT to/IN us/PPO ''/pct ,/pct Diane/NP screamed/VBD ./pct
+``/pct You/PPSS can't/MD* do/DO this/DT to/IN us/PPO ''/pct ,/pct Diane/NP screamed/VBD ./pct
 ``/pct We/PPSS are/BER Americans/NPS ''/pct ./pct
 In/IN the/AT morning/NN she/PPS found/VBD rooms/NNS directly/RB across/IN from/IN the/AT Excelsior/NN at/IN the/AT equally/QL luxurious/JJ Hotel/NN Ambassador/NN ./pct
 With/IN the/AT Ambassador/NN as/CS headquarters/NN ,/pct she/PPS continued/VBD to/TO promote/VB good/JJ will/NN abroad/RB ./pct
@@ -93,7 +93,7 @@ Tewfik/NP Badrawi/NP ,/pct Mohammed/NP Gaafer/NP and/CC numerous/JJ other/AP wea
 The/AT roof/NN was/BEDZ about/RP ready/JJ to/TO fall/VB in/RP on/IN Diane's/NPg little/JJ world/NN ,/pct but/CC it/PPS took/VBD nothing/PN less/AP than/CS the/AT Egyptian/JJ revolution/NN to/TO bring/VB it/PPO down/RP ./pct
 When/WRB Farouk/NP was/BEDZ overthrown/VBN ,/pct police/NN picked/VBD up/RP his/PPg personal/JJ pimp/NN ,/pct Pulley/NP Bey/NP ./pct
 They/PPSS also/RB called/VBD upon/RB Diane/NP with/IN a/AT request/NN for/IN a/AT look/NN at/IN her/PPg passport/NN ./pct
-The/AT cagey/JJ Pulley/NP Bey/NP ,/pct who/WPS spoke/VBD no/AT English/NP ,/pct had/HVD taken/VBN the/AT passport/NN so/CS that/CS Diane/NP couldn't /None leave/VB the/AT country/NN without/IN his/PPg approval/NN ./pct
+The/AT cagey/JJ Pulley/NP Bey/NP ,/pct who/WPS spoke/VBD no/AT English/NP ,/pct had/HVD taken/VBN the/AT passport/NN so/CS that/CS Diane/NP couldn't/MD* leave/VB the/AT country/NN without/IN his/PPg approval/NN ./pct
 Officials/NNS provided/VBD a/AT temporary/JJ passport/NN ,/pct good/JJ only/RB for/IN return/NN to/IN the/AT United/VBN States/NNS ./pct
 And/CC return/VB to/IN the/AT United/VBN States/NNS she/PPS did/DOD ,/pct into/IN waiting/VBG arms/NNS --/pct the/AT unromantic/JJ ones/NNS of/IN the/AT New/JJ York/NP District/NN Attorney's/NNg office/NN ./pct
 Held/VBN as/CS a/AT material/NN witness/NN in/IN the/AT compulsory/JJ prostitution/NN trial/NN of/IN Mickey/NP Jelke/NP ,/pct the/AT comely/JJ courtesan/NN was/BEDZ unable/JJ to/TO raise/VB bail/NN and/CC was/BEDZ committed/VBN to/IN the/AT Women's/NNSg House/NN of/IN Detention/NN ,/pct a/AT terribly/QL overcrowded/VBN prison/NN ./pct

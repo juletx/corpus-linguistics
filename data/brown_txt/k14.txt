@@ -33,7 +33,7 @@ Discovering/VBG that/CS draperies/NNS could/MD be/BE designed/VBN to/TO serve/VB
 He/PPS improvised/VBD as/CS he/PPS went/VBD along/RB ,/pct completing/VBG a/AT life-size/NN clay/NN figure/NN ,/pct then/RB bought/VBD yards/NNS of/IN an/AT inexpensive/JJ material/NN from/IN a/AT draper/NN ,/pct wet/VBD the/AT lightweight/JJ cloth/NN in/IN a/AT basin/NN and/CC covered/VBD it/PPO over/RP with/IN clay/NN that/WPS Argiento/NP brought/VBD from/IN the/AT bank/NN of/IN the/AT Tiber/NP ,/pct to/IN the/AT consistency/NN of/IN thick/JJ mud/NN ./pct
 No/AT fold/NN could/MD be/BE accidental/JJ ,/pct each/DT turn/NN of/IN the/AT drapery/NN had/HVD to/TO serve/VB organically/RB ,/pct to/TO cover/VB the/AT Madonna's/NPg slender/JJ legs/NNS and/CC feet/NNS so/CS that/CS they/PPSS would/MD give/VB substantive/JJ support/NN to/IN Christ's/NPg body/NN ,/pct to/TO intensify/VB her/PPO inner/JJ turmoil/NN ./pct
 When/WRB the/AT cloth/NN dried/VBD and/CC stiffened/VBD ,/pct he/PPS saw/VBD what/WDT adjustments/NNS had/HVD to/TO be/BE made/VBN ./pct
-``/pct So/RB that's /None sculpture/NN ''/pct ,/pct commented/VBD Argiento/NP wryly/RB ,/pct when/WRB he/PPS had/HVD sluiced/VBN down/IN the/AT floor/NN for/IN a/AT week/NN ,/pct ``/pct making/VBG mud/NN pies/NNS ''/pct ./pct
+``/pct So/RB that's/DTBEZ sculpture/NN ''/pct ,/pct commented/VBD Argiento/NP wryly/RB ,/pct when/WRB he/PPS had/HVD sluiced/VBN down/IN the/AT floor/NN for/IN a/AT week/NN ,/pct ``/pct making/VBG mud/NN pies/NNS ''/pct ./pct
 Michelangelo/NP grinned/VBD ./pct
 ``/pct See/VB ,/pct Argiento/NP ,/pct if/CS you/PPSS control/VB the/AT way/NN these/DTS folds/NNS are/BER bunched/VBN ,/pct like/CS this/DT ,/pct or/CC made/VBN to/TO flow/VB ,/pct you/PPSS can/MD enrich/VB the/AT body/NN attitudes/NNS ./pct
 They/PPSS can/MD have/HV as/QL much/AP tactile/JJ appeal/NN as/CS flesh/NN and/CC bone/NN ''/pct ./pct
@@ -49,15 +49,15 @@ He/PPS was/BEDZ reading/VBG from/IN the/AT Talmud/NP with/IN a/AT group/NN of/IN
 When/WRB Michelangelo/NP explained/VBD why/WRB he/PPS had/HVD come/VBN ,/pct Rabbi/NN Melzi/NP replied/VBD gravely/RB :/pct
 ``/pct The/AT Bible/NP forbids/VBZ us/PPO to/TO bow/VB down/RP to/IN or/CC to/TO make/VB graven/JJ images/NNS ./pct
 That/DT is/BEZ why/WRB our/PPg creative/JJ people/NNS give/VB their/PPg time/NN to/IN literature/NN ,/pct not/NEG to/IN painting/VBG or/CC sculpture/NN ''/pct ./pct
-``/pct But/CC ,/pct Rabbi/NN Melzi/NP ,/pct you/PPSS don't /None object/VB to/IN others/NNS creating/VBG works/NNS of/IN art/NN ''/pct ?/pct ?/pct
+``/pct But/CC ,/pct Rabbi/NN Melzi/NP ,/pct you/PPSS don't/DO* object/VB to/IN others/NNS creating/VBG works/NNS of/IN art/NN ''/pct ?/pct ?/pct
 ``/pct Not/NEG at/IN all/ABN ./pct
 Each/DT religion/NN has/HVZ its/PPg own/JJ tenets/NNS ''/pct ./pct
 ``/pct I/PPSS am/BEM carving/VBG a/AT Pieta/NP from/IN white/JJ Carrara/NP marble/NN ./pct
 I/PPSS wish/VB to/TO make/VB Jesus/NP an/AT authentic/JJ Jew/NP ./pct
-I/PPSS cannot /None accomplish/VB this/DT if/CS you/PPSS will/MD not/NEG help/VB me/PPO ''/pct ./pct
+I/PPSS cannot/MD* accomplish/VB this/DT if/CS you/PPSS will/MD not/NEG help/VB me/PPO ''/pct ./pct
 The/AT rabbi/NN said/VBD thoughtfully/RB ,/pct ``/pct I/PPSS would/MD not/NEG want/VB my/PPg people/NNS to/TO get/VB in/IN trouble/NN with/IN the/AT Church/NN ''/pct ./pct
 ``/pct I/PPSS am/BEM working/VBG for/IN the/AT Cardinal/NN of/IN San/NP Dionigi/NP ./pct
-I'm /None sure/JJ he/PPS would/MD approve/VB ''/pct ./pct
+I'm/PPSSBEM sure/JJ he/PPS would/MD approve/VB ''/pct ./pct
 ``/pct What/WDT kind/NN of/IN models/NNS would/MD you/PPSS prefer/VB ''/pct ?/pct ?/pct
 ``/pct Workmen/NNS ./pct
 In/IN their/PPg mid-thirties/NNS ./pct
@@ -108,9 +108,9 @@ The/AT arrangement/NN with/IN Argiento/NP was/BEDZ working/VBG well/RB ,/pct exc
 Argiento/NP had/HVD been/BEN trained/VBN so/QL rigorously/RB by/IN the/AT Jesuits/NPS that/CS Michelangelo/NP was/BEDZ unable/JJ to/TO change/VB his/PPg habits/NNS :/pct up/RP before/IN dawn/NN to/TO scrub/VB the/AT floors/NNS ,/pct whether/CS they/PPSS were/BED dirty/JJ or/CC not/NEG ;/pct ;/pct
 water/NN boiling/VBG on/IN the/AT fire/NN for/IN washing/VBG laundry/NN every/AT day/NN ,/pct the/AT pots/NNS scoured/VBN with/IN river/NN sand/NN after/IN each/DT meal/NN ./pct
 ``/pct Argiento/NP ,/pct this/DT is/BEZ senseless/JJ ''/pct ,/pct he/PPS complained/VBD ,/pct not/NEG liking/VBG to/TO work/VB on/IN the/AT wet/JJ floors/NNS ,/pct particularly/RB in/IN cold/JJ weather/NN ./pct
-``/pct You're /None too/QL clean/JJ ./pct
+``/pct You're/PPSSBER too/QL clean/JJ ./pct
 Scrub/VB the/AT studio/NN once/RB a/AT week/NN ./pct
-That's /None enough/AP ''/pct ./pct
+That's/DTBEZ enough/AP ''/pct ./pct
 ``/pct No/RB ''/pct ,/pct said/VBD Argiento/NP stolidly/RB ./pct
 ``/pct Every/AT day/NN ./pct
 Before/IN dawn/NN ./pct

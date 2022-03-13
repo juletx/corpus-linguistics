@@ -46,32 +46,32 @@ After/IN every/AT money/NN argument/NN ,/pct she/PPS rebuffed/VBD her/PPg husban
 Experts/NNS say/VB the/AT partners/NNS in/IN marriages/NNS like/CS these/DTS can/MD almost/RB be/BE typed/VBN ./pct
 The/AT wife/NN is/BEZ likely/JJ to/TO be/BE young/JJ ,/pct sophisticated/JJ ,/pct smart/JJ as/CS a/AT whip/NN --/pct often/RB a/AT girl/NN who/WPS has/HVZ sacrificed/VBN a/AT promising/JJ career/NN for/IN marriage/NN ./pct
 She/PPS knows/VBZ the/AT power/NN of/IN the/AT sex/NN urge/NN and/CC how/WRB to/TO use/VB it/PPO to/TO manipulate/VB her/PPg husband/NN ./pct
-The/AT husband/NN is/BEZ usually/RB a/AT well-educated/JJ professional/NN ,/pct preoccupied/VBN with/IN his/PPg job/NN --/pct often/RB an/AT organization/NN man/NN whose/WPg motto/NN for/IN getting/VBG ahead/RB is/BEZ :/pct ``/pct Don't /None rock/VB the/AT boat/NN ''/pct ./pct
+The/AT husband/NN is/BEZ usually/RB a/AT well-educated/JJ professional/NN ,/pct preoccupied/VBN with/IN his/PPg job/NN --/pct often/RB an/AT organization/NN man/NN whose/WPg motto/NN for/IN getting/VBG ahead/RB is/BEZ :/pct ``/pct Don't/DO* rock/VB the/AT boat/NN ''/pct ./pct
 Sometimes/RB this/DT leads/VBZ to/IN his/PPg becoming/NN demandingly/RB dominant/JJ in/IN marriage/NN ./pct
 Hemmed/VBN in/RP on/IN the/AT job/NN and/CC unable/JJ to/TO assert/VB himself/PPL ,/pct he/PPS uses/VBZ the/AT sex/NN act/NN so/CS he/PPS can/MD be/BE supreme/JJ in/IN at/IN least/AP one/CD area/NN ./pct
 More/QL often/RB ,/pct though/RB ,/pct he/PPS is/BEZ so/QL accustomed/VBN to/IN submitting/VBG to/IN authority/NN on/IN the/AT job/NN without/IN argument/NN that/CS he/PPS lives/VBZ by/IN the/AT same/AP rule/NN at/IN home/NN ./pct
 Some/DTI psychologists/NNS ,/pct in/IN fact/NN ,/pct suggest/VB that/CS career-bound/JJ husbands/NNS often/RB are/BER more/RBR to/TO blame/VB for/IN topsy-turvy/JJ marriages/NNS than/CS their/PPg wives/NNS ./pct
 The/AT wife's/NNg attempt/NN at/IN control/NN ,/pct these/DTS psychologists/NNS contend/VB ,/pct is/BEZ sometimes/RB merely/RB a/AT pathetic/JJ effort/NN to/TO compel/VB her/PPg husband/NN to/TO pay/VB as/QL much/AP attention/NN to/IN her/PPO as/CS he/PPS does/DOZ to/IN his/PPg job/NN ./pct
 Naturally/RB no/AT woman/NN can/MD ever/RB completely/RB monopolize/VB the/AT sexual/JJ initiative/NN ./pct
-Unless/CS her/PPg husband/NN also/RB desires/VBZ sex/NN ,/pct the/AT act/NN cannot /None be/BE consummated/VBN ./pct
+Unless/CS her/PPg husband/NN also/RB desires/VBZ sex/NN ,/pct the/AT act/NN cannot/MD* be/BE consummated/VBN ./pct
 Generally/RB ,/pct however/RB ,/pct in/IN such/JJ marriages/NNS as/CS those/DTS cited/VBN ,/pct the/AT husband/NN is/BEZ at/IN his/PPg wife's/NNg mercy/NN ./pct
 ``/pct The/AT pattern/NN ''/pct ,/pct says/VBZ Dr./NN Morton/NP Schillinger/NP ,/pct psychologist/NN at/IN New/JJ York's/NPg Lincoln/NP Institute/NN for/IN Psychotherapy/NN ,/pct ``/pct is/BEZ for/IN the/AT husband/NN to/TO hover/VB about/RB anxiously/RB and/CC eagerly/RB ,/pct virtually/RB trembling/VBG in/IN his/PPg hope/NN that/CS she/PPS will/MD flash/VB him/PPO the/AT signal/NN that/CS tonight/NR is/BEZ the/AT night/NN ''/pct ./pct
 No/AT one/PN seriously/RB contends/VBZ ,/pct of/IN course/NN ,/pct that/CS the/AT domineering/VBG wife/NN is/BEZ ,/pct sexually/RB speaking/VBG ,/pct a/AT new/JJ character/NN in/IN our/PPg world/NN ./pct
 After/IN all/ABN ,/pct the/AT henpecked/VBN husband/NN with/IN his/PPg shrewish/JJ wife/NN is/BEZ a/AT comic/JJ figure/NN of/IN long/JJ standing/NN ,/pct in/IN literature/NN and/CC on/IN the/AT stage/NN ,/pct as/CS Dr./NN Schillinger/NP points/VBZ out/RP ./pct
 There/EX is/BEZ no/AT evidence/NN that/CS these/DTS Milquetoasts/NNS became/VBD suddenly/RB emboldened/VBN when/WRB they/PPSS crossed/VBD the/AT threshhold/NN of/IN the/AT master/JJS bedroom/NN ./pct
 Furthermore/RB ,/pct Dr./NN Calderone/NP says/VBZ ,/pct a/AT certain/JJ number/NN of/IN docile/JJ ,/pct retiring/VBG men/NNS always/RB have/HV been/BEN around/RB ./pct
-They/PPSS aren't /None ``/pct frigid/JJ ''/pct and/CC they/PPSS aren't /None homosexual/JJ ;/pct ;/pct
-they're /None just/RB restrained/VBN in/IN all/ABN of/IN life/NN ./pct
+They/PPSS aren't/BER* ``/pct frigid/JJ ''/pct and/CC they/PPSS aren't/BER* homosexual/JJ ;/pct ;/pct
+they're/PPSSBER just/RB restrained/VBN in/IN all/ABN of/IN life/NN ./pct
 They/PPSS like/VB to/TO be/BE dominated/VBN ./pct
 One/CD such/JJ man/NN once/RB confided/VBD to/IN Dr./NN Theodor/NP Reik/NP ,/pct New/JJ York/NP psychiatrist/NN ,/pct that/CS he/PPS preferred/VBD to/TO have/HV his/PPg wife/NN the/AT sexual/JJ aggressor/NN ./pct
-Asked/VBN why/WRB ,/pct he/PPS replied/VBD primly/RB :/pct ``/pct Because/CS that's /None no/AT activity/NN for/IN a/AT gentleman/NN ''/pct ./pct
+Asked/VBN why/WRB ,/pct he/PPS replied/VBD primly/RB :/pct ``/pct Because/CS that's/DTBEZ no/AT activity/NN for/IN a/AT gentleman/NN ''/pct ./pct
 But/CC such/JJ cases/NNS were/BED ,/pct in/IN the/AT past/NN ,/pct unusual/JJ ./pct
 Society/NN here/RB and/CC abroad/RB has/HVZ been/BEN built/VBN around/IN the/AT dominating/VBG male/NN --/pct even/RB the/AT Bible/NP appears/VBZ to/TO endorse/VB the/AT concept/NN ./pct
 Family/NN survival/NN on/IN our/PPg own/JJ Western/JJ frontier/NN ,/pct for/IN example/NN ,/pct could/MD quite/QL literally/RB depend/VB on/IN a/AT man's/NNg strength/NN and/CC ability/NN to/TO bring/VB home/NR the/AT bacon/NN ;/pct ;/pct
 and/CC the/AT dependent/JJ wife/NN seldom/RB questioned/VBD his/PPg judgment/NN about/IN anything/PN ,/pct including/IN the/AT marriage/NN bed/NN ./pct
 This/DT carried/VBD over/RP into/IN the/AT more/QL urbanized/VBN late/JJ 19th/OD and/CC early/JJ 20th/OD centuries/NNS ,/pct when/WRB the/AT man/NN ruled/VBD the/AT roost/NN in/IN the/AT best/JJT bull-roaring/JJ Life/NN With/IN Father/NN manner/NN ./pct
 In/IN those/DTS days/NNS ,/pct a/AT wife/NN had/HVD mighty/QL few/AP rights/NNS in/IN the/AT domestic/JJ sphere/NN and/CC even/QL fewer/AP in/IN the/AT sexual/JJ sphere/NN ./pct
-``/pct Grandma/NN wasn't /None expected/VBN to/TO like/VB it/PPO ''/pct ,/pct Dr./NN Marion/NP Hilliard/NP ,/pct the/AT late/JJ Toronto/NP gynecologist/NN ,/pct once/RB summed/VBD up/RP the/AT attitude/NN of/IN the/AT '90s/NNS ./pct
+``/pct Grandma/NN wasn't/BEDZ* expected/VBN to/TO like/VB it/PPO ''/pct ,/pct Dr./NN Marion/NP Hilliard/NP ,/pct the/AT late/JJ Toronto/NP gynecologist/NN ,/pct once/RB summed/VBD up/RP the/AT attitude/NN of/IN the/AT '90s/NNS ./pct
 Wives/NNS of/IN the/AT period/NN shamefacedly/RB thought/VBD of/IN themselves/PPLS as/CS ``/pct used/VBN ''/pct by/IN their/PPg husbands/NNS --/pct and/CC ,/pct history/NN indicates/VBZ ,/pct they/PPSS often/RB quite/QL literally/RB were/BED ./pct
 When/WRB was/BEDZ the/AT turning/VBG point/NN ?/pct ?/pct
 When/WRB did/DOD women/NNS begin/VB to/TO assert/VB themselves/PPLS sexually/RB ?/pct ?/pct
@@ -102,7 +102,7 @@ If/CS his/PPg on-the-job/JJ problems/NNS work/VB out/RP ,/pct he/PPS may/MD retu
 Sometimes/RB a/AT burst/NN of/IN aggressiveness/NN will/MD sweep/VB over/IN a/AT man/NN --/pct or/CC his/PPg wife/NN --/pct because/CS he/PPS or/CC she/PPS feels/VBZ age/NN creeping/VBG up/RP ./pct
 On/IN the/AT other/AP hand/NN ,/pct a/AT husband/NN who/WPS always/RB has/HVZ been/BEN vigorous/JJ and/CC assertive/JJ may/MD suddenly/RB become/VB passive/JJ --/pct asking/VBG ,/pct psychologists/NNS say/VB ,/pct for/IN reassurance/NN that/CS his/PPg wife/NN still/RB finds/VBZ him/PPO desirable/JJ ./pct
 Or/CC a/AT wife/NN may/MD make/VB sudden/JJ demands/NNS that/CS she/PPS be/BE courted/VBN ,/pct flattered/VBN or/CC coaxed/VBN ,/pct simply/RB because/CS she/PPS needs/VBZ her/PPg ego/NN lifted/VBN ./pct
-In/IN any/DTI case/NN ,/pct Dr./NN Calderone/NP remarks/VBZ ,/pct such/JJ problems/NNS are/BER a/AT couple's/NNg own/JJ affair/NN ,/pct and/CC can't /None always/RB be/BE measured/VBN by/IN a/AT general/JJ yardstick/NN ./pct
+In/IN any/DTI case/NN ,/pct Dr./NN Calderone/NP remarks/VBZ ,/pct such/JJ problems/NNS are/BER a/AT couple's/NNg own/JJ affair/NN ,/pct and/CC can't/MD* always/RB be/BE measured/VBN by/IN a/AT general/JJ yardstick/NN ./pct
 ``/pct As/QL long/RB as/CS the/AT couple/NN is/BEZ in/IN agreement/NN in/IN their/PPg approach/NN to/IN sex/NN ,/pct it/PPS makes/VBZ little/AP difference/NN if/CS one/CD or/CC the/AT other/AP dominates/VBZ ''/pct ,/pct Dr./NN Calderone/NP declares/VBZ ./pct
 ``/pct The/AT important/JJ point/NN is/BEZ that/CS both/ABX be/BE satisfied/VBN with/IN the/AT adjustment/NN ''/pct ./pct
 Other/AP experts/NNS say/VB ,/pct however/RB ,/pct that/CS if/CS sexual/JJ domination/NN by/IN one/CD or/CC the/AT other/AP partner/NN exists/VBZ for/IN longer/RBR than/IN a/AT brief/JJ period/NN ,/pct it/PPS is/BEZ likely/JJ to/TO shake/VB the/AT marriage/NN ./pct
@@ -110,4 +110,4 @@ And/CC just/RB as/CS domination/NN today/NR often/RB begins/VBZ with/IN the/AT w
 ``/pct To/TO get/VB a/AT marriage/NN back/RB where/WRB it/PPS belongs/VBZ ''/pct ,/pct comments/VBZ Dr./NN Schillinger/NP of/IN the/AT Lincoln/NP Institute/NN ,/pct ``/pct the/AT husband/NN must/MD take/VB some/DTI very/QL basic/JJ steps/NNS ./pct
 He/PPS must/MD begin/VB ,/pct paradoxically/RB ,/pct by/IN becoming/VBG more/QL selfish/JJ ./pct
 He/PPS must/MD become/VB more/QL expressive/JJ of/IN his/PPg own/JJ desires/NNS ,/pct more/QL demanding/JJ and/CC less/QL '/pct understanding/JJ '/pct ''/pct ./pct
-Too/QL many/AP husbands/NNS ,/pct Dr./NN Schillinger/NP continues/VBZ ,/pct worry/VB about/IN ``/pct how/WQL well/RB they're /None doing/VBG ''/pct ,/pct and/CC fear/VB that/CS their/PPg success/NN depends/VBZ on/IN some/DTI trick/NN or/CC technique/NN of/IN sexual/JJ play/NN ./pct
+Too/QL many/AP husbands/NNS ,/pct Dr./NN Schillinger/NP continues/VBZ ,/pct worry/VB about/IN ``/pct how/WQL well/RB they're/PPSSBER doing/VBG ''/pct ,/pct and/CC fear/VB that/CS their/PPg success/NN depends/VBZ on/IN some/DTI trick/NN or/CC technique/NN of/IN sexual/JJ play/NN ./pct

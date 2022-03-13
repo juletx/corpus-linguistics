@@ -27,7 +27,7 @@ Varlaam/NP and/CC Missail/NP always/RB appear/VB together/RB and/CC often/RB sin
 Their/PPg begging/VBG song/NN might/MD easily/RB be/BE a/AT folk/NN melody/NN :/pct
 The/AT same/AP could/MD be/BE said/VBN for/IN the/AT song/NN to/IN which/WDT they/PPSS make/VB their/PPg entrance/NN in/IN the/AT final/AP scene/NN ./pct
 Apparently/RB their/PPg origin/NN is/BEZ humble/JJ ,/pct their/PPg approach/NN to/IN life/NN direct/JJ and/CC unsophisticated/JJ ./pct
-Whatever/WDT learning/NN they/PPSS may/MD have/HV had/HVN in/IN their/PPg order/NN doesn't /None disturb/VB them/PPO now/RB ./pct
+Whatever/WDT learning/NN they/PPSS may/MD have/HV had/HVN in/IN their/PPg order/NN doesn't/DOZ* disturb/VB them/PPO now/RB ./pct
 Missail/NP is/BEZ the/AT straight/JJ man/NN ,/pct not/NEG very/QL talkative/JJ ,/pct mild-mannered/JJ when/WRB he/PPS does/DOZ speak/VB ./pct
 Varlaam/NP is/BEZ loud/JJ ,/pct rowdy/JJ ,/pct uninhibited/JJ in/IN his/PPg pleasures/NNS and/CC impatient/JJ with/IN anyone/PN who/WPS is/BEZ not/NEG the/AT same/AP ./pct
 A/AT rough/JJ ostinato/JJ figure/NN ,/pct heard/VBN first/RB in/IN the/AT introduction/NN to/IN the/AT inn/NN scene/NN ,/pct characterizes/VBZ him/PPO amusingly/RB and/CC reappears/VBZ whenever/WRB he/PPS comes/VBZ into/IN the/AT action/NN :/pct

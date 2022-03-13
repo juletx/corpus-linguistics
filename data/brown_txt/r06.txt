@@ -6,7 +6,7 @@ A/AT bee's/NNg place/NN is/BEZ in/IN the/AT hive/NN ''/pct ./pct
 ``/pct I/PPSS seem/VB to/TO remember/VB ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct that/CS in/IN an/AT interview/NN ten/CD years/NNS ago/RB you/PPSS gave/VBD humor/NN and/CC comedy/NN five/CD years/NNS to/TO live/VB ./pct
 Did/DOD you/PPO go/VB to/IN their/PPg funeral/NN ''/pct ?/pct ?/pct
 ``/pct I/PPSS was/BEDZ wrong/JJ ''/pct ,/pct I/PPSS admitted/VBD ./pct
-``/pct Comedy/NN didn't /None die/VB ,/pct it/PPS just/RB went/VBD crazy/JJ ./pct
+``/pct Comedy/NN didn't/DOD* die/VB ,/pct it/PPS just/RB went/VBD crazy/JJ ./pct
 It/PPS has/HVZ identified/VBN itself/PPL with/IN the/AT very/AP tension/NN and/CC terror/NN it/PPS once/RB did/DOD so/QL much/RB to/TO alleviate/VB ./pct
 We/PPSS now/RB have/HV not/NEG only/RB what/WDT has/HVZ been/BEN called/VBN over/IN here/RB the/AT comedy/NN of/IN menace/NN but/CC we/PPSS also/RB have/HV horror/NN jokes/NNS ,/pct magazines/NNS known/VBN as/CS Horror/NN Comics/NNS ,/pct and/CC sick/JJ comedians/NNS ./pct
 There/EX are/BER even/RB publications/NNS called/VBN Sick/JJ and/CC Mad/JJ ./pct
@@ -18,22 +18,22 @@ Do/DO you/PPSS want/VB to/TO hear/VB the/AT paraphrase/NN ''/pct ?/pct ?/pct
 I/PPSS asked/VBD ,/pct taking/VBG a/AT final/JJ gulp/NN of/IN my/PPg drink/NN ,/pct and/CC handing/VBG him/PPO the/AT empty/JJ glass/NN ./pct
 ``/pct Just/RB barely/RB ''/pct ,/pct he/PPS said/VBD ,/pct and/CC repeated/VBD his/PPg paraphrase/NN :/pct ``/pct The/AT time/NN has/HVZ come/VBN ''/pct ,/pct the/AT walrus/NN said/VBD ,/pct ``/pct To/TO speak/VB of/IN manic/JJ things/NNS ,/pct Of/IN shots/NNS and/CC shouts/NNS ,/pct and/CC sealing/VBG dooms/NNS Of/IN commoners/NNS and/CC kings/NNS ''/pct ./pct
 Moreland/NP fixed/VBD us/PPO each/DT another/DT drink/NN ,/pct and/CC said/VBD ,/pct ``/pct For/IN God's/NPg sake/NN ,/pct tell/VB me/PPO something/PN truly/RB amusing/JJ ''/pct ./pct
-``/pct I'll /None try/VB ''/pct ,/pct I/PPSS said/VBD ,/pct and/CC sat/VBD for/IN a/AT moment/NN thinking/VBG ./pct
+``/pct I'll/PPSSMD try/VB ''/pct ,/pct I/PPSS said/VBD ,/pct and/CC sat/VBD for/IN a/AT moment/NN thinking/VBG ./pct
 ``/pct Oh/UH yes/RB ,/pct the/AT other/AP day/NN I/PPSS reread/VB some/DTI of/IN Emerson's/NPg English/JJ Traits/NNS ,/pct and/CC there/EX was/BEDZ an/AT anecdote/NN about/IN a/AT group/NN of/IN English/NPS and/CC Americans/NPS visiting/VBG Germany/NP ,/pct more/AP than/IN a/AT hundred/CD years/NNS ago/RB ./pct
 In/IN the/AT railway/NN station/NN at/IN Berlin/NP ,/pct a/AT uniformed/JJ attendant/NN was/BEDZ chanting/VBG ,/pct '/pct Foreigners/NNS this/DT way/NN !/pct !/pct
 Foreigners/NNS this/DT way/NN '/pct !/pct !/pct
 One/CD woman/NN --/pct she/PPS could/MD have/HV been/BEN either/CC English/JJ or/CC American/JJ --/pct went/VBD up/RP to/IN him/PPO and/CC said/VBD ,/pct '/pct But/CC you/PPSS are/BER the/AT foreigners/NNS '/pct ''/pct ./pct
 I/PPSS took/VBD a/AT deep/JJ breath/NN and/CC an/AT even/RB deeper/JJR swallow/NN of/IN my/PPg drink/NN ,/pct and/CC said/VBD ,/pct ``/pct I/PPSS admit/VB that/CS going/VBG back/RB to/IN Ralph/NP Waldo/NP Emerson/NP for/IN humor/NN is/BEZ like/CS going/VBG to/IN a/AT modern/JJ musical/JJ comedy/NN for/IN music/NN and/CC comedy/NN ''/pct ./pct
-``/pct What's /None the/AT matter/NN with/IN the/AT music/NN ''/pct ?/pct ?/pct
+``/pct What's/WDTBEZ the/AT matter/NN with/IN the/AT music/NN ''/pct ?/pct ?/pct
 Moreland/NP asked/VBD ./pct
-``/pct It/PPS doesn't /None drown/VB out/RP the/AT dialogue/NN ''/pct ,/pct I/PPSS explained/VBD ./pct
-``/pct Let's /None talk/VB about/IN books/NNS ''/pct ,/pct Moreland/NP said/VBD ./pct
+``/pct It/PPS doesn't/DOZ* drown/VB out/RP the/AT dialogue/NN ''/pct ,/pct I/PPSS explained/VBD ./pct
+``/pct Let's/VBPPO talk/VB about/IN books/NNS ''/pct ,/pct Moreland/NP said/VBD ./pct
 ``/pct I/PPSS am/BEM told/VBN that/CS in/IN America/NP you/PPSS have/HV non-books/NNS by/IN non-writers/NNS ,/pct brought/VBN out/RP by/IN non-publishers/NNS for/IN non-readers/NNS ./pct
 Is/BEZ it/PPS all/ABN non-fiction/NN ''/pct ?/pct ?/pct
 ``/pct There/EX is/BEZ non-fiction/NN and/CC non/JJ non-fiction/NN ''/pct ,/pct I/PPSS said/VBD ./pct
 ``/pct Speaking/VBG of/IN nonism/NN :/pct the/AT other/AP day/NN ,/pct in/IN a/AT story/NN about/IN a/AT sit-down/NN demonstration/NN ,/pct the/AT Paris/NP Herald/NN Tribune/NN wrote/VBD ,/pct '/pct The/AT non-violence/NN became/VBD noisier/JJR ./pct
 And/CC then/RB Eichmann/NP was/BEDZ quoted/VBN as/CS saying/VBG ,/pct in/IN non-English/NN ,/pct that/CS Hitler's/NPg plan/NN to/TO exterminate/VB the/AT Jews/NPS was/BEDZ nonsense/NN ''/pct ./pct
-``/pct If/CS we/PPSS cannot /None tell/VB evil/NN ,/pct horror/NN ,/pct and/CC insanity/NN from/IN nonsense/NN ,/pct what/WDT is/BEZ the/AT future/NN of/IN humor/NN and/CC comedy/NN ''/pct ?/pct ?/pct
+``/pct If/CS we/PPSS cannot/MD* tell/VB evil/NN ,/pct horror/NN ,/pct and/CC insanity/NN from/IN nonsense/NN ,/pct what/WDT is/BEZ the/AT future/NN of/IN humor/NN and/CC comedy/NN ''/pct ?/pct ?/pct
 Moreland/NP asked/VBD ,/pct grimly/RB ./pct
 ``/pct Cryptic/JJ ''/pct ,/pct I/PPSS said/VBD ./pct
 ``/pct They/PPSS require/VB ,/pct for/IN existence/NN ,/pct a/AT brave/JJ spirit/NN and/CC a/AT high/JJ heart/NN ,/pct and/CC where/WRB do/DO you/PPSS find/VB these/DTS ?/pct ?/pct
@@ -41,10 +41,10 @@ In/IN our/PPg present/JJ era/NN of/IN Science/NN and/CC Angst/NN ,/pct the/AT he
 ``/pct I/PPSS know/VB what/WDT you/PPSS mean/VB ''/pct ,/pct Moreland/NP sighed/VBD ./pct
 ``/pct Last/AP year/NN your/PPg Tennessee/NP Williams/NP told/VBD our/PPg Dilys/NP Powell/NP ,/pct in/IN a/AT television/NN program/NN ,/pct that/CS it/PPS is/BEZ the/AT task/NN of/IN the/AT playwright/NN to/TO throw/VB light/NN into/IN the/AT dark/JJ corners/NNS of/IN the/AT human/NN heart/NN ./pct
 Like/CS almost/RB everybody/PN else/RB ,/pct he/PPS confused/VBD the/AT heart/NN ,/pct both/ABX as/CS organ/NN and/CC as/CS symbol/NN ,/pct with/IN the/AT disturbed/VBN psyche/NN ,/pct the/AT deranged/VBN glands/NNS ,/pct and/CC the/AT jumpy/JJ central/JJ nervous/JJ system/NN ./pct
-I'm /None not/NEG pleading/VBG for/IN the/AT heart/NN that/WPS leaps/VBZ up/RP when/WRB it/PPS beholds/VBZ a/AT rainbow/NN in/IN the/AT sky/NN ,/pct or/CC for/IN the/AT heart/NN that/WPS with/IN rapture/NN fills/VBZ and/CC dances/VBZ with/IN the/AT daffodils/NNS ./pct
+I'm/PPSSBEM not/NEG pleading/VBG for/IN the/AT heart/NN that/WPS leaps/VBZ up/RP when/WRB it/PPS beholds/VBZ a/AT rainbow/NN in/IN the/AT sky/NN ,/pct or/CC for/IN the/AT heart/NN that/WPS with/IN rapture/NN fills/VBZ and/CC dances/VBZ with/IN the/AT daffodils/NNS ./pct
 The/AT sentimental/JJ pure/JJ heart/NN of/IN Galahad/NP is/BEZ gone/VBN with/IN the/AT knightly/JJ years/NNS ,/pct but/CC I/PPSS still/RB believe/VB in/IN the/AT heart/NN of/IN the/AT George/NP Meredith/NP character/NN that/WPS was/BEDZ not/NEG made/VBN of/IN the/AT stuff/NN that/WPS breaks/VBZ ''/pct ./pct
 ``/pct We/PPSS no/AT longer/JJR have/HV Tom/NP Moore's/NPg and/CC Longfellow's/NPg '/pct heart/NN for/IN any/DTI fate/NN '/pct ,/pct either/RB ''/pct ,/pct I/PPSS said/VBD ./pct
-``/pct Moore/NP and/CC Longfellow/NP didn't /None have/HV the/AT fate/NN that/WPS faces/VBZ us/PPO ''/pct ,/pct Moreland/NP said/VBD ./pct
+``/pct Moore/NP and/CC Longfellow/NP didn't/DOD* have/HV the/AT fate/NN that/WPS faces/VBZ us/PPO ''/pct ,/pct Moreland/NP said/VBD ./pct
 ``/pct One/CD day/NN our/PPg species/NN promises/VBZ co-existence/NN ,/pct and/CC the/AT next/AP day/NN it/PPS threatens/VBZ co-extinction/NN ''/pct ./pct
 We/PPSS sat/VBD for/IN a/AT while/NN drinking/VBG in/IN silence/NN ./pct
 ``/pct The/AT heart/NN ''/pct ,/pct I/PPSS said/VBD finally/RB ,/pct ``/pct is/BEZ now/RB either/CC in/IN the/AT throat/NN or/CC the/AT mouth/NN or/CC the/AT stomach/NN or/CC the/AT shoes/NNS ./pct
@@ -68,7 +68,7 @@ I/PPSS stood/VBD up/RP and/CC began/VBD pacing/VBG ./pct
 ``/pct I/PPSS am/BEM worried/VBN about/IN the/AT current/JJ meanings/NNS of/IN the/AT word/NN funny/JJ ./pct
 It/PPS now/RB means/VBZ ominous/JJ ,/pct as/CS when/WRB one/PN speaks/VBZ of/IN a/AT funny/JJ sound/NN in/IN the/AT motor/NN ;/pct ;/pct
 disturbing/JJ ,/pct as/CS when/WRB one/PN says/VBZ that/CS a/AT friend/NN is/BEZ acting/VBG funny/RB ;/pct ;/pct
-and/CC frightening/VBG ,/pct as/CS when/WRB a/AT wife/NN tells/VBZ the/AT police/NNS that/CS it/PPS is/BEZ funny/JJ ,/pct but/CC her/PPg husband/NN hasn't /None been/BEN home/NR for/IN two/CD days/NNS and/CC nights/NNS ''/pct ./pct
+and/CC frightening/VBG ,/pct as/CS when/WRB a/AT wife/NN tells/VBZ the/AT police/NNS that/CS it/PPS is/BEZ funny/JJ ,/pct but/CC her/PPg husband/NN hasn't/HVZ* been/BEN home/NR for/IN two/CD days/NNS and/CC nights/NNS ''/pct ./pct
 Moreland/NP sat/VBD brooding/VBG for/IN a/AT full/JJ minute/NN ,/pct during/IN which/WDT I/PPSS made/VBD each/DT of/IN us/PPO a/AT new/JJ drink/NN ./pct
 He/PPS took/VBD his/PPg glass/NN ,/pct clinked/VBD it/PPO against/IN mine/PPgg ,/pct and/CC said/VBD ,/pct ``/pct Toujours/RB gai/JJ ,/pct what/WDT the/AT hell/NN ''/pct !/pct !/pct
 Borrowing/VBG a/AT line/NN from/IN Don/NP Marquis'/NPg Mehitabel/NP ./pct
@@ -91,12 +91,12 @@ The/AT rhinos/NNS would/MD panic/VB ,/pct screaming/VBG help/UH !/pct !/pct
 ``/pct You/PPSS think/VB the/AT Russians/NPS are/BER getting/VBG ahead/RB of/IN us/PPO in/IN comedy/NN ''/pct ?/pct ?/pct
 Moreland/NP demanded/VBD ./pct
 ``/pct Non-God/NP ,/pct no/RB ''/pct ,/pct I/PPSS said/VBD ./pct
-``/pct The/AT political/JJ and/CC intellectual/JJ Left/NN began/VBD fighting/VBG humor/NN and/CC comedy/NN years/NNS ago/RB ,/pct because/CS they/PPSS fear/VB things/NNS they/PPSS do/DO not/NEG understand/VB and/CC cannot /None manage/VB ,/pct such/JJ as/CS satire/NN and/CC irony/NN ,/pct such/JJ as/CS humor/NN and/CC comedy/NN ./pct
+``/pct The/AT political/JJ and/CC intellectual/JJ Left/NN began/VBD fighting/VBG humor/NN and/CC comedy/NN years/NNS ago/RB ,/pct because/CS they/PPSS fear/VB things/NNS they/PPSS do/DO not/NEG understand/VB and/CC cannot/MD* manage/VB ,/pct such/JJ as/CS satire/NN and/CC irony/NN ,/pct such/JJ as/CS humor/NN and/CC comedy/NN ./pct
 Nevertheless/RB ,/pct like/CS any/DTI other/AP human/NN being/NN upon/IN whom/WPO the/AT spotlight/NN of/IN the/AT world/NN plays/VBZ continually/RB ,/pct Khrushchev/NP ,/pct the/AT anti-personality/JJ cultist/NN ,/pct has/HVZ become/VBN a/AT comic/JJ actor/NN ,/pct or/CC thinks/VBZ he/PPS has/HVZ ./pct
 In/IN his/PPg famous/JJ meeting/NN with/IN Nixon/NP a/AT couple/NN of/IN years/NNS ago/RB he/PPS seemed/VBD to/TO believe/VB that/CS he/PPS was/BEDZ as/QL funny/JJ as/CS Ed/NP Wynn/NP ./pct
 But/CC ,/pct like/CS Caesar/NP ,/pct he/PPS has/HVZ only/RB one/CD joke/NN ,/pct so/QL far/RB as/CS I/PPSS can/MD find/VB out/RP ./pct
 It/PPS consists/VBZ in/IN saying/VBG ,/pct '/pct That/WPS would/MD be/BE sending/VBG the/AT goat/NN to/TO look/VB after/RB the/AT cabbage/NN ./pct
-Why/WRB in/IN the/AT name/NN of/IN his/PPg non-God/NP doesn't /None he/PPS vary/VB it/PPO a/AT bit/NN ''/pct ?/pct ?/pct
+Why/WRB in/IN the/AT name/NN of/IN his/PPg non-God/NP doesn't/DOZ* he/PPS vary/VB it/PPO a/AT bit/NN ''/pct ?/pct ?/pct
 ``/pct Such/JJ as/CS ''/pct ?/pct ?/pct
 Moreland/NP asked/VBD ./pct
 ``/pct Such/JJ as/CS '/pct sending/VBG the/AT cat/NN to/TO guard/VB the/AT mice/NNS '/pct ,/pct or/CC '/pct the/AT falcon/NN to/TO protect/VB the/AT dove/NN '/pct ,/pct or/CC most/QL terribly/RB sharp/JJ of/IN all/ABN ,/pct '/pct the/AT human/NN being/NN to/TO save/VB humanity/NN '/pct ''/pct ./pct
@@ -114,7 +114,7 @@ It/PPS seems/VBZ to/IN me/PPO that/CS the/AT first/OD human/NN being/NN to/TO re
 Why/WRB do/DO we/PPSS not/NEG realize/VB that/CS no/AT ideology/NN believes/VBZ so/QL much/RB in/IN itself/PPL as/CS it/PPS disbelieves/VBZ in/IN something/PN else/RB ?/pct ?/pct
 Forty/CD years/NNS ago/RB an/AT English/JJ writer/NN ,/pct W./NP L./NP George/NP ,/pct dealt/VBD with/IN this/DT subject/NN in/IN Eddies/NNS of/IN the/AT Day/NN ,/pct and/CC said/VBD ,/pct as/CS an/AT example/NN ,/pct that/CS '/pct Saint/NN George/NP for/IN Merry/JJ England/NP '/pct would/MD not/NEG start/VB a/AT spirit/NN half/QL so/QL quickly/RB as/CS '/pct Strike/VB frog-eating/JJ Frenchmen/NPS dead/JJ '/pct ''/pct !/pct !/pct
 ``/pct There/EX was/BEDZ also/RB Gott/NP strafe/VB Angleterre/NP ''/pct ,/pct Moreland/NP reminded/VBD me/PPO ,/pct ``/pct and/CC Carthago/NP delenda/VBG est/BEZ ,/pct or/CC if/CS you/PPSS will/MD ,/pct Deus/NP strafe/VB Carthage/NP ./pct
-It/PPS isn't /None what/WDT the/AT ideologist/NN believes/VBZ in/RP ,/pct but/CC what/WDT he/PPS hates/VBZ ,/pct that/CS puts/VBZ the/AT world/NN in/IN jeopardy/NN ./pct
+It/PPS isn't/BEZ* what/WDT the/AT ideologist/NN believes/VBZ in/RP ,/pct but/CC what/WDT he/PPS hates/VBZ ,/pct that/CS puts/VBZ the/AT world/NN in/IN jeopardy/NN ./pct
 This/DT is/BEZ the/AT force/NN ,/pct in/IN our/PPg time/NN and/CC in/IN every/AT other/AP time/NN ,/pct that/WPS urges/VBZ the/AT paranoiac/NN and/CC the/AT manic-depressive/JJ to/TO become/VB head/NN of/IN a/AT state/NN ./pct
 Complete/JJ power/NN not/NEG only/RB corrupts/VBZ but/CC it/PPS also/RB attracts/VBZ the/AT mad/NNS ./pct
 There/EX is/BEZ a/AT bitter/JJ satire/NN for/IN a/AT future/JJ writer/NN in/IN that/DT ''/pct ./pct

@@ -1,17 +1,17 @@
-``/pct So/CS it/PPS wasn't /None the/AT earthquake/NN that/WPS made/VBD him/PPO return/VB to/IN his/PPg village/NN ''/pct !/pct !/pct
+``/pct So/CS it/PPS wasn't/BEDZ* the/AT earthquake/NN that/WPS made/VBD him/PPO return/VB to/IN his/PPg village/NN ''/pct !/pct !/pct
 ``/pct No/RB ./pct
-Now/RB dammit/UH ,/pct I/PPSS don't /None want/VB to/TO go/VB into/IN any/DTI more/AP explanations/NNS ./pct
+Now/RB dammit/UH ,/pct I/PPSS don't/DO* want/VB to/TO go/VB into/IN any/DTI more/AP explanations/NNS ./pct
 Here/RB comes/VBZ Jason/NP ./pct
 Keep/VB this/DT to/IN yourself/PPL ''/pct ./pct
 Reverend/NP Jason/NP ,/pct looking/VBG worried/VBN ,/pct hurried/VBD toward/IN us/PPO ./pct
 ``/pct Anything/PN wrong/JJ ,/pct cap'n/NN ?/pct ?/pct
 The/AT men/NNS seem/VB to/TO think/VB so/RB ''/pct ./pct
 ``/pct Dirion/NP found/VBD a/AT large/JJ war/NN party/NN south/NR of/IN us/PPO ./pct
-They'll /None probably/RB attack/VB at/IN dawn/NN ''/pct ,/pct Montero/NP said/VBD ./pct
+They'll/PPSSMD probably/RB attack/VB at/IN dawn/NN ''/pct ,/pct Montero/NP said/VBD ./pct
 He/PPS brushed/VBD past/IN the/AT clergyman/NN and/CC walked/VBD into/IN the/AT center/NN of/IN the/AT camp/NN ./pct
 Using/VBG his/PPg hands/NNS as/CS a/AT trumpet/NN he/PPS shouted/VBD ,/pct ``/pct Fort/VB up/RP !/pct !/pct
 Fort/VB up/RP !/pct !/pct
-There's /None a/AT large/JJ war/NN party/NN on/IN their/PPg way/NN ''/pct !/pct !/pct
+There's/EXBEZ a/AT large/JJ war/NN party/NN on/IN their/PPg way/NN ''/pct !/pct !/pct
 For/IN a/AT second/OD ,/pct engages/NNS ,/pct cooks/NNS ,/pct voyageurs/NNS appeared/VBD struck/VBN dumb/JJ ./pct
 Then/JJ Little/JJ Billy/NP began/VBD shouting/VBG orders/NNS to/TO round/VB up/RP the/AT ponies/NNS and/CC fill/VB the/AT water/NN buckets/NNS and/CC for/IN the/AT cooks/NNS to/TO hurry/VB up/RP with/IN the/AT meal/NN ./pct
 They/PPSS all/ABN flew/VBD into/IN action/NN ./pct
@@ -20,12 +20,12 @@ The/AT Aricaras/NPS treated/VBD us/PPO like/CS friends/NNS ./pct
 And/CC here/RB all/ABN the/AT time/NN you/PPSS knew/VBD the/AT Sioux/NPS would/MD be/BE using/VBG our/PPg rifles/NNS on/IN them/PPO !/pct !/pct
 God/NP ,/pct what/WDT a/AT world/NN you/PPSS people/NNS live/VB in/RP ''/pct ./pct
 Oso/NP gave/VBD me/PPO an/AT unruffled/JJ look/NN ./pct
-``/pct Old/JJ Knife's /None got/VBN the/AT largest/JJT war/NN party/NN ever/RB seen/VBN on/IN the/AT river/NN ''/pct ,/pct he/PPS said/VBD calmly/RB ./pct
+``/pct Old/JJ Knife's/NNHVZ got/VBN the/AT largest/JJT war/NN party/NN ever/RB seen/VBN on/IN the/AT river/NN ''/pct ,/pct he/PPS said/VBD calmly/RB ./pct
 ``/pct What/WDT would/MD you/PPO have/HV done/VBN in/IN Montero's/NPg moccasins/NNS ?/pct ?/pct
 Let/VB Old/JJ Knife/NN come/VB up/RP and/CC kill/VB you/PPO and/CC your/PPg people/NNS ,/pct or/CC would/MD you/PPSS steer/VB him/PPO on/IN someone/PN else/RB ''/pct ?/pct ?/pct
 He/PPS shook/VBD his/PPg head/NN ./pct
 ``/pct Mr./NP Manuel/NP did/DOD that/DT in/IN the/AT war/NN ./pct
-That's /None why/WRB the/AT British/JJ never/RB got/VBN the/AT tribes/NNS to/TO fight/VB for/IN the/AT King/NN ./pct
+That's/DTBEZ why/WRB the/AT British/JJ never/RB got/VBN the/AT tribes/NNS to/TO fight/VB for/IN the/AT King/NN ./pct
 Mr./NP Manuel/NP whispered/VBD in/IN the/AT ears/NNS of/IN the/AT Sioux/NPS that/CS the/AT Cheyennes/NPS were/BED comin'/NN to/TO raid/VB 'em/PPO for/IN their/PPg horses/NNS ./pct
 Then/RB he/PPS went/VBD on/IN to/IN the/AT Cheyennes/NPS and/CC told/VBD them/PPO that/CS the/AT Sioux/NPS was/BEDZ goin'/VBG to/TO move/VB up/RP ./pct
 He/PPS did/DOD that/DT with/IN all/ABN the/AT Nations/NNS ./pct
@@ -34,19 +34,19 @@ The/AT War/NN Department/NN wrote/VBD Mr./NP Manuel/NP a/AT letter/NN and/CC sai
 I/PPSS saw/VBD that/DT letter/NN ./pct
 He/PPS carried/VBD it/PPO in/IN a/AT little/AP wallet/NN made/VBD of/IN fish/NN skin/NN ''/pct ./pct
 ``/pct But/CC that/DT was/BEDZ war/NN ''/pct ,/pct I/PPSS said/VBD ./pct
-``/pct There's /None no/AT war/NN on/RP now/RB ''/pct ./pct
-``/pct You're /None wrong/JJ ,/pct Matt/NP ./pct
-In/IN this/DT country/NN there's /None a/AT war/NN on/RP every/AT time/NN the/AT grass/NN turns/VBZ green/NN ./pct
+``/pct There's/EXBEZ no/AT war/NN on/RP now/RB ''/pct ./pct
+``/pct You're/PPSSBER wrong/JJ ,/pct Matt/NP ./pct
+In/IN this/DT country/NN there's/EXBEZ a/AT war/NN on/RP every/AT time/NN the/AT grass/NN turns/VBZ green/NN ./pct
 First/RB it/PPS was/BEDZ the/AT Nations/NNS against/IN themselves/PPLS ,/pct then/RB it/PPS was/BEDZ them/PPO against/IN the/AT whites/NNS ./pct
-And/CC it's /None goin'/VBG to/TO go/VB on/RP like/CS this/DT year/NN after/IN year/NN until/CS the/AT white/JJ people/NNS take/VB over/RP this/DT land/NN ''/pct ./pct
+And/CC it's/PPSBEZ goin'/VBG to/TO go/VB on/RP like/CS this/DT year/NN after/IN year/NN until/CS the/AT white/JJ people/NNS take/VB over/RP this/DT land/NN ''/pct ./pct
 I/PPSS remember/VB being/BEG told/VBN it/PPS would/MD happen/VB so/QL fast/JJ people/NNS would/MD think/VB it/PPS took/VBD place/NN overnight/RB ./pct
-``/pct That's /None why/WRB this/DT company's /None important/JJ ./pct
+``/pct That's/DTBEZ why/WRB this/DT company's/NNBEZ important/JJ ./pct
 Once/CS we/PPSS get/VB over/IN the/AT mountains/NNS others/NNS will/MD come/VB along/RB ./pct
-That's /None why/WRB the/AT Trust/NN don't /None want/VB us/PPO to/TO make/VB it/PPO ./pct
+That's/DTBEZ why/WRB the/AT Trust/NN don't/DO* want/VB us/PPO to/TO make/VB it/PPO ./pct
 That/DT bastard/NN Chambers/NP !/pct !/pct
---/pct Old/JJ Knife's /None not/NEG the/AT only/AP chief/NN he'll /None get/VB to/TO do/DO his/PPg dirty/JJ work/NN !/pct !/pct
-Before/CS we/PPSS get/VB through/RP he'll /None have/HV the/AT Blackfeet/NPS hankerin'/VBG for/IN our/PPg hair/NN and/CC our/PPg goods/NNS ./pct
-Well/UH ,/pct talkin'/VBG ain't /None goin'/VBG to/TO help/VB --/pct let's /None fort/NN up/RP ''/pct !/pct !/pct
+--/pct Old/JJ Knife's/NNBEZ not/NEG the/AT only/AP chief/NN he'll/PPSMD get/VB to/TO do/DO his/PPg dirty/JJ work/NN !/pct !/pct
+Before/CS we/PPSS get/VB through/RP he'll/PPSMD have/HV the/AT Blackfeet/NPS hankerin'/VBG for/IN our/PPg hair/NN and/CC our/PPg goods/NNS ./pct
+Well/UH ,/pct talkin'/VBG ain't/BEZ* goin'/VBG to/TO help/VB --/pct let's/VBPPO fort/NN up/RP ''/pct !/pct !/pct
 As/CS I/PPSS dug/VBD in/RP behind/IN one/CD of/IN the/AT bales/NNS we/PPSS were/BED using/VBG as/CS protection/NN ,/pct I/PPSS grudgingly/RB found/VBD myself/PPL agreeing/VBG with/IN Oso's/NPg logic/NN ,/pct especially/RB when/WRB I/PPSS imagined/VBD what/WDT would/MD have/HV happened/VBN to/IN Missy/NP if/CS Old/JJ Knife's/NNg large/JJ party/NN of/IN screeching/VBG warriors/NNS had/HVD overrun/NN our/PPg company/NN ./pct
 For/CS ,/pct unlike/IN the/AT Sioux/NPS and/CC the/AT Crows/NPS ,/pct the/AT Aricaras/NPS are/BER not/NEG great/JJ horsemen/NNS ,/pct nor/CC are/BER they/PPSS aggressive/JJ like/CS the/AT savage/JJ Blackfeet/NPS ./pct
 More/RBR of/IN an/AT agricultural/JJ nation/NN ,/pct they/PPSS have/HV relied/VBN on/IN their/PPg warriors/NNS only/RB for/IN defense/NN and/CC for/IN survival/NN in/IN the/AT endless/JJ wars/NNS of/IN the/AT plains/NNS ./pct
@@ -59,7 +59,7 @@ What/WPS do/DO we/PPSS care/VB ''/pct ?/pct ?/pct
 Reverend/NP Jason/NP was/BEDZ understandably/RB bitter/JJ ./pct
 ``/pct It/PPS was/BEDZ a/AT terrible/JJ thing/NN to/TO do/DO ./pct
 Those/DTS little/JJ children/NNS ./pct
-But/CC Oso/NP replied/VBD calmly/RB ,/pct ``/pct Trouble/NN ain't /None easy/JJ to/TO dodge/VB out/RP in/IN this/DT country/NN ,/pct rev'rend/NP ''/pct ./pct
+But/CC Oso/NP replied/VBD calmly/RB ,/pct ``/pct Trouble/NN ain't/BEZ* easy/JJ to/TO dodge/VB out/RP in/IN this/DT country/NN ,/pct rev'rend/NP ''/pct ./pct
 28/CD ./pct
 Attack/NN
 Gray/JJ Eyes/NNS attacked/VBD our/PPg camp/NN just/RB as/CS the/AT first/OD pink/JJ threads/NNS stitched/VBD together/RB the/AT hills/NNS and/CC the/AT sky/NN ./pct
@@ -69,21 +69,21 @@ He/PPS had/HVD ordered/VBN the/AT ponies/NNS brought/VBN inside/IN the/AT fortif
 The/AT pony/NN herd/NN was/BEDZ the/AT one/CD flaw/NN in/IN our/PPg defense/NN ;/pct ;/pct
 the/AT Rees/NPS undoubtedly/RB would/MD try/VB to/TO cut/VB down/RP as/QL many/AP of/IN the/AT animals/NNS as/CS possible/JJ ./pct
 Wildly/RB bucking/VBG horses/NNS would/MD make/VB the/AT position/NN difficult/JJ to/TO defend/VB against/IN charging/VBG warriors/NNS ./pct
-The/AT cooks/NNS had/HVD prepared/VBN one/CD of/IN the/AT best/JJT meals/NNS we'd /None had/HVN in/IN a/AT long/JJ time/NN ,/pct and/CC on/IN Montero's/NPg orders/NNS had/HVD baked/VBN enough/AP bread/NN to/TO last/VB the/AT day/NN ./pct
+The/AT cooks/NNS had/HVD prepared/VBN one/CD of/IN the/AT best/JJT meals/NNS we'd/PPSSHVD had/HVN in/IN a/AT long/JJ time/NN ,/pct and/CC on/IN Montero's/NPg orders/NNS had/HVD baked/VBN enough/AP bread/NN to/TO last/VB the/AT day/NN ./pct
 Buckets/NNS were/BED filled/VBN ,/pct the/AT herd/NN fed/VBD and/CC watered/VBD ./pct
 The/AT worst/JJT part/NN had/HVD been/BEN the/AT waiting/NN ;/pct ;/pct
-although/CS we/PPSS didn't /None expect/VB the/AT attack/NN before/IN dawn/NN ,/pct the/AT long/JJ cloudy/JJ night/NN ,/pct filled/VBN with/IN the/AT sounds/NNS of/IN the/AT industrious/JJ insects/NNS ,/pct seemed/VBD endless/JJ ./pct
+although/CS we/PPSS didn't/DOD* expect/VB the/AT attack/NN before/IN dawn/NN ,/pct the/AT long/JJ cloudy/JJ night/NN ,/pct filled/VBN with/IN the/AT sounds/NNS of/IN the/AT industrious/JJ insects/NNS ,/pct seemed/VBD endless/JJ ./pct
 Coyotes/NNS and/CC hunting/VBG wolves/NNS sounded/VBD like/CS signaling/VBG Indian/JJ scouts/NNS ,/pct the/AT whinny/NN of/IN a/AT restless/JJ pony/NN made/VBD one's/PNg skin/NN crawl/VB ./pct
 Oso/NP slept/VBD unconcernedly/RB ,/pct his/PPg rifle/NN cradled/VBD in/IN his/PPg arms/NNS ;/pct ;/pct
-I/PPSS didn't /None catch/VB a/AT wink/NN ./pct
+I/PPSS didn't/DOD* catch/VB a/AT wink/NN ./pct
 Every/AT time/NN I/PPSS closed/VBD my/PPg eyes/NNS ,/pct I/PPSS saw/VBD Gray/JJ Eyes/NNS rushing/VBG at/IN me/PPO with/IN a/AT knife/NN ./pct
 It/PPS was/BEDZ a/AT relief/NN when/WRB they/PPSS finally/RB came/VBD ./pct
 They/PPSS poured/VBD through/IN the/AT opening/NN in/IN the/AT valley/NN ,/pct then/RB spread/VB out/RP in/IN a/AT long/JJ line/NN to/TO come/VB at/IN us/PPO ,/pct brandishing/VBG their/PPg lances/NNS and/CC filling/VBG the/AT morning/NN with/IN their/PPg spine-chilling/JJ scalp/NN cry/NN ./pct
-``/pct Oso/NP ''/pct ,/pct Montero/NP called/VBD ``/pct I'll /None get/VB Gray/JJ Eyes/NNS ''/pct ./pct
-``/pct That'll /None be/BE a/AT pleasure/NN to/TO see/VB ''/pct ,/pct the/AT big/JJ black/JJ murmured/VBD as/CS he/PPS stared/VBD down/IN the/AT barrel/NN of/IN his/PPg rifle/NN ./pct
+``/pct Oso/NP ''/pct ,/pct Montero/NP called/VBD ``/pct I'll/PPSSMD get/VB Gray/JJ Eyes/NNS ''/pct ./pct
+``/pct That'll/WPSMD be/BE a/AT pleasure/NN to/TO see/VB ''/pct ,/pct the/AT big/JJ black/JJ murmured/VBD as/CS he/PPS stared/VBD down/IN the/AT barrel/NN of/IN his/PPg rifle/NN ./pct
 ``/pct Hold/VB your/PPg fire/NN ''/pct ,/pct Montero/NP was/BEDZ shouting/VBG ./pct
 ``/pct Wait/VB until/IN my/PPg shot/NN ./pct
-I'll /None shoot/VB the/AT first/OD man/NN who/WPS doesn't /None ''/pct ./pct
+I'll/PPSSMD shoot/VB the/AT first/OD man/NN who/WPS doesn't/DOZ* ''/pct ./pct
 I/PPSS could/MD see/VB them/PPO in/IN my/PPg sights/NNS ./pct
 They/PPSS were/BED about/RB a/AT mile/NN off/RP ;/pct ;/pct
 under/IN me/PPO the/AT ground/NN quivered/VBD slightly/RB ./pct
@@ -109,14 +109,14 @@ At/IN the/AT last/AP second/NN I/PPSS dropped/VBD my/PPg sights/NNS from/IN the/
 I/PPSS saw/VBD the/AT pony/NN fall/VB like/CS a/AT stone/NN and/CC the/AT young/JJ warrior/NN flew/VBD over/IN its/PPg head/NN ,/pct bouncing/VBG like/CS a/AT rubber/NN ball/NN ./pct
 He/PPS started/VBD to/TO run/VB but/CC Oso's/NPg shot/NN caught/VBD him/PPO on/IN the/AT wing/NN ./pct
 He/PPS jerked/VBD once/RB in/IN the/AT grass/NN and/CC lay/VBD still/RB ./pct
-``/pct If/CS you're /None goin'/VBG to/TO kill/VB 'em/PPO --/pct !/pct !/pct
+``/pct If/CS you're/PPSSBER goin'/VBG to/TO kill/VB 'em/PPO --/pct !/pct !/pct
 Kill/VB 'em/PPO ''/pct !/pct !/pct
 Oso/NP growled/VBD ./pct
 What/WDT else/RB he/PPS said/VBD was/BEDZ lost/VBN in/IN the/AT rattle/NN of/IN gunfire/NN on/IN all/ABN sides/NNS ./pct
 The/AT Aricaras/NPS broke/VBD under/IN the/AT devastating/VBG fire/NN ,/pct wheeled/VBD and/CC retreated/VBD ./pct
 ``/pct Lead/VB up/RP !/pct !/pct
 Lead/VB up/RP !/pct !/pct
-They'll /None be/BE back/RB ''/pct !/pct !/pct
+They'll/PPSSMD be/BE back/RB ''/pct !/pct !/pct
 Montero/NP was/BEDZ shouting/VBG ./pct
 Far/RB up/IN the/AT valley/NN I/PPSS could/MD see/VB the/AT Rees/NPS circling/VBG and/CC reorganizing/VBG ./pct
 Out/RP in/IN front/NN of/IN our/PPg walls/NNS the/AT grass/NN was/BEDZ covered/VBN with/IN dead/JJ and/CC dying/VBG men/NNS ,/pct war/NN shields/NNS ,/pct lances/NNS ,/pct blankets/NNS and/CC wounded/VBN and/CC dead/JJ horses/NNS ./pct
@@ -128,7 +128,7 @@ One/CD of/IN the/AT warriors/NNS suddenly/RB leaped/VBD to/IN his/PPg feet/NNS a
 His/PPg legs/NNS pumped/VBD furiously/RB ,/pct his/PPg long/JJ black/JJ hair/NN streamed/VBD out/RP behind/IN him/PPO ./pct
 There/EX was/BEDZ a/AT ragged/JJ volley/NN ./pct
 He/PPS was/BEDZ dead/JJ before/CS he/PPS hit/VBD the/AT ground/NN ./pct
-``/pct For/IN Christ's/NPg sake/NN ,/pct don't /None waste/VB your/PPg powder/NN on/IN one/CD of/IN 'em/PPO ''/pct !/pct !/pct
+``/pct For/IN Christ's/NPg sake/NN ,/pct don't/DO* waste/VB your/PPg powder/NN on/IN one/CD of/IN 'em/PPO ''/pct !/pct !/pct
 Montero/NP shouted/VBD furiously/RB ./pct
 ``/pct Wait/VB for/IN the/AT charge/NN !/pct !/pct
 The/AT charge/NN ,/pct I/PPSS tell/VB you/PPO ''/pct !/pct !/pct
@@ -151,7 +151,7 @@ Our/PPg rolling/VBG volley/NN swept/VBD most/AP of/IN the/AT other/AP riders/NNS
 But/CC a/AT few/AP reached/VBN our/PPg wall/NN ./pct
 I/PPSS heard/VBD the/AT whir/NN of/IN an/AT ax/NN and/CC a/AT Canadian's/NPg face/NN burst/VB apart/RB in/IN a/AT bloody/JJ spray/NN ./pct
 I/PPSS saw/VBD Little/JJ Billy/NP rise/VB and/CC fire/VB almost/RB point/NN blank/JJ and/CC an/AT Indian's/NPg face/NN became/VBD shattered/VBN flesh/NN and/CC bone/NN ./pct
-A/AT second/OD leaped/VBD from/IN his/PPg horse/NN to/IN the/AT top/NN of/IN the/AT bale/NN ,/pct firing/VBG four/CD arrows/NNS in/IN such/JJ rapid/JJ succession/NN it/PPS didn't /None seem/VB possible/JJ they/PPSS were/BED in/IN flight/NN ./pct
+A/AT second/OD leaped/VBD from/IN his/PPg horse/NN to/IN the/AT top/NN of/IN the/AT bale/NN ,/pct firing/VBG four/CD arrows/NNS in/IN such/JJ rapid/JJ succession/NN it/PPS didn't/DOD* seem/VB possible/JJ they/PPSS were/BED in/IN flight/NN ./pct
 Men/NNS screamed/VBD ./pct
 Oso/NP reached/VBD up/RP ,/pct jerked/VBD the/AT buck/NN from/IN the/AT bale/NN and/CC snapped/VBD his/PPg neck/NN ./pct
 Other/AP Indians/NPS were/BED running/VBG at/IN the/AT ponies/NNS ,/pct shrilling/VBG and/CC waving/VBG blankets/NNS ./pct

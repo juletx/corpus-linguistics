@@ -7,7 +7,7 @@ Washing/VBG is/BEZ continued/VBN for/IN 30/CD minutes/NNS or/CC for/IN a/AT peri
 At/IN the/AT conclusion/NN of/IN the/AT washing/NN ,/pct 8/CD liters/NNS of/IN water/NN at/IN 90-degrees-F/NNS (/pct 32*0C./NIL )/pct are/BER automatically/RB metered/VBN from/IN the/AT rinse/NN reservoir/NN to/IN the/AT washing/VBG tubs/NNS ,/pct 4/CD liters/NNS to/IN each/DT tub/NN ./pct
 This/DT operation/NN requires/VBZ from/IN 10/CD to/IN 12/CD minutes/NNS ./pct
 During/IN the/AT rinsing/VBG operation/NN the/AT volume/NN in/IN the/AT tubs/NNS gradually/RB increases/VBZ until/CS overflow/NN from/IN the/AT main/JJS drain/NN begins/VBZ ./pct
-At/IN this/DT point/NN the/AT drains/NNS are/BER readjusted/VBN so/CS that/CS the/AT suds/NNS box/NN drain/NN will/MD discharge/VB directly/RB into/IN the/AT waste/NN line/NN and/CC the/AT main/JJS tub/NN drain/NN is/BEZ set/VBN at/IN the/AT 2-1/2/CD mark/NN on/IN the/AT drain/NN gauge/NN ./pct
+At/IN this/DT point/NN the/AT drains/NNS are/BER readjusted/VBN so/CS that/CS the/AT suds/NNS box/NN drain/NN will/MD discharge/VB directly/RB into/IN the/AT waste/NN line/NN and/CC the/AT main/JJS tub/NN drain/NN is/BEZ set/VBN at/IN the/AT 2-1:2/CD mark/NN on/IN the/AT drain/NN gauge/NN ./pct
 When/WRB all/ABN of/IN the/AT rinse/NN water/NN has/HVZ passed/VBN from/IN the/AT reservoir/NN to/IN the/AT tubs/NNS the/AT main/JJS drains/NNS are/BER lowered/VBN to/TO permit/VB complete/JJ draining/NN of/IN the/AT tubs/NNS ./pct
 The/AT run/NN is/BEZ complete/JJ when/WRB all/ABN the/AT water/NN has/HVZ drained/VBN off/RP into/IN the/AT waste/NN line/NN ./pct
 By/IN this/DT procedure/NN rinsing/VBG progresses/VBZ in/IN two/CD stages/NNS ,/pct first/RB by/IN dilution/NN until/IN the/AT time/NN when/WRB the/AT drains/NNS are/BER separated/VBN and/CC thereafter/RB by/IN displacement/NN of/IN the/AT soil-bearing/JJ liquor/NN by/IN clean/JJ rinse/NN water/NN ,/pct since/CS soiled/VBN liquor/NN squeezed/VBN from/IN the/AT specimens/NNS at/IN the/AT nip/NN passes/VBZ directly/RB to/IN waste/NN from/IN the/AT suds/NNS box/NN drains/NNS ./pct
@@ -59,7 +59,7 @@ Flatiron/NN ,/pct electric/JJ --/pct approximately/RB 3/CD lb./NN
 tension/NN presser/NN --/pct consisting/VBG of/IN a/AT padded/VBN ironing/VBG board/NN from/IN which/WDT extend/VB clamping/VBG members/NNS on/IN all/ABN four/CD sides/NNS ./pct
 Two/CD of/IN the/AT clamps/NNS are/BER fixed/VBN to/IN the/AT edges/NNS of/IN the/AT board/NN whereas/CS two/CD clamps/NNS travel/VB on/IN guide/NN rails/NNS opposite/IN the/AT fixed/VBN clamps/NNS ./pct
 The/AT movable/JJ clamps/NNS travel/VB on/IN carriages/NNS which/WDT ride/VB the/AT rails/NNS and/CC are/BER drawn/VBN by/IN dead-weight/NN loading/VBG ./pct
-Sets/NNS of/IN weights/NNS are/BER provided/VBN so/CS that/CS the/AT load/NN can/MD be/BE selected/VBN in/IN the/AT range/NN of/IN 1/2/CD to/IN 4/CD pounds/NNS ./pct
+Sets/NNS of/IN weights/NNS are/BER provided/VBN so/CS that/CS the/AT load/NN can/MD be/BE selected/VBN in/IN the/AT range/NN of/IN 1:2/CD to/IN 4/CD pounds/NNS ./pct
 A/AT perforated/VBN aluminum/NN plate/NN ,/pct used/VBN to/TO provide/VB the/AT drying/VBG surface/NN ,/pct is/BEZ heated/VBN by/IN means/NN of/IN a/AT flatiron/NN ./pct
 A/AT special/JJ template/NN is/BEZ furnished/VBN with/IN the/AT apparatus/NN to/TO enable/VB marking/VBG a/AT specimen/NN for/IN a/AT central/JJ measuring/VBG area/NN and/CC the/AT fabric/NN extensions/NNS to/IN the/AT clamps/NNS (/pct see/VB Fig./NN 2/CD )/pct ./pct
 Knit/NN shrinkage/NN gauge/NN --/pct consisting/VBG of/IN a/AT set/NN of/IN 20/CD mounting/VBG pins/NNS set/VBN in/IN guides/NNS in/IN radial/JJ slots/NNS (/pct Fig./NN 1/CD )/pct ./pct
@@ -89,7 +89,7 @@ Woven/VBN or/CC warp/NN knitted/VBN fabrics/NNS to/TO be/BE subjected/VBN to/IN 
 Each/DT specimen/NN is/BEZ at/IN least/AP 25/CD inches/NNS by/IN 25/CD inches/NNS ./pct
 Place/VB the/AT template/NN (/pct Fig./NN 2/CD )/pct on/IN the/AT fabric/NN so/CS that/CS the/AT sides/NNS of/IN the/AT 10/CD inch/NN square/NN cut/VBN out/RP of/IN the/AT template/NN are/BER parallel/RB to/IN the/AT warp/NN and/CC filling/NN for/IN woven/VBN fabrics/NNS ,/pct or/CC the/AT wales/NNS and/CC courses/NNS for/IN knitted/VBN fabrics/NNS ,/pct and/CC so/CS that/CS the/AT same/AP amount/NN of/IN fabric/NN extends/VBZ beyond/IN the/AT edges/NNS of/IN the/AT template/NN on/IN all/ABN sides/NNS ./pct
 Mark/VB the/AT specimen/NN at/IN the/AT outer/JJ edges/NNS of/IN the/AT template/NN with/IN pen/NN and/CC indelible/JJ ink/NN ;/pct ;/pct
-also/RB place/VB three/CD dots/NNS on/IN the/AT specimen/NN at/IN each/DT side/NN of/IN the/AT 10/CD inch/NN square/NN ,/pct one/CD dot/NN at/IN midpoint/NN ,/pct and/CC one/CD at/IN approximately/RB 1/2/CD inch/NN from/IN each/DT corner/NN ./pct
+also/RB place/VB three/CD dots/NNS on/IN the/AT specimen/NN at/IN each/DT side/NN of/IN the/AT 10/CD inch/NN square/NN ,/pct one/CD dot/NN at/IN midpoint/NN ,/pct and/CC one/CD at/IN approximately/RB 1:2/CD inch/NN from/IN each/DT corner/NN ./pct
 Measure/VB and/CC record/VB ./pct
 Circular/JJ knitted/VBN fabrics/NNS to/TO be/BE subjected/VBN to/IN restorative/JJ procedure/NN 2/CD ,/pct (/pct knit/NN shrinkage/NN gauge/NN )/pct ./pct
 Each/DT specimen/NN is/BEZ approximately/RB 16/CD inches/NNS square/JJ ./pct

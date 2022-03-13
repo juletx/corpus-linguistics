@@ -108,17 +108,17 @@ Joe/NP naturally/RB ruled/VBD that/CS a/AT ball/NN be/BE dropped/VBN from/IN alo
 ``/pct I/PPSS knew/VBD it/PPO all/ABN along/RB ''/pct ,/pct confessed/VBD Arnold/NP with/IN a/AT grin/NN ,/pct ``/pct but/CC I/PPSS just/RB happened/VBD to/TO think/VB how/WRB much/QL nicer/JJR it/PPS would/MD be/BE to/TO drop/VB one/CD way/QL up/RP there/RB ''/pct ./pct
 For/IN a/AT serious/JJ young/JJ man/NN who/WPS plays/VBZ golf/NN with/IN a/AT serious/JJ intensity/NN ,/pct Palmer/NP has/HVZ such/ABL an/AT inherent/JJ sense/NN of/IN humor/NN that/CS it/PPS relieves/VBZ the/AT strain/NN and/CC keeps/VBZ his/PPg nerves/NNS from/IN jangling/VBG like/IN banjo/NN strings/NNS ./pct
 Yet/RB he/PPS remains/VBZ the/AT fiercest/JJT of/IN competitors/NNS ./pct
-He'll /None even/RB bull/NN head-on/RB into/IN the/AT rules/NNS when/WRB he/PPS is/BEZ sure/JJ he's /None right/JJ ./pct
-That's /None how/WRB he/PPS first/RB won/VBD the/AT Masters/NNS in/IN 1958/CD ./pct
+He'll/PPSMD even/RB bull/NN head-on/RB into/IN the/AT rules/NNS when/WRB he/PPS is/BEZ sure/JJ he's/PPSBEZ right/JJ ./pct
+That's/DTBEZ how/WRB he/PPS first/RB won/VBD the/AT Masters/NNS in/IN 1958/CD ./pct
 It/PPS happened/VBD on/IN the/AT twelfth/OD hole/NN ,/pct a/AT 155-yarder/NN ./pct
 Arnold's/NPg iron/NN shot/NN from/IN the/AT tee/NN burrowed/VBD into/IN the/AT bunker/NN guarding/VBG the/AT green/NN ,/pct an/AT embankment/NN that/WPS had/HVD become/VBN soft/JJ and/CC spongy/JJ from/IN the/AT rains/NNS ,/pct thereby/RB bringing/VBG local/JJ rules/NNS into/IN force/NN ./pct
 Ruling/VBG from/IN on/IN high/JJ
-``/pct I/PPSS can/MD remove/VB the/AT ball/NN ,/pct can't /None I/PPSS ''/pct ?/pct ?/pct
+``/pct I/PPSS can/MD remove/VB the/AT ball/NN ,/pct can't/MD* I/PPSS ''/pct ?/pct ?/pct
 Asked/VBN Palmer/NP of/IN an/AT official/NN ./pct
 ``/pct No/RB ''/pct ,/pct said/VBD the/AT official/NN ./pct
 ``/pct You/PPSS must/MD play/VB it/PPO where/WRB it/PPS lies/VBZ ''/pct ./pct
-``/pct You're /None wrong/JJ ''/pct ,/pct said/VBD Arnold/NP ,/pct a/AT man/NN who/WPS knows/VBZ the/AT rules/NNS ./pct
-``/pct I'll /None do/DO as/CS you/PPSS say/VB ,/pct but/CC I'll /None also/RB play/VB a/AT provisional/JJ ball/NN and/CC get/VB a/AT ruling/NN ''/pct ./pct
+``/pct You're/PPSSBER wrong/JJ ''/pct ,/pct said/VBD Arnold/NP ,/pct a/AT man/NN who/WPS knows/VBZ the/AT rules/NNS ./pct
+``/pct I'll/PPSSMD do/DO as/CS you/PPSS say/VB ,/pct but/CC I'll/PPSSMD also/RB play/VB a/AT provisional/JJ ball/NN and/CC get/VB a/AT ruling/NN ''/pct ./pct
 He/PPS scored/VBD a/AT 4/CD for/IN the/AT embedded/VBN ball/NN ,/pct a/AT 3/CD with/IN the/AT provisional/JJ one/CD ./pct
 The/AT golfing/VBG fathers/NNS ruled/VBD in/IN his/PPg favor/NN ./pct
 So/CS he/PPS picked/VBD up/RP a/AT stroke/NN with/IN the/AT provisional/JJ ball/NN and/CC won/VBD the/AT tournament/NN by/IN the/AT margin/NN of/IN that/DT stroke/NN ./pct
@@ -129,5 +129,5 @@ Other/AP items/NNS on/IN the/AT agenda/NN during/IN the/AT meetings/NNS ,/pct wh
 The/AT owners/NNS would/MD like/VB each/DT club/NN in/IN the/AT fourteen-team/JJ league/NN to/TO play/VB a/AT home-and-home/JJ series/NN with/IN teams/NNS in/IN its/PPg division/NN ,/pct plus/CC two/CD games/NNS against/IN teams/NNS in/IN the/AT other/AP division/NN ./pct
 However/WRB ,/pct this/DT would/MD require/VB a/AT lengthening/VBG of/IN the/AT season/NN from/IN thirteen/CD to/IN fourteen/CD weeks/NNS ./pct
 Pete/NP Rozelle/NP ,/pct the/AT league/NN commissioner/NN ,/pct pointed/VBD out/RP :/pct
-``/pct We'll /None have/HV the/AT problem/NN of/IN baseball/NN at/IN one/CD end/NN and/CC weather/NN at/IN the/AT other/AP ''/pct ./pct
+``/pct We'll/PPSSMD have/HV the/AT problem/NN of/IN baseball/NN at/IN one/CD end/NN and/CC weather/NN at/IN the/AT other/AP ''/pct ./pct
 Nine/CD of/IN the/AT league's/NNg teams/NNS play/VB in/IN baseball/NN parks/NNS and/CC therefore/RB face/VB an/AT early-season/NN conflict/NN in/IN dates/NNS ./pct

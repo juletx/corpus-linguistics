@@ -2,7 +2,7 @@
 to/IN the/AT editor/NN :/pct
 Sir/NP --/pct We/PPSS are/BER writing/VBG in/IN reference/NN to/IN a/AT recent/JJ ``/pct suggestion/NN ''/pct made/VBN to/IN the/AT staff/NN of/IN the/AT Public/JJ Health/NN Nursing/VBG Service/NN of/IN Jersey/NN City/NN (/pct registered/VBN professional/JJ nurses/NNS with/IN college/NN background/NN and/CC varying/VBG experiences/NNS )/pct ./pct
 The/AT day/NN before/IN Election/NN Day/NN ,/pct to/IN which/WDT we/PPSS are/BER entitled/VBN as/CS a/AT legal/JJ holiday/NN ,/pct we/PPSS were/BED informed/VBN to/TO report/VB to/IN our/PPg respective/JJ polls/NNS to/TO work/VB as/CS ``/pct workers/NNS of/IN the/AT party/NN ''/pct ./pct
-Being/BEG ethical/JJ and/CC professional/JJ people/NNS interested/VBN in/IN community/NN health/NN and/CC well-being/NN ,/pct we/PPSS felt/VBD this/DT wasn't /None a/AT function/NN of/IN our/PPg position/NN ./pct
+Being/BEG ethical/JJ and/CC professional/JJ people/NNS interested/VBN in/IN community/NN health/NN and/CC well-being/NN ,/pct we/PPSS felt/VBD this/DT wasn't/BEDZ* a/AT function/NN of/IN our/PPg position/NN ./pct
 Such/JJ tactics/NNS reek/VB of/IN totalitarianism/NN !/pct !/pct
 As/CS we/PPSS understand/VB ,/pct this/DT directive/NN was/BEDZ given/VBN to/IN all/ABN city/NN and/CC county/NN employes/NNS ./pct
 To/IN our/PPg knowledge/NN no/AT nurse/NN in/IN our/PPg agency/NN has/HVZ been/BEN employed/VBN because/CS of/IN political/JJ affiliation/NN ./pct
@@ -20,7 +20,7 @@ I/PPSS hope/VB the/AT man/NN who/WPS plans/VBZ to/TO sit/VB on/IN his/PPg hands/
 Escape/NN
 to/IN the/AT editor/NN :/pct
 Sir/NP --/pct People/NNS continue/VB to/TO inquire/VB the/AT reason/NN for/IN the/AT race/NN for/IN outer/JJ space/NN ./pct
-It's /None simple/JJ enough/QLP from/IN my/PPg point/NN of/IN view/NN ./pct
+It's/PPSBEZ simple/JJ enough/QLP from/IN my/PPg point/NN of/IN view/NN ./pct
 I/PPSS am/BEM for/IN it/PPO ./pct
 It/PPS is/BEZ the/AT only/AP method/NN left/VBN for/IN a/AT man/NN to/TO escape/VB from/IN a/AT woman's/NNg world/NN ./pct
 Supports/VBZ Katanga/NP
@@ -84,7 +84,7 @@ Working/VBG for/IN peace/NN
 Recently/RB the/AT secretary/NN of/IN the/AT Friends/NNS Committee/NN on/IN National/JJ Legislation/NN was/BEDZ interviewed/VBN on/IN the/AT air/NN ./pct
 While/CS I/PPSS respect/VB his/PPg sincere/JJ concern/NN for/IN peace/NN ,/pct he/PPS made/VBD four/CD points/NNS that/CS I/PPSS would/MD like/VB to/TO question/VB ./pct
 1/CD ./pct
-He/PPS said/VBD ,/pct ``/pct Let's /None work/VB for/IN peace/NN instead/RB of/IN protection/NN from/IN aggression/NN ''/pct ./pct
+He/PPS said/VBD ,/pct ``/pct Let's/VBPPO work/VB for/IN peace/NN instead/RB of/IN protection/NN from/IN aggression/NN ''/pct ./pct
 I/PPSS would/MD ask/VB ,/pct ``/pct Why/WRB not/NEG do/DO both/ABX ''/pct ?/pct ?/pct
 Military/JJ power/NN does/DOZ not/NEG cause/VB war/NN ;/pct ;/pct
 war/NN is/BEZ the/AT result/NN of/IN mistrust/NN and/CC lack/NN of/IN understanding/NN between/IN people/NNS ./pct
@@ -95,7 +95,7 @@ Is/BEZ this/DT a/AT reason/NN for/IN saving/VBG no/AT one/PN ?/pct ?/pct
 Would/MD the/AT man/NN with/IN an/AT empty/JJ life/NN boat/NN row/VB away/RB from/IN a/AT shipwreck/NN because/CS his/PPg boat/NN could/MD not/NEG pick/VB up/RP everyone/PN ?/pct ?/pct
 3/CD ./pct
 The/AT speaker/NN suggested/VBD that/CS the/AT desolation/NN of/IN a/AT post-attack/JJ world/NN would/MD be/BE too/QL awful/JJ to/TO face/VB ./pct
-If/CS the/AT world/NN comes/VBZ to/IN this/DT ,/pct wouldn't /None it/PPS be/BE the/AT very/AP time/NN when/WRB courage/NN and/CC American/JJ know-how/NN would/MD be/BE needed/VBN to/TO help/VB survivors/NNS rebuild/VB ?/pct ?/pct
+If/CS the/AT world/NN comes/VBZ to/IN this/DT ,/pct wouldn't/MD* it/PPS be/BE the/AT very/AP time/NN when/WRB courage/NN and/CC American/JJ know-how/NN would/MD be/BE needed/VBN to/TO help/VB survivors/NNS rebuild/VB ?/pct ?/pct
 Many/AP of/IN our/PPg young/JJ people/NNS think/VB it/PPS would/MD ./pct
 4/CD ./pct
 Lastly/RB ,/pct the/AT speaker/NN decried/VBD our/PPg organized/VBN program/NN of/IN emergency/NN help/NN calling/VBG it/PPO ``/pct Civilian/JJ Defense/NN ''/pct ./pct

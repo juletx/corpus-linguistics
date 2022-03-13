@@ -13,7 +13,7 @@ It/PPS will/MD be/BE painted/VBN to/TO match/VB the/AT paneling/NN in/IN the/AT 
 The/AT AID/NN committee's/NNg chairman/NN in/IN charge/NN of/IN the/AT redecoration/NN ,/pct Mrs./NP Henry/NP Francis/NP Lenygon/NP ,/pct was/BEDZ in/IN town/NN yesterday/NR to/TO consult/VB with/IN White/JJ House/NN staff/NN members/NNS on/IN the/AT project/NN ./pct
 Mrs./NP Lenygon's/NPg committee/NN associates/NNS ,/pct announced/VBN formally/RB yesterday/NR by/IN the/AT AID/NN in/IN New/JJ York/NP ,/pct include/VB Mrs./NP Allen/NP Lehman/NP McCluskey/NP and/CC Stephen/NP J./NP Jussel/NP ,/pct both/ABX wellknown/JJ Manhattan/NP decorators/NNS ./pct
 Regional/JJ representatives/NNS appointed/VBN to/TO serve/VB from/IN each/DT section/NN of/IN the/AT country/NN include/VB Frank/NP E./NP Barnes/NP of/IN Boston/NP ./pct
-President/NN Kennedy/NP couldn't /None stay/VB away/RB from/IN his/PPg desk/NN for/IN the/AT 75-minute/JJ young/JJ people's/NNSg concert/NN played/VBN on/IN the/AT White/JJ House/NN lawn/NN yesterday/NR by/IN the/AT 85-piece/JJ Transylvania/NP Symphony/NN Orchestra/NN from/IN Brevard/NP ,/pct N./NP C./NP ./pct
+President/NN Kennedy/NP couldn't/MD* stay/VB away/RB from/IN his/PPg desk/NN for/IN the/AT 75-minute/JJ young/JJ people's/NNSg concert/NN played/VBN on/IN the/AT White/JJ House/NN lawn/NN yesterday/NR by/IN the/AT 85-piece/JJ Transylvania/NP Symphony/NN Orchestra/NN from/IN Brevard/NP ,/pct N./NP C./NP ./pct
 But/CC he/PPS left/VBD the/AT doors/NNS to/IN his/PPg office/NN open/JJ so/CS he/PPS could/MD hear/VB the/AT music/NN ./pct
 At/IN 4/CD p.m./RB the/AT President/NN left/VBD the/AT White/JJ House/NN to/TO welcome/VB the/AT young/JJ musicians/NNS ,/pct students/NNS from/IN the/AT ages/NNS of/IN 12/CD to/IN 18/CD who/WPS spend/VB six/CD weeks/NNS at/IN the/AT Brevard/NP Music/NN Center/NN summer/NN camp/NN ,/pct and/CC to/TO greet/VB the/AT 325/CD crippled/VBN ,/pct cardiac/JJ and/CC blind/JJ children/NNS from/IN the/AT District/NN area/NN who/WPS were/BED special/JJ guests/NNS at/IN the/AT concert/NN ./pct
 It/PPS was/BEDZ the/AT first/OD in/IN the/AT series/NN of/IN ``/pct Concerts/NNS for/IN Young/JJ People/NNS by/IN Young/JJ People/NNS ''/pct to/TO be/BE sponsored/VBN by/IN First/OD Lady/NN Jacqueline/NP Kennedy/NP at/IN the/AT White/JJ House/NN ./pct
@@ -39,7 +39,7 @@ He/PPS said/VBD he/PPS contacted/VBD a/AT friend/NN ,/pct Henry/NP Hall/NP Wilso
 A/AT flow/NN of/IN correspondence/NN between/IN Pfohl/NP and/CC Miss/NP Baldrige/NP resulted/VBD in/IN an/AT invitation/NN to/IN the/AT 85-student/JJ North/JJ Carolina/NP group/NN to/TO play/VB the/AT first/OD concert/NN ./pct
 One/CD of/IN the/AT most/QL interested/VBN ``/pct students/NNS ''/pct on/IN the/AT tour/NN which/WDT the/AT Brevard/NP group/NN took/VBD at/IN the/AT National/JJ Gallery/NN yesterday/NR following/VBG their/PPg concert/NN at/IN the/AT White/JJ House/NN ,/pct was/BEDZ Letitia/NP Baldrige/NP ,/pct social/JJ secretary/NN to/IN First/OD Lady/NN Jacqueline/NP Kennedy/NP ./pct
 ``/pct I/PPSS was/BEDZ an/AT art/NN major/NN in/IN college/NN ''/pct ,/pct Miss/NP Baldrige/NP explained/VBD ./pct
-``/pct I've /None been/BEN here/RB so/QL many/AP times/NNS I/PPSS couldn't /None count/VB them/PPO ''/pct ./pct
+``/pct I've/PPSSHV been/BEN here/RB so/QL many/AP times/NNS I/PPSS couldn't/MD* count/VB them/PPO ''/pct ./pct
 She/PPS turned/VBD out/RP to/TO be/BE a/AT fan/NN ,/pct too/RB ,/pct of/IN Margaret/NP Bouton/NP ,/pct the/AT Gallery's/NNg associate/JJ curator/NN of/IN education/NN ./pct
 Miss/NP Bouton/NP headed/VBD up/RP one/CD of/IN the/AT four/CD groups/NNS that/WPS went/VBD on/IN simultaneous/JJ tours/NNS after/CS the/AT Gallery/NN had/HVD closed/VBN at/IN 5/CD p.m./RB ./pct
 The/AT Brevard/NP group/NN of/IN 85/CD arrived/VBD at/IN the/AT Gallery/NN at/IN 6/CD p.m./RB ,/pct remaining/VBG for/IN about/RB 45/CD minutes/NNS ./pct
@@ -49,12 +49,12 @@ they/PPSS noticed/VBD Roman/JJ buildings/NNS in/IN the/AT background/NN of/IN Ra
 Everybody/PN had/HVD heard/VBN of/IN Van/NP Gogh/NP ,/pct the/AT French/JJ impressionist/NN ./pct
 Gallery/NN Director/NN John/NP Walker/NP greeted/VBD the/AT group/NN ,/pct standing/VBG on/IN one/CD of/IN the/AT benches/NNS in/IN the/AT downstairs/NN lobby/NN to/TO speak/VB to/IN them/PPO ./pct
 He/PPS pointed/VBD out/RP to/IN the/AT young/JJ musicians/NNS that/CS the/AT National/JJ Gallery/NN ``/pct is/BEZ the/AT only/AP museum/NN in/IN the/AT country/NN to/TO have/HV a/AT full-time/JJ music/NN director/NN ,/pct Richard/NP Bales/NP ./pct
-I'm /None sure/JJ you've /None heard/VBN of/IN him/PPO and/CC his/PPg record/NN ,/pct '/pct The/AT Confederacy/NN '/pct ''/pct ./pct
+I'm/PPSSBEM sure/JJ you've/PPSSHV heard/VBN of/IN him/PPO and/CC his/PPg record/NN ,/pct '/pct The/AT Confederacy/NN '/pct ''/pct ./pct
 Along/IN with/IN the/AT gallery/NN aide/NN who/WPS explained/VBD the/AT various/JJ paintings/NNS and/CC sculptures/NNS to/IN each/DT group/NN ,/pct went/VBD one/CD of/IN the/AT Gallery's/NNg blue-uniformed/JJ guards/NNS ./pct
 In/IN 45/CD minutes/NNS ,/pct the/AT Gallery/NN leaders/NNS had/HVD given/VBN the/AT students/NNS a/AT quick/JJ rundown/NN on/IN art/NN from/IN the/AT Renaissance/NN to/IN the/AT late/JJ 19th/OD Century/NN ./pct
 A/AT few/AP of/IN them/PPO said/VBN they/PPSS ``/pct preferred/VBD contemporary/JJ art/NN ''/pct ./pct
 Among/IN the/AT other/AP artists/NNS ,/pct whose/WPg paintings/NNS were/BED discussed/VBN were/BED Boucher/NP ,/pct Courbet/NP ,/pct Fra/NP Angelico/NP ./pct
-The/AT thing/NN that/WPS impressed/VBD one/CD of/IN the/AT visitors/NNS the/AT most/AP was/BEDZ the/AT Gallery's/NNg rotunda/NN fountain/NN ``/pct because/CS it's /None on/IN the/AT second/OD floor/NN ''/pct ./pct
+The/AT thing/NN that/WPS impressed/VBD one/CD of/IN the/AT visitors/NNS the/AT most/AP was/BEDZ the/AT Gallery's/NNg rotunda/NN fountain/NN ``/pct because/CS it's/PPSBEZ on/IN the/AT second/OD floor/NN ''/pct ./pct
 That/DT imposing/VBG ,/pct somewhat/QL austere/JJ ,/pct and/CC seemingly/RB remote/JJ collonaded/JJ building/NN with/IN the/AT sphynxes/NNS perched/VBN on/IN its/PPg threshold/NN at/IN 1733/CD 16th/OD St./NN nw./NN took/VBD on/RP bustling/VBG life/NN yesterday/NR ./pct
 More/AP than/IN 250/CD Scottish/JJ Rite/NN Masons/NPS and/CC guests/NNS gathered/VBD in/IN their/PPg House/NN of/IN the/AT Temple/NN to/TO pay/VB tribute/NN to/IN their/PPg most/QL prominent/JJ leader/NN ,/pct Albert/NP Pike/NP ,/pct who/WPS headed/VBD the/AT Scottish/JJ Rite/NN from/IN 1859/CD to/IN 1891/CD ./pct
 They/PPSS came/VBD together/RB in/IN the/AT huge/JJ ,/pct high-ceilinged/JJ Council/NN Chamber/NN to/TO hear/VB the/AT late/JJ leader/NN eulogized/VBN ./pct
@@ -68,7 +68,7 @@ A/AT wreath/NN will/MD be/BE placed/VBN at/IN the/AT tomb/NN of/IN George/NP Was
 The/AT marriage/NN of/IN John/NP and/CC Mary/NP Black/NP had/HVD clearly/RB reached/VBN the/AT breaking/VBG point/NN after/IN eight/CD years/NNS ./pct
 John/NP had/HVD a/AT job/NN in/IN a/AT small/JJ firm/NN where/WRB the/AT work/NN was/BEDZ dull/JJ and/CC monotonous/JJ ./pct
 He/PPS would/MD come/VB home/NR in/IN the/AT evening/NN tired/VBN and/CC discouraged/VBN --/pct in/IN no/AT frame/NN of/IN mind/NN to/TO play/VB with/IN their/PPg three/CD children/NNS ,/pct or/CC spend/VB much/AP time/NN chatting/VBG with/IN his/PPg wife/NN ./pct
-Hurt/VBN by/IN his/PPg lack/NN of/IN interest/NN and/CC attention/NN ,/pct Mary/NP complained/VBD often/RB that/CS he/PPS didn't /None help/VB around/IN the/AT house/NN ,/pct and/CC that/CS he/PPS didn't /None really/RB care/VB about/IN the/AT family/NN ./pct
+Hurt/VBN by/IN his/PPg lack/NN of/IN interest/NN and/CC attention/NN ,/pct Mary/NP complained/VBD often/RB that/CS he/PPS didn't/DOD* help/VB around/IN the/AT house/NN ,/pct and/CC that/CS he/PPS didn't/DOD* really/RB care/VB about/IN the/AT family/NN ./pct
 She/PPS accused/VBD him/PPO of/IN ignoring/VBG her/PPO ./pct
 He/PPS in/IN turn/NN told/VBD her/PPO she/PPS demanded/VBD too/QL much/AP ./pct
 They/PPSS were/BED both/ABX discouraged/VBN ,/pct disgusted/VBN and/CC miserable/JJ ./pct
@@ -88,6 +88,6 @@ To/IN outsiders/NNS ,/pct the/AT Blacks/NPS seem/VB to/TO be/BE an/AT ordinary/J
 They/PPSS know/VB the/AT value/NN of/IN being/BEG just/RB that/DT --/pct an/AT ordinary/JJ ,/pct happy/JJ family/NN ./pct
 Family/NN Service/NN has/HVZ helped/VBN hundreds/NNS of/IN families/NNS in/IN this/DT area/NN ./pct
 Perhaps/RB to/IN some/DTI their/PPg work/NN does/DOZ not/NEG seem/VB particularly/RB vital/JJ ./pct
-But/CC to/IN the/AT families/NNS it/PPS serves/VBZ ,/pct their/PPg help/NN cannot /None be/BE measured/VBN ./pct
+But/CC to/IN the/AT families/NNS it/PPS serves/VBZ ,/pct their/PPg help/NN cannot/MD* be/BE measured/VBN ./pct
 Family/NN Service/NN could/MD not/NEG open/VB its/PPg doors/NNS to/IN a/AT single/AP family/NN without/IN the/AT financial/JJ support/NN of/IN the/AT United/VBN Givers/NNS Fund/NN ./pct
 Anticipated/VBN heavy/JJ traffic/NN along/IN the/AT Skyline/NN Drive/NN failed/VBD to/TO materialize/VB yesterday/NR ,/pct park/NN rangers/NNS said/VBD ,/pct and/CC those/DTS who/WPS made/VBD the/AT trip/NN got/VBD a/AT leisurely/RB view/NN of/IN the/AT fall/NN colors/NNS through/IN skies/NNS swept/VBN clear/JJ of/IN haze/NN ./pct

@@ -1,14 +1,14 @@
 When/WRB Bobbie/NP Evans/NP smashed/VBD up/RP his/PPg car/NN ,/pct the/AT Jaguar/NP his/PPg wife/NN Linda/NP had/HVD given/VBN him/PPO for/IN his/PPg last/AP birthday/NN ,/pct and/CC himself/PPL quite/QL thoroughly/RB with/IN it/PPO ,/pct driving/VBG back/RB from/IN an/AT afternoon's/NNg golf/NN at/IN Oakmont/NP ,/pct it/PPS seemed/VBD to/TO mark/VB the/AT end/NN of/IN a/AT long/JJ ,/pct miswritten/VBN chapter/NN in/IN the/AT social/JJ life/NN of/IN the/AT community/NN ./pct
 Linda/NP looked/VBD remote/JJ yet/RB lovely/JJ in/IN black/JJ ,/pct and/CC everyone/PN held/VBD his/PPg or/CC her/PPg breath/NN ./pct
 Not/NEG that/CS Linda/NP was/BEDZ heartless/JJ ,/pct not/NEG that/CS she/PPS would/MD do/DO anything/PN prematurely/RB or/CC in/IN bad/JJ taste/NN any/DTI more/RBR than/CS John/NP Cooper/NP would/MD ./pct
-Hadn't /None Linda/NP been/BEN a/AT perfect/JJ wife/NN to/IN Bobbie/NP ,/pct who/WPS was/BEDZ the/AT least/AP bit/NN of/IN a/AT disappointment/NN all/ABN these/DTS years/NNS ?/pct ?/pct
-Wasn't /None John/NP Cooper/NP even/QL more/QL attractive/JJ at/IN forty-seven/CD than/CS he/PPS had/HVD been/BEN twenty-five/CD years/NNS earlier/RBR ?/pct ?/pct
-And/CC wasn't /None John's/NPg wife/NN ,/pct Edythe/NP ,/pct even/QL more/QL appalling/JJ ,/pct if/CS possible/JJ ?/pct ?/pct
-Didn't /None John/NP Cooper/NP ,/pct after/IN all/ABN this/DT time/NN ,/pct deserve/VB something/PN better/JJR of/IN life/NN ?/pct ?/pct
-Wasn't /None it/PPS adult/JJ and/CC realistic/JJ to/TO look/VB at/IN it/PPO that/DT way/NN ?/pct ?/pct
+Hadn't/HVD* Linda/NP been/BEN a/AT perfect/JJ wife/NN to/IN Bobbie/NP ,/pct who/WPS was/BEDZ the/AT least/AP bit/NN of/IN a/AT disappointment/NN all/ABN these/DTS years/NNS ?/pct ?/pct
+Wasn't/BEDZ* John/NP Cooper/NP even/QL more/QL attractive/JJ at/IN forty-seven/CD than/CS he/PPS had/HVD been/BEN twenty-five/CD years/NNS earlier/RBR ?/pct ?/pct
+And/CC wasn't/BEDZ* John's/NPg wife/NN ,/pct Edythe/NP ,/pct even/QL more/QL appalling/JJ ,/pct if/CS possible/JJ ?/pct ?/pct
+Didn't/DOD* John/NP Cooper/NP ,/pct after/IN all/ABN this/DT time/NN ,/pct deserve/VB something/PN better/JJR of/IN life/NN ?/pct ?/pct
+Wasn't/BEDZ* it/PPS adult/JJ and/CC realistic/JJ to/TO look/VB at/IN it/PPO that/DT way/NN ?/pct ?/pct
 And/CC romantic/JJ ?/pct ?/pct
 Everybody/PN knew/VBD that/CS John/NP Cooper/NP had/HVD married/VBN Edythe/NP on/IN the/AT rebound/NN ./pct
-It/PPS was/BEDZ the/AT kind/NN of/IN thing/NN that/WPS could/MD ruin/VB a/AT man's/NNg life/NN ,/pct and/CC it/PPS was/BEDZ a/AT tribute/NN to/IN John's/NPg strength/NN of/IN character/NN and/CC very/QL real/JJ business/NN ability/NN that/CS it/PPS hadn't /None ruined/VBN his/PPgg ./pct
+It/PPS was/BEDZ the/AT kind/NN of/IN thing/NN that/WPS could/MD ruin/VB a/AT man's/NNg life/NN ,/pct and/CC it/PPS was/BEDZ a/AT tribute/NN to/IN John's/NPg strength/NN of/IN character/NN and/CC very/QL real/JJ business/NN ability/NN that/CS it/PPS hadn't/HVD* ruined/VBN his/PPgg ./pct
 ``/pct Of/IN course/NN ,/pct there/EX was/BEDZ nothing/PN you/PPSS could/MD do/DO ,/pct but/CC you/PPSS still/RB ought/MD to/TO be/BE ashamed/JJ of/IN yourself/PPL for/IN letting/VBG it/PPS happen/VB ''/pct ,/pct Mousie/NP Chandler/NP said/VBD to/IN Linda/NP Stuart/NP ./pct
 ``/pct Poor/JJ John/NP ''/pct !/pct !/pct
 Linda/NP accepted/VBD the/AT reproach/NN ,/pct which/WDT was/BEDZ something/PN she/PPS did/DOD rarely/RB in/IN all/ABN her/PPg life/NN and/CC most/QL rarely/RB in/IN that/DT summer/NN of/IN 1936/CD when/WRB she/PPS was/BEDZ by/IN all/ABN odds/NNS the/AT prettiest/JJT and/CC brightest/JJT young/JJ woman/NN west/NR of/IN the/AT Allegheny/NP Mountains/NNS ,/pct and/CC John/NP was/BEDZ surely/RB one/PN of/IN the/AT handsomer/JJR and/CC brighter/JJR young/JJ men/NNS around/IN Pittsburgh/NP ./pct
@@ -19,21 +19,21 @@ You/PPSS talked/VBD about/IN John-and-Linda/NPS as/CS an/AT entity/NN ./pct
 John-and-Linda/NPS were/BED at/IN Longue/NP Vue/NP last/AP night/NN ;/pct ;/pct
 John-and-Linda/NPS drove/VBD to/IN Conneaut/NP in/IN three/CD and/CC a/AT half/ABN hours/NNS ./pct
 Then/RB there/EX was/BEDZ a/AT spat/NN over/IN something/PN ,/pct as/CS there/EX had/HVD been/BEN lovers'/NNSg spats/NNS before/RB ;/pct ;/pct
-only/RB this/DT one/PN didn't /None heal/VB ./pct
+only/RB this/DT one/PN didn't/DOD* heal/VB ./pct
 You/PPSS still/RB said/VBD ``/pct John-and-Linda/NPS ''/pct ,/pct but/CC as/CS if/CS you/PPSS were/BED speaking/VBG of/IN a/AT national/JJ catastrophe/NN such/JJ as/CS the/AT depression/NN or/CC Dillinger/NP ./pct
 It/PPS got/VBD worse/JJR instead/RB of/IN better/RBR ./pct
-First/OD ,/pct it/PPS came/VBD out/RP after/CS Mr./NP Cooper's/NPg will/NN was/BEDZ settled/VBN --/pct he/PPS had/HVD died/VBN the/AT year/NN before/RB --/pct that/CS John/NP and/CC his/PPg mother/NN weren't /None rich/JJ any/DTI more/RBR ./pct
+First/OD ,/pct it/PPS came/VBD out/RP after/CS Mr./NP Cooper's/NPg will/NN was/BEDZ settled/VBN --/pct he/PPS had/HVD died/VBN the/AT year/NN before/RB --/pct that/CS John/NP and/CC his/PPg mother/NN weren't/BED* rich/JJ any/DTI more/RBR ./pct
 And/CC then/RB there/EX was/BEDZ Linda's/NPg engagement/NN to/IN Bobbie/NP Evans/NP ./pct
-There/EX was/BEDZ no/AT connection/NN between/IN the/AT two/CD events/NNS ,/pct because/CS Bobbie/NP wasn't /None rich/JJ ,/pct either/RB ,/pct though/CS he/PPS was/BEDZ more/QL aggressive/JJ than/CS John/NP ./pct
+There/EX was/BEDZ no/AT connection/NN between/IN the/AT two/CD events/NNS ,/pct because/CS Bobbie/NP wasn't/BEDZ* rich/JJ ,/pct either/RB ,/pct though/CS he/PPS was/BEDZ more/QL aggressive/JJ than/CS John/NP ./pct
 He/PPS was/BEDZ a/AT bright/JJ and/CC handsome/JJ young/JJ man/NN from/IN New/JJ York/NP ,/pct who/WPS worked/VBD for/IN the/AT same/AP steel/NN company/NN as/CS John/NP did/DOD ./pct
 Some/DTI people/NNS said/VBD Linda/NP had/HVD just/RB announced/VBN the/AT engagement/NN to/TO jolt/VB John/NP into/IN some/DTI action/NN ,/pct but/CC when/WRB John/NP came/VBD home/NR from/IN a/AT business/NN trip/NN to/IN Cleveland/NP with/IN Edythe/NP ,/pct with/IN Edythe/NP his/PPg bride/NN ,/pct it/PPS could/MD no/AT longer/JJR be/BE John-and-Linda/NPS even/RB to/IN sentimental/JJ wishful/JJ thinkers/NNS ./pct
-It/PPS wasn't /None even/RB John/NP and/CC Edythe/NP ./pct
+It/PPS wasn't/BEDZ* even/RB John/NP and/CC Edythe/NP ./pct
 It/PPS was/BEDZ simply/RB Poor/JJ John/NP ./pct
 There/EX was/BEDZ nothing/PN specifically/RB wrong/JJ with/IN Edythe/NP ,/pct but/CC there/EX was/BEDZ absolutely/RB nothing/PN right/JJ about/IN her/PPO either/RB ./pct
 Mousie/NP Chandler/NP had/HVD been/BEN to/IN school/NN with/IN her/PPO someplace/RB near/IN Baltimore/NP and/CC tried/VBD to/TO explain/VB rather/RB than/CS defend/VB her/PPg to/TO the/AT gang/NN having/HVG lunch/NN at/IN Horne's/NPg ./pct
-``/pct Well/UH ,/pct you/PPSS shouldn't /None underestimate/VB Edythe/NP ''/pct ,/pct Mousie/NP said/VBD ./pct
+``/pct Well/UH ,/pct you/PPSS shouldn't/MD* underestimate/VB Edythe/NP ''/pct ,/pct Mousie/NP said/VBD ./pct
 ``/pct I/PPSS know/VB she/PPS gives/VBZ the/AT impression/NN of/IN being/BEG shallow/JJ and/CC frivolous/JJ and/CC scatterbrained/JJ ./pct
-She/PPS is/BEZ frivolous/JJ and/CC scatterbrained/JJ ,/pct but/CC she/PPS really/RB isn't /None shallow/JJ ''/pct ./pct
+She/PPS is/BEZ frivolous/JJ and/CC scatterbrained/JJ ,/pct but/CC she/PPS really/RB isn't/BEZ* shallow/JJ ''/pct ./pct
 Bobbie/NP and/CC Linda/NP looked/VBD magnificent/JJ at/IN their/PPg wedding/NN ./pct
 John/NP was/BEDZ at/IN the/AT church/NN with/IN Edythe/NP ./pct
 She/PPS giggled/VBD during/IN the/AT ceremony/NN ,/pct and/CC Mousie/NP Chandler/NP ,/pct who/WPS was/BEDZ one/PN of/IN Linda's/NPg bridesmaids/NNS ,/pct said/VBD John/NP glared/VBD black/JJ as/CS death/NN at/IN her/PPO ./pct
@@ -41,21 +41,21 @@ She/PPS giggled/VBD during/IN the/AT ceremony/NN ,/pct and/CC Mousie/NP Chandler
 ``/pct Poor/JJ John/NP ''/pct !/pct !/pct
 Edythe/NP settled/VBD down/RP to/TO become/VB a/AT social/JJ myth/NN and/CC a/AT horrible/JJ example/NN ./pct
 Her/PPg hair/NN never/RB seemed/VBD to/TO be/BE in/IN place/NN and/CC her/PPg skirts/NNS were/BED never/RB quite/ABL the/AT correct/JJ length/NN ./pct
-She/PPS didn't /None have/HV a/AT bad/JJ shape/NN when/WRB you/PPSS caught/VBD her/PPO at/IN the/AT pool/NN at/IN Longue/NP Vue/NP ,/pct but/CC her/PPg bathing/VBG suits/NNS were/BED far/RB from/IN smart/JJ ./pct
-And/CC you/PPSS didn't /None see/VB her/PPO much/RB at/IN Longue/NP Vue/NP or/CC anywhere/RB ,/pct for/CS John/NP had/HVD drifted/VBN away/RB from/IN the/AT gang/NN ./pct
+She/PPS didn't/DOD* have/HV a/AT bad/JJ shape/NN when/WRB you/PPSS caught/VBD her/PPO at/IN the/AT pool/NN at/IN Longue/NP Vue/NP ,/pct but/CC her/PPg bathing/VBG suits/NNS were/BED far/RB from/IN smart/JJ ./pct
+And/CC you/PPSS didn't/DOD* see/VB her/PPO much/RB at/IN Longue/NP Vue/NP or/CC anywhere/RB ,/pct for/CS John/NP had/HVD drifted/VBN away/RB from/IN the/AT gang/NN ./pct
 Mousie/NP said/VBD it/PPS was/BEDZ because/CS he/PPS was/BEDZ too/QL proud/JJ to/TO stand/VB pity/NN ./pct
-Others/NNS thought/VBD he/PPS couldn't /None stand/VB seeing/VBG Linda/NP ,/pct Mrs./NP Bobbie/NP Evans/NP ,/pct still/RB so/QL beautiful/JJ ,/pct so/QL much/RB in/IN command/NN of/IN everything/PN ./pct
+Others/NNS thought/VBD he/PPS couldn't/MD* stand/VB seeing/VBG Linda/NP ,/pct Mrs./NP Bobbie/NP Evans/NP ,/pct still/RB so/QL beautiful/JJ ,/pct so/QL much/RB in/IN command/NN of/IN everything/PN ./pct
 There/EX were/BED less-dramatic/JJ reasons/NNS too/RB ./pct
 John's/NPg mother/NN died/VBD not/NEG long/JJ after/IN his/PPg marriage/NN ,/pct and/CC there/EX was/BEDZ even/RB less/AP Cooper/NP money/NN left/VBN ./pct
 John/NP sold/VBD the/AT big/JJ old/JJ place/NN in/IN Sewickley/NP and/CC bought/VBD a/AT smaller/JJR house/NN in/IN Fox/NN Chapel/NN ./pct
 He/PPS was/BEDZ not/NEG reduced/VBN to/IN poverty/NN ,/pct but/CC his/PPg job/NN at/IN the/AT steel/NN company/NN had/HVD become/VBN a/AT real/JJ job/NN and/CC not/NEG a/AT method/NN of/IN passing/VBG the/AT day/NN ./pct
 John/NP was/BEDZ good/JJ at/IN his/PPg job/NN ./pct
-It/PPS probably/RB wasn't /None hard/JJ for/IN him/PPO to/TO keep/VB his/PPg nose/NN to/IN the/AT grindstone/NN with/IN nothing/PN but/CC Edythe/NP to/TO come/VB home/NR to/IN ./pct
+It/PPS probably/RB wasn't/BEDZ* hard/JJ for/IN him/PPO to/TO keep/VB his/PPg nose/NN to/IN the/AT grindstone/NN with/IN nothing/PN but/CC Edythe/NP to/TO come/VB home/NR to/IN ./pct
 Though/CS that/DT may/MD be/BE unfair/JJ since/CS Ben/NP Cooper/NP ,/pct John's/NPg first/OD son/NN ,/pct came/VBD along/RB early/RB in/IN 1938/CD ,/pct the/AT cutest/JJT baby/NN you/PPSS ever/RB saw/VBD and/CC a/AT blessing/NN that/CS he/PPS looked/VBD all/ABN Cooper/NP from/IN fontanel/NN to/IN pink/JJ toes/NNS ,/pct nary/ABN a/AT trace/NN of/IN Edythe/NP ./pct
 But/CC the/AT continuing/VBG charm/NN of/IN the/AT other/AP children/NNS --/pct Sally/NP in/IN 1940/CD and/CC Jack/NP in/IN 1944/CD --/pct and/CC all/ABN John's/NPg success/NN at/IN his/PPg work/NN only/RB made/VBD Edythe's/NPg dizziness/NN and/CC general/JJ uselessness/NN more/QL glaring/VBG ./pct
 She/PPS never/RB could/MD fit/VB into/IN a/AT crowd/NN which/WDT had/HVD known/VBN ,/pct which/WDT still/RB knew/VBD and/CC admired/VBD Linda/NP ./pct
 When/WRB there/EX was/BEDZ bridge/NN at/IN Edythe's/NPg house/NN ,/pct the/AT cards/NNS shuffled/VBD like/CS wet/JJ graham/NN crackers/NNS and/CC the/AT food/NN probably/RB was/BEDZ wet/JJ graham/NN crackers/NNS ./pct
-She/PPS managed/VBD a/AT missionary/NN drive/NN for/IN the/AT church/NN once/RB and/CC got/VBD the/AT books/NNS so/QL confused/VBN that/QL old/JJ Mr./NP Webber/NP ,/pct the/AT eldest/JJT elder/NN ,/pct who'd /None never/RB donated/VBN more/AP than/IN five/CD dollars/NNS to/IN anything/PN ,/pct had/HVD to/TO cough/VB up/RP five/CD hundred/CD dollars/NNS to/TO avoid/VB a/AT scandal/NN in/IN what/WDT Edythe/NP called/VBD ``/pct the/AT bosoms/NNS of/IN the/AT church/NN ''/pct ./pct
+She/PPS managed/VBD a/AT missionary/NN drive/NN for/IN the/AT church/NN once/RB and/CC got/VBD the/AT books/NNS so/QL confused/VBN that/QL old/JJ Mr./NP Webber/NP ,/pct the/AT eldest/JJT elder/NN ,/pct who'd/WPSHVD never/RB donated/VBN more/AP than/IN five/CD dollars/NNS to/IN anything/PN ,/pct had/HVD to/TO cough/VB up/RP five/CD hundred/CD dollars/NNS to/TO avoid/VB a/AT scandal/NN in/IN what/WDT Edythe/NP called/VBD ``/pct the/AT bosoms/NNS of/IN the/AT church/NN ''/pct ./pct
 John/NP did/DOD find/VB the/AT missing/VBG checks/NNS and/CC money/NN afterward/RB ,/pct and/CC the/AT drive/NN was/BEDZ actually/RB oversubscribed/VBN ,/pct which/WDT was/BEDZ a/AT real/JJ bit/NN of/IN luck/NN for/IN the/AT missionaries/NNS ./pct
 Being/BEG an/AT intelligent/JJ man/NN ,/pct John/NP must/MD have/HV guessed/VBN what/WDT everyone/PN thought/VBD about/IN Edythe/NP ,/pct but/CC he/PPS never/RB let/VBD on/RP by/IN so/QL much/AP as/CS a/AT brave/JJ smile/NN ./pct
 Poor/JJ John/NP was/BEDZ the/AT kind/NN of/IN stock/NN that/WPS keeps/VBZ a/AT bargain/NN without/IN whimpering/VBG and/CC maybe/RB bends/VBZ over/RP backward/RB to/TO keep/VB a/AT bad/JJ one/PN ./pct
@@ -63,12 +63,12 @@ He/PPS was/BEDZ an/AT attentive/JJ and/CC generous/JJ husband/NN ,/pct overgener
 But/CC he/PPS got/VBD ahead/RB in/IN business/NN :/pct on/IN leave/NN from/IN his/PPg job/NN to/IN an/AT important/JJ Washington/NP assignment/NN during/IN the/AT war/NN ;/pct ;/pct
 after/IN the/AT war/NN back/RB to/IN the/AT heir/NN apparency/NN of/IN the/AT steel/NN company/NN ./pct
 The/AT Coopers/NPS saw/VBD Bobbie/NP and/CC Linda/NP socially/RB ,/pct but/CC no/AT more/RBR than/CS was/BEDZ necessary/JJ ./pct
-Bobbie/NP had/HVD been/BEN successful/JJ ,/pct too/RB ,/pct though/CS he/PPS didn't /None match/VB John's/NPg pace/NN ,/pct and/CC after/IN all/ABN he/PPS didn't /None need/VB to/TO ,/pct with/IN all/ABN the/AT Stuart/NP money/NN ./pct
+Bobbie/NP had/HVD been/BEN successful/JJ ,/pct too/RB ,/pct though/CS he/PPS didn't/DOD* match/VB John's/NPg pace/NN ,/pct and/CC after/IN all/ABN he/PPS didn't/DOD* need/VB to/TO ,/pct with/IN all/ABN the/AT Stuart/NP money/NN ./pct
 He/PPS and/CC Linda/NP settled/VBD down/RP to/IN being/BEG social/JJ leaders/NNS ,/pct and/CC Linda/NP managed/VBD to/TO look/VB a/AT little/QL more/QL beautiful/JJ each/DT year/NN ./pct
 And/CC then/RB came/VBD the/AT hairpin/NN turn/NN ,/pct the/AT smashed/VBN Jaguar/NP and/CC Linda/NP ,/pct mourning/VBG alone/RB and/CC lovely/JJ ./pct
 Everyone/PN held/VBD his/PPg or/CC her/PPg breath/NN ./pct
-``/pct Don't /None think/VB Linda/NP couldn't /None have/HV got/VBN John/NP back/RB any/DTI time/NN ,/pct if/CS she'd /None tried/VBN ''/pct ,/pct Mousie/NP Gordon/NP ,/pct who/WPS had/HVD been/BEN Mousie/NP Chandler/NP ,/pct said/VBD between/IN bites/NNS of/IN a/AT chicken/NN sandwich/NN at/IN a/AT luncheon/NN table/NN at/IN Le/NP Mont/NP ./pct
-``/pct Now/RB you/PPSS know/VB she/PPS could've /None ,/pct but/CC she/PPS isn't /None that/DT kind/NN of/IN girl/NN ./pct
+``/pct Don't/DO* think/VB Linda/NP couldn't/MD* have/HV got/VBN John/NP back/RB any/DTI time/NN ,/pct if/CS she'd/PPSHVD tried/VBN ''/pct ,/pct Mousie/NP Gordon/NP ,/pct who/WPS had/HVD been/BEN Mousie/NP Chandler/NP ,/pct said/VBD between/IN bites/NNS of/IN a/AT chicken/NN sandwich/NN at/IN a/AT luncheon/NN table/NN at/IN Le/NP Mont/NP ./pct
+``/pct Now/RB you/PPSS know/VB she/PPS could've/MDHV ,/pct but/CC she/PPS isn't/BEZ* that/DT kind/NN of/IN girl/NN ./pct
 But/CC now/RB --/pct well/UH ,/pct it/PPS would/MD be/BE a/AT blessing/NN ,/pct I/PPSS think/VB ./pct
 Poor/JJ John/NP ''/pct ./pct
 Linda/NP Evans/NP felt/VBD more/QL wretched/JJ than/CS she/PPS had/HVD ever/RB dreamed/VBN Bobbie's/NPg death/NN could/MD move/VB her/PPO to/IN feeling/VBG ./pct
@@ -98,19 +98,19 @@ Bobbie/NP said/VBD something/PN about/IN damned/VBN Pittsburghers/NPS sticking/V
 They/PPSS had/HVD their/PPg first/OD real/JJ fight/NN ,/pct and/CC Bobbie/NP went/VBD off/RP to/TO get/VB drunk/JJ ./pct
 Linda/NP dragooned/VBD her/PPg uncle/NN ,/pct Donald/NP Murkland/NP ,/pct into/IN a/AT lunch/NN the/AT next/AP day/NN to/TO find/VB out/RP what/WDT had/HVD happened/VBN ./pct
 He/PPS was/BEDZ a/AT director/NN of/IN S./NP &/CC M./NP and/CC must/MD have/HV been/BEN in/IN on/IN the/AT decision/NN ./pct
-But/CC jolly/JJ old/JJ Uncle/NN Donald/NP would/MD tell/VB her/PPO no/RB more/AP than/CS that/CS Bobbie/NP had/HVD certainly/RB been/BEN considered/VBN for/IN the/AT job/NN ,/pct but/CC there/EX were/BED factors/NNS in/IN a/AT large/JJ company/NN which/WDT outsiders/NNS and/CC even/RB some/DTI insiders/NNS couldn't /None understand/VB ./pct
-He/PPS didn't /None tell/VB her/PPO of/IN the/AT long/JJ board/NN meeting/NN where/WRB Bobbie/NP and/CC John/NP were/BED weighed/VBN one/PN against/IN the/AT other/AP ./pct
-``/pct I'm /None behind/IN John/NP Cooper/NP ''/pct ,/pct Mr./NP Lovejoy/NP said/VBD finally/RB ./pct
-``/pct I/PPSS think/VB we're /None agreed/VBN that/CS he/PPS and/CC Evans/NP are/BER equal/JJ in/IN ability/NN ,/pct so/CS we/PPSS have/HV to/TO look/VB at/IN the/AT thing/NN in/IN terms/NNS of/IN incentive/NN ./pct
-``/pct Now/RB ,/pct I/PPSS believe/VB Poor/JJ John'll /None work/VB just/RB a/AT little/AP harder/RBR ./pct
+But/CC jolly/JJ old/JJ Uncle/NN Donald/NP would/MD tell/VB her/PPO no/RB more/AP than/CS that/CS Bobbie/NP had/HVD certainly/RB been/BEN considered/VBN for/IN the/AT job/NN ,/pct but/CC there/EX were/BED factors/NNS in/IN a/AT large/JJ company/NN which/WDT outsiders/NNS and/CC even/RB some/DTI insiders/NNS couldn't/MD* understand/VB ./pct
+He/PPS didn't/DOD* tell/VB her/PPO of/IN the/AT long/JJ board/NN meeting/NN where/WRB Bobbie/NP and/CC John/NP were/BED weighed/VBN one/PN against/IN the/AT other/AP ./pct
+``/pct I'm/PPSSBEM behind/IN John/NP Cooper/NP ''/pct ,/pct Mr./NP Lovejoy/NP said/VBD finally/RB ./pct
+``/pct I/PPSS think/VB we're/PPSSBER agreed/VBN that/CS he/PPS and/CC Evans/NP are/BER equal/JJ in/IN ability/NN ,/pct so/CS we/PPSS have/HV to/TO look/VB at/IN the/AT thing/NN in/IN terms/NNS of/IN incentive/NN ./pct
+``/pct Now/RB ,/pct I/PPSS believe/VB Poor/JJ John'll/NPMD work/VB just/RB a/AT little/AP harder/RBR ./pct
 With/IN that/DT wife/NN of/IN his/PPgg ,/pct I/PPSS think/VB he/PPS feels/VBZ every/AT chance/NN he/PPS gets/VBZ is/BEZ his/PPg big/JJ chance/NN ./pct
 Bobbie/NP ,/pct with/IN Linda/NP behind/IN him/PPO ,/pct will/MD have/HV plenty/NN of/IN other/AP opportunities/NNS ./pct
-And/CC also/RB ,/pct the/AT money/NN can't /None mean/VB as/QL much/RB to/IN Bobbie/NP ./pct
+And/CC also/RB ,/pct the/AT money/NN can't/MD* mean/VB as/QL much/RB to/IN Bobbie/NP ./pct
 ``/pct Bobbie/NP will/MD take/VB the/AT job/NN as/CS his/PPg just/JJ reward/NN and/CC work/VB hard/RB at/IN it/PPO ;/pct ;/pct
 Poor/JJ John/NP will/MD take/VB it/PPO as/CS a/AT miracle/NN and/CC have/HV every/AT other/AP independent/JJ steel/NN company/NN sitting/VBG up/RP nights/NNS worrying/VBG about/IN us/PPO ''/pct ./pct
 Most/AP of/IN the/AT directors/NNS nodded/VBD ./pct
 Uncle/NP Donald/NP Murkland/NP found/VBD himself/PPL nodding/VBG agreement/NN too/RB ./pct
 After/CS the/AT surprise/NN was/BEDZ over/RP ,/pct Linda/NP was/BEDZ almost/QL as/QL pleased/VBN as/CS anyone/PN with/IN John's/NPg good/JJ luck/NN ,/pct though/CS she/PPS agreed/VBD with/IN Bobbie's/NPg decision/NN some/DTI months/NNS later/RBR to/TO move/VB to/IN Funk/NP Furnaces/NNS ./pct
-The/AT job/NN at/IN Funk/NP wasn't /None particularly/QL better/JJR ,/pct but/CC it/PPS got/VBD him/PPO away/RB from/IN being/BEG subordinate/JJ to/IN John/NP and/CC assured/VBD him/PPO steady/JJ advancement/NN ,/pct since/CS Funk/NP was/BEDZ owned/VBN to/IN a/AT large/JJ degree/NN by/IN various/JJ branches/NNS of/IN Linda's/NPg family/NN ./pct
+The/AT job/NN at/IN Funk/NP wasn't/BEDZ* particularly/QL better/JJR ,/pct but/CC it/PPS got/VBD him/PPO away/RB from/IN being/BEG subordinate/JJ to/IN John/NP and/CC assured/VBD him/PPO steady/JJ advancement/NN ,/pct since/CS Funk/NP was/BEDZ owned/VBN to/IN a/AT large/JJ degree/NN by/IN various/JJ branches/NNS of/IN Linda's/NPg family/NN ./pct
 Poor/JJ John's/NPg rise/NN continued/VBD to/TO be/BE meteoric/JJ ./pct
 When/WRB he/PPS was/BEDZ made/VBN a/AT vice/NN president/NN only/RB a/AT year/NN after/IN the/AT new/JJ sales/NNS job/NN ,/pct a/AT leading/VBG business/NN magazine/NN ran/VBD his/PPg photograph/NN with/IN a/AT brief/JJ biography/NN in/IN a/AT series/NN on/IN national/JJ business/NN leaders/NNS of/IN the/AT future/NN ./pct

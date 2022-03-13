@@ -4,7 +4,7 @@ It/PPS is/BEZ being/BEG fought/VBN ,/pct moreover/RB ,/pct in/IN fairly/QL close
 They/PPSS predicted/VBD escalation/NN ,/pct and/CC escalation/NN is/BEZ what/WDT we/PPSS are/BER getting/VBG ./pct
 The/AT biggest/JJT nuclear/JJ device/NN the/AT United/VBN States/NNS has/HVZ exploded/VBN measured/VBD some/DTI 15/CD megatons/NNS ,/pct although/CS our/PPg B-52s/NN are/BER said/VBN to/TO be/BE carrying/VBG two/CD 20-megaton/NN bombs/NNS apiece/RB ./pct
 Some/DTI time/NN ago/RB ,/pct however/WRB ,/pct Mr./NP Khrushchev/NP decided/VBD that/CS when/WRB bigger/JJR bombs/NNS were/BED made/VBN ,/pct the/AT Soviet/NN Union/NN would/MD make/VB them/PPO ./pct
-He/PPS seems/VBZ to/TO have/HV at/IN least/AP a/AT few/AP 30-/CD and/CC 50-megaton/JJ bombs/NNS on/IN hand/NN ,/pct since/CS we/PPSS cannot /None assume/VB that/CS he/PPS has/HVZ exploded/VBN his/PPg entire/JJ stock/NN ./pct
+He/PPS seems/VBZ to/TO have/HV at/IN least/AP a/AT few/AP 30-/CD and/CC 50-megaton/JJ bombs/NNS on/IN hand/NN ,/pct since/CS we/PPSS cannot/MD* assume/VB that/CS he/PPS has/HVZ exploded/VBN his/PPg entire/JJ stock/NN ./pct
 And/CC now/RB ,/pct of/IN course/NN ,/pct the/AT hue/NN and/CC cry/NN for/IN counter-escalation/NN is/BEZ being/BEG raised/VBN on/IN our/PPg side/NN ./pct
 Khrushchev/NP threatens/VBZ us/PPO with/IN a/AT 100-megaton/JJ bomb/NN ?/pct ?/pct
 So/RB be/BE it/PPS --/pct then/RB we/PPSS must/MD embark/VB on/IN a/AT crash/JJ program/NN for/IN 200-megaton/JJ bombs/NNS of/IN the/AT common/JJ or/CC hydrogen/NN variety/NN ,/pct and/CC neutron/NN bombs/NNS ,/pct which/WDT do/DO not/NEG exist/VB but/CC are/BER said/VBN to/TO be/BE the/AT coming/VBG thing/NN ./pct
@@ -73,7 +73,7 @@ When/WRB a/AT man/NN is/BEZ laid/VBN to/IN rest/NN ,/pct he/PPS is/BEZ entitled/
 If/CS Nikita/NP buys/VBZ a/AT small/JJ plot/NN in/IN some/DTI modest/JJ rural/JJ cemetery/NN ,/pct everyone/PN will/MD understand/VB ./pct
 U/NP Thant/NP of/IN Burma/NP
 The/AT appointment/NN of/IN U/NP Thant/NP of/IN Burma/NP as/CS the/AT U.N.'s/NPg Acting/VBG Secretary/NN General/JJ --/pct at/IN this/DT writing/NN ,/pct the/AT choice/NN appears/VBZ to/TO be/BE certain/JJ --/pct offers/VBZ further/AP proof/NN that/CS in/IN politics/NN it/PPS is/BEZ more/QL important/JJ to/TO have/HV no/AT influential/JJ enemies/NNS than/CS to/TO have/HV influential/JJ friends/NNS ./pct
-Mongi/NP Slim/NP of/IN Tunisia/NP and/CC Frederick/NP Boland/NP of/IN Ireland/NP were/BED early/JJ favorites/NNS in/IN the/AT running/VBG ,/pct but/CC France/NP didn't /None like/VB the/AT former/AP and/CC the/AT Soviet/NN Union/NN would/MD have/HV none/PN of/IN the/AT latter/AP ./pct
+Mongi/NP Slim/NP of/IN Tunisia/NP and/CC Frederick/NP Boland/NP of/IN Ireland/NP were/BED early/JJ favorites/NNS in/IN the/AT running/VBG ,/pct but/CC France/NP didn't/DOD* like/VB the/AT former/AP and/CC the/AT Soviet/NN Union/NN would/MD have/HV none/PN of/IN the/AT latter/AP ./pct
 With/IN the/AT neutralists/NNS maintaining/VBG pressure/NN for/IN one/CD of/IN their/PPg own/JJ to/TO succeed/VB Mr./NP Hammarskjold/NP ,/pct U/NP Thant/NP emerged/VBD as/CS the/AT only/RB possible/JJ candidate/NN unlikely/JJ to/TO be/BE waylaid/VBN by/IN a/AT veto/NN ./pct
 What/WDT is/BEZ interesting/JJ is/BEZ that/CS his/PPg positive/JJ qualifications/NNS for/IN the/AT post/NN were/BED revealed/VBN only/RB as/CS a/AT kind/NN of/IN tail/NN to/IN his/PPg candidacy/NN ./pct
 In/IN all/ABN the/AT bitter/JJ in-fighting/NN ,/pct the/AT squabbles/NNS over/IN election/NN procedures/NNS ,/pct the/AT complicated/VBN numbers/NNS game/VB that/CS East/NR and/CC West/NR played/VBD on/IN the/AT assistant/JJ secretaries'/NNSg theme/NN ,/pct the/AT gentleman/NN from/IN Burma/NP showed/VBD himself/PPL both/ABX as/CS a/AT man/NN of/IN principle/NN and/CC a/AT skilled/JJ diplomat/NN ./pct
@@ -103,7 +103,7 @@ The/AT country/NN is/BEZ committed/VBN to/IN the/AT doctrine/NN of/IN security/N
 The/AT doctrine/NN has/HVZ never/RB worked/VBN ;/pct ;/pct
 it/PPS is/BEZ not/NEG working/VBG now/RB ./pct
 The/AT official/JJ military/JJ establishment/NN can/MD only/RB threaten/VB to/TO use/VB its/PPg nuclear/JJ arms/NNS ;/pct ;/pct
-it/PPS cannot /None bring/VB them/PPO into/IN actual/JJ play/NN ./pct
-A/AT more/QL dangerous/JJ formula/NN for/IN national/JJ frustration/NN cannot /None be/BE imagined/VBN ./pct
+it/PPS cannot/MD* bring/VB them/PPO into/IN actual/JJ play/NN ./pct
+A/AT more/QL dangerous/JJ formula/NN for/IN national/JJ frustration/NN cannot/MD* be/BE imagined/VBN ./pct
 As/CS the/AT civic/JJ temper/NN rises/VBZ ,/pct the/AT more/QL naive/JJ citizens/NNS begin/VB to/TO play/VB soldier/NN --/pct but/CC the/AT guns/NNS are/BER real/JJ ./pct
 Soon/RB they/PPSS will/MD begin/VB to/TO hunt/VB down/RP the/AT traitors/NNS they/PPSS are/BER assured/VBN are/BER in/IN our/PPg midst/NN ./pct

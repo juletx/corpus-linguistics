@@ -16,11 +16,11 @@ The/AT twenty-three/CD (/pct or/CC twenty-two/CD with/IN the/AT Paynes/NPS thems
 With/IN names/NNS and/CC addresses/NNS listed/VBN ,/pct verification/NN came/VBD next/RB ./pct
 It/PPS would/MD take/VB time/NN ;/pct ;/pct
 it/PPS would/MD ,/pct almost/QL inevitably/RB ,/pct trouble/VB some/DTI water/NN ./pct
-(/pct ``/pct I/PPSS certainly/RB was/BEDZ not/NEG at/IN the/AT Dumont/NP last/AP night/NN and/CC my/PPg husband/NN couldn't /None have/HV been/BEN ./pct
-He's /None in/IN Boston/NP ./pct
-Of/IN course/NN he's /None in/RP ''/pct --/pct )/pct
+(/pct ``/pct I/PPSS certainly/RB was/BEDZ not/NEG at/IN the/AT Dumont/NP last/AP night/NN and/CC my/PPg husband/NN couldn't/MD* have/HV been/BEN ./pct
+He's/PPSBEZ in/IN Boston/NP ./pct
+Of/IN course/NN he's/PPSBEZ in/RP ''/pct --/pct )/pct
 The/AT Hotel/NN King/NN Arthur/NP across/IN the/AT street/NN provided/VBD almost/QL twice/RB as/QL many/AP problems/NNS ./pct
-The/AT King/NN Arthur/NP offered/VBD respectable/JJ and/CC convenient/JJ lodgings/NNS to/IN people/NNS from/IN the/AT suburbs/NNS who/WPS wanted/VBD to/TO see/VB a/AT show/NN and/CC didn't /None want/VB --/pct heaven/NN knew/VBD didn't /None want/VB !/pct !/pct
+The/AT King/NN Arthur/NP offered/VBD respectable/JJ and/CC convenient/JJ lodgings/NNS to/IN people/NNS from/IN the/AT suburbs/NNS who/WPS wanted/VBD to/TO see/VB a/AT show/NN and/CC didn't/DOD* want/VB --/pct heaven/NN knew/VBD didn't/DOD* want/VB !/pct !/pct
 --/pct to/TO lunge/VB anxiously/RB through/IN crowded/VBN streets/NNS to/IN railroad/NN stations/NNS and/CC ,/pct at/IN odd/JJ hours/NNS of/IN night/NN ,/pct drive/VB from/IN smaller/JJR stations/NNS to/IN distant/JJ homes/NNS ,/pct probably/RB through/IN rain/NN or/CC ,/pct in/IN November/NP ,/pct something/PN worse/JJR ./pct
 The/AT King/NN Arthur/NP was/BEDZ less/QL expensive/JJ than/CS the/AT Dumont/NP ./pct
 The/AT King/NN Arthur/NP had/HVD fifty-four/CD overnighters/NNS ,/pct again/RB counting/VBG rooms/NNS rather/IN than/IN people/NNS ./pct
@@ -127,7 +127,7 @@ The/AT boy/NN had/HVD ,/pct apparently/RB --/pct if/CS Mrs./NP MacReady/NP was/B
 Seeing/VBG the/AT man/NN he/PPS blamed/VBD for/IN this/DT made/VBN much/RB of/IN --/pct youth/NN and/CC bitterness/NN and/CC --/pct
 Bill/NP picked/VBD up/RP the/AT telephone/NN ;/pct ;/pct
 got/VBN Mullins/NP ./pct
-``/pct Send/VB out/RP a/AT pickup/NN on/IN Mrs./NP Mason/NP and/CC the/AT boy/NN when/WRB you've /None got/VBN enough/AP to/TO go/VB on/RP ''/pct ,/pct Bill/NP said/VBD ./pct
+``/pct Send/VB out/RP a/AT pickup/NN on/IN Mrs./NP Mason/NP and/CC the/AT boy/NN when/WRB you've/PPSSHV got/VBN enough/AP to/TO go/VB on/RP ''/pct ,/pct Bill/NP said/VBD ./pct
 ``/pct Right/RB ''/pct ?/pct ?/pct
 Mullins/NP would/MD do/DO ./pct
 A/AT man/NN named/VBN Lars/NP Simon/NP ,/pct playwright-director/NN ,/pct had/HVD expressed/VBN a/AT wish/NN that/CS Anthony/NP Payne/NP drop/VB dead/JJ ./pct
@@ -152,12 +152,12 @@ On/IN the/AT other/AP hand/NN ,/pct they/PPSS ,/pct or/CC it/PPS ,/pct seemed/VB
 Pamela/NP North/NP said/VBD ,/pct ``/pct Hi/UH ''/pct ,/pct to/IN her/PPg cats/NNS ,/pct and/CC added/VBD that/CS proper/JJ cats/NNS met/VBD their/PPg humans/NNS at/IN the/AT door/NN ./pct
 Of/IN four/CD dark/JJ brown/JJ ears/NNS ,/pct one/CD twitched/VBD slightly/RB at/IN this/DT ./pct
 ``/pct All/QL right/RB ''/pct ,/pct Pam/NP said/VBD ./pct
-``/pct I/PPSS know/VB it/PPS isn't /None dinnertime/NN ''/pct ./pct
+``/pct I/PPSS know/VB it/PPS isn't/BEZ* dinnertime/NN ''/pct ./pct
 But/CC at/IN this/DT the/AT one/CD too-large/JJ cat/NN suddenly/RB became/VBD two/CD cats/NNS ,/pct stretching/VBG ./pct
 Shadow/NN ,/pct the/AT more/QL talkative/JJ ,/pct began/VBD at/IN once/RB to/TO talk/VB ,/pct her/PPg voice/NN piteous/JJ ./pct
 Stilts/NP ,/pct a/AT more/QL direct/JJ cat/NN ,/pct leaped/VBD from/IN the/AT bed/NN and/CC trotted/VBD briskly/RB toward/IN the/AT kitchen/NN ./pct
 Shadow/NN looked/VBD surprised/VBN ,/pct wailed/VBD ,/pct and/CC trotted/VBD after/IN her/PPO ./pct
-The/AT hell/NN it/PPS isn't /None dinnertime/NN ,/pct two/CD waving/VBG tails/NNS told/VBD Pam/NP North/NP ./pct
+The/AT hell/NN it/PPS isn't/BEZ* dinnertime/NN ,/pct two/CD waving/VBG tails/NNS told/VBD Pam/NP North/NP ./pct
 It/PPS was/BEDZ not/NEG ,/pct whatever/WDT tale/NN was/BEDZ told/VBN by/IN tails/NNS ./pct
 Martha/NP presumably/RB would/MD cope/VB ./pct
 She/PPS might/MD be/BE firm/JJ ./pct
@@ -180,7 +180,7 @@ Pam/NP realized/VBD ,/pct to/IN her/PPg surprise/NN ,/pct that/CS she/PPS had/HV
 At/IN four/CD o'clock/RB in/IN the/AT afternoon/NN ./pct
 Two/CD martinis/NNS for/IN lunch/NN --/pct that/DT was/BEDZ the/AT trouble/NN ./pct
 I/PPSS ought/MD to/TO remember/VB ./pct
-Don't /None pretend/VB ./pct
+Don't/DO* pretend/VB ./pct
 You/PPSS do/DO remember/VB ./pct
 You/PPSS just/RB --/pct ``/pct Hello/UH ?/pct ?/pct
 Yes/RB ,/pct this/DT is/BEZ she/PPS ?/pct ?/pct
@@ -188,9 +188,9 @@ What/WDT ''/pct ?/pct ?/pct
 The/AT voice/NN had/HVD music/NN in/IN it/PPO ./pct
 Even/RB with/IN words/NNS coming/VBG too/QL fast/RB ,/pct they/PPSS came/VBD on/IN the/AT music/NN of/IN the/AT voice/NN ./pct
 ``/pct I/PPSS said/VBD I/PPSS would/MD ''/pct ,/pct Pam/NP said/VBD ./pct
-``/pct They/PPSS won't /None talk/VB about/IN who/WPS gave/VBD the/AT information/NN ./pct
+``/pct They/PPSS won't/MD* talk/VB about/IN who/WPS gave/VBD the/AT information/NN ./pct
 Not/NEG unless/CS they/PPSS have/HV to/TO ./pct
-They/PPSS don't /None ,/pct Mrs./NP Constable/NP ./pct
+They/PPSS don't/DO* ,/pct Mrs./NP Constable/NP ./pct
 Not/NEG unless/CS they/PPSS have/HV ''/pct --/pct
 She/PPS was/BEDZ interrupted/VBN ./pct
 ``/pct Call/VB this/DT a/AT cry/NN for/IN help/NN ''/pct ,/pct Faith/NP Constable/NP said/VBD ./pct

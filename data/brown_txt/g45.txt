@@ -1,7 +1,7 @@
 ``/pct Suppose/VB you/PPSS take/VB Mr./NP Hearst's/NPg morning/NN American/NP at/IN $10,000/NNS a/AT year/NN ''/pct ,/pct Brisbane/NP proposed/VBD ./pct
 ``/pct You/PPSS could/MD come/VB down/RP to/IN the/AT office/NN once/RB a/AT day/NN ,/pct look/VB over/IN a/AT few/AP exchanges/NNS ,/pct dictate/VB an/AT editorial/NN ,/pct and/CC then/RB have/HV the/AT remainder/NN of/IN your/PPg time/NN for/IN your/PPg more/QL serious/JJ literary/JJ labors/NNS ./pct
 If/CS within/IN one/CD year/NN you/PPSS can/MD make/VB a/AT success/NN out/IN of/IN the/AT American/NP ,/pct you/PPSS can/MD practically/RB name/VB your/PPg own/JJ salary/NN thereafter/RB ./pct
-Of/IN course/NN ,/pct if/CS you/PPSS don't /None make/VB the/AT American/NP a/AT success/NN ,/pct Hearst/NP will/MD have/HV no/AT further/AP use/NN for/IN you/PPO ''/pct ./pct
+Of/IN course/NN ,/pct if/CS you/PPSS don't/DO* make/VB the/AT American/NP a/AT success/NN ,/pct Hearst/NP will/MD have/HV no/AT further/AP use/NN for/IN you/PPO ''/pct ./pct
 The/AT blue-eyed/JJ Watson/NP decided/VBD that/CS he/PPS would/MD dislike/VB living/VBG in/IN New/JJ York/NP ,/pct and/CC the/AT deal/NN fell/VBD through/RP ./pct
 Hearst's/NPg luck/NN was/BEDZ even/QL poorer/JJR when/WRB he/PPS had/HVD a/AT chat/NN with/IN Franklin/NP K./NP Lane/NP ,/pct a/AT prominent/JJ California/NP journalist/NN and/CC reform/NN politician/NN ,/pct whom/WPO he/PPS asked/VBD for/IN his/PPg support/NN ./pct
 Lane/NP was/BEDZ still/RB burning/VBG because/CS he/PPS had/HVD narrowly/RB missed/VBN election/NN as/CS governor/NN of/IN California/NP in/IN 1902/CD and/CC laid/VBD his/PPg defeat/NN to/IN the/AT antagonism/NN of/IN Hearst's/NPg San/NP Francisco/NP Examiner/NN ./pct
@@ -17,8 +17,8 @@ Hearst/NP had/HVD spent/VBN more/AP than/IN $60,000/NNS of/IN his/PPg own/JJ mon
 Six/CD of/IN the/AT railroads/NNS carrying/VBG coal/NN to/IN Tidewater/NN from/IN the/AT Pennsylvania/NP fields/NNS ,/pct Hearst/NP said/VBD ,/pct not/NEG only/RB had/HVD illegal/JJ agreements/NNS with/IN coal/NN operators/NNS but/CC owned/VBD outright/RB at/IN least/AP eleven/CD mines/NNS ./pct
 They/PPSS had/HVD watered/VBN their/PPg stock/NN at/IN immense/JJ profit/NN ,/pct then/RB had/HVD raised/VBN the/AT price/NN of/IN coal/NN fifty/CD cents/NNS a/AT ton/NN ,/pct netting/VBG themselves/PPLS another/DT $20,000,000/NNS in/IN annual/JJ profit/NN ./pct
 ``/pct The/AT Attorney/NN General/JJ has/HVZ been/BEN brooding/VBG over/IN that/DT evidence/NN like/CS an/AT old/JJ hen/NN on/IN a/AT doorknob/NN for/IN eighteen/CD months/NNS ''/pct ,/pct Hearst/NP said/VBD ./pct
-``/pct He/PPS has/HVZ not/NEG acted/VBN in/IN any/DTI way/NN ,/pct and/CC won't /None let/VB anyone/PN take/VB it/PPO away/RB from/IN him/PPO ./pct
-What/WDT I/PPSS want/VB is/BEZ to/TO have/HV this/DT evidence/NN come/VB before/IN Congress/NP and/CC if/CS the/AT Attorney/NN General/JJ does/DOZ not/NEG report/VB it/PPO ,/pct as/CS I/PPSS am/BEM very/QL sure/JJ he/PPS won't /None ,/pct as/CS he/PPS has/HVZ refused/VBN to/TO do/DO anything/PN of/IN the/AT kind/NN ,/pct I/PPSS then/RB wish/VB that/CS a/AT committee/NN of/IN seven/CD Representatives/NNS be/BE appointed/VBN with/IN power/NN to/TO take/VB the/AT evidence/NN ./pct
+``/pct He/PPS has/HVZ not/NEG acted/VBN in/IN any/DTI way/NN ,/pct and/CC won't/MD* let/VB anyone/PN take/VB it/PPO away/RB from/IN him/PPO ./pct
+What/WDT I/PPSS want/VB is/BEZ to/TO have/HV this/DT evidence/NN come/VB before/IN Congress/NP and/CC if/CS the/AT Attorney/NN General/JJ does/DOZ not/NEG report/VB it/PPO ,/pct as/CS I/PPSS am/BEM very/QL sure/JJ he/PPS won't/MD* ,/pct as/CS he/PPS has/HVZ refused/VBN to/TO do/DO anything/PN of/IN the/AT kind/NN ,/pct I/PPSS then/RB wish/VB that/CS a/AT committee/NN of/IN seven/CD Representatives/NNS be/BE appointed/VBN with/IN power/NN to/TO take/VB the/AT evidence/NN ./pct
 The/AT Congressman/NN tried/VBD hard/RB ,/pct but/CC failed/VBD ./pct
 This/DT was/BEDZ the/AT very/AP sort/NN of/IN legislation/NN that/WPO Roosevelt/NP himself/PPL had/HVD in/IN mind/NN ./pct
 There/EX can/MD be/BE little/AP doubt/NN that/CS there/EX was/BEDZ a/AT conspiracy/NN in/IN Washington/NP ,/pct overt/JJ or/CC implied/VBN ,/pct to/TO block/VB anything/PN Hearst/NP wanted/VBD ,/pct even/RB if/CS it/PPS was/BEDZ something/PN good/JJ ./pct
@@ -64,9 +64,9 @@ More/QL splenetic/JJ was/BEDZ Senator/NN Edward/NP Carmack/NP of/IN Tennessee/NP
 ``/pct It/PPS would/MD be/BE a/AT disgrace/NN ,/pct and/CC ,/pct as/CS I/PPSS have/HV already/RB said/VBN to/IN the/AT people/NNS of/IN Tennessee/NP ,/pct if/CS Hearst/NP is/BEZ nominated/VBN ,/pct we/PPSS may/MD as/QL well/RB pen/VB a/AT dispatch/NN ,/pct and/CC send/VB it/PPO back/RB from/IN the/AT field/NN of/IN battle/NN :/pct '/pct All/ABN is/BEZ lost/VBN ,/pct including/IN our/PPg honor/NN '/pct ''/pct ./pct
 A/AT lone/JJ pro-Hearst/JJ voice/NN from/IN New/JJ York/NP City/NN was/BEDZ that/DT of/IN William/NP Devery/NP ,/pct who/WPS had/HVD been/BEN expelled/VBN as/CS a/AT Tammany/NP leader/NN but/CC still/RB claimed/VBD strong/JJ influence/NN in/IN his/PPg own/JJ district/NN ./pct
 ``/pct I/PPSS understand/VB [/pct Hearst/NP ]/pct is/BEZ a/AT candidate/NN for/IN Presidential/JJ honors/NNS ''/pct ,/pct Devery/NP said/VBD without/IN cracking/VBG a/AT smile/NN ./pct
-``/pct There's /None nothing/PN like/CS buildin'/VBG from/IN the/AT bottom/NN up/RP ./pct
-If/CS he's /None going/VBG to/IN the/AT St./NP Louis/NP convention/NN as/CS a/AT delegate/NN we/PPSS ought/MD to/TO know/VB it/PPO ./pct
-He's /None got/VBN a/AT lot/NN of/IN friends/NNS ,/pct and/CC he/PPS ought/MD to/TO come/VB along/RB and/CC let/VB us/PPO know/VB if/CS he/PPS wants/VBZ our/PPg help/NN ''/pct ./pct
+``/pct There's/EXBEZ nothing/PN like/CS buildin'/VBG from/IN the/AT bottom/NN up/RP ./pct
+If/CS he's/PPSBEZ going/VBG to/IN the/AT St./NP Louis/NP convention/NN as/CS a/AT delegate/NN we/PPSS ought/MD to/TO know/VB it/PPO ./pct
+He's/PPSBEZ got/VBN a/AT lot/NN of/IN friends/NNS ,/pct and/CC he/PPS ought/MD to/TO come/VB along/RB and/CC let/VB us/PPO know/VB if/CS he/PPS wants/VBZ our/PPg help/NN ''/pct ./pct
 Hearst/NP won/VBD the/AT Iowa/NP state/NN convention/NN ,/pct but/CC ran/VBD into/IN a/AT bitter/JJ battle/NN in/IN Indiana/NP before/CS losing/VBG to/IN Parker/NP ,/pct drawing/VBG an/AT angry/JJ statement/NN from/IN Indiana's/NPg John/NP W./NP Kern/NP :/pct
 ``/pct We/PPSS are/BER menaced/VBN for/IN the/AT first/OD time/NN in/IN the/AT history/NN of/IN the/AT Republic/NN by/IN the/AT open/JJ and/CC unblushing/JJ effort/NN of/IN a/AT multi-millionaire/NN to/TO purchase/VB the/AT Presidential/JJ nomination/NN ./pct
 Our/PPg state/NN has/HVZ been/BEN overrun/VBN with/IN a/AT gang/NN of/IN paid/VBN agents/NNS and/CC retainers/NNS ./pct
@@ -80,9 +80,9 @@ Koenigsberg/NP never/RB did/DOD learn/VB what/WDT Hearst/NP wanted/VBD ,/pct for
 ``/pct Never/RB mind/VB ,/pct thank/VB you/PPO ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct I/PPSS must/MD hurry/VB to/TO catch/VB my/PPg train/NN ''/pct ./pct
 Another/DT editor/NN pointed/VBD despairingly/RB at/IN a/AT bundle/NN of/IN letters/NNS that/WPS had/HVD accumulated/VBN for/IN him/PPO ,/pct saying/VBG ,/pct ``/pct But/CC Mr./NP Hearst/NP ,/pct what/WDT shall/MD I/PPSS do/DO with/IN this/DT correspondence/NN ''/pct ?/pct ?/pct
-``/pct I'll /None show/VB you/PPO ''/pct ,/pct Hearst/NP replied/VBD ,/pct grinning/VBG ./pct
+``/pct I'll/PPSSMD show/VB you/PPO ''/pct ,/pct Hearst/NP replied/VBD ,/pct grinning/VBG ./pct
 He/PPS took/VBD the/AT stack/NN of/IN mail/NN and/CC tossed/VBD it/PPO into/IN the/AT waste/NN basket/NN ./pct
-``/pct Don't /None bother/VB ./pct
+``/pct Don't/DO* bother/VB ./pct
 Every/AT letter/NN answers/VBZ itself/PPL in/IN a/AT couple/NN of/IN weeks/NNS ''/pct ./pct
 2/CD ./pct
 The/AT Hearst/NP ``/pct barrel/NN ''/pct

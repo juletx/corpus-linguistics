@@ -3,28 +3,28 @@ For/CS men/NNS who/WPS had/HVD left/VBN cattle/NNS alone/RB after/IN getting/VBG
 But/CC the/AT day/NN of/IN the/AT deadline/NN came/VBD and/CC passed/VBD ,/pct and/CC the/AT men/NNS who/WPS had/HVD scoffed/VBN at/IN the/AT warnings/NNS laughed/VBD with/IN satisfaction/NN ./pct
 For/CS ,/pct with/IN a/AT single/AP exception/NN ,/pct nothing/PN had/HVD happened/VBN to/IN them/PPO ./pct
 The/AT exception/NN was/BEDZ an/AT Iron/NN Mountain/NN settler/NN named/VBN William/NP Lewis/NP ./pct
-After/CS walking/VBG out/RP to/IN his/PPg corral/NN that/DT morning/NN ,/pct he'd /None been/BEN amazed/VBN to/TO see/VB the/AT dust/NN puff/VB up/RP in/IN front/NN of/IN his/PPg feet/NNS ./pct
+After/CS walking/VBG out/RP to/IN his/PPg corral/NN that/DT morning/NN ,/pct he'd/PPSHVD been/BEN amazed/VBN to/TO see/VB the/AT dust/NN puff/VB up/RP in/IN front/NN of/IN his/PPg feet/NNS ./pct
 A/AT split/VBN second/NN later/RBR ,/pct the/AT distant/JJ crack/NN of/IN a/AT rifle/NN had/HVD sounded/VBN ./pct
-He'd /None mounted/VBN up/RP immediately/RB and/CC raced/VBN with/IN a/AT revolver/NN ready/JJ toward/IN the/AT spot/NN from/IN which/WDT he'd /None estimated/VBN the/AT shot/NN had/HVD come/VBN ./pct
+He'd/PPSHVD mounted/VBN up/RP immediately/RB and/CC raced/VBN with/IN a/AT revolver/NN ready/JJ toward/IN the/AT spot/NN from/IN which/WDT he'd/PPSHVD estimated/VBN the/AT shot/NN had/HVD come/VBN ./pct
 But/CC he/PPS had/HVD found/VBN all/ABN of/IN the/AT thickets/NNS and/CC points/NNS of/IN cover/NN deserted/VBN ./pct
 There/EX had/HVD been/BEN no/AT sign/NN of/IN a/AT rifleman/NN and/CC no/AT track/NN or/CC trace/NN to/TO show/VB that/CS anyone/PN had/HVD been/BEN near/RB ./pct
 Lewis/NP was/BEDZ a/AT man/NN who/WPS had/HVD made/VBN a/AT full-time/JJ job/NN of/IN cow/NN stealing/NN ./pct
-He/PPS hadn't /None even/RB pretended/VBN to/TO be/BE farming/VBG his/PPg spread/NN ./pct
+He/PPS hadn't/HVD* even/RB pretended/VBN to/TO be/BE farming/VBG his/PPg spread/NN ./pct
 His/PPg land/NN had/HVD never/RB been/BEN plowed/VBN ./pct
 He/PPS had/HVD done/VBN his/PPg rustling/NN openly/RB and/CC boasted/VBD about/IN it/PPO ./pct
 He/PPS had/HVD received/VBN both/ABX first/OD and/CC second/OD anonymous/JJ notices/NNS ,/pct and/CC each/DT time/NN he/PPS had/HVD accused/VBN his/PPg neighbors/NNS of/IN writing/VBG them/PPO ./pct
 He/PPS had/HVD cursed/VBN at/IN them/PPO and/CC threatened/VBN them/PPO ./pct
-He/PPS was/BEDZ a/AT man/NN ,/pct those/DTS neighbors/NNS testified/VBD later/RBR ,/pct who/WPS didn't /None have/HV a/AT friend/NN in/IN the/AT world/NN ./pct
+He/PPS was/BEDZ a/AT man/NN ,/pct those/DTS neighbors/NNS testified/VBD later/RBR ,/pct who/WPS didn't/DOD* have/HV a/AT friend/NN in/IN the/AT world/NN ./pct
 William/NP Lewis/NP made/VBD the/AT rounds/NNS of/IN all/ABN who/WPS lived/VBD near/IN him/PPO again/RB ,/pct that/DT August/NP morning/NN after/CS a/AT bullet/NN landed/VBD at/IN his/PPg feet/NNS ,/pct and/CC once/RB more/RBR he/PPS accused/VBD and/CC threatened/VBD everyone/PN ./pct
-``/pct I'll /None be/BE ready/JJ next/AP time/NN ''/pct !/pct !/pct
+``/pct I'll/PPSSMD be/BE ready/JJ next/AP time/NN ''/pct !/pct !/pct
 He/PPS raged/VBD ./pct
-``/pct I'll /None be/BE shootin'/VBG right/QL back/RB ''/pct ./pct
+``/pct I'll/PPSSMD be/BE shootin'/VBG right/QL back/RB ''/pct ./pct
 He/PPS had/HVD his/PPg chance/NN the/AT very/QL next/AP morning/NN ,/pct for/CS exactly/RB the/AT same/AP thing/NN happened/VBD again/RB ./pct
 This/DT time/NN Lewis/NP had/HVD his/PPg own/JJ rifle/NN in/IN his/PPg hands/NNS ,/pct and/CC he/PPS threw/VBD some/DTI answering/VBG fire/NN back/RB at/IN the/AT mysterious/JJ far-off/JJ shot/NN ,/pct then/RB spent/VBD most/AP of/IN the/AT day/NN searching/VBG out/RP the/AT area/NN ./pct
 He/PPS found/VBD nothing/PN ,/pct but/CC he/PPS still/RB refused/VBD to/TO give/VB up/RP and/CC move/VB out/RP ./pct
 ``/pct Just/RB let/VB me/PPO meet/VB up/RP with/IN that/DT damned/VBN bushwhackin'/JJ coward/NN face-to-face/RB ''/pct !/pct !/pct
 He/PPS exploded/VBD ./pct
-``/pct That's /None all/ABN I/PPSS ask/VB ''/pct !/pct !/pct
+``/pct That's/DTBEZ all/ABN I/PPSS ask/VB ''/pct !/pct !/pct
 He/PPS never/RB got/VBD that/DT chance/NN ./pct
 For/CS the/AT unseen/JJ ,/pct ghostlike/JJ rifleman/NN aimed/VBD a/AT little/AP higher/JJR the/AT third/OD time/NN ./pct
 A/AT bullet/NN smashed/VBD directly/RB into/IN the/AT center/NN of/IN William/NP Lewis'/NPg chest/NN ./pct
@@ -37,16 +37,16 @@ He/PPS was/BEDZ finally/RB found/VBN in/IN the/AT Bates/NP Hole/NN region/NN of/
 Prosecutor/NN Baird/NP immediately/RB assumed/VBD he/PPS was/BEDZ hiding/VBG out/RP there/RB after/IN the/AT shooting/NN and/CC began/VBD preparing/VBG an/AT indictment/NN ./pct
 But/CC that/DT indictment/NN was/BEDZ never/RB made/VBN ./pct
 For/CS Tom/NP Horn/NP ,/pct it/PPS turned/VBD out/RP ,/pct had/HVD a/AT number/NN of/IN rancher/NN and/CC cowboy/NN witnesses/NNS ready/JJ and/CC willing/JJ to/TO swear/VB with/IN straight/JJ faces/NNS that/CS he/PPS had/HVD been/BEN in/IN Bates/NP Hole/NN the/AT day/NN of/IN the/AT killing/NN ./pct
-The/AT former/AP scout's/NNg alibi/NN couldn't /None be/BE shaken/VBN ./pct
+The/AT former/AP scout's/NNg alibi/NN couldn't/MD* be/BE shaken/VBN ./pct
 The/AT authorities/NNS had/HVD to/TO release/VB him/PPO ./pct
 He/PPS immediately/RB rode/VBD on/RP to/IN Cheyenne/NP ,/pct threw/VBD a/AT ten-day/JJ drinking/VBG spree/NN and/CC dropped/VBD some/DTI very/QL strong/JJ hints/NNS among/IN friends/NNS ./pct
 ``/pct Dead/JJ center/NN at/IN three/CD hundred/CD yards/NNS ,/pct that/DT coroner/NN said/VBD ''/pct !/pct !/pct
-He'd /None grin/VB ./pct
+He'd/PPSMD grin/VB ./pct
 ``/pct Three/CD shots/NNS in/IN that/DT fella/NN 'fore/CS he/PPS hit/VBD the/AT ground/NN !/pct !/pct
-You/PPSS reckon/VB there's /None two/CD men/NNS in/IN this/DT state/NN can/MD shoot/VB like/IN that/DT ''/pct ?/pct ?/pct
+You/PPSS reckon/VB there's/EXBEZ two/CD men/NNS in/IN this/DT state/NN can/MD shoot/VB like/IN that/DT ''/pct ?/pct ?/pct
 Publicly/RB ,/pct he/PPS denied/VBD everything/PN ./pct
 Privately/RB ,/pct he/PPS created/VBD and/CC magnified/VBD an/AT image/NN of/IN himself/PPL as/CS a/AT hired/VBN assassin/NN ./pct
-For/CS a/AT blood-chilling/JJ ring/NN of/IN terror/NN to/IN the/AT very/AP sound/NN of/IN his/PPg name/NN was/BEDZ the/AT tool/NN he/PPS needed/VBD for/IN the/AT job/NN he'd /None promised/VBN to/TO do/DO ./pct
+For/CS a/AT blood-chilling/JJ ring/NN of/IN terror/NN to/IN the/AT very/AP sound/NN of/IN his/PPg name/NN was/BEDZ the/AT tool/NN he/PPS needed/VBD for/IN the/AT job/NN he'd/PPSHVD promised/VBN to/TO do/DO ./pct
 Tom/NP Horn/NP was/BEDZ soon/RB back/RB at/IN work/NN ,/pct giving/VBG his/PPg secret/JJ employers/NNS their/PPg money's/NNg worth/NN ./pct
 A/AT good/JJ many/AP beef-hungry/JJ settlers/NNS were/BED accepting/VBG the/AT death/NN of/IN William/NP Lewis/NP as/CS proof/NN that/CS the/AT warning/VBG notes/NNS were/BED not/NEG idle/JJ threats/NNS ./pct
 The/AT company/NN herds/NNS were/BED being/BEG raided/VBN less/QL often/RB ,/pct and/CC cabins/NNS and/CC soddies/NNS all/ABN over/IN the/AT range/NN were/BED standing/VBG deserted/VBN ./pct
@@ -55,14 +55,14 @@ The/AT rustling/VBG problem/NN was/BEDZ by/IN no/AT means/NNS solved/VBN ./pct
 Even/RB in/IN the/AT very/QL area/NN where/WRB the/AT shooting/NN had/HVD been/BEN done/VBN ,/pct cattle/NNS were/BED still/RB disappearing/VBG ./pct
 For/IN less/AP than/IN a/AT dozen/NN miles/NNS from/IN the/AT unplowed/JJ land/NN of/IN the/AT dead/JJ man/NN lived/VBD another/DT settler/NN who/WPS had/HVD ignored/VBN the/AT warnings/NNS that/WPS his/PPg existence/NN might/MD be/BE foreclosed/VBN on/IN --/pct a/AT blatant/JJ and/CC defiant/JJ rustler/NN named/VBN Fred/NP Powell/NP ./pct
 ``/pct Fred/NP was/BEDZ mighty/QL crude/JJ about/IN the/AT way/NN he/PPS took/VBD in/IN cattle/NNS ''/pct his/PPg own/JJ hired/VBN man/NN ,/pct Andy/NP Ross/NP ,/pct mentioned/VBD later/RBR ./pct
-``/pct Everyone/PN knew/VBD it/PPO ,/pct but/CC he/PPS sort/RB of/IN acted/VBN like/CS he/PPS didn't /None care/VB who/WPS knew/VBD it/PPO --/pct even/RB after/IN them/PPO notes/NNS came/VBD ,/pct even/RB after/CS he'd /None heard/VBN about/IN Lewis/NP ,/pct even/RB after/CS he'd /None been/BEN shot/VBN at/IN a/AT couple/NN o'/IN times/NNS hisself/PPL ''/pct !/pct !/pct
+``/pct Everyone/PN knew/VBD it/PPO ,/pct but/CC he/PPS sort/RB of/IN acted/VBN like/CS he/PPS didn't/DOD* care/VB who/WPS knew/VBD it/PPO --/pct even/RB after/IN them/PPO notes/NNS came/VBD ,/pct even/RB after/CS he'd/PPSHVD heard/VBN about/IN Lewis/NP ,/pct even/RB after/CS he'd/PPSHVD been/BEN shot/VBN at/IN a/AT couple/NN o'/IN times/NNS hisself/PPL ''/pct !/pct !/pct
 On/IN the/AT morning/NN of/IN September/NP 10/CD ,/pct 1895/CD ,/pct Powell/NP and/CC Ross/NP rose/VBD at/IN dawn/NN and/CC began/VBD their/PPg day's/NNg work/NN ./pct
 Haying/VBG time/NN was/BEDZ close/RB at/IN hand/NN ,/pct and/CC they/PPSS needed/VBD some/DTI strong/JJ branches/NNS to/TO repair/VB a/AT hay/NN rack/NN ./pct
 Harnessing/VBG a/AT team/NN to/IN a/AT buckboard/NN ,/pct they/PPSS drove/VBD out/RP to/IN a/AT willow-lined/JJ creek/NN about/IN a/AT half-mile/NN off/RP ,/pct then/RB climbed/VBD down/RP and/CC began/VBD chopping/VBG ./pct
 Andy/NP Ross/NP had/HVD just/RB started/VBN swinging/VBG an/AT ax/NN at/IN his/PPg second/OD willow/NN when/WRB the/AT distant/JJ blast/NN of/IN a/AT rifle/NN sounded/VBD ./pct
 He/PPS looked/VBD around/RB in/IN surprise/NN ,/pct then/RB noticed/VBD that/CS Fred/NP Powell/NP was/BEDZ clutching/VBG his/PPg chest/NN ./pct
 The/AT hired/VBN man/NN ran/VBD over/RP to/TO help/VB his/PPg boss/NN ./pct
-``/pct My/PPg God/NP ,/pct I'm /None shot/VBN ''/pct !/pct !/pct
+``/pct My/PPg God/NP ,/pct I'm/PPSSBEM shot/VBN ''/pct !/pct !/pct
 Powell/NP gasped/VBD ./pct
 And/CC he/PPS collapsed/VBD and/CC died/VBD instantly/RB ./pct
 Ross/NP had/HVD no/AT intention/NN of/IN searching/VBG for/IN the/AT assassin/NN ./pct
@@ -74,35 +74,35 @@ Not/NEG even/RB an/AT empty/JJ cartridge/NN case/NN could/MD be/BE found/VBN ./p
 Once/RB again/RB ,/pct Tom/NP Horn/NP was/BEDZ the/AT first/OD and/CC most/QL likely/JJ suspect/NN ,/pct and/CC he/PPS was/BEDZ brought/VBN in/RP for/IN questioning/VBG immediately/RB ./pct
 Once/RB again/RB ,/pct he/PPS shook/VBD his/PPg head/NN ,/pct kept/VBD his/PPg face/NN expressionless/JJ and/CC his/PPg voice/NN very/QL calm/JJ ,/pct and/CC had/HVD a/AT strongly/RB supported/VBN alibi/NN ready/JJ ./pct
 Later/RBR ,/pct riding/VBG in/RP for/IN some/DTI lusty/JJ enjoyment/NN of/IN the/AT liquor/NN and/CC professional/JJ ladies/NNS of/IN Cheyenne/NP ,/pct he/PPS laid/VBD claim/NN to/IN the/AT killing/NN with/IN the/AT vague/JJ insinuations/NNS he/PPS made/VBD ./pct
-``/pct Exterminatin'/VBG cow/NN thieves/NNS is/BEZ just/RB a/AT business/NN proposition/NN with/IN me/PPO ''/pct ,/pct he'd /None blandly/RB announce/VB ./pct
+``/pct Exterminatin'/VBG cow/NN thieves/NNS is/BEZ just/RB a/AT business/NN proposition/NN with/IN me/PPO ''/pct ,/pct he'd/PPSMD blandly/RB announce/VB ./pct
 ``/pct And/CC I/PPSS sort/NN o'/IN got/VBN a/AT corner/NN on/IN the/AT market/NN ''/pct ./pct
 ``/pct Tom/NP ''/pct ,/pct a/AT friend/NN asked/VBD him/PPO once/RB ,/pct ``/pct how/WRB come/VB you/PPSS bushwhacked/VBD them/DTS rustlers/NNS ?/pct ?/pct
-They/PPSS wouldn't /None o'/HV stood/VBN no/AT chance/NN with/IN you/PPO in/IN a/AT plain/JJ ,/pct straight-out/JJ shoot-down/NN ''/pct ./pct
+They/PPSS wouldn't/MD* o'/HV stood/VBN no/AT chance/NN with/IN you/PPO in/IN a/AT plain/JJ ,/pct straight-out/JJ shoot-down/NN ''/pct ./pct
 He/PPS had/HVD lots/NNS of/IN friends/NNS ,/pct then/RB as/CS always/RB ./pct
 Even/RB as/CS he/PPS became/VBD widely/RB known/VBN as/CS a/AT professional/JJ killer/NN ,/pct nearly/RB every/AT cowboy/NN and/CC rancher/NN in/IN Wyoming/NP seemed/VBD proud/JJ to/TO call/VB him/PPO a/AT friend/NN ./pct
 No/AT man's/NNg name/NN brought/VBD more/AP cheers/NNS when/WRB it/PPS was/BEDZ announced/VBN in/IN a/AT rodeo/NN ./pct
 ``/pct Well/RB ''/pct ,/pct he/PPS explained/VBD ,/pct ``/pct s'posin'/CS you/PPSS was/BEDZ a/AT nester/NN swingin'/VBG the/AT long/JJ rope/NN ?/pct ?/pct
 Which/WDT would/MD you/PPO be/BE most/RBT scairt/VBN of/IN --/pct a/AT dry-gulchin'/NN or/CC a/AT shoot-down/NN ''/pct ?/pct ?/pct
 ``/pct Yeah/RB ,/pct I/PPSS can/MD see/VB that/DT ''/pct ,/pct the/AT friend/NN was/BEDZ forced/VBN to/TO agree/VB ./pct
-``/pct But/CC well/RB ,/pct it/PPS just/RB don't /None seem/VB sportin'/VBG somehow/RB ''/pct !/pct !/pct
+``/pct But/CC well/RB ,/pct it/PPS just/RB don't/DO* seem/VB sportin'/VBG somehow/RB ''/pct !/pct !/pct
 ``/pct Sportin'/VBG ''/pct !/pct !/pct
 The/AT tall/JJ sunburnt/VBN rustler-hunter/NN stared/VBD in/IN amazement/NN ./pct
 ``/pct Sportin'/VBG ''/pct !/pct !/pct
 He/PPS echoed/VBD again/RB in/IN soft/JJ wonder/NN ./pct
 ``/pct I/PPSS seen/VBN a/AT lot/NN o'/IN things/NNS in/IN my/PPg time/NN ./pct
-I/PPSS found/VBD a/AT trooper/NN once/CS the/AT Apache/NPS had/HVD spread-eagled/VBN on/IN an/AT ant/NN hill/NN ,/pct and/CC another/DT time/NN we/PPSS ran/VBD across/RB some/DTI teamsters/NNS they'd /None caught/VBN ,/pct tied/VBN upside/RB down/RP on/IN their/PPg own/JJ wagon/NN wheels/NNS over/IN little/JJ fires/NNS until/CS their/PPg brains/NNS was/BEDZ exploded/VBN right/QL out/RP o'/IN their/PPg skulls/NNS ./pct
+I/PPSS found/VBD a/AT trooper/NN once/CS the/AT Apache/NPS had/HVD spread-eagled/VBN on/IN an/AT ant/NN hill/NN ,/pct and/CC another/DT time/NN we/PPSS ran/VBD across/RB some/DTI teamsters/NNS they'd/PPSSHVD caught/VBN ,/pct tied/VBN upside/RB down/RP on/IN their/PPg own/JJ wagon/NN wheels/NNS over/IN little/JJ fires/NNS until/CS their/PPg brains/NNS was/BEDZ exploded/VBN right/QL out/RP o'/IN their/PPg skulls/NNS ./pct
 I/PPSS heard/VBD o'/IN Texas/NP cattlemen/NNS wrappin'/VBG a/AT cow/NN thief/NN up/RP in/IN green/JJ hides/NNS and/CC lettin'/VBG the/AT sun/NN shrink/VB 'em/PPO and/CC squeeze/VB him/PPO to/IN death/NN ./pct
-But/CC there's /None one/CD thing/NN I/PPSS never/RB seen/VBN or/CC heard/VBD of/IN ,/pct one/CD thing/NN I/PPSS just/RB don't /None think/VB there/EX is/BEZ ,/pct and/CC that's /None a/AT sportin'/VBG way/NN o'/IN killin'/VBG a/AT man/NN ''/pct !/pct !/pct
+But/CC there's/EXBEZ one/CD thing/NN I/PPSS never/RB seen/VBN or/CC heard/VBD of/IN ,/pct one/CD thing/NN I/PPSS just/RB don't/DO* think/VB there/EX is/BEZ ,/pct and/CC that's/DTBEZ a/AT sportin'/VBG way/NN o'/IN killin'/VBG a/AT man/NN ''/pct !/pct !/pct
 After/IN the/AT first/OD two/CD murders/NNS ,/pct the/AT warning/VBG notes/NNS were/BED rarely/RB ignored/VBN ./pct
 The/AT lesson/NN had/HVD been/BEN learned/VBN ./pct
 The/AT examples/NNS were/BED plain/JJ ./pct
 When/WRB Fred/NP Powell's/NPg brother-in-law/NN ,/pct Charlie/NP Keane/NP ,/pct moved/VBD into/IN the/AT dead/JJ man's/NNg home/NR ,/pct the/AT anonymous/JJ letter/NN writer/NN took/VBD no/AT chances/NNS on/IN Charlie/NP taking/VBG up/RP where/WRB Fred/NP had/HVD left/VBN off/RP and/CC wasted/VBD no/AT time/NN on/IN a/AT first/OD notice/NN :/pct
-If/CS you/PPSS don't /None leave/VB this/DT country/NN within/IN 3/CD days/NNS ,/pct your/PPg life/NN will/MD be/BE taken/VBN the/AT same/AP as/CS Powell's/NPg was/BEDZ ./pct
+If/CS you/PPSS don't/DO* leave/VB this/DT country/NN within/IN 3/CD days/NNS ,/pct your/PPg life/NN will/MD be/BE taken/VBN the/AT same/AP as/CS Powell's/NPg was/BEDZ ./pct
 This/DT was/BEDZ the/AT message/NN found/VBN tacked/VBN to/IN the/AT cabin/NN door/NN ./pct
 Keane/NP left/VBD ,/pct within/IN three/CD days/NNS ./pct
 All/ABN through/IN Albany/NP and/CC Laramie/NP counties/NNS ,/pct other/AP men/NNS were/BED doing/VBG the/AT same/AP ./pct
-Houses/NNS of/IN settlers/NNS who'd /None treated/VBN the/AT company/NN herds/NNS as/CS a/AT natural/JJ resource/NN ,/pct free/JJ for/IN the/AT taking/NN ,/pct were/BED sitting/VBG empty/JJ ,/pct with/IN weeds/NNS growing/VBG high/JJ in/IN their/PPg yards/NNS ./pct
-The/AT small/JJ half-heartedly/RB tended/VBN fields/NNS of/IN men/NNS who'd /None spent/VBN more/AP time/NN rustling/VBG cattle/NNS than/CS farming/VBG were/BED lying/VBG fallow/JJ ./pct
+Houses/NNS of/IN settlers/NNS who'd/WPSHVD treated/VBN the/AT company/NN herds/NNS as/CS a/AT natural/JJ resource/NN ,/pct free/JJ for/IN the/AT taking/NN ,/pct were/BED sitting/VBG empty/JJ ,/pct with/IN weeds/NNS growing/VBG high/JJ in/IN their/PPg yards/NNS ./pct
+The/AT small/JJ half-heartedly/RB tended/VBN fields/NNS of/IN men/NNS who'd/WPSHVD spent/VBN more/AP time/NN rustling/VBG cattle/NNS than/CS farming/VBG were/BED lying/VBG fallow/JJ ./pct
 No/AT cow/NN thief/NN could/MD count/VB on/RP a/AT jury/NN of/IN his/PPg sympathetic/JJ peers/NNS to/TO free/VB him/PPO any/DTI longer/RBR ./pct
 Jury/NN ,/pct judge/NN and/CC executioner/NN were/BED riding/VBG the/AT range/NN in/IN the/AT form/NN of/IN a/AT single/AP unknown/JJ figure/NN that/WPS could/MD materialize/VB anywhere/RB ,/pct at/IN any/DTI time/NN ,/pct to/TO dispense/VB an/AT ancient/JJ brand/NN of/IN justice/NN the/AT men/NNS of/IN the/AT new/JJ West/NR had/HVD believed/VBN long/RB outdated/VBN ./pct
 For/IN three/CD straight/JJ years/NNS ,/pct Tom/NP Horn/NP patrolled/VBD the/AT southern/JJ Wyoming/NP pastures/NNS ,/pct and/CC how/WRB many/AP men/NNS he/PPS killed/VBD after/IN Lewis/NP and/CC Powell/NP (/pct if/CS he/PPS killed/VBD Lewis/NP and/CC Powell/NP )/pct will/MD never/RB be/BE known/VBN ./pct
@@ -115,7 +115,7 @@ For/CS that/DT legend/NN was/BEDZ growing/VBG explosively/RB ,/pct Rumor/NN was/
 One/CD thing/NN was/BEDZ certain/JJ --/pct his/PPg method/NN was/BEDZ effective/JJ ,/pct so/QL effective/JJ that/CS after/IN a/AT time/NN even/RB the/AT warning/VBG notices/NNS were/BED often/RB unnecessary/JJ ./pct
 The/AT mere/JJ fact/NN that/CS the/AT tall/JJ figure/NN with/IN the/AT rifle/NN and/CC field/NN glasses/NNS had/HVD been/BEN seen/VBN riding/VBG that/DT way/NN was/BEDZ enough/AP to/TO frighten/VB three/CD rustling/VBG homesteaders/NNS out/IN of/IN the/AT Upper/JJ Laramie/NP country/NN in/IN a/AT single/AP week/NN ./pct
 ``/pct My/PPg reputation's/NNg my/PPg stock/NN in/IN trade/NN ''/pct ,/pct Tom/NP mentioned/VBD more/AP than/IN once/RB ./pct
-He/PPS evidently/RB couldn't /None foresee/VB that/CS it/PPS might/MD be/BE his/PPg downfall/NN in/IN the/AT end/NN ./pct
+He/PPS evidently/RB couldn't/MD* foresee/VB that/CS it/PPS might/MD be/BE his/PPg downfall/NN in/IN the/AT end/NN ./pct
 He/PPS had/HVD made/VBN himself/PPL the/AT personification/NN of/IN the/AT Devil/NN to/IN the/AT homesteaders/NNS ./pct
 But/CC to/IN the/AT cattlemen/NNS who/WPS had/HVD been/BEN facing/VBG bankruptcy/NN from/IN rustling/VBG losses/NNS and/CC to/IN the/AT cowboys/NNS who/WPS had/HVD been/BEN faced/VBN with/IN lay-offs/NNS a/AT few/AP years/NNS earlier/RBR ,/pct he/PPS was/BEDZ becoming/VBG a/AT vastly/RB different/JJ type/NN of/IN legendary/JJ figure/NN ./pct
 Such/JJ ranchers/NNS as/CS Coble/NP and/CC Clay/NP and/CC the/AT Bosler/NP brothers/NNS carried/VBD him/PPO on/IN their/PPg books/NNS as/CS a/AT cowhand/NN even/RB while/CS he/PPS was/BEDZ receiving/VBG a/AT much/QL larger/JJR salary/NN from/IN parties/NNS unknown/JJ ./pct

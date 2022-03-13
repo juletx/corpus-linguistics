@@ -16,7 +16,7 @@ They/PPSS are/BER preoccupied/VBN riding/VBG herd/NN on/IN control/NN panels/NNS
 They/PPSS know/VB little/AP about/IN their/PPg machinery/NN beyond/IN mechanical/JJ details/NNS ./pct
 Accidental/JJ war/NN is/BEZ so/QL sensitive/JJ a/AT subject/NN that/CS most/AP of/IN the/AT people/NNS who/WPS could/MD become/VB directly/RB involved/VBN in/IN one/CD are/BER told/VBN just/RB enough/AP so/CS they/PPSS can/MD perform/VB their/PPg portions/NNS of/IN incredibly/QL complex/JJ tasks/NNS ./pct
 Among/IN the/AT policy/NN makers/NNS ,/pct generals/NNS ,/pct physicists/NNS ,/pct psychologists/NNS and/CC others/NNS charged/VBN with/IN controlling/VBG the/AT actions/NNS of/IN the/AT button/NN pushers/NNS and/CC their/PPg ``/pct hardware/NN ''/pct ,/pct the/AT answers/NNS to/IN my/PPg questions/NNS varied/VBD partly/RB according/IN to/IN a/AT man's/NNg flair/NN for/IN what/WDT the/AT professionals/NNS in/IN this/DT field/NN call/VB ``/pct scenarios/NNS ''/pct ./pct
-As/CS an/AT Air/NN Force/NN psychiatrist/NN put/VBD it/PPO :/pct ``/pct You/PPSS can't /None have/HV dry/JJ runs/NNS on/IN this/DT one/CD ''/pct ./pct
+As/CS an/AT Air/NN Force/NN psychiatrist/NN put/VBD it/PPO :/pct ``/pct You/PPSS can't/MD* have/HV dry/JJ runs/NNS on/IN this/DT one/CD ''/pct ./pct
 The/AT experts/NNS are/BER thus/RB forced/VBN to/TO hypothesize/VB sequences/NNS of/IN events/NNS that/WPS have/HV never/RB occurred/VBN ,/pct probably/RB never/RB will/MD --/pct but/CC possibly/RB might/MD ./pct
 Only/RB one/CD rule/NN prevailed/VBD in/IN my/PPg conversations/NNS with/IN these/DTS men/NNS :/pct The/AT more/QL highly/QL placed/VBN they/PPSS are/BER --/pct that/DT is/BEZ ,/pct the/AT more/AP they/PPSS know/VB --/pct the/AT more/QL concerned/VBN they/PPSS have/HV become/VBN ./pct
 Already/RB accidental/JJ war/NN is/BEZ a/AT silent/JJ guest/NN at/IN the/AT discussions/NNS within/IN the/AT Kennedy/NP Administration/NN about/IN the/AT urgency/NN of/IN disarmament/NN and/CC nearly/RB all/ABN other/AP questions/NNS of/IN national/JJ security/NN ./pct
@@ -47,9 +47,9 @@ The/AT same/AP principle/NN of/IN ``/pct redundancy/NN ''/pct applies/VBZ to/IN 
 And/CC no/AT messages/NNS can/MD be/BE transmitted/VBN on/IN these/DTS circuits/NNS until/CS senders/NNS and/CC receivers/NNS authenticate/VB in/IN advance/NN ,/pct by/IN special/JJ codes/NNS ,/pct that/CS the/AT messages/NNS actually/RB come/VB from/IN their/PPg purported/VBN sources/NNS ./pct
 Additional/JJ codes/NNS can/MD be/BE used/VBN to/TO challenge/VB and/CC counterchallenge/VB the/AT authentications/NNS ./pct
 Only/RB the/AT President/NN is/BEZ permitted/VBN to/TO authorize/VB the/AT use/NN of/IN nuclear/JJ weapons/NNS ./pct
-That's /None the/AT law/NN ./pct
+That's/DTBEZ the/AT law/NN ./pct
 But/CC what/WDT if/CS somebody/PN decides/VBZ to/TO break/VB it/PPO ?/pct ?/pct
-The/AT President/NN cannot /None personally/RB remove/VB the/AT safety/NN devices/NNS from/IN every/AT nuclear/JJ trigger/NN ./pct
+The/AT President/NN cannot/MD* personally/RB remove/VB the/AT safety/NN devices/NNS from/IN every/AT nuclear/JJ trigger/NN ./pct
 He/PPS makes/VBZ the/AT momentous/JJ decision/NN ./pct
 Hundreds/NNS of/IN men/NNS are/BER required/VBN to/TO pass/VB the/AT word/NN to/IN the/AT button/NN pushers/NNS and/CC to/TO push/VB the/AT buttons/NNS ./pct
 What/WDT if/CS one/CD or/CC more/AP of/IN them/PPO turn/VB irrational/JJ or/CC suddenly/RB ,/pct coolly/RB ,/pct decide/VB to/TO clobber/VB the/AT Russians/NPS ?/pct ?/pct
@@ -57,7 +57,7 @@ What/WDT if/CS the/AT President/NN himself/PPL ,/pct in/IN the/AT language/NN of
 Or/CC singlehandedly/RB decided/VBD to/TO reverse/VB national/JJ policy/NN and/CC hit/VB the/AT Soviets/NPS without/IN provocation/NN ?/pct ?/pct
 Nobody/PN can/MD be/BE absolutely/QL certain/JJ of/IN the/AT answers/NNS ./pct
 However/RB ,/pct the/AT system/NN is/BEZ designed/VBN ,/pct ingeniously/RB and/CC hopefully/RB ,/pct so/CS that/CS no/AT one/CD man/NN could/MD initiate/VB a/AT thermonuclear/JJ war/NN ./pct
-Even/RB the/AT President/NN cannot /None pick/VB up/RP his/PPg telephone/NN and/CC give/VB a/AT ``/pct go/VB ''/pct order/NN ./pct
+Even/RB the/AT President/NN cannot/MD* pick/VB up/RP his/PPg telephone/NN and/CC give/VB a/AT ``/pct go/VB ''/pct order/NN ./pct
 Even/RB he/PPS does/DOZ not/NEG know/VB the/AT one/CD signal/NN for/IN a/AT nuclear/JJ strike/NN --/pct the/AT ``/pct go/VB code/NN ''/pct ./pct
 In/IN an/AT emergency/NN he/PPS would/MD receive/VB available/JJ intelligence/NN on/IN the/AT ``/pct gold-phone/JJ circuit/NN ''/pct ./pct
 A/AT system/NN of/IN ``/pct gold/JJ ''/pct --/pct actually/RB yellow/JJ --/pct phones/NNS connects/VBZ him/PPO with/IN the/AT offices/NNS and/CC action/NN stations/NNS of/IN the/AT Secretary/NN of/IN Defense/NN ,/pct the/AT Joint/JJ Chiefs/NNS of/IN Staff/NN ,/pct the/AT SAC/NN commander/NN and/CC other/AP key/JJS men/NNS ./pct
@@ -95,17 +95,17 @@ He/PPS need/MD only/RB pick/VB up/RP one/CD of/IN the/AT two/CD red/JJ telephone
 But/CC Wisman/NP ,/pct too/RB ,/pct does/DOZ not/NEG know/VB the/AT go/VB code/NN ./pct
 He/PPS must/MD take/VB it/PPO from/IN ``/pct the/AT red/JJ box/NN ''/pct ./pct
 In/IN point/NN of/IN fact/NN ,/pct this/DT is/BEZ a/AT beige/JJ box/NN with/IN a/AT bright/JJ red/JJ door/NN ,/pct about/RB one/CD and/CC a/AT half/ABN feet/NNS square/JJ and/CC hung/VBD from/IN the/AT wall/NN about/RB six/CD feet/NNS from/IN the/AT door/NN to/IN Wisman's/NPg right/NR ./pct
-The/AT box/NN is/BEZ internally/RB wired/VBN so/CS the/AT door/NN can/MD never/RB be/BE opened/VBN without/IN setting/VBG off/RP a/AT screeching/VBG klaxon/NN (/pct ``/pct It's /None real/QL obnoxious/JJ ''/pct )/pct ./pct
+The/AT box/NN is/BEZ internally/RB wired/VBN so/CS the/AT door/NN can/MD never/RB be/BE opened/VBN without/IN setting/VBG off/RP a/AT screeching/VBG klaxon/NN (/pct ``/pct It's/PPSBEZ real/QL obnoxious/JJ ''/pct )/pct ./pct
 Now/RB we/PPSS must/MD become/VB vague/JJ ,/pct for/CS we/PPSS are/BER approaching/VBG one/CD of/IN the/AT nation's/NNg most/QL guarded/VBN secrets/NNS ./pct
 The/AT codes/NNS in/IN the/AT red/JJ box/NN --/pct there/EX are/BER several/AP of/IN them/PPO covering/VBG various/JJ contingencies/NNS --/pct are/BER contained/VBN in/IN a/AT sealed/VBN X-ray-proof/NN ``/pct unique/JJ device/NN ''/pct ./pct
 They/PPSS are/BER supplied/VBN ,/pct a/AT batch/NN at/IN a/AT time/NN ,/pct by/IN a/AT secret/JJ source/NN and/CC are/BER continually/RB changed/VBN by/IN Wisman/NP or/CC his/PPg staff/NN ,/pct at/IN random/JJ intervals/NNS ./pct
-But/CC even/RB the/AT contents/NNS of/IN Wisman's/NPg box/NN cannot /None start/VB a/AT war/NN ./pct
+But/CC even/RB the/AT contents/NNS of/IN Wisman's/NPg box/NN cannot/MD* start/VB a/AT war/NN ./pct
 They/PPSS are/BER mere/JJ fragments/NNS ,/pct just/RB one/CD portion/NN of/IN preprepared/VBN messages/NNS ./pct
 What/WDT these/DTS fragments/NNS are/BER and/CC how/WRB they/PPSS activate/VB the/AT go/VB order/NN may/MD not/NEG be/BE revealed/VBN ./pct
 The/AT pieces/NNS must/MD be/BE placed/VBN in/IN the/AT context/NN of/IN the/AT prepared/VBN messages/NNS by/IN Wisman's/NPg staff/NN ./pct
 In/IN addition/NN to/IN the/AT authentication/NN and/CC acknowledgment/NN procedures/NNS which/WDT precede/VB and/CC follow/VB the/AT sending/NN of/IN the/AT go/VB messages/NNS ,/pct again/RB in/IN special/JJ codes/NNS ,/pct each/DT message/NN also/RB contains/VBZ an/AT ``/pct internal/JJ authenticator/NN ''/pct ,/pct another/DT specific/JJ signal/NN to/TO convince/VB the/AT recipient/NN that/CS he/PPS is/BEZ getting/VBG the/AT real/JJ thing/NN ./pct
 I/PPSS asked/VBD Wisman/NP what/WDT would/MD happen/VB if/CS he/PPS broke/VBD out/RP the/AT go/VB codes/NNS and/CC tried/VBD to/TO start/VB transmitting/VBG one/CD ./pct
-``/pct I'd /None wind/VB up/RP full/JJ of/IN bullet/NN holes/NNS ''/pct ,/pct he/PPS said/VBD ,/pct and/CC there/EX was/BEDZ no/AT question/NN that/CS he/PPS was/BEDZ talking/VBG about/IN bullets/NNS fired/VBN by/IN his/PPg coworkers/NNS ./pct
+``/pct I'd/PPSSMD wind/VB up/RP full/JJ of/IN bullet/NN holes/NNS ''/pct ,/pct he/PPS said/VBD ,/pct and/CC there/EX was/BEDZ no/AT question/NN that/CS he/PPS was/BEDZ talking/VBG about/IN bullets/NNS fired/VBN by/IN his/PPg coworkers/NNS ./pct
 Now/RB let/VB us/PPO imagine/VB a/AT wing/NN of/IN B-52's/NN ,/pct on/IN alert/JJ near/IN their/PPg ``/pct positive/JJ control/NN (/pct or/CC fail-safe/JJ )/pct points/NNS ''/pct ,/pct the/AT spots/NNS on/IN the/AT map/NN ,/pct many/AP miles/NNS from/IN Soviet/NP territory/NN ,/pct beyond/IN which/WDT they/PPSS are/BER forbidden/VBN to/TO fly/VB without/IN specific/JJ orders/NNS to/TO proceed/VB to/IN their/PPg targets/NNS ./pct
 They/PPSS ,/pct too/RB ,/pct have/HV fragments/NNS of/IN the/AT go/VB code/NN with/IN them/PPO ./pct
 As/CS Wisman/NP put/VB it/PPO ,/pct ``/pct They/PPSS have/HV separate/JJ pieces/NNS of/IN the/AT pie/NN ,/pct and/CC we/PPSS have/HV the/AT whole/JJ pie/NN ./pct

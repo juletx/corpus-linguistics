@@ -20,20 +20,20 @@ The/AT cleaner/JJR air/NN means/VBZ less/AP time/NN spent/VBN pushing/VBG a/AT v
 The/AT need/NN for/IN reupholstering/VBG ,/pct redecorating/VBG ,/pct repainting/VBG becomes/VBZ more/QL infrequent/JJ ./pct
 Clothes/NNS hold/VB their/PPg shape/NN better/RBR ,/pct and/CC mildew/NN and/CC rust/NN become/VB almost/RB forgotten/VBN words/NNS ./pct
 It/PPS will/MD improve/VB your/PPg disposition/NN ./pct
-When/WRB you're /None less/QL fatigued/VBN ,/pct things/NNS just/RB naturally/RB look/VB brighter/JJR ./pct
+When/WRB you're/PPSSBER less/QL fatigued/VBN ,/pct things/NNS just/RB naturally/RB look/VB brighter/JJR ./pct
 The/AT children/NNS can/MD have/HV their/PPg daytime/JJ naps/NNS and/CC hot/JJ meals/NNS ,/pct and/CC be/BE put/VBN to/IN bed/NN on/IN schedule/NN in/IN shade-darkened/JJ rooms/NNS ./pct
-You'll /None sleep/VB longer/RBR and/CC better/RBR ,/pct too/RB ,/pct awake/VB refreshed/VBN and/CC free/JJ of/IN hot/JJ weather/NN nerves/NNS ./pct
+You'll/PPSSMD sleep/VB longer/RBR and/CC better/RBR ,/pct too/RB ,/pct awake/VB refreshed/VBN and/CC free/JJ of/IN hot/JJ weather/NN nerves/NNS ./pct
 You/PPSS can/MD forget/VB about/IN screens/NNS ,/pct and/CC leave/VB the/AT storm/NN windows/NNS up/RP all/ABN year/NN around/RB ./pct
 Best/JJT of/IN all/ABN ,/pct central/JJ air/NN conditioning/NN is/BEZ something/PN you/PPSS can/MD afford/VB ./pct
 Like/CS its/PPg long-lived/JJ cousin/NN ,/pct the/AT refrigerator/NN ,/pct a/AT conditioner/NN can/MD be/BE expected/VBN to/TO last/VB 20/CD to/IN 25/CD years/NNS or/CC more/AP ./pct
 That/DT brings/VBZ its/PPg per-year/JJ cost/NN down/RP mighty/QL low/RB ./pct
 For/IN any/DTI house/NN ./pct
 No/AT matter/NN what/WDT style/NN your/PPg home/NN is/BEZ ,/pct ranch/NN ,/pct two-story/JJ ,/pct Colonial/JJ or/CC contemporary/JJ ,/pct central/JJ air/NN conditioning/NN is/BEZ easily/RB installed/VBN ./pct
-The/AT equipment/NN won't /None take/VB up/RP valuable/JJ space/NN either/RB ./pct
+The/AT equipment/NN won't/MD* take/VB up/RP valuable/JJ space/NN either/RB ./pct
 It/PPS can/MD go/VB in/IN out-of-the-way/JJ waste/NN space/NN ./pct
-But/CC there's /None no/AT denying/NN that/CS the/AT easiest/JJT and/CC most/QL economical/JJ way/NN to/TO get/VB year-'round/JJ whole-house/NN air/NN conditioning/NN is/BEZ when/WRB you/PPSS build/VB ./pct
-If/CS that's /None done/VBN ,/pct the/AT house/NN can/MD be/BE designed/VBN and/CC oriented/VBN for/IN best/JJT operation/NN ,/pct and/CC this/DT can/MD mean/VB savings/NNS both/ABX in/IN the/AT size/NN of/IN equipment/NN and/CC in/IN the/AT cost/NN of/IN the/AT house/NN itself/PPL ./pct
-If/CS you/PPSS can't /None see/VB your/PPg way/NN clear/JJ to/TO have/HV summer/NN cooling/NN included/VBN when/WRB building/VBG ,/pct by/IN all/ABN means/NNS make/VB provision/NN for/IN its/PPg easy/JJ adding/NN later/RBR ./pct
+But/CC there's/EXBEZ no/AT denying/NN that/CS the/AT easiest/JJT and/CC most/QL economical/JJ way/NN to/TO get/VB year-'round/JJ whole-house/NN air/NN conditioning/NN is/BEZ when/WRB you/PPSS build/VB ./pct
+If/CS that's/DTBEZ done/VBN ,/pct the/AT house/NN can/MD be/BE designed/VBN and/CC oriented/VBN for/IN best/JJT operation/NN ,/pct and/CC this/DT can/MD mean/VB savings/NNS both/ABX in/IN the/AT size/NN of/IN equipment/NN and/CC in/IN the/AT cost/NN of/IN the/AT house/NN itself/PPL ./pct
+If/CS you/PPSS can't/MD* see/VB your/PPg way/NN clear/JJ to/TO have/HV summer/NN cooling/NN included/VBN when/WRB building/VBG ,/pct by/IN all/ABN means/NNS make/VB provision/NN for/IN its/PPg easy/JJ adding/NN later/RBR ./pct
 Manufacturers/NNS have/HV designed/VBN equipment/NN for/IN just/QL such/JJ circumstances/NNS ,/pct and/CC your/PPg savings/NNS over/IN starting/VBG from/IN scratch/NN will/MD be/BE substantial/JJ ./pct
 If/CS your/PPg house/NN is/BEZ to/TO have/HV a/AT forced/VBN warm/JJ air/NN system/NN ,/pct cooling/VBG can/MD be/BE a/AT part/NN of/IN it/PPO ./pct
 This/DT costs/VBZ less/AP than/CS having/HVG a/AT completely/QL separate/JJ cooling/VBG system/NN ,/pct for/IN your/PPg regular/JJ heating/NN ductwork/NN ,/pct filters/NNS and/CC furnace/NN blower/NN do/DO double/JJ duty/NN for/IN cooling/VBG ./pct
@@ -49,7 +49,7 @@ This/DT is/BEZ especially/QL important/JJ if/CS you/PPSS live/VB in/IN a/AT mild
 Be/BE sure/JJ you/PPSS get/VB a/AT perimeter/NN heating/VBG system/NN ,/pct and/CC diffusers/NNS that/WPS will/MD work/VB as/QL well/RB for/IN cooling/VBG as/CS they/PPSS do/DO for/IN heating/VBG ./pct
 You/PPSS can/MD get/VB a/AT hot/JJ water/NN system/NN that/WPS will/MD also/RB work/VB for/IN cooling/VBG your/PPg house/NN ./pct
 For/IN cooling/VBG ,/pct chilled/VBN water/NN is/BEZ circulated/VBN instead/RB of/IN hot/JJ water/NN ./pct
-Instead/RB of/IN radiators/NNS you'll /None have/HV cooling-heating/JJ units/NNS ,/pct each/DT with/IN its/PPg own/JJ thermostat/NN ./pct
+Instead/RB of/IN radiators/NNS you'll/PPSSMD have/HV cooling-heating/JJ units/NNS ,/pct each/DT with/IN its/PPg own/JJ thermostat/NN ./pct
 These/DTS systems/NNS are/BER more/QL expensive/JJ than/CS year-'round/JJ forced/VBN air/NN systems/NNS ./pct
 The/AT minimum/JJ cost/NN for/IN an/AT average/JJ one-story/JJ ,/pct 7-room/JJ house/NN with/IN basement/NN ,/pct is/BEZ likely/JJ to/TO run/VB $1500/NNS above/IN the/AT cost/NN of/IN the/AT heating/VBG alone/RB ./pct
 Separate/JJ systems/NNS ./pct
@@ -66,28 +66,28 @@ A/AT relatively/QL simple/JJ switching/VBG arrangement/NN reverses/VBZ the/AT cy
 Up/RP until/IN recently/RB ,/pct this/DT heat/NN pump/NN method/NN of/IN warming/VBG air/NN was/BEDZ efficient/JJ only/RB in/IN areas/NNS of/IN mild/JJ winters/NNS and/CC when/WRB outside/JJ temperatures/NNS were/BED above/IN 40/CD degrees/NNS ./pct
 Now/RB ,/pct the/AT machine/NN has/HVZ been/BEN improved/VBN to/IN a/AT point/NN where/WRB it/PPS is/BEZ generally/RB more/QL economical/JJ than/CS oil/NN heat/NN at/IN temperatures/NNS down/RP to/IN 15/CD degrees/NNS ./pct
 You/PPSS can/MD get/VB this/DT added/VBN heating/VBG feature/NN for/IN as/QL little/AP as/CS $200/NNS more/AP than/IN the/AT price/NN of/IN cooling/VBG alone/RB ./pct
-Consider/VB it/PPO as/CS a/AT standby/JJ setup/NN ,/pct at/IN negligible/JJ cost/NN ,/pct for/IN those/DTS emergencies/NNS when/WRB the/AT furnace/NN quits/VBZ ,/pct a/AT blizzard/NN holds/VBZ up/RP fuel/NN delivery/NN ,/pct or/CC for/IN cool/JJ summer/NN mornings/NNS or/CC evenings/NNS when/WRB you/PPSS don't /None want/VB to/TO start/VB up/RP your/PPg whole/JJ heating/VBG plant/NN ./pct
+Consider/VB it/PPO as/CS a/AT standby/JJ setup/NN ,/pct at/IN negligible/JJ cost/NN ,/pct for/IN those/DTS emergencies/NNS when/WRB the/AT furnace/NN quits/VBZ ,/pct a/AT blizzard/NN holds/VBZ up/RP fuel/NN delivery/NN ,/pct or/CC for/IN cool/JJ summer/NN mornings/NNS or/CC evenings/NNS when/WRB you/PPSS don't/DO* want/VB to/TO start/VB up/RP your/PPg whole/JJ heating/VBG plant/NN ./pct
 What/WDT size/NN conditioner/NN ?/pct ?/pct
 How/WQL large/JJ a/AT cooling/VBG unit/NN you/PPSS need/VB ,/pct and/CC the/AT method/NN of/IN its/PPg installation/NN ,/pct depends/VBZ on/IN a/AT variety/NN of/IN factors/NNS ./pct
 Among/IN other/AP things/NNS ,/pct besides/IN the/AT nature/NN of/IN your/PPg house/NN and/CC how/WQL much/AP heat/NN finds/VBZ its/PPg way/NN into/IN its/PPg various/JJ rooms/NNS from/IN the/AT outside/NN ,/pct it/PPS will/MD depend/VB upon/IN your/PPg personal/JJ habits/NNS and/CC the/AT makeup/NN of/IN your/PPg family/NN ./pct
-Families/NNS with/IN children/NNS usually/RB don't /None want/VB the/AT house/NN quite/QL so/QL cool/JJ ./pct
+Families/NNS with/IN children/NNS usually/RB don't/DO* want/VB the/AT house/NN quite/QL so/QL cool/JJ ./pct
 If/CS you/PPSS are/BER a/AT party/NN thrower/NN ,/pct you/PPSS may/MD need/VB added/VBN capacity/NN ./pct
 The/AT body/NN is/BEZ a/AT heat/NN machine/NN ,/pct and/CC 20/CD to/IN 25/CD guests/NNS can/MD easily/RB double/VB your/PPg cooling/VBG load/NN ./pct
 Cooling/VBG requirements/NNS are/BER best/RBT expressed/VBN in/IN terms/NNS of/IN Aj/NN ./pct
 A/AT BTU/NN is/BEZ a/AT unit/NN of/IN heat/NN ,/pct and/CC the/AT BTU/NN rating/NN of/IN a/AT conditioner/NN refers/VBZ to/TO how/WQL much/AP heat/NN your/PPg machine/NN can/MD pump/VB out/IN of/IN your/PPg house/NN in/IN an/AT hour/NN ./pct
-A/AT very/QL rough/JJ rule/NN of/IN thumb/NN is/BEZ that/CS ,/pct under/IN favorable/JJ conditions/NNS ,/pct you'll /None need/VB 15/CD BTU's/NN of/IN cooling/VBG for/IN every/AT square/JJ foot/NN of/IN your/PPg house/NN ./pct
+A/AT very/QL rough/JJ rule/NN of/IN thumb/NN is/BEZ that/CS ,/pct under/IN favorable/JJ conditions/NNS ,/pct you'll/PPSSMD need/VB 15/CD BTU's/NN of/IN cooling/VBG for/IN every/AT square/JJ foot/NN of/IN your/PPg house/NN ./pct
 This/DT is/BEZ if/CS outdoor/JJ temperatures/NNS have/HV a/AT high/JJ average/NN of/IN 95/CD degrees/NNS ./pct
-You'll /None need/VB more/AP if/CS the/AT high/JJ average/NN is/BEZ above/IN that/DT ,/pct less/AP if/CS it's /None below/RB ./pct
+You'll/PPSSMD need/VB more/AP if/CS the/AT high/JJ average/NN is/BEZ above/IN that/DT ,/pct less/AP if/CS it's/PPSBEZ below/RB ./pct
 Coolers/NNS are/BER also/RB rated/VBN by/IN tons/NNS ./pct
 A/AT ton/NN of/IN cooling/VBG compares/VBZ to/IN the/AT cooling/NN you/PPSS get/VB by/IN melting/VBG a/AT ton/NN of/IN ice/NN ./pct
 By/IN accepted/VBN definition/NN ,/pct a/AT 1-ton/NN conditioner/NN will/MD provide/VB 12,000/CD BTU/NN of/IN cooling/VBG in/IN one/CD hour/NN ./pct
 You/PPSS may/MD find/VB a/AT conditioner/NN rated/VBN by/IN horsepower/NN ./pct
-It/PPS is/BEZ generally/RB an/AT inaccurate/JJ method/NN of/IN rating/VBG ,/pct for/IN the/AT horsepower/NN is/BEZ that/DT of/IN the/AT compressor/NN motor/NN ,/pct and/CC many/AP other/AP components/NNS beside/IN it/PPO determine/VB how/WQL much/AP cooling/NN you'll /None get/VB ./pct
+It/PPS is/BEZ generally/RB an/AT inaccurate/JJ method/NN of/IN rating/VBG ,/pct for/IN the/AT horsepower/NN is/BEZ that/DT of/IN the/AT compressor/NN motor/NN ,/pct and/CC many/AP other/AP components/NNS beside/IN it/PPO determine/VB how/WQL much/AP cooling/NN you'll/PPSSMD get/VB ./pct
 A/AT 1-hp/NN conditioner/NN ,/pct for/IN example/NN ,/pct may/MD vary/VB in/IN effectiveness/NN from/IN under/IN 8,000/CD BTU/NN to/IN well/QL over/IN 10,000/CD Aj/NN ./pct
 The/AT safest/JJT procedure/NN is/BEZ to/TO let/VB your/PPg builder/NN estimate/VB the/AT size/NN of/IN the/AT unit/NN you/PPSS need/VB ,/pct rather/IN than/IN trying/VBG to/TO do/DO this/DT yourself/PPL ./pct
-Don't /None urge/VB your/PPg builder/NN to/TO give/VB you/PPO a/AT little/QL extra/JJ cooling/VBG capacity/NN just/RB to/TO be/BE sure/JJ you/PPSS have/HV enough/AP ./pct
+Don't/DO* urge/VB your/PPg builder/NN to/TO give/VB you/PPO a/AT little/QL extra/JJ cooling/VBG capacity/NN just/RB to/TO be/BE sure/JJ you/PPSS have/HV enough/AP ./pct
 Better/RBR to/TO have/HV your/PPg equipment/NN slightly/QL undersized/JJ than/CS too/QL big/JJ ./pct
-Here's /None why/WRB :/pct
+Here's/RBBEZ why/WRB :/pct
 Reducing/VBG humidity/NN is/BEZ often/RB as/QL important/JJ as/CS cooling/VBG ./pct
 An/AT oversize/JJ unit/NN will/MD cool/VB off/RP your/PPg house/NN quickly/RB ,/pct then/RB shut/VB down/RP for/IN a/AT long/JJ period/NN ./pct
 Before/CS it/PPS cycles/VBZ on/RP again/RB ,/pct humidity/NN can/MD build/VB up/RP and/CC make/VB you/PPO uncomfortable/JJ even/RB though/CS the/AT temperature/NN is/BEZ still/RB low/JJ ./pct
@@ -95,20 +95,20 @@ With/IN a/AT unit/NN of/IN the/AT right/JJ size/NN ,/pct a/AT compressor/NN will
 Money-saving/JJ tips/NNS ./pct
 Attention/NN to/IN details/NNS can/MD cut/VB in/IN half/ABN the/AT size/NN unit/NN you/PPSS need/VB and/CC pare/VB operating/VBG expense/NN proportionately/RB ./pct
 A/AT well-designed/JJ ,/pct 1200-square-foot/JJ house/NN can/MD be/BE comfortably/RB cooled/VBN and/CC heated/VBN for/IN as/QL little/AP as/IN $128/NNS a/AT year/NN ,/pct or/CC $11/NNS a/AT month/NN ./pct
-If/CS you/PPSS have/HV a/AT house/NN which/WDT heat/NN doesn't /None penetrate/VB easily/RB ,/pct your/PPg unit/NN will/MD have/HV less/AP heat/NN to/TO remove/VB ./pct
-Keep/VB the/AT direct/JJ sun/NN from/IN reaching/VBG the/AT house/NN and/CC you've /None won/VBN the/AT first/OD battle/NN ./pct
+If/CS you/PPSS have/HV a/AT house/NN which/WDT heat/NN doesn't/DOZ* penetrate/VB easily/RB ,/pct your/PPg unit/NN will/MD have/HV less/AP heat/NN to/TO remove/VB ./pct
+Keep/VB the/AT direct/JJ sun/NN from/IN reaching/VBG the/AT house/NN and/CC you've/PPSSHV won/VBN the/AT first/OD battle/NN ./pct
 In/IN a/AT new/JJ house/NN ,/pct generous/JJ roof/NN overhangs/NNS are/BER a/AT logical/JJ and/CC effective/JJ solution/NN ./pct
-If/CS the/AT house/NN you/PPSS plan/VB to/TO buy/VB or/CC build/VB won't /None have/HV big/JJ overhangs/NNS ,/pct you/PPSS can/MD still/RB do/DO a/AT fair/JJ job/NN of/IN keeping/VBG the/AT sun/NN off/IN walls/NNS and/CC windows/NNS with/IN properly/RB designed/VBN trellises/NNS ,/pct fences/NNS and/CC awnings/NNS ./pct
+If/CS the/AT house/NN you/PPSS plan/VB to/TO buy/VB or/CC build/VB won't/MD* have/HV big/JJ overhangs/NNS ,/pct you/PPSS can/MD still/RB do/DO a/AT fair/JJ job/NN of/IN keeping/VBG the/AT sun/NN off/IN walls/NNS and/CC windows/NNS with/IN properly/RB designed/VBN trellises/NNS ,/pct fences/NNS and/CC awnings/NNS ./pct
 Shade/NN trees/NNS ,/pct too/RB ,/pct are/BER a/AT big/JJ help/NN ,/pct so/RB keep/VB them/PPO if/CS you/PPSS can/MD ./pct
 Drawn/VBN blinds/NNS and/CC draperies/NNS do/DO some/DTI good/NN ,/pct but/CC not/NEG nearly/QL as/QL much/AP as/CS shading/VBG devices/NNS on/IN the/AT outside/NN of/IN the/AT house/NN ./pct
 The/AT more/QL directly/RB the/AT sun/NN strikes/VBZ walls/NNS and/CC roof/NN ,/pct the/AT greater/JJR its/PPg heat/NN impact/NN ./pct
-The/AT way/NN a/AT house/NN is/BEZ set/VBN on/IN its/PPg lot/NN can/MD therefore/RB influence/VB how/WQL much/AP cooling/NN you're /None going/VBG to/TO need/VB ./pct
+The/AT way/NN a/AT house/NN is/BEZ set/VBN on/IN its/PPg lot/NN can/MD therefore/RB influence/VB how/WQL much/AP cooling/NN you're/PPSSBER going/VBG to/TO need/VB ./pct
 A/AT shift/NN in/IN the/AT walls/NNS ,/pct or/CC a/AT change/NN in/IN the/AT roof/NN slope/NN ,/pct so/CS the/AT sun/NN hits/VBZ them/PPO more/QL obliquely/RB ,/pct can/MD save/VB you/PPO money/NN ./pct
 You/PPSS can/MD use/VB heat-absorbing/JJ glass/NN to/TO stop/VB the/AT sun/NN ,/pct double/JJ glass/NN and/CC insulated/VBN glass/NN to/TO combat/VB condensation/NN ./pct
 Restrict/VB large/JJ glass/NN areas/NNS to/IN the/AT north/NR and/CC south/NR sides/NNS of/IN the/AT house/NN ./pct
-They're /None easier/JJR to/TO shade/VB there/RB ./pct
+They're/PPSSBER easier/JJR to/TO shade/VB there/RB ./pct
 An/AT attic/NN space/NN above/IN insulation/NN makes/VBZ a/AT house/NN easier/JJR to/TO cool/VB ./pct
-You'll /None even/RB gain/VB by/IN putting/VBG your/PPg water/NN heater/NN outside/IN the/AT conditioned/VBN space/NN ,/pct and/CC using/VBG an/AT electric/JJ range/NN instead/RB of/IN a/AT gas/NN one/CD ./pct
+You'll/PPSSMD even/RB gain/VB by/IN putting/VBG your/PPg water/NN heater/NN outside/IN the/AT conditioned/VBN space/NN ,/pct and/CC using/VBG an/AT electric/JJ range/NN instead/RB of/IN a/AT gas/NN one/CD ./pct
 Gas/NN adds/VBZ to/IN the/AT moisture/NN load/NN ./pct
 Insulate/VB ,/pct weatherstrip/VB ,/pct double-glaze/VB to/IN the/AT maximum/JJ ./pct
 In/IN insulation/NN ,/pct the/AT numbers/NNS to/TO remember/VB are/BER 6-4-2/CD ./pct
@@ -116,8 +116,8 @@ They/PPSS stand/VB for/IN 6/CD inches/NNS of/IN mineral/NN wool/NN insulation/NN
 Such/JJ extra-thick/JJ insulation/NN not/NEG only/RB permits/VBZ a/AT much/QL smaller/JJR cooling/VBG installation/NN ,/pct but/CC will/MD continue/VB to/TO reduce/VB operating/VBG expenses/NNS both/ABX in/IN heating/VBG and/CC cooling/VBG ./pct
 A/AT light-colored/JJ roof/NN will/MD reduce/VB sun/NN heat/NN by/IN 50/CD per/IN cent/NN ./pct
 It/PPS costs/VBZ two/CD to/IN three/CD times/NNS as/QL much/AP to/TO remove/VB a/AT BTU/NN in/IN summer/NN as/CS it/PPS does/DOZ to/TO add/VB one/CD in/IN winter/NN ,/pct so/RB every/AT solitary/JJ BTU/NN is/BEZ worth/JJ attention/NN ./pct
-You'll /None foil/VB them/PPO in/IN droves/NNS ,/pct along/RB with/IN their/PPg pal/NN humidity/NN ,/pct by/IN having/HVG and/CC using/VBG a/AT kitchen/NN range/NN exhaust/NN fan/NN ,/pct a/AT bathroom/NN ventilator/NN for/IN when/WRB you/PPSS shower/VB ,/pct and/CC an/AT outside/JJ vent/NN for/IN the/AT clothes/NNS drier/NN ./pct
+You'll/PPSSMD foil/VB them/PPO in/IN droves/NNS ,/pct along/RB with/IN their/PPg pal/NN humidity/NN ,/pct by/IN having/HVG and/CC using/VBG a/AT kitchen/NN range/NN exhaust/NN fan/NN ,/pct a/AT bathroom/NN ventilator/NN for/IN when/WRB you/PPSS shower/VB ,/pct and/CC an/AT outside/JJ vent/NN for/IN the/AT clothes/NNS drier/NN ./pct
 Keeping/VBG conditioners/NNS quiet/JJ ./pct
-It's /None no/AT use/NN pretending/VBG that/CS all/ABN conditioners/NNS are/BER quiet/JJ ,/pct but/CC the/AT noise/NN they/PPSS produce/VB can/MD be/BE kept/VBN to/IN a/AT minimum/NN ./pct
-Good/JJ workmanship/NN is/BEZ important/JJ in/IN the/AT installation/NN ,/pct so/RB if/CS you're /None doing/VBG your/PPg own/JJ contracting/NN ,/pct don't /None award/VB the/AT job/NN on/IN the/AT basis/NN of/IN price/NN alone/RB ./pct
+It's/PPSBEZ no/AT use/NN pretending/VBG that/CS all/ABN conditioners/NNS are/BER quiet/JJ ,/pct but/CC the/AT noise/NN they/PPSS produce/VB can/MD be/BE kept/VBN to/IN a/AT minimum/NN ./pct
+Good/JJ workmanship/NN is/BEZ important/JJ in/IN the/AT installation/NN ,/pct so/RB if/CS you're/PPSSBER doing/VBG your/PPg own/JJ contracting/NN ,/pct don't/DO* award/VB the/AT job/NN on/IN the/AT basis/NN of/IN price/NN alone/RB ./pct
 Avoid/VB attic/NN placement/NN directly/RB above/IN a/AT bedroom/NN ./pct

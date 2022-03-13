@@ -25,7 +25,7 @@ The/AT day/NN passed/VBD without/IN incident/NN in/IN spite/NN of/IN the/AT warn
 On/IN July/NP 20/CD ,/pct the/AT first/OD drawing/NN of/IN numbers/NNS occurred/VBD in/IN the/AT Senate/NN Office/NN Building/NN before/IN a/AT distinguished/VBN group/NN of/IN congressmen/NNS and/CC high/JJ Army/NN officers/NNS ./pct
 Secretary/NN of/IN War/NN Baker/NP ,/pct blindfolded/VBN ,/pct put/VBD his/PPg hand/NN into/IN a/AT large/JJ glass/NN bowl/NN and/CC drew/VBD the/AT initial/JJ number/NN of/IN those/DTS to/TO be/BE called/VBN ./pct
 It/PPS was/BEDZ 258/CD ./pct
-A/AT man/NN in/IN Mississippi/NP wired/VBD :/pct ``/pct Thanks/NNS for/IN drawing/VBG 258/CD --/pct that's /None me/PPO ''/pct ./pct
+A/AT man/NN in/IN Mississippi/NP wired/VBD :/pct ``/pct Thanks/NNS for/IN drawing/VBG 258/CD --/pct that's/DTBEZ me/PPO ''/pct ./pct
 He/PPS was/BEDZ the/AT first/OD of/IN 2,800,000/CD called/VBN to/IN the/AT Army/NN through/IN the/AT selective/JJ service/NN system/NN ./pct
 It/PPS was/BEDZ one/CD thing/NN to/TO call/VB men/NNS to/IN the/AT colors/NNS ;/pct ;/pct
 it/PPS was/BEDZ another/DT to/TO house/VB ,/pct feed/VB ,/pct and/CC train/VB them/PPO ./pct
@@ -68,7 +68,7 @@ When/WRB the/AT United/VBN States/NNS entered/VBD the/AT First/OD World/NN War/N
 Even/RB so/RB Fosdick/NP ,/pct as/CS the/AT new/JJ Chairman/NN of/IN the/AT Commission/NN on/IN Training/VBG Camp/NN Activities/NNS ,/pct encountered/VBD strong/JJ and/CC vociferous/JJ opposition/NN ./pct
 New/JJ Orleans/NP had/HVD a/AT notorious/JJ red-light/NN district/NN extending/VBG over/IN twenty-eight/CD city/NN blocks/NNS ,/pct and/CC the/AT business-minded/JJ mayor/NN of/IN the/AT city/NN journeyed/VBD to/IN Washington/NP to/TO present/VB the/AT case/NN for/IN ``/pct the/AT God-given/JJ right/NN of/IN men/NNS to/TO be/BE men/NNS ''/pct ./pct
 In/IN Europe/NP ,/pct Premier/NN Clemenceau/NP ,/pct showing/VBG his/PPg animal/NN proclivities/NNS as/CS the/AT ``/pct Tiger/NN of/IN France/NP ''/pct ,/pct asked/VBD Pershing/NP by/IN letter/NN for/IN the/AT creation/NN of/IN special/JJ houses/NNS where/WRB the/AT sexual/JJ desires/NNS of/IN American/JJ men/NNS could/MD be/BE satisfied/VBN ./pct
-When/WRB Fosdick/NP showed/VBD the/AT letter/NN to/IN Baker/NP his/PPg negative/JJ response/NN was/BEDZ :/pct ``/pct For/IN God's/NPg sake/NN ,/pct Raymond/NP ,/pct don't /None show/VB this/DT to/IN the/AT President/NN or/CC he'll /None stop/VB the/AT war/NN ''/pct ./pct
+When/WRB Fosdick/NP showed/VBD the/AT letter/NN to/IN Baker/NP his/PPg negative/JJ response/NN was/BEDZ :/pct ``/pct For/IN God's/NPg sake/NN ,/pct Raymond/NP ,/pct don't/DO* show/VB this/DT to/IN the/AT President/NN or/CC he'll/PPSMD stop/VB the/AT war/NN ''/pct ./pct
 Ultimately/RB Fosdick's/NPg ``/pct Fit/JJ to/TO fight/VB ''/pct slogan/NN swept/VBD across/IN the/AT country/NN and/CC every/AT well-known/JJ red-light/NN district/NN in/IN the/AT United/VBN States/NNS was/BEDZ closed/VBN ,/pct a/AT hundred/CD and/CC ten/CD of/IN them/PPO ./pct
 The/AT result/NN was/BEDZ that/CS the/AT rate/NN of/IN venereal/JJ disease/NN in/IN the/AT American/JJ Army/NN was/BEDZ the/AT lowest/JJT in/IN our/PPg military/JJ history/NN ./pct
 This/DT was/BEDZ the/AT negative/JJ side/NN of/IN the/AT situation/NN ./pct

@@ -38,7 +38,7 @@ Rooney/NP remained/VBD untouched/JJ ./pct
 One/CD year/NN the/AT Department/NN collected/VBD a/AT file/NN of/IN case/NN histories/NNS to/TO document/VB its/PPg argument/NN that/CS men/NNS in/IN the/AT field/NN were/BED paying/VBG the/AT government's/NNg entertainment/NN bills/NNS out/IN of/IN personal/JJ income/NN ./pct
 News/NN of/IN the/AT project/NN reached/VBD the/AT press/NN ./pct
 Next/AP day/NN ,/pct reports/NNS went/VBD through/IN the/AT Department/NN that/CS Rooney/NP had/HVD been/BEN outraged/VBN by/IN what/WDT he/PPS considered/VBD a/AT patent/JJ attempt/NN to/TO put/VB public/JJ pressure/NN on/IN him/PPO for/IN increased/VBN entertainment/NN allowances/NNS and/CC had/HVD sworn/VBN an/AT oath/NN that/CS ,/pct that/DT year/NN ,/pct expense/NN allowances/NNS would/MD not/NEG rise/VB a/AT dollar/NN ./pct
-They/PPSS didn't /None ./pct
+They/PPSS didn't/DOD* ./pct
 The/AT Department's/NNg constant/JJ fight/NN with/IN the/AT House/NN for/IN money/NN is/BEZ a/AT polite/JJ minuet/NN compared/VBN with/IN its/PPg periodic/JJ bloody/JJ engagements/NNS with/IN the/AT Senate/NN ./pct
 Armed/VBN with/IN constitutional/JJ power/NN to/TO negate/VB the/AT Executive's/NNg foreign/JJ policy/NN ,/pct the/AT Senate/NN carries/VBZ a/AT big/JJ stick/NN and/CC is/BEZ easily/RB provoked/VBN to/TO use/VB it/PPO on/IN the/AT State/NN Department's/NNg back/NN ,/pct or/CC on/IN the/AT head/NN of/IN the/AT Secretary/NN of/IN State/NN ./pct
 With/IN its/PPg power/NN to/TO investigate/VB ,/pct the/AT Senate/NN can/MD paralyze/VB the/AT Secretary/NN by/IN keeping/VBG him/PPO in/IN a/AT state/NN of/IN perpetual/JJ testimony/NN before/IN committees/NNS ,/pct as/CS it/PPS did/DOD with/IN Dean/NP Acheson/NP ./pct
@@ -96,7 +96,7 @@ The/AT State/NN Department/NN was/BEDZ little/AP help/NN on/IN this/DT ,/pct or/
 A/AT reporter/NN who/WPS consulted/VBD a/AT Middle/JJ East/NR Information/NN officer/NN for/IN routine/JJ vital/JJ statistics/NNS got/VBD nowhere/RB until/CS the/AT State/NN Department/NN man/NN produced/VBD from/IN his/PPg bottom/JJ desk/NN drawer/NN a/AT brochure/NN published/VBN by/IN the/AT Arabian-American/JJ Oil/NN Company/NN ./pct
 ``/pct This/DT is/BEZ where/WRB I/PPSS get/VB my/PPg information/NN from/IN ''/pct ,/pct he/PPS confided/VBD ./pct
 ``/pct But/CC bring/VB it/PPO right/QL back/RB ./pct
-It's /None the/AT only/AP copy/NN I've /None got/VBN ''/pct ./pct
+It's/PPSBEZ the/AT only/AP copy/NN I've/PPSSHV got/VBN ''/pct ./pct
 The/AT size/NN of/IN Saud's/NPg family/NN was/BEDZ still/RB being/BEG debated/VBN when/WRB the/AT King/NN appeared/VBD for/IN his/PPg first/OD meeting/NN with/IN Eisenhower/NP ./pct
 When/WRB it/PPS ended/VBD ,/pct a/AT dusky/JJ sheik/NN in/IN desert/NN robes/NNS flowed/VBD into/IN Hagerty's/NPg office/NN to/TO report/VB on/IN the/AT interview/NN ./pct
 The/AT massed/VBN reporters/NNS brushed/VBD aside/RB the/AT customary/JJ bromides/NNS about/IN Saudi-American/JJ friendship/NN to/TO bore/VB in/RP on/IN the/AT central/JJ question/NN ./pct

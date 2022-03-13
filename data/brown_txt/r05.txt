@@ -3,17 +3,17 @@ Nothing/PN in/IN English/NP has/HVZ been/BEN ridiculed/VBN as/QL much/RB as/CS t
 Ben/NP Franklin/NP said/VBD ,/pct ``/pct Clearly/RB spoken/VBN ,/pct Mr./NP Fogg/NP ./pct
 You/PPSS explain/VB English/NP by/IN Greek/NP ''/pct ./pct
 Richard/NP Brinsley/NP Sheridan/NP said/VBD ,/pct ``/pct I/PPSS think/VB the/AT interpreter/NN is/BEZ the/AT hardest/JJT to/TO be/BE understood/VBN of/IN the/AT two/CD ''/pct ./pct
-And/CC a/AT witty/JJ American/JJ journalist/NN remarked/VBD over/IN a/AT century/NN ago/RB what/WDT is/BEZ even/RB more/QL true/JJ today/NR ,/pct ``/pct Many/ABN a/AT writer/NN seems/VBZ to/TO think/VB he/PPS is/BEZ never/RB profound/JJ except/IN when/WRB he/PPS can't /None understand/VB his/PPg own/JJ meaning/NN ''/pct ./pct
+And/CC a/AT witty/JJ American/JJ journalist/NN remarked/VBD over/IN a/AT century/NN ago/RB what/WDT is/BEZ even/RB more/QL true/JJ today/NR ,/pct ``/pct Many/ABN a/AT writer/NN seems/VBZ to/TO think/VB he/PPS is/BEZ never/RB profound/JJ except/IN when/WRB he/PPS can't/MD* understand/VB his/PPg own/JJ meaning/NN ''/pct ./pct
 There/EX are/BER many/AP types/NNS of/IN ambiguity/NN and/CC many/AP of/IN them/PPO have/HV been/BEN described/VBN by/IN rhetoricians/NNS under/IN such/JJ names/NNS as/CS amphibology/NN ,/pct parisology/NN ,/pct and/CC other/AP ologies/NNS ./pct
 In/IN common/JJ parlance/NN they/PPSS would/MD be/BE described/VBN as/CS misses/NNS --/pct misinterpreters/NNS ,/pct misunderstanders/NNS ,/pct misdirectors/NNS and/CC kindred/NN misdeeds/NNS ./pct
 One/CD species/NN of/IN ambiguity/NN tries/VBZ to/TO baffle/VB by/IN interweaving/VBG repetition/NN ./pct
 ``/pct Did/DOD you/PPSS or/CC did/DOD you/PPSS not/NEG say/VB what/WDT I/PPSS said/VBD you/PPO said/VBN ,/pct because/CS Jane/NP said/VBD you/PPO never/RB said/VBD what/WDT I/PPSS said/VBD ''/pct ?/pct ?/pct
-Another/DT woman/NN ,/pct addressing/VBG Christmas/NP cards/NNS ,/pct said/VBD to/IN her/PPg husband/NN :/pct ``/pct We/PPSS sent/VBD them/PPO one/CD last/AP year/NN but/CC they/PPSS didn't /None send/VB us/PPO one/CD ,/pct so/CS they/PPSS probably/RB won't /None send/VB us/PPO one/CD this/DT year/NN because/CS they'll /None think/VB we/PPSS won't /None send/VB them/PPO one/CD because/CS they/PPSS didn't /None last/AP year/NN ,/pct don't /None you/PPO think/VB ,/pct or/CC shall/MD we/PPSS ''/pct ?/pct ?/pct
+Another/DT woman/NN ,/pct addressing/VBG Christmas/NP cards/NNS ,/pct said/VBD to/IN her/PPg husband/NN :/pct ``/pct We/PPSS sent/VBD them/PPO one/CD last/AP year/NN but/CC they/PPSS didn't/DOD* send/VB us/PPO one/CD ,/pct so/CS they/PPSS probably/RB won't/MD* send/VB us/PPO one/CD this/DT year/NN because/CS they'll/PPSSMD think/VB we/PPSS won't/MD* send/VB them/PPO one/CD because/CS they/PPSS didn't/DOD* last/AP year/NN ,/pct don't/DO* you/PPO think/VB ,/pct or/CC shall/MD we/PPSS ''/pct ?/pct ?/pct
 Such/JJ ambiguous/JJ exercises/NNS compound/VB confusion/NN by/IN making/VBG it/PPO worse/JJR compounded/VBN ,/pct and/CC they/PPSS are/BER sometimes/RB expanded/VBN until/CS the/AT cream/NN of/IN the/AT jest/NN sours/VBZ ./pct
 Ambiguity/NN of/IN a/AT non-repetitious/JJ kind/NN describes/VBZ the/AT dilemma/NN one/CD girl/NN found/VBD herself/PPL in/IN ./pct
-``/pct I'm /None terribly/RB upset/VBN ''/pct ,/pct she/PPS told/VBD a/AT girl-friend/NN ./pct
-``/pct I/PPSS wrote/VBD Bill/NP in/IN my/PPg last/AP letter/NN to/TO forget/VB that/CS I/PPSS had/HVD told/VBN him/PPO that/CS I/PPSS didn't /None mean/VB to/TO reconsider/VB my/PPg decision/NN not/NEG to/TO change/VB my/PPg mind/NN --/pct and/CC he/PPS seems/VBZ to/TO have/HV misunderstood/VBN me/PPO ''/pct ./pct
-Evidently/RB Bill/NP was/BEDZ another/DT of/IN those/DTS men/NNS who/WPS simply/RB don't /None understand/VB women/NNS ./pct
+``/pct I'm/PPSSBEM terribly/RB upset/VBN ''/pct ,/pct she/PPS told/VBD a/AT girl-friend/NN ./pct
+``/pct I/PPSS wrote/VBD Bill/NP in/IN my/PPg last/AP letter/NN to/TO forget/VB that/CS I/PPSS had/HVD told/VBN him/PPO that/CS I/PPSS didn't/DOD* mean/VB to/TO reconsider/VB my/PPg decision/NN not/NEG to/TO change/VB my/PPg mind/NN --/pct and/CC he/PPS seems/VBZ to/TO have/HV misunderstood/VBN me/PPO ''/pct ./pct
+Evidently/RB Bill/NP was/BEDZ another/DT of/IN those/DTS men/NNS who/WPS simply/RB don't/DO* understand/VB women/NNS ./pct
 Another/DT case/NN involves/VBZ a/AT newspaper/NN reporter/NN who/WPS tripped/VBD up/RP a/AT politician/NN ./pct
 ``/pct Mr./NP Jones/NP ,/pct you/PPSS may/MD recall/VB that/CS we/PPSS printed/VBD last/AP week/NN your/PPg denial/NN of/IN having/HVG retracted/VBN the/AT contradiction/NN of/IN your/PPg original/JJ statement/NN ./pct
 Now/RB would/MD you/PPSS care/VB to/TO have/HV us/PPO say/VB that/CS you/PPSS were/BED misquoted/VBN in/IN regard/NN to/IN it/PPO ''/pct ?/pct ?/pct
@@ -22,7 +22,7 @@ They/PPSS recall/VB Byron's/NPg classic/JJ comment/NN :/pct ``/pct I/PPSS wish/V
 Similarly/RB ,/pct when/WRB a/AT reporter/NN once/RB questioned/VBD Lincoln/NP in/IN cryptic/JJ fashion/NN ,/pct Lincoln/NP refused/VBD to/TO make/VB any/DTI further/JJR statement/NN ./pct
 ``/pct I/PPSS fear/VB explanations/NNS explanatory/JJ of/IN things/NNS explained/VBN ''/pct ,/pct he/PPS said/VBD ,/pct leaving/VBG the/AT biter/NN bit/VBN --/pct and/CC bitter/JJ ./pct
 The/AT obscurity/NN of/IN politicians/NNS may/MD not/NEG always/RB be/BE as/QL innocent/JJ as/CS it/PPS looks/VBZ ./pct
-``/pct Senator/NN ''/pct ,/pct said/VBD an/AT interviewer/NN ,/pct ``/pct your/PPg constituents/NNS can't /None understand/VB from/IN your/PPg speech/NN last/AP night/NN just/RB how/WRB you/PPSS stand/VB on/IN the/AT question/NN ''/pct ./pct
+``/pct Senator/NN ''/pct ,/pct said/VBD an/AT interviewer/NN ,/pct ``/pct your/PPg constituents/NNS can't/MD* understand/VB from/IN your/PPg speech/NN last/AP night/NN just/RB how/WRB you/PPSS stand/VB on/IN the/AT question/NN ''/pct ./pct
 ``/pct Good/JJ ''/pct !/pct !/pct
 Replied/VBD the/AT Senator/NN ./pct
 ``/pct It/PPS took/VBD me/PPO five/CD hours/NNS to/TO write/VB it/PPO that/DT way/NN ''/pct ./pct
@@ -31,12 +31,12 @@ This/DT creates/VBZ an/AT amusing/JJ effect/NN because/CS its/PPg position/NN in
 A/AT verse/NN familiar/JJ to/IN all/ABN grammarians/NNS is/BEZ the/AT quatrain/NN :/pct ``/pct I/PPSS saw/VBD a/AT man/NN once/RB beat/VB his/PPg wife/NN When/WRB on/IN a/AT drunken/VBN spree/NN ./pct
 Now/RB can/MD you/PPSS tell/VB me/PPO who/WPS was/BEDZ drunk/JJ --/pct The/AT man/NN ,/pct his/PPg wife/NN ,/pct or/CC me/PPO ''/pct ?/pct ?/pct
 The/AT ``/pct wooden-leg/NN ''/pct gag/NN of/IN vaudeville/NN ,/pct another/DT standby/NN of/IN this/DT sort/NN ,/pct had/HVD endless/JJ variations/NNS ./pct
-``/pct There's /None a/AT man/NN outside/RB with/IN a/AT wooden/JJ leg/NN named/VBN Smith/NP ''/pct ./pct
-``/pct What's /None the/AT name/NN of/IN his/PPg other/AP leg/NN ''/pct ?/pct ?/pct
+``/pct There's/EXBEZ a/AT man/NN outside/RB with/IN a/AT wooden/JJ leg/NN named/VBN Smith/NP ''/pct ./pct
+``/pct What's/WDTBEZ the/AT name/NN of/IN his/PPg other/AP leg/NN ''/pct ?/pct ?/pct
 Another/DT stock/NN vaudeville/NN gag/NN ran/VBD :/pct ``/pct Mother/NN is/BEZ home/NR sick/JJ in/IN bed/NN with/IN the/AT doctor/NN ''/pct ./pct
 When/WRB radio/NN came/VBD in/RP ,/pct it/PPS continued/VBD the/AT misplaced/VBN modifier/NN in/IN its/PPg routines/NNS as/CS a/AT standard/JJ device/NN ./pct
 ``/pct Do/DO you/PPO see/VB that/DT pretty/JJ girl/NN standing/VBG next/IN to/IN the/AT car/NN with/IN slacks/NNS on/RP ''/pct ?/pct ?/pct
-``/pct I/PPSS see/VB the/AT girl/NN but/CC I/PPSS don't /None see/VB the/AT car/NN with/IN slacks/NNS on/RP ''/pct ./pct
+``/pct I/PPSS see/VB the/AT girl/NN but/CC I/PPSS don't/DO* see/VB the/AT car/NN with/IN slacks/NNS on/RP ''/pct ./pct
 In/IN recent/JJ years/NNS gagwriters/NNS have/HV discovered/VBN this/DT brand/NN of/IN blunder/NN and/CC thus/RB the/AT misplaced/VBN modifier/NN has/HVZ acquired/VBN a/AT new/JJ habitat/NN in/IN the/AT gagline/NN ./pct
 In/IN one/CD cartoon/NN a/AT family/NN is/BEZ shown/VBN outside/IN a/AT theater/NN with/IN the/AT head/NN of/IN the/AT family/NN addressing/VBG the/AT doorman/NN :/pct ``/pct Excuse/VB me/PPO ,/pct but/CC when/WRB we/PPSS came/VBD out/RP we/PPSS found/VBD that/CS we/PPSS had/HVD left/VBN my/PPg daughter's/NNg handbag/NN and/CC my/PPg wife's/NNg behind/RB ''/pct ./pct
 Journalism/NN supplies/VBZ us/PPO with/IN an/AT endless/JJ run/NN of/IN such/JJ slips/NNS ./pct
@@ -74,7 +74,7 @@ There/EX are/BER many/AP grammatical/JJ misconstructions/NNS other/AP than/IN da
 At/IN the/AT home/NR of/IN a/AT gourmet/NN the/AT new/JJ maid/NN was/BEDZ instructed/VBN in/IN the/AT fine/JJ points/NNS of/IN serving/VBG ./pct
 ``/pct I/PPSS want/VB the/AT fish/NN served/VBN whole/JJ ,/pct with/IN head/NN and/CC tail/NN ''/pct ,/pct the/AT epicure/NN explained/VBD ,/pct ``/pct and/CC serve/VB it/PPO with/IN lemon/NN in/IN mouth/NN ''/pct ./pct
 The/AT maid/NN demurred/VBD ./pct
-``/pct That's /None silly/JJ --/pct lemon/NN in/IN mouth/NN ''/pct ,/pct she/PPS said/VBD ./pct
+``/pct That's/DTBEZ silly/JJ --/pct lemon/NN in/IN mouth/NN ''/pct ,/pct she/PPS said/VBD ./pct
 But/CC since/CS the/AT gourmet/NN insisted/VBD that/CS it/PPS is/BEZ done/VBN that/DT way/NN at/IN the/AT most/QL fashionable/JJ dinners/NNS ,/pct the/AT girl/NN reluctantly/RB agreed/VBD ./pct
 So/CS she/PPS brought/VBD the/AT fish/NN in/IN whole/JJ ,/pct and/CC she/PPS carried/VBD a/AT lemon/NN in/IN her/PPg mouth/NN ./pct
 Another/DT specimen/NN of/IN such/JJ double-entendre/NN is/BEZ illustrated/VBN by/IN a/AT woman/NN in/IN a/AT department/NN store/NN ./pct
@@ -85,7 +85,7 @@ When/WRB a/AT customer/NN asked/VBD for/IN alligator/NN shoes/NNS ,/pct she/PPS 
 The/AT comic/JJ indefinite/NN comprises/VBZ an/AT extensive/JJ class/NN of/IN comedy/NN ./pct
 One/CD species/NN is/BEZ restricted/VBN to/IN statements/NNS which/WDT are/BER neither/DTX explicit/JJ nor/CC precise/JJ regarding/IN a/AT particular/JJ person/NN ,/pct place/NN ,/pct time/NN or/CC thing/NN ./pct
 A/AT woman/NN met/VBD a/AT famous/JJ author/NN at/IN a/AT literary/JJ tea/NN ./pct
-``/pct Oh/UH ,/pct I'm /None so/QL delighted/VBN to/TO meet/VB you/PPO ''/pct ,/pct she/PPS gushed/VBD ./pct
+``/pct Oh/UH ,/pct I'm/PPSSBEM so/QL delighted/VBN to/TO meet/VB you/PPO ''/pct ,/pct she/PPS gushed/VBD ./pct
 ``/pct It/PPS was/BEDZ only/RB the/AT other/AP day/NN that/CS I/PPSS saw/VBD something/PN of/IN yours/PPgg ,/pct about/IN something/PN or/CC other/AP ,/pct in/IN some/DTI magazine/NN ''/pct ./pct
 This/DT baffling/JJ lack/NN of/IN distinct/JJ details/NNS recalls/VBZ the/AT secretary/NN whose/WPg employer/NN was/BEDZ leaving/VBG the/AT office/NN and/CC told/VBD her/PPO what/WDT to/TO answer/VB if/CS anyone/PN called/VBD in/IN his/PPg absence/NN ./pct
 ``/pct I/PPSS may/MD be/BE back/RB ''/pct ,/pct he/PPS explained/VBD ,/pct ``/pct and/CC then/RB again/RB ,/pct I/PPSS may/MD not/NEG ''/pct ./pct
@@ -93,11 +93,11 @@ The/AT girl/NN nodded/VBD understandingly/RB ./pct
 ``/pct Yes/RB ,/pct sir/NN ''/pct ,/pct she/PPS said/VBD ,/pct ``/pct is/BEZ that/DT definite/JJ ''/pct ?/pct ?/pct
 An/AT old-fashioned/JJ mother/NN said/VBD to/IN her/PPg modern/JJ daughter/NN ,/pct ``/pct You/PPSS must/MD have/HV gotten/VBN in/RP quite/QL late/JJ last/AP night/NN ,/pct dear/JJ ./pct
 Where/WRB were/BED you/PPO ''/pct ?/pct ?/pct
-The/AT daughter/NN replied/VBD ,/pct ``/pct Oh/UH ,/pct I/PPSS had/HVD dinner/NN with/IN --/pct well/UH ,/pct you/PPSS don't /None know/VB him/PPO but/CC he's /None awfully/QL nice/JJ --/pct and/CC we/PPSS went/VBD to/IN a/AT couple/NN of/IN places/NNS --/pct I/PPSS don't /None suppose/VB you've /None heard/VBN of/IN them/PPO --/pct and/CC we/PPSS finished/VBD up/RP at/IN a/AT cute/JJ little/AP night/NN club/NN --/pct I/PPSS forget/VB the/AT name/NN of/IN it/PPO ./pct
-Why/WRB ,/pct it's /None all/QL right/JJ ,/pct isn't /None it/PPS ,/pct Mother/NN ''/pct ?/pct ?/pct
+The/AT daughter/NN replied/VBD ,/pct ``/pct Oh/UH ,/pct I/PPSS had/HVD dinner/NN with/IN --/pct well/UH ,/pct you/PPSS don't/DO* know/VB him/PPO but/CC he's/PPSBEZ awfully/QL nice/JJ --/pct and/CC we/PPSS went/VBD to/IN a/AT couple/NN of/IN places/NNS --/pct I/PPSS don't/DO* suppose/VB you've/PPSSHV heard/VBN of/IN them/PPO --/pct and/CC we/PPSS finished/VBD up/RP at/IN a/AT cute/JJ little/AP night/NN club/NN --/pct I/PPSS forget/VB the/AT name/NN of/IN it/PPO ./pct
+Why/WRB ,/pct it's/PPSBEZ all/QL right/JJ ,/pct isn't/BEZ* it/PPS ,/pct Mother/NN ''/pct ?/pct ?/pct
 Her/PPg woolly-minded/JJ parent/NN agreed/VBD ./pct
 ``/pct Of/IN course/NN ,/pct dear/JJ ''/pct ,/pct she/PPS said/VBD ./pct
-``/pct It's /None only/RB that/CS I/PPSS like/VB to/TO know/VB where/WRB you/PPSS go/VB ''/pct ./pct
+``/pct It's/PPSBEZ only/RB that/CS I/PPSS like/VB to/TO know/VB where/WRB you/PPSS go/VB ''/pct ./pct
 No/AT less/QL ambiguous/JJ was/BEDZ the/AT indefinity/NN of/IN a/AT certain/JJ clergyman's/NNg sermon/NN ./pct
 ``/pct Dearly/RB beloved/JJ ''/pct ,/pct he/PPS preached/VBD ,/pct ``/pct unless/CS you/PPSS repent/VB of/IN your/PPg sins/NNS in/IN a/AT measure/NN ,/pct and/CC become/VB converted/VBN to/IN a/AT degree/NN ,/pct you/PPSS will/MD ,/pct I/PPSS regret/VB to/TO say/VB ,/pct be/BE damned/VBN to/IN a/AT more/QL or/CC less/QL extent/NN ''/pct ./pct
 This/DT clergyman/NN should/MD have/HV referred/VBN to/IN Shakespeare's/NPg dictum/NN :/pct ``/pct So-so/RB is/BEZ a/AT good/JJ ,/pct very/QL good/JJ ,/pct very/QL excellent/JJ maxim/NN ./pct
@@ -110,31 +110,31 @@ The/AT bodies/NNS must/MD be/BE cleaned/VBN and/CC seats/NNS wiped/VBN off/RP ''
 A/AT politician/NN was/BEDZ approached/VBN by/IN a/AT man/NN seeking/VBG the/AT office/NN of/IN a/AT minor/JJ public/JJ official/NN who/WPS had/HVD just/RB died/VBN ./pct
 ``/pct What/WDT are/BER my/PPg chances/NNS for/IN taking/VBG Joe's/NPg place/NN ''/pct ?/pct ?/pct
 He/PPS asked/VBD ./pct
-``/pct If/CS you/PPSS can/MD fix/VB it/PPO up/RP with/IN the/AT undertaker/NN ''/pct ,/pct returned/VBD the/AT politician/NN ,/pct ``/pct it's /None all/QL right/JJ with/IN me/PPO ''/pct ./pct
+``/pct If/CS you/PPSS can/MD fix/VB it/PPO up/RP with/IN the/AT undertaker/NN ''/pct ,/pct returned/VBD the/AT politician/NN ,/pct ``/pct it's/PPSBEZ all/QL right/JJ with/IN me/PPO ''/pct ./pct
 The/AT manager/NN of/IN a/AT movie/NN theater/NN received/VBD a/AT telephone/NN call/NN from/IN a/AT woman/NN who/WPS was/BEDZ equally/QL indefinite/JJ ./pct
 ``/pct What/WDT have/HV you/PPSS got/VBN on/RP today/NR ''/pct ?/pct ?/pct
 She/PPS inquired/VBD ./pct
 ``/pct A/AT blue/JJ suit/NN ''/pct ,/pct he/PPS answered/VBD ./pct
-``/pct Who's /None in/IN it/PPO ''/pct ?/pct ?/pct
+``/pct Who's/WPSBEZ in/IN it/PPO ''/pct ?/pct ?/pct
 She/PPS continued/VBD ./pct
 ``/pct I/PPSS am/BEM ''/pct ,/pct he/PPS said/VBD ./pct
 There/EX was/BEDZ a/AT short/JJ pause/NN for/IN reflection/NN ./pct
-``/pct Oh/UH ''/pct ,/pct said/VBD the/AT woman/NN ,/pct ``/pct I've /None seen/VBN that/DT picture/NN already/RB ''/pct ./pct
+``/pct Oh/UH ''/pct ,/pct said/VBD the/AT woman/NN ,/pct ``/pct I've/PPSSHV seen/VBN that/DT picture/NN already/RB ''/pct ./pct
 Another/DT brand/NN of/IN indefinite/JJ reference/NN arises/VBZ out/IN of/IN the/AT use/NN of/IN the/AT double/JJ verb/NN ./pct
 When/WRB a/AT question/NN contains/VBZ two/CD verbs/NNS ,/pct the/AT response/NN does/DOZ not/NEG make/VB clear/JJ which/WDT of/IN them/PPO is/BEZ being/BEG answered/VBN ./pct
 The/AT moonlit/JJ night/NN was/BEDZ made/VBN for/IN romance/NN ,/pct and/CC he/PPS had/HVD been/BEN looking/VBG at/IN her/PPO soulfully/RB for/IN some/DTI time/NN ./pct
 Finally/RB he/PPS asked/VBD ,/pct ``/pct Do/DO you/PPSS object/VB to/IN petting/VBG ''/pct ?/pct ?/pct
-``/pct That's /None one/CD thing/NN I've /None never/RB done/VBN ''/pct ,/pct she/PPS said/VBD promptly/RB ./pct
+``/pct That's/DTBEZ one/CD thing/NN I've/PPSSHV never/RB done/VBN ''/pct ,/pct she/PPS said/VBD promptly/RB ./pct
 He/PPS thought/VBD a/AT moment/NN ,/pct then/RB inquired/VBD ,/pct ``/pct You/PPSS mean/VB petted/VBN ''/pct ?/pct ?/pct
 ``/pct No/RB ''/pct ,/pct she/PPS smiled/VBD ,/pct ``/pct objected/VBD ''/pct ./pct
 Replies/NNS to/IN requests/NNS for/IN character/NN reference/NN are/BER notorious/JJ for/IN their/PPg evasive/JJ double-entendre/NN ./pct
-It/PPS would/MD be/BE hard/JJ to/TO find/VB anything/PN more/QL equivocal/JJ than/CS :/pct ``/pct I/PPSS cannot /None recommend/VB him/PPO too/QL highly/RB ''/pct ./pct
+It/PPS would/MD be/BE hard/JJ to/TO find/VB anything/PN more/QL equivocal/JJ than/CS :/pct ``/pct I/PPSS cannot/MD* recommend/VB him/PPO too/QL highly/RB ''/pct ./pct
 Another/DT less/QL ambiguous/JJ case/NN read/VBD as/CS follows/VBZ :/pct ``/pct The/AT bearer/NN of/IN this/DT letter/NN has/HVZ served/VBN me/PPO for/IN two/CD years/NNS to/IN his/PPg complete/JJ satisfaction/NN ./pct
 If/CS you/PPSS are/BER thinking/VBG of/IN giving/VBG him/PPO a/AT berth/NN ,/pct be/BE sure/JJ to/TO make/VB it/PPO a/AT wide/JJ one/PN ''/pct ./pct
 In/IN the/AT comedy/NN of/IN indefinite/JJ reference/NN ,/pct it-wit/NN occupies/VBZ a/AT prominent/JJ place/NN because/RB of/IN its/PPg frequent/JJ occurrence/NN ./pct
 Ambiguity/NN arises/VBZ when/WRB the/AT pronoun/NN it/PPS carries/VBZ a/AT twofold/JJ reference/NN ./pct
 Two/CD friends/NNS were/BED talking/VBG ./pct
-One/CD said/VBD ,/pct ``/pct When/WRB I/PPSS get/VB a/AT cold/NN I/PPSS buy/VB a/AT bottle/NN of/IN whiskey/NN for/IN it/PPO ,/pct and/CC within/IN a/AT few/AP hours/NNS it's /None gone/VBN ''/pct ./pct
+One/CD said/VBD ,/pct ``/pct When/WRB I/PPSS get/VB a/AT cold/NN I/PPSS buy/VB a/AT bottle/NN of/IN whiskey/NN for/IN it/PPO ,/pct and/CC within/IN a/AT few/AP hours/NNS it's/PPSHVZ gone/VBN ''/pct ./pct
 The/AT speaker/NN referred/VBD to/IN the/AT whiskey/NN but/CC his/PPg friend/NN thought/VBD he/PPS meant/VBD the/AT cold/NN ./pct
 It-wit/NN is/BEZ a/AT misnomer/NN because/CS it/PPS covers/VBZ slips/NNS as/QL well/RB as/CS wit/NN ./pct
 An/AT excited/VBN woman/NN was/BEDZ making/VBG an/AT emergency/NN call/NN over/IN the/AT phone/NN :/pct ``/pct Doctor/NN ,/pct please/UH come/VB over/RP right/QL away/RB ./pct

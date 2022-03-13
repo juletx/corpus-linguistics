@@ -6,10 +6,10 @@ Harry/NP Rolnick/NP ,/pct president/NN of/IN the/AT Byer-Rolnick/NP Hat/NN Corpo
 Sydney/NP Wragge/NP ,/pct creator/NN of/IN sophisticated/JJ casuals/NNS for/IN women/NNS and/CC Roger/NP Vivier/NP ,/pct designer/NN of/IN Christian/NP Dior/NP shoes/NNS Paris/NP ,/pct France/NP ,/pct whose/WPg squared/VBN toes/NNS and/CC lowered/VBN heels/NNS have/HV revolutionized/VBN the/AT shoe/NN industry/NN ./pct
 The/AT silver/JJ and/CC ebony/NN plaques/NNS will/MD be/BE presented/VBN at/IN noon/NN luncheons/NNS by/IN Stanley/NP Marcus/NP ,/pct president/NN of/IN Neiman-Marcus/NP ,/pct Beneficiary/NN of/IN the/AT proceeds/NNS from/IN the/AT two/CD showings/NNS will/MD be/BE the/AT Dallas/NP Society/NN for/IN Crippled/VBN Children/NNS Cerebral/JJ Palsy/NN Treatment/NN Center/NN ./pct
 The/AT attractive/JJ Greer/NP Garson/NP ,/pct who/WPS loves/VBZ beautiful/JJ clothes/NNS and/CC selects/VBZ them/PPO as/QL carefully/RB as/CS she/PPS does/DOZ her/PPg professional/JJ roles/NNS ,/pct prefers/VBZ timeless/JJ classical/JJ designs/NNS ./pct
-Occasionally/RB she/PPS deserts/VBZ the/AT simple/JJ and/CC elegant/JJ for/IN a/AT fun/NN piece/NN simply/RB because/CS ``/pct It's /None unlike/IN me/PPO ''/pct ./pct
+Occasionally/RB she/PPS deserts/VBZ the/AT simple/JJ and/CC elegant/JJ for/IN a/AT fun/NN piece/NN simply/RB because/CS ``/pct It's/PPSBEZ unlike/IN me/PPO ''/pct ./pct
 In/IN private/JJ life/NN ,/pct Miss/NP Garson/NP is/BEZ Mrs./NP E./NP E./NP Fogelson/NP and/CC on/IN the/AT go/NN most/AP of/IN the/AT time/NN commuting/VBG from/IN Dallas/NP ,/pct where/WRB they/PPSS maintain/VB an/AT apartment/NN ,/pct to/IN their/PPg California/NP home/NN in/IN Los/NP Angeles'/NPg suburban/JJ Bel-Air/NP to/IN their/PPg ranch/NN in/IN Pecos/NP ,/pct New/JJ Mexico/NP ./pct
 Therefore/RB ,/pct her/PPg wardrobe/NN is/BEZ largely/QL mobile/JJ ,/pct to/TO be/BE packed/VBN at/IN a/AT moment's/NNg notice/NN and/CC to/TO shake/VB out/RP without/IN a/AT wrinkle/NN ./pct
-Her/PPg creations/NNS in/IN fashion/NN are/BER from/IN many/AP designers/NNS because/CS she/PPS doesn't /None want/VB a/AT complete/JJ wardrobe/NN from/IN any/DTI one/CD designer/NN any/DTI more/AP than/CS she/PPS wants/VBZ ``/pct all/ABN of/IN her/PPg pictures/NNS by/IN one/CD painter/NN ''/pct ./pct
+Her/PPg creations/NNS in/IN fashion/NN are/BER from/IN many/AP designers/NNS because/CS she/PPS doesn't/DOZ* want/VB a/AT complete/JJ wardrobe/NN from/IN any/DTI one/CD designer/NN any/DTI more/AP than/CS she/PPS wants/VBZ ``/pct all/ABN of/IN her/PPg pictures/NNS by/IN one/CD painter/NN ''/pct ./pct
 A/AT favorite/JJ is/BEZ Norman/NP Norell/NP ,/pct however/WRB ./pct
 She/PPS likes/VBZ his/PPg classic/JJ chemise/NN ./pct
 Her/PPg favorite/JJ cocktail/NN dress/NN is/BEZ a/AT Norell/NP ,/pct a/AT black/JJ and/CC white/JJ organdy/NN and/CC silk/NN jersey/NN ./pct
@@ -45,9 +45,9 @@ Ramsey/NP ,/pct as/CS SMU's/NN food/NN wrangler/NN ,/pct buys/VBZ enough/AP groc
 Tell/VB that/DT to/IN the/AT little/JJ wife/NN when/WRB she/PPS moans/VBZ at/IN the/AT woman's/NNg burden/NN !/pct !/pct
 He/PPS also/RB dishes/VBZ up/RP 3,000/CD snacks/NNS ./pct
 And/CC he/PPS operates/VBZ three/CD cafeterias/NNS in/IN the/AT Student/NN Center/NN ,/pct along/IN with/IN McElvaney/NP Dining/NN Hall/NN and/CC the/AT athlete's/NNg tables/NNS ./pct
-Ramsey/NP ,/pct 6-3/CD ,/pct 195/CD and/CC ruggedly/RB slim/JJ ,/pct says/VBZ ,/pct ``/pct I/PPSS can't /None remember/VB when/WRB I/PPSS didn't /None pester/VB my/PPg mother/NN to/TO teach/VB me/PPO to/TO cook/VB ''/pct ./pct
+Ramsey/NP ,/pct 6-3/CD ,/pct 195/CD and/CC ruggedly/RB slim/JJ ,/pct says/VBZ ,/pct ``/pct I/PPSS can't/MD* remember/VB when/WRB I/PPSS didn't/DOD* pester/VB my/PPg mother/NN to/TO teach/VB me/PPO to/TO cook/VB ''/pct ./pct
 He/PPS was/BEDZ in/IN charge/NN of/IN the/AT Hockaday/NP School/NN meals/NNS from/IN 1946/CD to/IN 1950/CD ,/pct before/CS he/PPS moved/VBD to/IN Aj/NN ./pct
-And/CC you'll /None notice/VB that/CS in/IN both/ABX places/NNS ,/pct there/EX are/BER acres/NNS of/IN charming/JJ young/JJ ladies/NNS who/WPS with/IN little/AP effort/NN spice/VB up/RP any/DTI chow/NN line/NN ./pct
+And/CC you'll/PPSSMD notice/VB that/CS in/IN both/ABX places/NNS ,/pct there/EX are/BER acres/NNS of/IN charming/JJ young/JJ ladies/NNS who/WPS with/IN little/AP effort/NN spice/VB up/RP any/DTI chow/NN line/NN ./pct
 What/WDT does/DOZ he/PPS feed/VB his/PPg SMU/NN football/NN mastodons/NNS at/IN the/AT training/VBG table/NN ?/pct ?/pct
 ``/pct Mostly/RB meat/NN and/CC potatoes/NNS --/pct they/PPSS have/HV to/TO have/HV that/DT go-go-go/NN without/IN getting/VBG too/QL fat/JJ ''/pct ,/pct says/VBZ Ramsey/NP ./pct
 So/RB he/PPS hides/VBZ the/AT mayonnaise/NN ./pct
@@ -57,7 +57,7 @@ What/WDT do/DO the/AT pretty/JJ SMU/NN girls/NNS like/VB on/IN their/PPg plates/
 ``/pct Unfortunately/RB ,/pct there/EX is/BEZ still/RB little/AP demand/NN for/IN broccoli/NN and/CC cauliflower/NN ''/pct ./pct
 Ramsey/NP has/HVZ stoked/VBN up/RP Harry/NP Truman/NP ,/pct Henry/NP Cabot/NP Lodge/NP ,/pct the/AT King/NN of/IN Morocco/NP ,/pct Clement/NP Atlee/NP and/CC other/AP shiny/JJ characters/NNS ./pct
 Once/RB four/CD Tibetan/JJ monks/NNS ,/pct in/IN their/PPg saffron/NN robes/NNS ,/pct filed/VBD through/IN the/AT cafeteria/NN line/NN ./pct
-``/pct They/PPSS aren't /None supposed/VBN to/TO look/VB at/IN women/NNS ,/pct you/PPSS know/VB ''/pct ,/pct Ramsey/NP recalled/VBD ./pct
+``/pct They/PPSS aren't/BER* supposed/VBN to/TO look/VB at/IN women/NNS ,/pct you/PPSS know/VB ''/pct ,/pct Ramsey/NP recalled/VBD ./pct
 ``/pct What/WDT with/IN all/ABN those/DTS pretty/JJ girls/NNS around/RB ,/pct they/PPSS had/HVD a/AT hard/JJ time/NN ''/pct ./pct
 Chicken/NN Cadillac/NP
 Use/VB one/CD 6-ounce/JJ chicken/NN breast/NN for/IN each/DT guest/NN ./pct

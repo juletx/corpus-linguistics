@@ -18,7 +18,7 @@ She/PPS regretted/VBD what/WDT she/PPS described/VBD as/CS the/AT ``/pct unwarra
 This/DT letter/NN concluded/VBD with/IN an/AT invitation/NN :/pct ``/pct
 I/PPSS am/BEM a/AT great/JJ deal/NN at/IN the/AT little/JJ children's/NNSg Hospital/NN ./pct
 Mr./NP Meynell/NP knows/VBZ the/AT way/NN ./pct
-I/PPSS know/VB you/PPSS are/BER very/QL busy/JJ now/RB ,/pct you/PPSS are/BER writing/VBG a/AT great/JJ deal/NN &/CC your/PPg book/NN is/BEZ coming/VBG out/RP ,/pct isn't /None it/PPS ?/pct ?/pct
+I/PPSS know/VB you/PPSS are/BER very/QL busy/JJ now/RB ,/pct you/PPSS are/BER writing/VBG a/AT great/JJ deal/NN &/CC your/PPg book/NN is/BEZ coming/VBG out/RP ,/pct isn't/BEZ* it/PPS ?/pct ?/pct
 But/CC if/CS you/PPSS are/BER able/JJ &/CC care/VB to/TO come/VB ,/pct you/PPSS know/VB how/WQL glad/JJ I/PPSS shall/MD be/BE ./pct
 Ever/RB yours/PPgg sincerely/RB ,/pct
 Katherine/NP Douglas/NP King/NP ''/pct The/AT invitation/NN was/BEDZ accepted/VBN and/CC other/AP letters/NNS followed/VBD ,/pct in/IN which/WDT she/PPS spoke/VBD of/IN her/PPg concern/NN for/IN his/PPg health/NN and/CC her/PPg delight/NN in/IN seeing/VBG him/PPO so/QL much/RB at/IN home/NN among/IN the/AT crippled/VBN children/NNS she/PPS served/VBD ./pct
@@ -38,10 +38,10 @@ All/ABN chance/NN of/IN fulfilling/VBG my/PPg destiny/NN is/BEZ over/RP ./pct
 I/PPSS want/VB you/PPO to/TO be/BE grandfather/NN to/IN these/DTS orphaned/VBN poems/NNS ,/pct dear/JJ father-brother/NN ,/pct now/RB I/PPSS am/BEM gone/VBN ;/pct ;/pct
 and/CC launch/VB them/PPO on/IN the/AT world/NN when/WRB their/PPg time/NN comes/VBZ ./pct
 For/IN them/PPO a/AT box/NN will/MD be/BE lodgment/NN enough/AP ./pct
-Katie/NP cannot /None mind/VB your/PPg seeing/VBG them/PPO now/RB ;/pct ;/pct
+Katie/NP cannot/MD* mind/VB your/PPg seeing/VBG them/PPO now/RB ;/pct ;/pct
 since/CS my/PPg silence/NN must/MD have/HV ended/VBN when/WRB I/PPSS gave/VBD the/AT purposed/VBN volume/NN to/IN you/PPO ./pct
 I/PPSS ask/VB you/PPO to/TO do/DO me/PPO the/AT last/AP favour/NN of/IN reading/VBG them/PPO by/IN 8/CD to-morrow/NR evening/NN ,/pct about/RB which/WDT time/NN I/PPSS shall/MD come/VB to/TO say/VB my/PPg sad/JJ good-bye/UH ./pct
-If/CS you/PPSS don't /None think/VB much/AP of/IN them/PPO ,/pct tell/VB me/PPO the/AT wholesome/JJ truth/NN ./pct
+If/CS you/PPSS don't/DO* think/VB much/AP of/IN them/PPO ,/pct tell/VB me/PPO the/AT wholesome/JJ truth/NN ./pct
 If/CS otherwise/RB ,/pct you/PPSS will/MD give/VB me/PPO a/AT pleasure/NN ./pct
 O/UH Wilfrid/NP !/pct !/pct
 It/PPS is/BEZ strange/JJ ;/pct ;/pct
@@ -52,7 +52,7 @@ The/AT ``/pct orphaned/VBN poems/NNS ''/pct mentioned/VBN in/IN the/AT letter/NN
 The/AT publication/NN of/IN Father/NN Connolly's/NPg The/AT Man/NN Has/HVZ Wings/NNS has/HVZ made/VBD more/AP of/IN the/AT group/NN available/JJ in/IN print/NN so/CS that/CS a/AT general/JJ picture/NN of/IN what/WDT it/PPS contained/VBD can/MD now/RB be/BE had/HVN without/IN difficulty/NN ./pct
 Some/DTI of/IN the/AT poems/NNS express/VB a/AT mood/NN of/IN joy/NN in/IN a/AT newly/RB discovered/VBN love/NN ;/pct ;/pct
 others/NNS suggest/VB its/PPg coming/VBG loss/NN or/CC describe/VB the/AT poet's/NNg feelings/NNS when/WRB he/PPS learns/VBZ of/IN a/AT final/JJ separation/NN ./pct
-The/AT somewhat/QL Petrarchan/JJ love/NN story/NN which/WDT these/DTS poems/NNS suggest/VB cannot /None obscure/VB the/AT fact/NN that/CS undoubtedly/RB they/PPSS have/HV more/AP than/CS a/AT little/JJ of/IN autobiographical/JJ sincerity/NN ./pct
+The/AT somewhat/QL Petrarchan/JJ love/NN story/NN which/WDT these/DTS poems/NNS suggest/VB cannot/MD* obscure/VB the/AT fact/NN that/CS undoubtedly/RB they/PPSS have/HV more/AP than/CS a/AT little/JJ of/IN autobiographical/JJ sincerity/NN ./pct
 When/WRB they/PPSS were/BED first/RB written/VBN ,/pct there/EX was/BEDZ evidently/RB no/AT thought/NN of/IN their/PPg being/BEG published/VBN ,/pct and/CC those/DTS which/WDT refer/VB to/IN the/AT writer's/NNg love/NN for/IN Mrs./NP Meynell/NP particularly/RB have/HV the/AT ring/NN of/IN truth/NN ./pct
 In/IN ``/pct My/PPg Song's/NNg Young/JJ Virgin/JJ Date/NN ''/pct ,/pct for/IN example/NN ,/pct Thompson/NP wrote/VBD :/pct ``/pct Yea/RB ,/pct she/PPS that/WPS had/HVD my/PPg song's/NNg young/JJ virgin/JJ date/NN Not/NEG now/RB ,/pct alas/UH ,/pct that/DT noble/JJ singular/JJ she/PPS ,/pct I/PPSS nobler/JJR hold/VB ,/pct though/CS marred/VBN from/IN her/PPO once/RB state/VB ,/pct Than/CS others/NNS in/IN their/PPg best/JJT integrity/NN ./pct
 My/PPg own/JJ stern/JJ hand/NN has/HVZ rent/VBN the/AT ancient/JJ bond/NN ,/pct And/CC thereof/RB shall/MD the/AT ending/NN not/NEG have/HV end/NN :/pct But/CC not/NEG for/IN me/PPO ,/pct that/WPS loved/VBD her/PPO ,/pct to/TO be/BE fond/JJ Lightly/RB to/TO please/VB me/PPO with/IN a/AT newer/JJR friend/NN Then/RB hold/VB it/PPO more/RBR than/CS bravest-feathered/JJ song/NN ,/pct That/CS I/PPSS affirm/VB to/IN thee/PPO ,/pct with/IN heart/NN of/IN pride/NN ,/pct I/PPSS knew/VBD not/NEG what/WDT did/DOD to/IN a/AT friend/NN belong/VB Till/CS I/PPSS stood/VBD up/RP ,/pct true/JJ friend/NN ,/pct by/IN thy/PPg true/JJ side/NN ;/pct ;/pct

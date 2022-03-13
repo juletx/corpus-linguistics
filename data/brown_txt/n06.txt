@@ -41,7 +41,7 @@ They/PPSS ,/pct and/CC the/AT two/CD large/JJ fans/NNS which/WDT I/PPSS could/MD
 He/PPS pointed/VBD out/RP the/AT switch/NN to/IN me/PPO and/CC for/IN a/AT moment/NN I/PPSS foolishly/RB believed/VBD that/CS he/PPS would/MD let/VB deed/VB follow/VB words/NNS ./pct
 I/PPSS was/BEDZ shown/VBN ,/pct instead/RB ,/pct a/AT batch/NN of/IN white/JJ tickets/NNS of/IN the/AT sort/NN handed/VBN out/RP ,/pct he/PPS told/VBD me/PPO ,/pct every/AT morning/NN ./pct
 Now/RB ,/pct here/RB was/BEDZ something/PN of/IN obvious/JJ importance/NN to/IN me/PPO ,/pct yet/RB when/WRB I/PPSS reached/VBD for/IN the/AT tickets/NNS he/PPS snatched/VBD them/PPO away/RB from/IN my/PPg hand/NN ./pct
-He/PPS couldn't /None afford/VB to/TO have/HV anyone/PN mess/VB around/RB with/IN them/PPO ,/pct he/PPS said/VBD ./pct
+He/PPS couldn't/MD* afford/VB to/TO have/HV anyone/PN mess/VB around/RB with/IN them/PPO ,/pct he/PPS said/VBD ./pct
 Each/DT of/IN those/DTS tickets/NNS was/BEDZ of/IN great/JJ value/NN to/IN its/PPg rightful/JJ recipient/NN ./pct
 I/PPSS withdrew/VBD my/PPg hand/NN ./pct
 Later/RBR I/PPSS would/MD remember/VB what/WDT this/DT pompous/JJ little/JJ man/NN had/HVD told/VBN me/PPO about/IN the/AT worth/NN of/IN a/AT ticket/NN ./pct
@@ -61,7 +61,7 @@ No/AT sooner/RBR would/MD I/PPSS turn/VB my/PPg head/NN away/RB from/IN the/AT c
 And/CC I/PPSS had/HVD hardly/RB finished/VBN my/PPg business/NN in/IN the/AT toilet/NN on/IN the/AT aforementioned/JJ occasion/NN when/WRB the/AT lights/NNS in/IN that/DT place/NN ,/pct like/CS the/AT hall/NN lights/NNS controlled/VBN from/IN the/AT switch/NN in/IN the/AT office/NN ,/pct flicked/VBD off/RP and/CC on/RP impatiently/RB ./pct
 This/DT sort/NN of/IN petty/JJ vigilance/NN annoyed/VBD me/PPO ./pct
 I/PPSS felt/VBD certain/JJ it/PPS was/BEDZ self-appointed/JJ ./pct
-It/PPS sprang/VBD from/IN a/AT type/NN of/IN mentality/NN I'd /None encountered/VBN often/RB enough/QLP but/CC certainly/RB had/HVD not/NEG expected/VBN to/TO find/VB here/RB ./pct
+It/PPS sprang/VBD from/IN a/AT type/NN of/IN mentality/NN I'd/PPSSHVD encountered/VBN often/RB enough/QLP but/CC certainly/RB had/HVD not/NEG expected/VBN to/TO find/VB here/RB ./pct
 I/PPSS decided/VBD to/TO see/VB no/AT more/RBR of/IN the/AT clerk/NN until/CS the/AT processing/NN of/IN my/PPg papers/NNS was/BEDZ completed/VBN ./pct
 I/PPSS felt/VBD strongly/RB attached/VBN to/IN the/AT hall/NN ,/pct however/WRB ,/pct and/CC hardly/RB a/AT day/NN passed/VBD when/WRB I/PPSS did/DOD not/NEG go/VB to/TO look/VB at/IN it/PPO from/IN a/AT distance/NN ./pct
 I/PPSS lived/VBD in/IN a/AT state/NN of/IN suspense/NN because/CS of/IN it/PPO ./pct
@@ -79,7 +79,7 @@ The/AT river/NN was/BEDZ only/RB a/AT few/AP blocks/NNS away/RB but/CC an/AT unb
 Sometimes/RB I/PPSS noticed/VBD the/AT tops/NNS of/IN ships'/NNSg masts/NNS and/CC funnels/NNS reaching/VBG above/IN the/AT pier/NN roofs/NNS ./pct
 The/AT sounds/NNS issuing/VBG from/IN beyond/RB --/pct winches/NNS whirring/VBG ,/pct men/NNS shouting/VBG --/pct indicated/VBD great/JJ activity/NN and/CC excited/VBN me/PPO ./pct
 The/AT hall/NN ,/pct on/IN the/AT other/AP hand/NN ,/pct appeared/VBD lifeless/JJ and/CC deserted/VBN on/IN these/DTS long/JJ waterfront/NN afternoons/NNS ./pct
-It/PPS resembled/VBD nothing/PN I'd /None ever/RB seen/VBN before/RB ./pct
+It/PPS resembled/VBD nothing/PN I'd/PPSSHVD ever/RB seen/VBN before/RB ./pct
 Its/PPg front/NN was/BEDZ windowless/JJ ,/pct but/CC irregularities/NNS in/IN the/AT masonry/NN might/MD be/BE an/AT indication/NN that/CS windows/NNS ,/pct now/RB blinded/VBN ,/pct had/HVD once/RB looked/VBN out/RP upon/IN the/AT street/NN ./pct
 I/PPSS kept/VBD circling/VBG the/AT block/NN hoping/VBG to/TO see/VB ,/pct from/IN the/AT street/NN behind/IN it/PPO ,/pct the/AT rear/NN of/IN the/AT hall/NN ./pct
 But/CC it/PPS was/BEDZ not/NEG a/AT tall/JJ structure/NN and/CC other/AP buildings/NNS concealed/VBD it/PPO ./pct

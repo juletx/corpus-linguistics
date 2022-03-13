@@ -2,19 +2,19 @@
 The/AT women/NNS have/HV a/AT reputation/NN for/IN giving/VBG parties/NNS that/WPS are/BER different/JJ and/CC are/BER fun/NN and/CC this/DT year's/NNg promises/VBZ to/TO follow/VB in/IN this/DT fine/JJ tradition/NN ./pct
 Mrs./NP H./NP J./NP Grinsfelder/NP is/BEZ chairman/NN ./pct
 The/AT Louisiana/NP city/NN is/BEZ known/VBN ,/pct of/IN course/NN ,/pct for/IN its/PPg fine/JJ food/NN ,/pct good/JJ music/NN and/CC its/PPg colorful/JJ hospitality/NN ``/pct and/CC ,/pct when/WRB guests/NNS arrive/VB at/IN Philmont/NP that/DT night/NN ''/pct ,/pct says/VBZ Mrs./NP Grinsfelder/NP ,/pct ``/pct that/DT is/BEZ exactly/RB what/WDT we/PPSS expect/VB to/TO offer/VB them/PPO ./pct
-We've /None been/BEN working/VBG for/IN weeks/NNS ./pct
+We've/PPSSHV been/BEN working/VBG for/IN weeks/NNS ./pct
 The/AT prospects/NNS look/VB great/JJ ./pct
 We/PPSS are/BER keeping/VBG a/AT number/NN of/IN surprises/NNS under/IN our/PPg hats/NNS ./pct
-But/CC we/PPSS can't /None tell/VB it/PPO all/ABN now/RB and/CC then/RB have/HV no/RB new/JJ excitement/NN later/RBR ''/pct ./pct
+But/CC we/PPSS can't/MD* tell/VB it/PPO all/ABN now/RB and/CC then/RB have/HV no/RB new/JJ excitement/NN later/RBR ''/pct ./pct
 Basin/NN Street/NN Beat/NN
 But/CC she/PPS does/DOZ indicate/VB festivities/NNS will/MD start/VB early/RB ,/pct that/CS a/AT jazz/NN combo/NN will/MD ``/pct give/VB with/IN the/AT Basin/NN Street/NN beat/NN ''/pct during/IN the/AT cocktail/NN and/CC dinner/NN hours/NNS and/CC that/CS Lester/NP Lanin's/NPg orchestra/NN will/MD take/VB over/RP during/IN the/AT dancing/NN ./pct
 As/CS for/IN food/NN ,/pct Mrs./NP Henry/NP Louchheim/NP ,/pct chairman/NN of/IN this/DT phase/NN ,/pct is/BEZ a/AT globetrotter/NN who/WPS knows/VBZ good/JJ food/NN ./pct
 ``/pct New/JJ Orleans/NP ''/pct ?/pct ?/pct
-She/PPS says/VBZ ,/pct ``/pct of/IN course/NN I've /None had/HVN the/AT best/JJT ./pct
+She/PPS says/VBZ ,/pct ``/pct of/IN course/NN I've/PPSSHV had/HVN the/AT best/JJT ./pct
 It/PPS is/BEZ just/RB bad/JJ luck/NN that/CS we/PPSS are/BER having/HVG the/AT party/NN in/IN a/AT month/NN with/IN no/AT R's/NN ,/pct so/RB no/AT oysters/NNS ./pct
 But/CC we/PPSS have/HV lots/NNS of/IN other/AP New/JJ Orleans/NP specialties/NNS ./pct
 I/PPSS know/VB they/PPSS will/MD be/BE good/JJ ./pct
-We've /None tried/VBN them/PPO out/RP on/IN the/AT club/NN chef/NN --/pct or/CC say/VB ,/pct he/PPS has/HVZ tried/VBN them/PPO out/RP on/IN us/PPO and/CC we/PPSS have/HV selected/VBN the/AT best/JJT ''/pct ./pct
+We've/PPSSHV tried/VBN them/PPO out/RP on/IN the/AT club/NN chef/NN --/pct or/CC say/VB ,/pct he/PPS has/HVZ tried/VBN them/PPO out/RP on/IN us/PPO and/CC we/PPSS have/HV selected/VBN the/AT best/JJT ''/pct ./pct
 Scenic/JJ effects/NNS
 Guests/NNS will/MD be/BE treated/VBN to/IN Gulf/NN Coast/NN scenic/JJ effects/NNS ./pct
 There/EX will/MD be/BE masses/NNS of/IN flowers/NNS ,/pct reproductions/NNS of/IN the/AT handsome/JJ old/JJ buildings/NNS with/IN their/PPg grillwork/NN and/CC other/AP things/NNS that/WPS are/BER typical/JJ of/IN New/JJ Orleans/NP ./pct
@@ -26,7 +26,7 @@ In/IN addition/NN to/IN the/AT bundles/NNS ,/pct guests/NNS pay/VB the/AT cost/N
 Members/NNS of/IN the/AT young/JJ set/NN who/WPS would/MD like/VB to/TO come/VB to/IN the/AT party/NN only/RB during/IN the/AT dancing/VBG time/NN are/BER welcomed/VBN ./pct
 The/AT Thrift/NN Shop/NN ,/pct with/IN Mrs./NP Bernhard/NP S./NP Blumenthal/NP as/CS president/NN ,/pct is/BEZ one/CD of/IN the/AT city's/NNg most/QL successful/JJ fund-raisers/NNS for/IN the/AT Federation/NN of/IN Jewish/JJ Agencies/NNS ./pct
 Some/DTI idea/NN of/IN the/AT competence/NN of/IN the/AT women/NNS is/BEZ indicated/VBN in/IN the/AT contribution/NN made/VBN by/IN them/PPO during/IN the/AT past/AP 25/CD years/NNS that/WPS totals/VBZ $840,000/NNS ./pct
-It's /None big/JJ business/NN
+It's/PPSBEZ big/JJ business/NN
 ``/pct Big/JJ business/NN ,/pct this/DT little/JJ Thrift/NN Shop/NN business/NN ''/pct ,/pct say/VB the/AT members/NNS ./pct
 For/IN most/RBT of/IN the/AT 25/CD years/NNS the/AT operation/NN was/BEDZ under/IN feminine/JJ direction/NN ./pct
 In/IN the/AT past/AP few/AP years/NNS the/AT men/NNS ,/pct mostly/RB husbands/NNS of/IN members/NNS ,/pct have/HV taken/VBN an/AT interest/NN ./pct

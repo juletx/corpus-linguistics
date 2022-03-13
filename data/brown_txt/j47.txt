@@ -64,7 +64,7 @@ However/RB ,/pct as/CS we/PPSS have/HV seen/VBN ,/pct in/IN later/JJR childhood/
 8/CD ./pct
 The/AT elementary-school/NN child/NN grows/VBZ gradually/RB in/IN his/PPg ability/NN to/TO work/VB in/IN groups/NNS ./pct
 The/AT child/NN in/IN the/AT primary/JJ grades/NNS can/MD play/VB harmoniously/RB with/IN one/CD companion/NN ,/pct but/CC his/PPg desire/NN to/TO be/BE first/OD in/IN everything/PN gets/VBZ him/PPO into/IN trouble/NN when/WRB the/AT group/NN gets/VBZ larger/JJR ;/pct ;/pct
-he/PPS wants/VBZ to/TO be/BE with/IN people/NNS ,/pct but/CC he/PPS hasn't /None yet/RB learned/VBN to/TO cooperate/VB ./pct
+he/PPS wants/VBZ to/TO be/BE with/IN people/NNS ,/pct but/CC he/PPS hasn't/HVZ* yet/RB learned/VBN to/TO cooperate/VB ./pct
 In/IN the/AT middle/JJ grades/NNS ,/pct however/RB ,/pct he/PPS begins/VBZ to/TO participate/VB more/QL effectively/RB in/IN group/NN activities/NNS such/JJ as/CS selecting/VBG a/AT leader/NN ,/pct helping/VBG to/TO make/VB plans/NNS and/CC carry/VB on/RP group/NN activities/NNS ,/pct and/CC setting/VBG up/RP rules/NNS governing/VBG the/AT enterprise/NN ./pct
 Why/WRB the/AT teacher/NN should/MD study/VB the/AT individual/JJ pupil/NN
 Much/AP progress/NN has/HVZ been/BEN made/VBN in/IN the/AT last/AP two/CD decades/NNS in/IN developing/VBG techniques/NNS for/IN understanding/VBG children/NNS ,/pct yet/CC in/IN almost/RB any/DTI classroom/NN today/NR can/MD be/BE found/VBN children/NNS whose/WPg needs/NNS are/BER not/NEG being/BEG met/VBN by/IN the/AT school/NN program/NN ./pct
@@ -98,8 +98,8 @@ An/AT impoverished/JJ home/NN that/WPS may/MD discourage/VB one/CD child/NN may/
 At/IN any/DTI rate/NN ,/pct the/AT teacher/NN who/WPS recognizes/VBZ common/JJ causes/NNS of/IN retardation/NN and/CC maladjustment/NN can/MD frequently/RB do/DO a/AT great/JJ deal/NN to/TO eliminate/VB the/AT causes/NNS of/IN pupil/NN discouragement/NN ,/pct failure/NN ,/pct and/CC maladjustment/NN ./pct
 Sources/NNS of/IN information/NN about/IN children/NNS
 Successful/JJ teaching/NN involves/VBZ getting/VBG enough/AP information/NN about/IN each/DT pupil/NN to/TO understand/VB why/WRB he/PPS behaves/VBZ as/CS he/PPS does/DOZ in/IN certain/AP situations/NNS and/CC how/WRB his/PPg achievement/NN in/IN school/NN is/BEZ being/BEG influenced/VBN by/IN various/AP factors/NNS in/IN his/PPg environment/NN ./pct
-The/AT classroom/NN teacher/NN cannot /None be/BE expected/VBN to/TO be/BE as/QL proficient/JJ in/IN the/AT use/NN of/IN the/AT techniques/NNS of/IN child/NN study/NN as/CS the/AT clinical/JJ psychologist/NN ;/pct ;/pct
-he/PPS cannot /None be/BE expected/VBN to/TO administer/VB all/ABN the/AT tests/NNS and/CC gather/VB all/ABN the/AT information/NN needed/VBN about/IN each/DT child/NN in/IN his/PPg classroom/NN ./pct
+The/AT classroom/NN teacher/NN cannot/MD* be/BE expected/VBN to/TO be/BE as/QL proficient/JJ in/IN the/AT use/NN of/IN the/AT techniques/NNS of/IN child/NN study/NN as/CS the/AT clinical/JJ psychologist/NN ;/pct ;/pct
+he/PPS cannot/MD* be/BE expected/VBN to/TO administer/VB all/ABN the/AT tests/NNS and/CC gather/VB all/ABN the/AT information/NN needed/VBN about/IN each/DT child/NN in/IN his/PPg classroom/NN ./pct
 He/PPS can/MD be/BE expected/VBN ,/pct however/RB ,/pct to/TO examine/VB and/CC interpret/VB the/AT information/NN already/RB available/JJ ;/pct ;/pct
 to/TO refine/VB and/CC extend/VB his/PPg own/JJ techniques/NNS for/IN studying/VBG individual/JJ children/NNS ;/pct ;/pct
 and/CC to/TO utilize/VB opportunities/NNS ,/pct arising/VBG in/IN connection/NN with/IN regular/JJ classroom/NN activities/NNS ,/pct for/IN gaining/VBG a/AT better/JJR understanding/NN of/IN his/PPg pupils/NNS ./pct

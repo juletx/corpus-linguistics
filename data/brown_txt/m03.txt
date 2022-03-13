@@ -1,7 +1,7 @@
 This/DT was/BEDZ not/NEG ,/pct for/IN the/AT Angel/NN ,/pct just/RB a/AT matter/NN of/IN running/VBG through/IN a/AT logical/JJ or/CC deductive/JJ chain/NN ,/pct or/CC deciding/VBG on/RP some/DTI action/NN from/IN some/DTI already/RB established/VBN premise/NN ./pct
 No/AT doubt/NN the/AT Angels/NNS could/MD do/DO that/DT kind/NN of/IN thing/NN as/QL fast/JJ as/CS any/DTI computer/NN ./pct
 What/WDT Gabriel/NP was/BEDZ being/BEG asked/VBN to/TO do/DO now/RB ,/pct however/WRB ,/pct was/BEDZ to/TO re-examine/VB all/ABN his/PPg basic/JJ assumptions/NNS ,/pct make/VB value-judgments/NNS on/IN them/PPO ,/pct and/CC give/VB them/PPO new/JJ and/CC different/JJ powers/NNS in/IN his/PPg mind/NN to/TO govern/VB his/PPg motives/NNS ./pct
-This/DT is/BEZ not/NEG wholly/RB a/AT reasoning/VBG process/NN --/pct a/AT computer/NN cannot /None do/DO it/PPO all/ABN --/pct and/CC even/RB in/IN an/AT Angel/NN it/PPS takes/VBZ time/NN ./pct
+This/DT is/BEZ not/NEG wholly/RB a/AT reasoning/VBG process/NN --/pct a/AT computer/NN cannot/MD* do/DO it/PPO all/ABN --/pct and/CC even/RB in/IN an/AT Angel/NN it/PPS takes/VBZ time/NN ./pct
 (/pct Or/CC ,/pct perhaps/RB ,/pct especially/RB in/IN an/AT Angel/NN ,/pct whose/WPg assumptions/NNS had/HVD mostly/RB been/BEN fixed/VBN millions/NNS of/IN years/NNS ago/RB ./pct
 Being/BEG reasonably/RB sure/JJ of/IN the/AT reason/NN for/IN the/AT long/JJ pause/NN ,/pct however/WRB ,/pct did/DOD not/NEG make/VB it/PPO seem/VB any/DTI less/QL long/JJ to/IN Jack/NP ./pct
 He/PPS had/HVD already/RB become/VBN used/VBN to/IN Hesperus'/NPg snapping/VBG back/RB answers/NNS to/IN questions/NNS almost/RB before/CS Jack/NP could/MD get/VB them/PPO asked/VBN ./pct
@@ -20,7 +20,7 @@ Hesperus/NP ,/pct you/PPSS may/MD speak/VB ''/pct ./pct
 ``/pct I/PPSS did/DOD not/NEG perceive/VB this/DT essential/NN distinction/NN either/RB ,/pct First-Born/NP ''/pct ,/pct Hesperus/NP said/VBD at/IN once/RB ,/pct ``/pct I/PPSS was/BEDZ only/RB practicing/VBG a/AT concept/NN that/CS Jack/NP taught/VBD me/PPO ,/pct called/VBN a/AT deal/NN ''/pct ./pct
 ``/pct Nevertheless/RB ,/pct you/PPSS were/BED its/PPg agent/NN ./pct
 Jack/NP ,/pct what/WDT is/BEZ the/AT nature/NN of/IN this/DT concept/NN ''/pct ?/pct ?/pct
-``/pct It's /None a/AT kind/NN of/IN agreement/NN in/IN which/WDT each/DT party/NN gives/VBZ something/PN to/IN the/AT other/AP ''/pct ,/pct Jack/NP said/VBD ./pct
+``/pct It's/PPSBEZ a/AT kind/NN of/IN agreement/NN in/IN which/WDT each/DT party/NN gives/VBZ something/PN to/IN the/AT other/AP ''/pct ,/pct Jack/NP said/VBD ./pct
 ``/pct We/PPSS regard/VB it/PPO as/CS fair/JJ only/RB when/WRB each/DT party/NN feels/VBZ that/CS what/WDT he/PPS has/HVZ received/VBN is/BEZ as/CS valuable/JJ ,/pct or/CC more/QL valuable/JJ ,/pct than/CS what/WDT he/PPS has/HVZ given/VBN ''/pct ./pct
 His/PPg heart/NN ,/pct he/PPS discovered/VBD ,/pct was/BEDZ pounding/VBG ./pct
 ``/pct For/IN instance/NN ,/pct Hesperus/NP agreed/VBD to/TO help/VB me/PPO find/VB my/PPg property/NN ,/pct and/CC I/PPSS agreed/VBD to/TO take/VB him/PPO to/IN Earth/NN ./pct
@@ -77,15 +77,15 @@ It/PPS seemed/VBD to/TO be/BE only/RB a/AT riot/NN of/IN color/NN ,/pct light/NN
 Gradually/RB ,/pct he/PPS realized/VBD that/CS the/AT pentagon/NN of/IN Angel/NN elders/NNS had/HVD vanished/VBN ,/pct and/CC that/CS the/AT ritual/JJ learning/VBG dance/NN of/IN the/AT nursery/NN had/HVD been/BEN broken/VBN up/RP ./pct
 The/AT Angels/NNS in/IN the/AT nursery/NN were/BED zigzagging/VBG wildly/RB in/IN all/ABN directions/NNS ,/pct seemingly/RB at/IN random/NN ./pct
 ``/pct Hesperus/NP !/pct !/pct
-What's /None going/VBG on/RP here/RB ?/pct ?/pct
-What's /None happened/VBN ''/pct ?/pct ?/pct
+What's/WDTBEZ going/VBG on/RP here/RB ?/pct ?/pct
+What's/WDTBEZ happened/VBN ''/pct ?/pct ?/pct
 ``/pct Your/PPg brothers/NNS have/HV been/BEN found/VBN ./pct
 They/PPSS are/BER on/IN their/PPg way/NN here/RB ''/pct ./pct
 ``/pct Where/WRB ?/pct ?/pct
-I/PPSS don't /None see/VB them/PPO ./pct
-The/AT instruments/NNS don't /None show/VB them/PPO ''/pct ./pct
-``/pct You/PPSS can't /None see/VB them/PPO yet/RB ,/pct Jack/NP ./pct
-They'll /None be/BE in/IN range/NN in/IN a/AT short/JJ while/NN ''/pct ./pct
+I/PPSS don't/DO* see/VB them/PPO ./pct
+The/AT instruments/NNS don't/DO* show/VB them/PPO ''/pct ./pct
+``/pct You/PPSS can't/MD* see/VB them/PPO yet/RB ,/pct Jack/NP ./pct
+They'll/PPSSMD be/BE in/IN range/NN in/IN a/AT short/JJ while/NN ''/pct ./pct
 Jack/NP scanned/VBD the/AT skies/NNS ,/pct the/AT boards/NNS ,/pct and/CC the/AT skies/NNS again/RB ./pct
 Nothing/PN ./pct
 No/RB --/pct there/EX was/BEDZ a/AT tiny/JJ pip/NN on/IN the/AT radar/NN ;/pct ;/pct
@@ -105,7 +105,7 @@ He/PPS would/MD never/RB have/HV believed/VBN ,/pct without/IN seeing/VBG it/PPO
 But/CC where/WRB was/BEDZ it/PPS going/VBG ?/pct ?/pct
 And/CC why/WRB was/BEDZ it/PPS causing/VBG so/QL much/AP agitation/NN among/IN the/AT Angels/NNS ,/pct and/CC being/BEG followed/VBN by/IN so/QL many/AP of/IN them/PPO ?/pct ?/pct
 There/EX was/BEDZ only/RB one/CD possible/JJ answer/NN ,/pct but/CC Jack's/NPg horrified/VBN mind/NN refused/VBD to/TO believe/VB it/PPO until/CS he/PPS had/HVD fed/VBN the/AT radar/NN plots/NNS of/IN the/AT skiff's/NNg course/NN into/IN the/AT computer/NN ./pct
-The/AT curve/NN on/IN the/AT card/NN the/AT computer/NN spat/VBD back/RB at/IN him/PPO couldn't /None be/BE argued/VBN with/IN ,/pct however/WRB ./pct
+The/AT curve/NN on/IN the/AT card/NN the/AT computer/NN spat/VBD back/RB at/IN him/PPO couldn't/MD* be/BE argued/VBN with/IN ,/pct however/WRB ./pct
 The/AT skiff/NN was/BEDZ headed/VBN for/IN the/AT very/AP center/NN of/IN the/AT nebula/NN --/pct toward/IN that/DT place/NN which/WDT ,/pct Jack/NP knew/VBD now/RB ,/pct could/MD hold/VB nothing/PN less/QL important/JJ than/CS the/AT very/AP core/NN of/IN the/AT Angel's/NNg life/NN and/CC religion/NN ./pct
 It/PPS was/BEDZ clear/JJ that/CS Langer/NP had/HVD at/IN last/AP found/VBN a/AT way/NN to/TO attract/VB the/AT Angel's/NNg attention/NN ./pct
 It/PPS was/BEDZ equally/QL clear/JJ that/CS as/CS of/IN this/DT moment/NN ,/pct the/AT treaty/NN was/BEDZ off/RP ./pct
@@ -115,7 +115,7 @@ Almost/QL surely/RB he/PPS did/DOD ;/pct ;/pct
 after/IN all/ABN ,/pct he/PPS had/HVD had/HVN the/AT same/AP set/NN of/IN facts/NNS as/CS Jack/NP had/HVD had/HVN to/TO work/VB from/IN ,/pct and/CC he/PPS was/BEDZ an/AT almost/RB frighteningly/RB observant/JJ man/NN ./pct
 But/CC not/NEG having/HVG talked/VBD to/IN the/AT Angels/NNS ,/pct he/PPS had/HVD made/VBN a/AT wrong/JJ turn/NN in/IN his/PPg reasoning/NN somewhere/RB along/IN the/AT line/NN ./pct
 Had/HVD he/PPS decided/VBD ,/pct perhaps/RB ,/pct that/CS the/AT center/NN of/IN the/AT cloud/NN was/BEDZ a/AT center/NN of/IN government/NN ,/pct instead/RB of/IN a/AT center/NN of/IN life/NN and/CC faith/NN ''/pct ?/pct ?/pct
-But/CC it/PPS didn't /None matter/VB now/RB whether/CS he/PPS meant/VBD to/TO invade/VB the/AT Holy/NN of/IN Holies/NNS ,/pct or/CC was/BEDZ simply/RB headed/VBN in/IN that/DT direction/NN by/IN accident/NN ./pct
+But/CC it/PPS didn't/DOD* matter/VB now/RB whether/CS he/PPS meant/VBD to/TO invade/VB the/AT Holy/NN of/IN Holies/NNS ,/pct or/CC was/BEDZ simply/RB headed/VBN in/IN that/DT direction/NN by/IN accident/NN ./pct
 If/CS it/PPS was/BEDZ intentional/JJ ,/pct it/PPS was/BEDZ now/RB also/RB unnecessary/JJ ;/pct ;/pct
 and/CC whether/CS intentional/JJ or/CC not/NEG ,/pct the/AT outcome/NN would/MD be/BE disastrous/JJ ./pct
 Jack/NP crawled/VBD under/IN the/AT boards/NNS and/CC restored/VBD the/AT six/CD feet/NNS of/IN lead/NN line/NN he/PPS had/HVD excised/VBN from/IN the/AT Nernst/NP generator/NN switch/NN ./pct
@@ -124,11 +124,11 @@ He/PPS had/HVD to/TO have/HV fusion/NN power/NN to/TO catch/VB up/RP with/IN the
 But/CC fusion/NN power/NN in/IN the/AT Coal/NN Sack/NN was/BEDZ what/WDT had/HVD triggered/VBN all/ABN the/AT trouble/NN in/IN the/AT first/OD place/NN --/pct and/CC he/PPS already/RB had/HVD an/AT Angel/NN aboard/RB ./pct
 ``/pct Hesperus/NP ''/pct ?/pct ?/pct
 ``/pct Receiving/VBG ''/pct ./pct
-``/pct I'm /None going/VBG to/TO turn/VB my/PPg generator/NN back/RB on/RP ,/pct as/CS I/PPSS promised/VBD to/TO do/DO ./pct
-But/CC I/PPSS can't /None take/VB you/PPO to/IN Earth/NN yet/RB ./pct
-First/RB I've /None got/VBN to/TO intercept/VB my/PPg brothers/NNS before/CS they/PPSS get/VB any/DTI deeper/JJR into/IN trouble/NN ./pct
+``/pct I'm/PPSSBEM going/VBG to/TO turn/VB my/PPg generator/NN back/RB on/RP ,/pct as/CS I/PPSS promised/VBD to/TO do/DO ./pct
+But/CC I/PPSS can't/MD* take/VB you/PPO to/IN Earth/NN yet/RB ./pct
+First/RB I've/PPSSHV got/VBN to/TO intercept/VB my/PPg brothers/NNS before/CS they/PPSS get/VB any/DTI deeper/JJR into/IN trouble/NN ./pct
 Will/MD you/PPSS obstruct/VB this/DT ,/pct or/CC will/MD you/PPSS help/VB ?/pct ?/pct
-I/PPSS know/VB it's /None not/NEG part/NN of/IN the/AT bargain/NN ,/pct and/CC your/PPg elders/NNS might/MD not/NEG like/VB it/PPO ''/pct ./pct
+I/PPSS know/VB it's/PPSBEZ not/NEG part/NN of/IN the/AT bargain/NN ,/pct and/CC your/PPg elders/NNS might/MD not/NEG like/VB it/PPO ''/pct ./pct
 ``/pct Nobody/PN else/RB can/MD live/VB in/IN your/PPg hearth/NN while/CS I/PPSS am/BEM in/IN it/PPO ''/pct ,/pct Hesperus/NP said/VBD promptly/RB ./pct
 ``/pct As/CS for/IN my/PPg elders/NNS ,/pct they/PPSS have/HV already/RB admitted/VBN that/CS they/PPSS were/BED wrong/JJ ./pct
 If/CS because/CS of/IN this/DT incident/NN they/PPSS become/VB angry/JJ with/IN Earth/NN ,/pct I/PPSS will/MD not/NEG be/BE permitted/VBN to/TO go/VB there/RB at/IN all/ABN ./pct
@@ -140,4 +140,4 @@ Of/IN course/NN ./pct
 Hesperus/NP was/BEDZ in/IN there/RB ./pct
 From/IN here/RB on/RP out/RP ,/pct the/AT Ariadne/NP was/BEDZ going/VBG to/TO be/BE hotter/JJR than/CS any/DTI space/NN cruiser/NN man/NN had/HVD ever/RB dreamed/VBN of/IN ./pct
 But/CC since/CS he/PPS had/HVD failed/VBN to/TO anticipate/VB it/PPO ,/pct he/PPS lost/VBD the/AT five/CD minutes/NNS anyhow/RB ,/pct in/IN plotting/VBG an/AT intercept/NN orbit/NN ./pct
-``/pct Hesperus/NP ,/pct don't /None use/VB this/DT t-tau/NN vector/NN trick/NN of/IN yours/PPgg ,/pct please/VB ./pct
+``/pct Hesperus/NP ,/pct don't/DO* use/VB this/DT t-tau/NN vector/NN trick/NN of/IN yours/PPgg ,/pct please/VB ./pct

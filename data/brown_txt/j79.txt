@@ -79,7 +79,7 @@ This/DT sequence/NN of/IN equations/NNS may/MD be/BE started/VBN with/IN the/AT 
 The/AT process/NN in/IN which/WDT the/AT outcome/NN of/IN any/DTI one/CD stage/NN is/BEZ known/VBN only/RB statistically/RB is/BEZ also/RB of/IN interest/NN ,/pct although/CS for/IN chemical/NN reactor/NN design/NN it/PPS is/BEZ not/NEG as/QL important/JJ as/CS the/AT deterministic/JJ process/NN ./pct
 In/IN this/DT case/NN the/AT stage/NN R/NP operating/VBG with/IN conditions/NNS Af/NN transforms/VBZ the/AT state/NN of/IN the/AT stream/NN from/IN Af/NN to/IN Af/NN ,/pct but/CC only/RB the/AT probability/NN distribution/NN of/IN Af/NN is/BEZ known/VBN ./pct
 This/DT is/BEZ specified/VBN by/IN a/AT distribution/NN function/NN Af/NN such/JJ that/CS the/AT probability/NN that/CS Af/NN lies/VBZ in/IN some/DTI region/NN D/NN of/IN the/AT stage/NN space/NN is/BEZ Af/NN ./pct
-We/PPSS cannot /None now/RB speak/VB of/IN maximizing/VBG the/AT value/NN of/IN the/AT objective/JJ function/NN ,/pct since/CS this/DT function/NN is/BEZ now/RB known/VBN only/RB in/IN a/AT probabilistic/JJ sense/NN ./pct
+We/PPSS cannot/MD* now/RB speak/VB of/IN maximizing/VBG the/AT value/NN of/IN the/AT objective/JJ function/NN ,/pct since/CS this/DT function/NN is/BEZ now/RB known/VBN only/RB in/IN a/AT probabilistic/JJ sense/NN ./pct
 We/PPSS can/MD ,/pct however/RB ,/pct maximize/VB its/PPg expected/VBN value/NN ./pct
 For/IN a/AT single/AP stage/NN we/PPSS may/MD define/VB Af/NN where/WRB the/AT maximization/NN is/BEZ by/IN choice/NN of/IN Af/NN ./pct
 We/PPSS thus/RB have/HV an/AT optimal/JJ policy/NN which/WDT maximizes/VBZ the/AT expected/VBN value/NN of/IN the/AT objective/JJ function/NN for/IN a/AT given/VBN Af/NN ./pct

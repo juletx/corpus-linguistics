@@ -28,7 +28,7 @@ It/PPS is/BEZ blind/JJ ,/pct fundamentalist/JJ dogmatism/NN to/TO say/VB ,/pct `
 Facts/NNS in/IN focus/NN
 Lester/NP Markel/NP is/BEZ on/IN the/AT right/JJ track/NN in/IN his/PPg article/NN ``/pct Interpretation/NN Of/IN Interpretation/NN ''/pct (/pct SR/NN ,/pct Mar./NP 11/CD )/pct ./pct
 The/AT current/JJ stereotype/NN of/IN straight/JJ news/NN reporting/NN was/BEDZ probably/RB invaluable/JJ in/IN protecting/VBG the/AT press/NN and/CC its/PPg readers/NNS from/IN pollution/NN by/IN that/DT combination/NN of/IN doctored/VBN fact/NN ,/pct fancy/NN ,/pct and/CC personal/JJ opinion/NN called/VBN yellow/JJ journalism/NN which/WDT flourished/VBD in/IN this/DT country/NN more/AP than/IN a/AT generation/NN ago/RB ./pct
-We/PPSS don't /None need/VB this/DT type/NN of/IN protection/NN any/DTI more/AP ./pct
+We/PPSS don't/DO* need/VB this/DT type/NN of/IN protection/NN any/DTI more/AP ./pct
 The/AT public/NN is/BEZ now/RB armed/VBN with/IN sophistication/NN and/CC numerous/JJ competing/VBG media/NNS ./pct
 Besides/RB ,/pct there/EX are/BER no/QL longer/RBR enough/AP corruptible/JJ journalists/NNS about/RB ./pct
 The/AT accepted/VBN method/NN of/IN writing/VBG news/NN has/HVZ two/CD major/JJ liabilities/NNS ./pct
@@ -50,12 +50,12 @@ Next/RB ,/pct because/RB of/IN the/AT time/NN differential/NN ,/pct the/AT confe
 Up/RP until/IN now/RB ,/pct the/AT networks/NNS have/HV grudgingly/RB run/VBN half-hour/NN tapes/NNS at/IN 5/CD P.M./RB or/CC sometimes/RB 7/CD or/CC 10:30/CD P.M./RB ./pct
 Even/RB then/RB ,/pct a/AT few/AP of/IN the/AT ``/pct less/QL interesting/JJ ''/pct questions/NNS are/BER edited/VBN out/RP and/CC glibly/RB summarized/VBN by/IN a/AT commentator/NN ./pct
 However/RB ,/pct last/AP night/NN the/AT tapes/NNS were/BED not/NEG run/VBN at/IN all/ABN during/IN the/AT evening/NN hours/NNS and/CC all/ABN we/PPSS got/VBD on/IN TV/NN were/BED a/AT few/AP snatches/NNS which/WDT Douglas/NP Edwards/NP and/CC Huntley/NP and/CC Brinkley/NP could/MD squeeze/VB into/IN their/PPg programs/NNS ./pct
-This/DT is/BEZ no/AT criticism/NN of/IN them/PPO ,/pct as/CS they/PPSS obviously/RB cannot /None get/VB a/AT half-hour/NN program/NN into/IN a/AT fifteen-minute/JJ news/NN summary/NN ./pct
+This/DT is/BEZ no/AT criticism/NN of/IN them/PPO ,/pct as/CS they/PPSS obviously/RB cannot/MD* get/VB a/AT half-hour/NN program/NN into/IN a/AT fifteen-minute/JJ news/NN summary/NN ./pct
 The/AT radio/NN stations/NNS did/DOD run/VB ``/pct transcripts/NNS ''/pct (/pct I/PPSS thought/VBD )/pct during/IN the/AT evening/NN hours/NNS ./pct
 However/RB ,/pct by/IN comparing/VBG the/AT TV/NN snatches/NNS ,/pct two/CD different/JJ radio/NN station/NN re-runs/NNS ,/pct and/CC the/AT censored/VBN Los/NP Angeles/NP Times/NNS version/NN ,/pct I/PPSS found/VBD that/CS the/AT radio/NN stations/NNS had/HVD edited/VBN out/RP questions/NNS (/pct ABC/NP removed/VBD the/AT one/CD regarding/IN Laos/NP )/pct or/CC even/RB a/AT paragraph/NN out/IN of/IN the/AT middle/NN of/IN the/AT President's/NNg answer/NN ./pct
 I/PPSS am/BEM interested/VBN to/TO know/VB he/PPS is/BEZ getting/VBG mail/NN from/IN all/QL over/IN the/AT country/NN about/IN the/AT ``/pct abuse/NN ''/pct he/PPS is/BEZ being/BEG subjected/VBN to/IN ./pct
-We/PPSS out/RP here/RB don't /None see/VB enough/AP of/IN the/AT conference/NN to/TO know/VB he/PPS is/BEZ being/BEG abused/VBN ./pct
-I/PPSS don't /None know/VB if/CS this/DT is/BEZ the/AT situation/NN in/IN other/AP parts/NNS of/IN the/AT country/NN ;/pct ;/pct
+We/PPSS out/RP here/RB don't/DO* see/VB enough/AP of/IN the/AT conference/NN to/TO know/VB he/PPS is/BEZ being/BEG abused/VBN ./pct
+I/PPSS don't/DO* know/VB if/CS this/DT is/BEZ the/AT situation/NN in/IN other/AP parts/NNS of/IN the/AT country/NN ;/pct ;/pct
 apparently/RB it/PPS is/BEZ not/NEG ./pct
 It/PPS also/RB happened/VBD with/IN the/AT Inauguration/NN ,/pct which/WDT was/BEDZ not/NEG re-run/VBN at/IN all/ABN during/IN the/AT evening/NN hours/NNS ,/pct and/CC I/PPSS wrote/VBD to/IN the/AT TV/NN editor/NN of/IN the/AT Times/NNS ./pct
 He/PPS did/DOD mention/VB in/IN his/PPg column/NN the/AT fact/NN that/CS he/PPS had/HVD received/VBN many/AP letters/NNS about/IN this/DT and/CC he/PPS himself/PPL did/DOD not/NEG understand/VB the/AT networks/NNS and/CC the/AT independent/JJ local/JJ stations'/NNSg not/NEG doing/VBG this/DT --/pct but/CC nothing/PN happened/VBD ./pct

@@ -16,11 +16,11 @@ Donovan/NP snatched/VBD Greg's/NPg chute/NN from/IN him/PPO with/IN a/AT bellige
 His/PPg face/NN was/BEDZ dark/JJ as/CS the/AT sky/NN above/IN it/PPO as/CS he/PPS stood/VBD on/IN the/AT wing/NN and/CC waited/VBD for/IN his/PPg pilot/NN ./pct
 Greg/NP climbed/VBD into/IN the/AT cockpit/NN feeling/VBG as/CS if/CS he/PPS had/HVD never/RB been/BEN in/IN one/CD before/RB ./pct
 But/CC his/PPg hands/NNS and/CC those/DTS of/IN Donovan/NP moved/VBD automatically/RB adjusting/VBG and/CC arranging/VBG in/IN the/AT check-out/NN procedure/NN ./pct
-``/pct I've /None got/VBN her/PPO as/QL neat/JJ as/CS I/PPSS can/MD ''/pct ,/pct Donovan/NP said/VBD ,/pct as/CS he/PPS dropped/VBD the/AT straps/NNS of/IN the/AT Seton/NP harness/NN over/IN Greg's/NPg shoulders/NNS ./pct
+``/pct I've/PPSSHV got/VBN her/PPO as/QL neat/JJ as/CS I/PPSS can/MD ''/pct ,/pct Donovan/NP said/VBD ,/pct as/CS he/PPS dropped/VBD the/AT straps/NNS of/IN the/AT Seton/NP harness/NN over/IN Greg's/NPg shoulders/NNS ./pct
 ``/pct But/CC this/DT goddamn/JJ climate/NN ./pct
-It's /None for/IN carabao/NN not/NEG airplanes/NNS ''/pct ./pct
-``/pct We'll /None make/VB out/RP ./pct
-Don't /None you/PPSS worry/VB ,/pct chief/NN ''/pct ,/pct Greg/NP replied/VBD ,/pct wondering/VBG if/CS he/PPS himself/PPL believed/VBD it/PPO ./pct
+It's/PPSBEZ for/IN carabao/NN not/NEG airplanes/NNS ''/pct ./pct
+``/pct We'll/PPSSMD make/VB out/RP ./pct
+Don't/DO* you/PPSS worry/VB ,/pct chief/NN ''/pct ,/pct Greg/NP replied/VBD ,/pct wondering/VBG if/CS he/PPS himself/PPL believed/VBD it/PPO ./pct
 ``/pct Yeah/RB ./pct
 See/VB you/PPO ''/pct ,/pct Donovan/NP said/VBD as/CS he/PPS jumped/VBD off/IN the/AT wing/NN ./pct
 The/AT expression/NN was/BEDZ his/PPg trade-mark/NN ,/pct his/PPg open/JJ sesame/NN to/IN good/JJ luck/NN ,/pct and/CC his/PPg prayer/NN that/CS pilot/NN and/CC plane/NN would/MD always/RB return/VB ./pct
@@ -41,10 +41,10 @@ He/PPS possessed/VBD the/AT fighter/NN pilot's/NNg horror/NN of/IN bad/JJ weathe
 He/PPS shivered/VBD in/IN the/AT warm/JJ cockpit/NN ./pct
 The/AT overcast/NN was/BEDZ solid/JJ above/IN him/PPO ./pct
 As/QL far/RB as/CS he/PPS could/MD see/VB there/EX was/BEDZ no/AT hole/NN to/TO climb/VB through/IN it/PPO ./pct
-They/PPSS would/MD have/HV to/TO go/VB west/NR through/IN the/AT narrow/JJ river/NN valley/NN that/WPS separated/VBD Leyte/NP from/IN Samar/NP and/CC hope/VB that/CS it/PPS didn't /None close/VB in/RP before/CS they/PPSS returned/VBD ./pct
+They/PPSS would/MD have/HV to/TO go/VB west/NR through/IN the/AT narrow/JJ river/NN valley/NN that/WPS separated/VBD Leyte/NP from/IN Samar/NP and/CC hope/VB that/CS it/PPS didn't/DOD* close/VB in/RP before/CS they/PPSS returned/VBD ./pct
 Greg/NP pushed/VBD the/AT radio/NN button/NN on/IN his/PPg throttle/NN ./pct
-``/pct Todman/NP ,/pct let's /None try/VB to/TO go/VB under/IN this/DT stuff/NN ./pct
-Stay/VB in/IN close/RB and/CC we'll /None go/VB up/IN the/AT valley/NN ''/pct ./pct
+``/pct Todman/NP ,/pct let's/VBPPO try/VB to/TO go/VB under/IN this/DT stuff/NN ./pct
+Stay/VB in/IN close/RB and/CC we'll/PPSSMD go/VB up/IN the/AT valley/NN ''/pct ./pct
 ``/pct Roger/UH ,/pct Sweeney/NP ''/pct ,/pct Todman/NP called/VBD back/RB ,/pct and/CC pulled/VBD his/PPg four/CD in/IN and/CC slightly/RB above/IN Greg/NP ./pct
 Greg/NP took/VBD the/AT formation/NN wide/JJ around/IN three/CD A-26/NN attack/NN bombers/NNS that/WPS were/BED headed/VBN north/NR over/IN the/AT Gulf/NN ./pct
 He/PPS dropped/VBD down/RP to/IN five/CD hundred/CD feet/NNS ,/pct swinging/VBG a/AT little/AP north/NR of/IN the/AT city/NN of/IN Tacloban/NP ,/pct and/CC punched/VBD into/IN the/AT opening/NN that/WPS showed/VBD against/IN the/AT mountain/NN ./pct
@@ -91,17 +91,17 @@ He/PPS narrowed/VBD the/AT shape/NN down/IN to/IN two/CD :/pct either/CC a/AT Ze
 If/CS it/PPS were/BED the/AT enemy/NN ,/pct tactically/RB his/PPg position/NN was/BEDZ correct/JJ ./pct
 Japanese/JJ aircraft/NN were/BED strong/JJ on/IN maneuverability/NN ,/pct American/JJ on/IN speed/NN and/CC firepower/NN ./pct
 His/PPg present/JJ maximum/NN altitude/NN ,/pct up/IN against/IN the/AT overcast/NN ,/pct gave/VBD him/PPO the/AT opportunity/NN to/TO exploit/VB his/PPg advantages/NNS ./pct
-But/CC it/PPS also/RB made/VBD him/PPO conspicuous/JJ to/IN the/AT enemy/NN ,/pct if/CS it/PPS was/BEDZ the/AT enemy/NN ,/pct and/CC he/PPS hadn't /None been/BEN spotted/VBN already/RB ./pct
+But/CC it/PPS also/RB made/VBD him/PPO conspicuous/JJ to/IN the/AT enemy/NN ,/pct if/CS it/PPS was/BEDZ the/AT enemy/NN ,/pct and/CC he/PPS hadn't/HVD* been/BEN spotted/VBN already/RB ./pct
 But/CC the/AT closing/VBG aircraft/NN showed/VBD no/AT sign/NN of/IN deviating/VBG from/IN their/PPg original/JJ course/NN ./pct
 In/IN seconds/NNS ,/pct Greg/NP made/VBD his/PPg decision/NN ./pct
 He/PPS pushed/VBD the/AT radio/NN button/NN ./pct
 ``/pct Sweeney/NP Blue/NP ,/pct hit/VB the/AT deck/NN ./pct
 Lots/NNS of/IN throttle/NN ./pct
 Todman/NP ,/pct you/PPSS take/VB the/AT one/CD on/IN the/AT left/NR ./pct
-I'll /None take/VB the/AT middle/NN ./pct
+I'll/PPSSMD take/VB the/AT middle/NN ./pct
 Belton/NP ,/pct the/AT one/CD on/IN the/AT right/NR ./pct
-If/CS they're /None Japs/NPS ./pct
-Let's /None make/VB sure/JJ first/RB ''/pct ./pct
+If/CS they're/PPSSBER Japs/NPS ./pct
+Let's/VBPPO make/VB sure/JJ first/RB ''/pct ./pct
 Greg/NP had/HVD the/AT stick/NN forward/RB and/CC the/AT throttle/NN up/RP before/CS he/PPS heard/VBD the/AT two/CD ``/pct Rogers/NPS ''/pct ./pct
 The/AT planes/NNS ,/pct light/JJ with/IN most/AP of/IN the/AT gas/NN burned/VBN out/RP ,/pct responded/VBD beautifully/RB ./pct
 Greg's/NPg airspeed/NN indicator/NN was/BEDZ over/RP 350/CD when/WRB he/PPS leveled/VBD off/RP just/RB above/IN the/AT trees/NNS ./pct
@@ -114,31 +114,31 @@ But/CC they/PPSS could/MD turn/VB and/CC escape/VB to/IN the/AT east/NR ./pct
 Greg/NP pushed/VBD the/AT radio/NN button/NN again/RB ./pct
 ``/pct Todman/NP ,/pct drop/VB your/PPg second/OD element/NN back/RB ./pct
 If/CS any/DTI of/IN us/PPO miss/VB ,/pct they/PPSS can/MD pick/VB up/RP the/AT pieces/NNS ./pct
-Now/RB let's /None make/VB sure/JJ they're /None Japs/NPS ''/pct ./pct
+Now/RB let's/VBPPO make/VB sure/JJ they're/PPSSBER Japs/NPS ''/pct ./pct
 Even/RB as/CS he/PPS said/VBD it/PPO ,/pct Greg/NP knew/VBD they/PPSS had/HVD found/VBN the/AT enemy/NN ./pct
 The/AT shapes/NNS were/BED unmistakable/JJ and/CC the/AT Rising/VBG Suns/NNS were/BED showing/VBG up/RP ,/pct slightly/RB brighter/JJR pinpoints/NNS in/IN the/AT gray/JJ gloom/NN ./pct
 Greg/NP slapped/VBD his/PPg hand/NN across/IN the/AT switches/NNS that/WPS turned/VBD on/RP the/AT guns/NNS and/CC gun/NN camera/NN and/CC gun/NN sight/NN ./pct
 The/AT circle/NN with/IN the/AT dot/NN in/IN the/AT center/NN showed/VBD up/RP yellow/JJ on/IN the/AT reflector/NN glass/NN in/IN front/NN of/IN him/PPO ./pct
 His/PPg hands/NNS shook/VBD ./pct
 ``/pct Arm/VB your/PPg guns/NNS ,/pct Sweeneys/NPS ''/pct ./pct
-``/pct They're /None Japs/NPS ./pct
-They're /None Japs/NPS ''/pct ,/pct came/VBD a/AT high-pitched/JJ voice/NN ./pct
+``/pct They're/PPSSBER Japs/NPS ./pct
+They're/PPSSBER Japs/NPS ''/pct ,/pct came/VBD a/AT high-pitched/JJ voice/NN ./pct
 ``/pct Greg/NP to/IN Sweeney/NP Blue/NP ./pct
 One/CD pass/NN only/RB ./pct
 No/AT turns/NNS ./pct
-You'll /None bust/VB your/PPg ass/NN in/IN this/DT canyon/NN ./pct
-That's /None an/AT order/NN ''/pct ./pct
+You'll/PPSSMD bust/VB your/PPg ass/NN in/IN this/DT canyon/NN ./pct
+That's/DTBEZ an/AT order/NN ''/pct ./pct
 He/PPS moved/VBD the/AT flights/NNS over/RP against/IN one/CD wall/NN ./pct
 It/PPS gave/VBD them/PPO all/ABN a/AT chance/NN to/TO make/VB a/AT high-speed/NN climbing/VBG turn/NN attack/NN and/CC a/AT break-away/NN that/DT would/MD not/NEG take/VB them/PPO into/IN the/AT overcast/NN or/CC force/VB a/AT tight-turn/NN recovery/NN ./pct
 If/CS the/AT turn/NN was/BEDZ too/QL tight/JJ ,/pct a/AT barrel/NN roll/NN would/MD bring/VB them/PPO out/RP ./pct
 A/AT hell/NN of/IN an/AT altitude/NN for/IN a/AT barrel/NN roll/NN ,/pct but/CC it/PPS could/MD be/BE done/VBN ./pct
 Greg/NP slammed/VBD his/PPg throttle/NN to/IN the/AT fire/NN wall/NN and/CC rammed/VBD up/IN the/AT RPM/NN ,/pct and/CC the/AT engine/NN responded/VBD as/CS if/CS it/PPS had/HVD been/BEN waiting/VBG ./pct
 The/AT clearly/RB identifiable/JJ enemy/NN continued/VBD on/RP as/CS if/CS no/AT one/PN else/RB were/BED around/RB ./pct
-``/pct They/PPSS haven't /None seen/VBN us/PPO ''/pct ,/pct Greg/NP yelled/VBD to/IN himself/PPL over/IN the/AT engine/NN noise/NN ./pct
-``/pct They/PPSS haven't /None seen/VBN us/PPO ''/pct ./pct
+``/pct They/PPSS haven't/HV* seen/VBN us/PPO ''/pct ,/pct Greg/NP yelled/VBD to/IN himself/PPL over/IN the/AT engine/NN noise/NN ./pct
+``/pct They/PPSS haven't/HV* seen/VBN us/PPO ''/pct ./pct
 He/PPS hit/VBD the/AT radio/NN button/NN ./pct
 ``/pct Now/RB ,/pct Sweeneys/NPS ,/pct now/RB ./pct
-Let's /None take/VB 'em/PPO home/NR ''/pct ./pct
+Let's/VBPPO take/VB 'em/PPO home/NR ''/pct ./pct
 He/PPS hauled/VBD back/RB on/IN the/AT stick/NN and/CC felt/VBD his/PPg cheeks/NNS sag/VB ./pct
 Out/IN of/IN the/AT corner/NN of/IN his/PPg eye/NN ,/pct he/PPS watched/VBD his/PPg wingman/NN move/VB out/RP a/AT bit/NN and/CC shoot/VB up/RP with/IN him/PPO ./pct
 Perfect/JJ ,/pct he/PPS thought/VBD ./pct
@@ -151,7 +151,7 @@ Eight/CD aircraft/NN in/IN this/DT small/JJ box/NN ./pct
 Please/VB ,/pct dear/JJ God/NP ,/pct make/VB my/PPg pilots/NNS good/JJ ,/pct he/PPS prayed/VBD ./pct
 He/PPS took/VBD a/AT lead/NN on/IN the/AT enemy/NN ,/pct using/VBG a/AT distance/NN of/IN five/CD of/IN the/AT radii/NNS in/IN his/PPg circular/JJ sight/NN and/CC then/RB added/VBD another/DT ./pct
 The/AT enemy/NN did/DOD not/NEG veer/VB ./pct
-It/PPS did/DOD not/NEG seem/VB possible/JJ that/CS they/PPSS hadn't /None been/BEN spotted/VBN ./pct
+It/PPS did/DOD not/NEG seem/VB possible/JJ that/CS they/PPSS hadn't/HVD* been/BEN spotted/VBN ./pct
 Blind/JJ fools/NNS ./pct
 Now/RB !/pct !/pct
 Greg's/NPg fingers/NNS closed/VBD on/IN the/AT stick/NN trigger/NN ./pct

@@ -8,7 +8,7 @@ She/PPS would/MD see/VB them/PPO ,/pct looking/VBG just/RB as/CS they/PPSS had/H
 Moreover/RB ,/pct nursing/VBG various/JJ Stubblefields/NPS --/pct her/PPg aunt/NN ,/pct then/RB her/PPg mother/NN ,/pct then/RB her/PPg father/NN --/pct through/IN their/PPg lengthy/JJ illnesses/NNS (/pct everybody/PN could/MD tell/VB you/PPO the/AT Stubblefields/NPS were/BED always/RB sick/JJ )/pct ,/pct Theresa/NP had/HVD had/HVN a/AT chance/NN to/TO read/VB quite/ABL a/AT lot/NN ./pct
 England/NP ,/pct France/NP ,/pct Germany/NP ,/pct Switzerland/NP ,/pct and/CC Italy/NP had/HVD all/ABN been/BEN rendered/VBN for/IN her/PPO time/NN and/CC again/RB ,/pct and/CC between/IN the/AT prescribed/VBN hours/NNS of/IN pills/NNS and/CC tonics/NNS ,/pct she/PPS had/HVD conceived/VBN a/AT dreamy/JJ passion/NN by/IN lamplight/NN ,/pct to/TO see/VB all/ABN these/DTS places/NNS with/IN her/PPg own/JJ eyes/NNS ./pct
 The/AT very/AP night/NN after/IN her/PPg father's/NNg funeral/NN she/PPS had/HVD thought/VBN ,/pct though/CS never/RB admitted/VBD to/IN a/AT soul/NN :/pct Now/RB I/PPSS can/MD go/VB ./pct
-There's /None nothing/PN to/TO stop/VB me/PPO now/RB ./pct
+There's/EXBEZ nothing/PN to/TO stop/VB me/PPO now/RB ./pct
 So/CS here/RB it/PPS was/BEDZ ,/pct here/RB was/BEDZ Italy/NP ,/pct anyway/RB ,/pct and/CC terribly/RB noisy/JJ ./pct
 In/IN the/AT street/NN the/AT traffic/NN was/BEDZ really/QL frightening/VBG ./pct
 Cars/NNS ,/pct taxis/NNS ,/pct buses/NNS ,/pct and/CC motorscooters/NNS all/ABN went/VBD plunging/VBG at/IN once/RB down/IN the/AT narrow/JJ length/NN of/IN it/PPO or/CC swerving/VBG perilously/RB around/IN a/AT fountain/NN ./pct
@@ -32,7 +32,7 @@ Strange/JJ ,/pct but/CC she/PPS was/BEDZ ./pct
 Presently/RB ,/pct she/PPS picked/VBD up/RP the/AT first/OD of/IN the/AT letters/NNS ./pct
 A/AT few/AP moments/NNS later/RBR her/PPg hands/NNS were/BED trembling/VBG and/CC her/PPg brow/NN had/HVD contracted/VBN with/IN anxiety/NN and/CC dismay/NN ./pct
 Of/IN course/NN ,/pct one/PN of/IN them/PPO would/MD have/HV to/TO go/VB and/CC do/DO this/DT !/pct !/pct
-Poor/JJ Cousin/NN Elec/NP ,/pct she/PPS thought/VBD ,/pct tears/NNS rising/VBG to/TO sting/VB in/IN the/AT sun/NN ,/pct but/CC why/WRB couldn't /None he/PPS have/HV arranged/VBN to/TO live/VB through/IN the/AT summer/NN ?/pct ?/pct
+Poor/JJ Cousin/NN Elec/NP ,/pct she/PPS thought/VBD ,/pct tears/NNS rising/VBG to/TO sting/VB in/IN the/AT sun/NN ,/pct but/CC why/WRB couldn't/MD* he/PPS have/HV arranged/VBN to/TO live/VB through/IN the/AT summer/NN ?/pct ?/pct
 And/CC how/WRB on/IN earth/NN did/DOD I/PPSS ever/RB get/VB this/DT letter/NN anyway/RB ?/pct ?/pct
 She/PPS had/HVD reason/NN indeed/RB to/TO wonder/VB how/WRB the/AT letter/NN had/HVD managed/VBN to/TO find/VB her/PPO ./pct
 Her/PPg Cousin/NN Emma/NP Carraway/NP had/HVD written/VBN it/PPO ,/pct in/IN her/PPg loose/JJ high/JJ old/JJ lady's/NNg script/NN --/pct t's/NN carefully/RB crossed/VBN ,/pct but/CC l's/NN inclined/VBN to/TO wobble/VB like/CS an/AT old/JJ car/NN on/IN the/AT downward/RB slope/NN ./pct
@@ -43,8 +43,8 @@ Somebody/PN had/HVD scrawled/VBN American/JJ Express/NN ,/pct Piazza/NN di/IN Sp
 Inside/RB were/BED all/ABN the/AT things/NNS they/PPSS thought/VBD she/PPS ought/MD to/TO know/VB concerning/IN the/AT last/AP illness/NN ,/pct death/NN ,/pct and/CC burial/NN of/IN Cousin/NN Alexander/NP Carraway/NP ./pct
 Cousin/NN Emma/NP and/CC Cousin/NN Elec/NP ,/pct brother/NN and/CC sister/NN --/pct unmarried/JJ ,/pct devoted/VBN ,/pct aging/VBG --/pct had/HVD lived/VBN next/AP door/NN to/IN the/AT Stubblefields/NPS in/IN Tuxapoka/NP from/IN time/NN immemorial/JJ until/CS the/AT Stubblefields/NPS had/HVD moved/VBN to/IN Montgomery/NP fifteen/CD years/NNS ago/RB ./pct
 Two/CD days/NNS before/CS he/PPS was/BEDZ taken/VBN sick/JJ ,/pct Cousin/NN Elec/NP was/BEDZ out/RP worrying/VBG about/IN what/WDT too/QL much/AP rain/NN might/MD do/DO to/IN his/PPg sweetpeas/NNS ,/pct and/CC Cousin/NN Elec/NP had/HVD always/RB preserved/VBN in/IN the/AT top/JJS drawer/NN of/IN his/PPg secretary/NN a/AT mother-of-pearl/NN paper/NN knife/NN which/WDT Theresa/NP had/HVD coveted/VBN as/CS a/AT child/NN and/CC which/WDT he/PPS had/HVD promised/VBN she/PPS could/MD have/HV when/WRB he/PPS died/VBD ./pct
-I'm /None supposed/VBN to/TO care/VB as/QL much/RB now/RB as/CS then/RB ,/pct as/QL much/RB here/RB as/CS there/RB ,/pct she/PPS realized/VBD ,/pct with/IN a/AT sigh/NN ./pct
-This/DT letter/NN would/MD have/HV got/VBN to/IN me/PPO if/CS she/PPS hadn't /None even/RB put/VBN Rome/NP ,/pct Italy/NP ,/pct on/IN it/PPO ./pct
+I'm/PPSSBEM supposed/VBN to/TO care/VB as/QL much/RB now/RB as/CS then/RB ,/pct as/QL much/RB here/RB as/CS there/RB ,/pct she/PPS realized/VBD ,/pct with/IN a/AT sigh/NN ./pct
+This/DT letter/NN would/MD have/HV got/VBN to/IN me/PPO if/CS she/PPS hadn't/HVD* even/RB put/VBN Rome/NP ,/pct Italy/NP ,/pct on/IN it/PPO ./pct
 She/PPS refolded/VBD the/AT letter/NN ,/pct replaced/VBD it/PPO in/IN its/PPg envelope/NN ,/pct and/CC turned/VBD with/IN relief/NN to/IN one/CD from/IN her/PPg brother/NN George/NP ./pct
 But/CC alas/UH George/NP ,/pct when/WRB he/PPS had/HVD written/VBN ,/pct had/HVD only/RB just/RB returned/VBN from/IN going/VBG to/IN Tuxapoka/NP to/IN Cousin/NN Elec's/NPg funeral/NN ./pct
 He/PPS was/BEDZ full/JJ of/IN heavy/JJ family/NN reminiscence/NN ./pct
@@ -63,7 +63,7 @@ He/PPS held/VBD his/PPg long/JJ clenched/VBN foot/NN in/IN both/ABX hands/NNS ,/
 They/PPSS all/ABN surrounded/VBD him/PPO ,/pct the/AT family/NN circle/NN ,/pct Theresa/NP and/CC George/NP as/QL solemn/JJ as/CS if/CS they/PPSS were/BED watching/VBG the/AT cat/NN have/HV kittens/NNS ,/pct and/CC Cousin/NN Emma/NP running/VBG back/RB and/CC forth/RB with/IN a/AT kettle/NN of/IN hot/JJ water/NN which/WDT she/PPS poured/VBD steaming/VBG into/IN a/AT white/JJ enamelled/VBN pan/NN ./pct
 ``/pct Can/MD you/PPSS think/VB of/IN anything/PN to/TO do/DO ''/pct ?/pct ?/pct
 She/PPS kept/VBD repeating/VBG ./pct
-``/pct I/PPSS hate/VB to/TO call/VB the/AT doctor/NN but/CC if/CS this/DT keeps/VBZ up/RP I'll /None just/RB have/HV to/TO !/pct !/pct
+``/pct I/PPSS hate/VB to/TO call/VB the/AT doctor/NN but/CC if/CS this/DT keeps/VBZ up/RP I'll/PPSSMD just/RB have/HV to/TO !/pct !/pct
 Can/MD you/PPSS think/VB of/IN anything/PN to/TO do/DO ''/pct ?/pct ?/pct
 ``/pct You/PPSS might/MD treat/VB it/PPO like/CS the/AT hiccups/NNS ''/pct ,/pct said/VBD Papa/NP ./pct
 ``/pct Drop/VB a/AT cold/JJ key/NN down/IN his/PPg back/NN ''/pct ./pct
@@ -74,8 +74,8 @@ He/PPS was/BEDZ younger/JJR than/CS Theresa/NP :/pct she/PPS remembered/VBD look
 Now/RB ,/pct here/RB they/PPSS both/ABX were/BED ,/pct still/RB the/AT same/AP ,/pct George/NP full/JJ of/IN round-eyed/JJ woe/NN ,/pct and/CC Cousin/NN Emma/NP in/IN despair/NN ./pct
 Theresa/NP shifted/VBD to/IN a/AT new/JJ page/NN ./pct
 ``/pct Of/IN course/NN (/pct George's/NPg letter/NN continued/VBD )/pct ,/pct there/EX are/BER practical/JJ problems/NNS to/TO be/BE considered/VBN ./pct
-Cousin/NN Emma/NP is/BEZ alone/RB in/IN that/DT big/JJ old/JJ house/NN and/CC won't /None hear/VB to/IN parting/VBG from/IN it/PPO ./pct
-Robbie/NP and/CC Beryl/NP tried/VBD their/PPg best/JJT to/TO persuade/VB her/PPO to/TO come/VB and/CC stay/VB with/IN them/PPO ,/pct and/CC Anne/NP and/CC I/PPSS have/HV told/VBN her/PPO she's /None more/AP than/IN welcome/JJ here/RB ,/pct but/CC I/PPSS think/VB she/PPS feels/VBZ that/CS she/PPS might/MD be/BE an/AT imposition/NN ,/pct especially/RB as/QL long/JJ as/CS our/PPg Rosie/NP is/BEZ still/RB in/IN high/JJ school/NN ./pct
+Cousin/NN Emma/NP is/BEZ alone/RB in/IN that/DT big/JJ old/JJ house/NN and/CC won't/MD* hear/VB to/IN parting/VBG from/IN it/PPO ./pct
+Robbie/NP and/CC Beryl/NP tried/VBD their/PPg best/JJT to/TO persuade/VB her/PPO to/TO come/VB and/CC stay/VB with/IN them/PPO ,/pct and/CC Anne/NP and/CC I/PPSS have/HV told/VBN her/PPO she's/PPSBEZ more/AP than/IN welcome/JJ here/RB ,/pct but/CC I/PPSS think/VB she/PPS feels/VBZ that/CS she/PPS might/MD be/BE an/AT imposition/NN ,/pct especially/RB as/QL long/JJ as/CS our/PPg Rosie/NP is/BEZ still/RB in/IN high/JJ school/NN ./pct
 The/AT other/AP possibility/NN is/BEZ to/TO make/VB arrangements/NNS for/IN her/PPO to/TO let/VB out/RP one/CD or/CC two/CD of/IN the/AT rooms/NNS to/IN some/DTI teacher/NN of/IN good/JJ family/NN or/CC one/CD of/IN those/DTS solitary/JJ old/JJ ladies/NNS that/WPS Tuxapoka/NP is/BEZ populated/VBN with/IN --/pct Miss/NP Edna/NP Whittaker/NP ,/pct for/IN example/NN ./pct
 But/CC there/EX is/BEZ more/AP in/IN this/DT than/CS meets/VBZ the/AT eye/NN ./pct
 A/AT new/JJ bathroom/NN would/MD certainly/RB have/HV to/TO be/BE put/VBN in/RP ./pct
@@ -83,8 +83,8 @@ The/AT wallpaper/NN in/IN the/AT back/JJ bedroom/NN is/BEZ literally/RB crumblin
 ''/pct (/pct Theresa/NP skipped/VBD a/AT page/NN of/IN details/NNS about/IN the/AT house/NN ./pct
 )/pct ``/pct I/PPSS hope/VB if/CS you/PPSS have/HV any/DTI ideas/NNS along/IN these/DTS lines/NNS you/PPSS will/MD write/VB me/PPO about/IN them/PPO ./pct
 I/PPSS may/MD settle/VB on/IN some/DTI makeshift/JJ arrangements/NNS for/IN the/AT summer/NN and/CC wait/VB until/CS you/PPSS return/VB in/IN the/AT fall/NN so/CS we/PPSS can/MD work/VB out/RP together/RB the/AT best/JJT ./pct
-I/PPSS really/RB shouldn't /None have/HV smoked/VBN a/AT cigarette/NN so/QL early/RB in/IN the/AT day/NN ,/pct thought/VBD Theresa/NP ,/pct it/PPS always/RB makes/VBZ me/PPO sick/JJ ./pct
-I'll /None start/VB sneezing/VBG in/IN a/AT minute/NN ,/pct sitting/VBG on/IN these/DTS cold/JJ steps/NNS ./pct
+I/PPSS really/RB shouldn't/MD* have/HV smoked/VBN a/AT cigarette/NN so/QL early/RB in/IN the/AT day/NN ,/pct thought/VBD Theresa/NP ,/pct it/PPS always/RB makes/VBZ me/PPO sick/JJ ./pct
+I'll/PPSSMD start/VB sneezing/VBG in/IN a/AT minute/NN ,/pct sitting/VBG on/IN these/DTS cold/JJ steps/NNS ./pct
 She/PPS got/VBD up/RP ,/pct standing/VBG uncertainly/RB for/IN a/AT moment/NN ,/pct then/RB moving/VBG aside/RB to/TO let/VB go/VB past/IN her/PPO ,/pct talking/VBG ,/pct a/AT group/NN of/IN young/JJ men/NNS ./pct
 They/PPSS wore/VBD shoes/NNS with/IN pointed/VBN toes/NNS ,/pct odd/JJ to/IN American/JJ eyes/NNS ,/pct and/CC narrow/JJ trousers/NNS ,/pct and/CC their/PPg hair/NN looked/VBD unnaturally/RB black/JJ and/CC slick/JJ ./pct
 Yet/RB here/RB they/PPSS were/BED obviously/RB thought/VBN to/TO be/BE handsome/JJ ,/pct and/CC felt/VBD themselves/PPLS to/TO be/BE so/RB ./pct
@@ -100,11 +100,11 @@ There/RB she/PPS walked/VBD to/IN the/AT far/QL left/NR and/CC leaned/VBD on/IN 
 Was/BEDZ he/PPS ever/RB successful/JJ ,/pct Theresa/NP wondered/VBD ./pct
 The/AT lady/NN with/IN the/AT alligator/NN bag/NN registered/VBD interest/NN ,/pct doubt/NN ,/pct then/JJ indignation/NN ;/pct ;/pct
 at/IN last/RB ,/pct alarm/NN ./pct
-She/PPS cast/VBD about/RB as/CS though/CS looking/VBG for/IN a/AT policeman/NN :/pct this/DT really/RB shouldn't /None be/BE allowed/VBN !/pct !/pct
+She/PPS cast/VBD about/RB as/CS though/CS looking/VBG for/IN a/AT policeman/NN :/pct this/DT really/RB shouldn't/MD* be/BE allowed/VBN !/pct !/pct
 Finally/RB ,/pct she/PPS scurried/VBD away/RB up/IN the/AT steps/NNS ./pct
 Theresa/NP Stubblefield/NP ,/pct still/RB holding/VBG the/AT family/NN letters/NNS in/IN one/CD hand/NN ,/pct realized/VBD that/CS her/PPg whole/JJ trip/NN to/IN Europe/NP was/BEDZ viewed/VBN in/IN family/NN circles/NNS as/CS an/AT interlude/NN between/IN Cousin/NN Elec's/NPg death/NN and/CC ``/pct doing/VBG something/PN ''/pct about/IN Cousin/NN Emma/NP ./pct
 They/PPSS were/BED even/RB ,/pct Anne/NP and/CC George/NP ,/pct probably/RB thinking/VBG themselves/PPLS very/QL considerate/JJ in/IN not/NEG hinting/VBG that/CS she/PPS really/RB should/MD cut/VB out/RP ``/pct one/CD or/CC two/CD countries/NNS ''/pct and/CC come/VB home/NR in/IN August/NP to/TO get/VB Cousin/NN Emma's/NPg house/NN ready/JJ before/CS the/AT teachers/NNS came/VBD to/IN Tuxapoka/NP in/IN September/NP ./pct
-Of/IN course/NN ,/pct it/PPS wasn't /None Anne/NP and/CC George's/NPg fault/NN that/CS one/CD family/NN crisis/NN seemed/VBD to/TO follow/VB another/DT ,/pct and/CC weren't /None they/PPSS always/RB emphasizing/VBG that/CS they/PPSS really/RB didn't /None know/VB what/WDT they/PPSS would/MD do/DO without/IN Theresa/NP ?/pct ?/pct
+Of/IN course/NN ,/pct it/PPS wasn't/BEDZ* Anne/NP and/CC George's/NPg fault/NN that/CS one/CD family/NN crisis/NN seemed/VBD to/TO follow/VB another/DT ,/pct and/CC weren't/BED* they/PPSS always/RB emphasizing/VBG that/CS they/PPSS really/RB didn't/DOD* know/VB what/WDT they/PPSS would/MD do/DO without/IN Theresa/NP ?/pct ?/pct
 The/AT trouble/NN is/BEZ ,/pct Theresa/NP thought/VBD ,/pct that/CS while/CS everything/PN that/DT happens/VBZ there/EX is/BEZ supposed/VBN to/TO matter/VB supremely/RB ,/pct nothing/PN here/RB is/BEZ supposed/VBN even/RB to/TO exist/VB ./pct
 They/PPSS would/MD not/NEG care/VB if/CS all/ABN of/IN Europe/NP were/BED to/TO sink/VB into/IN the/AT ocean/NN tomorrow/NR ./pct
 It/PPS never/RB registered/VBD with/IN them/PPO that/CS I/PPSS had/HVD time/NN to/TO read/VB all/ABN of/IN Balzac/NP ,/pct Dickens/NP ,/pct and/CC Stendhal/NP while/CS Papa/NP was/BEDZ dying/VBG ,/pct not/NEG to/TO mention/VB everything/PN in/IN the/AT city/NN library/NN after/IN Mother's/NNg operation/NN ./pct

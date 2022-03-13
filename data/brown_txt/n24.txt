@@ -17,57 +17,57 @@ The/AT German/NP asked/VBD ./pct
 He/PPS was/BEDZ a/AT huge/JJ young/JJ man/NN of/IN twenty-four/CD ,/pct clothed/VBN in/IN muscle/NN ,/pct immensely/QL strong/JJ ,/pct with/IN a/AT habitual/JJ gentleness/NN and/CC diffidence/NN of/IN manner/NN that/WPS was/BEDZ submerged/VBN under/IN his/PPg present/JJ agitation/NN ./pct
 He/PPS stared/VBD stonily/RB at/IN the/AT floor/NN ./pct
 ``/pct I/PPSS was/BEDZ down/IN to/IN 275/CD ./pct
-I've /None been/BEN that/DT far/RB half/ABN a/AT dozen/NN times/NNS ./pct
-I/PPSS don't /None get/VB it/PPO why/WRB this/DT time/NN I/PPSS should/MD pull/VB such/ABL a/AT stupid/JJ trick/NN ''/pct ./pct
+I've/PPSSHV been/BEN that/DT far/RB half/ABN a/AT dozen/NN times/NNS ./pct
+I/PPSS don't/DO* get/VB it/PPO why/WRB this/DT time/NN I/PPSS should/MD pull/VB such/ABL a/AT stupid/JJ trick/NN ''/pct ./pct
 ``/pct Well/UH ,/pct I/PPSS get/VB it/PPO ''/pct ,/pct Artie/NP said/VBD ,/pct still/RB on/IN the/AT ladder/NN ./pct
 ``/pct You/PPSS are/BER a/AT big/JJ muscle-bound/JJ ape/NN and/CC you/PPSS got/VBD this/DT idea/NN about/IN setting/VBG a/AT record/NN ./pct
 And/CC you/PPSS also/RB got/VBD this/DT little/AP spark/NN in/IN your/PPg bird-brain/NN that/WPS tells/VBZ you/PPO to/TO turn/VB around/RB before/CS you/PPSS drown/VB yourself/PPL ./pct
 So/CS you/PPSS turn/VB around/RB ''/pct ./pct
-``/pct No/RB ,/pct it/PPS wasn't /None that/DT ''/pct ,/pct Rob/NP said/VBD ./pct
+``/pct No/RB ,/pct it/PPS wasn't/BEDZ* that/DT ''/pct ,/pct Rob/NP said/VBD ./pct
 A/AT note/NN of/IN awe/NN came/VBD into/IN his/PPg voice/NN ./pct
 ``/pct When/WRB I/PPSS came/VBD up/RP ,/pct damnit/UH ,/pct I/PPSS thought/VBD I/PPSS was/BEDZ going/VBG down/RP ./pct
 I/PPSS came/VBD up/RP maybe/RB fifty/CD feet/NNS before/CS I/PPSS knew/VBD what/WDT was/BEDZ happening/VBG ''/pct ./pct
 ``/pct Pressure-happy/JJ ''/pct ,/pct Artie/NP said/VBD ,/pct and/CC climbed/VBD in/RP ./pct
-``/pct That's /None right/JJ ''/pct ,/pct Robinson/NP said/VBD ./pct
+``/pct That's/DTBEZ right/JJ ''/pct ,/pct Robinson/NP said/VBD ./pct
 ``/pct I/PPSS was/BEDZ expecting/VBG it/PPO ,/pct sure/RB ./pct
-But/CC when/WRB it/PPS happens/VBZ to/IN you/PPO like/IN that/DT ,/pct I/PPSS tell/VB you/PPO ,/pct and/CC you're /None a/AT hundred/CD feet/NNS from/IN where/WRB you/PPSS thought/VBD you/PPSS were/BED --/pct well/UH ,/pct it/PPS makes/VBZ you/PPO think/VB ./pct
-You/PPSS don't /None head/VB back/RB down/RP again/RB ./pct
+But/CC when/WRB it/PPS happens/VBZ to/IN you/PPO like/IN that/DT ,/pct I/PPSS tell/VB you/PPO ,/pct and/CC you're/PPSSBER a/AT hundred/CD feet/NNS from/IN where/WRB you/PPSS thought/VBD you/PPSS were/BED --/pct well/UH ,/pct it/PPS makes/VBZ you/PPO think/VB ./pct
+You/PPSS don't/DO* head/VB back/RB down/RP again/RB ./pct
 Not/NEG me/PPO ,/pct anyway/RB ./pct
 Not/NEG right/QL away/RB ''/pct ./pct
 He/PPS had/HVD his/PPg voice/NN under/IN control/NN again/RB :/pct no/AT one/PN became/VBD aware/JJ that/CS he/PPS was/BEDZ terrified/VBN by/IN what/WDT had/HVD just/RB happened/VBN to/IN him/PPO ./pct
 Waddell/NP ,/pct the/AT newspaperman/NN ,/pct was/BEDZ a/AT fellow/NN in/IN his/PPg middle/JJ forties/NNS ,/pct with/IN a/AT graying/VBG crewcut/NN ,/pct heavy-framed/JJ glasses/NNS ,/pct and/CC a/AT large/JJ jaw/NN padded/VBN with/IN fat/NN ./pct
 Now/RB he/PPS was/BEDZ going/VBG to/TO show/VB how/WRB much/AP he/PPS knew/VBD ./pct
-``/pct Our/PPg boy/NN didn't /None chicken/VB out/RP ,/pct no/RB sir/NN ./pct
+``/pct Our/PPg boy/NN didn't/DOD* chicken/VB out/RP ,/pct no/RB sir/NN ./pct
 He/PPS ran/VBD into/IN the/AT rapture/NN of/IN the/AT depths/NNS ./pct
 Nitrogen/NN narcosis/NN ./pct
 It/PPS makes/VBZ the/AT diver/NN feel/VB drunk/JJ ''/pct ./pct
-``/pct Well/UH ,/pct that's /None the/AT only/AP way/NN to/TO be/BE ''/pct ,/pct Mrs./NP Forsythe/NP said/VBD ,/pct and/CC gave/VBD her/PPg brassy/JJ laugh/NN ./pct
-``/pct Maybe/RB not/NEG ,/pct if/CS you're /None 200/CD feet/NNS under/IN water/NN ''/pct ,/pct Artie/NP said/VBD ./pct
+``/pct Well/UH ,/pct that's/DTBEZ the/AT only/AP way/NN to/TO be/BE ''/pct ,/pct Mrs./NP Forsythe/NP said/VBD ,/pct and/CC gave/VBD her/PPg brassy/JJ laugh/NN ./pct
+``/pct Maybe/RB not/NEG ,/pct if/CS you're/PPSSBER 200/CD feet/NNS under/IN water/NN ''/pct ,/pct Artie/NP said/VBD ./pct
 ``/pct Anyway/RB ''/pct ,/pct Waddell/NP went/VBD on/RP ./pct
-``/pct It's /None nothing/PN to/TO fool/VB with/IN ./pct
+``/pct It's/PPSBEZ nothing/PN to/TO fool/VB with/IN ./pct
 It/PPS can/MD kill/VB you/PPO ./pct
-Personally/RB ,/pct I/PPSS don't /None blame/VB him/PPO for/IN giving/VBG up/RP the/AT dive/NN ,/pct much/RB as/CS I/PPSS regret/VB losing/VBG the/AT story/NN ''/pct ./pct
-``/pct Nobody's /None giving/VBG anything/PN up/RP ''/pct ,/pct Robinson/NP said/VBD ./pct
+Personally/RB ,/pct I/PPSS don't/DO* blame/VB him/PPO for/IN giving/VBG up/RP the/AT dive/NN ,/pct much/RB as/CS I/PPSS regret/VB losing/VBG the/AT story/NN ''/pct ./pct
+``/pct Nobody's/PNBEZ giving/VBG anything/PN up/RP ''/pct ,/pct Robinson/NP said/VBD ./pct
 He/PPS stood/VBD there/RB ,/pct towering/VBG over/IN them/PPO all/ABN :/pct gentle/JJ ,/pct mighty/JJ ,/pct determined/VBN ,/pct the/AT moving/VBG force/NN in/IN the/AT group/NN ;/pct ;/pct
 and/CC yet/RB like/CS a/AT child/NN among/IN adults/NNS ./pct
 ``/pct You/PPSS think/VB I/PPSS got/VBD you/PPO and/CC Artie/NP and/CC Herr/NP Schaffner/NP all/ABN the/AT way/NN out/RP here/RB just/RB for/IN the/AT boat/NN ride/NN ?/pct ?/pct
-I'm /None going/VBG down/RP again/RB ''/pct ./pct
-``/pct That's /None my/PPg boy/NN ''/pct !/pct !/pct
+I'm/PPSSBEM going/VBG down/RP again/RB ''/pct ./pct
+``/pct That's/DTBEZ my/PPg boy/NN ''/pct !/pct !/pct
 Mr./NP Forsythe/NP exclaimed/VBD ./pct
-``/pct Rob's /None not/NEG going/VBG to/TO give/VB up/RP as/QL easy/RB as/CS all/ABN that/DT ''/pct ./pct
+``/pct Rob's/NPBEZ not/NEG going/VBG to/TO give/VB up/RP as/QL easy/RB as/CS all/ABN that/DT ''/pct ./pct
 He/PPS was/BEDZ a/AT florid/JJ ,/pct puffy/JJ man/NN in/IN his/PPg early/JJ sixties/NNS ,/pct very/QL natty/JJ in/IN his/PPg yachting/VBG cap/NN ,/pct striped/VBN jacket/NN and/CC white/JJ flannels/NNS ./pct
 He/PPS went/VBD to/IN Key/NN West/JJ every/AT fall/NN and/CC winter/NN and/CC was/BEDZ the/AT only/AP man/NN in/IN town/NN who/WPS did/DOD not/NEG know/VB that/CS his/PPg title/NN of/IN ``/pct Commodore/NN ''/pct was/BEDZ never/RB used/VBN without/IN irony/NN ./pct
 Old/JJ Commodore/NN Forsythe/NP ,/pct who/WPS had/HVD once/RB lost/VBN a/AT fifty-dollar/JJ bet/NN on/IN whether/CS he/PPS could/MD get/VB both/ABX motors/NNS started/VBN and/CC turn/VB on/RP the/AT running/VBG lights/NNS without/IN accidentally/RB turning/VBG on/RP something/PN else/RB first/RB ./pct
 Now/RB it/PPS did/DOD not/NEG occur/VB to/IN him/PPO even/RB to/TO wonder/VB whether/CS it/PPS was/BEDZ wise/JJ for/IN Robinson/NP to/TO dive/VB again/RB :/pct Rob/NP was/BEDZ his/PPg boy/NN ,/pct the/AT kid/NN he/PPS had/HVD rescued/VBN from/IN the/AT streets/NNS ,/pct the/AT object/NN of/IN his/PPg pride/NN ./pct
-``/pct Why/WRB ''/pct ,/pct he/PPS went/VBD on/RP ,/pct ``/pct when/WRB Rob/NP asked/VBD me/PPO if/CS he/PPS could/MD make/VB his/PPg dive/NN on/IN this/DT trip/NN ,/pct I/PPSS didn't /None think/VB twice/RB about/IN it/PPO ./pct
-I've /None helped/VBN him/PPO along/RB ever/RB since/CS he/PPS was/BEDZ a/AT youngster/NN hanging/VBG around/IN his/PPg brother's/NNg tackle/NN shop/NN ./pct
+``/pct Why/WRB ''/pct ,/pct he/PPS went/VBD on/RP ,/pct ``/pct when/WRB Rob/NP asked/VBD me/PPO if/CS he/PPS could/MD make/VB his/PPg dive/NN on/IN this/DT trip/NN ,/pct I/PPSS didn't/DOD* think/VB twice/RB about/IN it/PPO ./pct
+I've/PPSSHV helped/VBN him/PPO along/RB ever/RB since/CS he/PPS was/BEDZ a/AT youngster/NN hanging/VBG around/IN his/PPg brother's/NNg tackle/NN shop/NN ./pct
 Hell/UH ,/pct I/PPSS gave/VBD him/PPO the/AT first/OD decent/JJ job/NN he/PPS ever/RB had/HVD ,/pct six/CD ,/pct seven/CD --/pct how/WRB many/AP years/NNS ago/RB was/BEDZ it/PPS ,/pct Rob/NP ''/pct ?/pct ?/pct
 ``/pct Seven/CD years/NNS ago/RB ,/pct Commodore/NN ''/pct ,/pct Rob/NP said/VBD impassively/RB ./pct
 He/PPS was/BEDZ thinking/VBG ,/pct big/JJ deal/NN :/pct skipper/NN on/IN his/PPg drunken/JJ fishing/VBG parties/NNS for/IN seven/CD years/NNS and/CC no/RB better/RBR off/RP than/CS when/WRB I/PPSS started/VBD ./pct
 ``/pct Excuse/VB me/PPO ''/pct ,/pct he/PPS said/VBD abruptly/RB ./pct
 He/PPS went/VBD down/IN the/AT steps/NNS to/IN the/AT galley/NN and/CC sleeping/VBG quarters/NNS ;/pct ;/pct
 went/VBD into/IN the/AT forward/JJ stateroom/NN and/CC locked/VBD the/AT door/NN behind/IN him/PPO ./pct
-``/pct When/WRB you/PPSS gotta /None go/VB ,/pct you/PPSS gotta /None go/VB ''/pct ,/pct Mrs./NP Forsythe/NP said/VBD ./pct
+``/pct When/WRB you/PPSS gotta/VBNTO go/VB ,/pct you/PPSS gotta/VBNTO go/VB ''/pct ,/pct Mrs./NP Forsythe/NP said/VBD ./pct
 Waddell/NP muttered/VBD something/PN about/IN taking/VBG a/AT look/NN around/RB and/CC climbed/VBD up/RP to/IN the/AT flying/VBG bridge/NN ./pct
 He/PPS was/BEDZ disturbed/VBN by/IN what/WDT had/HVD happened/VBN on/IN the/AT dive/NN and/CC by/IN what/WDT he/PPS remembered/VBD of/IN a/AT conversation/NN he/PPS had/HVD had/HVN the/AT night/NN before/RB with/IN the/AT German/NP ,/pct who/WPS had/HVD come/VBN out/IN of/IN the/AT head/NN while/CS he/PPS was/BEDZ fixing/VBG himself/PPL a/AT drink/NN in/IN the/AT galley/NN ./pct
 ``/pct Hi/UH there/RB ,/pct Schaffner/NP ''/pct ,/pct he/PPS had/HVD said/VBN ./pct
@@ -77,11 +77,11 @@ He/PPS was/BEDZ disturbed/VBN by/IN what/WDT had/HVD happened/VBN on/IN the/AT d
 Waddell/NP had/HVD looked/VBN the/AT man/NN over/RP ,/pct trying/VBG to/TO size/VB him/PPO up/RP ./pct
 He/PPS was/BEDZ in/IN his/PPg early/JJ forties/NNS ,/pct rather/QL short/JJ and/CC very/QL compactly/RB built/VBN ,/pct and/CC with/IN a/AT manner/NN that/WPS was/BEDZ reserved/VBN and/CC stiff/JJ despite/IN his/PPg efforts/NNS to/TO adapt/VB himself/PPL to/IN American/JJ ways/NNS ./pct
 His/PPg open/JJ face/NN seemed/VBD to/TO promise/VB a/AT sort/NN of/IN innocence/NN ,/pct until/CS one/PN looked/VBD into/IN his/PPg eyes/NNS ,/pct which/WDT had/HVD no/AT warmth/NN in/IN them/PPO but/CC only/RB alert/JJ intelligence/NN ./pct
-Waddell/NP had/HVD heard/VBN that/CS he/PPS had/HVD been/BEN a/AT commando/NN in/IN Rommel's/NPg Afrika/NP Corps/NN ,/pct and/CC he/PPS said/VBD to/IN himself/PPL :/pct I'd /None hate/VB to/TO run/VB into/IN him/PPO in/IN the/AT desert/NN on/IN a/AT dark/JJ night/NN ./pct
+Waddell/NP had/HVD heard/VBN that/CS he/PPS had/HVD been/BEN a/AT commando/NN in/IN Rommel's/NPg Afrika/NP Corps/NN ,/pct and/CC he/PPS said/VBD to/IN himself/PPL :/pct I'd/PPSSMD hate/VB to/TO run/VB into/IN him/PPO in/IN the/AT desert/NN on/IN a/AT dark/JJ night/NN ./pct
 Aloud/RB he/PPS had/HVD said/VBN ,/pct making/VBG conversation/NN :/pct
-``/pct Rob/NP tells/VBZ me/PPO he's /None using/VBG your/PPg Atlantis/NP equipment/NN on/IN the/AT dive/NN ''/pct ./pct
+``/pct Rob/NP tells/VBZ me/PPO he's/PPSBEZ using/VBG your/PPg Atlantis/NP equipment/NN on/IN the/AT dive/NN ''/pct ./pct
 ``/pct Yes/RB ''/pct ,/pct Herr/NP Schaffner/NP had/HVD said/VBN ./pct
-``/pct He's /None one/CD hell/NN of/IN a/AT decent/JJ boy/NN ./pct
+``/pct He's/PPSBEZ one/CD hell/NN of/IN a/AT decent/JJ boy/NN ./pct
 I/PPSS like/VB that/DT kid/NN ''/pct ./pct
 ``/pct I/PPSS agree/VB ,/pct yes/RB ''/pct ./pct
 ``/pct And/CC if/CS the/AT dive/NN goes/VBZ OK/RB he/PPS has/HVZ the/AT exclusive/JJ import/NN rights/NNS to/IN your/PPg line/NN for/IN this/DT country/NN ,/pct is/BEZ that/DT right/JJ ''/pct ?/pct ?/pct
@@ -89,8 +89,8 @@ I/PPSS like/VB that/DT kid/NN ''/pct ./pct
 Waddell/NP turned/VBD to/TO face/VB him/PPO ./pct
 ``/pct No/RB ''/pct ?/pct ?/pct
 He/PPS asked/VBD ./pct
-``/pct But/CC that's /None what/WDT he/PPS told/VBD me/PPO ./pct
-Why/WRB ,/pct that's /None his/PPg main/JJS reason/NN for/IN making/VBG the/AT dive/NN ''/pct ./pct
+``/pct But/CC that's/DTBEZ what/WDT he/PPS told/VBD me/PPO ./pct
+Why/WRB ,/pct that's/DTBEZ his/PPg main/JJS reason/NN for/IN making/VBG the/AT dive/NN ''/pct ./pct
 Shaffner/NP looked/VBD at/IN him/PPO ,/pct altogether/RB without/IN guile/NN ,/pct and/CC shrugged/VBD his/PPg shoulders/NNS ,/pct making/VBG a/AT little/JJ spreading/VBG gesture/NN with/IN his/PPg two/CD hands/NNS ./pct
 ``/pct What/WDT do/DO you/PPSS mean/VB ''/pct ?/pct ?/pct
 Waddell/NP asked/VBD ,/pct frowning/VBG ./pct
@@ -121,7 +121,7 @@ Waddell/NP asked/VBD ./pct
 Mr./NP Roy/NP is/BEZ determined/VBN to/TO make/VB this/DT dive/NN ./pct
 Whatever/WDT you/PPSS tell/VB him/PPO he/PPS will/MD dive/VB ./pct
 I/PPSS know/VB this/DT from/IN my/PPg talks/NNS with/IN him/PPO ''/pct ./pct
-``/pct Well/UH ,/pct let's /None let/VB him/PPO make/VB up/RP his/PPg own/JJ mind/NN ,/pct OK/RB ''/pct ?/pct ?/pct
+``/pct Well/UH ,/pct let's/VBPPO let/VB him/PPO make/VB up/RP his/PPg own/JJ mind/NN ,/pct OK/RB ''/pct ?/pct ?/pct
 Waddell/NP said/VBD ./pct
 ``/pct On/IN the/AT basis/NN of/IN the/AT facts/NNS ''/pct ./pct
 ``/pct You/PPSS will/MD make/VB him/PPO unhappy/JJ and/CC anxious/JJ ''/pct ,/pct the/AT German/NP said/VBD ./pct
@@ -139,12 +139,12 @@ But/CC there/EX is/BEZ no/AT use/NN causing/VBG him/PPO to/TO worry/VB at/IN thi
 The/AT German's/NPg words/NNS worked/VBD on/IN the/AT newspaperman/NN like/CS a/AT reprieve/NN from/IN an/AT odious/JJ duty/NN ./pct
 He/PPS took/VBD a/AT big/JJ swig/NN of/IN his/PPg drink/NN ./pct
 It/PPS would/MD be/BE a/AT colossal/JJ shame/NN to/TO throw/VB away/RB a/AT story/NN like/CS this/DT ./pct
-``/pct I/PPSS think/VB maybe/RB you're /None right/JJ ,/pct Schaffner/NP ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct I/PPSS think/VB maybe/RB you're/PPSSBER right/JJ ,/pct Schaffner/NP ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct He/PPS has/HVZ the/AT distributorship/NN for/IN Florida/NP ,/pct you/PPSS say/VB ''/pct ?/pct ?/pct
 ``/pct Yes/RB ''/pct ,/pct the/AT German/NP said/VBD ./pct
 ``/pct At/IN least/AP for/IN South/JJ Florida/NP ''/pct ./pct
-``/pct By/IN God/NP ''/pct ,/pct Waddell/NP said/VBD ,/pct ``/pct we/PPSS don't /None want/VB to/TO upset/VB the/AT boy/NN at/IN this/DT time/NN of/IN all/ABN times/NNS ./pct
-I/PPSS guess/VB you're /None right/JJ ''/pct ./pct
+``/pct By/IN God/NP ''/pct ,/pct Waddell/NP said/VBD ,/pct ``/pct we/PPSS don't/DO* want/VB to/TO upset/VB the/AT boy/NN at/IN this/DT time/NN of/IN all/ABN times/NNS ./pct
+I/PPSS guess/VB you're/PPSSBER right/JJ ''/pct ./pct
 He/PPS sloshed/VBD his/PPg drink/NN around/RB and/CC drained/VBD it/PPO in/IN a/AT few/AP large/JJ gulps/NNS ./pct
 The/AT story/NN was/BEDZ shaping/VBG up/RP nicely/RB in/IN his/PPg mind/NN :/pct the/AT young/JJ pioneer/NN ,/pct as/CS of/IN old/JJ ,/pct altruistically/RB braving/VBG the/AT unknown/JJ ;/pct ;/pct
 the/AT rewards/NNS prompt/JJ and/CC juicy/JJ in/IN modern/JJ big-business/NN America/NP ./pct
@@ -169,11 +169,11 @@ He/PPS crossed/VBD himself/PPL again/RB and/CC rose/VBD ./pct
 He/PPS felt/VBD a/AT good/JJ deal/NN less/QL shaky/JJ ./pct
 As/CS he/PPS reached/VBD for/IN the/AT door/NN there/EX was/BEDZ a/AT knock/NN on/IN it/PPO and/CC when/WRB he/PPS opened/VBD he/PPS found/VBD Artie/NP ,/pct who/WPS came/VBD in/RP and/CC sat/VBD down/RP on/IN a/AT bunk/NN ./pct
 Artie/NP had/HVD picked/VBN up/RP a/AT snorkle/NN and/CC was/BEDZ twirling/VBG it/PPO on/IN his/PPg forefinger/NN ./pct
-He/PPS waited/VBD awhile/RB before/CS he/PPS said/VBD ,/pct ``/pct Roy/NP ,/pct you/PPSS know/VB your/PPg decompression/NN table/NN ,/pct don't /None you/PPO ''/pct ?/pct ?/pct
+He/PPS waited/VBD awhile/RB before/CS he/PPS said/VBD ,/pct ``/pct Roy/NP ,/pct you/PPSS know/VB your/PPg decompression/NN table/NN ,/pct don't/DO* you/PPO ''/pct ?/pct ?/pct
 ``/pct You/PPSS know/VB I/PPSS know/VB it/PPO ''/pct ,/pct Robinson/NP answered/VBD warily/RB ./pct
 ``/pct You/PPSS came/VBD straight/RB up/RP from/IN 275/CD without/IN a/AT stop/NN ''/pct ,/pct Artie/NP said/VBD ./pct
 ``/pct Well/UH ,/pct I/PPSS was/BEDZ a/AT little/AP bit/NN confused/VBN ./pct
-Anyway/RB ,/pct I/PPSS wasn't /None down/RP long/JJ enough/QLP to/TO matter/VB ./pct
-You/PPSS don't /None see/VB me/PPO stretched/VBN out/RP on/IN the/AT deck/NN ,/pct do/DO you/PPO ''/pct ?/pct ?/pct
+Anyway/RB ,/pct I/PPSS wasn't/BEDZ* down/RP long/JJ enough/QLP to/TO matter/VB ./pct
+You/PPSS don't/DO* see/VB me/PPO stretched/VBN out/RP on/IN the/AT deck/NN ,/pct do/DO you/PPO ''/pct ?/pct ?/pct
 ``/pct You/PPSS know/VB what/WDT they/PPSS say/VB about/IN two/CD deep/JJ dives/NNS in/IN one/CD day/NN ''/pct ,/pct Artie/NP went/VBD on/RP ,/pct still/RB twirling/VBG the/AT snorkle/NN and/CC studying/VBG it/PPO intently/RB ./pct
-``/pct I/PPSS don't /None think/VB you/PPSS should/MD go/VB down/RP again/RB ''/pct ./pct
+``/pct I/PPSS don't/DO* think/VB you/PPSS should/MD go/VB down/RP again/RB ''/pct ./pct

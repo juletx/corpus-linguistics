@@ -26,8 +26,8 @@ The/AT eyeteeth/NNS (/pct third/OD from/IN the/AT middle/NN on/IN top/NN ,/pct c
 Second/OD teeth/NNS that/WPS have/HV come/VBN in/RP before/CS the/AT first/OD ones/NNS have/HV fallen/VBN out/RP ,/pct making/VBG a/AT double/JJ row/NN ./pct
 Contrary/JJ to/IN the/AT thinking/NN of/IN 30/CD to/IN 40/CD years/NNS ago/RB ,/pct when/WRB all/ABN malocclusion/NN was/BEDZ blamed/VBN on/IN some/DTI unfortunate/JJ habit/NN ,/pct recent/JJ studies/NNS show/VB that/CS most/AP tooth/NN irregularity/NN has/HVZ at/IN least/AP its/PPg beginning/NN in/IN hereditary/JJ predisposition/NN ./pct
 However/RB ,/pct this/DT does/DOZ not/NEG mean/VB that/CS a/AT child's/NNg teeth/NNS or/CC jaws/NNS must/MD necessarily/RB resemble/VB those/DTS of/IN someone/PN in/IN his/PPg family/NN ./pct
-Tooth/NN deformity/NN may/MD be/BE the/AT result/NN of/IN excessive/JJ thumb-/NN or/CC finger-sucking/NN ,/pct tongue-thrusting/NN ,/pct or/CC lip-sucking/NN --/pct but/CC it's /None important/JJ to/TO remember/VB that/CS there's /None a/AT difference/NN between/IN normal/JJ and/CC excessive/JJ sucking/VBG habits/NNS ./pct
-It's /None perfectly/QL normal/JJ for/IN babies/NNS to/TO suck/VB their/PPg thumbs/NNS ,/pct and/CC no/AT mother/NN need/MD worry/VB if/CS a/AT child/NN continues/VBZ this/DT habit/NN until/CS he/PPS is/BEZ two/CD or/CC three/CD years/NNS old/JJ ./pct
+Tooth/NN deformity/NN may/MD be/BE the/AT result/NN of/IN excessive/JJ thumb-/NN or/CC finger-sucking/NN ,/pct tongue-thrusting/NN ,/pct or/CC lip-sucking/NN --/pct but/CC it's/PPSBEZ important/JJ to/TO remember/VB that/CS there's/EXBEZ a/AT difference/NN between/IN normal/JJ and/CC excessive/JJ sucking/VBG habits/NNS ./pct
+It's/PPSBEZ perfectly/QL normal/JJ for/IN babies/NNS to/TO suck/VB their/PPg thumbs/NNS ,/pct and/CC no/AT mother/NN need/MD worry/VB if/CS a/AT child/NN continues/VBZ this/DT habit/NN until/CS he/PPS is/BEZ two/CD or/CC three/CD years/NNS old/JJ ./pct
 Occasional/JJ sucking/VBG up/IN to/IN the/AT fifth/OD year/NN may/MD not/NEG affect/VB a/AT youngster's/NNg teeth/NNS ;/pct ;/pct
 but/CC after/IN that/DT ,/pct if/CS thumb-sucking/NN pressure/NN is/BEZ frequent/JJ ,/pct it/PPS will/MD have/HV an/AT effect/NN ./pct
 Malocclusion/NN can/MD also/RB result/VB if/CS baby/NN teeth/NNS are/BER lost/VBN too/QL soon/RB or/CC retained/VBN too/QL long/RB ./pct
@@ -109,7 +109,7 @@ Plastics/NNS are/BER easier/JJR to/TO handle/VB than/CS the/AT vulcanized/VBN ru
 Plaster/NN of/IN Paris/NP ,/pct once/RB utilized/VBN in/IN making/VBG impressions/NNS of/IN teeth/NNS ,/pct has/HVZ been/BEN replaced/VBN by/IN alginates/NNS (/pct gelatin-like/JJ material/NN )/pct that/WPS work/VB quickly/RB and/CC accurately/RB and/CC with/IN least/AP discomfort/NN to/IN a/AT child/NN ./pct
 Prevention/NN is/BEZ best/JJT
 as/CS a/AT rule/NN ,/pct the/AT earlier/JJR general/JJ dental/JJ treatment/NN is/BEZ started/VBN ,/pct the/AT less/QL expensive/JJ and/CC more/QL satisfactory/JJ it/PPS is/BEZ likely/JJ to/TO be/BE ./pct
-``/pct After/CS your/PPg child's/NNg baby/NN teeth/NNS are/BER all/ABN in/RP --/pct usually/RB at/IN the/AT age/NN of/IN two/CD and/CC one/CD half/ABN to/IN three/CD --/pct it's /None time/NN for/IN that/DT first/OD dental/JJ appointment/NN ''/pct ,/pct Dr./NN Brodie/NP advises/VBZ ./pct
+``/pct After/CS your/PPg child's/NNg baby/NN teeth/NNS are/BER all/ABN in/RP --/pct usually/RB at/IN the/AT age/NN of/IN two/CD and/CC one/CD half/ABN to/IN three/CD --/pct it's/PPSBEZ time/NN for/IN that/DT first/OD dental/JJ appointment/NN ''/pct ,/pct Dr./NN Brodie/NP advises/VBZ ./pct
 ``/pct Then/RB see/VB that/CS your/PPg youngster/NN has/HVZ a/AT routine/JJ checkup/NN once/RB a/AT year/NN ''/pct ./pct
 To/TO help/VB prevent/VB orthodontic/JJ problems/NNS from/IN arising/VBG ,/pct your/PPg dentist/NN can/MD do/DO these/DTS things/NNS :/pct
 He/PPS can/MD correct/VB decay/NN ,/pct thus/RB preventing/VBG early/JJ loss/NN of/IN teeth/NNS ./pct

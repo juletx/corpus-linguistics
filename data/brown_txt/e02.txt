@@ -1,4 +1,4 @@
-The/AT most/QL beautiful/JJ bed/NN of/IN pansies/NNS I've /None seen/VBN was/BEDZ in/IN a/AT South/JJ Dakota/NP yard/NN on/IN a/AT sizzling/VBG day/NN ./pct
+The/AT most/QL beautiful/JJ bed/NN of/IN pansies/NNS I've/PPSSHV seen/VBN was/BEDZ in/IN a/AT South/JJ Dakota/NP yard/NN on/IN a/AT sizzling/VBG day/NN ./pct
 Pansies/NNS are/BER supposed/VBN to/TO like/VB it/PPO cool/JJ ,/pct but/CC those/DTS great/JJ velvety/JJ flowers/NNS were/BED healthy/JJ and/CC perky/JJ in/IN the/AT glaring/VBG sun/NN ./pct
 I/PPSS sought/VBD out/RP the/AT gardener/NN and/CC asked/VBD him/PPO what/WDT he/PPS did/DOD to/TO produce/VB such/JJ beauties/NNS in/IN that/DT weather/NN ./pct
 He/PPS seemed/VBD puzzled/VBN by/IN my/PPg question/NN ./pct
@@ -11,16 +11,16 @@ Their/PPg seeds/NNS produce/VB vigorous/JJ blooming/VBG plants/NNS half/ABN agai
 I/PPSS asked/VBD him/PPO if/CS he/PPS took/VBD seeds/NNS from/IN his/PPg own/JJ plants/NNS ./pct
 Occasionally/RB ,/pct when/WRB he/PPS had/HVD an/AT unusual/JJ flower/NN that/WPO he/PPS wanted/VBD more/AP of/IN he/PPS did/DOD ;/pct ;/pct
 but/CC pansy/NN seeds/NNS ,/pct he/PPS told/VBD me/PPO ,/pct soon/RB ``/pct run/VB down/RP ''/pct ./pct
-It's /None best/JJT to/TO buy/VB them/PPO fresh/JJ from/IN a/AT dealer/NN who/WPS is/BEZ working/VBG to/TO improve/VB them/PPO ./pct
+It's/PPSBEZ best/JJT to/TO buy/VB them/PPO fresh/JJ from/IN a/AT dealer/NN who/WPS is/BEZ working/VBG to/TO improve/VB them/PPO ./pct
 His/PPg soil/NN was/BEDZ ``/pct nothing/PN special/JJ ''/pct ,/pct just/RB prairie/NN land/NN ,/pct but/CC he/PPS had/HVD harrowed/VBN in/IN compost/NN until/CS it/PPS was/BEDZ loose/JJ ,/pct spongy/JJ and/CC brown-black/JJ ./pct
 I/PPSS fingered/VBD it/PPO and/CC had/HVD the/AT feeling/NN of/IN adequacy/NN that/WPS comes/VBZ with/IN the/AT right/JJ texture/NN ,/pct tilth/NN and/CC body/NN ./pct
-It/PPS isn't /None easy/JJ to/TO describe/VB it/PPO ,/pct but/CC every/AT gardener/NN knows/VBZ it/PPO when/WRB his/PPg fingers/NNS touch/VB such/JJ soil/NN ./pct
+It/PPS isn't/BEZ* easy/JJ to/TO describe/VB it/PPO ,/pct but/CC every/AT gardener/NN knows/VBZ it/PPO when/WRB his/PPg fingers/NNS touch/VB such/JJ soil/NN ./pct
 Nothing/PN is/BEZ easier/JJR to/TO grow/VB from/IN seed/NN than/CS pansies/NNS ./pct
 They/PPSS germinate/VB quickly/RB ,/pct the/AT tiny/JJ plants/NNS appearing/VBG in/IN a/AT week/NN ,/pct and/CC grow/VB along/RB lustily/RB ./pct
-It/PPS doesn't /None really/RB matter/VB which/WDT month/NN of/IN the/AT year/NN you/PPSS sow/VB them/PPO ,/pct but/CC they/PPSS germinate/VB best/RBT when/WRB they/PPSS have/HV a/AT wide/JJ variation/NN of/IN temperature/NN ,/pct very/QL warm/JJ followed/VBD by/IN cool/JJ in/IN the/AT same/AP 24/CD hours/NNS ./pct
+It/PPS doesn't/DOZ* really/RB matter/VB which/WDT month/NN of/IN the/AT year/NN you/PPSS sow/VB them/PPO ,/pct but/CC they/PPSS germinate/VB best/RBT when/WRB they/PPSS have/HV a/AT wide/JJ variation/NN of/IN temperature/NN ,/pct very/QL warm/JJ followed/VBD by/IN cool/JJ in/IN the/AT same/AP 24/CD hours/NNS ./pct
 I/PPSS like/VB to/TO make/VB a/AT seedbed/NN right/QL in/IN the/AT open/JJ ,/pct though/CS many/AP people/NNS start/VB them/PPO successfully/RB in/IN cold/JJ frames/NNS ./pct
-Pansies/NNS don't /None have/HV to/TO be/BE coddled/VBN ;/pct ;/pct
-they'd /None rather/RB have/HV things/NNS rugged/JJ ,/pct with/IN only/RB moderate/JJ protection/NN on/IN the/AT coldest/JJT days/NNS ./pct
+Pansies/NNS don't/DO* have/HV to/TO be/BE coddled/VBN ;/pct ;/pct
+they'd/PPSSMD rather/RB have/HV things/NNS rugged/JJ ,/pct with/IN only/RB moderate/JJ protection/NN on/IN the/AT coldest/JJT days/NNS ./pct
 If/CS you/PPSS do/DO use/VB a/AT cold/JJ frame/NN be/BE sure/JJ that/CS its/PPg ventilation/NN is/BEZ adequate/JJ ./pct
 For/IN my/PPg seedbed/NN I/PPSS use/VB good/JJ garden/NN soil/NN with/IN a/AT little/AP sand/NN added/VBN to/TO encourage/VB rooting/VBG ./pct
 I/PPSS dig/VB it/PPO ,/pct rake/VB it/PPO smooth/JJ ,/pct sow/VB the/AT seeds/NNS and/CC wet/VB them/PPO down/RP with/IN a/AT fog/NN spray/NN ./pct
@@ -30,9 +30,9 @@ Ants/NNS carry/VB away/RB the/AT seeds/NNS so/CS better/JJR be/BE sure/JJ that/C
 When/WRB the/AT first/OD sprinkling/NN of/IN green/NN appears/VBZ I/PPSS remove/VB the/AT board/NN ./pct
 A/AT light/JJ ,/pct porous/JJ mulch/NN applied/VBN now/RB keeps/VBZ the/AT roots/NNS cool/VB and/CC the/AT soil/NN soft/JJ during/IN these/DTS early/JJ days/NNS of/IN growth/NN ./pct
 I/PPSS like/VB sawdust/NN for/IN this/DT ,/pct or/CC hay/NN ./pct
-When/WRB they/PPSS have/HV 4/CD to/IN 6/CD leaves/NNS and/CC are/BER thrifty/JJ little/JJ plants/NNS ,/pct it's /None time/NN to/TO set/VB them/PPO out/RP where/WRB they/PPSS are/BER to/TO remain/VB ./pct
+When/WRB they/PPSS have/HV 4/CD to/IN 6/CD leaves/NNS and/CC are/BER thrifty/JJ little/JJ plants/NNS ,/pct it's/PPSBEZ time/NN to/TO set/VB them/PPO out/RP where/WRB they/PPSS are/BER to/TO remain/VB ./pct
 Every/AT time/NN you/PPSS transplant/VB a/AT pansy/NN you/PPSS cause/VB its/PPg flowers/NNS to/TO become/VB smaller/JJR ./pct
-The/AT moral/NN is/BEZ :/pct don't /None transplant/VB it/PPO any/DTI oftener/RBR than/CS you/PPSS must/MD ./pct
+The/AT moral/NN is/BEZ :/pct don't/DO* transplant/VB it/PPO any/DTI oftener/RBR than/CS you/PPSS must/MD ./pct
 As/QL soon/RB as/CS they/PPSS are/BER large/JJ enough/QLP to/TO move/VB ,/pct I/PPSS put/VB mine/PPgg 9/CD inches/NNS apart/RB where/WRB they/PPSS are/BER to/TO bloom/VB ./pct
 I/PPSS put/VB a/AT little/JJ scoop/NN of/IN pulverized/VBN phosphate/NN rock/NN or/CC steamed/VBN bone/NN meal/NN into/IN each/DT hole/NN with/IN the/AT plant/NN ./pct
 That/DT encourages/VBZ rooting/VBG ,/pct and/CC the/AT better/RBR developed/VBN the/AT roots/NNS ,/pct the/AT larger/JJR and/CC more/QL plentiful/JJ the/AT flowers/NNS ./pct
@@ -50,9 +50,9 @@ Three/CD inches/NNS of/IN porous/JJ material/NN will/MD do/DO a/AT good/JJ job/N
 When/WRB winter/NN comes/VBZ be/BE ready/JJ with/IN additional/JJ mulch/NN ./pct
 I/PPSS like/VB hay/NN for/IN this/DT and/CC apply/VB it/PPO so/CS that/CS only/RB the/AT tops/NNS of/IN the/AT plants/NNS show/VB right/QL after/IN a/AT good/JJ frost/NN ./pct
 That/WPS keeps/VBZ in/RP the/AT cold/JJ ,/pct retains/VBZ moisture/NN and/CC prevents/VBZ the/AT heaving/NN of/IN alternate/JJ freezing/VBG and/CC thawing/VBG ./pct
-Don't /None miss/VB the/AT pansies/NNS that/WPS appear/VB from/IN time/NN to/IN time/NN through/IN the/AT winter/NN ./pct
-Whenever/WRB there/EX is/BEZ a/AT thaw/NN or/CC a/AT few/AP sunny/JJ days/NNS ,/pct you'll /None be/BE likely/JJ to/TO find/VB a/AT brave/JJ little/JJ blossom/NN or/CC two/CD ./pct
-If/CS those/DTS aren't /None enough/AP for/IN you/PPO ,/pct why/WRB not/NEG grow/VB some/DTI just/JJ for/IN winter/NN blooming/NN ?/pct ?/pct
+Don't/DO* miss/VB the/AT pansies/NNS that/WPS appear/VB from/IN time/NN to/IN time/NN through/IN the/AT winter/NN ./pct
+Whenever/WRB there/EX is/BEZ a/AT thaw/NN or/CC a/AT few/AP sunny/JJ days/NNS ,/pct you'll/PPSSMD be/BE likely/JJ to/TO find/VB a/AT brave/JJ little/JJ blossom/NN or/CC two/CD ./pct
+If/CS those/DTS aren't/BER* enough/AP for/IN you/PPO ,/pct why/WRB not/NEG grow/VB some/DTI just/JJ for/IN winter/NN blooming/NN ?/pct ?/pct
 The/AT pansies/NNS I/PPSS cherished/VBD most/RBT bloomed/VBD for/IN me/PPO in/IN February/NP during/IN a/AT particularly/QL cold/JJ winter/NN ./pct
 I/PPSS started/VBD the/AT seed/NN in/IN a/AT flat/NN in/IN June/NP and/CC set/VBD out/RP the/AT little/JJ pansies/NNS in/IN a/AT cold/JJ frame/NN ./pct
 (/pct An/AT unheated/JJ greenhouse/NN would/MD have/HV been/BEN better/JJR ,/pct if/CS I/PPSS had/HVD had/HVN one/CD ./pct
@@ -61,7 +61,7 @@ In/IN response/NN to/IN the/AT lengthening/VBG days/NNS of/IN February/NP they/P
 That/DT cold/JJ frame/NN was/BEDZ my/PPg morale/NN builder/NN ;/pct ;/pct
 its/PPg mass/NN of/IN bright/JJ bloom/NN set/VBN in/IN a/AT border/NN of/IN snow/NN made/VBD my/PPg spirits/NNS rise/VB every/AT time/NN I/PPSS looked/VBD at/IN it/PPO ./pct
 Like/CS strawberries/NNS in/IN December/NP ,/pct pansies/NNS are/BER far/QL more/QL exciting/JJ in/IN February/NP than/CS in/IN May/NP ./pct
-Try/VB that/DT late/JJ winter/NN pickup/NN when/WRB you/PPSS are/BER so/QL tired/VBN of/IN cold/JJ and/CC snow/NN that/CS you/PPSS feel/VB you/PPSS just/RB can't /None take/VB another/DT day/NN of/IN it/PPO ./pct
+Try/VB that/DT late/JJ winter/NN pickup/NN when/WRB you/PPSS are/BER so/QL tired/VBN of/IN cold/JJ and/CC snow/NN that/CS you/PPSS feel/VB you/PPSS just/RB can't/MD* take/VB another/DT day/NN of/IN it/PPO ./pct
 The/AT day/NN will/MD come/VB ,/pct in/IN midsummer/NN ,/pct when/WRB you/PPSS find/VB your/PPg plants/NNS becoming/VBG ``/pct leggy/JJ ''/pct ,/pct running/VBG to/IN tall-growing/JJ foliage/NN at/IN the/AT expense/NN of/IN blossoms/NNS ./pct
 Try/VB pegging/VBG down/RP each/DT separate/JJ branch/NN to/IN the/AT earth/NN ,/pct using/VBG a/AT bobby/NN pin/NN to/TO hold/VB it/PPO there/RB ./pct
 Pick/VB the/AT flowers/NNS ,/pct keep/VB the/AT soil/NN dampened/VBN ,/pct and/CC each/DT of/IN the/AT pegged-down/JJ branches/NNS will/MD take/VB root/NN and/CC become/VB a/AT little/JJ plant/NN and/CC go/VB on/RP blooming/VBG for/IN the/AT rest/NN of/IN the/AT season/NN ./pct
@@ -85,11 +85,11 @@ Remove/VB about/RB half/ABN the/AT branches/NNS from/IN each/DT plant/NN ,/pct l
 The/AT flowers/NNS will/MD be/BE huge/JJ ./pct
 Pansies/NNS have/HV character/NN ./pct
 They/PPSS stick/VB to/IN their/PPg principles/NNS ,/pct insist/VB upon/IN their/PPg due/NN ,/pct but/CC grow/VB and/CC bloom/VB with/IN dependable/JJ regularity/NN if/CS given/VBN it/PPO ./pct
-Treat/VB them/PPO right/RB and/CC they'll /None make/VB a/AT showing/NN every/AT month/NN in/IN the/AT year/NN except/IN the/AT frigid/JJ ones/NNS ./pct
-Give/VB them/PPO food/NN ,/pct some/DTI shade/NN ,/pct mulch/NN ,/pct water/NN and/CC more/AP food/NN ,/pct and/CC they'll /None repay/VB your/PPg solicitude/NN with/IN beauty/NN ./pct
+Treat/VB them/PPO right/RB and/CC they'll/PPSSMD make/VB a/AT showing/NN every/AT month/NN in/IN the/AT year/NN except/IN the/AT frigid/JJ ones/NNS ./pct
+Give/VB them/PPO food/NN ,/pct some/DTI shade/NN ,/pct mulch/NN ,/pct water/NN and/CC more/AP food/NN ,/pct and/CC they'll/PPSSMD repay/VB your/PPg solicitude/NN with/IN beauty/NN ./pct
 A/AT salad/NN with/IN greens/NNS and/CC tomato/NN is/BEZ a/AT popular/JJ and/CC wonderfully/QL healthful/JJ addition/NN to/IN a/AT meal/NN ,/pct but/CC add/VB an/AT avocado/NN and/CC you/PPSS have/HV something/PN really/QL special/JJ ./pct
 This/DT delightful/JJ tropical/JJ fruit/NN has/HVZ become/VBN well-known/JJ in/IN the/AT past/AP thirty/CD years/NNS because/CS modern/JJ transportation/NN methods/NNS have/HV made/VBN it/PPO possible/JJ to/TO ship/VB avocados/NNS anywhere/RB in/IN the/AT United/VBN States/NNS ./pct
-It/PPS has/HVZ a/AT great/QL many/AP assets/NNS to/TO recommend/VB it/PPO and/CC if/CS you/PPSS haven't /None made/VBN avocado/NN a/AT part/NN of/IN your/PPg diet/NN yet/RB ,/pct you/PPSS really/RB should/MD ./pct
+It/PPS has/HVZ a/AT great/QL many/AP assets/NNS to/TO recommend/VB it/PPO and/CC if/CS you/PPSS haven't/HV* made/VBN avocado/NN a/AT part/NN of/IN your/PPg diet/NN yet/RB ,/pct you/PPSS really/RB should/MD ./pct
 You/PPSS will/MD find/VB that/DT avocado/NN is/BEZ unlike/IN any/DTI other/AP fruit/NN you/PPSS have/HV ever/RB tasted/VBN ./pct
 It/PPS is/BEZ roughly/RB shaped/VBN like/CS a/AT large/JJ pear/NN ,/pct and/CC when/WRB properly/RB ripened/VBN ,/pct its/PPg dark/JJ green/JJ skin/NN covers/VBZ a/AT meaty/JJ ,/pct melon-like/JJ pulp/NN that/WPS has/HVZ about/RB the/AT consistency/NN of/IN a/AT ripe/JJ Bartlett/NP pear/NN ,/pct but/CC oily/JJ ./pct
 The/AT avocado/NN should/MD have/HV a/AT ``/pct give/NN ''/pct to/IN it/PPO ,/pct as/CS you/PPSS hold/VB it/PPO ,/pct when/WRB it/PPS is/BEZ ripe/JJ ./pct
@@ -108,7 +108,7 @@ This/DT happens/VBZ on/IN the/AT grocer's/NNg shelf/NN or/CC in/IN your/PPg kitc
 One/CD of/IN the/AT most/QL attractive/JJ things/NNS about/IN avocados/NNS is/BEZ that/CS they/PPSS do/DO not/NEG require/VB processing/VBG of/IN any/DTI kind/NN ./pct
 There/EX is/BEZ no/AT dyeing/VBG or/CC waxing/VBG or/CC gassing/VBG needed/VBN ./pct
 If/CS the/AT temperature/NN is/BEZ controlled/VBN properly/RB ,/pct the/AT avocado/NN will/MD delay/VB its/PPg ripening/NN until/CS needed/VBN ./pct
-And/CC unlike/IN other/AP fruits/NNS ,/pct one/PN cannot /None eat/VB the/AT skin/NN of/IN the/AT avocado/NN ./pct
+And/CC unlike/IN other/AP fruits/NNS ,/pct one/PN cannot/MD* eat/VB the/AT skin/NN of/IN the/AT avocado/NN ./pct
 It/PPS is/BEZ thick/JJ ,/pct much/RB like/CS an/AT egg/NN plant's/NNg skin/NN ,/pct so/CS that/CS poison/NN sprays/NNS ,/pct if/CS they/PPSS are/BER used/VBN ,/pct present/VB no/AT hazard/NN to/IN the/AT consumer/NN ./pct
 Nutritious/JJ and/CC a/AT cholesterol/NN reducer/NN
 Good/JJ taste/NN and/CC versatility/NN ,/pct plus/CC safety/NN from/IN spray/NN poisons/NNS would/MD be/BE enough/AP to/TO recommend/VB the/AT frequent/JJ use/NN of/IN such/ABL a/AT fruit/NN ,/pct even/RB if/CS its/PPg nutritional/JJ values/NNS were/BED limited/VBN ./pct
@@ -121,4 +121,4 @@ None/PN of/IN these/DTS values/NNS is/BEZ destroyed/VBN ,/pct not/NEG significan
 Dr./NN Wilson/NP C./NP Grant/NP ,/pct of/IN the/AT Veterans'/NNSg Administration/NN Hospital/NN ,/pct Coral/NN Gables/NNS ,/pct Florida/NP ,/pct and/CC the/AT University/NN of/IN Miami/NP School/NN of/IN Medicine/NN ,/pct set/VBD out/RP to/TO discover/VB if/CS avocados/NNS ,/pct because/RB of/IN their/PPg high/JJ content/NN of/IN unsaturated/JJ fatty/JJ acids/NNS ,/pct would/MD reduce/VB the/AT cholesterol/NN of/IN the/AT blood/NN in/IN selected/VBN patients/NNS ./pct
 The/AT study/NN comprised/VBD 16/CD male/JJ patients/NNS ,/pct ranging/VBG in/IN age/NN from/IN 27/CD to/IN 72/CD ./pct
 They/PPSS were/BED put/VBN on/IN control/NN diets/NNS to/TO determine/VB as/QL accurately/RB as/QL possible/JJ ,/pct the/AT normal/JJ cholesterol/NN level/NN of/IN their/PPg blood/NN ./pct
-Then/RB they/PPSS were/BED given/VBN 1/2/CD to/IN 1-1/2/CD avocados/NNS per/IN day/NN as/CS a/AT substitute/NN for/IN part/NN of/IN their/PPg dietary/JJ fat/NN consumption/NN ./pct
+Then/RB they/PPSS were/BED given/VBN 1:2/CD to/IN 1-1:2/CD avocados/NNS per/IN day/NN as/CS a/AT substitute/NN for/IN part/NN of/IN their/PPg dietary/JJ fat/NN consumption/NN ./pct

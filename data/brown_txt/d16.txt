@@ -37,7 +37,7 @@ For/CS you/PPSS have/HV been/BEN reborn/VBN ,/pct not/NEG from/IN corruptible/JJ
 1/CD St./NN Peter/NP 23/CD ./pct
 Of/IN his/PPg own/JJ will/NN he/PPS has/HVZ begotten/VBN us/PPO by/IN the/AT word/NN of/IN truth/NN ./pct
 St./NN James/NP 18/CD ./pct
-Amen/UH ,/pct amen/UH ,/pct I/PPSS say/VB to/IN thee/PPO ,/pct unless/CS a/AT man/NN be/BE born/VBN again/RB of/IN water/NN (/pct symbol/NN of/IN the/AT Word/NN of/IN God/NP ,/pct see/VB Ephesians/NPS 26/CD )/pct and/CC the/AT Spirit/NN ,/pct he/PPS cannot /None enter/VB into/IN the/AT kingdom/NN of/IN God/NP ./pct
+Amen/UH ,/pct amen/UH ,/pct I/PPSS say/VB to/IN thee/PPO ,/pct unless/CS a/AT man/NN be/BE born/VBN again/RB of/IN water/NN (/pct symbol/NN of/IN the/AT Word/NN of/IN God/NP ,/pct see/VB Ephesians/NPS 26/CD )/pct and/CC the/AT Spirit/NN ,/pct he/PPS cannot/MD* enter/VB into/IN the/AT kingdom/NN of/IN God/NP ./pct
 That/DT which/WDT is/BEZ born/VBN of/IN the/AT flesh/NN is/BEZ flesh/NN ;/pct ;/pct
 and/CC that/DT which/WDT is/BEZ born/VBN of/IN the/AT Spirit/NN is/BEZ spirit/NN ./pct
 St./NN John/NP 3/CD :/pct 5/CD ,/pct 6/CD ./pct
@@ -77,8 +77,8 @@ Philippians/NPS 1/CD :/pct 6/CD ./pct
 Now/RB to/IN him/PPO who/WPS is/BEZ able/JJ to/TO preserve/VB you/PPO without/IN sin/NN and/CC to/TO set/VB you/PPO before/IN the/AT presence/NN of/IN his/PPg glory/NN ,/pct without/IN blemish/NN ,/pct in/IN gladness/NN ,/pct to/IN the/AT only/AP God/NP our/PPg Savior/NN ,/pct through/IN Jesus/NP Christ/NP our/PPg Lord/NN ,/pct belong/VB glory/NN and/CC majesty/NN ,/pct dominion/NN and/CC authority/NN ,/pct before/IN all/ABN time/NN ,/pct and/CC now/RB ,/pct and/CC forever/RB ./pct
 St./NN Jude/NP 24/CD ./pct
 The/AT new/JJ birth/NN is/BEZ necessary/JJ because/CS the/AT spiritual/JJ kingdom/NN requires/VBZ a/AT spiritual/JJ nature/NN ./pct
-Jesus/NP answered/VBD and/CC said/VBD to/IN him/PPO (/pct Nicodemus/NP )/pct ``/pct Amen/UH ,/pct amen/UH ,/pct I/PPSS say/VB to/IN thee/PPO ,/pct unless/CS a/AT man/NN be/BE born/VBN again/RB ,/pct he/PPS cannot /None see/VB the/AT kingdom/NN of/IN God/NP ''/pct ./pct
-``/pct Amen/UH ,/pct amen/UH ,/pct I/PPSS say/VB to/IN thee/PPO ,/pct unless/CS a/AT man/NN be/BE born/VBN again/RB of/IN water/NN and/CC the/AT Spirit/NN ,/pct he/PPS cannot /None enter/VB into/IN the/AT kingdom/NN of/IN God/NP ./pct
+Jesus/NP answered/VBD and/CC said/VBD to/IN him/PPO (/pct Nicodemus/NP )/pct ``/pct Amen/UH ,/pct amen/UH ,/pct I/PPSS say/VB to/IN thee/PPO ,/pct unless/CS a/AT man/NN be/BE born/VBN again/RB ,/pct he/PPS cannot/MD* see/VB the/AT kingdom/NN of/IN God/NP ''/pct ./pct
+``/pct Amen/UH ,/pct amen/UH ,/pct I/PPSS say/VB to/IN thee/PPO ,/pct unless/CS a/AT man/NN be/BE born/VBN again/RB of/IN water/NN and/CC the/AT Spirit/NN ,/pct he/PPS cannot/MD* enter/VB into/IN the/AT kingdom/NN of/IN God/NP ./pct
 That/DT which/WDT is/BEZ born/VBN of/IN the/AT flesh/NN is/BEZ flesh/NN ;/pct ;/pct
 and/CC that/DT which/WDT is/BEZ born/VBN of/IN the/AT Spirit/NN is/BEZ spirit/NN ./pct
 Do/DO not/NEG wonder/VB that/CS I/PPSS said/VBD to/IN thee/PPO ,/pct '/pct You/PPSS must/MD be/BE born/VBN again/RB '/pct ''/pct ./pct
@@ -131,9 +131,9 @@ You/PPSS may/MD be/BE very/QL religious/JJ ,/pct a/AT good/JJ church/NN member/N
 you/PPSS may/MD be/BE baptized/VBN ,/pct confirmed/VBN ,/pct reverent/JJ and/CC worshipful/JJ ;/pct ;/pct
 you/PPSS may/MD attend/VB mass/NN ,/pct do/DO penance/NN ,/pct say/VB prayers/NNS and/CC zealously/RB keep/VB all/ABN the/AT sacraments/NNS and/CC ceremonies/NNS of/IN the/AT church/NN ;/pct ;/pct
 you/PPSS may/MD have/HV the/AT final/JJ and/CC extreme/JJ unction/NN but/CC if/CS you/PPSS are/BER not/NEG born/VBN again/RB you/PPSS are/BER lost/VBN and/CC headed/VBN for/IN hell/NN and/CC eternal/JJ punishment/NN ./pct
-You/PPSS cannot /None be/BE saved/VBN ;/pct ;/pct
-you/PPSS cannot /None go/VB to/IN heaven/NN unless/CS you/PPSS are/BER born/VBN again/RB ./pct
-Our/PPg blessed/VBN Lord/NN Jesus/NP Christ/NP ,/pct the/AT sinless/JJ Son/NN of/IN God/NP ,/pct who/WPS could/MD not/NEG lie/VB ,/pct said/VBD ,/pct ``/pct Amen/UH ,/pct amen/UH ,/pct I/PPSS say/VB to/IN thee/PPO ,/pct unless/CS a/AT man/NN be/BE born/VBN again/RB ,/pct he/PPS cannot /None see/VB the/AT kingdom/NN of/IN God/NP ''/pct (/pct St./NN John/NP 3/CD :/pct 3/CD )/pct ./pct
+You/PPSS cannot/MD* be/BE saved/VBN ;/pct ;/pct
+you/PPSS cannot/MD* go/VB to/IN heaven/NN unless/CS you/PPSS are/BER born/VBN again/RB ./pct
+Our/PPg blessed/VBN Lord/NN Jesus/NP Christ/NP ,/pct the/AT sinless/JJ Son/NN of/IN God/NP ,/pct who/WPS could/MD not/NEG lie/VB ,/pct said/VBD ,/pct ``/pct Amen/UH ,/pct amen/UH ,/pct I/PPSS say/VB to/IN thee/PPO ,/pct unless/CS a/AT man/NN be/BE born/VBN again/RB ,/pct he/PPS cannot/MD* see/VB the/AT kingdom/NN of/IN God/NP ''/pct (/pct St./NN John/NP 3/CD :/pct 3/CD )/pct ./pct
 ``/pct You/PPSS must/MD be/BE born/VBN again/RB ''/pct (/pct St./NN John/NP 3/CD :/pct 7/CD )/pct ./pct
 Being/BEG convinced/VBN that/CS salvation/NN is/BEZ alone/RB by/IN accepting/VBG Christ/NP as/CS Saviour/NN ,/pct and/CC being/BEG convicted/VBN by/IN the/AT Holy/JJ Spirit/NN of/IN my/PPg lost/VBN condition/NN ,/pct I/PPSS do/DO repent/VB of/IN all/ABN effort/NN to/TO be/BE saved/VBN by/IN any/DTI form/NN of/IN good/JJ works/NNS ,/pct and/CC just/RB now/RB receive/VB Jesus/NP as/CS my/PPg personal/JJ Saviour/NN and/CC salvation/NN as/CS a/AT free/JJ gift/NN from/IN Him/PPO ./pct
 You/PPSS may/MD do/DO as/CS you/PPSS please/VB with/IN God/NP now/RB ./pct

@@ -1,34 +1,34 @@
 Maude's/NPg long/JJ nose/NN unexpectedly/RB wrinkled/VBD up/RP ./pct
 ``/pct Happened/VBN to/TO be/BE in/IN the/AT hall/NN !/pct !/pct
 Happened/VBN to/TO hear/VB you/PPO quarrel/VB about/IN her/PPO !/pct !/pct
-Oh/UH ,/pct well/UH ,/pct you/PPSS can't /None really/RB blame/VB Lolotte/NP ./pct
+Oh/UH ,/pct well/UH ,/pct you/PPSS can't/MD* really/RB blame/VB Lolotte/NP ./pct
 She/PPS lost/VBD her/PPO beau/NN to/IN you/PPO ''/pct ./pct
 But/CC she/PPS was/BEDZ talking/VBG of/IN Emile/NP when/WRB she/PPS saw/VBD the/AT black/JJ line/NN of/IN the/AT open/JJ door/NN ;/pct ;/pct
 Sarah/NP remembered/VBD it/PPO clearly/RB ./pct
 Maude/NP went/VBD on/RP ./pct
-``/pct I've /None got/VBN to/TO get/VB busy/JJ ./pct
-Miss/NP Celie's /None taken/VBN to/IN her/PPg bed/NN ,/pct with/IN the/AT door/NN locked/VBD ./pct
+``/pct I've/PPSSHV got/VBN to/TO get/VB busy/JJ ./pct
+Miss/NP Celie's/NPHVZ taken/VBN to/IN her/PPg bed/NN ,/pct with/IN the/AT door/NN locked/VBD ./pct
 She/PPS opened/VBD it/PPO an/AT inch/NN and/CC poked/VBD out/RP the/AT keys/NNS for/IN me/PPO to/TO give/VB you/PPO ./pct
 Here/RB ''/pct --/pct She/PPS thrust/VBD a/AT bundle/NN of/IN keys/NNS strung/VBN on/IN a/AT thick/JJ red/JJ cord/NN into/IN Sarah's/NPg hand/NN ./pct
-``/pct Not/NEG that/CS there's /None much/AP use/NN in/IN locking/VBG up/RP the/AT smokehouse/NN and/CC the/AT storehouse/NN now/RB ./pct
+``/pct Not/NEG that/CS there's/EXBEZ much/AP use/NN in/IN locking/VBG up/RP the/AT smokehouse/NN and/CC the/AT storehouse/NN now/RB ./pct
 Drink/VB your/PPg coffee/NN ''/pct --/pct
 coffee/NN ./pct
-``/pct It's /None --/pct cold/JJ ''/pct ./pct
+``/pct It's/PPSBEZ --/pct cold/JJ ''/pct ./pct
 Maude/NP suddenly/RB looked/VBN quite/QL capable/JJ of/IN pouring/VBG it/PPO down/IN her/PPg throat/NN ./pct
-``/pct I/PPSS don't /None want/VB it/PPO ''/pct ,/pct Sarah/NP said/VBD ,/pct firmly/RB ./pct
+``/pct I/PPSS don't/DO* want/VB it/PPO ''/pct ,/pct Sarah/NP said/VBD ,/pct firmly/RB ./pct
 ``/pct Oh/UH ./pct
-Well/RB --/pct I'll /None take/VB it/PPO down/RP with/IN me/PPO as/CS I/PPSS go/VB ''/pct ./pct
+Well/RB --/pct I'll/PPSSMD take/VB it/PPO down/RP with/IN me/PPO as/CS I/PPSS go/VB ''/pct ./pct
 Maude/NP swooped/VBN up/RP the/AT cup/NN and/CC hiked/VBD up/RP her/PPg top/JJS hoop/NN as/CS if/CS about/RB to/TO take/VB off/RP with/IN a/AT racing/VBG start/NN ./pct
 At/IN the/AT door/NN she/PPS turned/VBD back/RB ,/pct her/PPg Roman/JJ nose/NN looking/VBG very/QL long/JJ now/RB and/CC satiric/JJ ./pct
 ``/pct I/PPSS forgot/VBD ./pct
 Ben/NP and/CC Lucien/NP have/HV gone/VBN after/IN them/PPO ./pct
-It's /None just/RB like/CS that/DT book/NN your/PPg Northern/JJ friend/NN wrote/VBD --/pct except/IN there/EX aren't /None any/DTI ice/NN floes/NNS to/IN cross/VB and/CC no/AT bloodhounds/NNS ''/pct ./pct
-``/pct I/PPSS don't /None know/VB Mrs./NP Stowe/NP ./pct
+It's/PPSBEZ just/RB like/CS that/DT book/NN your/PPg Northern/JJ friend/NN wrote/VBD --/pct except/IN there/EX aren't/BER* any/DTI ice/NN floes/NNS to/IN cross/VB and/CC no/AT bloodhounds/NNS ''/pct ./pct
+``/pct I/PPSS don't/DO* know/VB Mrs./NP Stowe/NP ./pct
 What/WDT can/MD they/PPSS do/DO if/CS they/PPSS find/VB them/PPO ''/pct ?/pct ?/pct
-``/pct They/PPSS can't /None do/DO anything/PN ./pct
-It's /None silly/JJ ,/pct childish/JJ ,/pct running/VBG after/IN them/PPO like/CS that/DT ./pct
+``/pct They/PPSS can't/MD* do/DO anything/PN ./pct
+It's/PPSBEZ silly/JJ ,/pct childish/JJ ,/pct running/VBG after/IN them/PPO like/CS that/DT ./pct
 I/PPSS told/VBD Ben/NP so/RB ./pct
-But/CC of/IN course/NN the/AT paterollers/NNS won't /None be/BE of/IN any/DTI help/NN ,/pct not/NEG with/IN everything/PN so/QL upset/VBN and/CC that/DT Yankee/JJ cavalry/NN outfit/NN they/PPSS say/VB is/BEZ running/VBG around/RB ,/pct God/NP knows/VBZ where/WRB ''/pct ./pct
+But/CC of/IN course/NN the/AT paterollers/NNS won't/MD* be/BE of/IN any/DTI help/NN ,/pct not/NEG with/IN everything/PN so/QL upset/VBN and/CC that/DT Yankee/JJ cavalry/NN outfit/NN they/PPSS say/VB is/BEZ running/VBG around/RB ,/pct God/NP knows/VBZ where/WRB ''/pct ./pct
 She/PPS had/HVD swished/VBN away/RB ,/pct she/PPS had/HVD been/BEN gone/VBN for/IN a/AT long/JJ time/NN probably/RB when/WRB Sarah/NP suddenly/RB realized/VBD that/CS she/PPS ought/MD to/TO stop/VB her/PPO ,/pct pour/VB out/RP the/AT coffee/NN ,/pct so/CS no/AT one/PN would/MD drink/VB it/PPO ./pct
 But/CC then/RB the/AT so-called/JJ coffee/NN was/BEDZ bad/JJ enough/QLP at/IN best/JJT ,/pct cold/JJ it/PPS was/BEDZ all/ABN but/IN undrinkable/JJ --/pct especially/RB that/DT cup/NN !/pct !/pct
 She/PPS was/BEDZ deeply/RB ,/pct horribly/RB sure/JJ that/CS Lucien/NP had/HVD filled/VBN it/PPO with/IN opium/NN ./pct
@@ -43,11 +43,11 @@ Rilly/NP or/CC Glendora/NP had/HVD entered/VBN her/PPg room/NN while/CS she/PPS 
 So/RB somebody/PN else/RB could/MD have/HV come/VBN in/RP ,/pct too/RB --/pct then/RB or/CC later/RBR while/CS she/PPS was/BEDZ out/IN of/IN the/AT room/NN ./pct
 It/PPS would/MD have/HV been/BEN easy/JJ to/TO identify/VB as/CS opium/NN by/IN its/PPg odor/NN ./pct
 It/PPS was/BEDZ not/NEG very/QL reasonable/JJ to/TO believe/VB that/CS Lucien/NP had/HVD procured/VBN unprocurable/JJ opium/NN and/CC come/VB back/RB to/IN Honotassa/NP with/IN a/AT formed/VBN plan/NN to/TO murder/VB her/PPO ./pct
-He/PPS didn't /None even/RB know/VB that/CS she/PPS was/BEDZ there/RB ./pct
-And/CC he/PPS certainly/RB couldn't /None have/HV guessed/VBN that/CS she/PPS would/MD resist/VB his/PPg demand/NN for/IN the/AT gold/NN or/CC that/CS she/PPS was/BEDZ not/NEG the/AT yielding/NN --/pct yes/RB ,/pct and/CC credible/JJ fool/NN he/PPS had/HVD every/AT right/NN to/TO expect/VB ./pct
+He/PPS didn't/DOD* even/RB know/VB that/CS she/PPS was/BEDZ there/RB ./pct
+And/CC he/PPS certainly/RB couldn't/MD* have/HV guessed/VBN that/CS she/PPS would/MD resist/VB his/PPg demand/NN for/IN the/AT gold/NN or/CC that/CS she/PPS was/BEDZ not/NEG the/AT yielding/NN --/pct yes/RB ,/pct and/CC credible/JJ fool/NN he/PPS had/HVD every/AT right/NN to/TO expect/VB ./pct
 No/AT ,/pct he/PPS had/HVD been/BEN surprised/VBN ,/pct unpleasantly/RB surprised/VBN ,/pct but/CC surprised/VBN ./pct
 Then/RB somebody/PN else/RB ?/pct ?/pct
-Don't /None question/VB ,/pct Rev/NP had/HVD said/VBN ,/pct don't /None invite/VB danger/NN ./pct
+Don't/DO* question/VB ,/pct Rev/NP had/HVD said/VBN ,/pct don't/DO* invite/VB danger/NN ./pct
 Her/PPg skin/NN crawled/VBD :/pct Lolotte/NP had/HVD told/VBN Maude/NP that/CS she/PPS was/BEDZ in/IN the/AT hall/NN and/CC the/AT door/NN was/BEDZ open/JJ ./pct
 Sarah/NP had/HVD begun/VBN to/TO tell/VB Lucien/NP of/IN Emile/NP ,/pct she/PPS had/HVD begun/VBN to/TO question/VB and/CC a/AT little/AP draft/NN had/HVD crept/VBN across/IN the/AT room/NN from/IN the/AT bedroom/NN door/NN ,/pct open/JJ barely/RB enough/QLP to/TO show/VB a/AT rim/NN of/IN blackness/NN in/IN the/AT hall/NN ./pct
 So/RB Lolotte/NP --/pct or/CC anybody/PN --/pct could/MD have/HV listened/VBN ,/pct and/CC that/CS somebody/PN could/MD have/HV already/RB been/BEN supplied/VBN with/IN the/AT missing/VBG bottle/NN of/IN opium/NN ./pct
@@ -56,17 +56,17 @@ The/AT opium/NN had/HVD disappeared/VBN before/IN Emile's/NPg death/NN and/CC wh
 She/PPS began/VBD to/TO doubt/VB whether/CS there/EX had/HVD been/BEN in/IN fact/NN a/AT lethal/JJ dose/NN of/IN opium/NN in/IN the/AT cup/NN ./pct
 So/RB suppose/VB somebody/PN only/RB wished/VBD to/TO frighten/VB her/PPO ,/pct so/CS she/PPS would/MD leave/VB Honotassa/NP !/pct !/pct
 That/DT made/VBD a/AT certain/JJ amount/NN of/IN logic/NN ./pct
-Added/VBN to/IN the/AT argument/NN was/BEDZ the/AT fact/NN that/CS while/CS she/PPS might/MD have/HV tasted/VBN the/AT coffee/NN if/CS it/PPS had/HVD been/BEN still/RB hot/JJ ,/pct she/PPS might/MD even/RB have/HV drunk/NN some/DTI of/IN it/PPO ,/pct she/PPS wouldn't /None have/HV taken/VBN enough/AP to/TO kill/VB her/PPO ,/pct for/CS she/PPS would/MD have/HV been/BEN warned/VBN by/IN its/PPg taste/NN ./pct
+Added/VBN to/IN the/AT argument/NN was/BEDZ the/AT fact/NN that/CS while/CS she/PPS might/MD have/HV tasted/VBN the/AT coffee/NN if/CS it/PPS had/HVD been/BEN still/RB hot/JJ ,/pct she/PPS might/MD even/RB have/HV drunk/NN some/DTI of/IN it/PPO ,/pct she/PPS wouldn't/MD* have/HV taken/VBN enough/AP to/TO kill/VB her/PPO ,/pct for/CS she/PPS would/MD have/HV been/BEN warned/VBN by/IN its/PPg taste/NN ./pct
 No/RB ./pct
 It/PPS was/BEDZ merely/RB an/AT attempt/NN to/TO frighten/VB her/PPO ./pct
-She/PPS wouldn't /None go/VB back/RB to/IN New/JJ York/NP as/CS Maude/NP suggested/VBD ;/pct ;/pct
-she/PPS wouldn't /None run/VB like/CS a/AT scared/VBN cat/NN ./pct
-But/CC --/pct well/UH ,/pct she'd /None be/BE very/QL careful/JJ ./pct
+She/PPS wouldn't/MD* go/VB back/RB to/IN New/JJ York/NP as/CS Maude/NP suggested/VBD ;/pct ;/pct
+she/PPS wouldn't/MD* run/VB like/CS a/AT scared/VBN cat/NN ./pct
+But/CC --/pct well/UH ,/pct she'd/PPSMD be/BE very/QL careful/JJ ./pct
 She/PPS dressed/VBD and/CC the/AT accustomed/VBN routine/NN restored/VBD to/IN her/PPO a/AT sense/NN of/IN normal/JJ everyday/JJ life/NN ./pct
 But/CC before/CS she/PPS left/VBD her/PPg room/NN she/PPS dug/VBD into/IN her/PPO big/JJ moire/NN bag/NN ,/pct took/VBD out/RP the/AT envelope/NN holding/VBG her/PPg marriage/NN contract/NN and/CC the/AT wax/NN seal/NN had/HVD been/BEN broken/VBN ./pct
 So/RB somebody/PN else/RB knew/VBD what/WDT would/MD happen/VB to/IN her/PPg father's/NNg money/NN if/CS she/PPS died/VBD ./pct
 Rev/NP had/HVD known/VBN all/QL along/RB ./pct
-Rev/NP didn't /None need/VB to/TO break/VB the/AT wax/NN seal/NN ,/pct read/VB the/AT contract/NN and/CC find/VB out/RP ./pct
+Rev/NP didn't/DOD* need/VB to/TO break/VB the/AT wax/NN seal/NN ,/pct read/VB the/AT contract/NN and/CC find/VB out/RP ./pct
 He/PPS could/MD conceivably/RB have/HV wished/VBN to/TO make/VB sure/JJ ;/pct ;/pct
 Rev/NP loved/VBD Honotassa/NP ,/pct it/PPS was/BEDZ like/CS a/AT part/NN of/IN his/PPg breath/NN and/CC body/NN ;/pct ;/pct
 Rev/NP had/HVD stressed/VBN the/AT need/NN for/IN money/NN ./pct
@@ -74,8 +74,8 @@ Rev/NP would/MD never/RB have/HV tried/VBN to/TO give/VB her/PPO poison/NN !/pct
 She/PPS thrust/VBD the/AT envelope/NN back/RB in/IN the/AT bag/NN ;/pct ;/pct
 there/EX was/BEDZ no/AT point/NN in/IN locking/VBG it/PPO up/RP in/IN the/AT armoire/NN now/RB ,/pct it/PPS was/BEDZ like/CS locking/VBG the/AT barn/NN after/CS the/AT horse/NN was/BEDZ stolen/VBN ./pct
 And/CC in/IN all/ABN likelihood/NN ,/pct by/IN now/RB ,/pct there/EX was/BEDZ more/AP than/IN one/CD person/NN in/IN the/AT house/NN who/WPS knew/VBD the/AT terms/NNS of/IN her/PPg marriage/NN contract/NN ./pct
-There/EX was/BEDZ no/AT point/NN either/CC in/IN telling/VBG herself/PPL again/RB what/WDT a/AT fool/NN she'd /None been/BEN ./pct
-She/PPS went/VBD downstairs/RB and/CC received/VBD another/DT curious/JJ shock/NN ,/pct for/CS when/WRB Glendora/NP flapped/VBD into/IN the/AT dining/VBG room/NN in/IN her/PPg homemade/JJ moccasins/NNS ,/pct Sarah/NP asked/VBD her/PPO when/WRB she/PPS had/HVD brought/VBN coffee/NN to/IN her/PPg room/NN and/CC Glendora/NP said/VBD she/PPS hadn't /None ./pct
+There/EX was/BEDZ no/AT point/NN either/CC in/IN telling/VBG herself/PPL again/RB what/WDT a/AT fool/NN she'd/PPSHVD been/BEN ./pct
+She/PPS went/VBD downstairs/RB and/CC received/VBD another/DT curious/JJ shock/NN ,/pct for/CS when/WRB Glendora/NP flapped/VBD into/IN the/AT dining/VBG room/NN in/IN her/PPg homemade/JJ moccasins/NNS ,/pct Sarah/NP asked/VBD her/PPO when/WRB she/PPS had/HVD brought/VBN coffee/NN to/IN her/PPg room/NN and/CC Glendora/NP said/VBD she/PPS hadn't/HVD* ./pct
 ``/pct Too/QL much/AP work/NN this/DT morning/NN ,/pct Miss/NP Sarah/NP --/pct everybody/PN gone/VBN like/CS that/DT ''/pct --/pct
 Sarah/NP swallowed/VBD past/IN another/DT kind/NN of/IN constriction/NN in/IN her/PPg throat/NN ./pct
 ``/pct Well/UH ,/pct then/RB who/WPS brought/VBD it/PPO ''/pct ?/pct ?/pct
@@ -83,15 +83,15 @@ Sarah/NP swallowed/VBD past/IN another/DT kind/NN of/IN constriction/NN in/IN he
 She/PPS come/VB to/IN the/AT kitchen/NN and/CC say/VB she/PPS take/VB it/PPO up/RP to/IN you/PPO ''/pct ./pct
 Glendora/NP put/VBD down/RP a/AT dish/NN of/IN lukewarm/JJ rice/NN ./pct
 ``/pct Not/NEG much/AP breakfast/NN this/DT morning/NN ./pct
-I/PPSS don't /None know/VB what/WDT we're /None going/VBG to/TO do/DO ,/pct Miss/NP Sarah/NP ''/pct ./pct
-``/pct We've /None got/VBN to/TO eat/VB ''/pct ,/pct Sarah/NP said/VBD ,/pct curtly/RB ,/pct because/CS a/AT chill/NN crawled/VBD over/IN her/PPO again/RB ./pct
+I/PPSS don't/DO* know/VB what/WDT we're/PPSSBER going/VBG to/TO do/DO ,/pct Miss/NP Sarah/NP ''/pct ./pct
+``/pct We've/PPSSHV got/VBN to/TO eat/VB ''/pct ,/pct Sarah/NP said/VBD ,/pct curtly/RB ,/pct because/CS a/AT chill/NN crawled/VBD over/IN her/PPO again/RB ./pct
 Maude/NP ?/pct ?/pct
 Glendora/NP flapped/VBD away/RB ./pct
-The/AT rice/NN wasn't /None dosed/VBN with/IN opium/NN ,/pct indeed/RB it/PPS had/HVD no/AT taste/NN at/IN all/ABN ,/pct not/NEG a/AT grain/NN of/IN salt/NN ./pct
+The/AT rice/NN wasn't/BEDZ* dosed/VBN with/IN opium/NN ,/pct indeed/RB it/PPS had/HVD no/AT taste/NN at/IN all/ABN ,/pct not/NEG a/AT grain/NN of/IN salt/NN ./pct
 She/PPS ate/VBD what/WDT she/PPS could/MD and/CC went/VBD out/RP along/IN the/AT covered/VBN passageway/NN ,/pct with/IN the/AT rain/NN dripping/VBG from/IN the/AT vines/NNS ./pct
 In/IN the/AT kitchen/NN Glendora/NP was/BEDZ despairingly/RB picking/VBG chickens/NNS ./pct
 ``/pct Get/VB a/AT basket/NN ''/pct ,/pct Sarah/NP told/VBD her/PPO ./pct
-``/pct We'll /None go/VB to/IN the/AT storehouse/NN ''/pct ./pct
+``/pct We'll/PPSSMD go/VB to/IN the/AT storehouse/NN ''/pct ./pct
 Glendora/NP dropped/VBD a/AT chicken/NN and/CC a/AT flurry/NN of/IN feathers/NNS ,/pct and/CC went/VBD with/IN her/PPO through/IN the/AT drizzle/NN ,/pct to/IN the/AT storehouse/NN ./pct
 Sarah/NP found/VBD the/AT right/JJ key/NN and/CC unlocked/VBD the/AT door/NN ./pct
 It/PPS was/BEDZ a/AT long/JJ ,/pct low/JJ room/NN ,/pct like/CS a/AT root/NN cellar/NN ,/pct for/CS it/PPS was/BEDZ banked/VBN up/RP with/IN soil/NN ,/pct and/CC vines/NNS had/HVD run/VBN rampant/JJ over/IN that/DT ,/pct too/RB ./pct
@@ -100,21 +100,21 @@ She/PPS doled/VBD out/RP what/WDT Glendora/NP vaguely/RB guessed/VBN were/BED th
 The/AT shelves/NNS looked/VBD emptier/JJR than/CS when/WRB Miss/NP Celie/NP had/HVD shown/VBN her/PPO the/AT storeroom/NN ,/pct and/CC since/CS the/AT men/NNS from/IN the/AT Commissary/NN had/HVD called/VBN ;/pct ;/pct
 there/EX were/BED certainly/RB now/RB fewer/AP mouths/NNS to/TO feed/VB but/CC there/EX was/BEDZ less/AP to/TO feed/VB them/PPO with/IN ./pct
 She/PPS took/VBD Glendora/NP to/IN the/AT smokehouse/NN ,/pct unlocked/VBD it/PPO and/CC saw/VBD with/IN satisfaction/NN there/EX was/BEDZ still/RB a/AT quantity/NN of/IN hams/NNS and/CC sides/NNS of/IN bacon/NN ,/pct hanging/VBG from/IN the/AT smoke-stained/JJ rafters/NNS ./pct
-They/PPSS wouldn't /None go/VB hungry/JJ ,/pct not/NEG yet/RB ./pct
+They/PPSS wouldn't/MD* go/VB hungry/JJ ,/pct not/NEG yet/RB ./pct
 And/CC the/AT fields/NNS were/BED green/JJ and/CC growing/VBG ./pct
-``/pct Can't /None you/PPSS possibly/RB imagine/VB what/WDT life/NN is/BEZ going/VBG to/TO be/BE like/JJ ,/pct here/RB ''/pct ?/pct ?/pct
+``/pct Can't/MD* you/PPSS possibly/RB imagine/VB what/WDT life/NN is/BEZ going/VBG to/TO be/BE like/JJ ,/pct here/RB ''/pct ?/pct ?/pct
 Maude/NP had/HVD said/VBN ./pct
 Maude/NP ./pct
 She/PPS sent/VBD Glendora/NP back/RB to/IN the/AT house/NN ,/pct her/PPg basket/NN and/CC her/PPg apron/NN laden/JJ ./pct
 She/PPS stood/VBD for/IN a/AT moment/NN ,/pct rain/NN dripping/VBG from/IN the/AT trees/NNS over/IN her/PPg head/NN ,/pct thinking/VBG of/IN Maude/NP ./pct
 Maude/NP had/HVD the/AT opportunity/NN to/TO take/VB the/AT bottle/NN of/IN opium/NN from/IN Sarah's/NPg room/NN ./pct
 Maude/NP had/HVD the/AT cool/JJ ruthlessness/NN to/TO do/DO whatever/WDT she/PPS made/VBD up/RP her/PPg mind/NN to/TO do/DO ./pct
-She/PPS couldn't /None see/VB how/WRB her/PPg death/NN could/MD affect/VB Maude/NP ./pct
-She/PPS couldn't /None see/VB any/DTI reason/NN why/WRB Maude/NP would/MD attempt/VB to/TO frighten/VB her/PPO ./pct
+She/PPS couldn't/MD* see/VB how/WRB her/PPg death/NN could/MD affect/VB Maude/NP ./pct
+She/PPS couldn't/MD* see/VB any/DTI reason/NN why/WRB Maude/NP would/MD attempt/VB to/TO frighten/VB her/PPO ./pct
 Besides/RB ,/pct there/EX was/BEDZ something/PN hysterical/JJ and/CC silly/JJ ,/pct something/PN almost/RB childish/JJ about/IN an/AT attempt/NN to/TO frighten/VB her/PPO ./pct
 Maude/NP was/BEDZ neither/CC hysterical/JJ nor/CC silly/JJ and/CC Sarah/NP rather/RB doubted/VBD if/CS she/PPS had/HVD ever/RB been/BEN childish/JJ ./pct
 Yet/RB Maude/NP had/HVD suggested/VBN that/CS Sarah/NP return/VB to/IN New/JJ York/NP ./pct
-Maude/NP could/MD have/HV shot/VBN Emile/NP --/pct if/CS she'd /None had/HVN a/AT reason/NN to/TO kill/VB him/PPO ./pct
+Maude/NP could/MD have/HV shot/VBN Emile/NP --/pct if/CS she'd/PPSHVD had/HVN a/AT reason/NN to/TO kill/VB him/PPO ./pct
 There/EX was/BEDZ no/AT use/NN in/IN standing/VBG there/RB in/IN the/AT drizzle/NN ,/pct trying/VBG to/TO find/VB a/AT link/NN between/IN Emile's/NPg murder/NN and/CC opium/NN in/IN a/AT cup/NN of/IN coffee/NN ./pct
 She/PPS started/VBD back/RB for/IN the/AT house/NN ,/pct saw/VBD a/AT light/NN in/IN the/AT office/NN ,/pct opened/VBD the/AT door/NN and/CC surprised/VBD a/AT domestic/JJ little/JJ scene/NN which/WDT was/BEDZ far/RB outside/IN the/AT dark/JJ realm/NN of/IN murder/NN or/CC attempted/VBN murder/NN ./pct
 Rev/NP ,/pct George/NP and/CC Lolotte/NP were/BED mending/VBG shoes/NNS ./pct
@@ -126,7 +126,7 @@ George/NP said/VBD ,/pct ``/pct First/OD thing/NN I/PPSS do/DO when/WRB I/PPSS g
 ``/pct With/IN boots/NNS on/RP ''/pct ,/pct Lolotte/NP laughed/VBD softly/RB ./pct
 Rev/NP looked/VBD up/RP and/CC saw/VBD her/PPO ./pct
 Lolotte/NP looked/VBD up/RP and/CC stiffened/VBD ./pct
-George/NP didn't /None look/VB up/RP at/IN all/ABN ./pct
+George/NP didn't/DOD* look/VB up/RP at/IN all/ABN ./pct
 There/EX was/BEDZ no/AT way/NN to/TO know/VB ,/pct no/AT way/NN to/TO guess/VB whether/CS any/DTI one/CD of/IN them/PPO was/BEDZ surprised/VBN at/IN Sarah's/NPg appearance/NN ,/pct believing/VBG her/PPO to/TO be/BE drugged/VBN and/CC senseless/JJ --/pct and/CC just/RB possibly/RB dead/JJ ./pct
 Rev/NP said/VBD ,/pct ``/pct Come/VB in/RP ,/pct Sarah/NP ./pct
 Reckon/VB you/PPSS know/VB the/AT news/NN ''/pct ./pct
@@ -140,7 +140,7 @@ George/NP poised/VBD with/IN the/AT tack/NN hammer/NN ,/pct the/AT homely/JJ ,/p
 A/AT rush/NN of/IN panic/NN caught/VBD Sarah/NP ./pct
 ``/pct No/RB ./pct
 Not/NEG now/RB ./pct
-I/PPSS mean/VB I've /None got/VBN to/TO --/pct to/TO see/VB to/IN the/AT kitchen/NN ./pct
+I/PPSS mean/VB I've/PPSSHV got/VBN to/TO --/pct to/TO see/VB to/IN the/AT kitchen/NN ./pct
 Glendora/NP ''/pct --/pct
 Her/PPg words/NNS jumbled/VBN together/RB and/CC she/PPS all/QL but/CC ran/VBD from/IN the/AT office/NN and/CC from/IN the/AT question/NN in/IN Rev's/NPg face/NN ./pct
 Now/RB why/WRB did/DOD I/PPSS do/DO that/DT ?/pct ?/pct
@@ -149,14 +149,14 @@ She/PPS was/BEDZ no/AT schoolgirl/NN ,/pct refusing/VBG to/TO bear/VB tales/NNS 
 As/CS she/PPS reached/VBD the/AT kitchen/NN door/NN the/AT answer/NN presented/VBD itself/PPL ;/pct ;/pct
 if/CS she/PPS told/VBD anyone/PN of/IN the/AT opium/NN it/PPS must/MD be/BE Lucien/NP ,/pct her/PPg husband/NN ./pct
 It/PPS might/MD be/BE ,/pct indeed/RB it/PPS had/HVD already/RB proved/VBN to/TO be/BE a/AT marriage/NN without/IN love/NN ,/pct but/CC it/PPS was/BEDZ marriage/NN ./pct
-So/CS she/PPS couldn't /None choose/VB Rev/NP as/IN a/AT confidant/NN ;/pct ;/pct
+So/CS she/PPS couldn't/MD* choose/VB Rev/NP as/IN a/AT confidant/NN ;/pct ;/pct
 it/PPS must/MD be/BE Lucien/NP ./pct
 Always/RB provided/VBD that/CS Lucien/NP himself/PPL had/HVD not/NEG dosed/VBN her/PPg coffee/NN with/IN opium/NN ,/pct she/PPS thought/VBD ,/pct as/QL coldly/RB and/CC sharply/RB ,/pct again/RB ,/pct as/CS Maude/NP might/MD have/HV said/VBN it/PPO ./pct
 She/PPS paused/VBD at/IN the/AT kitchen/NN door/NN ,/pct caught/VBD her/PPg breath/NN ,/pct told/VBD herself/PPL firmly/RB that/CS the/AT opium/NN was/BEDZ only/RB an/AT attempt/NN to/TO frighten/VB her/PPO and/CC went/VBD into/IN the/AT kitchen/NN ,/pct where/WRB Glendora/NP was/BEDZ eyeing/VBG the/AT chickens/NNS dismally/RB and/CC Maude/NP was/BEDZ cleaning/VBG lamp/NN chimneys/NNS ./pct
 Glendora/NP gave/VBD a/AT gulp/NN ./pct
-``/pct Miss/NP Sarah/NP ,/pct I/PPSS can't /None cut/VB up/RP no/AT chicken/NN ./pct
-Miss/NP Maude/NP say/VB she/PPS won't /None ''/pct ./pct
+``/pct Miss/NP Sarah/NP ,/pct I/PPSS can't/MD* cut/VB up/RP no/AT chicken/NN ./pct
+Miss/NP Maude/NP say/VB she/PPS won't/MD* ''/pct ./pct
 Again/RB the/AT homely/JJ ,/pct everyday/JJ details/NNS of/IN daily/JJ living/NN refuted/VBD a/AT vicious/JJ attempt/NN to/TO frighten/VB her/PPO --/pct or/CC to/TO murder/VB her/PPO ./pct
 The/AT homely/JJ everyday/JJ details/NNS of/IN living/VBG and/CC domestic/JJ requirements/NNS also/RB pressed/VBD upon/IN her/PPO with/IN their/PPg immediate/JJ urgency/NN ./pct
-No/AT matter/NN what/WDT had/HVD happened/VBN or/CC hadn't /None happened/VBN ,/pct somebody/PN had/HVD to/TO see/VB about/IN dinner/NN ./pct
+No/AT matter/NN what/WDT had/HVD happened/VBN or/CC hadn't/HVD* happened/VBN ,/pct somebody/PN had/HVD to/TO see/VB about/IN dinner/NN ./pct
 She/PPS eyed/VBD the/AT chickens/NNS with/IN ,/pct if/CS she/PPS had/HVD known/VBN it/PPO ,/pct something/PN of/IN Glendora's/NPg dismal/JJ look/NN and/CC thought/VBD with/IN a/AT certain/JJ fury/NN of/IN the/AT time/NN she/PPS had/HVD spent/VBN on/IN Latin/JJ verbs/NNS ./pct

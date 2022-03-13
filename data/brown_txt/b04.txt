@@ -73,7 +73,7 @@ West/JJ Germany/NP ,/pct with/IN its/PPg industrial/JJ and/CC military/JJ might/
 And/CC the/AT career/NN of/IN Konrad/NP Adenauer/NP ,/pct who/WPS upheld/VBD Germany's/NPg tradition/NN of/IN rock-like/JJ leaders/NNS which/WDT Bismarck/NP began/VBD ,/pct draws/VBZ near/IN the/AT end/NN ./pct
 Better/JJR ask/VB before/CS joining/VBG
 Americans/NPS are/BER a/AT nation/NN of/IN joiners/NNS ,/pct a/AT quality/NN which/WDT our/PPg friends/NNS find/VB endearing/JJ and/CC sometimes/RB amusing/JJ ./pct
-But/CC it/PPS can/MD be/BE dangerous/JJ if/CS the/AT joiner/NN doesn't /None want/VB to/TO make/VB a/AT spectacle/NN of/IN himself/PPL ./pct
+But/CC it/PPS can/MD be/BE dangerous/JJ if/CS the/AT joiner/NN doesn't/DOZ* want/VB to/TO make/VB a/AT spectacle/NN of/IN himself/PPL ./pct
 For/IN instance/NN ,/pct so-called/JJ ``/pct conservative/JJ ''/pct organizations/NNS ,/pct some/DTI of/IN them/PPO secret/JJ ,/pct are/BER sprouting/VBG in/IN the/AT garden/NN of/IN joining/VBG where/WRB ``/pct liberal/JJ ''/pct organizations/NNS once/RB took/VBD root/NN ./pct
 One/CD specific/JJ example/NN is/BEZ a/AT secret/JJ ``/pct fraternity/NN ''/pct which/WDT will/MD ``/pct coordinate/VB anti-Communist/JJ efforts/NNS ''/pct ./pct
 The/AT principle/NN is/BEZ commendable/JJ but/CC we/PPSS suspect/VB that/CS in/IN the/AT practice/NN somebody/PN is/BEZ going/VBG to/TO get/VB gulled/VBN ./pct
@@ -95,7 +95,7 @@ If/CS the/AT would-be/JJ joiner/NN asks/VBZ these/DTS questions/NNS he/PPS is/BE
 Falling/VBG somewhere/RB in/IN a/AT category/NN between/IN Einstein's/NPg theory/NN and/CC sand/NN fleas/NNS --/pct difficult/JJ to/TO see/VB but/CC undeniably/RB there/RB ,/pct nevertheless/RB --/pct is/BEZ the/AT tropical/JJ green/JJ ``/pct city/NN ''/pct of/IN Islandia/NP ,/pct a/AT string/NN of/IN offshore/RB islands/NNS that/WPS has/HVZ almost/RB no/AT residents/NNS ,/pct limited/VBN access/NN and/CC an/AT unlimited/JJ future/NN ./pct
 The/AT latter/AP is/BEZ what/WDT concerns/VBZ us/PPO all/ABN ./pct
 Whatever/WDT land/NN you/PPSS can/MD see/VB here/RB ,/pct from/IN the/AT North/JJ tip/NN end/NN of/IN Elliott/NP Key/NP looking/VBG southward/RB ,/pct belongs/VBZ to/IN someone/PN --/pct people/NNS who/WPS have/HV title/NN to/IN the/AT land/NN ./pct
-And/CC what/WDT you/PPSS can't /None see/VB ,/pct the/AT land/NN underneath/IN the/AT water/NN ,/pct belongs/VBZ to/IN someone/PN ,/pct too/RB ./pct
+And/CC what/WDT you/PPSS can't/MD* see/VB ,/pct the/AT land/NN underneath/IN the/AT water/NN ,/pct belongs/VBZ to/IN someone/PN ,/pct too/RB ./pct
 The/AT public/NN ./pct
 The/AT only/AP real/JJ problem/NN is/BEZ to/TO devise/VB a/AT plan/NN whereby/WRB the/AT owners/NNS of/IN the/AT above-water/JJ land/NN can/MD develop/VB their/PPg property/NN without/IN the/AT public/NN losing/VBG its/PPg underwater/JJ land/NN and/CC the/AT right/NN to/IN its/PPg development/NN for/IN public/JJ use/NN and/CC enjoyment/NN ./pct
 In/IN the/AT fairly/QL brief/JJ but/CC hectic/JJ history/NN of/IN Florida/NP ,/pct the/AT developers/NNS of/IN waterfront/NN land/NN have/HV too/QL often/RB wound/VBN up/RP with/IN both/ABX their/PPg land/NN and/CC ours/PPgg ./pct

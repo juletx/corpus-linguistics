@@ -3,7 +3,7 @@ The/AT absolution/NN of/IN Doaty's/NPg last/AP will/NN and/CC testament/NN was/B
 Doaty/NP would/MD never/RB have/HV left/VBN her/PPg house/NN to/IN a/AT godless/JJ woman/NN ./pct
 She/PPS found/VBD herself/PPL wishing/VBG an/AT old/JJ wish/NN ,/pct that/CS she/PPS had/HVD told/VBN Doaty/NP she/PPS was/BEDZ running/VBG away/RB ,/pct that/CS she/PPS had/HVD left/VBN something/PN more/AP behind/IN her/PPO than/CS the/AT loving/VBG ,/pct sorry/JJ note/NN and/CC her/PPg best/JJT garnet/NN pin/NN ./pct
 Perhaps/RB Doaty/NP had/HVD guessed/VBN already/RB and/CC kept/VBN her/PPg counsel/NN ./pct
-Henrietta/NP thought/VBD ,/pct It's /None extraordinary/JJ how/WRB much/AP she/PPS always/RB knew/VBD about/IN both/ABX of/IN us/PPO ./pct
+Henrietta/NP thought/VBD ,/pct It's/PPSBEZ extraordinary/JJ how/WRB much/AP she/PPS always/RB knew/VBD about/IN both/ABX of/IN us/PPO ./pct
 There/EX had/HVD been/BEN more/AP to/TO know/VB about/IN Hetty/NP ,/pct inevitably/RB ,/pct and/CC most/AP of/IN it/PPO unfavorable/JJ ./pct
 Adelia/NP was/BEDZ the/AT good/JJ one/PN ,/pct or/CC ,/pct if/CS not/NEG always/RB good/JJ ,/pct less/QL frequently/RB tempted/VBN ./pct
 Their/PPg childhood/NN would/MD have/HV been/BEN quite/QL circumspect/JJ without/IN Hetty's/NPg flair/NN for/IN drama/NN ,/pct especially/RB through/IN the/AT long/JJ summers/NNS ./pct
@@ -34,7 +34,7 @@ After/IN the/AT sad/JJ impatient/JJ moment/NN ,/pct waiting/VBG for/IN comfort/N
 The/AT garden/NN below/RB was/BEDZ lacy/JJ with/IN dew/NN and/CC enchanting/JJ in/IN its/PPg small/JJ wildness/NN ./pct
 Leaning/VBG out/RP ,/pct she/PPS could/MD see/VB a/AT tangle/NN of/IN rosebush/NN and/CC honeysuckle/NN ,/pct one/CD not/NEG quite/RB come/VBN to/IN bloom/NN ,/pct one/CD just/RB beyond/IN it/PPO ./pct
 On/IN a/AT thrusting/VBG spray/NN thick/JJ with/IN thorns/NNS and/CC dewdrops/NNS and/CC swelling/VBG pink/JJ buds/NNS ,/pct like/CS a/AT summer/NN Valentine/NP ,/pct a/AT bird/NN balanced/VBD and/CC sang/VBD ,/pct nondescriptly/RB brown/JJ and/CC alive/JJ with/IN its/PPg own/JJ music/NN ,/pct a/AT little/AP engine/NN of/IN song/NN ./pct
-It/PPS was/BEDZ so/QL pretty/JJ and/CC artless/JJ that/CS she/PPS felt/VBD like/IN a/AT child/NN again/RB and/CC would/MD have/HV enjoyed/VBN running/VBG out/RP barefoot/RB to/TO play/VB on/IN the/AT wet/JJ grass/NN with/IN all/ABN the/AT growing/VBG things/NNS ,/pct but/CC Doaty/NP never/RB permitted/VBD bare/JJ feet/NNS and/CC she/PPS was/BEDZ decidedly/RB not/NEG a/AT child/NN but/CC une/AT femme/NN d'un /None certain/JJ age/NN ./pct
+It/PPS was/BEDZ so/QL pretty/JJ and/CC artless/JJ that/CS she/PPS felt/VBD like/IN a/AT child/NN again/RB and/CC would/MD have/HV enjoyed/VBN running/VBG out/RP barefoot/RB to/TO play/VB on/IN the/AT wet/JJ grass/NN with/IN all/ABN the/AT growing/VBG things/NNS ,/pct but/CC Doaty/NP never/RB permitted/VBD bare/JJ feet/NNS and/CC she/PPS was/BEDZ decidedly/RB not/NEG a/AT child/NN but/CC une/AT femme/NN d'un/INAT certain/JJ age/NN ./pct
 Feeling/VBG suddenly/RB neat/JJ and/CC subdued/VBN ,/pct she/PPS dressed/VBD quite/QL soberly/RB and/CC went/VBD downstairs/RB ./pct
 Rosa/NP ,/pct unbelievably/RB ,/pct was/BEDZ not/NEG yet/RB up/RP and/CC about/RB ,/pct reassurance/NN that/WPS Rosa/NP was/BEDZ human/JJ ./pct
 Feeling/VBG protective/JJ toward/IN this/DT sleeping/VBG being/BEG ,/pct Henrietta/NP found/VBD a/AT yesterday/NR bun/NN and/CC milk/NN in/IN a/AT white/JJ jug/NN ,/pct a/AT breakfast/NN which/WDT was/BEDZ somewhat/RB the/AT equivalent/JJ of/IN going/VBG barefoot/RB ./pct
@@ -54,17 +54,17 @@ An/AT old/JJ man/NN ,/pct sitting/VBG against/IN the/AT wall/NN of/IN a/AT cotta
 On/IN an/AT impulse/NN ,/pct she/PPS turned/VBD back/RB and/CC said/VBD good/JJ morning/NN ./pct
 He/PPS cupped/VBD his/PPg ear/NN and/CC shook/VBD his/PPg head/NN at/IN her/PPg repetition/NN ,/pct announcing/VBG in/IN a/AT nettled/VBN way/NN that/CS he/PPS had/HVD heard/VBN her/PPO the/AT first/OD time/NN ./pct
 He/PPS then/RB offered/VBD his/PPg own/JJ estimate/NN of/IN the/AT weather/NN ,/pct which/WDT was/BEDZ unenthusiastic/JJ ./pct
-``/pct Summer's /None been/BEN slow/JJ to/TO come/VB ''/pct ,/pct he/PPS said/VBD ./pct
-``/pct It's /None my/PPg dryin'/VBG out/RP time/NN ''/pct ./pct
+``/pct Summer's/NNHVZ been/BEN slow/JJ to/TO come/VB ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct It's/PPSBEZ my/PPg dryin'/VBG out/RP time/NN ''/pct ./pct
 He/PPS scowled/VBD at/IN her/PPg flowers/NNS ./pct
-``/pct I'm /None taking/VBG them/PPO to/IN the/AT cemetery/NN ''/pct ,/pct said/VBD Henrietta/NP ,/pct out/IN of/IN a/AT vague/JJ feeling/NN of/IN hospitality/NN ./pct
-``/pct They'll /None be/BE takin'/VBG me/PPO next/RB ''/pct ,/pct he/PPS said/VBD pleasantly/RB ,/pct ``/pct but/CC not/NEG so/QL soon's /None they/PPSS plan/VB ./pct
+``/pct I'm/PPSSBEM taking/VBG them/PPO to/IN the/AT cemetery/NN ''/pct ,/pct said/VBD Henrietta/NP ,/pct out/IN of/IN a/AT vague/JJ feeling/NN of/IN hospitality/NN ./pct
+``/pct They'll/PPSSMD be/BE takin'/VBG me/PPO next/RB ''/pct ,/pct he/PPS said/VBD pleasantly/RB ,/pct ``/pct but/CC not/NEG so/QL soon's/RBCS they/PPSS plan/VB ./pct
 See/VB half/ABN of/IN 'em/PPO in/IN their/PPg graves/NNS before/CS I/PPSS choose/VB my/PPg own/JJ coffin/NN ./pct
-It's /None dryin'/VBG myself/PPL out/RP that/WPS does/DOZ it/PPO ''/pct ./pct
+It's/PPSBEZ dryin'/VBG myself/PPL out/RP that/WPS does/DOZ it/PPO ''/pct ./pct
 He/PPS regarded/VBD her/PPO with/IN rising/VBG hope/NN ./pct
-``/pct You'd /None like/VB to/TO hear/VB how/WRB I/PPSS go/VB about/IN it/PPO ''/pct ./pct
-``/pct It's /None nice/JJ of/IN you/PPO ''/pct ,/pct Henrietta/NP said/VBD doubtfully/RB ./pct
-``/pct Y're /None welcome/JJ ''/pct ./pct
+``/pct You'd/PPSSMD like/VB to/TO hear/VB how/WRB I/PPSS go/VB about/IN it/PPO ''/pct ./pct
+``/pct It's/PPSBEZ nice/JJ of/IN you/PPO ''/pct ,/pct Henrietta/NP said/VBD doubtfully/RB ./pct
+``/pct Y're/PPSSBER welcome/JJ ''/pct ./pct
 He/PPS straightened/VBD himself/PPL ,/pct soldierly/JJ against/IN the/AT wall/NN ,/pct and/CC pulled/VBD his/PPg sprawled/VBN feet/NNS together/RB so/CS they/PPSS stood/VBD side/NN by/IN side/NN in/IN their/PPg old/JJ boots/NNS ./pct
 His/PPg stick/NN ceased/VBD to/TO be/BE a/AT thing/NN to/TO rest/VB his/PPg chin/NN on/IN and/CC became/VBD a/AT pointer/NN for/IN emphasizing/VBG the/AT finer/JJR aspects/NNS of/IN his/PPg text/NN ./pct
 ``/pct Every/AT month/NN ,/pct f'r/IN three/CD days/NNS ''/pct ,/pct he/PPS said/VBD happily/RB ,/pct ``/pct I/PPSS take/VB no/AT water/NN into/IN my/PPg system/NN ,/pct no/AT water/NN whatsoever/WPS ./pct
@@ -73,46 +73,46 @@ Henrietta/NP murmured/VBD that/CS she/PPS could/MD quite/ABL see/VB how/WRB it/P
 ``/pct Rests/VBZ the/AT tissues/NNS ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct and/CC pacifies/VBZ the/AT system/NN ./pct
 My/PPg dad/NN did/DOD it/PPO ,/pct and/CC he/PPS lived/VBD to/IN a/AT great/JJ age/NN ''/pct ./pct
 He/PPS looked/VBD up/RP at/IN her/PPO sharply/RB ./pct
-``/pct Don't /None remember/VB ,/pct do/DO you/PPO ''/pct ?/pct ?/pct
+``/pct Don't/DO* remember/VB ,/pct do/DO you/PPO ''/pct ?/pct ?/pct
 She/PPS did/DOD suddenly/RB ,/pct through/IN the/AT link/NN of/IN memory/NN with/IN his/PPg father/NN ,/pct old/JJ Titus/NP ,/pct who/WPS must/MD have/HV been/BEN in/IN his/PPg nineties/NNS when/WRB Henrietta/NP ran/VBD away/RB ./pct
 Next/IN to/IN the/AT Blackwells/NPS ,/pct Titus/NP had/HVD owned/VBN the/AT island/NN most/RBT ,/pct and/CC she/PPS and/CC Adelia/NP had/HVD often/RB stood/VBN in/IN front/NN of/IN him/PPO ,/pct silenced/VBN by/IN his/PPg terrible/JJ years/NNS --/pct a/AT scanty/JJ man/NN with/IN a/AT thin/JJ beard/NN and/CC very/QL deep-set/JJ blue/JJ eyes/NNS like/CS a/AT mariner/NN ,/pct more/QL aged/VBN than/CS possible/JJ ./pct
 He/PPS had/HVD never/RB spoken/VBN once/RB to/IN the/AT awed/VBN sisters/NNS ,/pct but/CC his/PPg son/NN had/HVD been/BEN friendly/JJ ,/pct a/AT big/JJ fellow/NN of/IN fifty/CD or/CC more/AP ,/pct a/AT fishing-boat/NN captain/NN and/CC powerful/JJ like/CS the/AT sea/NN ./pct
 It/PPS must/MD be/BE that/CS son/NN who/WPS sat/VBD before/IN her/PPO now/RB ,/pct shriveled/VBN to/IN half/ABN his/PPg size/NN and/CC half/ABN his/PPg senses/NNS ./pct
 She/PPS said/VBD gently/RB ,/pct ``/pct Of/IN course/NN I/PPSS remember/VB you/PPO ''/pct ./pct
-``/pct Not/NEG so/QL well's /None I/PPSS remember/VB you/PPO ''/pct ,/pct he/PPS said/VBD ./pct
-``/pct Y're /None the/AT young/JJ Blackwell/NP woman/NN ./pct
+``/pct Not/NEG so/QL well's/RBCS I/PPSS remember/VB you/PPO ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct Y're/PPSSBER the/AT young/JJ Blackwell/NP woman/NN ./pct
 Ran/VBD away/RB on/IN a/AT black/JJ night/NN with/IN a/AT lawful/JJ wedded/VBN man/NN ./pct
 I/PPSS know/VB all/ABN about/IN you/PPO ''/pct ./pct
 ``/pct You/PPSS do/DO seem/VB to/TO ''/pct ,/pct said/VBD Henrietta/NP ,/pct impressed/VBN ./pct
-``/pct Can't /None blame/VB a/AT man/NN for/IN leavin'/VBG his/PPg wife/NN ''/pct ,/pct he/PPS said/VBD quite/QL cheerfully/RB ./pct
+``/pct Can't/MD* blame/VB a/AT man/NN for/IN leavin'/VBG his/PPg wife/NN ''/pct ,/pct he/PPS said/VBD quite/QL cheerfully/RB ./pct
 ``/pct Left/VBD mine/PPgg many/ABN a/AT time/NN ,/pct only/RB she/PPS never/RB knew/VBD it/PPO ./pct
-Man/NN in/IN a/AT boat/NN ,/pct there's /None a/AT lot/NN of/IN places/NNS he/PPS can/MD put/VB in/RP at/IN and/CC a/AT lot/NN of/IN reasons/NNS he/PPS can/MD be/BE away/RB for/IN a/AT bit/NN ./pct
+Man/NN in/IN a/AT boat/NN ,/pct there's/EXBEZ a/AT lot/NN of/IN places/NNS he/PPS can/MD put/VB in/RP at/IN and/CC a/AT lot/NN of/IN reasons/NNS he/PPS can/MD be/BE away/RB for/IN a/AT bit/NN ./pct
 Any/DTI harm/NN in/IN that/DT ''/pct ?/pct ?/pct
 ``/pct Probably/RB ''/pct ,/pct said/VBD Henrietta/NP dryly/RB ./pct
 He/PPS gave/VBD a/AT short/JJ hard/JJ laugh/NN and/CC looked/VBD at/IN her/PPO knowingly/RB ./pct
-``/pct You'd /None be/BE the/AT one/PN to/TO say/VB ''/pct ,/pct he/PPS observed/VBD ,/pct and/CC she/PPS found/VBD herself/PPL liking/VBG his/PPg approval/NN none/PN too/QL well/RB ,/pct but/CC she/PPS could/MD not/NEG defend/VB herself/PPL and/CC say/VB that/CS her/PPg actions/NNS were/BED ``/pct different/JJ ''/pct ,/pct since/CS all/ABN actions/NNS had/HVD their/PPg own/JJ laws/NNS ./pct
+``/pct You'd/PPSSMD be/BE the/AT one/PN to/TO say/VB ''/pct ,/pct he/PPS observed/VBD ,/pct and/CC she/PPS found/VBD herself/PPL liking/VBG his/PPg approval/NN none/PN too/QL well/RB ,/pct but/CC she/PPS could/MD not/NEG defend/VB herself/PPL and/CC say/VB that/CS her/PPg actions/NNS were/BED ``/pct different/JJ ''/pct ,/pct since/CS all/ABN actions/NNS had/HVD their/PPg own/JJ laws/NNS ./pct
 Only/RB ,/pct this/DT old/JJ man's/NNg connivance/NN was/BEDZ even/QL less/AP to/IN her/PPg taste/NN than/CS Selma/NP Cotter's/NPg open/JJ censure/NN ./pct
 Well/UH ,/pct she/PPS had/HVD not/NEG come/VBN back/RB to/IN Great/JJ Island/NN to/TO be/BE understood/VBN ,/pct praised/VBN or/CC condemned/VBN ./pct
 She/PPS had/HVD come/VBN to/TO make/VB her/PPg peace/NN with/IN the/AT past/NN ,/pct and/CC of/IN that/DT past/NN this/DT ancient/NN of/IN the/AT earth/NN was/BEDZ only/RB a/AT kind/NN of/IN shadow/NN ./pct
 She/PPS started/VBD to/TO move/VB away/RB ,/pct just/RB as/CS a/AT woman/NN came/VBD out/IN of/IN the/AT cottage/NN ,/pct a/AT big-boned/JJ ,/pct drab-haired/JJ figure/NN with/IN a/AT clean/JJ apron/NN tied/VBN over/IN her/PPg limp/JJ print/NN dress/NN ./pct
 She/PPS smiled/VBD vaguely/RB at/IN Henrietta/NP and/CC spoke/VBD to/IN the/AT old/JJ man/NN ./pct
-``/pct You've /None not/NEG had/HVN your/PPg breakfast/NN yet/RB ,/pct gran'dad/NP ''/pct ./pct
+``/pct You've/PPSSHV not/NEG had/HVN your/PPg breakfast/NN yet/RB ,/pct gran'dad/NP ''/pct ./pct
 ``/pct Y'r/PPg dam'/JJ porridge/NN is/BEZ no/AT breakfast/NN ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct Milk/NN and/CC sops/NNS ''/pct !/pct !/pct
 He/PPS beat/VBD the/AT air/NN with/IN his/PPg stick/NN ,/pct and/CC it/PPS fell/VBD from/IN his/PPg claws/NNS and/CC clattered/VBD on/IN the/AT stones/NNS ./pct
-``/pct He's /None lowly/JJ today/NR ''/pct ,/pct his/PPg grand-daughter/NN said/VBD wearily/RB ,/pct and/CC bent/VBD to/TO pick/VB it/PPO up/RP ./pct
-``/pct He's /None got/VBN this/DT idea/NN about/IN drying/VBG out/RP ''/pct
-``/pct It/PPS ain't /None an/AT idea/NN ''/pct !/pct !/pct
-``/pct If/CS it/PPS ain't /None an/AT idea/NN ''/pct ,/pct she/PPS said/VBD ,/pct ``/pct how/WRB comes/VBZ it/PPO you/PPSS can/MD drink/VB beer/NN but/CC not/NEG water/NN ''/pct ?/pct ?/pct
-He/PPS looked/VBD piously/RB to/IN heaven/NN and/CC said/VBD ,/pct ``/pct Beer/NN don't /None affect/VB the/AT tissues/NNS none/PN ''/pct ,/pct and/CC the/AT ingenious/JJ hypocrisy/NN of/IN this/DT defense/NN pleased/VBD Henrietta/NP so/RB that/CS she/PPS forgave/VBD him/PPO his/PPg stint/NN of/IN malevolence/NN ./pct
+``/pct He's/PPSBEZ lowly/JJ today/NR ''/pct ,/pct his/PPg grand-daughter/NN said/VBD wearily/RB ,/pct and/CC bent/VBD to/TO pick/VB it/PPO up/RP ./pct
+``/pct He's/PPSHVZ got/VBN this/DT idea/NN about/IN drying/VBG out/RP ''/pct
+``/pct It/PPS ain't/BEZ* an/AT idea/NN ''/pct !/pct !/pct
+``/pct If/CS it/PPS ain't/BEZ* an/AT idea/NN ''/pct ,/pct she/PPS said/VBD ,/pct ``/pct how/WRB comes/VBZ it/PPO you/PPSS can/MD drink/VB beer/NN but/CC not/NEG water/NN ''/pct ?/pct ?/pct
+He/PPS looked/VBD piously/RB to/IN heaven/NN and/CC said/VBD ,/pct ``/pct Beer/NN don't/DO* affect/VB the/AT tissues/NNS none/PN ''/pct ,/pct and/CC the/AT ingenious/JJ hypocrisy/NN of/IN this/DT defense/NN pleased/VBD Henrietta/NP so/RB that/CS she/PPS forgave/VBD him/PPO his/PPg stint/NN of/IN malevolence/NN ./pct
 His/PPg grand-daughter/NN sighed/VBD ./pct
 ``/pct Come/VB on/RP ,/pct do/DO ./pct
-The/AT children/NNS are/BER eating/VBG ,/pct and/CC Miss/NP Blackwell's /None on/IN her/PPg way/NN somewheres/RB ''/pct ./pct
+The/AT children/NNS are/BER eating/VBG ,/pct and/CC Miss/NP Blackwell's/NPBEZ on/IN her/PPg way/NN somewheres/RB ''/pct ./pct
 ``/pct To/IN the/AT graveyard/NN ./pct
-Who/WPS ain't /None ''/pct ?/pct ?/pct
+Who/WPS ain't/HVZ* ''/pct ?/pct ?/pct
 ``/pct Not/NEG me/PPO ./pct
-I've /None got/VBN a/AT day's/NNg work/NN to/TO do/DO ./pct
---/pct You'll /None be/BE visiting/VBG Miss/NP Doaty/NP ,/pct Ma'am/NN ''/pct ?/pct ?/pct
+I've/PPSSHV got/VBN a/AT day's/NNg work/NN to/TO do/DO ./pct
+--/pct You'll/PPSSMD be/BE visiting/VBG Miss/NP Doaty/NP ,/pct Ma'am/NN ''/pct ?/pct ?/pct
 Henrietta/NP nodded/VBD ./pct
 How/WRB much/RB they/PPSS knew/VBD about/IN her/PPO !/pct !/pct
 The/AT woman/NN (/pct she/PPS must/MD have/HV been/BEN a/AT tiny/JJ baby/NN when/WRB Hetty/NP and/CC Delia/NP had/HVD stood/VBN arm/NN in/IN arm/NN ,/pct watching/VBG great/JJ age/NN grow/VB small/JJ )/pct answered/VBD the/AT nod/NN with/IN her/PPg own/JJ ./pct

@@ -16,7 +16,7 @@ One/CD day/NN he/PPS followed/VBD the/AT Irish/JJ Jasper/NP Greens/NPS ,/pct the
 The/AT disappearance/NN caused/VBD his/PPg family/NN to/TO assign/VB a/AT full-time/JJ maid/NN to/IN keeping/VBG an/AT eye/NN on/IN the/AT boy/NN ./pct
 But/CC one/CD afternoon/NN Mrs./NP Mercer/NP met/VBD her/PPO ;/pct ;/pct
 both/ABX were/BED obviously/RB on/IN the/AT way/NN to/IN the/AT Mercer/NP home/NN ./pct
-The/AT mother/NN inquired/VBD ,/pct ``/pct Where's /None Johnny/NP ,/pct and/CC why/WRB did/DOD you/PPO leave/VB him/PPO ''/pct ?/pct ?/pct
+The/AT mother/NN inquired/VBD ,/pct ``/pct Where's/WRBBEZ Johnny/NP ,/pct and/CC why/WRB did/DOD you/PPO leave/VB him/PPO ''/pct ?/pct ?/pct
 ``/pct There/EX was/BEDZ nothing/PN else/RB I/PPSS could/MD do/DO ''/pct ,/pct the/AT maid/NN answered/VBD ,/pct satisfied/VBN with/IN a/AT rather/QL vague/JJ explanation/NN ./pct
 But/CC Mrs./NP Mercer/NP demanded/VBD more/AP ./pct
 The/AT maid/NN then/RB told/VBD her/PPO ,/pct ``/pct Because/CS he/PPS fired/VBD me/PPO ''/pct ./pct
@@ -29,7 +29,7 @@ From/IN his/PPg playmates/NNS in/IN Savannah/NP ,/pct Mercer/NP had/HVD picked/V
 Such/JJ speech/NN differences/NNS made/VBD him/PPO acutely/QL aware/JJ of/IN the/AT richness/NN and/CC expressivness/NN of/IN language/NN ./pct
 During/IN the/AT summers/NNS ,/pct while/CS he/PPS was/BEDZ still/RB in/IN school/NN ,/pct Mercer/NP worked/VBD for/IN his/PPg father's/NNg firm/NN as/CS a/AT messenger/NN boy/NN ./pct
 It/PPS generally/RB took/VBD well/QL into/IN the/AT autumn/NN for/IN the/AT firm/NN to/TO recover/VB from/IN the/AT summer's/NNg help/NN ./pct
-``/pct We'd /None give/VB him/PPO things/NNS to/TO deliver/VB ,/pct letters/NNS ,/pct checks/NNS ,/pct deeds/NNS and/CC things/NNS like/CS that/DT ''/pct ,/pct remembers/VBZ his/PPg half-brother/NN Walter/NP ,/pct still/RB in/IN the/AT real/JJ estate/NN business/NN in/IN Savannah/NP ,/pct ``/pct and/CC learn/VB days/NNS later/RBR that/CS he'd /None absent-mindedly/RB stuffed/VBN them/PPO into/IN his/PPg pocket/NN ./pct
+``/pct We'd/PPSSMD give/VB him/PPO things/NNS to/TO deliver/VB ,/pct letters/NNS ,/pct checks/NNS ,/pct deeds/NNS and/CC things/NNS like/CS that/DT ''/pct ,/pct remembers/VBZ his/PPg half-brother/NN Walter/NP ,/pct still/RB in/IN the/AT real/JJ estate/NN business/NN in/IN Savannah/NP ,/pct ``/pct and/CC learn/VB days/NNS later/RBR that/CS he'd/PPSHVD absent-mindedly/RB stuffed/VBN them/PPO into/IN his/PPg pocket/NN ./pct
 There/RB they/PPSS stayed/VBD ''/pct ./pct
 This/DT rather/QL detached/VBN attitude/NN toward/IN life's/NNg encumbrances/NNS has/HVZ seemed/VBN to/TO be/BE the/AT dominant/JJ trait/NN in/IN Mercer's/NPg personality/NN ever/QL since/RB ./pct
 It/PPS is/BEZ ,/pct however/RB ,/pct a/AT disarming/VBG disguise/NN ,/pct or/CC perhaps/RB a/AT shield/NN ,/pct for/CS not/NEG only/RB has/HVZ Mercer/NP proved/VBN himself/PPL to/TO be/BE one/CD of/IN the/AT few/AP great/JJ lyricists/NNS over/IN the/AT years/NNS ,/pct but/CC also/RB one/CD who/WPS can/MD function/VB remarkably/RB under/IN pressure/NN ./pct
@@ -39,7 +39,7 @@ In/IN 1927/CD his/PPg father's/NNg business/NN collapsed/VBD ,/pct and/CC ,/pct 
 He/PPS died/VBD before/CS he/PPS could/MD completely/RB pay/VB off/RP his/PPg debts/NNS ./pct
 Some/DTI years/NNS later/RBR the/AT bank/NN handling/VBG the/AT Mercer/NP liquidation/NN received/VBD a/AT check/NN for/IN $300,000/NNS ,/pct enough/AP to/TO clear/VB up/RP the/AT debt/NN ./pct
 The/AT check/NN had/HVD been/BEN mailed/VBN from/IN Chicago/NP ,/pct the/AT envelope/NN bore/VBD no/AT return/NN address/NN ,/pct and/CC the/AT check/NN was/BEDZ not/NEG signed/VBN ./pct
-``/pct That's /None Johnny/NP ''/pct ,/pct sighed/VBD the/AT bank/NN president/NN ,/pct ``/pct the/AT best-hearted/JJT boy/NN in/IN the/AT world/NN ,/pct but/CC absent-minded/JJ ''/pct ./pct
+``/pct That's/DTBEZ Johnny/NP ''/pct ,/pct sighed/VBD the/AT bank/NN president/NN ,/pct ``/pct the/AT best-hearted/JJT boy/NN in/IN the/AT world/NN ,/pct but/CC absent-minded/JJ ''/pct ./pct
 But/CC Mercer's/NPg explanation/NN was/BEDZ simple/JJ :/pct ``/pct I/PPSS made/VBD out/RP the/AT check/NN and/CC carried/VBD it/PPO around/RB a/AT few/AP days/NNS unsigned/JJ --/pct in/IN case/NN I/PPSS lost/VBD it/PPO ''/pct ./pct
 When/WRB he/PPS remembered/VBD that/CS he/PPS might/MD have/HV not/NEG signed/VBN the/AT check/NN ,/pct Mercer/NP made/VBD out/RP another/DT for/IN the/AT same/AP amount/NN ,/pct instructing/VBG the/AT bank/NN to/TO destroy/VB the/AT other/AP --/pct especially/RB if/CS he/PPS had/HVD happened/VBN to/TO have/HV absent-mindedly/RB signed/VBN both/ABX of/IN them/PPO ./pct
 When/WRB the/AT family/NN business/NN failed/VBD ,/pct Mercer/NP left/VBD school/NN and/CC on/IN his/PPg mother's/NNg urging/VBG --/pct for/CS she/PPS hoped/VBD that/CS he/PPS would/MD become/VB an/AT actor/NN --/pct he/PPS joined/VBD a/AT local/JJ little/JJ theater/NN group/NN ./pct
@@ -47,7 +47,7 @@ When/WRB the/AT troupe/NN traveled/VBD to/IN New/JJ York/NP to/TO participate/VB
 He/PPS had/HVD talked/VBN one/CD other/AP member/NN of/IN the/AT group/NN to/TO stay/VB with/IN him/PPO ,/pct but/CC that/DT friend/NN had/HVD tired/VBN of/IN not/NEG eating/VBG regularly/RB and/CC returned/VBD to/IN Savannah/NP ./pct
 But/CC Mercer/NP hung/VBD on/RP ,/pct living/VBG ,/pct after/IN a/AT fashion/NN ,/pct in/IN a/AT Greenwich/NP Village/NN fourth-flight/NN walk-up/NN ./pct
 ``/pct The/AT place/NN had/HVD no/AT sink/NN or/CC washbasin/NN ,/pct only/RB a/AT bathtub/NN ''/pct ,/pct his/PPg mother/NN discovered/VBD when/WRB she/PPS visited/VBD him/PPO ./pct
-``/pct Johnny/NP insisted/VBD on/IN cooking/VBG a/AT chicken/NN dinner/NN in/IN my/PPg honor/NN --/pct he's /None always/RB been/BEN a/AT good/JJ cook/NN --/pct and/CC I'll /None never/RB forget/VB him/PPO cleaning/VBG the/AT chicken/NN in/IN the/AT tub/NN ''/pct ./pct
+``/pct Johnny/NP insisted/VBD on/IN cooking/VBG a/AT chicken/NN dinner/NN in/IN my/PPg honor/NN --/pct he's/PPSHVZ always/RB been/BEN a/AT good/JJ cook/NN --/pct and/CC I'll/PPSSMD never/RB forget/VB him/PPO cleaning/VBG the/AT chicken/NN in/IN the/AT tub/NN ''/pct ./pct
 A/AT story/NN ,/pct no/AT doubt/NN apocryphal/JJ ,/pct for/CS Mercer/NP himself/PPL denies/VBZ it/PPO ,/pct has/HVZ him/PPO sporting/VBG a/AT monacle/NN in/IN those/DTS Village/NN days/NNS ./pct
 Though/CS merely/RB clear/JJ glass/NN ,/pct it/PPS was/BEDZ a/AT distinctive/JJ trade/NN mark/NN for/IN an/AT aspiring/VBG actor/NN who/WPS hoped/VBD to/TO imprint/VB himself/PPL upon/IN the/AT memories/NNS of/IN producers/NNS ./pct
 One/CD day/NN in/IN a/AT bar/NN ,/pct so/RB the/AT legend/NN goes/VBZ ,/pct someone/PN put/VBD a/AT beer/NN stein/NN with/IN too/QL much/AP force/NN on/IN the/AT monacle/NN and/CC broke/VBD it/PPO ./pct
@@ -59,7 +59,7 @@ For/IN him/PPO Mercer/NP produced/VBD the/AT lyric/NN to/IN ``/pct Out/RB Of/IN 
 This/DT 1930/CD edition/NN also/RB had/HVD songs/NNS in/IN it/PPO by/IN Vernon/NP Duke/NP and/CC Ira/NP Gershwin/NP ,/pct by/IN E./NP Y./NP Harburg/NP and/CC Duke/NP ,/pct and/CC by/IN Harry/NP Myers/NP ./pct
 Entrance/NN into/IN such/JJ stellar/JJ song/NN writing/VBG company/NN encouraged/VBD the/AT burgeoning/VBG song/NN writer/NN to/TO take/VB a/AT wife/NN ,/pct Elizabeth/NP Meehan/NP ,/pct a/AT dancer/NN in/IN the/AT Gaieties/NNS ./pct
 The/AT Mercers/NPS took/VBD up/RP residence/NN in/IN Brooklyn/NP ,/pct and/CC Mercer/NP found/VBD a/AT regular/JJ job/NN in/IN Wall/NN Street/NN ``/pct misplacing/VBG stocks/NNS and/CC bonds/NNS ''/pct ./pct
-When/WRB he/PPS heard/VBD that/CS Paul/NP Whiteman/NP was/BEDZ looking/VBG for/IN singers/NNS to/TO replace/VB the/AT Rhythm/NN Boys/NNS ,/pct Mercer/NP applied/VBD and/CC got/VBD the/AT job/NN ,/pct ``/pct not/NEG for/IN my/PPg voice/NN ,/pct I'm /None sure/JJ ,/pct but/CC because/CS I/PPSS could/MD write/VB songs/NNS and/CC material/NN generally/RB ''/pct ./pct
+When/WRB he/PPS heard/VBD that/CS Paul/NP Whiteman/NP was/BEDZ looking/VBG for/IN singers/NNS to/TO replace/VB the/AT Rhythm/NN Boys/NNS ,/pct Mercer/NP applied/VBD and/CC got/VBD the/AT job/NN ,/pct ``/pct not/NEG for/IN my/PPg voice/NN ,/pct I'm/PPSSBEM sure/JJ ,/pct but/CC because/CS I/PPSS could/MD write/VB songs/NNS and/CC material/NN generally/RB ''/pct ./pct
 While/CS with/IN the/AT Whiteman/NP band/NN Mercer/NP met/VBD Jerry/NP Arlen/NP ./pct
 He/PPS had/HVD yet/RB to/TO meet/VB Harold/NP Arlen/NP ,/pct for/CS although/CS they/PPSS had/HVD ``/pct collaborated/VBN ''/pct on/IN ``/pct Satan's/NPg Li'l/JJ Lamb/NN ''/pct ,/pct Mercer/NP and/CC Harburg/NP had/HVD worked/VBN from/IN a/AT lead/NN sheet/NN the/AT composer/NN had/HVD furnished/VBN them/PPO ./pct
 The/AT lyric/NN ,/pct Mercer/NP remembers/VBZ ,/pct was/BEDZ tailored/VBN to/TO fit/VB the/AT unusual/JJ melody/NN ./pct
@@ -78,22 +78,22 @@ Though/CS versatile/JJ and/CC capable/JJ of/IN turning/VBG out/RP a/AT ballad/NN
 His/PPg casual/JJ ,/pct dreamlike/JJ working/VBG methods/NNS ,/pct often/RB as/CS not/NEG in/IN absentia/NN ,/pct were/BED an/AT abrupt/JJ change/NN from/IN Harburg's/NPg ,/pct so/CS that/CS Arlen/NP had/HVD to/TO adjust/VB again/RB to/IN another/DT approach/NN to/IN collaboration/NN ./pct
 There/EX were/BED times/NNS that/CS he/PPS worked/VBD with/IN both/ABX lyricists/NNS simultaneously/RB ./pct
 Speaking/VBG of/IN his/PPg work/NN with/IN Johnny/NP Mercer/NP ,/pct Arlen/NP says/VBZ ,/pct ``/pct Our/PPg working/VBG habits/NNS were/BED strange/JJ ./pct
-After/CS we/PPSS got/VBD a/AT script/NN and/CC the/AT spots/NNS for/IN the/AT songs/NNS were/BED blocked/VBN out/RP ,/pct we'd /None get/VB together/RB for/IN an/AT hour/NN or/CC so/CS every/AT day/NN ./pct
-While/CS Johnny/NP made/VBD himself/PPL comfortable/JJ on/IN the/AT couch/NN ,/pct I'd /None play/VB the/AT tunes/NNS for/IN him/PPO ./pct
+After/CS we/PPSS got/VBD a/AT script/NN and/CC the/AT spots/NNS for/IN the/AT songs/NNS were/BED blocked/VBN out/RP ,/pct we'd/PPSSMD get/VB together/RB for/IN an/AT hour/NN or/CC so/CS every/AT day/NN ./pct
+While/CS Johnny/NP made/VBD himself/PPL comfortable/JJ on/IN the/AT couch/NN ,/pct I'd/PPSSMD play/VB the/AT tunes/NNS for/IN him/PPO ./pct
 He/PPS has/HVZ a/AT wonderfully/QL retentive/JJ memory/NN ./pct
-After/CS I/PPSS would/MD finish/VB playing/VBG the/AT songs/NNS ,/pct he'd /None just/RB go/VB away/RB without/IN a/AT comment/NN ./pct
-I/PPSS wouldn't /None hear/VB from/IN him/PPO for/IN a/AT couple/NN of/IN weeks/NNS ,/pct then/RB he'd /None come/VB around/RB with/IN the/AT completed/VBN lyric/NN ''/pct ./pct
+After/CS I/PPSS would/MD finish/VB playing/VBG the/AT songs/NNS ,/pct he'd/PPSMD just/RB go/VB away/RB without/IN a/AT comment/NN ./pct
+I/PPSS wouldn't/MD* hear/VB from/IN him/PPO for/IN a/AT couple/NN of/IN weeks/NNS ,/pct then/RB he'd/PPSMD come/VB around/RB with/IN the/AT completed/VBN lyric/NN ''/pct ./pct
 Arlen/NP is/BEZ one/CD of/IN the/AT few/AP (/pct possibly/RB the/AT only/AP )/pct composer/NN Mercer/NP has/HVZ been/BEN able/JJ to/TO work/VB with/IN so/QL closely/RB ,/pct for/CS they/PPSS held/VBD their/PPg meetings/NNS in/IN Arlen's/NPg study/NN ./pct
 ``/pct Some/DTI guys/NNS bothered/VBD me/PPO ''/pct ,/pct Mercer/NP has/HVZ said/VBN ./pct
-``/pct I/PPSS couldn't /None write/VB with/IN them/PPO in/IN the/AT same/AP room/NN with/IN me/PPO ,/pct but/CC I/PPSS could/MD with/IN Harold/NP ./pct
+``/pct I/PPSS couldn't/MD* write/VB with/IN them/PPO in/IN the/AT same/AP room/NN with/IN me/PPO ,/pct but/CC I/PPSS could/MD with/IN Harold/NP ./pct
 He/PPS is/BEZ probably/RB our/PPg most/QL original/JJ composer/NN ;/pct ;/pct
 he/PPS often/RB uses/VBZ very/QL odd/JJ rhythms/NNS ,/pct which/WDT makes/VBZ it/PPO difficult/JJ ,/pct and/CC challenging/JJ ,/pct for/IN the/AT lyric/NN writer/NN ''/pct ./pct
 While/CS Arlen/NP and/CC Mercer/NP collaborated/VBD on/IN Hot/JJ Nocturne/NN ,/pct Mercer/NP worked/VBD also/RB with/IN Arthur/NP Schwartz/NP on/IN another/DT film/NN ,/pct Navy/NN Blues/NNS ./pct
 Arlen/NP ,/pct too/RB ,/pct worked/VBD on/IN other/AP projects/NNS at/IN the/AT same/AP time/NN with/IN old/JJ friend/NN Ted/NP Koehler/NP ./pct
 Besides/IN doing/VBG a/AT single/AP song/NN ,/pct ``/pct When/WRB The/AT Sun/NN Comes/VBZ Out/RB ''/pct ,/pct they/PPSS worked/VBD on/IN the/AT ambitious/JJ American-Negro/NP Suite/NN ,/pct for/IN voices/NNS and/CC piano/NN ,/pct as/QL well/RB as/CS songs/NNS for/IN films/NNS ./pct
 The/AT American-Negro/NP Suite/NN is/BEZ in/IN a/AT sense/NN an/AT extension/NN of/IN the/AT Cotton/NN Club/NN songs/NNS in/IN that/DT it/PPS is/BEZ a/AT collection/NN of/IN Negro/NP songs/NNS ,/pct not/NEG for/IN a/AT night/NN club/NN ,/pct but/CC for/IN the/AT concert/NN stage/NN ./pct
-The/AT work/NN had/HVD its/PPg beginning/NN in/IN 1938/CD with/IN an/AT eight-bar/JJ musical/JJ strain/NN to/IN which/WDT Koehler/NP set/VBD the/AT words/NNS ``/pct There'll /None be/BE no/QL more/AP work/NN ;/pct ;/pct
-there'll /None be/BE no/QL more/AP worry/NN ''/pct ,/pct matching/VBG the/AT spiritual/JJ feeling/NN of/IN the/AT jot/NN ./pct
+The/AT work/NN had/HVD its/PPg beginning/NN in/IN 1938/CD with/IN an/AT eight-bar/JJ musical/JJ strain/NN to/IN which/WDT Koehler/NP set/VBD the/AT words/NNS ``/pct There'll/EXMD be/BE no/QL more/AP work/NN ;/pct ;/pct
+there'll/EXMD be/BE no/QL more/AP worry/NN ''/pct ,/pct matching/VBG the/AT spiritual/JJ feeling/NN of/IN the/AT jot/NN ./pct
 This/DT grew/VBD into/IN the/AT song/NN ``/pct Big/JJ Time/NN Comin'/VBG ''/pct ./pct
 By/IN September/NP 1940/CD the/AT Suite/NN had/HVD developed/VBN into/IN a/AT collection/NN of/IN six/CD songs/NNS ,/pct ``/pct four/CD spirituals/NNS ,/pct a/AT dream/NN ,/pct and/CC a/AT lullaby/NN ''/pct ./pct
 The/AT Negro/NP composer/NN Hall/NP Johnson/NP studied/VBD the/AT American-Negro/NP Suite/NN and/CC said/VBD of/IN it/PPO ,/pct ``/pct Of/IN all/ABN the/AT many/AP songs/NNS written/VBN by/IN white/JJ composers/NNS and/CC employing/VBG what/WDT claims/VBZ to/TO be/BE a/AT Negroid/JJ idiom/NN in/IN both/ABX words/NNS and/CC music/NN ,/pct these/DTS six/CD songs/NNS by/IN Harold/NP Arlen/NP and/CC Ted/NP Koehler/NP easily/RB stand/VB far/QL out/RP above/IN the/AT rest/NN ./pct

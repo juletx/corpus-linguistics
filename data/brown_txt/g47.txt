@@ -22,11 +22,11 @@ I/PPSS ask/VB you/PPO all/ABN to/TO support/VB me/PPO in/IN this/DT ./pct
 If/CS one/CD finger/NN is/BEZ raised/VBN against/IN the/AT authorities/NNS ,/pct all/ABN our/PPg moral/JJ power/NN will/MD vanish/VB ./pct
 Your/PPg self-control/NN in/IN this/DT respect/NN will/MD be/BE the/AT only/AP witness/NN to/IN your/PPg understanding/NN of/IN what/WDT I/PPSS am/BEM saying/VBG ./pct
 I/PPSS have/HV full/JJ confidence/NN in/IN you/PPO ./pct
-Now/RB ,/pct let's /None go/VB ''/pct ./pct
+Now/RB ,/pct let's/VBPPO go/VB ''/pct ./pct
 I/PPSS marched/VBD up/RP to/IN the/AT waiting/VBG officials/NNS ,/pct the/AT students/NNS massed/VBD behind/IN me/PPO ./pct
 As/CS usual/JJ ,/pct the/AT press/NN photographers/NNS were/BED on/IN hand/NN ./pct
 The/AT waspish/JJ man/NN stopped/VBD me/PPO three/CD paces/NNS from/IN the/AT bicycle/NN barricade/NN ,/pct and/CC asked/VBD me/PPO in/IN French/NP if/CS I/PPSS had/HVD papers/NNS to/TO leave/VB France/NP ./pct
-I/PPSS replied/VBD in/IN the/AT affirmative/JJ ,/pct taking/VBG out/RP my/PPg recently/RB acquired/VBN titre/NN d'identite /None et/CC de/IN voyage/NN ,/pct on/IN which/WDT was/BEDZ stamped/VBN a/AT permission/NN to/TO leave/VB France/NP ./pct
+I/PPSS replied/VBD in/IN the/AT affirmative/JJ ,/pct taking/VBG out/RP my/PPg recently/RB acquired/VBN titre/NN d'identite/INNN et/CC de/IN voyage/NN ,/pct on/IN which/WDT was/BEDZ stamped/VBN a/AT permission/NN to/TO leave/VB France/NP ./pct
 He/PPS examined/VBD it/PPO carefully/RB ,/pct handed/VBD it/PPO back/RB and/CC said/VBD ,/pct ``/pct Eh/UH bien/UH ,/pct you/PPSS may/MD leave/VB France/NP ''/pct ./pct
 I/PPSS took/VBD one/CD step/NN eastward/RB ./pct
 One/CD of/IN the/AT uniformed/JJ officers/NNS stepped/VBD in/IN my/PPg way/NN ,/pct demanding/VBG to/TO know/VB whether/CS I/PPSS had/HVD permission/NN to/TO enter/VB Germany/NP ./pct
@@ -49,8 +49,8 @@ I/PPSS asked/VBD ./pct
 You/PPSS have/HV just/RB given/VBN me/PPO permission/NN to/TO leave/VB France/NP ,/pct which/WDT I/PPSS did/DOD ./pct
 I/PPSS have/HV witnesses/NNS ./pct
 And/CC as/CS you/PPSS know/VB ,/pct I/PPSS have/HV no/AT permission/NN to/TO re-enter/VB France/NP once/RB out/RP ./pct
-Now/RB I/PPSS learn/VB I/PPSS cannot /None enter/VB Germany/NP ./pct
-Obviously/RB I'm /None stuck/VBN on/IN the/AT line/NN between/IN the/AT two/CD countries/NNS ''/pct ./pct
+Now/RB I/PPSS learn/VB I/PPSS cannot/MD* enter/VB Germany/NP ./pct
+Obviously/RB I'm/PPSSBEM stuck/VBN on/IN the/AT line/NN between/IN the/AT two/CD countries/NNS ''/pct ./pct
 The/AT students/NNS were/BED laughing/VBG uproariously/RB at/IN this/DT piece/NN of/IN logic/NN ,/pct and/CC even/RB the/AT policemen/NNS were/BED trying/VBG hard/RB not/NEG to/TO smile/VB ./pct
 ``/pct Mais/CC non/RB ''/pct ,/pct the/AT Interior/NN Ministry/NN man/NN coaxed/VBD ,/pct ``/pct you/PPSS may/MD come/VB back/RB to/IN Strasbourg/NP ,/pct now/RB ,/pct if/CS you/PPSS wish/VB ''/pct ./pct
 ``/pct Oh/UH ?/pct ?/pct
@@ -60,7 +60,7 @@ But/CC there/EX is/BEZ no/AT question/NN of/IN a/AT visa/NN ./pct
 You/PPSS are/BER still/RB in/IN France/NP ''/pct ./pct
 ``/pct Ah/UH ,/pct then/RB please/VB tell/VB me/PPO where/WRB the/AT frontier/NN is/BEZ because/CS this/DT gentleman/NN here/RB ''/pct --/pct I/PPSS indicated/VBD the/AT French/JJ occupation/NN officer/NN --/pct ``/pct informs/VBZ me/PPO that/CS Germany/NP is/BEZ just/QL on/IN the/AT other/AP side/NN of/IN him/PPO ''/pct ./pct
 The/AT Interior/NN man/NN looked/VBD uneasily/RB at/IN his/PPg French/JJ compatriot/NN ./pct
-From/IN the/AT crowd/NN were/BED coming/VBG cries/NNS of/IN ``/pct He's /None right/JJ ''/pct !/pct !/pct
+From/IN the/AT crowd/NN were/BED coming/VBG cries/NNS of/IN ``/pct He's/PPSBEZ right/JJ ''/pct !/pct !/pct
 ``/pct There/EX must/MD be/BE a/AT line/NN ''/pct !/pct !/pct
 And/CC ``/pct Bravo/UH ,/pct Garry/NP ,/pct continue/VB ''/pct !/pct !/pct
 Seeing/VBG their/PPg hesitation/NN ,/pct I/PPSS said/VBD ,/pct ``/pct Well/UH ,/pct until/CS I/PPSS have/HV permission/NN to/TO enter/VB Germany/NP ,/pct or/CC a/AT visa/NN to/TO re-enter/VB France/NP ,/pct I/PPSS shall/MD be/BE obliged/VBN to/TO remain/VB here/RB on/IN the/AT line/NN between/IN two/CD countries/NNS ''/pct ,/pct whereupon/CS I/PPSS moved/VBD to/IN the/AT side/NN of/IN the/AT road/NN ,/pct parked/VBD my/PPg backpack/NN against/IN the/AT small/JJ guardhouse/NN on/IN the/AT sidewalk/NN ,/pct sat/VBD down/RP ,/pct took/VBD out/RP my/PPg typewriter/NN ,/pct and/CC began/VBD typing/VBG the/AT above/JJ conversation/NN ./pct
@@ -70,17 +70,17 @@ The/AT students/NNS crowded/VBD around/RB asking/VBG questions/NNS ,/pct slappin
 ``/pct But/CC what/WDT will/MD you/PPSS do/DO this/DT evening/NN ,/pct Mr./NP Davis/NP ''/pct ?/pct ?/pct
 Asked/VBD a/AT young/JJ mustached/JJ Frenchman/NP ./pct
 ``/pct It/PPS will/MD be/BE very/QL cold/JJ ''/pct ./pct
-``/pct I/PPSS don't /None know/VB ''/pct ,/pct I/PPSS told/VBD him/PPO ,/pct ``/pct except/IN that/CS I/PPSS will/MD be/BE here/RB ''/pct ./pct
+``/pct I/PPSS don't/DO* know/VB ''/pct ,/pct I/PPSS told/VBD him/PPO ,/pct ``/pct except/IN that/CS I/PPSS will/MD be/BE here/RB ''/pct ./pct
 ``/pct I/PPSS shall/MD see/VB about/IN getting/VBG you/PPO a/AT tent/NN ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct I/PPSS have/HV a/AT small/JJ sports/NNS shop/NN in/IN Strasbourg/NP ''/pct ./pct
 That/DT would/MD be/BE a/AT great/JJ help/NN ,/pct I/PPSS told/VBD him/PPO ,/pct thanking/VBG him/PPO for/IN his/PPg thoughtfulness/NN ./pct
-A/AT special/JJ guard/NN was/BEDZ posted/VBN at/IN my/PPg end/NN of/IN the/AT bridge/NN to/TO make/VB sure/JJ I/PPSS didn't /None cross/VB ,/pct the/AT ludicrousness/NN of/IN the/AT situation/NN being/BEG revealed/VBN fully/RB in/IN that/DT everyone/PN else/RB --/pct men/NNS ,/pct women/NNS ,/pct and/CC children/NNS ,/pct dogs/NNS ,/pct cats/NNS ,/pct horses/NNS ,/pct cars/NNS ,/pct trucks/NNS ,/pct baby/NN carriages/NNS --/pct could/MD cross/VB Kehl/NP bridge/NN into/IN Kehl/NP without/IN surveillance/NN ./pct
+A/AT special/JJ guard/NN was/BEDZ posted/VBN at/IN my/PPg end/NN of/IN the/AT bridge/NN to/TO make/VB sure/JJ I/PPSS didn't/DOD* cross/VB ,/pct the/AT ludicrousness/NN of/IN the/AT situation/NN being/BEG revealed/VBN fully/RB in/IN that/DT everyone/PN else/RB --/pct men/NNS ,/pct women/NNS ,/pct and/CC children/NNS ,/pct dogs/NNS ,/pct cats/NNS ,/pct horses/NNS ,/pct cars/NNS ,/pct trucks/NNS ,/pct baby/NN carriages/NNS --/pct could/MD cross/VB Kehl/NP bridge/NN into/IN Kehl/NP without/IN surveillance/NN ./pct
 The/AT day/NN passed/VBD eventfully/RB enough/QLP ,/pct with/IN a/AT constant/JJ stream/NN of/IN visitors/NNS ,/pct some/DTI stopping/VBG only/RB to/TO say/VB hello/UH ,/pct others/NNS getting/VBG into/IN serious/JJ conversations/NNS ,/pct such/JJ as/CS one/CD Andre/NP Fuchs/NP ,/pct a/AT free-lance/NN journalist/NN from/IN Strasbourg/NP who/WPS wrote/VBD an/AT article/NN for/IN the/AT Nouvelle/JJ Alsatian/JJ in/IN highly/QL sympathetic/JJ terms/NNS ./pct
 Some/DTI students/NNS from/IN the/AT University/NN returned/VBD around/RB six/CD with/IN a/AT large/JJ pot/NN containing/VBG enough/AP hot/JJ soup/NN to/TO last/VB me/PPO a/AT week/NN ./pct
 A/AT volunteer/NN food/NN brigade/NN had/HVD been/BEN arranged/VBN ,/pct they/PPSS told/VBD me/PPO ,/pct which/WDT would/MD supply/VB me/PPO with/IN the/AT necessities/NNS as/QL long/RB as/CS I/PPSS remained/VBD at/IN the/AT bridge/NN ./pct
 A/AT little/JJ later/RBR ,/pct the/AT sports/NNS shop/NN man/NN returned/VBD with/IN a/AT small/JJ pup/NN tent/NN ./pct
 One/CD of/IN the/AT girl/NN students/NNS ,/pct sitting/VBG by/RB while/CS I/PPSS ate/VBD the/AT thick/JJ soup/NN ,/pct asked/VBD me/PPO if/CS I/PPSS had/HVD a/AT sleeping/VBG bag/NN ./pct
-When/WRB I/PPSS informed/VBD her/PPO that/CS I/PPSS didn't /None ,/pct she/PPS said/VBD she/PPS would/MD borrow/VB her/PPg brother's/NNg and/CC bring/VB it/PPO to/IN me/PPO later/RBR that/DT evening/NN ./pct
+When/WRB I/PPSS informed/VBD her/PPO that/CS I/PPSS didn't/DOD* ,/pct she/PPS said/VBD she/PPS would/MD borrow/VB her/PPg brother's/NNg and/CC bring/VB it/PPO to/IN me/PPO later/RBR that/DT evening/NN ./pct
 ``/pct You/PPSS do/DO not/NEG know/VB me/PPO ''/pct ,/pct she/PPS said/VBD in/IN good/JJ English/NP ,/pct ``/pct but/CC my/PPg mother/NN was/BEDZ your/PPg governess/NN in/IN Philadelphia/NP when/WRB you/PPSS were/BED a/AT child/NN ''/pct ./pct
 Her/PPg name/NN was/BEDZ Esther/NP Peter/NP ./pct
 I/PPSS was/BEDZ delighted/VBN to/TO make/VB that/DT personal/JJ contact/NN in/IN such/JJ trying/JJ and/CC unusual/JJ circumstances/NNS ./pct
@@ -100,23 +100,23 @@ Twenty/CD thousand/CD world/NN citizens/NNS at/IN Stuttgart/NP had/HVD signed/VB
 When/WRB Dr./NN Adenauer/NP was/BEDZ approached/VBN by/IN a/AT world/NN citizen/NN delegation/NN to/TO find/VB out/RP his/PPg disposition/NN of/IN my/PPg case/NN ,/pct he/PPS gave/VBD them/PPO his/PPg personal/JJ approval/NN of/IN my/PPg entry/NN ,/pct saying/VBG that/CS all/ABN men/NNS advocating/VBG peace/NN should/MD be/BE welcomed/VBN into/IN Germany/NP ./pct
 The/AT special/JJ guard/NN ,/pct however/RB ,/pct was/BEDZ still/RB posted/VBN on/IN Kehl/NP bridge/NN ./pct
 As/CS it/PPS began/VBD raining/VBG at/IN around/RB eight/CD o'clock/RB on/IN December/NP 26th/OD ,/pct I/PPSS retired/VBD into/IN my/PPg tent/NN early/RB ,/pct somewhat/QL tired/VBN and/CC discouraged/VBN ,/pct my/PPg body/NN reacting/VBG sluggishly/RB because/RB of/IN the/AT continued/VBN exposure/NN ./pct
-No/AT matter/NN how/WQL large/JJ the/AT fire/NN ,/pct I/PPSS couldn't /None seem/VB to/TO shake/VB off/RP the/AT chill/NN that/DT day/NN ./pct
+No/AT matter/NN how/WQL large/JJ the/AT fire/NN ,/pct I/PPSS couldn't/MD* seem/VB to/TO shake/VB off/RP the/AT chill/NN that/DT day/NN ./pct
 ``/pct Oh/UH ,/pct Mr./NP Davis/NP ,/pct are/BER you/PPSS there/RB ''/pct ?/pct ?/pct
 A/AT voice/NN drifted/VBD in/RP to/IN me/PPO above/IN the/AT patter/NN of/IN the/AT rain/NN shortly/RB after/CS I/PPSS had/HVD fallen/VBN into/IN a/AT fitful/JJ sleep/NN ./pct
 ``/pct Who/WPS is/BEZ it/PPS ''/pct ?/pct ?/pct
-``/pct We're /None from/IN the/AT Council/NN of/IN Europe/NP ,/pct British/JJ delegation/NN ./pct
+``/pct We're/PPSSBER from/IN the/AT Council/NN of/IN Europe/NP ,/pct British/JJ delegation/NN ./pct
 May/MD we/PPSS have/HV a/AT word/NN with/IN you/PPO ''/pct ?/pct ?/pct
-``/pct I'm /None sorry/JJ ./pct
-I've /None had/HVN a/AT trying/JJ day/NN and/CC I/PPSS just/RB can't /None make/VB it/PPO out/RP again/RB ''/pct ,/pct I/PPSS told/VBD them/PPO ./pct
+``/pct I'm/PPSSBEM sorry/JJ ./pct
+I've/PPSSHV had/HVN a/AT trying/JJ day/NN and/CC I/PPSS just/RB can't/MD* make/VB it/PPO out/RP again/RB ''/pct ,/pct I/PPSS told/VBD them/PPO ./pct
 I/PPSS heard/VBD nothing/PN more/AP ./pct
 Later/RBR I/PPSS learned/VBD that/CS Sir/NP Hugh/NP Dalton/NP had/HVD expressed/VBN a/AT desire/NN to/TO see/VB me/PPO ,/pct hence/RB their/PPg trip/NN to/IN ``/pct No/AT Man's/NNg Land/NN ''/pct ./pct
 On/IN the/AT evening/NN of/IN December/NP 27th/OD ,/pct Esther/NP noticed/VBD my/PPg pallid/JJ look/NN and/CC rasping/VBG voice/NN ./pct
 She/PPS entreated/VBD me/PPO to/TO see/VB a/AT doctor/NN ,/pct and/CC when/WRB I/PPSS refused/VBD ,/pct brought/VBD one/CD out/RP to/TO see/VB me/PPO ./pct
 He/PPS advised/VBD immediate/JJ hospitalization/NN ./pct
-I/PPSS wouldn't /None hear/VB of/IN it/PPO because/CS it/PPS meant/VBD giving/VBG up/RP the/AT ``/pct line/NN ''/pct ,/pct though/CS I/PPSS realized/VBD I/PPSS was/BEDZ in/IN poor/JJ shape/NN physically/RB ./pct
+I/PPSS wouldn't/MD* hear/VB of/IN it/PPO because/CS it/PPS meant/VBD giving/VBG up/RP the/AT ``/pct line/NN ''/pct ,/pct though/CS I/PPSS realized/VBD I/PPSS was/BEDZ in/IN poor/JJ shape/NN physically/RB ./pct
 Esther/NP ,/pct mistaking/VBG my/PPg hesitation/NN ,/pct assured/VBD me/PPO that/CS the/AT hospital/NN expense/NN would/MD be/BE taken/VBN care/NN of/IN by/IN a/AT leading/VBG merchant/NN in/IN Strasbourg/NP whom/WPO she/PPS had/HVD already/RB approached/VBN ./pct
-``/pct No/RB ,/pct it's /None not/NEG that/DT ''/pct ,/pct I/PPSS told/VBD her/PPO ./pct
-``/pct You/PPSS see/VB ,/pct once/CS I/PPSS relinquish/VB the/AT position/NN I've /None already/RB established/VBN here/RB ,/pct I/PPSS couldn't /None regain/VB it/PPO without/IN sacrificing/VBG the/AT logic/NN of/IN it/PPO ''/pct ./pct
+``/pct No/RB ,/pct it's/PPSBEZ not/NEG that/DT ''/pct ,/pct I/PPSS told/VBD her/PPO ./pct
+``/pct You/PPSS see/VB ,/pct once/CS I/PPSS relinquish/VB the/AT position/NN I've/PPSSHV already/RB established/VBN here/RB ,/pct I/PPSS couldn't/MD* regain/VB it/PPO without/IN sacrificing/VBG the/AT logic/NN of/IN it/PPO ''/pct ./pct
 At/IN that/DT moment/NN ,/pct up/RP walked/VBD a/AT tall/JJ young/JJ man/NN with/IN glasses/NNS who/WPS announced/VBD himself/PPL as/CS a/AT world/NN citizen/NN from/IN Basel/NP ,/pct Switzerland/NP ./pct
 Without/IN preliminaries/NNS ,/pct Esther/NP asked/VBD him/PPO ,/pct ``/pct If/CS you/PPSS are/BER a/AT world/NN citizen/NN ,/pct will/MD you/PPSS take/VB Garry/NP Davis'/NPg place/NN in/IN his/PPg tent/NN while/CS he/PPS goes/VBZ to/IN the/AT hospital/NN ''/pct ?/pct ?/pct
 ``/pct But/CC of/IN course/NN ,/pct with/IN pleasure/NN ''/pct ,/pct he/PPS replied/VBD ./pct

@@ -25,7 +25,7 @@ Nevertheless/RB ,/pct it/PPS will/MD seem/VB funny/JJ to/TO have/HV to/TO send/V
 Rembrandt's/NPg ``/pct Aristotle/NP Contemplating/VBG Bust/NN of/IN Homer/NP ''/pct brought/VBD $2,300,000/NNS at/IN auction/NN the/AT other/AP night/NN ./pct
 Both/ABX Aristotle/NP and/CC Homer/NP may/MD in/IN spirit/NN be/BE contemplating/VBG ``/pct bust/NN ''/pct of/IN the/AT old-fashioned/JJ American/JJ dollar/NN ./pct
 The/AT owner/NN of/IN the/AT painting/NN got/VBD it/PPO for/IN $750,000/NNS ,/pct sold/VBD it/PPO for/IN $500,000/NNS in/IN a/AT market/NN crash/NN ,/pct and/CC bought/VBD it/PPO back/RB for/IN $590,000/NNS ./pct
-Apologies/NNS are/BER in/IN order/NN from/IN anybody/PN who/WPS said/VBD ,/pct ``/pct Are/BER you/PPSS sure/JJ you're /None not/NEG making/VBG a/AT mistake/NN ''/pct ?/pct ?/pct
+Apologies/NNS are/BER in/IN order/NN from/IN anybody/PN who/WPS said/VBD ,/pct ``/pct Are/BER you/PPSS sure/JJ you're/PPSSBER not/NEG making/VBG a/AT mistake/NN ''/pct ?/pct ?/pct
 ``/pct Wagon/NN Train/NN ''/pct is/BEZ reported/VBN the/AT No./NN 1/CD TV/NN show/NN ./pct
 After/IN all/ABN ,/pct where/WRB else/RB can/MD the/AT public/NN see/VB a/AT wagon/NN these/DTS days/NNS ?/pct ?/pct
 Lucius/NP Beebe's/NPg book/NN ,/pct ``/pct Mr./NP Pullman's/NPg Elegant/JJ Palace/NN Car/NN ''/pct ,/pct fills/VBZ us/PPO with/IN nostalgia/NN ,/pct recalling/VBG days/NNS when/WRB private/JJ cars/NNS and/CC Pullmans/NPS were/BED extra/QL wonderful/JJ ,/pct with/IN fine/JJ woodwork/NN ,/pct craftsmanship/NN in/IN construction/NN ,/pct deep/JJ carpets/NNS and/CC durable/JJ upholstery/NN ./pct
@@ -40,7 +40,7 @@ They/PPSS enlisted/VBD the/AT help/NN of/IN the/AT New/JJ Jersey/NP congressman/
 On/IN the/AT job/NN
 A/AT top/JJS official/NN of/IN the/AT New/JJ Frontier/NN who/WPS kept/VBD a/AT record/NN of/IN his/PPg first/OD weeks/NNS on/IN the/AT job/NN here/RB gives/VBZ this/DT report/NN of/IN his/PPg experiences/NNS :/pct
 In/IN his/PPg first/OD six/CD weeks/NNS in/IN office/NN he/PPS presided/VBD over/IN 96/CD conferences/NNS ,/pct attended/VBD 35/CD official/JJ breakfasts/NNS and/CC dinners/NNS ,/pct studied/VBD and/CC signed/VBD 285/CD official/JJ papers/NNS and/CC personally/RB took/VBD 312/CD telephone/NN calls/NNS ./pct
-In/IN addition/NN ,/pct he/PPS said/VBD ,/pct he/PPS has/HVZ answered/VBN more/AP than/IN 400/CD messages/NNS of/IN congratulations/NNS which/WDT led/VBD him/PPO to/IN the/AT comment/NN that/CS he/PPS himself/PPL had/HVD decided/VBN he/PPS wouldn't /None send/VB another/DT congratulatory/JJ message/NN for/IN the/AT rest/NN of/IN his/PPg life/NN ./pct
+In/IN addition/NN ,/pct he/PPS said/VBD ,/pct he/PPS has/HVZ answered/VBN more/AP than/IN 400/CD messages/NNS of/IN congratulations/NNS which/WDT led/VBD him/PPO to/IN the/AT comment/NN that/CS he/PPS himself/PPL had/HVD decided/VBN he/PPS wouldn't/MD* send/VB another/DT congratulatory/JJ message/NN for/IN the/AT rest/NN of/IN his/PPg life/NN ./pct
 Sen./NN Case/NP Aj/NN ,/pct has/HVZ received/VBN a/AT nice/JJ ``/pct thank/VB you/PPO ''/pct note/NN from/IN a/AT youngster/NN he/PPS appointed/VBD to/IN the/AT Air/NN Force/NN Academy/NN in/IN Colorado/NP ./pct
 Air/NN Force/NN life/NN is/BEZ great/JJ ,/pct the/AT cadet/NN wrote/VBD ,/pct ``/pct though/CS the/AT fourth-class/NN system/NN is/BEZ no/AT fun/NN ''/pct ./pct
 He/PPS invited/VBD Mr./NP Case/NP to/TO stop/VB by/RB to/TO say/VB hello/UH if/CS he/PPS ever/RB visited/VBD the/AT academy/NN and/CC then/RB added/VBD that/CS he/PPS was/BEDZ on/IN the/AT managerial/JJ staff/NN of/IN the/AT freshman/NN football/NN team/NN

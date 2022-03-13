@@ -98,7 +98,7 @@ The/AT aim/NN was/BEDZ to/TO state/VB the/AT results/NNS of/IN all/ABN available
 Presumably/RB the/AT tabulated/VBN data/NNS are/BER best/JJT available/JJ values/NNS ./pct
 The/AT critical/JJ comments/NNS in/IN the/AT textual/JJ sections/NNS of/IN this/DT publication/NN are/BER invaluable/JJ ./pct
 Use/NN of/IN nomenclature/NN ,/pct symbols/NNS ,/pct units/NNS ,/pct physical/JJ constants/NNS :/pct
-The/AT terminology/NN used/VBN conforms/VBZ to/IN that/DT of/IN Internationale/JJ Tabellen/NNS Zur /None Bestimmung/NN Von/IN Kristallstrukturen/NNS ./pct
+The/AT terminology/NN used/VBN conforms/VBZ to/IN that/DT of/IN Internationale/JJ Tabellen/NNS Zur/INAT Bestimmung/NN Von/IN Kristallstrukturen/NNS ./pct
 Currency/NN :/pct
 During/IN the/AT years/NNS of/IN publication/NN ,/pct supplement/NN and/CC replacement/NN sheets/NNS were/BED issued/VBN periodically/RB ./pct
 Coverage/NN of/IN the/AT literature/NN extends/VBZ through/IN 1954/CD and/CC includes/VBZ some/DTI 1955/CD references/NNS ./pct
@@ -148,7 +148,7 @@ Use/NN of/IN nomenclature/NN ,/pct symbols/NNS ,/pct units/NNS ,/pct physical/JJ
 Recommendations/NNS of/IN international/JJ authorities/NNS ,/pct such/JJ as/CS the/AT International/JJ Union/NN of/IN Crystallography/NN ,/pct are/BER followed/VBN ./pct
 There/EX is/BEZ a/AT complete/JJ synonymy/NN at/IN the/AT beginning/NN of/IN each/DT species/NN description/NN ./pct
 Currency/NN :/pct
-Currency/NN in/IN the/AT usual/JJ sense/NN cannot /None be/BE maintained/VBN in/IN an/AT undertaking/NN of/IN this/DT sort/NN ./pct
+Currency/NN in/IN the/AT usual/JJ sense/NN cannot/MD* be/BE maintained/VBN in/IN an/AT undertaking/NN of/IN this/DT sort/NN ./pct
 Format/NN :/pct
 The/AT data/NNS are/BER presented/VBN in/IN text/NN and/CC tables/NNS in/IN bound/VBN volumes/NNS ./pct
 Volume/NN 1/CD ,/pct of/IN the/AT seventh/OD edition/NN contains/VBZ an/AT introduction/NN and/CC data/NNS for/IN eight/CD classes/NNS of/IN minerals/NNS ;/pct ;/pct

@@ -43,7 +43,7 @@ Pilots/NNS would/MD steer/VB them/PPO in/IN a/AT suicide/NN dive/NN into/IN the/
 A/AT crack/JJ corps/NN of/IN 50/CD pilots/NNS was/BEDZ formed/VBN from/IN the/AT ranks/NNS of/IN volunteers/NNS ,/pct but/CC the/AT project/NN was/BEDZ halted/VBN before/IN the/AT end/NN of/IN the/AT war/NN ,/pct and/CC the/AT missiles/NNS later/RBR fell/VBD into/IN Allied/VBN hands/NNS ./pct
 Now/RB a/AT family/NN man/NN with/IN three/CD children/NNS ,/pct Fiedler/NP lives/VBZ in/IN a/AT quiet/JJ residential/JJ area/NN near/IN the/AT Lockheed/NP plant/NN at/IN Sunnyvale/NP ./pct
 His/PPg spare/JJ time/NN is/BEZ spent/VBN in/IN soaring/VBG gliders/NNS ./pct
-``/pct It's /None so/QL quiet/JJ ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct so/QL slow/JJ ,/pct serene/JJ --/pct and/CC so/QL challenging/JJ ''/pct ./pct
+``/pct It's/PPSBEZ so/QL quiet/JJ ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct so/QL slow/JJ ,/pct serene/JJ --/pct and/CC so/QL challenging/JJ ''/pct ./pct
 John/NP Di/NP Massimo/NP has/HVZ been/BEN elected/VBN president/NN of/IN the/AT 1961/CD Columbus/NP Day/NN Celebration/NN Committee/NN ,/pct it/PPS was/BEDZ announced/VBN yesterday/NR ./pct
 Other/AP officers/NNS are/BER Angelo/NP J./NP Scampini/NP ,/pct vice/NN president/NN ,/pct Joseph/NP V./NP Arata/NP ,/pct treasurer/NN ,/pct and/CC Fred/NP J./NP Casassa/NP ,/pct secretary/NN ./pct
 Judge/NN John/NP B./NP Molinari/NP was/BEDZ named/VBN chairman/NN of/IN the/AT executive/NN committee/NN ./pct
@@ -53,7 +53,7 @@ Dr./NN Albert/NP Schweitzer/NP ,/pct world-famous/JJ theologian/NN and/CC medica
 Members/NNS of/IN the/AT San/NP Francisco/NP American/JJ Friends/NNS Service/NN ,/pct a/AT Quaker/NP organization/NN ,/pct will/MD march/VB to/IN San/NP Francisco/NP for/IN a/AT rally/NN in/IN Union/NN Square/NN at/IN 2/CD p.m./RB Saturday/NR ./pct
 In/IN a/AT letter/NN to/IN the/AT American/JJ Friends/NNS Service/NN ,/pct Dr./NN Schweitzer/NP wrote/VBD :/pct
 ``/pct Leading/VBG Nations/NNS of/IN the/AT West/NR and/CC of/IN the/AT East/NR keep/VB busy/JJ making/VBG newer/JJR nuclear/JJ weapons/NNS to/TO defend/VB themselves/PPLS in/IN the/AT event/NN the/AT constantly/RB threatening/VBG nuclear/JJ war/NN should/MD break/VB out/RP ./pct
-``/pct They/PPSS cannot /None do/DO otherwise/RB than/CS live/VB in/IN dread/NN of/IN each/DT other/AP since/CS these/DTS weapons/NNS imply/VB the/AT possibility/NN of/IN such/JJ grisly/JJ surprise/NN attack/NN ./pct
+``/pct They/PPSS cannot/MD* do/DO otherwise/RB than/CS live/VB in/IN dread/NN of/IN each/DT other/AP since/CS these/DTS weapons/NNS imply/VB the/AT possibility/NN of/IN such/JJ grisly/JJ surprise/NN attack/NN ./pct
 The/AT only/AP way/NN out/IN of/IN this/DT state/NN of/IN affairs/NNS is/BEZ agreement/NN to/TO abolish/VB nuclear/JJ weapons/NNS ;/pct ;/pct
 otherwise/RB no/AT peace/NN is/BEZ possible/JJ ./pct
 ``/pct Governments/NNS apparently/RB do/DO not/NEG feel/VB obligated/VBN to/TO make/VB the/AT people/NNS adequately/RB aware/JJ of/IN this/DT danger/NN ;/pct ;/pct

@@ -20,7 +20,7 @@ We/PPSS in/IN East/JJ Greenwich/NP have/HV the/AT example/NN of/IN two/CD neighb
 It/PPS has/HVZ already/RB been/BEN reported/VBN in/IN your/PPg newspapers/NNS that/CS the/AT East/JJ Greenwich/NP School/NN Committee/NN is/BEZ considering/VBG additions/NNS to/IN at/IN least/AP one/CD elementary/JJ school/NN and/CC to/IN the/AT high/JJ school/NN to/TO insure/VB future/JJ accommodations/NNS for/IN a/AT school/NN population/NN that/CS we/PPSS know/VB will/MD increase/VB ./pct
 If/CS they/PPSS are/BER to/TO be/BE commended/VBN for/IN foresight/NN in/IN their/PPg planning/NN ,/pct what/WDT then/RB is/BEZ the/AT judgment/NN of/IN a/AT town/NN council/NN that/WPS compounds/VBZ this/DT problem/NN during/IN the/AT planning/VBG stage/NN ?/pct ?/pct
 Where/WRB then/RB is/BEZ the/AT sound/JJ planning/NN and/CC cooperation/NN between/IN agencies/NNS within/IN the/AT community/NN that/CS you/PPSS have/HV called/VBN for/IN in/IN other/AP editorials/NNS ?/pct ?/pct
-I/PPSS submit/VB that/CS it/PPS cannot /None be/BE dismissed/VBN simply/RB by/IN saying/VBG we/PPSS are/BER not/NEG facing/VBG the/AT facts/NNS of/IN life/NN ./pct
+I/PPSS submit/VB that/CS it/PPS cannot/MD* be/BE dismissed/VBN simply/RB by/IN saying/VBG we/PPSS are/BER not/NEG facing/VBG the/AT facts/NNS of/IN life/NN ./pct
 The/AT ``/pct fruitful/JJ course/NN ''/pct of/IN metropolitanization/NN that/CS you/PPSS recommend/VB is/BEZ currently/RB practiced/VBN by/IN the/AT town/NN of/IN East/JJ Greenwich/NP and/CC had/HVD its/PPg inception/NN long/JJ before/CS we/PPSS learned/VBD what/WDT it/PPS was/BEDZ called/VBN ./pct
 For/IN example/NN :/pct 1/CD ./pct
 The/AT East/JJ Greenwich/NP Police/NNS Department/NN utilizes/VBZ the/AT radio/NN transmission/NN facilities/NNS of/IN the/AT Warwick/NP Police/NNS Department/NN ,/pct thereby/RB eliminating/VBG duplication/NN of/IN facilities/NNS and/CC ensuring/VBG police/NN coordination/NN in/IN the/AT Cowessett-East/NP Greenwich-Potowomut/NP area/NN of/IN the/AT two/CD communities/NNS ./pct
@@ -38,7 +38,7 @@ East/JJ Greenwich/NP was/BEDZ one/CD of/IN the/AT first/OD Rhode/NP Island/NN to
 The/AT education/NN program/NN for/IN retarded/VBN children/NNS conducted/VBN by/IN the/AT East/JJ Greenwich/NP school/NN system/NN has/HVZ pupils/NNS from/IN at/IN least/AP one/CD neighboring/VBG community/NN ./pct
 I/PPSS feel/VB compelled/VBN to/TO write/VB this/DT because/CS I/PPSS am/BEM greatly/RB concerned/VBN with/IN the/AT problem/NN of/IN community/NN growth/NN rate/NN and/CC the/AT relation/NN between/IN types/NNS of/IN growth/NN in/IN a/AT town/NN such/ABL as/CS East/JJ Greenwich/NP ./pct
 I/PPSS believe/VB it/PPS is/BEZ an/AT area/NN in/IN which/WDT professional/JJ planners/NNS have/HV failed/VBN to/TO set/VB adequate/JJ guide/NN posts/NNS ;/pct ;/pct
-and/CC yet/RB they/PPSS cannot /None ignore/VB this/DT problem/NN because/CS it/PPS concerns/VBZ the/AT implementation/NN of/IN nearly/RB all/ABN the/AT planning/VBG programs/NNS they/PPSS have/HV devised/VBN ./pct
+and/CC yet/RB they/PPSS cannot/MD* ignore/VB this/DT problem/NN because/CS it/PPS concerns/VBZ the/AT implementation/NN of/IN nearly/RB all/ABN the/AT planning/VBG programs/NNS they/PPSS have/HV devised/VBN ./pct
 These/DTS programs/NNS are/BER volumes/NNS of/IN waste/NN paper/NN and/CC lost/VBN hours/NNS if/CS the/AT citizens/NNS of/IN a/AT community/NN must/MD stand/VB aside/RB while/CS land/NN developers/NNS tell/VB them/PPO when/WRB ,/pct where/WRB ,/pct and/CC in/IN what/WDT manner/NN the/AT community/NN shall/MD grow/VB ./pct
 We/PPSS have/HV far/QL less/AP to/TO fear/VB in/IN the/AT migrant/JJ family/NN than/CS we/PPSS have/HV in/IN the/AT migrant/JJ developer/NN under/IN these/DTS conditions/NNS ./pct
 Until/CS professional/JJ planners/NNS meet/VB this/DT situation/NN squarely/RB and/CC update/VB the/AT concepts/NNS of/IN zoning/VBG in/IN a/AT manner/NN acceptable/JJ to/IN the/AT courts/NNS ,/pct I/PPSS hope/VB we/PPSS in/IN East/JJ Greenwich/NP can/MD continue/VB to/TO shape/VB our/PPg own/JJ destiny/NN ./pct
@@ -66,7 +66,7 @@ Then/RB people/NNS wonder/VB why/WRB Russian/JJ pupils/NNS are/BER more/QL advan
 Well/UH ,/pct there/EX lies/VBZ your/PPg answer/NN ./pct
 At/IN the/AT height/NN of/IN the/AT first/OD snowstorm/NN we/PPSS had/HVD ,/pct it/PPS was/BEDZ impossible/JJ for/IN me/PPO to/TO get/VB medical/JJ attention/NN needed/VBN during/IN an/AT emergency/NN ./pct
 However/WRB ,/pct the/AT East/JJ Providence/NP Rescue/NN Squad/NN made/VBD its/PPg way/NN through/RP to/IN my/PPg home/NR in/IN time/NN of/IN desperation/NN ./pct
-Words/NNS cannot /None tell/VB of/IN the/AT undivided/JJ attention/NN and/CC comfort/NN their/PPg service/NN gave/VBD to/IN me/PPO ./pct
+Words/NNS cannot/MD* tell/VB of/IN the/AT undivided/JJ attention/NN and/CC comfort/NN their/PPg service/NN gave/VBD to/IN me/PPO ./pct
 The/AT concern/NN they/PPSS felt/VBD for/IN me/PPO was/BEDZ such/JJ as/CS I/PPSS shall/MD never/RB forget/VB and/CC for/IN which/WDT I/PPSS will/MD always/RB be/BE grateful/JJ ./pct
 The/AT rescue/NN squad/NN is/BEZ to/TO be/BE praised/VBN immensely/RB for/IN the/AT fine/JJ work/NN they/PPSS do/DO in/IN all/ABN kinds/NNS of/IN weather/NN ./pct
 Had/HVD they/PPSS not/NEG gotten/VBN me/PPO to/IN the/AT hospital/NN when/WRB they/PPSS did/DOD ,/pct perhaps/RB I/PPSS would/MD not/NEG be/BE here/RB to/TO commend/VB them/PPO at/IN this/DT time/NN ./pct
@@ -79,10 +79,10 @@ There/EX is/BEZ one/CD other/AP point/NN we/PPSS should/MD never/RB lose/VB sigh
 No/AT psychiatrist/NN could/MD tell/VB me/PPO that/CS the/AT experience/NN in/IN a/AT war/NN can/MD not/NEG have/HV its/PPg effect/NN in/IN the/AT ensuing/VBG years/NNS ./pct
 The/AT arguments/NNS advanced/VBN by/IN those/DTS individuals/NNS and/CC groups/NNS who/WPS oppose/VB the/AT system/NN in/IN force/NN and/CC who/WPS would/MD drastically/RB curtail/VB or/CC do/DO away/RB entirely/RB with/IN hospital/NN care/NN for/IN the/AT non-service-connected/JJ case/NN ,/pct seem/VB to/TO be/BE coldly/RB impractical/JJ and/CC out-of-step/JJ with/IN the/AT wishes/NNS of/IN the/AT general/JJ public/NN ./pct
 I/PPSS believe/VB in/IN priority/NN for/IN service-connected/JJ disabled/VBN veterans/NNS in/IN admission/NN to/IN VA/NN hospitals/NNS ./pct
-But/CC I/PPSS don't /None believe/VB we/PPSS should/MD close/VB the/AT door/NN on/IN non-service-connected/JJ patients/NNS ./pct
+But/CC I/PPSS don't/DO* believe/VB we/PPSS should/MD close/VB the/AT door/NN on/IN non-service-connected/JJ patients/NNS ./pct
 This/DT matter/NN is/BEZ of/IN great/JJ importance/NN ,/pct and/CC the/AT outcome/NN may/MD mean/VB the/AT difference/NN between/IN life/NN or/CC death/NN ,/pct or/CC at/IN least/AP serious/JJ injuries/NNS ,/pct for/IN many/AP veterans/NNS ./pct
 Some/DTI critics/NNS say/VB that/CS the/AT length/NN of/IN stay/NN in/IN a/AT hospital/NN is/BEZ too/QL long/JJ ./pct
-There's /None a/AT reason/NN for/IN this/DT length/NN of/IN stay/NN ./pct
+There's/EXBEZ a/AT reason/NN for/IN this/DT length/NN of/IN stay/NN ./pct
 First/OD of/IN all/ABN ,/pct the/AT admitting/VBG physician/NN in/IN the/AT VA/NN hospital/NN gets/VBZ the/AT patient/NN as/CS a/AT new/JJ patient/NN ./pct
 He/PPS has/HVZ no/AT experience/NN with/IN this/DT veteran's/NNg previous/JJ medical/JJ record/NN ./pct
 If/CS the/AT doctor/NN is/BEZ conscientious/JJ ,/pct he/PPS wants/VBZ to/TO study/VB the/AT patient/NN ./pct

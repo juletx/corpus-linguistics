@@ -6,14 +6,14 @@ True/RB ,/pct our/PPg problems/NNS have/HV lessened/VBN a/AT bit/NN as/CS more/A
 But/CC problems/NNS cling/VB to/IN pools/NNS ,/pct as/CS any/DTI pool/NN owner/NN knows/VBZ ./pct
 So/RB our/PPg innate/JJ generosity/NN of/IN spirit/NN prompts/VBZ us/PPO to/TO share/VB our/PPg trials/NNS ,/pct errors/NNS and/CC solutions/NNS with/IN any/DTI who/WPS are/BER taking/VBG the/AT pool/NN plunge/NN for/IN the/AT first/OD time/NN --/pct in/IN the/AT pious/JJ hope/NN that/CS some/DTI may/MD profit/VB from/IN our/PPg experience/NN ./pct
 Where/WRB to/TO put/VB it/PPO
-Position/NN may/MD not/NEG be/BE everything/PN ,/pct but/CC in/IN the/AT case/NN of/IN a/AT pool/NN it/PPS can/MD certainly/RB contribute/VB difficulties/NNS ,/pct social/JJ and/or/CC physical/JJ ./pct
+Position/NN may/MD not/NEG be/BE everything/PN ,/pct but/CC in/IN the/AT case/NN of/IN a/AT pool/NN it/PPS can/MD certainly/RB contribute/VB difficulties/NNS ,/pct social/JJ and:or/CC physical/JJ ./pct
 We/PPSS speak/VB from/IN varying/VBG viewpoints/NNS ./pct
 One/CD of/IN us/PPO has/HVZ a/AT pool/NN set/VBN in/IN a/AT wooded/JJ area/NN very/QL near/IN the/AT house/NN ./pct
 The/AT other/AP has/HVZ his/PPg pool/NN far/QL away/RB from/IN the/AT house/NN in/IN a/AT field/NN high/RB on/IN a/AT hill/NN ./pct
 If/CS you/PPSS are/BER dreaming/VBG of/IN a/AT blue/JJ ,/pct shimmering/VBG pool/NN right/QL outside/IN your/PPg living/VBG room/NN windows/NNS ,/pct close/VB your/PPg eyes/NNS firmly/RB and/CC fill/VB in/IN the/AT picture/NN with/IN lots/NNS and/CC lots/NNS of/IN children/NNS ,/pct damp/JJ towels/NNS ,/pct squashed/VBN tubes/NNS of/IN suntan/NN oil/NN and/CC semi-inflated/JJ plastic/NN toys/NNS ./pct
 You/PPSS are/BER likely/JJ to/TO be/BE nearer/RBR the/AT truth/NN ./pct
 You/PPSS can/MD also/RB see/VB that/CS the/AT greater/JJR the/AT proximity/NN of/IN the/AT pool/NN to/IN your/PPg main/JJS living/VBG quarters/NNS ,/pct the/AT greater/JJR the/AT chance/NN for/IN violation/NN of/IN family/NN privacy/NN ,/pct annoying/JJ noise/NN and/CC the/AT let's-make-your-house-our-club/JJ attitude/NN ./pct
-On/IN the/AT other/AP hand/NN ,/pct out-of-sight/NN does/DOZ not/NEG lead/VB to/IN out-of-mind/NN when/WRB children/NNS cannot /None be/BE easily/RB observed/VBN and/CC you/PPSS have/HV to/TO make/VB a/AT long/JJ trek/NN to/TO reach/VB the/AT pool/NN ./pct
+On/IN the/AT other/AP hand/NN ,/pct out-of-sight/NN does/DOZ not/NEG lead/VB to/IN out-of-mind/NN when/WRB children/NNS cannot/MD* be/BE easily/RB observed/VBN and/CC you/PPSS have/HV to/TO make/VB a/AT long/JJ trek/NN to/TO reach/VB the/AT pool/NN ./pct
 Another/DT dilemma/NN :/pct As/QL picturesque/JJ as/CS a/AT sylvan/JJ pond/NN in/IN the/AT forest/NN may/MD be/BE ,/pct trees/NNS offer/VB a/AT leaf/NN and/CC root/NN hazard/NN to/IN the/AT well-being/NN of/IN a/AT pool/NN ./pct
 Yet/CC a/AT grassy/JJ approach/NN can/MD turn/VB a/AT pool/NN into/IN a/AT floating/VBG lawn/NN every/AT time/NN the/AT grass/NN is/BEZ mowed/VBN ./pct
 As/CS in/IN choosing/VBG a/AT wife/NN ,/pct it/PPS is/BEZ only/RB sensible/JJ to/TO consider/VB also/RB how/WQL appealing/JJ a/AT pool/NN is/BEZ likely/JJ to/TO be/BE in/IN bad/JJ weather/NN as/QL well/RB as/CS in/IN good/JJ ./pct
@@ -46,7 +46,7 @@ Just/QL short/JJ of/IN forty/CD lashes/NNS we/PPSS finally/RB managed/VBD to/TO 
 Their/PPg friends/NNS and/CC ours/PPgg are/BER welcome/JJ to/TO share/VB the/AT pool/NN ,/pct but/CC on/IN our/PPg terms/NNS and/CC at/IN our/PPg times/NNS ./pct
 No/AT friends/NNS are/BER to/TO arrive/VB without/IN an/AT invitation/NN or/CC without/IN at/IN least/AP telephoning/VBG beforehand/RB ./pct
 No/AT ringers/NNS ,/pct either/RB --/pct even/RB if/CS they/PPSS are/BER trailing/VBG legitimate/JJ invitees/NNS ./pct
-We/PPSS want/VB to/TO know/VB when/WRB the/AT Potlatches/NPS telephone/VB exactly/RB how/WQL many/AP they/PPSS are/BER planning/VBG to/TO bring/VB ,/pct so/CS that/CS we/PPSS won't /None end/VB up/RP with/IN a/AT splashing/VBG mob/NN that/WPS looks/VBZ like/CS Coney/NP Island/NN in/IN August/NP ./pct
+We/PPSS want/VB to/TO know/VB when/WRB the/AT Potlatches/NPS telephone/VB exactly/RB how/WQL many/AP they/PPSS are/BER planning/VBG to/TO bring/VB ,/pct so/CS that/CS we/PPSS won't/MD* end/VB up/RP with/IN a/AT splashing/VBG mob/NN that/WPS looks/VBZ like/CS Coney/NP Island/NN in/IN August/NP ./pct
 No/AT young/JJ children/NNS may/MD come/VB without/IN adults/NNS except/IN for/IN a/AT specific/JJ ,/pct organized/VBN ,/pct chaperoned/VBN party/NN ./pct
 And/CC accompanying/VBG adults/NNS are/BER urged/VBN to/TO keep/VB an/AT alert/JJ and/CC sensible/JJ eye/NN on/IN their/PPg responsibilities/NNS ./pct
 A/AT gaggle/NN of/IN gabbling/VBG mothers/NNS ,/pct backs/NNS to/IN the/AT pool/NN ,/pct is/BEZ no/AT safeguard/NN ./pct
@@ -101,6 +101,6 @@ It/PPS may/MD be/BE true/JJ that/CS pool/NN lighting/NN dramatizes/VBZ an/AT eve
 Once/CS on/IN the/AT water/NN ,/pct these/DTS little/JJ visitors/NNS seldom/RB leave/VB ,/pct and/CC this/DT adds/VBZ to/IN your/PPg filtering/VBG and/CC vacuuming/VBG problems/NNS as/QL well/RB as/CS providing/VBG a/AT slapping/VBG good/JJ time/NN for/IN all/ABN those/DTS present/RB ./pct
 Often/RB one/CD floodlight/NN high/RB in/IN a/AT tree/NN will/MD provide/VB all/ABN the/AT light/NN you/PPSS need/VB at/IN much/QL less/AP expense/NN ./pct
 Our/PPg experience/NN has/HVZ taught/VBN us/PPO that/CS it/PPS pays/VBZ to/TO buy/VB the/AT best/JJT equipment/NN possible/JJ ,/pct from/IN pipes/NNS to/IN brushes/NNS ./pct
-Follow/VB pool-care/NN instructions/NNS to/IN the/AT letter/NN ,/pct and/CC be/BE sure/JJ that/CS one/CD person/NN (/pct in/IN the/AT family/NN or/CC not/NEG )/pct is/BEZ regularly/RB responsible/JJ for/IN each/DT aspect/NN of/IN the/AT job/NN ,/pct with/IN no/AT chance/NN for/IN claiming/VBG ,/pct ``/pct It/PPS wasn't /None my/PPg turn/NN ''/pct ./pct
+Follow/VB pool-care/NN instructions/NNS to/IN the/AT letter/NN ,/pct and/CC be/BE sure/JJ that/CS one/CD person/NN (/pct in/IN the/AT family/NN or/CC not/NEG )/pct is/BEZ regularly/RB responsible/JJ for/IN each/DT aspect/NN of/IN the/AT job/NN ,/pct with/IN no/AT chance/NN for/IN claiming/VBG ,/pct ``/pct It/PPS wasn't/BEDZ* my/PPg turn/NN ''/pct ./pct
 Never/RB let/VB anyone/PN not/NEG in/IN the/AT know/NN take/VB a/AT turn/NN at/IN the/AT valves/NNS --/pct even/RB if/CS the/AT little/JJ boys/NNS do/DO want/VB to/TO play/VB space/NN ship/NN ./pct
 You/PPSS may/MD find/VB yourself/PPL hitting/VBG bottom/NN ,/pct literally/RB ,/pct as/CS you/PPSS discover/VB that/DT water/NN is/BEZ running/VBG out/RP even/RB while/CS you/PPSS are/BER putting/VBG it/PPO in/RP ./pct

@@ -17,7 +17,7 @@ He/PPS avoided/VBD showing/VBG any/DTI surprise/NN or/CC annoyance/NN when/WRB n
 ``/pct I/PPSS have/HV to/TO get/VB back/RB to/IN Jarrodsville/NP ''/pct ,/pct he/PPS went/VBD on/RP ./pct
 ``/pct I/PPSS see/VB there/EX are/BER some/DTI cars/NNS here/RB ./pct
 I/PPSS wonder/VB if/CS one/CD of/IN you/PPO gentlemen/NNS could/MD drive/VB me/PPO back/RB to/IN town/NN ?/pct ?/pct
-I'd /None be/BE happy/JJ to/TO pay/VB for/IN the/AT favor/NN ,/pct of/IN course/NN ''/pct ./pct
+I'd/PPSSMD be/BE happy/JJ to/TO pay/VB for/IN the/AT favor/NN ,/pct of/IN course/NN ''/pct ./pct
 The/AT seventeen/CD men/NNS stood/VBD and/CC stared/VBD at/IN him/PPO for/IN a/AT moment/NN longer/JJR ./pct
 And/CC then/RB a/AT startling/JJ thing/NN occurred/VBD ./pct
 It/PPS was/BEDZ so/QL utterly/RB unexpected/JJ that/CS Marty/NP stood/VBD for/IN several/AP moments/NNS with/IN his/PPg mouth/NN hanging/VBG open/JJ foolishly/RB after/CS it/PPS had/HVD happened/VBN ./pct
@@ -32,7 +32,7 @@ From/IN a/AT great/JJ distance/NN thunder/NN growled/VBD and/CC broke/VBD the/AT
 Land/NP looked/VBD back/RB toward/IN the/AT dilapidated/VBN house/NN ./pct
 He/PPS thought/VBD he/PPS saw/VBD a/AT pale/JJ face/NN at/IN a/AT window/NN ./pct
 Perhaps/RB it/PPS was/BEDZ Dora/NP May/NP ./pct
-Perhaps/RB she/PPS would/MD be/BE glad/JJ that/CS they/PPSS hadn't /None hurt/NN him/PPO ./pct
+Perhaps/RB she/PPS would/MD be/BE glad/JJ that/CS they/PPSS hadn't/HVD* hurt/NN him/PPO ./pct
 There/EX were/BED other/AP farmhouses/NNS nearby/RB ./pct
 Across/IN the/AT road/NN there/EX was/BEDZ one/CD no/RB more/AP than/IN a/AT hundred/CD yards/NNS away/RB ./pct
 There/EX was/BEDZ another/DT on/IN this/DT side/NN ,/pct a/AT little/QL further/RBR down/RP ./pct
@@ -155,12 +155,12 @@ The/AT car/NN drew/VBD up/RP alongside/IN him/PPO and/CC stopped/VBD ./pct
 He/PPS staggered/VBD into/IN the/AT back/NN seat/NN and/CC lay/VBD back/RB ,/pct fighting/VBG for/IN breath/NN ./pct
 There/EX was/BEDZ someone/PN in/IN front/NN with/IN the/AT sheriff/NN ./pct
 It/PPS was/BEDZ Pete/NP Holmes/NP ,/pct the/AT cabdriver/NN ./pct
-Pete/NP turned/VBD around/RB and/CC said/VBD to/IN Marty/NP ,/pct ``/pct I/PPSS guess/VB you/PPO think/VB I'm /None a/AT yellow-bellied/JJ hound/NN ./pct
-But/CC there/EX wasn't /None no/AT use/NN in/IN me/PPO staying/VBG there/RB ./pct
-I/PPSS couldn't /None fight/VB a/AT dozen/NN or/CC so/RB of/IN 'em/PPO ./pct
-If/CS I'd /None stayed/VBN ,/pct all/ABN that/DT I'd /None have/HV got/VBN was/BEDZ four/CD punctured/VBN tires/NNS and/CC one/CD busted/VBN head/NN ./pct
-Why/WRB didn't /None you/PPSS wait/VB at/IN the/AT Burch/NP house/NN ?/pct ?/pct
-You/PPSS must've /None known/VBN I'd /None gone/VBN to/TO get/VB the/AT sheriff/NN ./pct
+Pete/NP turned/VBD around/RB and/CC said/VBD to/IN Marty/NP ,/pct ``/pct I/PPSS guess/VB you/PPO think/VB I'm/PPSSBEM a/AT yellow-bellied/JJ hound/NN ./pct
+But/CC there/EX wasn't/BEDZ* no/AT use/NN in/IN me/PPO staying/VBG there/RB ./pct
+I/PPSS couldn't/MD* fight/VB a/AT dozen/NN or/CC so/RB of/IN 'em/PPO ./pct
+If/CS I'd/PPSSHVD stayed/VBN ,/pct all/ABN that/DT I'd/PPSSMD have/HV got/VBN was/BEDZ four/CD punctured/VBN tires/NNS and/CC one/CD busted/VBN head/NN ./pct
+Why/WRB didn't/DOD* you/PPSS wait/VB at/IN the/AT Burch/NP house/NN ?/pct ?/pct
+You/PPSS must've/MDHV known/VBN I'd/PPSSHVD gone/VBN to/TO get/VB the/AT sheriff/NN ./pct
 I/PPSS was/BEDZ lucky/JJ they/PPSS let/VB me/PPO go/VB ,/pct I/PPSS guess/VB ''/pct ./pct
 The/AT sheriff/NN was/BEDZ occupied/VBN with/IN maneuvering/VBG the/AT car/NN around/RB in/IN a/AT very/QL narrow/JJ space/NN ./pct
 When/WRB it/PPS was/BEDZ finally/RB pointed/VBN east/NR ,/pct he/PPS said/VBD ,/pct ``/pct You/PPSS should/MD never/RB have/HV come/VBN out/RP here/RB alone/RB ./pct

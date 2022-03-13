@@ -1,7 +1,7 @@
 For/IN crucial/JJ encounter/NN
 One/CD of/IN the/AT initial/JJ questions/NNS put/VBN to/IN President/NN Kennedy/NP at/IN his/PPg first/OD news/NN conference/NN last/AP January/NP was/BEDZ about/IN his/PPg attitude/NN toward/IN a/AT meeting/NN with/IN Premier/NN Khrushchev/NP ./pct
 Mr./NP Kennedy/NP replied/VBD :/pct
-``/pct I'm /None hopeful/JJ that/CS from/IN more/QL traditional/JJ exchanges/NNS we/PPSS can/MD perhaps/RB find/VB greater/JJR common/JJ ground/NN ''/pct ./pct
+``/pct I'm/PPSSBEM hopeful/JJ that/CS from/IN more/QL traditional/JJ exchanges/NNS we/PPSS can/MD perhaps/RB find/VB greater/JJR common/JJ ground/NN ''/pct ./pct
 The/AT President/NN knew/VBD that/CS a/AT confrontation/NN with/IN Mr./NP Khrushchev/NP sooner/RBR or/CC later/RBR probably/RB was/BEDZ inevitable/JJ and/CC even/RB desirable/JJ ./pct
 But/CC he/PPS was/BEDZ convinced/VBN that/CS the/AT realities/NNS of/IN power/NN --/pct military/JJ ,/pct economic/JJ and/CC ideological/JJ --/pct were/BED the/AT decisive/JJ factors/NNS in/IN the/AT struggle/NN with/IN the/AT Communists/NNS and/CC that/CS these/DTS could/MD not/NEG be/BE talked/VBN away/RB at/IN a/AT heads/NNS of/IN government/NN meeting/NN ./pct
 He/PPS wanted/VBD to/TO buy/VB time/NN to/TO strengthen/VB the/AT U./NP S./NP and/CC its/PPg allies/NNS and/CC to/TO define/VB and/CC begin/VB to/TO implement/VB his/PPg foreign/JJ policy/NN ./pct

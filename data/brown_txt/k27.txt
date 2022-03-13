@@ -10,9 +10,9 @@ There/EX was/BEDZ little/QL enough/AP time/NN to/TO contemplate/VB them/PPO ,/pc
 in/IN an/AT instant/NN the/AT doctor/NN was/BEDZ stalking/VBG across/IN the/AT room/NN with/IN an/AT antique/NN ledger/NN in/IN his/PPg hands/NNS ,/pct thoroughly/RB eared/JJ and/CC big/JJ as/CS a/AT table/NN top/NN ./pct
 He/PPS placed/VBD it/PPO on/IN Alex's/NPg lap/NN ./pct
 ``/pct This/DT is/BEZ my/PPg hen/NN ledger/NN ''/pct ,/pct he/PPS informed/VBD him/PPO in/IN an/AT absorbed/VBN way/NN ./pct
-``/pct It's /None been/BEN going/VBG since/IN 1908/CD when/WRB I/PPSS was/BEDZ a/AT junior/NN in/IN college/NN ./pct
+``/pct It's/PPSHVZ been/BEN going/VBG since/IN 1908/CD when/WRB I/PPSS was/BEDZ a/AT junior/NN in/IN college/NN ./pct
 That/DT first/OD entry/NN there/EX is/BEZ the/AT Vermont/NP Flumenophobe/NP ,/pct the/AT earliest/JJT and/CC one/CD of/IN the/AT most/QL successful/JJ of/IN my/PPg eighty-three/CD varieties/NNS --/pct great/QL big/JJ scapulars/NNS and/CC hardly/RB any/DTI primaries/NNS at/IN all/ABN ./pct
-Couldn't /None take/VB them/PPO near/IN a/AT river/NN ,/pct though/CS ,/pct or/CC they'd /None squawk/VB like/CS a/AT turkey/NN cock/NN the/AT day/NN before/IN Thanksgiving/NN ''/pct ./pct
+Couldn't/MD* take/VB them/PPO near/IN a/AT river/NN ,/pct though/CS ,/pct or/CC they'd/PPSSMD squawk/VB like/CS a/AT turkey/NN cock/NN the/AT day/NN before/IN Thanksgiving/NN ''/pct ./pct
 The/AT ledger/NN was/BEDZ full/JJ of/IN most/QL precise/JJ information/NN :/pct date/NN of/IN laying/VBG ,/pct length/NN of/IN incubation/NN period/NN ,/pct number/NN of/IN chick/NN reaching/VBG the/AT first/OD week/NN ,/pct second/OD week/NN ,/pct fifth/OD week/NN ,/pct weight/NN of/IN hen/NN ,/pct size/NN of/IN rooster's/NNg wattles/NNS and/CC so/RB on/RP ,/pct all/ABN scrawled/VBD out/RP in/IN a/AT hand/NN that/WPS looked/VBD more/AP Chinese/JJ than/CS English/NP ,/pct the/AT most/QL jagged/JJ and/CC sprawling/VBG Alex/NP had/HVD ever/RB seen/VBN ./pct
 Below/IN these/DTS particulars/NNS was/BEDZ a/AT series/NN of/IN alpha-beta-gammas/NNS connected/VBN by/IN arrows/NNS and/CC crosses/NNS which/WDT denoted/VBD the/AT lineage/NN of/IN the/AT breed/NN ./pct
 Alex's/NPg instruction/NN was/BEDZ rapid/JJ ,/pct for/CS the/AT doctor/NN had/HVD to/TO go/VB off/RP to/IN the/AT Rue/NN Ecole/NN De/IN Medecine/NN to/TO hear/VB more/AP speeches/NNS with/IN only/RB time/NN for/IN one/CD sip/NN of/IN wine/NN to/TO sustain/VB him/PPO through/IN them/PPO all/ABN ./pct
@@ -57,15 +57,15 @@ It/PPS was/BEDZ Giselle/NP ,/pct the/AT fille/NN de/IN chambre/NN ,/pct come/VB 
 Giselle/NP was/BEDZ reluctant/JJ but/CC Alex/NP succeeded/VBD in/IN persuading/VBG her/PPO to/TO come/VB back/RB in/IN five/CD minutes/NNS and/CC the/AT door/NN was/BEDZ shut/VBN again/RB ./pct
 ``/pct Who/WPS was/BEDZ that/DT ,/pct young/JJ feller/NN ''/pct ?/pct ?/pct
 The/AT doctor/NN instantly/RB asked/VBD ./pct
-``/pct That/DT was/BEDZ the/AT fille/NN de/IN chambre/NN ,/pct the/AT one/CD you/PPSS thought/VBD couldn't /None get/VB the/AT eggs/NNS out/RP ./pct
+``/pct That/DT was/BEDZ the/AT fille/NN de/IN chambre/NN ,/pct the/AT one/CD you/PPSS thought/VBD couldn't/MD* get/VB the/AT eggs/NNS out/RP ./pct
 She/PPS looked/VBD mighty/QL interested/VBN ,/pct though/CS ./pct
-Anyhow/RB she's /None coming/VBG back/RB in/IN five/CD minutes/NNS to/TO do/DO the/AT room/NN ''/pct ./pct
+Anyhow/RB she's/PPSBEZ coming/VBG back/RB in/IN five/CD minutes/NNS to/TO do/DO the/AT room/NN ''/pct ./pct
 The/AT doctor's/NNg mind/NN was/BEDZ working/VBG at/IN a/AT great/JJ speed/NN ;/pct ;/pct
 he/PPS rose/VBD to/TO put/VB his/PPg greatcoat/NN on/RP and/CC addressed/VBD Alex/NP in/IN a/AT muted/VBN voice/NN ./pct
 ``/pct Have/HV you/PPSS got/VBD our/PPg keys/NNS handy/JJ ''/pct ?/pct ?/pct
 ``/pct Right/QL in/IN my/PPg pocket/NN ''/pct ./pct
 ``/pct All/QL right/RB ./pct
-Now/RB you/PPSS go/VB outside/RB and/CC beckon/VB me/PPO when/WRB it's /None safe/JJ ''/pct ./pct
+Now/RB you/PPSS go/VB outside/RB and/CC beckon/VB me/PPO when/WRB it's/PPSBEZ safe/JJ ''/pct ./pct
 The/AT hall/NN was/BEDZ empty/JJ and/CC Alex/NP beckoned/VBD ;/pct ;/pct
 they/PPSS climbed/VBD the/AT stairs/NNS which/WDT creaked/VBD ,/pct very/QL loudly/RB to/IN their/PPg sensitive/JJ ears/NNS ,/pct and/CC reached/VBD the/AT next/AP floor/NN ./pct
 A/AT guest/NN was/BEDZ locking/VBG his/PPg room/NN ;/pct ;/pct
@@ -90,7 +90,7 @@ Next/RB ,/pct the/AT hen/NN was/BEDZ nested/VBN and/CC all/ABN seemed/VBD well/R
 The/AT two/CD men/NNS sat/VBD for/IN some/DTI time/NN ,/pct savoring/VBG the/AT pleasure/NN of/IN escape/NN from/IN peril/NN and/CC the/AT relief/NN such/JJ escape/NN brings/VBZ ,/pct before/CS they/PPSS got/VBD up/RP and/CC left/VBD the/AT hotel/NN ,/pct the/AT doctor/NN to/TO go/VB to/IN the/AT conference/NN house/NN and/CC Alex/NP to/TO go/VB to/IN the/AT main/JJS post/NN office/NN ./pct
 Alex/NP returned/VBD to/IN the/AT hotel/NN ,/pct rather/QL weary/JJ and/CC with/IN no/RB new/JJ prospects/NNS of/IN a/AT role/NN ,/pct in/IN the/AT late/JJ afternoon/NN ,/pct but/CC found/VBD the/AT doctor/NN in/IN an/AT ebullient/JJ mood/NN ./pct
 At/IN the/AT time/NN Alex/NP arrived/VBD he/PPS was/BEDZ engaged/VBN in/IN some/DTI sort/NN of/IN intimate/JJ communication/NN with/IN the/AT hen/NN ,/pct who/WPS had/HVD settled/VBN herself/PPL on/IN the/AT nest/NN most/QL peacefully/RB after/IN the/AT occurrences/NNS of/IN the/AT morning/NN ./pct
-``/pct Chickens/NNS have/HV short/JJ memories/NNS ''/pct ,/pct the/AT doctor/NN remarked/VBD ,/pct ``/pct that's /None why/WRB they/PPSS are/BER better/JJR company/NN than/CS most/AP people/NNS I/PPSS know/VB ''/pct ,/pct and/CC he/PPS went/VBD on/RP to/TO break/VB some/DTI important/JJ news/NN to/IN Alex/NP ./pct
+``/pct Chickens/NNS have/HV short/JJ memories/NNS ''/pct ,/pct the/AT doctor/NN remarked/VBD ,/pct ``/pct that's/DTBEZ why/WRB they/PPSS are/BER better/JJR company/NN than/CS most/AP people/NNS I/PPSS know/VB ''/pct ,/pct and/CC he/PPS went/VBD on/RP to/TO break/VB some/DTI important/JJ news/NN to/IN Alex/NP ./pct
 ``/pct Well/UH ''/pct ,/pct he/PPS began/VBD ,/pct ``/pct It/PPS seems/VBZ like/CS some/DTI people/NNS in/IN Paris/NP want/VB to/TO hear/VB more/AP from/IN me/PPO than/CS those/DTS fellers/NNS over/RP at/IN the/AT conference/NN house/NN do/DO ./pct
-They've /None got/VBN a/AT big/JJ vulture/NN from/IN Tanganika/NP at/IN the/AT zoo/NN here/RB ,/pct with/IN a/AT wife/NN for/IN him/PPO ,/pct too/RB ,/pct very/QL rare/JJ birds/NNS ,/pct both/ABX of/IN them/PPO ,/pct the/AT only/AP Vulturidae/NPS of/IN their/PPg species/NN outside/IN Africa/NP ./pct
-Seems/VBZ like/CS she's /None willing/JJ ,/pct but/CC the/AT male/NN just/RB flops/VBZ around/RB all/ABN day/NN like/CS the/AT bashful/JJ boy/NN who/WPS took/VBD Jeannie/NP May/NP behind/IN the/AT barn/NN and/CC then/RB didn't /None know/VB what/WDT to/TO do/DO ,/pct and/CC the/AT people/NNS at/IN the/AT zoo/NN haven't /None got/VBN any/DTI vulture/NN chicks/NNS to/TO show/VB for/IN their/PPg trouble/NN ./pct
+They've/PPSSHV got/VBN a/AT big/JJ vulture/NN from/IN Tanganika/NP at/IN the/AT zoo/NN here/RB ,/pct with/IN a/AT wife/NN for/IN him/PPO ,/pct too/RB ,/pct very/QL rare/JJ birds/NNS ,/pct both/ABX of/IN them/PPO ,/pct the/AT only/AP Vulturidae/NPS of/IN their/PPg species/NN outside/IN Africa/NP ./pct
+Seems/VBZ like/CS she's/PPSBEZ willing/JJ ,/pct but/CC the/AT male/NN just/RB flops/VBZ around/RB all/ABN day/NN like/CS the/AT bashful/JJ boy/NN who/WPS took/VBD Jeannie/NP May/NP behind/IN the/AT barn/NN and/CC then/RB didn't/DOD* know/VB what/WDT to/TO do/DO ,/pct and/CC the/AT people/NNS at/IN the/AT zoo/NN haven't/HV* got/VBN any/DTI vulture/NN chicks/NNS to/TO show/VB for/IN their/PPg trouble/NN ./pct

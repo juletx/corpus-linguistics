@@ -15,9 +15,9 @@ I/PPSS recommend/VB it/PPO ''/pct ./pct
 He/PPS looked/VBD at/IN his/PPg son/NN ,/pct his/PPg face/NN worried/VBN ./pct
 Scotty/NP murmured/VBD ,/pct ``/pct No/RB ,/pct thanks/NNS ''/pct ,/pct so/QL softly/RB his/PPg father/NN had/HVD to/TO bend/VB his/PPg gaunt/JJ height/NN across/IN the/AT table/NN and/CC turn/VB a/AT round/JJ brown/JJ ear/NN to/IN him/PPO ./pct
 Scotty/NP regarded/VBD the/AT ear/NN and/CC the/AT grizzled/JJ hair/NN around/IN it/PPO with/IN a/AT moment/NN of/IN interest/NN ./pct
-He/PPS said/VBD more/QL loudly/RB ,/pct ``/pct I'm /None full/JJ ,/pct old/JJ Pop/NP ''/pct ./pct
+He/PPS said/VBD more/QL loudly/RB ,/pct ``/pct I'm/PPSSBEM full/JJ ,/pct old/JJ Pop/NP ''/pct ./pct
 He/PPS had/HVD eaten/VBN almost/RB nothing/PN on/IN the/AT crested/JJ ,/pct three-sectioned/JJ plate/NN and/CC had/HVD drunk/JJ about/RB half/ABN the/AT milk/NN in/IN its/PPg paper/NN container/NN ./pct
-``/pct He's /None all/QL right/JJ ,/pct Craig/NP ''/pct ,/pct Rachel/NP said/VBD ./pct
+``/pct He's/PPSBEZ all/QL right/JJ ,/pct Craig/NP ''/pct ,/pct Rachel/NP said/VBD ./pct
 ``/pct I/PPSS can/MD fix/VB him/PPO something/PN later/RBR in/IN the/AT afternoon/NN when/WRB we/PPSS get/VB home/NR ''/pct ./pct
 Since/CS his/PPg seizure/NN ,/pct Scotty/NP had/HVD had/HVN little/AP appetite/NN ;/pct ;/pct
 yet/CC his/PPg changed/VBN appearance/NN ,/pct surprisingly/RB ,/pct was/BEDZ one/CD of/IN plumpness/NN ./pct
@@ -34,7 +34,7 @@ Rachel/NP had/HVD little/AP to/TO say/VB ./pct
 She/PPS greeted/VBD her/PPg husband's/NNg colleagues/NNS with/IN smiling/VBG politeness/NN ,/pct offering/VBG nothing/PN ./pct
 Mr./NP McKinley/NP ,/pct for/IN all/ABN his/PPg sprawling/VBG and/CC his/PPg easy/JJ familiarity/NN ,/pct was/BEDZ completely/QL alert/JJ to/IN his/PPg son/NN ,/pct eyes/NNS always/RB on/IN the/AT still/JJ face/NN ,/pct jumping/VBG to/TO anticipate/VB Scotty's/NPg desires/NNS ./pct
 It/PPS was/BEDZ a/AT strained/VBN ,/pct silent/JJ lunch/NN ./pct
-Rachel/NP said/VBD ,/pct ``/pct I'd /None better/RBR get/VB him/PPO to/IN bed/NN ''/pct ./pct
+Rachel/NP said/VBD ,/pct ``/pct I'd/PPSSMD better/RBR get/VB him/PPO to/IN bed/NN ''/pct ./pct
 The/AT doctors/NNS had/HVD suggested/VBN Scotty/NP remain/VB most/AP of/IN every/AT afternoon/NN in/IN bed/NN until/CS he/PPS was/BEDZ stronger/JJR ./pct
 Since/CS Mr./NP McKinley/NP had/HVD to/TO give/VB a/AT lecture/NN ,/pct Rachel/NP and/CC Scotty/NP drove/VBD home/NR alone/RB in/IN the/AT Plymouth/NP ./pct
 They/PPSS did/DOD not/NEG speak/VB much/RB ./pct
@@ -50,10 +50,10 @@ the/AT days/NNS seemed/VBD short/JJ ,/pct perhaps/RB because/CS his/PPg routine/
 He/PPS rose/VBD late/RB and/CC went/VBD down/RP in/IN his/PPg bathrobe/NN and/CC slippers/NNS to/TO have/HV breakfast/NN either/CC alone/RB or/CC with/IN Rachel/NP ./pct
 Virginia/NP treated/VBD him/PPO with/IN attention/NN and/CC tried/VBD to/TO tempt/VB his/PPg appetite/NN with/IN special/JJ food/NN :/pct biscuits/NNS ,/pct cookies/NNS ,/pct candies/NNS --/pct the/AT result/NN of/IN devoted/VBN hours/NNS in/IN the/AT tiled/VBN kitchen/NN ./pct
 She/PPS would/MD hover/VB over/IN him/PPO and/CC ,/pct looking/VBG like/CS her/PPg brother/NN ,/pct anxiously/RB watch/VB the/AT progress/NN of/IN Scotty's/NPg fork/NN or/CC spoon/NN ./pct
-``/pct You/PPSS don't /None eat/VB enough/AP ,/pct honey/NN ./pct
+``/pct You/PPSS don't/DO* eat/VB enough/AP ,/pct honey/NN ./pct
 Try/VB to/TO get/VB that/DT down/RP ''/pct ./pct
 Rachel/NP ,/pct observing/VBG ,/pct would/MD say/VB ,/pct ``/pct He/PPS has/HVZ to/TO rediscover/VB his/PPg own/JJ capacity/NN ./pct
-It'll /None take/VB time/NN ''/pct ./pct
+It'll/PPSMD take/VB time/NN ''/pct ./pct
 Virginia/NP and/CC Rachel/NP talked/VBD to/IN each/DT other/AP quietly/RB now/RB ,/pct as/CS allies/NNS who/WPS are/BER political/JJ rather/RB than/CS natural/JJ might/NN in/IN a/AT war/NN atmosphere/NN ./pct
 Both/ABX watched/VBD Scotty/NP constantly/RB ,/pct Rachel/NP without/IN seeming/VBG to/TO ,/pct Virginia/NP openly/RB ,/pct her/PPg eyes/NNS filled/VBN with/IN concern/NN ./pct
 Scotty/NP was/BEDZ neutral/JJ ./pct
@@ -73,9 +73,9 @@ it/PPS was/BEDZ merely/RB another/DT part/NN of/IN his/PPg weakness/NN ./pct
 He/PPS was/BEDZ calm/JJ ,/pct drugged/VBN ,/pct and/CC lazy/JJ ./pct
 He/PPS did/DOD not/NEG care/VB ./pct
 Rachel/NP mentioned/VBD Kate/NP ./pct
-She/PPS said/VBD ,/pct ``/pct I/PPSS notice/VB the/AT girl/NN from/IN across/IN the/AT street/NN hasn't /None bothered/VBN to/TO phone/VB or/CC visit/VB ''/pct ./pct
-Scotty/NP said/VBD ,/pct ``/pct That's /None all/QL right/JJ ./pct
-Kate's /None all/QL right/JJ ''/pct ./pct
+She/PPS said/VBD ,/pct ``/pct I/PPSS notice/VB the/AT girl/NN from/IN across/IN the/AT street/NN hasn't/HVZ* bothered/VBN to/TO phone/VB or/CC visit/VB ''/pct ./pct
+Scotty/NP said/VBD ,/pct ``/pct That's/DTBEZ all/QL right/JJ ./pct
+Kate's/NPBEZ all/QL right/JJ ''/pct ./pct
 He/PPS thought/VBD about/IN it/PPO briefly/RB ,/pct then/RB deliberately/RB turned/VBD the/AT talk/NN to/IN something/PN else/RB ./pct
 Once/RB ,/pct sitting/VBG at/IN the/AT front/JJ window/NN in/IN his/PPg parents'/NNSg room/NN ,/pct he/PPS saw/VBD Kate/NP come/VB out/RP of/IN her/PPg house/NN ./pct
 She/PPS was/BEDZ with/IN Elizabeth/NP ./pct
@@ -89,35 +89,35 @@ The/AT doctor/NN ,/pct since/CS Scotty/NP was/BEDZ no/QL longer/RBR allowed/VBN 
 He/PPS would/MD sit/VB ,/pct slim-waisted/JJ and/CC spare/JJ ,/pct on/IN the/AT edge/NN of/IN Scotty's/NPg bed/NN ,/pct his/PPg legs/NNS crossed/VBN so/QL elaborately/RB that/CS the/AT crossed/VBN foot/NN could/MD tap/VB the/AT floor/NN ./pct
 Scotty/NP did/DOD not/NEG mind/VB the/AT doctor's/NNg unsmiling/JJ teasing/NN as/CS he/PPS used/VBD to/TO ./pct
 ``/pct Husky/JJ young/JJ man/NN ''/pct ,/pct he/PPS said/VBD with/IN mock/JJ distaste/NN ./pct
-``/pct I/PPSS imagine/VB you're /None always/RB battling/VBG in/IN school/NN ''/pct ./pct
-``/pct I/PPSS don't /None go/VB to/TO school/VB any/QL more/RBR ''/pct ./pct
+``/pct I/PPSS imagine/VB you're/PPSSBER always/RB battling/VBG in/IN school/NN ''/pct ./pct
+``/pct I/PPSS don't/DO* go/VB to/TO school/VB any/QL more/RBR ''/pct ./pct
 ``/pct Pardon/VB ''/pct ?/pct ?/pct
 The/AT doctor/NN had/HVD to/TO bend/VB close/RB to/TO hear/VB ;/pct ;/pct
 his/PPg delicate/JJ hand/NN ,/pct as/QL veined/VBN as/CS a/AT moth's/NNg wing/NN ,/pct rested/VBD absently/RB on/IN Scotty's/NPg chest/NN ./pct
 Scotty/NP said/VBD the/AT same/AP words/NNS more/QL loudly/RB ./pct
 ``/pct Oh/UH ./pct
-Well/UH ,/pct we're /None taking/VBG a/AT little/JJ vacation/NN ,/pct that's /None all/ABN ''/pct ./pct
+Well/UH ,/pct we're/PPSSBER taking/VBG a/AT little/JJ vacation/NN ,/pct that's/DTBEZ all/ABN ''/pct ./pct
 He/PPS turned/VBD unsmilingly/RB to/IN Rachel/NP ./pct
 ``/pct I/PPSS think/VB by/IN the/AT end/NN of/IN next/AP week/NN he/PPS could/MD get/VB out/RP in/IN the/AT air/NN a/AT little/JJ ./pct
 He/PPS could/MD now/RB but/CC the/AT weakness/NN is/BEZ very/QL definite/JJ ;/pct ;/pct
 it/PPS would/MD exhaust/VB him/PPO further/RBR and/CC unnecessarily/RB ./pct
-He'll /None be/BE stronger/JJR soon/RB ''/pct ./pct
+He'll/PPSMD be/BE stronger/JJR soon/RB ''/pct ./pct
 His/PPg stethoscope/NN was/BEDZ on/IN the/AT table/NN by/IN Scotty's/NPg bed/NN and/CC he/PPS picked/VBD it/PPO up/RP and/CC wagged/VBD it/PPO at/IN Scotty/NP ./pct
 He/PPS said/VBD fussily/RB ,/pct ``/pct Just/RB keep/VB the/AT cap/NN on/IN those/DTS strong/JJ emotions/NNS ''/pct ./pct
 The/AT stethoscope/NN glinted/VBD silver/NN in/IN the/AT darkening/VBG room/NN ./pct
-``/pct I'll /None drop/VB by/RB again/RB in/IN a/AT few/AP days/NNS ''/pct ./pct
+``/pct I'll/PPSSMD drop/VB by/RB again/RB in/IN a/AT few/AP days/NNS ''/pct ./pct
 Rachel/NP stayed/VBD on/RP after/CS the/AT doctor/NN had/HVD gone/VBN ./pct
 She/PPS smoothed/VBD the/AT covers/NNS on/IN Scotty's/NPg bed/NN and/CC picked/VBD things/NNS up/RP from/IN the/AT floor/NN ./pct
 She/PPS did/DOD not/NEG touch/VB him/PPO ./pct
 Scotty/NP watched/VBD with/IN disinterest/NN ./pct
 He/PPS did/DOD not/NEG speak/VB ./pct
 He/PPS had/HVD no/AT desire/NN to/TO ./pct
-She/PPS said/VBD ,/pct ``/pct Do/DO you/PPSS think/VB you'll /None miss/VB school/NN ''/pct ?/pct ?/pct
+She/PPS said/VBD ,/pct ``/pct Do/DO you/PPSS think/VB you'll/PPSSMD miss/VB school/NN ''/pct ?/pct ?/pct
 He/PPS had/HVD noticed/VBN how/WQL formal/JJ and/CC irritably/QL exact/JJ Rachel/NP had/HVD grown/VBN ./pct
 He/PPS did/DOD not/NEG care/VB ./pct
 He/PPS felt/VBD her/PPg irritability/NN did/DOD not/NEG concern/VB him/PPO ,/pct yet/CC he/PPS knew/VBD he/PPS would/MD not/NEG care/VB even/RB if/CS it/PPS did/DOD ./pct
 He/PPS shook/VBD his/PPg head/NN ./pct
-``/pct We've /None had/HVN any/DTI number/NN of/IN calls/NNS about/IN you/PPO ./pct
+``/pct We've/PPSSHV had/HVN any/DTI number/NN of/IN calls/NNS about/IN you/PPO ./pct
 You/PPSS could/MD win/VB a/AT popularity/NN contest/NN at/IN that/DT school/NN without/IN any/DTI trouble/NN ./pct
 Miss/NP Estherson/NP called/VBD twice/RB ./pct
 She/PPS wants/VBZ to/TO pay/VB you/PPO a/AT visit/NN ./pct
@@ -133,14 +133,14 @@ She/PPS turned/VBD to/IN him/PPO again/RB ./pct
 ``/pct Well/UH ,/pct Mrs./NP Charles/NP --/pct Sally/NP --/pct has/HVZ phoned/VBN too/RB ./pct
 She/PPS was/BEDZ very/QL worried/VBN ''/pct ./pct
 Rachel's/NPg tone/NN was/BEDZ dry/JJ ./pct
-``/pct She/PPS didn't /None really/RB say/VB ''/pct --/pct She/PPS glanced/VBD away/RB at/IN the/AT floor/NN ,/pct then/RB swooped/VBD gracefully/RB and/CC picked/VBD up/RP one/CD of/IN Scotty's/NPg slippers/NNS ./pct
+``/pct She/PPS didn't/DOD* really/RB say/VB ''/pct --/pct She/PPS glanced/VBD away/RB at/IN the/AT floor/NN ,/pct then/RB swooped/VBD gracefully/RB and/CC picked/VBD up/RP one/CD of/IN Scotty's/NPg slippers/NNS ./pct
 ``/pct I/PPSS mean/VB ,/pct do/DO you/PPSS feel/VB like/CS seeing/VBG Kate/NP ''/pct ?/pct ?/pct
-Scotty/NP said/VBD ,/pct ``/pct I/PPSS don't /None know/VB ''/pct ./pct
+Scotty/NP said/VBD ,/pct ``/pct I/PPSS don't/DO* know/VB ''/pct ./pct
 It/PPS was/BEDZ true/JJ ./pct
 He/PPS did/DOD not/NEG ./pct
 There/EX was/BEDZ the/AT slight/JJ pain/NN ,/pct but/CC it/PPS was/BEDZ no/QL different/JJ from/IN the/AT throbbing/NN in/IN his/PPg head/NN ./pct
-``/pct Well/UH ,/pct there's /None time/NN ,/pct in/IN any/DTI case/NN ./pct
-We'll /None wait/VB till/CS you're /None stronger/JJR and/CC then/RB talk/VB about/IN it/PPO ''/pct ./pct
+``/pct Well/UH ,/pct there's/EXBEZ time/NN ,/pct in/IN any/DTI case/NN ./pct
+We'll/PPSSMD wait/VB till/CS you're/PPSSBER stronger/JJR and/CC then/RB talk/VB about/IN it/PPO ''/pct ./pct
 She/PPS put/VBD the/AT slipper/NN neatly/RB by/IN its/PPg mate/NN at/IN the/AT foot/NN of/IN the/AT bed/NN ./pct
 Scotty/NP said/VBD ,/pct ``/pct Okay/JJ ''/pct ./pct
 This/DT time/NN Rachel/NP kissed/VBD him/PPO lightly/RB on/IN the/AT forehead/NN ./pct
@@ -148,9 +148,9 @@ Scotty/NP was/BEDZ pleased/VBN ./pct
 His/PPg father/NN was/BEDZ a/AT constant/JJ visitor/NN ./pct
 Scotty/NP would/MD hear/VB the/AT front/JJ door/NN in/IN the/AT evening/NN and/CC then/RB his/PPg father's/NNg deep/JJ slow/JJ voice/NN ;/pct ;/pct
 it/PPS floated/VBD up/IN the/AT stairs/NNS ./pct
-``/pct How's /None Scotty/NP ''/pct ?/pct ?/pct
+``/pct How's/WRBBEZ Scotty/NP ''/pct ?/pct ?/pct
 And/CC Rachel's/NPg or/CC Virginia's/NPg reply/NN :/pct ``/pct better/JJR ./pct
-He's /None getting/VBG plenty/NN of/IN rest/NN ''/pct ./pct
+He's/PPSBEZ getting/VBG plenty/NN of/IN rest/NN ''/pct ./pct
 ``/pct Is/BEZ his/PPg appetite/NN improved/VBN ''/pct ?/pct ?/pct
 Or/CC :/pct ``/pct Does/DOZ he/PPS get/VB exercise/NN ''/pct ?/pct ?/pct
 The/AT exchange/NN was/BEDZ almost/QL invariable/JJ ,/pct and/CC Scotty/NP ,/pct in/IN his/PPg bed/NN ,/pct could/MD hear/VB every/AT word/NN of/IN it/PPO ./pct
@@ -159,10 +159,10 @@ It/PPS required/VBD an/AT energy/NN he/PPS no/QL longer/RBR possessed/VBD to/TO 
 His/PPg father/NN would/MD come/VB upstairs/RB and/CC stand/VB self-consciously/RB at/IN the/AT foot/NN of/IN the/AT bed/NN and/CC look/VB at/IN his/PPg son/NN ./pct
 After/IN a/AT pause/NN ,/pct during/IN which/WDT he/PPS studied/VBD Scotty's/NPg face/NN as/CS if/CS Scotty/NP were/BED not/NEG there/RB and/CC could/MD not/NEG study/VB him/PPO too/RB ,/pct Mr./NP McKinley/NP would/MD ask/VB the/AT same/AP questions/NNS he/PPS had/HVD asked/VBN downstairs/RB ./pct
 Scotty/NP would/MD reply/VB softly/RB and/CC his/PPg father/NN ,/pct apologetically/RB ,/pct would/MD ask/VB him/PPO to/TO repeat/VB ./pct
-``/pct I'm /None eating/VBG more/AP ''/pct ,/pct he/PPS would/MD say/VB ./pct
+``/pct I'm/PPSSBEM eating/VBG more/AP ''/pct ,/pct he/PPS would/MD say/VB ./pct
 Or/CC :/pct ``/pct I/PPSS walk/VB around/IN the/AT house/NN a/AT lot/NN ''/pct ./pct
 ``/pct Perhaps/RB you/PPSS should/MD get/VB out/RP a/AT little/JJ ''/pct ./pct
-``/pct I'm /None not/NEG supposed/VBN to/TO yet/RB ''/pct ./pct
+``/pct I'm/PPSSBEM not/NEG supposed/VBN to/TO yet/RB ''/pct ./pct
 He/PPS was/BEDZ not/NEG irritated/VBN ./pct
 He/PPS did/DOD not/NEG mind/VB the/AT useless/JJ ,/pct kindly/JJ questions/NNS ./pct
 He/PPS looked/VBD at/IN the/AT lined/VBN face/NN with/IN vague/JJ interest/NN ;/pct ;/pct

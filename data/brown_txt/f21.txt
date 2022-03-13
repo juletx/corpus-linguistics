@@ -86,7 +86,7 @@ Life/NN has/HVZ evolved/VBN from/IN simple/JJ combinations/NNS of/IN molecules/N
 The/AT land/NN ,/pct too/RB ,/pct is/BEZ changing/VBG ,/pct and/CC earthquakes/NNS are/BER daily/JJ reminders/NNS of/IN this/DT ./pct
 Earthquakes/NNS result/VB when/WRB movements/NNS in/IN the/AT earth/NN twist/VB rocks/NNS until/CS they/PPSS break/VB ./pct
 Sometimes/RB this/DT is/BEZ accompanied/VBN by/IN visible/JJ shifts/NNS of/IN the/AT ground/NN surface/NN ;/pct ;/pct
-often/RB the/AT shifts/NNS cannot /None be/BE seen/VBN ,/pct but/CC they/PPSS are/BER there/RB ;/pct ;/pct
+often/RB the/AT shifts/NNS cannot/MD* be/BE seen/VBN ,/pct but/CC they/PPSS are/BER there/RB ;/pct ;/pct
 and/CC everywhere/RB can/MD be/BE found/VBN scars/NNS of/IN earlier/JJR breaks/NNS once/RB deeply/RB buried/VBN ./pct
 Today's/NRg earthquakes/NNS are/BER most/QL numerous/JJ in/IN belts/NNS where/WRB the/AT earth's/NNg restlessness/NN is/BEZ presently/RB concentrated/VBN ,/pct but/CC scars/NNS of/IN the/AT past/NN show/VB that/CS there/EX is/BEZ no/AT part/NN of/IN the/AT earth/NN that/WPS has/HVZ not/NEG had/HVN them/PPO ./pct
 The/AT effects/NNS of/IN earthquakes/NNS on/IN civilization/NN have/HV been/BEN widely/RB publicized/VBN ,/pct even/RB overemphasized/VBN ./pct

@@ -2,8 +2,8 @@ Scientists/NNS say/VB that/CS the/AT world/NN and/CC everything/PN in/IN it/PPO 
 Without/IN math/NN the/AT men/NNS who/WPS are/BER continually/RB seeking/VBG the/AT causes/NNS of/IN and/CC the/AT reasons/NNS for/IN the/AT many/AP things/NNS that/WPS make/VB the/AT world/NN go/VB 'round/RB would/MD not/NEG have/HV any/DTI means/NN of/IN analyzing/VBG ,/pct standardizing/VBG ,/pct and/CC communicating/VBG the/AT things/NNS they/PPSS discover/VB and/CC learn/VB ./pct
 Math/NN and/CC the/AT formulas/NNS that/WPS allow/VB it/PPO to/TO be/BE applied/VBN to/IN different/JJ problems/NNS are/BER ,/pct therefore/RB ,/pct essential/JJ to/IN any/DTI scientific/JJ endeavor/NN ./pct
 Hot/JJ rodding/NN is/BEZ a/AT science/NN ./pct
-It's /None not/NEG a/AT science/NN as/QL involved/VBN as/CS determining/VBG what/WDT makes/VBZ the/AT earth/NN rotate/VB on/IN its/PPg axis/NN or/CC building/VBG a/AT rocket/NN or/CC putting/VBG a/AT satellite/NN into/IN orbit/NN but/CC it/PPS is/BEZ ,/pct nevertheless/RB ,/pct a/AT science/NN ./pct
-But/CC because/CS science/NN is/BEZ based/VBN on/IN mathematics/NN doesn't /None mean/VB that/CS a/AT hot/JJ rodder/NN must/MD necessarily/RB be/BE a/AT mathematician/NN ./pct
+It's/PPSBEZ not/NEG a/AT science/NN as/QL involved/VBN as/CS determining/VBG what/WDT makes/VBZ the/AT earth/NN rotate/VB on/IN its/PPg axis/NN or/CC building/VBG a/AT rocket/NN or/CC putting/VBG a/AT satellite/NN into/IN orbit/NN but/CC it/PPS is/BEZ ,/pct nevertheless/RB ,/pct a/AT science/NN ./pct
+But/CC because/CS science/NN is/BEZ based/VBN on/IN mathematics/NN doesn't/DOZ* mean/VB that/CS a/AT hot/JJ rodder/NN must/MD necessarily/RB be/BE a/AT mathematician/NN ./pct
 A/AT guy/NN can/MD be/BE an/AT active/JJ and/CC successful/JJ hot/JJ rodder/NN for/IN years/NNS without/IN becoming/VBG even/QL remotely/RB involved/VBN with/IN mathematical/JJ problems/NNS ;/pct ;/pct
 however/WRB ,/pct he/PPS will/MD have/HV a/AT clearer/JJR understanding/NN of/IN what/WDT he/PPS is/BEZ doing/VBG and/CC the/AT chances/NNS are/BER he/PPS will/MD be/BE more/QL successful/JJ if/CS he/PPS understands/VBZ the/AT few/AP formulas/NNS that/WPS apply/VB to/IN rodding/VBG ./pct
 A/AT mathematical/JJ formula/NN is/BEZ nothing/PN more/AP than/CS a/AT pattern/NN for/IN solving/VBG a/AT specific/JJ problem/NN ./pct
@@ -46,12 +46,12 @@ The/AT various/JJ mathematical/JJ processes/NNS can/MD be/BE simplified/VBN by/I
 Shortening/VBG the/AT results/NNS in/IN this/DT manner/NN will/MD not/NEG have/HV any/DTI detrimental/JJ effect/NN on/IN the/AT accuracy/NN of/IN the/AT final/JJ result/NN ./pct
 Some/DTI formulas/NNS contain/VB ``/pct constants/NNS ''/pct ./pct
 A/AT constant/NN is/BEZ a/AT number/NN that/WPS remains/VBZ the/AT same/AP regardless/RB of/IN the/AT other/AP numbers/NNS used/VBN in/IN the/AT formula/NN and/CC the/AT resultant/JJ equation/NN ./pct
-It/PPS is/BEZ a/AT number/NN without/IN which/WDT the/AT equation/NN cannot /None be/BE solved/VBN correctly/RB ./pct
+It/PPS is/BEZ a/AT number/NN without/IN which/WDT the/AT equation/NN cannot/MD* be/BE solved/VBN correctly/RB ./pct
 Rodding/VBG formulas/NNS apply/VB to/IN many/AP phases/NNS of/IN the/AT sport/NN ./pct
 The/AT answers/NNS they/PPSS give/VB can/MD often/RB pave/VB the/AT way/NN to/IN performance/NN increases/NNS and/CC ,/pct quite/QL often/RB ,/pct are/BER necessary/JJ for/IN completing/VBG entry/NN blanks/NNS for/IN different/JJ events/NNS ./pct
 When/WRB it/PPS is/BEZ needed/VBN ,/pct one/CD formula/NN is/BEZ as/QL important/JJ as/CS another/DT ./pct
 However/RB ,/pct some/DTI formulas/NNS are/BER used/VBN more/RBR than/CS others/NNS ./pct
-We'll /None take/VB them/PPO in/IN the/AT general/JJ order/NN of/IN their/PPg popularity/NN ./pct
+We'll/PPSSMD take/VB them/PPO in/IN the/AT general/JJ order/NN of/IN their/PPg popularity/NN ./pct
 Engine/NN displacement/NN
 A/AT rodder/NN should/MD be/BE able/JJ to/TO compute/VB the/AT displacement/NN of/IN his/PPg engine/NN ./pct
 Displacement/NN is/BEZ sometimes/RB referred/VBN to/IN as/CS ``/pct swept/VBN volume/NN ''/pct ./pct
@@ -67,8 +67,8 @@ The/AT formula/NN is/BEZ :/pct Af/NN ./pct
 Dimensions/NNS in/IN inches/NNS ,/pct and/CC fractions/NNS of/IN inches/NNS will/MD give/VB the/AT displacement/NN in/IN cubic/JJ inches/NNS ./pct
 Dimensions/NNS in/IN centimeters/NNS and/CC fractions/NNS of/IN centimeters/NNS will/MD give/VB the/AT displacement/NN in/IN cubic/JJ centimeters/NNS (/pct cc./NNS )/pct ./pct
 One/CD inch/NN equals/VBZ 2.54/CD centimeters/NNS :/pct one/CD cubic/JJ inch/NN equals/VBZ 16.38/CD cubic/JJ centimeters/NNS ./pct
-For/IN example/NN ,/pct let's /None consider/VB a/AT standard/JJ 283/CD cubic/JJ inch/NN Chevy/NP Aj/NN ./pct
-These/DTS engines/NNS have/HV a/AT cylinder/NN diameter/NN of/IN 3-7/8/CD inches/NNS and/CC a/AT stroke/NN length/NN of/IN 3/CD inches/NNS ./pct
+For/IN example/NN ,/pct let's/VBPPO consider/VB a/AT standard/JJ 283/CD cubic/JJ inch/NN Chevy/NP Aj/NN ./pct
+These/DTS engines/NNS have/HV a/AT cylinder/NN diameter/NN of/IN 3-7:8/CD inches/NNS and/CC a/AT stroke/NN length/NN of/IN 3/CD inches/NNS ./pct
 The/AT formula/NN ,/pct with/IN the/AT fractions/NNS converted/VBN to/IN decimals/NNS ,/pct becomes/VBZ Af/NN ./pct
 To/TO arrive/VB at/IN the/AT answer/NN ,/pct multiply/VB the/AT numbers/NNS together/RB by/IN starting/VBG at/IN the/AT left/NR of/IN the/AT group/NN and/CC working/VBG to/IN the/AT right/NR ./pct
 The/AT different/JJ steps/NNS will/MD look/VB like/CS this/DT :/pct Af/NN
@@ -87,7 +87,7 @@ However/RB ,/pct the/AT displacement/NN of/IN the/AT cylinder/NN can/MD be/BE co
 The/AT compression/NN ratio/NN arrived/VBN at/IN with/IN the/AT formula/NN will/MD be/BE the/AT same/AP regardless/RB of/IN whether/CS cubic/JJ inches/NNS or/CC cubic/JJ centimeters/NNS are/BER used/VBN ./pct
 The/AT only/AP precaution/NN is/BEZ that/CS all/ABN volumes/NNS used/VBN in/IN the/AT formula/NN be/BE quoted/VBN in/IN the/AT same/AP terms/NNS ./pct
 The/AT volume/NN of/IN the/AT cylinder/NN opening/NN in/IN the/AT head/NN gasket/NN must/MD be/BE computed/VBN by/IN multiplying/VBG its/PPg area/NN in/IN square/JJ inches/NNS by/IN the/AT gasket's/NNg thickness/NN in/IN thousandths/NNS of/IN an/AT inch/NN ./pct
-Sometimes/RB it/PPS is/BEZ necessary/JJ to/TO roughly/RB calculate/VB the/AT square/JJ inch/NN area/NN of/IN the/AT opening/NN but/CC the/AT calculation/NN can/MD usually/RB be/BE made/VBN with/IN sufficient/JJ accuracy/NN that/CS it/PPS won't /None affect/VB the/AT final/JJ computation/NN ./pct
+Sometimes/RB it/PPS is/BEZ necessary/JJ to/TO roughly/RB calculate/VB the/AT square/JJ inch/NN area/NN of/IN the/AT opening/NN but/CC the/AT calculation/NN can/MD usually/RB be/BE made/VBN with/IN sufficient/JJ accuracy/NN that/CS it/PPS won't/MD* affect/VB the/AT final/JJ computation/NN ./pct
 The/AT volume/NN of/IN the/AT opening/NN is/BEZ added/VBN to/IN the/AT combustion/NN chamber/NN volume/NN ./pct
 Another/DT thing/NN that/WPS must/MD be/BE taken/VBN into/IN consideration/NN is/BEZ the/AT volume/NN of/IN the/AT area/NN between/IN the/AT top/NN of/IN the/AT piston/NN and/CC the/AT top/NN of/IN the/AT cylinder/NN block/NN when/WRB the/AT piston/NN is/BEZ in/IN top/NN dead/JJ center/NN position/NN ./pct
 Compute/VB this/DT volume/NN by/IN measuring/VBG the/AT distance/NN from/IN the/AT top/NN of/IN the/AT block/NN to/IN the/AT piston/NN head/NN as/QL accurately/RB as/CS possible/JJ with/IN a/AT depth/NN micrometer/NN or/CC some/DTI other/AP precision/NN measuring/VBG device/NN and/CC then/RB multiply/VB the/AT area/NN of/IN the/AT cylinder/NN by/IN the/AT depth/NN ./pct
@@ -95,11 +95,11 @@ The/AT formula/NN for/IN this/DT step/NN is/BEZ :/pct Af/NN ./pct
 This/DT volume/NN is/BEZ added/VBN to/IN the/AT total/NN volume/NN of/IN the/AT combustion/NN chamber/NN and/CC head/NN gasket/NN opening/NN ./pct
 The/AT total/NN of/IN these/DTS three/CD volumes/NNS is/BEZ the/AT ``/pct final/JJ combustion/NN chamber/NN volume/NN ''/pct ./pct
 After/CS the/AT factors/NNS just/RB described/VBN have/HV been/BEN computed/VBN ,/pct they/PPSS are/BER applied/VBN to/IN the/AT following/VBG formula/NN :/pct Af/NN
-For/IN an/AT example/NN let's /None dream/VB up/RP an/AT engine/NN that/WPS has/HVZ a/AT final/JJ combustion/NN chamber/NN volume/NN of/IN 5/CD cubic/JJ inches/NNS and/CC a/AT cylinder/NN volume/NN of/IN 45/CD cubic/JJ inches/NNS ./pct
+For/IN an/AT example/NN let's/VBPPO dream/VB up/RP an/AT engine/NN that/WPS has/HVZ a/AT final/JJ combustion/NN chamber/NN volume/NN of/IN 5/CD cubic/JJ inches/NNS and/CC a/AT cylinder/NN volume/NN of/IN 45/CD cubic/JJ inches/NNS ./pct
 Applying/VBG these/DTS figures/NNS to/IN the/AT formula/NN we/PPSS get/VB the/AT equation/NN :/pct Af/NN ./pct
 The/AT compression/NN ratio/NN is/BEZ 10/CD to/IN 1/CD ./pct
-This/DT method/NN of/IN computing/VBG compression/NN ratio/NN cannot /None be/BE used/VBN accurately/RB for/IN engines/NNS that/WPS have/HV pistons/NNS with/IN either/CC domed/VBN or/CC irregularly/RB shaped/VBN heads/NNS ./pct
-Any/DTI irregularity/NN on/IN the/AT piston/NN heads/NNS will/MD make/VB it/PPO impossible/JJ ,/pct with/IN normal/JJ means/NNS ,/pct to/TO determine/VB the/AT final/JJ combustion/NN chamber/NN volume/NN because/CS the/AT volume/NN displaced/VBN by/IN the/AT piston/NN heads/NNS cannot /None be/BE readily/RB computed/VBN ./pct
+This/DT method/NN of/IN computing/VBG compression/NN ratio/NN cannot/MD* be/BE used/VBN accurately/RB for/IN engines/NNS that/WPS have/HV pistons/NNS with/IN either/CC domed/VBN or/CC irregularly/RB shaped/VBN heads/NNS ./pct
+Any/DTI irregularity/NN on/IN the/AT piston/NN heads/NNS will/MD make/VB it/PPO impossible/JJ ,/pct with/IN normal/JJ means/NNS ,/pct to/TO determine/VB the/AT final/JJ combustion/NN chamber/NN volume/NN because/CS the/AT volume/NN displaced/VBN by/IN the/AT piston/NN heads/NNS cannot/MD* be/BE readily/RB computed/VBN ./pct
 The/AT only/AP way/NN to/TO determine/VB the/AT final/JJ combustion/NN chamber/NN volume/NN when/WRB such/JJ pistons/NNS are/BER used/VBN is/BEZ by/IN measuring/VBG it/PPO with/IN liquid/NN while/CS the/AT cylinder/NN head/NN is/BEZ bolted/VBN to/IN the/AT cylinder/NN block/NN and/CC the/AT piston/NN is/BEZ in/IN top/NN dead/JJ center/NN position/NN ./pct
 Gear/NN ratio/NN --/pct speed/NN relationships/NNS
 There/EX are/BER four/CD versions/NNS of/IN the/AT formula/NN that/WPS involves/VBZ the/AT relationships/NNS of/IN car/NN speed/NN ,/pct engine/NN speed/NN ,/pct rear/JJ axle/NN gear/NN ratio/NN ,/pct and/CC rear/JJ tire/NN size/NN ./pct

@@ -3,7 +3,7 @@ Something/PN was/BEDZ happening/VBG all/QL right/RB ,/pct slowly/RB it/PPS is/BE
 The/AT Italians/NPS felt/VBD it/PPO ./pct
 Little/JJ things/NNS ./pct
 An/AT Italian/JJ poet/NN had/HVD noticed/VBN plainclothes/NNS policemen/NNS lounging/VBG around/IN the/AT area/NN of/IN Quirinal/NP Palace/NN ,/pct the/AT first/OD time/NN since/IN the/AT war/NN ./pct
-At/IN least/AP they/PPSS hadn't /None stepped/VBN up/RP and/CC asked/VBN to/TO see/VB papers/NNS in/IN the/AT hated/VBN ,/pct flat/JJ ,/pct dialect/NN mispronunciation/NN of/IN Mussolini's/NPg home/NN district/NN --/pct Dogumenti/NNS ,/pct per/IN favore/NN ./pct
+At/IN least/AP they/PPSS hadn't/HVD* stepped/VBN up/RP and/CC asked/VBN to/TO see/VB papers/NNS in/IN the/AT hated/VBN ,/pct flat/JJ ,/pct dialect/NN mispronunciation/NN of/IN Mussolini's/NPg home/NN district/NN --/pct Dogumenti/NNS ,/pct per/IN favore/NN ./pct
 But/CC ,/pct who/WPS knew/VBD ,/pct that/DT might/MD be/BE coming/VBG one/CD of/IN these/DTS days/NNS ./pct
 There/EX were/BED other/AP Italians/NPS who/WPS still/RB bore/VBD scars/NNS they/PPSS had/HVD earned/VBN in/IN police/NN station/NN basements/NNS ,/pct resisting/VBG ./pct
 They/PPSS laughed/VBD and/CC ,/pct true/JJ to/IN national/JJ form/NN and/CC manners/NNS ,/pct never/RB talked/VBD long/RB or/CC solemnly/RB on/IN any/DTI subject/NN at/IN all/ABN ,/pct but/CC some/DTI of/IN them/PPO worried/VBD out/RP loud/RB about/IN short/JJ memories/NNS and/CC ghosts/NNS ./pct
@@ -11,12 +11,12 @@ We/PPSS saw/VBD Giuseppe/NP Berto/NP at/IN a/AT party/NN once/RB in/IN a/AT whil
 Berto's/NPg The/AT Sky/NN Is/BEZ Red/JJ had/HVD been/BEN a/AT small/JJ masterpiece/NN and/CC in/IN its/PPg special/JJ way/NN the/AT best/JJT book/NN to/TO come/VB out/IN of/IN the/AT war/NN ./pct
 Now/RB he/PPS was/BEDZ married/VBN to/IN a/AT beautiful/JJ girl/NN ,/pct had/HVD a/AT small/JJ son/NN ,/pct and/CC lived/VBD in/IN an/AT expensive/JJ apartment/NN and/CC worked/VBD for/IN the/AT movies/NNS ./pct
 On/IN his/PPg desk/NN was/BEDZ a/AT slowly/RB accumulating/VBG treatment/NN and/CC script/NN of/IN The/AT Count/NN Of/IN Monte/NP Cristo/NP ./pct
-On/IN his/PPg bookshelves/NNS were/BED some/DTI of/IN the/AT latest/JJT American/JJ novels/NNS ,/pct including/IN Bellow's/NPg Seize/VB The/AT Day/NN ,/pct but/CC he/PPS hadn't /None read/VBN them/PPO (/pct they/PPSS were/BED sent/VBN by/IN American/JJ publishers/NNS )/pct and/CC wasn't /None especially/RB interested/VBN in/IN what/WDT the/AT American/JJ writers/NNS were/BED up/RP to/IN ./pct
+On/IN his/PPg bookshelves/NNS were/BED some/DTI of/IN the/AT latest/JJT American/JJ novels/NNS ,/pct including/IN Bellow's/NPg Seize/VB The/AT Day/NN ,/pct but/CC he/PPS hadn't/HVD* read/VBN them/PPO (/pct they/PPSS were/BED sent/VBN by/IN American/JJ publishers/NNS )/pct and/CC wasn't/BEDZ* especially/RB interested/VBN in/IN what/WDT the/AT American/JJ writers/NNS were/BED up/RP to/IN ./pct
 He/PPS was/BEDZ interested/VBN in/IN Robert/NP Musil's/NPg The/AT Man/NN Without/IN Qualities/NNS ./pct
 So/RB were/BED a/AT lot/NN of/IN other/AP people/NNS ./pct
 He/PPS was/BEDZ interested/VBN in/IN Italo/NP Svevo/NP ./pct
 He/PPS was/BEDZ thinking/VBG his/PPg way/NN into/IN a/AT new/JJ novel/NN ,/pct a/AT big/JJ one/CD ,/pct one/CD that/WPO people/NNS had/HVD been/BEN waiting/VBG for/IN ./pct
-It/PPS was/BEDZ going/VBG to/TO be/BE hard/JJ going/NN all/ABN the/AT way/NN because/CS he/PPS hadn't /None written/VBN seriously/RB for/IN a/AT while/NN ,/pct except/IN for/IN a/AT few/AP stories/NNS ,/pct was/BEDZ tired/VBN of/IN the/AT old/JJ method/NN of/IN realismo/NN he/PPS had/HVD so/QL successfully/RB used/VBN in/IN The/AT Sky/NN Is/BEZ Red/JJ ./pct
+It/PPS was/BEDZ going/VBG to/TO be/BE hard/JJ going/NN all/ABN the/AT way/NN because/CS he/PPS hadn't/HVD* written/VBN seriously/RB for/IN a/AT while/NN ,/pct except/IN for/IN a/AT few/AP stories/NNS ,/pct was/BEDZ tired/VBN of/IN the/AT old/JJ method/NN of/IN realismo/NN he/PPS had/HVD so/QL successfully/RB used/VBN in/IN The/AT Sky/NN Is/BEZ Red/JJ ./pct
 This/DT one/CD was/BEDZ going/VBG to/TO be/BE different/JJ ./pct
 He/PPS had/HVD bought/VBN a/AT little/JJ piece/NN of/IN property/NN down/RP along/IN the/AT coast/NN of/IN the/AT hard/JJ country/NN of/IN Calabria/NP that/WPO he/PPS knew/VBD so/QL well/RB ./pct
 He/PPS was/BEDZ going/VBG to/TO do/DO one/CD or/CC two/CD more/AP films/NNS for/IN cash/NN and/CC then/RB chuck/VB it/PPO all/ABN ,/pct leave/VB Rome/NP and/CC its/PPg intellectual/JJ cliques/NNS and/CC money-fed/JJ life/NN ,/pct go/VB back/RB to/IN Calabria/NP ./pct
@@ -64,7 +64,7 @@ Like/CS everything/PN else/RB in/IN Rome/NP ,/pct ruins/NNS and/CC monuments/NNS
 I/PPSS have/HV seen/VBN diapers/NNS strung/VBN across/IN the/AT ruined/VBN roof/NN ./pct
 The/AT English/JJ lady/NN really/RB wanted/VBD to/TO put/VB a/AT wreath/NN on/IN the/AT Garibaldi/NP monument/NN on/IN the/AT 30th/OD of/IN April/NP ./pct
 She/PPS had/HVD her/PPg reasons/NNS for/IN this/DT ./pct
-For/IN one/CD thing/NN ,/pct there/EX wasn't /None going/VBG to/TO be/BE any/DTI ceremony/NN at/IN all/ABN this/DT year/NN ./pct
+For/IN one/CD thing/NN ,/pct there/EX wasn't/BEDZ* going/VBG to/TO be/BE any/DTI ceremony/NN at/IN all/ABN this/DT year/NN ./pct
 There/EX were/BED a/AT few/AP reasons/NNS for/IN that/DT ,/pct too/RB :/pct Garibaldi/NP had/HVD been/BEN taken/VBN up/RP and/CC exploited/VBN by/IN the/AT Communists/NNS nowadays/RB ./pct
 Therefore/RB the/AT government/NN wanted/VBD no/AT part/NN of/IN him/PPO ./pct
 (/pct It/PPS is/BEZ sort/NN of/IN as/CS if/CS our/PPg government/NN should/MD decide/VB to/TO disown/VB Washington/NP or/CC Lincoln/NP for/IN the/AT same/AP reason/NN ./pct
@@ -86,7 +86,7 @@ He/PPS was/BEDZ never/RB heard/VBN of/IN again/RB ./pct
 He/PPS is/BEZ thought/VBN either/CC to/TO have/HV been/BEN killed/VBN by/IN the/AT Fascists/NPS as/QL soon/RB as/CS he/PPS landed/VBD or/CC to/TO have/HV killed/VBN himself/PPL by/IN flying/VBG out/RP to/IN sea/NN and/CC crashing/VBG his/PPg plane/NN ./pct
 He/PPS was/BEDZ ,/pct thus/RB ,/pct an/AT early/JJ and/CC spectacular/JJ victim/NN ./pct
 And/CC there/EX is/BEZ something/PN so/QL wonderfully/QL romantic/JJ about/IN it/PPO all/ABN ./pct
-He/PPS really/RB didn't /None know/VB how/WRB to/TO fly/VB ./pct
+He/PPS really/RB didn't/DOD* know/VB how/WRB to/TO fly/VB ./pct
 He/PPS had/HVD crashed/VBN on/IN takeoff/NN once/RB before/RB ./pct
 Gossip/NN had/HVD it/PPO (/pct for/CS gossip/NN is/BEZ the/AT soul/NN of/IN Rome/NP )/pct that/CS a/AT famous/JJ American/JJ dancer/NN of/IN the/AT time/NN had/HVD paid/VBN for/IN both/ABX the/AT planes/NNS ./pct
 It/PPS was/BEDZ absurd/JJ and/CC dramatic/JJ ./pct
@@ -103,10 +103,10 @@ She/PPS had/HVD been/BEN picked/VBN up/RP by/IN the/AT Russians/NPS ,/pct questi
 She/PPS escaped/VBD ,/pct crawled/VBD through/IN the/AT usual/JJ mine/NN fields/NNS ,/pct under/IN barbed/JJ wire/NN ,/pct was/BEDZ shot/VBN at/IN ,/pct swam/VBD a/AT river/NN ,/pct and/CC we/PPSS finally/RB picked/VBD her/PPO up/RP in/IN Linz/NP ./pct
 She/PPS showed/VBD us/PPO what/WDT had/HVD happened/VBN to/IN her/PPO ./pct
 No/AT airplanes/NNS ,/pct no/AT Nathan/NP Hale/NP statements/NNS ./pct
-Just/RB no/AT spot/NN ,/pct not/NEG even/RB a/AT dimesize/JJ spot/NN ,/pct on/IN her/PPg whole/JJ body/NN that/WPS wasn't /None bruised/VBN ,/pct bruise/NN on/IN top/NN of/IN bruise/NN ,/pct from/IN beatings/NNS ./pct
+Just/RB no/AT spot/NN ,/pct not/NEG even/RB a/AT dimesize/JJ spot/NN ,/pct on/IN her/PPg whole/JJ body/NN that/WPS wasn't/BEDZ* bruised/VBN ,/pct bruise/NN on/IN top/NN of/IN bruise/NN ,/pct from/IN beatings/NNS ./pct
 I/PPSS understand/VB very/QL well/RB about/IN Lauro/NP Di/NP Bosis/NP and/CC how/WRB his/PPg action/NN is/BEZ symbolic/JJ ./pct
-The/AT trouble/NN is/BEZ that/CS like/CS many/AP symbols/NNS it/PPS doesn't /None seem/VB a/AT very/QL realistic/JJ one/CD ./pct
-The/AT English/JJ lady/NN wanted/VBD to/TO pay/VB tribute/NN to/IN Garibaldi/NP and/CC to/IN Lauro/NP Di/NP Bosis/NP ,/pct but/CC she/PPS wasn't /None going/VBG to/TO be/BE here/RB to/TO do/DO it/PPO ./pct
+The/AT trouble/NN is/BEZ that/CS like/CS many/AP symbols/NNS it/PPS doesn't/DOZ* seem/VB a/AT very/QL realistic/JJ one/CD ./pct
+The/AT English/JJ lady/NN wanted/VBD to/TO pay/VB tribute/NN to/IN Garibaldi/NP and/CC to/IN Lauro/NP Di/NP Bosis/NP ,/pct but/CC she/PPS wasn't/BEDZ* going/VBG to/TO be/BE here/RB to/TO do/DO it/PPO ./pct
 Were/BED any/DTI of/IN us/PPO interested/VBN enough/QLP in/IN the/AT idea/NN to/TO do/DO it/PPO for/IN her/PPO ,/pct by/IN proxy/NN so/RB to/TO speak/VB ?/pct ?/pct
 There/EX was/BEDZ a/AT pretty/QL thorough/JJ silence/NN at/IN that/DT point/NN ./pct
 My/PPg spoon/NN stirring/VBG coffee/NN ,/pct banging/VBG against/IN the/AT side/NN of/IN the/AT cup/NN ,/pct sounded/VBD as/QL loud/JJ as/CS a/AT bell/NN ./pct
@@ -117,7 +117,7 @@ I/PPSS had/HVD some/DTI reasons/NNS ,/pct too/RB ./pct
 I/PPSS admire/VB the/AT English/JJ lady/NN ./pct
 I/PPSS hate/VB embarrassing/VBG silences/NNS and/CC have/HV been/BEN known/VBN to/TO make/VB a/AT fool/NN out/IN of/IN myself/PPL just/RB to/TO prevent/VB one/CD ./pct
 I/PPSS also/RB had/HVD and/CC have/HV feelings/NNS about/IN Garibaldi/NP ./pct
-Like/CS every/AT Southerner/NN I/PPSS can't /None escape/VB the/AT romantic/JJ tradition/NN of/IN brave/JJ defeats/NNS ,/pct forlorn/JJ lost/VBN causes/NNS ./pct
+Like/CS every/AT Southerner/NN I/PPSS can't/MD* escape/VB the/AT romantic/JJ tradition/NN of/IN brave/JJ defeats/NNS ,/pct forlorn/JJ lost/VBN causes/NNS ./pct
 Though/CS Garibaldi's/NPg fight/NN was/BEDZ small/JJ shakes/NNS compared/VBN to/IN Pickett's/NPg Charge/NN --/pct which/WDT ,/pct like/CS all/ABN Southerners/NNS ,/pct I/PPSS view/VB in/IN almost/QL Miltonic/JJ terms/NNS ,/pct fallen/VBN angels/NNS ,/pct etc./RB --/pct I/PPSS associated/VBD the/AT two/CD ./pct
 And/CC to/TO top/VB it/PPO all/ABN I/PPSS am/BEM often/RB sentimental/JJ on/IN purpose/NN ,/pct trying/VBG to/TO prove/VB to/IN myself/PPL that/CS I/PPSS am/BEM not/NEG afraid/JJ of/IN sentiment/NN ./pct
 So/QL much/AP for/IN all/ABN that/DT ./pct

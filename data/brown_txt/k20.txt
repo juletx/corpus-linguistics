@@ -49,7 +49,7 @@ The/AT fire/NN in/IN the/AT sitting/VBG room/NN was/BEDZ lighted/VBN ./pct
 ``/pct What/WDT about/IN the/AT bedroom/NN ''/pct ?/pct ?/pct
 Byron/NP inquired/VBD ./pct
 ``/pct Seems/VBZ to/IN me/PPO last/AP time/NN I/PPSS was/BEDZ here/RB the/AT grate/NN bellowed/VBD out/RP smoke/NN as/CS it/PPS might/MD have/HV been/BEN preparing/VBG us/PPO for/IN hell/NN ''/pct ./pct
-``/pct We/PPSS found/VBD some/DTI owls/NNS had/HVD built/VBN a/AT nest/NN in/IN the/AT chimney/NN ,/pct milord/NN ,/pct but/CC I/PPSS promise/VB you/PPO you'll /None never/RB have/HV trouble/NN of/IN that/DT sort/NN again/RB ''/pct ./pct
+``/pct We/PPSS found/VBD some/DTI owls/NNS had/HVD built/VBN a/AT nest/NN in/IN the/AT chimney/NN ,/pct milord/NN ,/pct but/CC I/PPSS promise/VB you/PPO you'll/PPSSMD never/RB have/HV trouble/NN of/IN that/DT sort/NN again/RB ''/pct ./pct
 So/CS ,/pct not/NEG only/RB had/HVD he/PPS been/BEN here/RB before/RB ,/pct but/CC it/PPS seemed/VBD he/PPS might/MD well/VB come/VB again/RB ./pct
 Claire/NP felt/VBD suddenly/RB small/JJ and/CC cheap/JJ ,/pct heroine/NN of/IN a/AT trivial/JJ episode/NN in/IN the/AT voluminous/JJ history/NN of/IN Don/NP Juan/NP ./pct
 A/AT cold/JJ supper/NN was/BEDZ ordered/VBN and/CC a/AT bottle/NN of/IN port/NN ./pct
@@ -57,19 +57,19 @@ When/WRB Napoleon's/NPg ship/NN had/HVD borne/VBN him/PPO to/IN Elba/NP ,/pct Fr
 As/CS they/PPSS waited/VBD for/IN supper/NN they/PPSS sat/VBD by/IN the/AT fire/NN ,/pct glasses/NNS in/IN hand/NN ,/pct while/CS Byron/NP philosophized/VBD as/QL much/RB for/IN his/PPg own/JJ entertainment/NN as/CS hers/PPgg ./pct
 ``/pct Sex/NN is/BEZ overpriced/VBN ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct The/AT great/JJ Greek/JJ tragedies/NNS are/BER concerned/VBN with/IN man/NN against/IN Fate/NN ,/pct not/NEG man/NN against/IN man/NN for/IN the/AT prize/NN of/IN a/AT woman's/NNg body/NN ./pct
-So/RB don't /None see/VB yourself/PPL as/CS a/AT heroine/NN or/CC fancy/VB this/DT little/JJ adventure/NN is/BEZ an/AT event/NN of/IN major/JJ importance/NN ''/pct ./pct
+So/RB don't/DO* see/VB yourself/PPL as/CS a/AT heroine/NN or/CC fancy/VB this/DT little/JJ adventure/NN is/BEZ an/AT event/NN of/IN major/JJ importance/NN ''/pct ./pct
 ``/pct The/AT gods/NNS seemed/VBD to/TO think/VB sex/NN pretty/QL important/JJ ''/pct ,/pct she/PPS rebutted/VBD ./pct
 ``/pct Mars/NP and/CC Venus/NP ,/pct Bacchus/NP and/CC Ariadne/NP ,/pct Jupiter/NP and/CC Io/NP ,/pct Byron/NP and/CC the/AT nymph/NN of/IN the/AT owl's/NNg nest/NN ./pct
 That/DT would/MD be/BE Minerva/NP ,/pct I/PPSS suppose/VB ./pct
-Wasn't /None the/AT owl/NN her/PPg symbol/NN ''/pct ?/pct ?/pct
+Wasn't/BEDZ* the/AT owl/NN her/PPg symbol/NN ''/pct ?/pct ?/pct
 Byron/NP laughed/VBD ./pct
 ``/pct So/RB you/PPSS know/VB something/PN of/IN the/AT classics/NNS ,/pct do/DO you/PPSS ''/pct ?/pct ?/pct
 ``/pct Tell/VB me/PPO about/IN Minerva/NP ,/pct how/WRB she/PPS behaved/VBD ,/pct what/WDT she/PPS did/DOD to/TO please/VB you/PPO ''/pct ./pct
-``/pct I'll /None tell/VB you/PPO nothing/PN ./pct
-I/PPSS don't /None ask/VB you/PPO who/WPS 'tis /None you're /None being/BEG unfaithful/JJ to/IN ,/pct husband/NN or/CC lover/NN ./pct
-Frankly/RB ,/pct I/PPSS don't /None care/VB ''/pct ./pct
+``/pct I'll/PPSSMD tell/VB you/PPO nothing/PN ./pct
+I/PPSS don't/DO* ask/VB you/PPO who/WPS 'tis/PPSBEZ you're/PPSSBER being/BEG unfaithful/JJ to/IN ,/pct husband/NN or/CC lover/NN ./pct
+Frankly/RB ,/pct I/PPSS don't/DO* care/VB ''/pct ./pct
 For/IN a/AT moment/NN she/PPS thought/VBD of/IN answering/VBG with/IN the/AT truth/NN but/CC she/PPS knew/VBD there/EX were/BED men/NNS who/WPS shied/VBD away/RB from/IN virginity/NN ,/pct who/WPS demanded/VBD some/DTI degree/NN of/IN education/NN in/IN body/NN as/QL well/RB as/CS mind/NN ./pct
-``/pct Very/QL well/RB ''/pct ,/pct she/PPS said/VBD ,/pct ``/pct I'll /None not/NEG catechize/VB you/PPO ./pct
+``/pct Very/QL well/RB ''/pct ,/pct she/PPS said/VBD ,/pct ``/pct I'll/PPSSMD not/NEG catechize/VB you/PPO ./pct
 What/WDT matter/VB the/AT others/NNS so/QL long/JJ as/CS I/PPSS have/HV my/PPg place/NN in/IN history/NN ''/pct ./pct
 She/PPS was/BEDZ striking/VBG the/AT right/JJ note/NN ./pct
 No/AT man/NN ever/RB had/HVD a/AT better/JJR opinion/NN of/IN himself/PPL and/CC indeed/RB ,/pct with/IN one/CD so/QL favored/VBN ,/pct flattery/NN could/MD hardly/RB seem/VB overdone/VBN ./pct
@@ -98,8 +98,8 @@ As/CS he/PPS declaimed/VBD the/AT sonorous/JJ measures/NNS ,/pct it/PPS was/BEDZ
 ``/pct How/WRB do/DO you/PPSS know/VB that/DT ''/pct ?/pct ?/pct
 Demanded/VBN Mary/NP ./pct
 ``/pct I/PPSS was/BEDZ told/VBN it/PPO on/IN good/JJ authority/NN ''/pct ,/pct Claire/NP answered/VBD darkly/RB ./pct
-``/pct I/PPSS mustn't /None tell/VB ,/pct I/PPSS mustn't /None tell/VB ''/pct ,/pct she/PPS repeated/VBD to/IN herself/PPL ./pct
-``/pct I/PPSS promised/VBD him/PPO I/PPSS wouldn't /None ''/pct ./pct
+``/pct I/PPSS mustn't/MD* tell/VB ,/pct I/PPSS mustn't/MD* tell/VB ''/pct ,/pct she/PPS repeated/VBD to/IN herself/PPL ./pct
+``/pct I/PPSS promised/VBD him/PPO I/PPSS wouldn't/MD* ''/pct ./pct
 Chapter/NN 9/CD
 winter/NN came/VBD ,/pct and/CC with/IN it/PPO Mary's/NPg baby/NN --/pct a/AT boy/NN as/CS she/PPS had/HVD wished/VBN ./pct
 William/NP ,/pct he/PPS was/BEDZ called/VBN ,/pct in/IN honor/NN of/IN the/AT man/NN who/WPS was/BEDZ at/IN once/RB Shelley's/NPg pensioner/NN and/CC his/PPg most/QL bitter/JJ detractor/NN ./pct

@@ -1,5 +1,5 @@
 Mando/NP ,/pct pleading/VBG her/PPg cause/NN ,/pct must/MD have/HV said/VBN that/CS Dr./NN Brown/NP was/BEDZ the/AT most/QL distinguished/VBN physician/NN in/IN the/AT United/VBN States/NNS of/IN America/NP ,/pct for/CS our/PPg man/NN poured/VBD out/RP his/PPg symptoms/NNS and/CC drew/VBD a/AT madly/RB waving/VBG line/NN indicating/VBG the/AT irregularity/NN of/IN his/PPg pulse/NN ./pct
-``/pct He's /None got/VBN high/JJ blood/NN pressure/NN ,/pct too/RB ,/pct and/CC bum/JJ kidneys/NNS ''/pct ,/pct the/AT doctor/NN said/VBD to/IN me/PPO ./pct
+``/pct He's/PPSHVZ got/VBN high/JJ blood/NN pressure/NN ,/pct too/RB ,/pct and/CC bum/JJ kidneys/NNS ''/pct ,/pct the/AT doctor/NN said/VBD to/IN me/PPO ./pct
 ``/pct Transparent/JJ look/NN ,/pct waxy/JJ skin/NN --/pct could/MD well/RB be/BE uremia/NN ''/pct ./pct
 He/PPS looked/VBD disapprovingly/RB at/IN an/AT ash/NN tray/NN piled/VBN high/RB with/IN cigarette/NN stubs/NNS ,/pct shook/VBD his/PPg head/NN ,/pct and/CC moved/VBD his/PPg hand/NN back/RB and/CC forth/RB in/IN a/AT strong/JJ negative/JJ gesture/NN ./pct
 The/AT little/JJ official/NN hung/VBD his/PPg head/NN in/IN shame/NN ./pct
@@ -11,7 +11,7 @@ By/IN this/DT time/NN word/NN had/HVD got/VBN around/RB that/CS an/AT American/J
 One/CD fellow/NN who/WPS had/HVD liver/NN spots/NNS held/VBD out/RP his/PPg hands/NNS to/IN the/AT great/JJ healer/NN ./pct
 It/PPS was/BEDZ funny/JJ but/CC it/PPS was/BEDZ also/RB touching/VBG ./pct
 ``/pct You/PPSS know/VB ''/pct ,/pct Norton/NP said/VBD to/IN me/PPO later/RBR ,/pct ``/pct I/PPSS am/BEM thinking/VBG of/IN setting/VBG up/RP the/AT Klinico/NN Brownapopolus/NP ./pct
-I/PPSS might/MD not/NEG make/VB any/DTI money/NN but/CC I'd /None sure/RB have/HV patients/NNS ''/pct ./pct
+I/PPSS might/MD not/NEG make/VB any/DTI money/NN but/CC I'd/PPSSMD sure/RB have/HV patients/NNS ''/pct ./pct
 After/IN luncheon/NN we/PPSS took/VBD advantage/NN of/IN the/AT siesta/NN period/NN to/TO try/VB to/TO get/VB in/IN touch/NN with/IN a/AT few/AP people/NNS to/IN whom/WPO our/PPg dear/JJ friend/NN Deppy/NP had/HVD written/VBN ./pct
 Deppy/NP is/BEZ Despina/NP Messinesi/NP ,/pct a/AT long-time/NN member/NN of/IN the/AT Vogue/NN staff/NN who/WPS ,/pct although/CS born/VBN in/IN Boston/NP ,/pct was/BEDZ born/VBN there/RB of/IN Greek/JJ parents/NNS ./pct
 Several/AP years/NNS of/IN her/PPg life/NN have/HV been/BEN spent/VBN in/IN the/AT homeland/NN ,/pct and/CC she/PPS had/HVD written/VBN to/IN friends/NNS to/TO alert/VB them/PPO of/IN our/PPg coming/NN ./pct
@@ -28,12 +28,12 @@ Having/HVG completed/VBN our/PPg camera/NN work/NN ,/pct we/PPSS started/VBD our
 I/PPSS suppose/VB the/AT same/AP emotion/NN holds/VBZ ,/pct if/CS to/IN a/AT lesser/JJR degree/NN ,/pct with/IN any/DTI famous/JJ monument/NN ./pct
 Will/MD it/PPS live/VB up/RP to/IN its/PPg reputation/NN ?/pct ?/pct
 The/AT weight/NN of/IN fame/NN and/CC history/NN is/BEZ formidable/JJ ,/pct and/CC dreary/JJ steel/NN engravings/NNS in/IN schoolbooks/NNS do/DO little/AP to/TO quicken/VB interest/NN and/CC imagination/NN ./pct
-Uh/UH huh/UH ,/pct we/PPSS think/VB ,/pct looking/VBG at/IN them/PPO ,/pct so/RB that's /None the/AT Parthenon/NP ./pct
+Uh/UH huh/UH ,/pct we/PPSS think/VB ,/pct looking/VBG at/IN them/PPO ,/pct so/RB that's/DTBEZ the/AT Parthenon/NP ./pct
 And/CC then/RB perhaps/RB one/CD day/NN we/PPSS get/VB to/IN Athens/NP ./pct
 We/PPSS are/BER here/RB !/pct !/pct
-We've /None come/VBN a/AT long/JJ way/NN and/CC spent/VBN a/AT lot/NN of/IN money/NN ./pct
+We've/PPSSHV come/VBN a/AT long/JJ way/NN and/CC spent/VBN a/AT lot/NN of/IN money/NN ./pct
 It/PPS had/HVD better/RBR be/BE good/JJ ./pct
-Don't /None worry/VB about/IN the/AT Acropolis/NP ./pct
+Don't/DO* worry/VB about/IN the/AT Acropolis/NP ./pct
 It/PPS is/BEZ awe-inspiring/JJ ./pct
 Probably/RB every/AT visitor/NN has/HVZ a/AT favorite/JJ time/NN for/IN his/PPg first/OD sight/NN of/IN it/PPO ./pct
 We/PPSS saw/VBD it/PPO frequently/RB afterward/RB ,/pct but/CC our/PPg suggestion/NN for/IN the/AT very/QL first/OD encounter/NN is/BEZ near/IN sunset/NN ./pct
@@ -63,7 +63,7 @@ The/AT Acropolis/NP had/HVD been/BEN scheduled/VBN for/IN the/AT treatment/NN to
 Athenian/JJ society/NN was/BEDZ split/VBN into/IN two/CD factions/NNS ,/pct the/AT Philistines/NPS and/CC the/AT Artists/NNS ./pct
 The/AT Artists/NNS contended/VBD that/CS the/AT Philistines/NPS ,/pct gross/JJ of/IN soul/NN ,/pct were/BED all/ABN for/IN having/HVG Son/NN et/CC Lumiere/NN ,/pct since/CS the/AT French/NPS were/BED footing/VBG the/AT bill/NN and/CC the/AT attraction/NN ,/pct wherever/WRB it/PPS had/HVD been/BEN done/VBN ,/pct had/HVD proven/VBN popular/JJ ./pct
 This/DT was/BEDZ the/AT crassest/JJT kind/NN of/IN materialism/NN and/CC they/PPSS ,/pct the/AT Artists/NNS ,/pct would/MD have/HV no/AT truck/NN with/IN it/PPO ./pct
-The/AT Acropolis/NP was/BEDZ unique/JJ in/IN the/AT world/NN and/CC if/CS that/DT imcomparable/JJ work/NN flooded/VBN by/IN moonlight/NN wasn't /None enough/AP for/IN both/ABX natives/NNS and/CC tourists/NNS ,/pct then/RB they/PPSS were/BED quite/QL simply/RB barbarians/NNS and/CC the/AT hell/NN with/IN them/PPO ./pct
+The/AT Acropolis/NP was/BEDZ unique/JJ in/IN the/AT world/NN and/CC if/CS that/DT imcomparable/JJ work/NN flooded/VBN by/IN moonlight/NN wasn't/BEDZ* enough/AP for/IN both/ABX natives/NNS and/CC tourists/NNS ,/pct then/RB they/PPSS were/BED quite/QL simply/RB barbarians/NNS and/CC the/AT hell/NN with/IN them/PPO ./pct
 It/PPS was/BEDZ very/QL stimulating/JJ ./pct
 The/AT restaurant/NN to/IN which/WDT the/AT Sakellariadises/NPS took/VBD us/PPO on/IN this/DT night/NN of/IN controversy/NN was/BEDZ the/AT Asteria/NP ,/pct on/IN Asteria/NP beach/NN ./pct
 This/DT is/BEZ a/AT public/JJ bathing/VBG beach/NN ,/pct easily/RB accessible/JJ by/IN tramway/NN from/IN the/AT center/NN of/IN Athens/NP ./pct
@@ -79,7 +79,7 @@ This/DT agreeable/JJ state/NN of/IN affairs/NNS is/BEZ explicable/JJ ,/pct I/PPS
 One/CD is/BEZ Greece/NP is/BEZ not/NEG yet/RB suffering/VBG from/IN overpopulation/NN ./pct
 The/AT public/NN may/MD still/RB find/VB pleasure/NN in/IN public/JJ places/NNS ./pct
 The/AT other/AP is/BEZ that/CS the/AT charge/NN for/IN cabanas/NNS and/CC parasols/NNS ,/pct though/CS modest/JJ from/IN an/AT American/JJ point/NN of/IN view/NN ,/pct still/RB is/BEZ a/AT little/QL high/JJ for/IN many/AP Athenians/NPS ./pct
-We/PPSS were/BED struck/VBN by/IN the/AT notable/JJ absence/NN of/IN banana/NN skins/NNS and/CC beer/NN cans/NNS ,/pct but/CC just/RB so/CS that/CS we/PPSS wouldn't /None go/VB overboard/RB on/IN Greek/JJ refinement/NN ,/pct perfection/NN was/BEDZ side-stepped/VBN by/IN a/AT couple/NN of/IN braying/VBG portable/JJ radios/NNS ./pct
+We/PPSS were/BED struck/VBN by/IN the/AT notable/JJ absence/NN of/IN banana/NN skins/NNS and/CC beer/NN cans/NNS ,/pct but/CC just/RB so/CS that/CS we/PPSS wouldn't/MD* go/VB overboard/RB on/IN Greek/JJ refinement/NN ,/pct perfection/NN was/BEDZ side-stepped/VBN by/IN a/AT couple/NN of/IN braying/VBG portable/JJ radios/NNS ./pct
 Greek/JJ boys/NNS and/CC girls/NNS also/RB go/VB for/IN rock-and-roll/NN ,/pct and/CC the/AT stations/NNS most/RBT tuned/VBN to/IN are/BER those/DTS carrying/VBG United/VBN States/NNS overseas/JJ programs/NNS ./pct
 A/AT good/JJ deal/NN of/IN English/NP was/BEDZ spoken/VBN on/IN the/AT beach/NN ,/pct most/AP educated/VBN Greeks/NPS learn/VB it/PPO in/IN childhood/NN ,/pct and/CC there/EX were/BED also/RB American/JJ wives/NNS and/CC children/NNS of/IN our/PPg overseas/JJ servicemen/NNS ./pct
 For/IN a/AT delightful/JJ drive/NN out/IN of/IN Athens/NP I/PPSS should/MD recommend/VB Sounion/NP ,/pct at/IN the/AT end/NN of/IN the/AT Attic/NN Peninsula/NN ./pct
@@ -93,7 +93,7 @@ There/EX is/BEZ a/AT mediocre/JJ restaurant/NN at/IN Sounion/NP and/CC I/PPSS fe
 I/PPSS think/VB its/PPg thirst/NN had/HVD never/RB been/BEN assuaged/VBN before/RB ./pct
 Norton/NP and/CC I/PPSS dined/VBD one/CD night/NN in/IN a/AT sea-food/NN restaurant/NN in/IN Piraeus/NP right/QL on/IN the/AT water's/NNg edge/NN ./pct
 To/TO enter/VB it/PPO ,/pct you/PPSS go/VB down/IN five/CD or/CC six/CD steps/NNS from/IN the/AT road/NN ./pct
-Across/IN the/AT road/NN is/BEZ the/AT kitchen/NN ,/pct and/CC waiters/NNS bearing/VBG great/JJ trays/NNS of/IN dishes/NNS dodge/VB traffic/NN as/QL nimbly/RB as/CS their/PPg French/JJ colleagues/NNS at/IN the/AT restaurant/NN in/IN the/AT Place/NN Du /None Tertre/NN in/IN Paris/NP ./pct
+Across/IN the/AT road/NN is/BEZ the/AT kitchen/NN ,/pct and/CC waiters/NNS bearing/VBG great/JJ trays/NNS of/IN dishes/NNS dodge/VB traffic/NN as/QL nimbly/RB as/CS their/PPg French/JJ colleagues/NNS at/IN the/AT restaurant/NN in/IN the/AT Place/NN Du/INAT Tertre/NN in/IN Paris/NP ./pct
 This/DT restaurant/NN ,/pct too/RB ,/pct had/HVD a/AT cat/NN ,/pct a/AT dusty/JJ ,/pct thin/JJ little/JJ creature/NN ./pct
 How/WRB can/MD a/AT cat/NN be/BE thin/JJ in/IN a/AT fish/NN restaurant/NN ?/pct ?/pct
 But/CC this/DT one/CD was/BEDZ ./pct

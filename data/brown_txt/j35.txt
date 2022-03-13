@@ -3,7 +3,7 @@ This/DT may/MD be/BE because/CS the/AT Athabascan/NP divergence/NN began/VBD ear
 or/CC again/RB because/CS the/AT Athabascan/NP languages/NNS spread/VB over/IN a/AT very/QL much/QL larger/JJR territory/NN (/pct including/IN three/CD wholly/RB separated/VBN areas/NNS )/pct ;/pct ;/pct
 or/CC both/ABX ./pct
 The/AT differentiation/NN ,/pct however/WRB ,/pct is/BEZ not/NEG very/QL much/QL greater/JJR ,/pct as/CS shown/VBN by/IN the/AT fact/NN that/CS Athabascan/NP shows/VBZ 3.46/CD stems/NNS per/IN meaning/NN slot/NN as/CS against/IN 2.75/CD for/IN Yokuts/NP ,/pct with/IN a/AT slightly/QL greater/JJR number/NN of/IN languages/NNS represented/VBN in/IN our/PPg sample/NN :/pct 24/CD as/CS against/IN 21/CD ./pct
-(/pct On/IN deduction/NN of/IN one-eighth/NN from/IN 3.46/CD ,/pct the/AT stem/NN //pct item/NN rate/NN becomes/VBZ 3.03/CD against/IN 2.75/CD in/IN equivalent/JJ number/NN of/IN languages/NNS ./pct
+(/pct On/IN deduction/NN of/IN one-eighth/NN from/IN 3.46/CD ,/pct the/AT stem/NN :/pct item/NN rate/NN becomes/VBZ 3.03/CD against/IN 2.75/CD in/IN equivalent/JJ number/NN of/IN languages/NNS ./pct
 )/pct These/DTS general/JJ facts/NNS are/BER mentioned/VBN to/TO make/VB clear/JJ that/CS the/AT total/NN situation/NN in/IN the/AT two/CD families/NNS is/BEZ similar/JJ enough/QLP to/TO warrant/VB comparison/NN ./pct
 The/AT greatest/JJT difference/NN in/IN the/AT two/CD sets/NNS of/IN figures/NNS is/BEZ due/JJ to/IN differences/NNS in/IN the/AT two/CD sets/NNS of/IN lists/NNS used/VBN ./pct
 These/DTS differences/NNS in/IN turn/NN result/VB from/IN the/AT fact/NN that/CS my/PPg Yokuts/NP vocabularies/NNS were/BED built/VBN up/RP of/IN terms/NNS selected/VBN mainly/RB to/TO insure/VB unambiguity/NN of/IN English/NP meaning/NN between/IN illiterate/JJ informants/NNS and/CC myself/PPL ,/pct within/IN a/AT compact/JJ and/CC uniform/JJ territorial/JJ area/NN ,/pct but/CC that/CS Hoijer's/NPg vocabulary/NN is/BEZ based/VBN on/IN Swadesh's/NPg second/OD glottochronological/JJ list/NN which/WDT aims/VBZ at/IN eliminating/VBG all/ABN items/NNS which/WDT might/MD be/BE culturally/RB or/CC geographically/RB determined/VBN ./pct
@@ -26,7 +26,7 @@ Or/CC the/AT exception/NN may/MD be/BE due/JJ to/IN a/AT particular/JJ durabilit
 More/AP word/NN class/NN ratios/NNS determined/VBN in/IN more/AP languages/NNS will/MD no/AT doubt/NN ultimately/RB answer/VB the/AT question/NN ./pct
 5/CD ./pct
 If/CS word/NN classes/NNS differ/VB in/IN their/PPg resistance/NN or/CC liability/NN to/IN stem/NN replacement/NN within/IN meaning/NN slot/NN ,/pct it/PPS is/BEZ conceivable/JJ that/CS individual/JJ meanings/NNS also/RB differ/VB with/IN fair/JJ consistence/NN trans-lingually/RB ./pct
-Hoijer's/NPg Athabascan/NP and/CC my/PPg Yokuts/NP share/VB 71/CD identical/JJ meanings/NNS (/pct with/IN allowance/NN for/IN several/AP near-synonyms/NNS like/CS stomach-belly /None ,/pct big-large /None ,/pct long-far /None ,/pct many-much /None ,/pct die-dead /None ,/pct say-speak /None )/pct ./pct
+Hoijer's/NPg Athabascan/NP and/CC my/PPg Yokuts/NP share/VB 71/CD identical/JJ meanings/NNS (/pct with/IN allowance/NN for/IN several/AP near-synonyms/NNS like/CS stomach-belly/NNNN ,/pct big-large/JJJJ ,/pct long-far/JJJJ ,/pct many-much/APAP ,/pct die-dead/VBJJ ,/pct say-speak/VBVB )/pct ./pct
 For/IN Yokuts/NP ,/pct I/PPSS tabulated/VBD these/DTS 71/CD items/NNS in/IN five/CD columns/NNS ,/pct according/RB as/CS they/PPSS were/BED expressed/VBN by/IN 1/CD ,/pct 2/CD ,/pct 3/CD ,/pct 4/CD ,/pct and/CC more/AP than/IN 4/CD stems/NNS ./pct
 The/AT totals/NNS for/IN these/DTS five/CD categories/NNS are/BER not/NEG too/QL uneven/JJ ,/pct namely/RB 20/CD ,/pct 15/CD ,/pct 11/CD ,/pct 16/CD ,/pct 9/CD respectively/RB ./pct
 For/IN Athabascan/NP ,/pct with/IN a/AT greater/JJR range/NN of/IN stems/NNS ,/pct the/AT first/OD two/CD of/IN five/CD corresponding/JJ columns/NNS were/BED identical/JJ ,/pct 1/CD and/CC 2/CD stems/NNS ;/pct ;/pct
@@ -47,7 +47,7 @@ Thomas'/NPg findings/NNS are/BER ,/pct first/RB ,/pct ``/pct that/CS the/AT indi
 but/CC ,/pct second/RB ,/pct ``/pct that/CS the/AT semantic/JJ groups/NNS are/BER surprisingly/QL unvarying/JJ in/IN their/PPg average/JJ persistence/NN ''/pct (/pct as/CS between/IN M-K/NN and/CC I-E/NN )/pct ./pct
 His/PPg first/OD conclusion/NN ,/pct on/IN behavior/NN of/IN individual/JJ items/NNS ,/pct is/BEZ negative/JJ ,/pct whereas/CS mine/PPgg (/pct on/IN Ath./NP and/CC Yok./NP )/pct was/BEDZ partially/QL positive/JJ ./pct
 His/PPg second/OD conclusion/NN ,/pct on/IN semantic/JJ word/NN classes/NNS ,/pct agrees/VBZ with/IN mine/PPgg ./pct
-This/DT second/OD conclusion/NN ,/pct independently/RB arrived/VBN at/IN by/IN independent/JJ study/NN of/IN material/NN from/IN two/CD pairs/NNS of/IN language/NN families/NNS as/QL different/JJ and/CC remote/JJ from/IN one/CD another/DT as/CS these/DTS four/CD are/BER ,/pct cannot /None be/BE ignored/VBN ./pct
+This/DT second/OD conclusion/NN ,/pct independently/RB arrived/VBN at/IN by/IN independent/JJ study/NN of/IN material/NN from/IN two/CD pairs/NNS of/IN language/NN families/NNS as/QL different/JJ and/CC remote/JJ from/IN one/CD another/DT as/CS these/DTS four/CD are/BER ,/pct cannot/MD* be/BE ignored/VBN ./pct
 Thomas/NP also/RB presents/VBZ a/AT simple/JJ equation/NN for/IN deriving/VBG an/AT index/NN of/IN persistence/NN ,/pct which/WDT weights/VBZ not/NEG only/RB the/AT number/NN of/IN stems/NNS (/pct '/pct roots/NNS '/pct )/pct per/IN meaning/NN ,/pct but/CC their/PPg relative/JJ frequency/NN ./pct
 Thus/RB his/PPg persistence/NN values/NNS for/IN some/DTI stem/NN frequencies/NNS per/IN meaning/NN are/BER :/pct stem/NN identical/JJ in/IN 8/CD languages/NNS ,/pct 100%/NN ;/pct ;/pct
 stem/NN frequencies/NNS 7/CD and/CC 1/CD ,/pct 86%/NN ;/pct ;/pct
@@ -58,7 +58,7 @@ But/CC consideration/NN of/IN the/AT frequency/NN of/IN stems/NNS per/IN constan
 and/CC Gleason/NP presumably/RB is/BEZ on/IN the/AT way/NN with/IN a/AT further/JJR contribution/NN in/IN this/DT area/NN ./pct
 As/IN to/IN relative/JJ frequencies/NNS of/IN competing/VBG roots/NNS (/pct 7/CD -/pct 1/CD vs./IN 4/CD -/pct 4/CD ,/pct etc./RB )/pct ,/pct Thomas/NP with/IN his/PPg '/pct weighting/NN '/pct seems/VBZ to/TO be/BE the/AT first/OD to/TO have/HV considered/VBN the/AT significance/NN this/DT might/MD have/HV ./pct
 The/AT problem/NN needs/VBZ further/JJR exploration/NN ./pct
-I/PPSS was/BEDZ at/IN least/AP conscious/JJ of/IN the/AT distinction/NN in/IN my/PPg full/JJ Yokuts/NP presentation/NN that/WPS awaits/VBZ publication/NN ,/pct in/IN which/WDT ,/pct in/IN listing/VBG '/pct Two-Stem/JJ Meanings/NNS '/pct ,/pct I/PPSS set/VB off/RP by/IN asterisks/NNS those/DTS forms/NNS in/IN which/WDT N/NP of/IN stem/NN B/NN was/BEDZ Af/NN of/IN stem/NN A/3/NN ,/pct the/AT unasterisked/JJ ones/NNS standing/VBG for/IN Af/NN ;/pct ;/pct
+I/PPSS was/BEDZ at/IN least/AP conscious/JJ of/IN the/AT distinction/NN in/IN my/PPg full/JJ Yokuts/NP presentation/NN that/WPS awaits/VBZ publication/NN ,/pct in/IN which/WDT ,/pct in/IN listing/VBG '/pct Two-Stem/JJ Meanings/NNS '/pct ,/pct I/PPSS set/VB off/RP by/IN asterisks/NNS those/DTS forms/NNS in/IN which/WDT N/NP of/IN stem/NN B/NN was/BEDZ Af/NN of/IN stem/NN A:3/NN ,/pct the/AT unasterisked/JJ ones/NNS standing/VBG for/IN Af/NN ;/pct ;/pct
 or/CC under/IN '/pct Four/CD Stems/NNS '/pct ,/pct I/PPSS set/VB off/RP by/IN asterisks/NNS cases/NNS where/WRB the/AT combined/VBN N/NP of/IN stems/NNS Af/NN was/BEDZ Af/NN ./pct
 7/CD ./pct
 These/DTS findings/NNS ,/pct and/CC others/NNS which/WDT will/MD in/IN time/NN be/BE developed/VBN ,/pct will/MD affect/VB the/AT method/NN of/IN glottochronological/JJ inquiry/NN ./pct
@@ -71,7 +71,7 @@ It/PPS is/BEZ the/AT urge/NN to/TO obtain/VB a/AT list/NN as/QL free/JJ of/IN ge
 And/CC why/WRB that/DT insistence/NN ?/pct ?/pct
 It/PPS is/BEZ the/AT hope/NN of/IN attaining/VBG a/AT list/NN of/IN items/NNS of/IN universal/JJ occurrence/NN ./pct
 But/CC it/PPS is/BEZ becoming/VBG increasingly/QL evident/JJ that/CS such/ABL a/AT hope/NN is/BEZ a/AT snare/NN ./pct
-Not/NEG that/CS such/ABL a/AT list/NN cannot /None be/BE constructed/VBN ;/pct ;/pct
+Not/NEG that/CS such/ABL a/AT list/NN cannot/MD* be/BE constructed/VBN ;/pct ;/pct
 but/CC the/AT nearer/RBR it/PPS comes/VBZ to/IN attaining/VBG universality/NN ,/pct the/AT less/QL significant/JJ will/MD it/PPS be/BE linguistically/RB ./pct
 Its/PPg terms/NNS will/MD tend/VB to/TO be/BE labile/JJ or/CC vague/JJ ,/pct and/CC they/PPSS will/MD fit/VB actual/JJ languages/NNS more/QL and/CC more/QL badly/RB ./pct
 The/AT practical/JJ operational/JJ problem/NN of/IN lexicostatistics/NN is/BEZ the/AT establishment/NN of/IN a/AT basic/JJ list/NN of/IN items/NNS of/IN meaning/NN against/IN which/WDT the/AT particular/JJ forms/NNS or/CC terms/NNS of/IN languages/NNS can/MD be/BE matched/VBN as/CS the/AT medium/NN of/IN comparison/NN ./pct

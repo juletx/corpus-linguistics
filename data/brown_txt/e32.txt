@@ -1,7 +1,7 @@
 Throughout/IN history/NN ,/pct the/AT man/NN who/WPS showed/VBD superior/JJ performance/NN has/HVZ become/VBN the/AT commander/NN of/IN others/NNS --/pct for/IN good/NN or/CC bad/NN ./pct
 Since/IN the/AT Industrial/JJ Revolution/NN ,/pct when/WRB factories/NNS emerged/VBD ,/pct this/DT classical/JJ pattern/NN has/HVZ been/BEN followed/VBN ./pct
 Until/IN recently/RB ./pct
-There/EX have/HV always/RB been/BEN tales/NNS of/IN disillusionment/NN --/pct the/AT competent/JJ technician/NN who/WPS became/VBD an/AT administrator/NN ,/pct willingly/RB or/CC not/NEG ,/pct and/CC found/VBD he/PPS didn't /None like/VB it/PPO ;/pct ;/pct
+There/EX have/HV always/RB been/BEN tales/NNS of/IN disillusionment/NN --/pct the/AT competent/JJ technician/NN who/WPS became/VBD an/AT administrator/NN ,/pct willingly/RB or/CC not/NEG ,/pct and/CC found/VBD he/PPS didn't/DOD* like/VB it/PPO ;/pct ;/pct
 the/AT scientist/NN who/WPS rebelled/VBD against/IN the/AT personnel/NNS and/CC paper/NN work/NN ;/pct ;/pct
 and/CC much/QL more/QL commonly/RB in/IN recent/JJ years/NNS ,/pct the/AT engineer/NN who/WPS found/VBD that/CS other/AP duties/NNS interfered/VBD with/IN --/pct or/CC eliminated/VBD --/pct his/PPg engineering/VBG contributions/NNS ./pct
 There/EX have/HV been/BEN many/AP extremely/QL competent/JJ men/NNS who/WPS have/HV been/BEN converted/VBN into/IN very/QL incompetent/JJ managers/NNS or/CC submerged/VBN in/IN paper/NN work/NN ,/pct to/IN their/PPg own/JJ and/CC the/AT public's/NNg dissatisfaction/NN and/CC loss/NN ./pct

@@ -23,9 +23,9 @@ No/AT casts/NNS are/BER listed/VBN ,/pct but/CC Lotte/NP Lehmann/NP sent/VBD wor
 Remember/VB how/WRB by/IN a/AT series/NN of/IN booking/NN absurdities/NNS Chicago/NP missed/VBD seeing/VBG the/AT Bolshoi/NP Ballet/NN ?/pct ?/pct
 Remember/VB how/WRB by/IN lack/NN of/IN two/CD big/JJ theaters/NNS Chicago/NP missed/VBD the/AT first/OD visit/NN of/IN the/AT Royal/JJ Danish/JJ Ballet/NN ?/pct ?/pct
 Well/UH ,/pct now/RB we/PPSS have/HV two/CD big/JJ theaters/NNS ./pct
-But/CC barring/VBG a/AT miracle/NN ,/pct and/CC don't /None hold/VB your/PPg breath/NN for/IN it/PPO ,/pct Chicago/NP will/MD not/NEG see/VB the/AT Leningrad-Kirov/NP Ballet/NN ,/pct which/WDT stems/VBZ from/IN the/AT ballet/NN cradle/NN of/IN the/AT Maryinsky/NP and/CC is/BEZ one/CD of/IN the/AT great/JJ companies/NNS of/IN the/AT world/NN ./pct
+But/CC barring/VBG a/AT miracle/NN ,/pct and/CC don't/DO* hold/VB your/PPg breath/NN for/IN it/PPO ,/pct Chicago/NP will/MD not/NEG see/VB the/AT Leningrad-Kirov/NP Ballet/NN ,/pct which/WDT stems/VBZ from/IN the/AT ballet/NN cradle/NN of/IN the/AT Maryinsky/NP and/CC is/BEZ one/CD of/IN the/AT great/JJ companies/NNS of/IN the/AT world/NN ./pct
 Before/CS you/PPSS let/VB loose/JJ a/AT howl/NN saying/VBG we/PPSS announced/VBD its/PPg coming/NN ,/pct not/NEG once/RB but/CC several/AP times/NNS ,/pct indeed/RB we/PPSS did/DOD ./pct
-The/AT engagement/NN was/BEDZ supposed/VBN to/TO be/BE all/QL set/VBN for/IN the/AT big/JJ theater/NN in/IN McCormick/NP Place/NN ,/pct which/WDT Sol/NP Hurok/NP ,/pct ballet/NN booker/NN extraordinary/JJ ,/pct considers/VBZ the/AT finest/JJT house/NN of/IN its/PPg kind/NN in/IN the/AT country/NN --/pct and/CC of/IN course/NN he/PPS doesn't /None weep/VB at/IN the/AT capacity/NN ,/pct either/CC ./pct
+The/AT engagement/NN was/BEDZ supposed/VBN to/TO be/BE all/QL set/VBN for/IN the/AT big/JJ theater/NN in/IN McCormick/NP Place/NN ,/pct which/WDT Sol/NP Hurok/NP ,/pct ballet/NN booker/NN extraordinary/JJ ,/pct considers/VBZ the/AT finest/JJT house/NN of/IN its/PPg kind/NN in/IN the/AT country/NN --/pct and/CC of/IN course/NN he/PPS doesn't/DOZ* weep/VB at/IN the/AT capacity/NN ,/pct either/CC ./pct
 It/PPS was/BEDZ all/QL set/VBN ./pct
 Allied/VBN Arts/NNS Corporation/NN first/RB listed/VBD the/AT Chicago/NP dates/NNS as/CS Dec./NP 4/CD thru/IN 10/CD ./pct
 Later/RBR the/AT Hurok/NP office/NN made/VBD it/PPO Dec./NP 8/CD thru/IN 17/CD ,/pct a/AT nice/JJ ,/pct long/JJ booking/NN for/IN the/AT full/JJ repertory/NN ./pct
@@ -42,11 +42,11 @@ These/DTS are/BER the/AT results/NNS ./pct
 The/AT Kirov/NP Ballet/NN is/BEZ firmly/QL booked/VBN into/IN the/AT Shrine/NN Auditorium/NN ,/pct Los/NP Angeles/NP ,/pct Nov./NP 21/CD thru/IN Dec./NP 4/CD ./pct
 Not/NEG a/AT chance/NN of/IN opening/VBG here/RB Nov./NP 28/CD --/pct barring/VBG that/DT miracle/NN ./pct
 Then/RB why/WRB not/NEG the/AT juicy/JJ booking/NN Hurok/NP had/HVD held/VBN for/IN us/PPO ?/pct ?/pct
-Well/UH ,/pct Dietrich/NP won't /None budge/VB from/IN McCormick/NP Place/NN ./pct
+Well/UH ,/pct Dietrich/NP won't/MD* budge/VB from/IN McCormick/NP Place/NN ./pct
 Then/RB how/WRB about/IN the/AT Civic/JJ Opera/NN House/NN ?/pct ?/pct
 Well/UH ,/pct Allied/VBN Arts/NNS has/HVZ booked/VBN Lena/NP Horne/NP there/RB for/IN a/AT week/NN starting/VBG Dec./NP 4/CD ./pct
 Queried/VBN about/IN the/AT impasse/NN ,/pct Allied/VBN Arts/NNS said/VBD :/pct ``/pct Better/RBR cancel/VB the/AT Kirov/NP for/IN the/AT time/NN being/BEG ./pct
-It's /None all/ABN up/RP in/IN the/AT air/NN again/RB ''/pct ./pct
+It's/PPSBEZ all/ABN up/RP in/IN the/AT air/NN again/RB ''/pct ./pct
 So/CS the/AT Kirov/NP will/MD fly/VB back/RB to/IN Russia/NP ,/pct minus/IN a/AT Chicago/NP engagement/NN ,/pct a/AT serious/JJ loss/NN for/IN dance/NN fans/NNS --/pct and/CC for/IN the/AT frustrated/VBN bookers/NNS ,/pct cancellation/NN of/IN one/CD of/IN the/AT richest/JJT bookings/NNS in/IN the/AT country/NN ./pct
 Will/MD somebody/PN please/VB reopen/VB the/AT Auditorium/NN ?/pct ?/pct
 Paintings/NNS and/CC drawings/NNS by/IN Marie/NP Moore/NP of/IN St./NP Thomas/NP ,/pct Virgin/NN Islands/NNS ,/pct are/BER shown/VBN thru/IN Nov./NP 5/CD at/IN the/AT Meadows/NNS Gallery/NN ,/pct 3211/CD Ellis/NP Av./NN ,/pct week/NN days/NNS ,/pct 3/CD p.m./RB to/IN 8/CD p.m./RB ,/pct Sundays/NRS 3/CD p.m./RB to/IN 6/CD p.m./RB ,/pct closed/VBN Mondays/NRS ./pct
@@ -61,15 +61,15 @@ Perhaps/RB the/AT lesson/NN we/PPSS should/MD take/VB from/IN these/DTS pages/NN
 Anyway/RB ,/pct a/AT number/NN of/IN them/PPO meet/VB here/RB in/IN devastating/VBG collisions/NNS ./pct
 One/CD is/BEZ an/AT imperial/JJ London/NP stockbroker/NN called/VBN Jerebohm/NP ./pct
 Another/DT is/BEZ a/AT wily/JJ countryman/NN called/VBN Larkin/NP ,/pct whose/WPg blandly/QL boisterous/JJ progress/NN has/HVZ been/BEN chronicled/VBN ,/pct I/PPSS believe/VB ,/pct in/IN earlier/JJR volumes/NNS of/IN Mr./NP Bates'/NPg comedie/NN humaine/JJ ./pct
-What's /None up/RP now/RB ?/pct ?/pct
+What's/WDTBEZ up/RP now/RB ?/pct ?/pct
 Well/UH ,/pct Jerebohm/NP and/CC his/PPg wife/NN Pinkie/NP have/HV reached/VBN the/AT stage/NN of/IN affluence/NN that/WPS stirs/VBZ a/AT longing/NN for/IN the/AT more/QL atrociously/QL expensive/JJ rustic/JJ simplicities/NNS ./pct
 They/PPSS want/VB to/TO own/VB a/AT junior-grade/JJ castle/NN ,/pct or/CC a/AT manor/NN house/NN ,/pct or/CC some/DTI modest/JJ little/JJ place/NN where/WRB Shakespeare/NP might/MD once/RB have/HV staged/VBN a/AT pageant/NN for/IN Great/JJ Elizabeth/NP and/CC all/ABN her/PPg bearded/JJ courtiers/NNS ./pct
 They/PPSS are/BER willing/JJ to/TO settle/VB ,/pct however/RB ,/pct in/IN anything/PN that/WPS offers/VBZ pheasants/NNS to/TO shoot/VB at/IN and/CC peasants/NNS to/TO work/VB at/IN ./pct
 And/CC of/IN course/NN Larkin/NP has/HVZ just/RB the/AT thing/NN they/PPSS want/VB ./pct
 Splendor/NN by/IN sorcery/NN
-It's /None a/AT horror/NN ./pct
+It's/PPSBEZ a/AT horror/NN ./pct
 The/AT name/NN of/IN it/PPO is/BEZ Gore/NP Court/NN ,/pct and/CC it/PPS is/BEZ surrounded/VBN by/IN a/AT wasteland/NN that/WPS would/MD impress/VB T./NP S./NP Eliot/NP ./pct
-That's /None not/NEG precisely/RB the/AT way/NN Larkin/NP urges/VBZ them/PPO to/TO look/VB at/IN it/PPO ,/pct though/RB ./pct
+That's/DTBEZ not/NEG precisely/RB the/AT way/NN Larkin/NP urges/VBZ them/PPO to/TO look/VB at/IN it/PPO ,/pct though/RB ./pct
 He/PPS conjures/VBZ herds/NNS of/IN deer/NNS ,/pct and/CC wild/JJ birds/NNS crowding/VBG the/AT air/NN ./pct
 He/PPS suggests/VBZ that/CS Gore/NP Court/NN embodies/VBZ all/ABN the/AT glories/NNS of/IN Tudor/NP splendor/NN ./pct
 The/AT stained-glass/NN windows/NNS may/MD have/HV developed/VBN unpremeditated/JJ patinas/NNS ,/pct the/AT paneling/NN may/MD be/BE no/QL more/QL durable/JJ than/CS the/AT planks/NNS in/IN a/AT political/JJ platform/NN ./pct
@@ -77,8 +77,8 @@ The/AT vast/JJ ,/pct dungeon/NN kitchens/NNS may/MD seem/VB hardly/QL worth/JJ u
 Larkin/NP has/HVZ an/AT answer/NN to/IN all/ABN that/DT ./pct
 The/AT spaciousness/NN of/IN the/AT Tudor/NP cooking/VBG areas/NNS ,/pct for/IN example/NN ,/pct will/MD provide/VB needed/VBN space/NN for/IN the/AT extra/JJ television/NN sets/NNS required/VBN by/IN modern/JJ butlers/NNS ,/pct cooks/NNS and/CC maids/NNS ./pct
 Also/RB ,/pct perhaps/RB ,/pct table-tennis/NN and/CC other/AP indoor/JJ sports/NNS to/TO keep/VB them/PPO fit/JJ and/CC contented/VBN ./pct
-It's /None a/AT wonder/NN ,/pct really/RB ,/pct to/TO how/WRB much/AP mendacious/JJ trouble/NN Larkin/NP puts/VBZ himself/PPL to/TO sell/VB the/AT Jerebohms/NPS that/DT preposterous/JJ manse/NN ./pct
-He/PPS doesn't /None really/RB need/VB the/AT immense/JJ sum/NN of/IN money/NN (/pct probably/RB converted/VBN from/IN American/JJ gold/NN on/IN the/AT London/NP Exchange/NN )/pct he/PPS makes/VBZ them/PPO pay/VB ./pct
+It's/PPSBEZ a/AT wonder/NN ,/pct really/RB ,/pct to/TO how/WRB much/AP mendacious/JJ trouble/NN Larkin/NP puts/VBZ himself/PPL to/TO sell/VB the/AT Jerebohms/NPS that/DT preposterous/JJ manse/NN ./pct
+He/PPS doesn't/DOZ* really/RB need/VB the/AT immense/JJ sum/NN of/IN money/NN (/pct probably/RB converted/VBN from/IN American/JJ gold/NN on/IN the/AT London/NP Exchange/NN )/pct he/PPS makes/VBZ them/PPO pay/VB ./pct
 For/CS Larkin/NP is/BEZ already/RB wonderfully/QL contented/VBN with/IN his/PPg lot/NN ./pct
 He/PPS has/HVZ a/AT glorious/JJ wife/NN and/CC many/AP children/NNS ./pct
 When/WRB he/PPS needs/VBZ money/NN to/TO buy/VB something/PN like/CS ,/pct say/UH ,/pct the/AT Rolls-Royce/NP he/PPS keeps/VBZ near/IN his/PPg vegetable/NN patch/NN ,/pct he/PPS takes/VBZ a/AT flyer/NN in/IN the/AT sale/NN of/IN surplus/NN army/NN supplies/NNS ./pct
@@ -93,7 +93,7 @@ Oneupmanship/NN is/BEZ practiced/VBN by/IN both/ABX sides/NNS in/IN a/AT total/J
 First/RB the/AT Larkins/NPS are/BER ahead/RB ,/pct then/RB the/AT Jerebohms/NPS ./pct
 After/CS Larkin/NP has/HVZ been/BEN persuaded/VBN to/TO restock/VB his/PPg tangled/VBN acres/NNS with/IN pheasants/NNS ,/pct he/PPS poaches/VBZ only/RB what/WDT he/PPS needs/VBZ for/IN the/AT nourishment/NN of/IN his/PPg family/NN and/CC local/JJ callers/NNS ./pct
 One/CD of/IN the/AT local/JJ callers/NNS ,/pct a/AT retired/VBN brigadier/NN apparently/RB left/VBN over/RP from/IN Kipling's/NPg tales/NNS of/IN India/NP ,/pct does/DOZ not/NEG approve/VB of/IN the/AT way/NN Larkin/NP gets/VBZ his/PPg birds/NNS ./pct
-He/PPS doesn't /None think/VB that/CS potting/VBG them/PPO from/IN a/AT deck/NN chair/NN on/IN the/AT south/NR side/NN of/IN the/AT house/NN with/IN a/AT quart/NN glass/NN of/IN beer/NN for/IN sustenance/NN is/BEZ entirely/QL sporting/VBG ./pct
+He/PPS doesn't/DOZ* think/VB that/CS potting/VBG them/PPO from/IN a/AT deck/NN chair/NN on/IN the/AT south/NR side/NN of/IN the/AT house/NN with/IN a/AT quart/NN glass/NN of/IN beer/NN for/IN sustenance/NN is/BEZ entirely/QL sporting/VBG ./pct
 But/CC the/AT brigadier/NN dines/VBZ on/IN the/AT birds/NNS with/IN relish/NN ./pct
 It/PPS is/BEZ truly/QL odd/JJ and/CC ironic/JJ that/CS the/AT most/QL handsome/JJ and/CC impressive/JJ film/NN yet/RB made/VBN from/IN Miguel/NP De/NP Cervantes'/NPg ``/pct Don/NP Quixote/NP ''/pct is/BEZ the/AT brilliant/JJ Russian/JJ spectacle/NN ,/pct done/VBN in/IN wide/JJ screen/NN and/CC color/NN ,/pct which/WDT opened/VBD yesterday/NR at/IN the/AT Fifty-fifth/OD Street/NN and/CC Sixty-eighth/OD Street/NN Playhouses/NNS ./pct
 More/AP than/CS a/AT beautiful/JJ visualization/NN of/IN the/AT illustrious/JJ adventures/NNS and/CC escapades/NNS of/IN the/AT tragi-comic/JJ knight-errant/NN and/CC his/PPg squire/NN ,/pct Sancho/NP Panza/NP ,/pct in/IN seventeenth-century/NN Spain/NP ,/pct this/DT inevitably/RB abbreviated/VBN rendering/NN of/IN the/AT classic/JJ satire/NN on/IN chivalry/NN is/BEZ an/AT affectingly/RB warm/JJ and/CC human/JJ exposition/NN of/IN character/NN ./pct

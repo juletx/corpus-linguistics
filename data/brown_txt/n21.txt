@@ -2,21 +2,21 @@ Sulphur/NN ,/pct oil/NN ,/pct and/CC copra/NN make/VB the/AT kind/NN of/IN tinde
 I/PPSS suppose/VB a/AT Lascar/NP sailor/NN had/HVD sneaked/VBN a/AT cigarette/NN in/IN the/AT hold/NN and/CC touched/VBD off/RP the/AT blaze/NN ./pct
 Now/RB ,/pct roaring/VBG up/RP in/IN great/JJ oily/JJ clouds/NNS of/IN smoke/NN and/CC flames/NNS ,/pct the/AT fierce/JJ heat/NN quickly/RB drove/VBD us/PPO to/IN the/AT stern/NN where/WRB we/PPSS huddled/VBD like/CS suffocating/VBG sheep/NN ,/pct not/NEG knowing/VBG what/WDT to/TO do/DO ./pct
 The/AT lifeboats/NNS were/BED stuck/VBN fast/RB ./pct
-We/PPSS couldn't /None budge/VB them/PPO ./pct
+We/PPSS couldn't/MD* budge/VB them/PPO ./pct
 I/PPSS heard/VBD a/AT cry/NN from/IN a/AT stoker/NN as/CS a/AT pillar/NN of/IN flame/NN leaped/VBD from/IN a/AT hatch/NN and/CC tongued/VBD the/AT man's/NNg bare/JJ back/NN ./pct
 He/PPS sprinted/VBD to/IN the/AT rail/NN and/CC leaped/VBD overboard/RB into/IN the/AT shark-infested/JJ waters/NNS ./pct
 One/CD especially/RB bad/JJ detonation/NN shook/VBD Lifeboat/NN No./NN 3/CD which/WDT trembled/VBD violently/RB in/IN the/AT davits/NNS ./pct
 Brassnose/NP yelled/VBD :/pct ``/pct Come/VB on/RP ,/pct Sommers/NP ,/pct Max/NP step/VB on/IN it/PPO ,/pct we/PPSS got/VBD a/AT chance/NN now/RB ./pct
 Heave/VB on/IN those/DTS ropes/NNS ;/pct ;/pct
-the/AT boat's /None come/VBN unstuck/JJ ''/pct ./pct
+the/AT boat's/NNHVZ come/VBN unstuck/JJ ''/pct ./pct
 We/PPSS pulled/VBD and/CC swore/VBD and/CC yanked/VBD and/CC wept/VBD ,/pct scraping/VBG our/PPg hands/NNS until/CS they/PPSS bled/VBD profusely/RB ./pct
 The/AT Bonaventure/NP was/BEDZ quivering/VBG and/CC lurching/VBG like/CS an/AT old/JJ spavined/JJ mare/NN ./pct
 Her/PPg stern/NN was/BEDZ down/RP and/CC a/AT sharp/JJ list/NN helped/VBD us/PPO to/TO cut/VB loose/JJ the/AT lifeboat/NN which/WDT dropped/VBD heavily/RB into/IN the/AT water/NN ./pct
 Brassnose/NP ,/pct Max/NP and/CC I/PPSS leaped/VBD into/IN the/AT sea/NN and/CC swam/VBD to/IN the/AT boat/NN ./pct
-``/pct Let's /None get/VB away/RB fast/RB ''/pct ,/pct said/VBD Brassnose/NP ,/pct shaking/VBG water/NN from/IN his/PPg mop/NN of/IN bleached/VBN hair/NN ./pct
+``/pct Let's/VBPPO get/VB away/RB fast/RB ''/pct ,/pct said/VBD Brassnose/NP ,/pct shaking/VBG water/NN from/IN his/PPg mop/NN of/IN bleached/VBN hair/NN ./pct
 ``/pct That/DT tub/NN is/BEZ going/VBG to/TO explode/VB all/ABN at/IN once/RB ''/pct ./pct
 Then/RB the/AT Bonaventure/NP seemed/VBD to/TO disintegrate/VB with/IN a/AT roar/NN of/IN live/JJ steam/NN ,/pct geysers/NNS of/IN sparks/NNS and/CC flames/NNS ,/pct and/CC a/AT dense/JJ cloud/NN of/IN black-and-orange/JJ smoke/NN ./pct
-Dimly/RB ,/pct we/PPSS heard/VBD the/AT voices/NNS of/IN men/NNS in/IN mortal/JJ agony/NN but/CC we/PPSS couldn't /None go/VB back/RB into/IN that/DT inferno/NN ./pct
+Dimly/RB ,/pct we/PPSS heard/VBD the/AT voices/NNS of/IN men/NNS in/IN mortal/JJ agony/NN but/CC we/PPSS couldn't/MD* go/VB back/RB into/IN that/DT inferno/NN ./pct
 Already/RB our/PPg leaky/JJ lifeboat/NN was/BEDZ filled/VBN with/IN five/CD inches/NNS of/IN water/NN ./pct
 ``/pct Sommers/NP ,/pct you/PPSS bale/NN while/CS we/PPSS row/VB ''/pct ,/pct Brassnose/NP commanded/VBD ./pct
 As/QL best/RBT as/CS I/PPSS could/MD determine/VB ,/pct we/PPSS were/BED some/DTI 700/CD miles/NNS west/NR of/IN New/JJ Guinea/NP ,/pct in/IN the/AT Bismark/NP Archipelago/NN ./pct
@@ -27,23 +27,23 @@ our/PPg muscles/NNS were/BED hot/JJ wires/NNS of/IN pain/NN ./pct
 Brassnose/NP was/BEDZ strangely/RB silent/JJ ./pct
 The/AT big/JJ man/NN with/IN the/AT whitened/VBN hair/NN murmured/VBD something/PN :/pct his/PPg words/NNS sounded/VBD as/CS if/CS they/PPSS were/BED in/IN the/AT Manu/NP tongue/NN ,/pct which/WDT I/PPSS recognized/VBD ,/pct having/HVG studied/VBN the/AT dialect/NN in/IN my/PPg Anthropology/NN 6/CD ,/pct class/NN at/IN the/AT University/NN of/IN Chicago/NP ./pct
 He/PPS then/RB said/VBD something/PN which/WDT struck/VBD a/AT chord/NN in/IN my/PPg memory/NN ./pct
-``/pct God/NP help/VB us/PPO if/CS we're /None near/IN the/AT island/NN of/IN Eromonga/NP ./pct
-We'd /None be/BE in/IN real/JJ trouble/NN then/RB ./pct
-I'd /None rather/RB keep/VB bailing/VBG --/pct or/CC sink/VB ''/pct ./pct
+``/pct God/NP help/VB us/PPO if/CS we're/PPSSBER near/IN the/AT island/NN of/IN Eromonga/NP ./pct
+We'd/PPSSMD be/BE in/IN real/JJ trouble/NN then/RB ./pct
+I'd/PPSSMD rather/RB keep/VB bailing/VBG --/pct or/CC sink/VB ''/pct ./pct
 I/PPSS was/BEDZ puzzled/VBN by/IN the/AT remark/NN ,/pct then/RB I/PPSS recalled/VBD the/AT voice/NN of/IN mild/JJ Professor/NN Howard/NP Griggs/NP three/CD years/NNS ago/RB in/IN a/AT university/NN lecture/NN on/IN primitive/JJ societies/NNS ./pct
 He/PPS had/HVD been/BEN speaking/VBG of/IN this/DT archipelago/NN :/pct
 ``/pct Even/RB when/WRB the/AT islands/NNS were/BED under/IN German/JJ mandate/NN before/IN World/NN War/NN 1/CD ,/pct ,/pct Europeans/NPS gave/VBD Eromonga/NP a/AT wide/JJ berth/NN ./pct
 The/AT place/NN is/BEZ inhabited/VBN by/IN several/AP hundred/CD warlike/JJ women/NNS who/WPS are/BER anachronisms/NNS of/IN the/AT Twentieth/OD Century/NN --/pct stone/NN age/NN amazons/NNS who/WPS live/VB in/IN an/AT all-female/JJ ,/pct matriarchal/JJ society/NN which/WDT is/BEZ self-sufficient/JJ ''/pct ./pct
 I/PPSS remembered/VBD ,/pct too/RB ,/pct the/AT jesting/VBG voice/NN of/IN a/AT classmate/NN ,/pct Bobby/NP Pauson/NP :/pct ``/pct But/CC how/WRB do/DO they/PPSS reproduce/VB ,/pct Dr./NN Griggs/NP ?/pct ?/pct
-I'm /None sure/JJ that/CS males/NNS have/HV something/PN to/TO do/DO with/IN that/DT process/NN ''/pct !/pct !/pct
+I'm/PPSSBEM sure/JJ that/CS males/NNS have/HV something/PN to/TO do/DO with/IN that/DT process/NN ''/pct !/pct !/pct
 There/EX had/HVD been/BEN classroom/NN guffaws/NNS which/WDT quickly/RB subsided/VBD as/CS Professor/NN Griggs/NP said/VBD dryly/RB :/pct ``/pct I/PPSS see/VB your/PPg point/NN ,/pct Pauson/NP ./pct
-Of/IN course/NN ,/pct males/NNS play/VB a/AT role/NN there/RB ,/pct but/CC believe/VB me/PPO when/WRB I/PPSS say/VB you/PPSS wouldn't /None enjoy/VB yourself/PPL one/CD bit/NN on/IN Eromonga/NP ./pct
-Indeed/RB ,/pct you/PPSS wouldn't /None live/VB long/JJ ,/pct for/CS the/AT females/NNS either/CC drive/VB the/AT men/NNS they've /None seized/VBN from/IN neighboring/VBG islands/NNS back/VB to/IN their/PPg boats/NNS after/CS exploiting/VBG them/PPO for/IN amatory/JJ purposes/NNS ,/pct or/CC they/PPSS destroy/VB them/PPO by/IN revolting/JJ but/CC ingenious/JJ methods/NNS ./pct
+Of/IN course/NN ,/pct males/NNS play/VB a/AT role/NN there/RB ,/pct but/CC believe/VB me/PPO when/WRB I/PPSS say/VB you/PPSS wouldn't/MD* enjoy/VB yourself/PPL one/CD bit/NN on/IN Eromonga/NP ./pct
+Indeed/RB ,/pct you/PPSS wouldn't/MD* live/VB long/JJ ,/pct for/CS the/AT females/NNS either/CC drive/VB the/AT men/NNS they've/PPSSHV seized/VBN from/IN neighboring/VBG islands/NNS back/VB to/IN their/PPg boats/NNS after/CS exploiting/VBG them/PPO for/IN amatory/JJ purposes/NNS ,/pct or/CC they/PPSS destroy/VB them/PPO by/IN revolting/JJ but/CC ingenious/JJ methods/NNS ./pct
 In/IN fact/NN ,/pct one/CD important/JJ aspect/NN of/IN their/PPg very/AP religion/NN is/BEZ the/AT annihilation/NN of/IN men/NNS ''/pct ./pct
 ``/pct I/PPSS think/VB I/PPSS know/VB what/WDT you/PPSS mean/VB ,/pct Brassnose/NP ''/pct ,/pct I/PPSS said/VBD ./pct
 ``/pct I/PPSS know/VB something/PN about/IN Eromonga/NP ./pct
-Let's /None hope/VB we/PPSS come/VB to/IN a/AT safer/JJR place/NN ''/pct ./pct
-But/CC we/PPSS didn't /None ./pct
+Let's/VBPPO hope/VB we/PPSS come/VB to/IN a/AT safer/JJR place/NN ''/pct ./pct
+But/CC we/PPSS didn't/DOD* ./pct
 Three/CD hours/NNS later/RBR ,/pct while/CS we/PPSS were/BED bailing/VBG desperately/RB ,/pct a/AT dot/NN of/IN land/NN came/VBD into/IN view/NN ./pct
 Foster/NP Lukuklu/NP Frayne/NP made/VBD a/AT sign/NN over/IN his/PPg heart/NN with/IN his/PPg two/CD linked/VBN thumbs/NNS :/pct I/PPSS recognized/VBD it/PPO as/CS an/AT ancient/JJ Manu/NP gesture/NN intended/VBN to/TO propitiate/VB the/AT Devil/NN ./pct
 A/AT half-hour/NN passed/VBD ;/pct ;/pct
@@ -100,16 +100,16 @@ It/PPS took/VBD thirty/CD of/IN our/PPg women/NNS almost/RB six/CD moons/NNS to/
 We/PPSS are/BER very/QL proud/JJ of/IN it/PPO ''/pct ./pct
 ``/pct You/PPSS have/HV every/AT right/NN to/TO be/BE ''/pct ,/pct I/PPSS replied/VBD gravely/RB in/IN the/AT Manu/NP dialect/NN ,/pct but/CC my/PPg attention/NN was/BEDZ fixed/VBN on/IN Brassnose/NP ,/pct the/AT biggest/JJT and/CC strongest/JJT of/IN us/PPO ./pct
 He/PPS looked/VBD as/CS if/CS he/PPS was/BEDZ going/VBG to/TO keel/VB over/RP ./pct
-I/PPSS felt/VBD a/AT queasiness/NN in/IN my/PPg own/JJ stomach/NN but/CC it/PPS wouldn't /None do/DO to/TO show/VB these/DTS girls/NNS that/CS we/PPSS were/BED afraid/JJ ./pct
+I/PPSS felt/VBD a/AT queasiness/NN in/IN my/PPg own/JJ stomach/NN but/CC it/PPS wouldn't/MD* do/DO to/TO show/VB these/DTS girls/NNS that/CS we/PPSS were/BED afraid/JJ ./pct
 Not/NEG so/QL soon/RB ,/pct anyway/RB ./pct
 I/PPSS clapped/VBD the/AT big/JJ man/NN with/IN the/AT bleached/VBN hair/NN on/IN his/PPg shoulder/NN and/CC said/VBD heartily/RB ,/pct hoping/VBG it/PPS would/MD make/VB an/AT impression/NN on/IN the/AT women/NNS :/pct ``/pct This/DT one/CD is/BEZ the/AT maku/NN Frayne/NP ./pct
 He/PPS speaks/VBZ your/PPg language/NN too/RB ,/pct for/CS he/PPS is/BEZ the/AT grandson/NN of/IN a/AT chieftain/NN on/IN Taui/NP who/WPS made/VBD much/AP magic/NN and/CC was/BEDZ strong/JJ and/CC cunning/JJ ./pct
 The/AT maku/NN Frayne/NP has/HVZ inherited/VBN this/DT strength/NN from/IN his/PPg grandfather/NN ''/pct ./pct
 This/DT was/BEDZ the/AT worst/JJT thing/NN I/PPSS could/MD have/HV said/VBN ./pct
-Brassnose/NP turned/VBD a/AT stricken/VBN face/NN toward/IN me/PPO and/CC said/VBD brokenly/RB ,/pct ``/pct Sommers/NP ,/pct you/PPSS meddling/VBG Yank/NP ,/pct you're /None a/AT fool/NN !/pct !/pct
+Brassnose/NP turned/VBD a/AT stricken/VBN face/NN toward/IN me/PPO and/CC said/VBD brokenly/RB ,/pct ``/pct Sommers/NP ,/pct you/PPSS meddling/VBG Yank/NP ,/pct you're/PPSSBER a/AT fool/NN !/pct !/pct
 They/PPSS despise/VB males/NNS who/WPS brag/VB of/IN their/PPg strength/NN ;/pct ;/pct
 they/PPSS destroy/VB such/JJ men/NNS with/IN their/PPg damned/VBN tests/NNS ./pct
-You've /None ruined/VBN me/PPO ,/pct blast/VB you/PPO ''/pct !/pct !/pct
+You've/PPSSHV ruined/VBN me/PPO ,/pct blast/VB you/PPO ''/pct !/pct !/pct
 At/IN first/RB ,/pct I/PPSS thought/VBD he/PPS was/BEDZ out/IN of/IN his/PPg head/NN ,/pct talking/VBG wildly/RB like/CS this/DT ./pct
 But/CC a/AT glance/NN at/IN Songau/NP and/CC the/AT other/AP women/NNS confirmed/VBD what/WDT Brassnose/NP had/HVD blurted/VBN out/RP ./pct
 The/AT women's/NNSg faces/NNS had/HVD hardened/VBN after/IN my/PPg statement/NN ./pct

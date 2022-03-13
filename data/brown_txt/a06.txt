@@ -4,7 +4,7 @@ Mitchell/NP was/BEDZ for/IN using/VBG it/PPO ,/pct Jones/NP against/IN ,/pct and
 The/AT controversial/JJ remark/NN was/BEDZ first/RB made/VBN Sunday/NR by/IN Hughes/NP at/IN a/AT Westfield/NP Young/JJ Democratic/JJ Club/NN cocktail/NN party/NN at/IN the/AT Scotch/JJ Plains/NNS Country/NN Club/NN ./pct
 It/PPS was/BEDZ greeted/VBN with/IN a/AT chorus/NN of/IN boos/NNS by/IN 500/CD women/NNS in/IN Trenton/NP Monday/NR at/IN a/AT forum/NN of/IN the/AT State/NN Federation/NN of/IN Women's/NNSg Clubs/NNS ./pct
 Hughes/NP said/VBD Monday/NR ,/pct ``/pct It/PPS is/BEZ the/AT apparent/JJ intention/NN of/IN the/AT Republican/NP Party/NN to/TO campaign/VB on/IN the/AT carcass/NN of/IN what/WDT they/PPSS call/VB Eisenhower/NP Republicanism/NP ,/pct but/CC the/AT heart/NN stopped/VBD beating/VBG and/CC the/AT lifeblood/NN congealed/VBD after/IN Eisenhower/NP retired/VBD ./pct
-Now/RB he's /None gone/VBN ,/pct the/AT Republican/NP Party/NN is/BEZ not/NEG going/VBG to/TO be/BE able/JJ to/TO sell/VB the/AT tattered/VBN remains/NNS to/IN the/AT people/NNS of/IN the/AT state/NN ''/pct ./pct
+Now/RB he's/PPSHVZ gone/VBN ,/pct the/AT Republican/NP Party/NN is/BEZ not/NEG going/VBG to/TO be/BE able/JJ to/TO sell/VB the/AT tattered/VBN remains/NNS to/IN the/AT people/NNS of/IN the/AT state/NN ''/pct ./pct
 Sunday/NR he/PPS had/HVD added/VBN ,/pct ``/pct We/PPSS can/MD love/VB Eisenhower/NP the/AT man/NN ,/pct even/RB if/CS we/PPSS considered/VBD him/PPO a/AT mediocre/JJ president/NN but/CC there/EX is/BEZ nothing/PN left/VBN of/IN the/AT Republican/NP Party/NN without/IN his/PPg leadership/NN ''/pct ./pct
 Mitchell/NP said/VBD the/AT statement/NN should/MD become/VB a/AT major/JJ issue/NN in/IN the/AT primary/NN and/CC the/AT fall/NN campaign/NN ./pct
 ``/pct How/WRB can/MD a/AT man/NN with/IN any/DTI degree/NN of/IN common/JJ decency/NN charge/VB this/DT ''/pct ?/pct ?/pct
@@ -24,7 +24,7 @@ Noting/VBG that/CS Plainfield/NP last/AP year/NN had/HVD lost/VBN the/AT Mack/NP
 ``/pct But/CC I/PPSS am/BEM not/NEG in/IN favor/NN of/IN a/AT sales/NNS or/CC state/NN income/NN tax/NN at/IN this/DT time/NN ''/pct ,/pct Mitchell/NP said/VBD ./pct
 Jones/NP ,/pct unhappy/JJ that/CS the/AT candidates/NNS were/BED limited/VBN to/IN eight/CD minutes/NNS for/IN a/AT speech/NN and/CC no/AT audience/NN questions/NNS ,/pct saved/VBD his/PPg barbs/NNS for/IN Mitchell/NP ./pct
 He/PPS said/VBD Mitchell/NP is/BEZ against/IN the/AT centralization/NN of/IN government/NN in/IN Washington/NP but/CC looks/VBZ to/IN the/AT Kennedy/NP Administration/NN for/IN aid/NN to/TO meet/VB New/JJ Jersey/NP school/NN and/CC transportation/NN crises/NNS ./pct
-``/pct He/PPS calls/VBZ for/IN help/NN while/CS saying/VBG he/PPS is/BEZ against/IN centralization/NN ,/pct but/CC you/PPSS can't /None have/HV it/PPO both/ABX ways/NNS ''/pct ,/pct Jones/NP said/VBD ./pct
+``/pct He/PPS calls/VBZ for/IN help/NN while/CS saying/VBG he/PPS is/BEZ against/IN centralization/NN ,/pct but/CC you/PPSS can't/MD* have/HV it/PPO both/ABX ways/NNS ''/pct ,/pct Jones/NP said/VBD ./pct
 The/AT state/NN is/BEZ now/RB faced/VBN with/IN the/AT immediate/JJ question/NN of/IN raising/VBG new/JJ taxes/NNS whether/CS on/IN utilities/NNS ,/pct real/JJ estate/NN or/CC motor/NN vehicles/NNS ,/pct he/PPS said/VBD ,/pct ``/pct and/CC I/PPSS challenge/VB Mitchell/NP to/TO tell/VB the/AT people/NNS where/WRB he/PPS stands/VBZ on/IN the/AT tax/NN issue/NN ''/pct ./pct
 Defends/VBZ Ike/NP
 Earlier/RBR ,/pct Mitchell/NP said/VBD in/IN a/AT statement/NN :/pct
@@ -38,7 +38,7 @@ Sen./NN Charles/NP W./NP Sandman/NP ,/pct R-Cape/NN May/NP ,/pct said/VBD today/
 Sandman/NP ,/pct state/NN campaign/NN chairman/NN for/IN Jones/NP ,/pct was/BEDZ addressing/VBG a/AT meeting/NN in/IN the/AT Military/JJ Park/NN Hotel/NN ,/pct Newark/NP ,/pct of/IN Essex/NP County/NN leaders/NNS and/CC campaign/NN managers/NNS for/IN Jones/NP ./pct
 Sandman/NP told/VBD the/AT gathering/NN that/CS reports/NNS from/IN workers/NNS on/IN a/AT local/JJ level/NN all/QL over/IN the/AT state/NN indicate/VB that/CS Jones/NP will/MD be/BE chosen/VBN the/AT Republican/NP Party's/NNg nominee/NN with/IN the/AT largest/JJT majority/NN given/VBN a/AT candidate/NN in/IN recent/JJ years/NNS ./pct
 Sandman/NP said/VBD :/pct ``/pct The/AT announcement/NN that/CS Sen./NN Clifford/NP Case/NP Aj/NN ,/pct has/HVZ decided/VBN to/TO spend/VB all/ABN his/PPg available/JJ time/NN campaigning/VBG for/IN Mr./NP Mitchell/NP is/BEZ a/AT dead/JJ giveaway/NN ./pct
-It/PPS is/BEZ a/AT desperate/JJ effort/NN to/TO prop/VB up/RP a/AT sagging/VBG candidate/NN who/WPS has/HVZ proven/VBN he/PPS cannot /None answer/VB any/DTI questions/NNS about/IN New/JJ Jersey's/NPg problems/NNS ./pct
+It/PPS is/BEZ a/AT desperate/JJ effort/NN to/TO prop/VB up/RP a/AT sagging/VBG candidate/NN who/WPS has/HVZ proven/VBN he/PPS cannot/MD* answer/VB any/DTI questions/NNS about/IN New/JJ Jersey's/NPg problems/NNS ./pct
 ``/pct We/PPSS have/HV witnessed/VBN in/IN this/DT campaign/NN the/AT effort/NN to/TO project/VB Mr./NP Mitchell/NP as/CS the/AT image/NN of/IN a/AT unity/NN candidate/NN from/IN Washington/NP ./pct
 That/DT failed/VBD ./pct
 ``/pct We/PPSS are/BER now/RB witnessing/VBG an/AT effort/NN to/TO transfer/VB to/IN Mr./NP Mitchell/NP some/DTI of/IN the/AT glow/NN of/IN Sen./NN Case's/NPg candidacy/NN of/IN last/AP year/NN ./pct
@@ -65,13 +65,13 @@ He/PPS introduced/VBD regular/JJ briefing/VBG sessions/NNS for/IN district/NN fi
 He/PPS is/BEZ credited/VBN with/IN setting/VBG up/RP an/AT annual/JJ co-operative/JJ fire/NN prevention/NN program/NN in/IN co-operation/NN with/IN the/AT Red/JJ Cross/NN and/CC State/NN Department/NN of/IN Education/NN ./pct
 Boonton/NP
 --/pct Richard/NP J./NP Hughes/NP made/VBD his/PPg Morris/NP County/NN debut/NN in/IN his/PPg bid/NN for/IN the/AT Democratic/JJ gubernatorial/JJ nomination/NN here/RB last/AP night/NN with/IN a/AT pledge/NN ``/pct to/TO carry/VB the/AT issues/NNS to/IN every/AT corner/NN of/IN the/AT state/NN ''/pct ./pct
-He/PPS promised/VBD nearly/RB 200/CD Democratic/JJ county/NN committee/NN members/NNS at/IN the/AT meeting/NN in/IN the/AT Puddingstone/NP Inn/NN :/pct ``/pct When/WRB I/PPSS come/VB back/RB here/RB after/IN the/AT November/NP election/NN you'll /None think/VB ,/pct '/pct You're /None my/PPg man/NN --/pct you're /None the/AT kind/NN of/IN governor/NN we're /None glad/JJ we/PPSS elected/VBD '/pct ''/pct ./pct
+He/PPS promised/VBD nearly/RB 200/CD Democratic/JJ county/NN committee/NN members/NNS at/IN the/AT meeting/NN in/IN the/AT Puddingstone/NP Inn/NN :/pct ``/pct When/WRB I/PPSS come/VB back/RB here/RB after/IN the/AT November/NP election/NN you'll/PPSSMD think/VB ,/pct '/pct You're/PPSSBER my/PPg man/NN --/pct you're/PPSSBER the/AT kind/NN of/IN governor/NN we're/PPSSBER glad/JJ we/PPSS elected/VBD '/pct ''/pct ./pct
 He/PPS said/VBD ,/pct ``/pct We/PPSS Democrats/NPS must/MD resolve/VB our/PPg issues/NNS on/IN the/AT test/NN of/IN what/WDT is/BEZ right/JJ and/CC just/JJ ,/pct and/CC not/NEG what/WDT is/BEZ expedient/JJ at/IN the/AT time/NN ''/pct ./pct
 Attacks/VBZ Republicans/NPS
 In/IN his/PPg only/AP attack/NN on/IN the/AT Republicans/NPS ,/pct Hughes/NP said/VBD ,/pct ``/pct The/AT three/CD Republican/NP candidates/NNS for/IN governor/NN are/BER tripping/VBG over/IN their/PPg feet/NNS for/IN popular/JJ slogans/NNS to/TO win/VB the/AT primary/NN ./pct
-But/CC we'll /None have/HV a/AT liberal/JJ ,/pct well/QL planned/VBN ,/pct forward/RB looking/VBG ,/pct honest/JJ platform/NN ./pct
-We'll /None not/NEG talk/VB out/IN of/IN one/CD side/NN of/IN our/PPg mouth/NN in/IN Morris/NP County/NN and/CC out/IN of/IN the/AT other/AP side/NN in/IN Hudson/NP ./pct
-``/pct We'll /None take/VB the/AT truth/NN to/IN the/AT people/NNS ,/pct and/CC the/AT people/NNS will/MD like/VB the/AT truth/NN and/CC elect/VB their/PPg candidate/NN and/CC party/NN in/IN November/NP ''/pct ./pct
+But/CC we'll/PPSSMD have/HV a/AT liberal/JJ ,/pct well/QL planned/VBN ,/pct forward/RB looking/VBG ,/pct honest/JJ platform/NN ./pct
+We'll/PPSSMD not/NEG talk/VB out/IN of/IN one/CD side/NN of/IN our/PPg mouth/NN in/IN Morris/NP County/NN and/CC out/IN of/IN the/AT other/AP side/NN in/IN Hudson/NP ./pct
+``/pct We'll/PPSSMD take/VB the/AT truth/NN to/IN the/AT people/NNS ,/pct and/CC the/AT people/NNS will/MD like/VB the/AT truth/NN and/CC elect/VB their/PPg candidate/NN and/CC party/NN in/IN November/NP ''/pct ./pct
 He/PPS said/VBD ,/pct ``/pct You/PPSS can/MD see/VB signs/NNS of/IN the/AT Republicans'/NPSg feeble/JJ attack/NN on/IN the/AT Meyner/NP administration/NN ./pct
 But/CC I/PPSS shall/MD campaign/VB on/IN the/AT Meyner/NP record/NN to/TO meet/VB the/AT needs/NNS of/IN the/AT years/NNS ahead/RB ''/pct ./pct
 He/PPS urged/VBD New/JJ Jersey/NP to/TO ``/pct become/VB a/AT full/JJ partner/NN in/IN the/AT courageous/JJ actions/NNS of/IN President/NN Kennedy/NP ''/pct ./pct
@@ -88,8 +88,8 @@ Hughes/NP said/VBD ,/pct ``/pct This/DT is/BEZ not/NEG a/AT plan/NN to/TO conque
 He/PPS said/VBD ``/pct Morris/NP County/NN is/BEZ rapidly/RB changing/VBG and/CC unless/CS steps/NNS are/BER taken/VBN to/TO preserve/VB the/AT green/JJ areas/NNS ,/pct there/EX will/MD be/BE no/AT land/NN left/VBN to/TO preserve/VB ''/pct ./pct
 Hughes/NP would/MD not/NEG comment/VB on/IN tax/NN reforms/NNS or/CC other/AP issues/NNS in/IN which/WDT the/AT Republican/NP candidates/NNS are/BER involved/VBN ./pct
 He/PPS said/VBD no/AT matter/NN what/WDT stand/NN he/PPS takes/VBZ it/PPS would/MD be/BE misconstrued/VBN that/CS he/PPS was/BEDZ sympathetic/JJ to/IN one/CD or/CC the/AT other/AP of/IN the/AT Republicans/NPS ./pct
-``/pct After/CS the/AT primary/NN ''/pct ,/pct he/PPS promised/VBD ,/pct ``/pct I'll /None be/BE explicit/JJ on/IN where/WRB I/PPSS stand/VB to/TO bring/VB you/PPO a/AT strong/JJ ,/pct dynamic/JJ administration/NN ./pct
-I'm /None not/NEG afraid/JJ to/TO tangle/VB with/IN the/AT Republican/NP nominee/NN ''/pct ./pct
+``/pct After/CS the/AT primary/NN ''/pct ,/pct he/PPS promised/VBD ,/pct ``/pct I'll/PPSSMD be/BE explicit/JJ on/IN where/WRB I/PPSS stand/VB to/TO bring/VB you/PPO a/AT strong/JJ ,/pct dynamic/JJ administration/NN ./pct
+I'm/PPSSBEM not/NEG afraid/JJ to/TO tangle/VB with/IN the/AT Republican/NP nominee/NN ''/pct ./pct
 Trenton/NP
 --/pct Fifteen/CD members/NNS of/IN the/AT Republican/NP State/NN Committee/NN who/WPS are/BER retiring/VBG --/pct voluntarily/RB --/pct this/DT year/NN were/BED honored/VBN yesterday/NR by/IN their/PPg colleagues/NNS ./pct
 The/AT outgoing/JJ members/NNS ,/pct whose/WPg four-year/JJ terms/NNS will/MD expire/VB a/AT week/NN after/IN the/AT April/NP 18/CD primary/NN election/NN ,/pct received/VBD carved/VBN wooden/JJ elephants/NNS ,/pct complete/JJ with/IN ivory/NN tusks/NNS ,/pct to/TO remember/VB the/AT state/NN committee/NN by/IN ./pct

@@ -23,7 +23,7 @@ The/AT remains/NNS of/IN the/AT Portico/NN of/IN Octavia/NP are/BER now/RB in/IN
 Climb/VB the/AT steps/NNS from/IN the/AT theatre/NN to/IN the/AT Via/NP Della/NP Tribuna/NP Di/NP Campitelli/NP for/IN an/AT even/QL better/JJR view/NN of/IN the/AT Columns/NNS of/IN Apollo/NP ./pct
 Turn/VB to/IN the/AT right/NR along/IN a/AT narrow/JJ street/NN to/IN the/AT tiny/JJ Piazza/NP Campitelli/NP ,/pct then/RB proceed/VB along/IN the/AT Via/NP Dei/NP Funari/NP to/IN the/AT Piazza/NP Mattei/NP ./pct
 Here/RB is/BEZ one/CD of/IN the/AT loveliest/JJT fountains/NNS in/IN Rome/NP ,/pct the/AT Fontana/NP delle/NP Tartarughe/NP or/CC ``/pct Fountain/NN of/IN the/AT Tortoises/NNS ''/pct ./pct
-It's /None typical/JJ of/IN Rome/NP that/CS in/IN the/AT midst/NN of/IN this/DT rather/QL poor/JJ area/NN you/PPSS should/MD find/VB such/ABL an/AT artistic/JJ work/NN in/IN the/AT center/NN of/IN a/AT little/AP square/NN ./pct
+It's/PPSBEZ typical/JJ of/IN Rome/NP that/CS in/IN the/AT midst/NN of/IN this/DT rather/QL poor/JJ area/NN you/PPSS should/MD find/VB such/ABL an/AT artistic/JJ work/NN in/IN the/AT center/NN of/IN a/AT little/AP square/NN ./pct
 Stand/VB here/RB for/IN a/AT few/AP moments/NNS and/CC look/VB at/IN this/DT gem/NN of/IN a/AT fountain/NN with/IN its/PPg four/CD youths/NNS ,/pct each/DT holding/NN a/AT tortoise/NN and/CC each/DT with/IN a/AT foot/NN resting/VBG on/IN the/AT head/NN of/IN a/AT dolphin/NN ./pct
 The/AT figures/NNS have/HV been/BEN executed/VBN so/QL skillfully/RB that/CS one/CD senses/VBZ a/AT great/JJ feeling/NN of/IN life/NN and/CC movement/NN ./pct
 Opposite/RB is/BEZ the/AT Palazzo/NP Mattei/NP ,/pct one/CD of/IN Rome's/NPg oldest/JJT palaces/NNS ,/pct now/RB the/AT headquarters/NN of/IN the/AT Italo-American/JJ Association/NN ./pct

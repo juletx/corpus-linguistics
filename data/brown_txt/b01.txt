@@ -16,7 +16,7 @@ We/PPSS congratulate/VB the/AT entire/JJ membership/NN on/IN its/PPg record/NN o
 In/IN the/AT interim/NN between/IN now/RB and/CC next/AP year/NN ,/pct we/PPSS trust/VB the/AT House/NN and/CC Senate/NN will/MD put/VB their/PPg minds/NNS to/IN studying/VBG Georgia's/NPg very/QL real/JJ economic/JJ ,/pct fiscal/JJ and/CC social/JJ problems/NNS and/CC come/VB up/RP with/IN answers/NNS without/IN all/ABN the/AT political/JJ heroics/NNS ./pct
 League/NN regularly/RB stands/VBZ on/IN the/AT side/NN of/IN right/NN
 The/AT League/NN of/IN Women/NNS Voters/NNS ,/pct 40/CD now/RB and/CC admitting/VBG it/PPS proudly/RB ,/pct is/BEZ inviting/VBG financial/JJ contributions/NNS in/IN the/AT windup/NN of/IN its/PPg fund/NN drive/NN ./pct
-It's /None a/AT good/JJ use/NN of/IN money/NN ./pct
+It's/PPSBEZ a/AT good/JJ use/NN of/IN money/NN ./pct
 These/DTS women/NNS whose/WPg organization/NN grew/VBD out/IN of/IN the/AT old/JJ suffrage/NN movement/NN are/BER dedicated/VBN to/IN Thomas/NP Jefferson's/NPg dictum/NN that/CS one/PN must/MD cherish/VB the/AT people's/NNSg spirit/NN but/CC ``/pct Keep/VB alive/JJ their/PPg attention/NN ''/pct ./pct
 ``/pct If/CS once/CS they/PPSS become/VB inattentive/JJ to/IN the/AT public/NN affairs/NNS ''/pct ,/pct Jefferson/NP said/VBD ,/pct ``/pct you/PPSS and/CC I/PPSS ,/pct and/CC Congress/NP and/CC assemblies/NNS ,/pct judges/NNS and/CC governors/NNS ,/pct shall/MD all/ABN become/VB wolves/NNS ''/pct ./pct
 Newspapermen/NNS and/CC politicians/NNS especially/RB are/BER aware/JJ of/IN the/AT penetrating/JJ attention/NN and/CC expert/JJ analysis/NN the/AT league/NN gives/VBZ to/IN public/JJ affairs/NNS ./pct
@@ -71,7 +71,7 @@ The/AT boost/NN is/BEZ helpful/JJ but/CC inadequate/JJ ./pct
 The/AT end/NN of/IN Trujillo/NP
 Assassination/NN ,/pct even/RB of/IN a/AT tyrant/NN ,/pct is/BEZ repulsive/JJ to/IN men/NNS of/IN good/JJ conscience/NN ./pct
 Rafael/NP Trujillo/NP ,/pct the/AT often/RB blood-thirsty/JJ dictator/NN of/IN the/AT Dominican/NP Republic/NN for/IN 31/CD years/NNS ,/pct perhaps/RB deserved/VBD his/PPg fate/NN in/IN an/AT even-handed/JJ appraisal/NN of/IN history/NN ./pct
-But/CC whether/CS the/AT murder/NN of/IN El/AT Benefactor/NN in/IN Ciudad/NP Trujillo/NP means/VBZ freedom/NN for/IN the/AT people/NNS of/IN the/AT Caribbean/NP fiefdom/NN is/BEZ a/AT question/NN that/DT cannot /None now/RB be/BE answered/VBN ./pct
+But/CC whether/CS the/AT murder/NN of/IN El/AT Benefactor/NN in/IN Ciudad/NP Trujillo/NP means/VBZ freedom/NN for/IN the/AT people/NNS of/IN the/AT Caribbean/NP fiefdom/NN is/BEZ a/AT question/NN that/DT cannot/MD* now/RB be/BE answered/VBN ./pct
 Trujillo/NP knew/VBD a/AT great/JJ deal/NN about/IN assassination/NN ./pct
 The/AT responsibility/NN for/IN scores/NNS of/IN deaths/NNS ,/pct including/IN the/AT abduction/NN and/CC murder/NN of/IN Jesus/NP Maria/NP Galindez/NP ,/pct a/AT professor/NN at/IN Columbia/NP University/NN in/IN New/JJ York/NP ,/pct has/HVZ been/BEN laid/VBN at/IN his/PPg door/NN ./pct
 He/PPS had/HVD been/BEN involved/VBN in/IN countless/JJ schemes/NNS to/TO do/DO away/RB with/IN democratic/JJ leaders/NNS in/IN neighboring/VBG countries/NNS such/JJ as/CS President/NN Romulo/NP Betancourt/NP of/IN Venezuela/NP ./pct

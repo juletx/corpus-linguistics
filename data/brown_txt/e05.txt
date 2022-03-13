@@ -7,7 +7,7 @@ As/CS has/HVZ been/BEN the/AT custom/NN for/IN the/AT past/AP several/AP years/N
 Over/RP 60/CD Juniors/NNS ,/pct parents/NNS and/CC guests/NNS attended/VBD ./pct
 Mrs./NP William/NP H./NP Long/NP ,/pct Jr./NP speaks/VBZ
 After/CS the/AT Juniors/NNS were/BED welcomed/VBN and/CC congratulated/VBN for/IN qualifying/VBG for/IN the/AT Finals/NNS of/IN the/AT Junior/JJ Class/NN ,/pct Mrs./NP William/NP H./NP Long/NP ,/pct Jr./NP was/BEDZ introduced/VBN as/CS the/AT first/OD speaker/NN ./pct
-In/IN her/PPg opening/VBG remarks/NNS Mrs./NP Long/NP also/RB welcomed/VBD the/AT Juniors/NNS and/CC stated/VBD ,/pct ``/pct There/EX isn't /None any/DTI other/AP show/NN quite/QL like/CS Westminster/NP ./pct
+In/IN her/PPg opening/VBG remarks/NNS Mrs./NP Long/NP also/RB welcomed/VBD the/AT Juniors/NNS and/CC stated/VBD ,/pct ``/pct There/EX isn't/BEZ* any/DTI other/AP show/NN quite/QL like/CS Westminster/NP ./pct
 I/PPSS know/VB because/CS this/DT is/BEZ my/PPg 37th/OD year/NN with/IN hardly/RB a/AT break/NN ./pct
 Mrs./NP Long/NP still/RB feels/VBZ the/AT same/AP unique/JJ spirit/NN of/IN Westminster/NP which/WDT she/PPS stated/VBD the/AT present/JJ Juniors/NNS will/MD experience/VB today/NR but/CC probably/RB will/MD not/NEG appreciate/VB in/IN full/JJ for/IN a/AT number/NN of/IN years/NNS ./pct
 Twenty/CD years/NNS ago/RB her/PPg daughter/NN Betsey/NP Long/NP ,/pct then/RB 13/CD years/NNS of/IN age/NN ,/pct won/VBD the/AT Grand/JJ Challenge/NN Trophy/NN ,/pct Children's/NNSg Handling/VBG Class/NN (/pct as/CS they/PPSS were/BED called/VBN then/RB )/pct at/IN Westminster/NP ./pct
@@ -74,7 +74,7 @@ Each/DT year/NN these/DTS shows/NNS have/HV increased/VBN in/IN entries/NNS ./pc
 Next/AP year/NN 1962/CD ,/pct at/IN Westminster/NP ,/pct the/AT Bench/NN Show/NN Committee/NN has/HVZ raised/VBN the/AT requirements/NNS so/CS that/CS a/AT junior/NN must/MD win/VB 3/CD or/CC more/AP Junior/JJ Classes/NNS in/IN the/AT open/JJ division/NN only/RB to/TO qualify/VB for/IN Westminster/NP ./pct
 Percy/NP Roberts/NP ,/pct a/AT leading/VBG judge/NN will/MD not/NEG be/BE at/IN the/AT International/JJ Show/NN this/DT year/NN for/IN the/AT Junior/JJ Judging/NN Contest/NN as/CS he/PPS has/HVZ been/BEN invited/VBN to/TO judge/VB in/IN Australia/NP in/IN March/NP ./pct
 Judging/VBG class/NN for/IN intermediates/NNS proposed/VBN
-It/PPS has/HVZ been/BEN suggested/VBN many/AP times/NNS that/CS a/AT Class/NN be/BE set/VBN up/RP for/IN the/AT Juniors/NNS who/WPS are/BER overage/JJ and/CC cannot /None enter/VB the/AT Junior/JJ Classes/NNS ./pct
+It/PPS has/HVZ been/BEN suggested/VBN many/AP times/NNS that/CS a/AT Class/NN be/BE set/VBN up/RP for/IN the/AT Juniors/NNS who/WPS are/BER overage/JJ and/CC cannot/MD* enter/VB the/AT Junior/JJ Classes/NNS ./pct
 For/IN some/DTI time/NN this/DT writer/NN has/HVZ been/BEN suggesting/VBG a/AT Junior/JJ Judging/NN Class/NN for/IN Intermediates/NNS over/RP 16/CD and/CC under/RB 20/CD years/NNS of/IN age/NN who/WPS are/BER ineligible/JJ to/TO compete/VB in/IN the/AT Junior/JJ Class/NN ./pct
 Such/ABL a/AT Class/NN was/BEDZ tried/VBN out/RP successfully/RB at/IN the/AT Westchester/NP KC/NN Show/NN recently/RB ./pct
 Not/NEG only/RB were/BED the/AT contestants/NNS pleased/VBN with/IN the/AT Class/NN ,/pct but/CC it/PPS aroused/VBD the/AT interest/NN of/IN all/ABN in/IN attendance/NN that/DT day/NN ./pct
@@ -96,15 +96,15 @@ The/AT Airedale/NP Terrier/NN Club/NN of/IN America/NP and/CC the/AT Kerry/NP Bl
 The/AT Kansas/NP City/NN and/CC the/AT Topeka/NP KCs/NP are/BER arranging/VBG that/CS Juniors/NNS who/WPS win/VB at/IN their/PPg shows/NNS will/MD be/BE qualified/VBN to/TO win/VB points/NNS for/IN Westminster/NP ./pct
 The/AT Rio/NP Grande/NP KC/NP is/BEZ also/RB considering/VBG having/HVG their/PPg Junior/JJ Classes/NNS set/VBN up/RP so/CS that/CS Juniors/NNS can/MD qualify/VB with/IN points/NNS for/IN Westminster/NP ./pct
 The/AT American/JJ Pointer/NN Club/NN is/BEZ still/RB continuing/VBG to/TO donate/VB trophies/NNS to/IN Juniors/NNS who/WPS win/VB at/IN Junior/JJ Showmanship/NN Classes/NNS with/IN Pointers/NNS ./pct
-Traveling/VBG through/IN the/AT South/NR --/pct over/RP 16,000/CD miles/NNS --/pct with/IN two/CD Great/JJ Danes/NPS ,/pct an/AT Afghan/NP ,/pct and/CC a/AT Persian/JJ kitten/NN ,/pct we've /None worked/VBN up/RP a/AT regular/JJ routine/NN for/IN acceptance/NN at/IN motels/NNS ./pct
+Traveling/VBG through/IN the/AT South/NR --/pct over/RP 16,000/CD miles/NNS --/pct with/IN two/CD Great/JJ Danes/NPS ,/pct an/AT Afghan/NP ,/pct and/CC a/AT Persian/JJ kitten/NN ,/pct we've/PPSSHV worked/VBN up/RP a/AT regular/JJ routine/NN for/IN acceptance/NN at/IN motels/NNS ./pct
 My/PPg husband/NN enters/VBZ the/AT motel/NN office/NN ,/pct signs/VBZ up/RP for/IN a/AT room/NN ,/pct and/CC then/RB solemnly/RB asks/VBZ the/AT proprieter/NN if/CS he/PPS accepts/VBZ pets/NNS ./pct
 ``/pct Puppies/NNS ''/pct ?/pct ?/pct
 Comes/VBZ the/AT suspicious/JJ question/NN ./pct
 ``/pct No/RB ''/pct ,/pct he/PPS replies/VBZ ,/pct ``/pct full/RB grown/VBN ,/pct adult/NN show/NN dogs/NNS ,/pct housebroken/VBN ,/pct and/CC obedience-trained/JJ ''/pct ./pct
-We've /None never/RB been/BEN refused/VBN !/pct !/pct
-Once/RB settled/VBN ,/pct we're /None careful/JJ to/TO walk/VB the/AT dogs/NNS in/IN an/AT out/IN of/IN the/AT way/NN spot/NN ,/pct keep/VB them/PPO under/IN control/NN in/IN the/AT room/NN ,/pct and/CC feed/VB and/CC bench/VB them/PPO where/WRB they/PPSS can't /None do/DO any/DTI harm/NN to/IN the/AT furnishings/NNS or/CC the/AT furniture/NN ./pct
+We've/PPSSHV never/RB been/BEN refused/VBN !/pct !/pct
+Once/RB settled/VBN ,/pct we're/PPSSBER careful/JJ to/TO walk/VB the/AT dogs/NNS in/IN an/AT out/IN of/IN the/AT way/NN spot/NN ,/pct keep/VB them/PPO under/IN control/NN in/IN the/AT room/NN ,/pct and/CC feed/VB and/CC bench/VB them/PPO where/WRB they/PPSS can't/MD* do/DO any/DTI harm/NN to/IN the/AT furnishings/NNS or/CC the/AT furniture/NN ./pct
 In/IN the/AT morning/NN we/PPSS leave/VB the/AT room/NN looking/VBG as/QL neat/JJ as/CS a/AT pin/NN !/pct !/pct
-Many/ABN a/AT motel/NN owner/NN --/pct when/WRB we've /None stopped/VBN there/RB again/RB --/pct has/HVZ remembered/VBN us/PPO and/CC has/HVZ said/VBN he/PPS preferred/VBD our/PPg dogs/NNS to/IN most/AP children/NNS ./pct
+Many/ABN a/AT motel/NN owner/NN --/pct when/WRB we've/PPSSHV stopped/VBN there/RB again/RB --/pct has/HVZ remembered/VBN us/PPO and/CC has/HVZ said/VBN he/PPS preferred/VBD our/PPg dogs/NNS to/IN most/AP children/NNS ./pct
 So/QL many/AP times/NNS I/PPSS have/HV wondered/VBN why/WRB veterinarians/NNS do/DO not/NEG wipe/VB the/AT table/NN clean/JJ before/CS each/DT new/JJ canine/NN patient/NN is/BEZ placed/VBN on/IN it/PPO for/IN examination/NN ./pct
-Is/BEZ it/PPS that/CS they/PPSS don't /None care/VB ?/pct ?/pct
+Is/BEZ it/PPS that/CS they/PPSS don't/DO* care/VB ?/pct ?/pct
 Are/BER they/PPSS indifferent/JJ to/IN the/AT fact/NN that/CS the/AT dog/NN can/MD easily/RB pick/VB up/RP germs/NNS from/IN the/AT preceding/VBG patient/NN ?/pct ?/pct

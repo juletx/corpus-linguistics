@@ -6,7 +6,7 @@ This/DT article/NN assumes/VBZ that/CS the/AT rations/NNS you/PPSS are/BER feedi
 The/AT drug's/NNg chemical/NN name/NN is/BEZ listed/VBN ,/pct since/CS most/AP states/NNS require/VB feed/NN processors/NNS to/TO use/VB this/DT name/NN instead/RB of/IN the/AT trade/NN name/NN on/IN the/AT feed/NN tag/NN ./pct
 In/IN some/DTI instances/NNS ,/pct the/AT trade/NN name/NN is/BEZ shown/VBN in/IN parentheses/NNS following/VBG the/AT chemical/NN name/NN ./pct
 This/DT indicates/VBZ that/CS this/DT drug/NN is/BEZ being/BEG marketed/VBN under/IN one/CD trade/NN name/NN only/RB or/CC state/NN regulatory/JJ organizations/NNS have/HV approved/VBN its/PPg use/NN on/IN the/AT feed/NN tag/NN ./pct
-Here's /None your/PPg feed/NN additive/NN guide/NN for/IN ruminants/NNS :/pct
+Here's/RBBEZ your/PPg feed/NN additive/NN guide/NN for/IN ruminants/NNS :/pct
 drug's/NNg chemical/NN name/NN :/pct
 Oxytetracycline/NN hydrochloride/NN (/pct Terramycin/NP )/pct what/WDT it/PPS does/DOZ :/pct
 Increases/NNS rate/VB of/IN gain/NN and/CC improves/VBZ feed/NN efficiency/NN ,/pct aids/VBZ in/IN the/AT prevention/NN or/CC treatment/NN (/pct depending/IN on/IN level/NN fed/VBN )/pct of/IN the/AT early/JJ stages/NNS of/IN shipping/VBG fever/NN ,/pct prevents/VBZ or/CC treats/VBZ bacterial/JJ diarrhea/NN ,/pct and/CC aids/VBZ in/IN reducing/VBG incidence/NN of/IN bloat/NN and/CC liver/NN abscesses/NNS ./pct
@@ -23,7 +23,7 @@ Beef/NN and/CC dairy/NN
 To/TO reduce/VB incidence/NN of/IN liver/NN abscesses/NNS ,/pct supply/VB 75/CD milligrams/NNS of/IN oxytetracycline/NN activity/NN per/IN head/NN daily/RB ./pct
 To/TO prevent/VB or/CC treat/VB bacterial/JJ diarrhea/NN ,/pct furnish/VB 0.1/CD to/IN 5/CD milligrams/NNS per/IN pound/NN of/IN body/NN weight/NN daily/RB ./pct
 For/IN the/AT prevention/NN or/CC treatment/NN of/IN the/AT early/JJ stages/NNS of/IN shipping/VBG fever/NN complex/NN ,/pct increase/VB feeding/VBG level/NN to/IN 0.5/CD to/IN 2/CD grams/NNS per/IN head/NN per/IN day/NN ./pct
-For/IN the/AT best/JJT results/NNS ,/pct feed/VB this/DT level/NN to/IN cattle/NNS 3/CD to/IN 5/CD days/NNS preceding/VBG shipment/NN and/or/CC 3/CD to/IN 5/CD days/NNS following/VBG their/PPg arrival/NN in/IN your/PPg feed/NN lot/NN ./pct
+For/IN the/AT best/JJT results/NNS ,/pct feed/VB this/DT level/NN to/IN cattle/NNS 3/CD to/IN 5/CD days/NNS preceding/VBG shipment/NN and:or/CC 3/CD to/IN 5/CD days/NNS following/VBG their/PPg arrival/NN in/IN your/PPg feed/NN lot/NN ./pct
 For/IN treatment/NN of/IN shipping/VBG fever/NN ,/pct this/DT level/NN should/MD be/BE fed/VBN at/IN the/AT onset/NN of/IN the/AT disease/NN symptoms/NNS until/CS symptoms/NNS disappear/VB ./pct
 Sheep/NN
 --/pct To/TO increase/VB rate/NN of/IN gain/NN and/CC improve/VB feed/NN efficiency/NN ,/pct feed/VB 10/CD to/IN 20/CD grams/NNS per/IN ton/NN ./pct
@@ -79,14 +79,14 @@ Hydroxazine/NN hydrochloride/NN ./pct
 What/WDT it/PPS does/DOZ :/pct
 Improves/VBZ growth/NN rate/NN and/CC feed/NN efficiency/NN of/IN fattening/VBG beef/NN animals/NNS ./pct
 How/WRB to/TO feed/VB :/pct
-At/IN the/AT rate/NN of/IN 2-1/2/CD milligrams/NNS per/IN head/NN per/IN day/NN ./pct
+At/IN the/AT rate/NN of/IN 2-1:2/CD milligrams/NNS per/IN head/NN per/IN day/NN ./pct
 Drug's/NNg chemical/NN name/NN :/pct
 Iodinated/VBN casein/NN ./pct
 What/WDT it/PPS does/DOZ :/pct
 Drug/NN elevates/VBZ the/AT metabolic/JJ rate/NN of/IN the/AT cow/NN ./pct
 Fed/VBN to/IN dairy/NN cattle/NNS to/TO increase/VB milk/NN production/NN and/CC butterfat/NN percentage/NN ./pct
 How/WRB to/TO feed/VB :/pct
-1/CD to/IN 1-1/2/CD grams/NNS per/IN 100/CD pounds/NNS of/IN body/NN weight/NN ./pct
+1/CD to/IN 1-1:2/CD grams/NNS per/IN 100/CD pounds/NNS of/IN body/NN weight/NN ./pct
 Caution/NN :/pct
 Cows/NNS receiving/VBG drug/NN may/MD not/NEG be/BE officially/RB tested/VBN under/IN breed/NN registry/NN testing/NN programs/NNS ./pct
 Drug's/NNg chemical/NN name/NN :/pct
@@ -140,8 +140,8 @@ Sodium/NN propionate/NN ./pct
 What/WDT it/PPS does/DOZ :/pct
 For/IN the/AT prevention/NN or/CC treatment/NN of/IN acetonemia/NN (/pct ketosis/NN )/pct in/IN dairy/NN cows/NNS ./pct
 How/WRB to/TO feed/VB :/pct
-For/IN the/AT prevention/NN of/IN acetonemia/NN (/pct ketosis/NN )/pct feed/VB 1/4/CD pound/NN per/IN day/NN beginning/VBG at/IN calving/VBG and/CC continuing/VBG for/IN 6/CD weeks/NNS ./pct
-For/IN the/AT treatment/NN of/IN ketosis/NN feed/VB 1/4/CD to/IN 1/2/CD pound/NN per/IN day/NN for/IN 10/CD days/NNS ./pct
+For/IN the/AT prevention/NN of/IN acetonemia/NN (/pct ketosis/NN )/pct feed/VB 1:4/CD pound/NN per/IN day/NN beginning/VBG at/IN calving/VBG and/CC continuing/VBG for/IN 6/CD weeks/NNS ./pct
+For/IN the/AT treatment/NN of/IN ketosis/NN feed/VB 1:4/CD to/IN 1:2/CD pound/NN per/IN day/NN for/IN 10/CD days/NNS ./pct
 Drug's/NNg chemical/NN name/NN :/pct
 Sulfaquinoxaline/NN ./pct
 What/WDT it/PPS does/DOZ :/pct
@@ -159,8 +159,8 @@ Calcium/NN and/CC sodium/NN lactate/NN ./pct
 What/WDT it/PPS does/DOZ :/pct
 Prevents/VBZ and/CC treats/VBZ acetonemia/NN (/pct ketosis/NN )/pct in/IN dairy/NN cows/NNS ./pct
 How/WRB to/TO feed/VB :/pct
-For/IN prevention/NN of/IN ketosis/NN ,/pct feed/VB 1/4/CD pound/NN per/IN head/NN daily/RB for/IN 6/CD weeks/NNS commencing/VBG at/IN calving/VBG time/NN ./pct
-For/IN treatment/NN of/IN ketosis/NN ,/pct feed/VB 1/2/CD pound/NN daily/RB until/CS symptoms/NNS disappear/VB ./pct
+For/IN prevention/NN of/IN ketosis/NN ,/pct feed/VB 1:4/CD pound/NN per/IN head/NN daily/RB for/IN 6/CD weeks/NNS commencing/VBG at/IN calving/VBG time/NN ./pct
+For/IN treatment/NN of/IN ketosis/NN ,/pct feed/VB 1:2/CD pound/NN daily/RB until/CS symptoms/NNS disappear/VB ./pct
 Then/RB ,/pct feed/VB preventive/JJ dose/NN until/IN 6/CD weeks/NNS after/IN calving/VBG ./pct
 Drug's/NNg chemical/NN name/NN :/pct
 Promazine/NN hydrochloride/NN ./pct

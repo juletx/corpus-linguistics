@@ -36,7 +36,7 @@ Many/AP selections/NNS are/BER themselves/PPLS convincing/JJ contributions/NNS t
 Undoubtedly/RB ,/pct however/RB ,/pct the/AT significance/NN of/IN the/AT volume/NN is/BEZ greater/JJR than/CS the/AT foregoing/VBG paragraphs/NNS suggest/VB ./pct
 Speaking/VBG as/CS a/AT non-Jew/NP I/PPSS believe/VB that/CS its/PPg primary/JJ contribution/NN is/BEZ in/IN the/AT realm/NN of/IN future/JJ policy/NN ./pct
 Since/CS we/PPSS can/MD neither/CC undo/VB nor/CC redo/VB the/AT past/NN ,/pct we/PPSS are/BER limited/VBN to/IN the/AT events/NNS of/IN today/NR and/CC tomorrow/NR ./pct
-In/IN this/DT domain/NN the/AT simple/JJ fact/NN of/IN coexistence/NN in/IN the/AT same/AP local/JJ ,/pct national/JJ ,/pct and/CC world/NN community/NN is/BEZ enough/AP to/TO guarantee/VB that/CS we/PPSS cannot /None refrain/VB from/IN having/HVG some/DTI effect/NN ,/pct large/JJ or/CC small/JJ ,/pct upon/IN Gentile-Jewish/JJ relations/NNS ./pct
+In/IN this/DT domain/NN the/AT simple/JJ fact/NN of/IN coexistence/NN in/IN the/AT same/AP local/JJ ,/pct national/JJ ,/pct and/CC world/NN community/NN is/BEZ enough/AP to/TO guarantee/VB that/CS we/PPSS cannot/MD* refrain/VB from/IN having/HVG some/DTI effect/NN ,/pct large/JJ or/CC small/JJ ,/pct upon/IN Gentile-Jewish/JJ relations/NNS ./pct
 What/WDT shall/MD these/DTS effects/NNS be/BE ?/pct ?/pct
 I/PPSS am/BEM deliberately/RB raising/VBG the/AT policy/NN problems/NNS involved/VBN in/IN Gentile-Jewish/JJ relations/NNS ./pct
 Comprehensive/JJ examination/NN of/IN any/DTI policy/NN question/NN calls/VBZ for/IN the/AT performance/NN of/IN the/AT intellectual/JJ tasks/NNS inseparable/JJ from/IN any/DTI problem-solving/JJ method/NN ./pct
@@ -70,7 +70,7 @@ In/IN conformance/NN with/IN the/AT maximization/NN principle/NN we/PPSS affirm/
 It/PPS is/BEZ not/NEG difficult/JJ to/TO anticipate/VB circumstances/NNS in/IN which/WDT negative/JJ tensions/NNS will/MD cumulate/VB ;/pct ;/pct
 for/IN instance/NN ,/pct imagine/VB the/AT situation/NN if/CS Israel/NP ever/RB joins/VBZ an/AT enemy/NN coalition/NN ./pct
 The/AT formal/JJ position/NN of/IN Americans/NPS who/WPS identify/VB themselves/PPLS with/IN one/CD or/CC more/AP of/IN the/AT several/AP identities/NNS of/IN the/AT Jewish/JJ symbol/NN is/BEZ already/RB clear/JJ ;/pct ;/pct
-the/AT future/JJ weight/NN of/IN informal/JJ factors/NNS cannot /None be/BE so/QL easily/RB assessed/VBN ./pct
+the/AT future/JJ weight/NN of/IN informal/JJ factors/NNS cannot/MD* be/BE so/QL easily/RB assessed/VBN ./pct
 When/WRB we/PPSS consider/VB the/AT disorganized/VBN state/NN of/IN the/AT world/NN community/NN ,/pct and/CC the/AT legacy/NN of/IN predispositions/NNS adversely/RB directed/VBN against/IN all/ABN who/WPS are/BER identified/VBN as/CS Jews/NPS ,/pct it/PPS is/BEZ obvious/JJ that/CS the/AT struggle/NN for/IN the/AT minds/NNS and/CC muscles/NNS of/IN men/NNS needs/VBZ to/TO be/BE prosecuted/VBN with/IN increasing/VBG vigor/NN and/CC skill/NN ./pct
 During/IN moments/NNS of/IN intense/JJ crisis/NN the/AT responsibility/NN of/IN political/JJ leaders/NNS is/BEZ overwhelming/JJ ./pct
 But/CC their/PPg freedom/NN of/IN policy/NN is/BEZ limited/VBN by/IN the/AT pattern/NN of/IN predisposition/NN with/IN which/WDT they/PPSS and/CC the/AT people/NNS around/IN them/PPO enter/VB the/AT crisis/NN ./pct

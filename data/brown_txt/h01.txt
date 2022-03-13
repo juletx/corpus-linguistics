@@ -91,7 +91,7 @@ The/AT record/NN of/IN past/AP earnings/NNS and/CC prospects/NNS for/IN the/AT f
 Loan/NN amount/NN
 The/AT amount/NN which/WDT may/MD be/BE borrowed/VBN from/IN the/AT SBA/NN depends/VBZ on/IN how/WQL much/AP is/BEZ required/VBN to/TO carry/VB out/RP the/AT intended/VBN purpose/NN of/IN the/AT loan/NN ./pct
 The/AT maximum/JJ loan/NN which/WDT SBA/NN may/MD make/VB to/IN any/DTI one/CD borrower/NN is/BEZ $350,000/NNS ./pct
-Business/NN loans/NNS generally/RB are/BER repayable/JJ in/IN regular/JJ installments/NNS --/pct usually/RB monthly/RB ,/pct including/IN interest/NN at/IN the/AT rate/NN of/IN 5-1/2/CD percent/NN per/IN annum/NN on/IN the/AT unpaid/JJ balance/NN --/pct and/CC have/HV a/AT maximum/JJ maturity/NN of/IN 10/CD years/NNS ;/pct ;/pct
+Business/NN loans/NNS generally/RB are/BER repayable/JJ in/IN regular/JJ installments/NNS --/pct usually/RB monthly/RB ,/pct including/IN interest/NN at/IN the/AT rate/NN of/IN 5-1:2/CD percent/NN per/IN annum/NN on/IN the/AT unpaid/JJ balance/NN --/pct and/CC have/HV a/AT maximum/JJ maturity/NN of/IN 10/CD years/NNS ;/pct ;/pct
 the/AT term/NN of/IN loans/NNS for/IN working/VBG capital/NN is/BEZ 6/CD years/NNS ./pct
 Contact/VB
 For/IN further/AP information/NN ,/pct contact/VB SBA/NN Regional/JJ Offices/NNS in/IN Atlanta/NP ,/pct Ga./NP ;/pct ;/pct

@@ -10,7 +10,7 @@ So/RB as/CS the/AT years/NNS passed/VBD ,/pct I/PPSS saw/VBD them/PPO each/DT ti
 The/AT last/AP time/NN I/PPSS saw/VBD Bird/NP ,/pct at/IN Jimbo's/NPg Bob/NP City/NN ,/pct he/PPS was/BEDZ so/QL gone/VBN --/pct so/QL blind/JJ to/IN the/AT world/NN --/pct that/CS he/PPS literally/RB sat/VBD down/RP on/IN me/PPO before/CS he/PPS realized/VBD I/PPSS was/BEDZ there/RB ./pct
 ``/pct What/WDT happened/VBD ,/pct man/NN ''/pct ?/pct ?/pct
 I/PPSS said/VBD ,/pct referring/VBG to/IN the/AT pretentious/JJ ``/pct Jazz/NN Concert/NN ''/pct ./pct
-``/pct Evil/JJ ,/pct man/NN ,/pct evil/JJ ''/pct ,/pct he/PPS said/VBD ,/pct and/CC that's /None all/ABN he/PPS said/VBD for/IN the/AT rest/NN of/IN the/AT night/NN ./pct
+``/pct Evil/JJ ,/pct man/NN ,/pct evil/JJ ''/pct ,/pct he/PPS said/VBD ,/pct and/CC that's/DTBEZ all/ABN he/PPS said/VBD for/IN the/AT rest/NN of/IN the/AT night/NN ./pct
 About/RB dawn/NN he/PPS got/VBD up/RP to/TO blow/VB ./pct
 The/AT rowdy/JJ crowd/NN chilled/VBD into/IN stillness/NN and/CC the/AT fluent/JJ melody/NN spiraled/VBD through/IN it/PPO ./pct
 The/AT last/AP time/NN I/PPSS saw/VBD Dylan/NP ,/pct his/PPg self-destruction/NN had/HVD not/NEG just/RB passed/VBN the/AT limits/NNS of/IN rationality/NN ./pct
@@ -109,5 +109,5 @@ In/IN fact/NN ,/pct once/CS the/AT size/NN is/BEZ big/JJ enough/QLP to/TO cover/
 Now/RB there/EX is/BEZ nothing/PN wrong/JJ with/IN complicated/VBN wallpaper/NN ./pct
 There/EX is/BEZ just/RB more/AP to/IN Tiepolo/NP ./pct
 The/AT great/JJ Ashikaga/NP brush/NN painters/NNS painted/VBD wallpapers/NNS ,/pct too/RB --/pct at/IN least/AP portable/JJ ones/NNS ,/pct screens/NNS ./pct
-A/AT process/NN of/IN elimination/NN which/WDT leaves/VBZ the/AT artist/NN with/IN nothing/PN but/IN the/AT play/NN of/IN his/PPg materials/NNS themselves/PPLS cannot /None sustain/VB interest/NN in/IN either/CC artist/NN or/CC public/NN for/IN very/QL long/RB ./pct
+A/AT process/NN of/IN elimination/NN which/WDT leaves/VBZ the/AT artist/NN with/IN nothing/PN but/IN the/AT play/NN of/IN his/PPg materials/NNS themselves/PPLS cannot/MD* sustain/VB interest/NN in/IN either/CC artist/NN or/CC public/NN for/IN very/QL long/RB ./pct
 So/RB ,/pct in/IN the/AT last/AP couple/NN of/IN years/NNS ,/pct abstract/JJ expressionism/NN has/HVZ tended/VBN toward/IN romantic/JJ suggestion/NN --/pct indications/NNS of/IN landscape/NN or/CC living/VBG figures/NNS ./pct

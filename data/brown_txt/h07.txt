@@ -86,7 +86,7 @@ Second/OD ,/pct the/AT shift/NN to/IN a/AT uniform/JJ July/NP 1/CD to/IN June/NP
 There/EX are/BER at/IN least/AP two/CD problems/NNS to/TO consider/VB :/pct one/CD is/BEZ a/AT matter/NN of/IN adjusting/VBG the/AT fiscal/JJ calendar/NN ;/pct ;/pct
 the/AT other/AP is/BEZ how/WRB to/TO finance/VB the/AT adjustments/NNS when/WRB necessary/JJ ./pct
 The/AT latter/AP matter/NN is/BEZ considered/VBN in/IN detail/NN in/IN a/AT later/JJR section/NN ./pct
-Twelve/CD cities/NNS and/CC towns/NNS in/IN Rhode/NP Island/NN presently/RB indicate/VB some/DTI plans/NNS to/TO establish/VB a/AT uniform/JJ and/or/CC coordinated/VBN fiscal/JJ tax/NN year/NN calendar/NN ./pct
+Twelve/CD cities/NNS and/CC towns/NNS in/IN Rhode/NP Island/NN presently/RB indicate/VB some/DTI plans/NNS to/TO establish/VB a/AT uniform/JJ and:or/CC coordinated/VBN fiscal/JJ tax/NN year/NN calendar/NN ./pct
 Plans/NNS vary/VB from/IN the/AT ``/pct talking/VBG stage/NN ''/pct to/IN establishing/VBG special/JJ committees/NNS to/TO accomplish/VB this/DT end/NN ./pct
 What/WDT is/BEZ important/JJ here/RB is/BEZ that/CS many/AP of/IN the/AT cities/NNS and/CC towns/NNS recognize/VB the/AT need/NN for/IN improved/VBN fiscal/JJ practices/NNS and/CC are/BER taking/VBG the/AT initiative/NN to/TO obtain/VB them/PPO ./pct
 An/AT analysis/NN of/IN the/AT fiscal/JJ tax/NN collection/NN year/NN calendars/NNS throughout/IN the/AT state/NN indicates/VBZ that/CS transition/NN may/MD not/NEG be/BE as/QL painful/JJ as/CS is/BEZ commonly/RB thought/VBN ./pct

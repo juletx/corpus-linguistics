@@ -2,7 +2,7 @@ Eight/CD ,/pct nine/CD steps/NNS above/IN him/PPO ,/pct Roberts/NP had/HVD pause
 Mickey/NP paused/VBN with/IN him/PPO ,/pct waiting/VBG ,/pct no/AT longer/JJR impatient/JJ ,/pct trying/VBG now/RB to/TO think/VB it/PPO out/RP ,/pct do/DO a/AT little/AP planning/NN ./pct
 He/PPS looked/VBD down/RP over/IN the/AT banister/NN at/IN the/AT hotel/NN desk/NN ,/pct with/IN the/AT telephone/NN and/CC pen/NN set/NN ./pct
 If/CS I/PPSS could/MD call/VB in/RP ,/pct they/PPSS could/MD check/VB the/AT story/NN while/CS we/PPSS were/BED on/IN our/PPg way/NN ./pct
-I/PPSS wouldn't /None have/HV to/TO tell/VB them/PPO I/PPSS had/HVD Roberts/NP --/pct
+I/PPSS wouldn't/MD* have/HV to/TO tell/VB them/PPO I/PPSS had/HVD Roberts/NP --/pct
 Then/RB he/PPS heard/VBD it/PPO ,/pct like/CS a/AT muffled/VBN thud/NN ,/pct felt/VBD a/AT subtle/JJ change/NN in/IN air/NN pressure/NN ./pct
 He/PPS glanced/VBD up/RP in/IN time/NN to/TO see/VB Roberts/NP hurtling/VBG down/RP on/IN him/PPO from/IN above/RB ,/pct literally/RB flying/VBG through/IN the/AT air/NN ,/pct his/PPg bloody/JJ face/NN twisted/VBD ./pct
 Mickey/NP tried/VBD to/TO flatten/VB against/IN the/AT banister/NN ,/pct gripped/VBD it/PPO with/IN one/CD hand/NN ,/pct but/CC Roberts'/NPg full/JJ weight/NN struck/VBD him/PPO at/IN that/DT moment/NN in/IN the/AT groin/NN ./pct
@@ -57,26 +57,26 @@ The/AT sound/NN of/IN his/PPg head/NN striking/VBG the/AT solid/JJ wood/NN was/B
 He/PPS fell/VBD on/IN his/PPg side/NN across/IN the/AT lowest/JJT step/NN ,/pct rolled/VBN over/IN once/RB ,/pct then/RB lay/VBD still/RB ./pct
 Mickey/NP found/VBD himself/PPL leaning/VBG against/IN the/AT desk/NN ,/pct with/IN stiff/JJ hands/NNS ,/pct panting/VBG for/IN breath/NN ./pct
 After/IN a/AT minute/NN he/PPS went/VBD to/IN Roberts/NP ,/pct looked/VBD at/IN one/CD of/IN his/PPg eyes/NNS and/CC felt/VBD for/IN a/AT pulse/NN ./pct
-He/PPS couldn't /None feel/VB any/DTI ./pct
+He/PPS couldn't/MD* feel/VB any/DTI ./pct
 Roberts/NP appeared/VBD to/TO be/BE dead/JJ ;/pct ;/pct
 if/CS not/NEG yet/RB ,/pct then/RB soon/RB ,/pct very/QL soon/RB ./pct
 Suddenly/RB it/PPS was/BEDZ cold/JJ in/IN the/AT lobby/NN ./pct
 12/CD
 It/PPS seemed/VBD to/IN him/PPO that/CS a/AT long/JJ time/NN had/HVD passed/VBN before/CS he/PPS decided/VBD what/WDT to/TO do/DO ./pct
 Actually/RB it/PPS was/BEDZ no/AT more/AP than/CS eight/CD or/CC ten/CD minutes/NNS ,/pct and/CC the/AT sum/NN of/IN his/PPg reasoning/NN came/VBD to/IN this/DT :/pct
-There's /None no/AT way/NN to/TO take/VB him/PPO in/RP now/RB and/CC keep/VB those/DTS other/AP two/CD --/pct Wister/NP and/CC the/AT one/PN who/WPS hired/VBD the/AT two/CD of/IN them/PPO --/pct from/IN finding/VBG out/RP about/IN Roberts/NP and/CC lamming/VBG out/RP ./pct
+There's/EXBEZ no/AT way/NN to/TO take/VB him/PPO in/RP now/RB and/CC keep/VB those/DTS other/AP two/CD --/pct Wister/NP and/CC the/AT one/PN who/WPS hired/VBD the/AT two/CD of/IN them/PPO --/pct from/IN finding/VBG out/RP about/IN Roberts/NP and/CC lamming/VBG out/RP ./pct
 The/AT local/JJ law/NN here/RB would/MD hold/VB me/PPO till/CS they/PPSS check/VB clear/RB back/RB home/NR ,/pct and/CC maybe/RB more/AP than/IN that/DT ./pct
 They/PPSS would/MD have/HV to/TO ./pct
 By/IN then/RB they/PPSS could/MD never/RB catch/VB up/RP with/IN the/AT others/NNS ./pct
-There's /None no/AT other/AP way/NN ;/pct ;/pct
-I'll /None have/HV to/TO do/DO it/PPO myself/PPL ./pct
+There's/EXBEZ no/AT other/AP way/NN ;/pct ;/pct
+I'll/PPSSMD have/HV to/TO do/DO it/PPO myself/PPL ./pct
 He/PPS looked/VBD at/IN where/WRB Roberts/NP lay/VBD sprawled/VBN on/IN the/AT step/NN ./pct
 Mickey/NP was/BEDZ sure/JJ now/RB he/PPS was/BEDZ dead/JJ ./pct
 One/CD thing/NN ,/pct he/PPS thought/VBD ,/pct nobody/PN knows/VBZ about/IN it/PPO yet/RB ./pct
 Only/RB me/PPO ./pct
 He/PPS climbed/VBD the/AT stairs/NNS ,/pct went/VBD into/IN Roberts'/NPg room/NN ,/pct found/VBD a/AT suitcase/NN and/CC packed/VBD as/QL much/AP into/IN it/PPO as/CS he/PPS could/MD ./pct
 He/PPS left/VBD a/AT few/AP things/NNS ./pct
-It/PPS didn't /None have/HV to/TO be/BE perfect/JJ ./pct
+It/PPS didn't/DOD* have/HV to/TO be/BE perfect/JJ ./pct
 Roberts/NP was/BEDZ a/AT wastrel/NN ./pct
 Walking/VBG away/RB on/IN impulse/NN ,/pct he/PPS might/MD logically/RB leave/VB behind/RB what/WDT it/PPS was/BEDZ inconvenient/JJ to/TO carry/VB ./pct
 When/WRB he/PPS had/HVD closed/VBN the/AT suitcase/NN he/PPS found/VBD a/AT rag/NN and/CC moved/VBD about/IN the/AT room/NN ,/pct wiping/VBG carefully/RB everything/PN he/PPS might/MD have/HV touched/VBN ./pct
@@ -95,7 +95,7 @@ He/PPS took/VBD the/AT suitcase/NN out/RP to/IN the/AT Jeep/NN and/CC put/VBD it
 Then/RB he/PPS went/VBD back/RB for/IN Roberts/NP ./pct
 The/AT body/NN was/BEDZ heavier/JJR than/CS he/PPS had/HVD anticipated/VBN ./pct
 He/PPS got/VBD it/PPO onto/IN his/PPg shoulder/NN after/IN some/DTI work/NN and/CC carried/VBD it/PPO outside/RB and/CC down/RP to/IN the/AT Jeep/NN ./pct
-He/PPS dumped/VBD it/PPO into/IN the/AT back/NN and/CC made/VBD sure/JJ it/PPS wouldn't /None roll/VB out/RP ,/pct then/RB returned/VBD to/IN the/AT porch/NN and/CC closed/VBD the/AT front/JJ door/NN ,/pct making/VBG sure/JJ it/PPS was/BEDZ unlocked/VBN ./pct
+He/PPS dumped/VBD it/PPO into/IN the/AT back/NN and/CC made/VBD sure/JJ it/PPS wouldn't/MD* roll/VB out/RP ,/pct then/RB returned/VBD to/IN the/AT porch/NN and/CC closed/VBD the/AT front/JJ door/NN ,/pct making/VBG sure/JJ it/PPS was/BEDZ unlocked/VBN ./pct
 He/PPS drove/VBD carefully/RB in/IN the/AT direction/NN of/IN the/AT brief/JJ tour/NN they/PPSS had/HVD taken/VBN earlier/RBR ./pct
 It/PPS snowed/VBD continuously/RB ,/pct but/CC quietly/RB ,/pct evenly/RB ./pct
 When/WRB he/PPS reached/VBD the/AT dip/NN in/IN the/AT woods/NNS ,/pct he/PPS saw/VBD that/CS already/RB the/AT earlier/JJR ruts/NNS were/BED barely/RB discernible/JJ ./pct
@@ -105,7 +105,7 @@ He/PPS parked/VBD facing/VBG it/PPO and/CC left/VBD the/AT headlights/NNS on/RP 
 He/PPS went/VBD back/RB and/CC got/VBD the/AT flashlight/NN ,/pct returned/VBD to/IN the/AT tunnel/NN and/CC carried/VBD the/AT suitcase/NN to/IN the/AT edge/NN of/IN the/AT pit/NN he/PPS had/HVD found/VBN earlier/RBR ./pct
 He/PPS tossed/VBD the/AT bag/NN into/IN the/AT pit/NN and/CC watched/VBD dry/JJ dust/NN spray/VB up/RP around/IN it/PPO ./pct
 When/WRB the/AT dust/NN settled/VBD ,/pct he/PPS went/VBD back/RB to/IN the/AT Jeep/NN and/CC carefully/RB worked/VBD Roberts'/NPg body/NN onto/IN his/PPg shoulder/NN ./pct
-It/PPS wasn't /None like/CS carrying/VBG the/AT suitcase/NN ./pct
+It/PPS wasn't/BEDZ* like/CS carrying/VBG the/AT suitcase/NN ./pct
 The/AT soft/JJ snow/NN was/BEDZ deceitful/JJ underfoot/RB ./pct
 Twice/RB he/PPS nearly/RB fell/VBD ./pct
 Inside/IN the/AT passage/NN ,/pct he/PPS had/HVD to/TO work/VB his/PPg way/NN over/IN the/AT fallen/VBN timber/NN and/CC nearly/RB collapsed/VBD under/IN his/PPg clumsy/JJ burden/NN ./pct
@@ -127,7 +127,7 @@ The/AT body/NN lay/VBD in/IN an/AT awkward/JJ sprawl/NN twelve/CD or/CC fifteen/
 Deep/JJ enough/QLP ,/pct he/PPS decided/VBD ./pct
 There/EX was/BEDZ little/AP chance/NN anyone/PN would/MD enter/VB this/DT shaft/NN during/IN the/AT winter/NN ./pct
 The/AT external/JJ signs/NNS of/IN his/PPg approach/NN to/IN it/PPO would/MD be/BE covered/VBN by/IN the/AT snow/NN ,/pct probably/RB by/IN the/AT next/AP day/NN ./pct
-It/PPS wasn't /None cold/JJ enough/QLP in/IN the/AT tunnel/NN to/TO preserve/VB the/AT body/NN intact/JJ ./pct
+It/PPS wasn't/BEDZ* cold/JJ enough/QLP in/IN the/AT tunnel/NN to/TO preserve/VB the/AT body/NN intact/JJ ./pct
 By/IN spring/NN it/PPS would/MD be/BE a/AT skeleton/NN ./pct
 He/PPS made/VBD his/PPg way/NN back/RB to/IN the/AT Jeep/NN ./pct
 He/PPS had/HVD started/VBN to/TO back/VB into/IN the/AT turn/NN when/WRB he/PPS remembered/VBD the/AT razor/NN in/IN his/PPg pocket/NN ./pct

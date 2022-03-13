@@ -6,34 +6,34 @@ This/DT was/BEDZ one/CD place/NN where/WRB Moonan/NP could/MD go/VB for/IN a/AT 
 The/AT other/AP patrons/NNS were/BED taxi/NN drivers/NNS and/CC art/NN students/NNS and/CC small/JJ shopkeepers/NNS ./pct
 The/AT reporters/NNS had/HVD not/NEG yet/RB discovered/VBN that/CS this/DT was/BEDZ his/PPg hideaway/NN ./pct
 His/PPg friend/NN Jane/NP was/BEDZ with/IN him/PPO ./pct
-She/PPS was/BEDZ wise/JJ enough/QLP to/TO realize/VB a/AT man/NN could/MD be/BE good/JJ company/NN even/RB if/CS he/PPS did/DOD weigh/VB too/QL much/AP and/CC didn't /None own/VB the/AT mint/NN ./pct
+She/PPS was/BEDZ wise/JJ enough/QLP to/TO realize/VB a/AT man/NN could/MD be/BE good/JJ company/NN even/RB if/CS he/PPS did/DOD weigh/VB too/QL much/AP and/CC didn't/DOD* own/VB the/AT mint/NN ./pct
 She/PPS was/BEDZ the/AT widow/NN of/IN a/AT writer/NN who/WPS had/HVD died/VBN in/IN an/AT airplane/NN crash/NN ,/pct and/CC Mickie/NP had/HVD found/VBN her/PPO a/AT job/NN as/CS head/NN of/IN the/AT historical/JJ section/NN of/IN the/AT Treasury/NN ./pct
 This/DT meant/VBD sorting/VBG out/RP press/NN clippings/NNS and/CC the/AT like/JJ ./pct
 Jane/NP sat/VBD receptive/JJ and/CC interested/JJ ./pct
 Mickie/NP had/HVD a/AT pleasant/JJ glow/NN as/CS he/PPS said/VBD ,/pct ``/pct You/PPSS see/VB ,/pct both/ABX of/IN them/PPO ,/pct I/PPSS mean/VB the/AT President/NN and/CC Jeff/NP Lawrence/NP ,/pct are/BER romantics/NNS ./pct
 A/AT romantic/NN is/BEZ one/PN who/WPS thinks/VBZ the/AT world/NN is/BEZ divinely/RB inspired/VBN and/CC all/ABN he/PPS has/HVZ to/TO do/DO is/BEZ find/VB the/AT right/JJ key/NN ,/pct and/CC then/RB divine/JJ justice/NN and/CC altruism/NN will/MD appear/VB ./pct
-It's /None like/CS focusing/VBG a/AT camera/NN ;/pct ;/pct
-the/AT distant/JJ ship/NN isn't /None there/RB until/CS you/PPSS get/VB the/AT focus/NN ./pct
-You/PPSS know/VB what/WDT I'm /None talking/VBG about/IN ./pct
-I'm /None sure/JJ all/ABN girls/NNS feel/VB this/DT way/NN about/IN men/NNS until/CS they/PPSS live/VB with/IN them/PPO ./pct
-``/pct But/CC when/WRB it/PPS comes/VBZ to/IN war/NN ,/pct the/AT Colonel/NN knows/VBZ what/WDT it/PPS is/BEZ and/CC Jeff/NP doesn't /None ./pct
+It's/PPSBEZ like/CS focusing/VBG a/AT camera/NN ;/pct ;/pct
+the/AT distant/JJ ship/NN isn't/BEZ* there/RB until/CS you/PPSS get/VB the/AT focus/NN ./pct
+You/PPSS know/VB what/WDT I'm/PPSSBEM talking/VBG about/IN ./pct
+I'm/PPSSBEM sure/JJ all/ABN girls/NNS feel/VB this/DT way/NN about/IN men/NNS until/CS they/PPSS live/VB with/IN them/PPO ./pct
+``/pct But/CC when/WRB it/PPS comes/VBZ to/IN war/NN ,/pct the/AT Colonel/NN knows/VBZ what/WDT it/PPS is/BEZ and/CC Jeff/NP doesn't/DOZ* ./pct
 Mr./NP Christiansen/NP knows/VBZ that/CS a/AT soldier/NN will/MD get/VB the/AT Distinguished/JJ Service/NN Medal/NN for/IN conduct/NN that/WPS would/MD land/VB him/PPO in/IN prison/NN for/IN life/NN or/CC the/AT electric/JJ chair/NN as/CS a/AT civilian/NN ./pct
 He/PPS had/HVD a/AT mean/JJ ,/pct unbroken/JJ sheer/JJ bastard/NN in/IN his/PPg outfit/NN ,/pct and/CC someone/PN invented/VBD the/AT name/NN Trig/NP for/IN him/PPO ./pct
-That's /None to/TO say/VB ,/pct he/PPS was/BEDZ trigger/NN happy/JJ ./pct
-He'd /None shoot/VB at/IN anything/PN if/CS it/PPS was/BEDZ the/AT rear/JJ end/NN of/IN a/AT horse/NN or/CC his/PPg own/JJ sentry/NN ./pct
+That's/DTBEZ to/TO say/VB ,/pct he/PPS was/BEDZ trigger/NN happy/JJ ./pct
+He'd/PPSMD shoot/VB at/IN anything/PN if/CS it/PPS was/BEDZ the/AT rear/JJ end/NN of/IN a/AT horse/NN or/CC his/PPg own/JJ sentry/NN ./pct
 He/PPS was/BEDZ a/AT wiry/JJ ,/pct inscrutable/JJ ,/pct silent/JJ country/NN boy/NN from/IN the/AT red/JJ clay/NN of/IN rural/JJ Alabama/NP ,/pct and/CC he/PPS spoke/VBD with/IN the/AT broad/JJ drawl/NN that/WPO others/NNS normally/RB make/VB fun/NN of/IN ./pct
 But/CC not/NEG in/IN front/NN of/IN Trig/NP ./pct
-I/PPSS heard/VBD of/IN some/DTI that/WPS tried/VBD it/PPO back/RB in/IN the/AT States/NNS ,/pct and/CC he'd /None knock/VB them/PPO clear/RB across/IN the/AT room/NN ./pct
-There'd /None been/BEN a/AT pretty/QL bad/JJ incident/NN back/RB at/IN the/AT Marine/NN base/NN ./pct
+I/PPSS heard/VBD of/IN some/DTI that/WPS tried/VBD it/PPO back/RB in/IN the/AT States/NNS ,/pct and/CC he'd/PPSMD knock/VB them/PPO clear/RB across/IN the/AT room/NN ./pct
+There'd/EXHVD been/BEN a/AT pretty/QL bad/JJ incident/NN back/RB at/IN the/AT Marine/NN base/NN ./pct
 A/AT New/JJ York/NP kid/NN ,/pct a/AT refugee/NN from/IN one/CD of/IN the/AT Harlem/NP gangs/NNS ,/pct made/VBD fun/NN of/IN Trig's/NPg accent/NN ,/pct and/CC drew/VBD a/AT knife/NN ./pct
 Before/CS the/AT fight/NN was/BEDZ over/JJ ,/pct the/AT Harlem/NP boy/NN had/HVD a/AT concussion/NN and/CC Trig/NP was/BEDZ cut/VBN up/RP badly/RB ./pct
 They/PPSS caught/VBD Trig/NP stealing/VBG liquor/NN from/IN the/AT officers'/NNSg mess/NN ,/pct and/CC he/PPS got/VBD a/AT couple/NN of/IN girls/NNS in/IN trouble/NN ./pct
-The/AT fear/NN of/IN punishment/NN just/RB didn't /None bother/VB him/PPO ./pct
-It/PPS wasn't /None there/RB ./pct
+The/AT fear/NN of/IN punishment/NN just/RB didn't/DOD* bother/VB him/PPO ./pct
+It/PPS wasn't/BEDZ* there/RB ./pct
 It/PPS was/BEDZ left/VBN out/RP of/IN him/PPO at/IN birth/NN ./pct
 This/DT is/BEZ why/WRB he/PPS made/VBD such/ABL a/AT magnificent/JJ soldier/NN ./pct
-He/PPS wasn't /None troubled/VBN with/IN the/AT ordinary/JJ ,/pct rank-and-file/NN fear/NN that/WPS overcomes/VBZ and/CC paralyzes/VBZ and/CC sends/VBZ individual/AP soldiers/NNS and/CC whole/JJ companies/NNS under/IN fire/NN running/VBG in/IN panic/NN ./pct
-It/PPS just/RB didn't /None occur/VB to/IN Trig/NP that/CS anything/PN serious/JJ would/MD happen/VB to/IN him/PPO ./pct
+He/PPS wasn't/BEDZ* troubled/VBN with/IN the/AT ordinary/JJ ,/pct rank-and-file/NN fear/NN that/WPS overcomes/VBZ and/CC paralyzes/VBZ and/CC sends/VBZ individual/AP soldiers/NNS and/CC whole/JJ companies/NNS under/IN fire/NN running/VBG in/IN panic/NN ./pct
+It/PPS just/RB didn't/DOD* occur/VB to/IN Trig/NP that/CS anything/PN serious/JJ would/MD happen/VB to/IN him/PPO ./pct
 Do/DO you/PPO get/VB the/AT picture/NN of/IN the/AT kind/NN of/IN fellow/NN he/PPS was/BEDZ ''/pct ?/pct ?/pct
 Jane/NP nodded/VBD with/IN a/AT pleasant/JJ smile/NN ./pct
 ``/pct All/ABN right/JJ ./pct
@@ -49,13 +49,13 @@ Two/CD of/IN our/PPg men/NNS were/BED killed/VBN ,/pct a/AT third/OD was/BEDZ wo
 Trig/NP and/CC a/AT very/QL black/JJ colored/VBN boy/NN from/IN Detroit/NP had/HVD killed/VBN or/CC put/VBN out/RP of/IN action/NN ten/CD guerrillas/NNS by/IN grenades/NNS and/CC hand-to-hand/JJ fighting/NN ./pct
 When/WRB we/PPSS got/VBD there/RB ,/pct Trig/NP and/CC the/AT Negro/NP were/BED quarreling/VBG over/IN possession/NN of/IN a/AT gold/NN crucifix/NN around/IN the/AT neck/NN of/IN a/AT wounded/VBN Filipino/NP ./pct
 The/AT colored/VBN boy/NN had/HVD it/PPO ,/pct and/CC Trig/NP lunged/VBD at/IN him/PPO with/IN a/AT knife/NN and/CC said/VBD ,/pct '/pct Give/VB that/DT to/IN me/PPO ,/pct you/PPSS black/JJ bastard/NN ./pct
-We/PPSS don't /None 'low/VB nigras/NNS to/TO walk/VB on/IN the/AT same/AP sidewalk/NN with/IN white/JJ men/NNS where/WRB I/PPSS come/VB from/IN ./pct
+We/PPSS don't/DO* 'low/VB nigras/NNS to/TO walk/VB on/IN the/AT same/AP sidewalk/NN with/IN white/JJ men/NNS where/WRB I/PPSS come/VB from/IN ./pct
 ``/pct The/AT Negro/NP got/VBD a/AT bad/JJ slice/NN on/IN his/PPg chest/NN from/IN the/AT knife/NN wound/NN ''/pct ./pct
 ``/pct What/WDT did/DOD the/AT Colonel/NN do/DO about/IN the/AT men/NNS ''/pct ?/pct ?/pct
 Jane/NP asked/VBD in/IN her/PPg placid/JJ ,/pct interested/JJ way/NN ./pct
 Mickie/NP laughed/VBD ./pct
 ``/pct He/PPS recommended/VBD both/ABX of/IN them/PPO for/IN the/AT DSM/NN and/CC the/AT Detroit/NP fellow/NN for/IN the/AT Purple/JJ Heart/NN ,/pct too/RB ,/pct for/IN a/AT combat-inflicted/JJ wound/NN ./pct
-So/RB you/PPSS see/VB Mr./NP Christiansen/NP knows/VBZ what/WDT it's /None all/ABN about/IN ./pct
+So/RB you/PPSS see/VB Mr./NP Christiansen/NP knows/VBZ what/WDT it's/PPSBEZ all/ABN about/IN ./pct
 But/CC not/NEG Jeff/NP Lawrence/NP ./pct
 When/WRB he/PPS was/BEDZ in/IN the/AT war/NN ,/pct he/PPS was/BEDZ in/IN Law/NN or/CC Supplies/NNS or/CC something/PN like/CS that/DT ,/pct and/CC an/AT old/JJ buddy/NN of/IN his/PPgg told/VBD me/PPO he/PPS would/MD come/VB down/RP on/IN Sundays/NRS to/IN the/AT Pentagon/NN and/CC read/VB the/AT citations/NNS for/IN medals/NNS --/pct just/RB like/CS the/AT one/CD we/PPSS sent/VBD in/RP for/IN Trig/NP --/pct and/CC go/VB away/RB with/IN a/AT real/JJ glow/NN ./pct
 These/DTS were/BED heroes/NNS nine/CD feet/NNS tall/JJ to/IN him/PPO ''/pct ./pct
@@ -66,7 +66,7 @@ He/PPS thought/VBD how/WRB this/DT dainty/JJ ,/pct fragile/JJ older/JJR woman/NN
 He/PPS ,/pct and/CC Mrs./NP Dalloway/NP ,/pct too/RB ,/pct had/HVD never/RB permitted/VBN themselves/PPLS the/AT luxury/NN of/IN joys/NNS that/WPS dug/VBD into/IN the/AT bone/NN marrow/NN of/IN the/AT spirit/NN ./pct
 He/PPS had/HVD not/NEG because/CS he/PPS was/BEDZ both/ABX poor/JJ and/CC ambitious/JJ ./pct
 Poverty/NN imposes/VBZ a/AT kind/NN of/IN chastity/NN on/IN the/AT ambitious/JJ ./pct
-They/PPSS cannot /None stop/VB to/TO grasp/VB and/CC embrace/VB and/CC sit/VB in/IN the/AT back/JJ seat/NN of/IN cars/NNS along/IN a/AT dark/JJ country/NN lane/NN ./pct
+They/PPSS cannot/MD* stop/VB to/TO grasp/VB and/CC embrace/VB and/CC sit/VB in/IN the/AT back/JJ seat/NN of/IN cars/NNS along/IN a/AT dark/JJ country/NN lane/NN ./pct
 No/RB ,/pct they/PPSS must/MD look/VB the/AT other/AP way/NN and/CC climb/VB one/CD more/AP painful/JJ step/NN up/IN the/AT ladder/NN ./pct
 He/PPS made/VBD the/AT decision/NN with/IN his/PPg eyes/NNS open/JJ ,/pct or/CC so/RB he/PPS thought/VBD ./pct
 At/IN any/DTI cost/NN ,/pct he/PPS must/MD leave/VB the/AT dreary/JJ Pennsylvania/NP mining/VBG town/NN where/WRB his/PPg father/NN was/BEDZ a/AT pharmacist/NN ./pct
@@ -121,17 +121,17 @@ Boxell/NP looked/VBD at/IN Lawrence/NP with/IN a/AT searching/VBG glance/NN ,/pc
 What/WDT are/BER your/PPg weaknesses/NNS ?/pct ?/pct
 Where/WRB will/MD you/PPSS break/VB ?/pct ?/pct
 How/WRB best/RBT to/TO destroy/VB your/PPg peace/NN ?/pct ?/pct
-The/AT Vice/JJ President/NN said/VBD with/IN a/AT slight/JJ bluster/NN ,/pct ``/pct There/EX isn't /None anyone/PN who/WPS loves/VBZ the/AT President/NN more/RBR than/CS I/PPSS do/DO ./pct
+The/AT Vice/JJ President/NN said/VBD with/IN a/AT slight/JJ bluster/NN ,/pct ``/pct There/EX isn't/BEZ* anyone/PN who/WPS loves/VBZ the/AT President/NN more/RBR than/CS I/PPSS do/DO ./pct
 Old/JJ Chris/NP is/BEZ my/PPg ideal/NN ./pct
-At/IN the/AT same/AP time/NN ,/pct you/PPSS have/HV to/TO face/VB facts/NNS and/CC realize/VB that/CS a/AT man/NN who's /None been/BEN in/IN the/AT Marine/NN Corps/NN all/ABN his/PPg life/NN doesn't /None understand/VB much/AP about/IN politics/NN ./pct
+At/IN the/AT same/AP time/NN ,/pct you/PPSS have/HV to/TO face/VB facts/NNS and/CC realize/VB that/CS a/AT man/NN who's/WPSHVZ been/BEN in/IN the/AT Marine/NN Corps/NN all/ABN his/PPg life/NN doesn't/DOZ* understand/VB much/AP about/IN politics/NN ./pct
 What/WDT does/DOZ a/AT monk/NN know/VB about/IN sex/NN ''/pct ?/pct ?/pct
 Lawrence/NP listened/VBD with/IN the/AT practiced/VBN ,/pct deceptive/JJ calm/NN of/IN the/AT lawyer/NN ,/pct but/CC his/PPg face/NN was/BEDZ in/IN the/AT shadow/NN ./pct
 ``/pct So/UH ,/pct we/PPSS have/HV to/TO protect/VB the/AT old/JJ man/NN for/IN his/PPg own/JJ good/NN ./pct
 You/PPSS see/VB what/WDT I/PPSS mean/VB ./pct
 Congress/NP is/BEZ full/JJ of/IN politicians/NNS ,/pct and/CC if/CS you/PPSS want/VB to/TO get/VB along/RB with/IN them/PPO ,/pct you/PPSS have/HV to/TO be/BE politic/JJ ./pct
-This/DT is/BEZ why/WRB I/PPSS say/VB we/PPSS just/RB can't /None go/VB ahead/RB and/CC disarm/VB the/AT Germans/NPS and/CC pull/VB down/RP our/PPg own/JJ defenses/NNS ./pct
+This/DT is/BEZ why/WRB I/PPSS say/VB we/PPSS just/RB can't/MD* go/VB ahead/RB and/CC disarm/VB the/AT Germans/NPS and/CC pull/VB down/RP our/PPg own/JJ defenses/NNS ./pct
 Let/VB me/PPO tell/VB you/PPO what/WDT happened/VBD to/IN me/PPO today/NR ./pct
-A/AT fellow/NN came/VBD up/RP to/IN me/PPO ,/pct a/AT Senator/NN ,/pct I/PPSS don't /None have/HV to/TO tell/VB you/PPO his/PPg name/NN ,/pct and/CC he/PPS told/VBD me/PPO ,/pct '/pct I/PPSS love/VB the/AT President/NN like/CS a/AT brother/NN ,/pct but/CC God/NP damn/VB it/PPO ,/pct he's /None crucifying/VBG me/PPO ./pct
-I've /None got/VBN a/AT quarter/NN of/IN a/AT million/CD Germans/NPS in/IN my/PPg state/NN ,/pct and/CC those/DTS krautheads/NNS tune/VB in/RP on/IN Father/NN Werther/NP every/AT night/NN ,/pct and/CC if/CS he/PPS tells/VBZ them/PPO to/TO go/VB out/RP and/CC piss/VB in/IN the/AT public/JJ square/NN ,/pct that's /None what/WDT they/PPSS do/DO ./pct
-He's /None telling/VBG them/PPO now/RB to/TO write/VB letters/NNS to/IN their/PPg Congressmen/NNS opposing/VBG the/AT disarmament/NN of/IN Germany/NP ./pct
-And/CC another/DT one/CD comes/VBZ to/IN me/PPO and/CC he/PPS says/VBZ ,/pct '/pct Look/VB here/RB ,/pct there's /None a/AT mill/NN in/IN my/PPg state/NN employs/VBZ five/CD thousand/CD people/NNS making/VBG uniforms/NNS for/IN the/AT Navy/NN ./pct
+A/AT fellow/NN came/VBD up/RP to/IN me/PPO ,/pct a/AT Senator/NN ,/pct I/PPSS don't/DO* have/HV to/TO tell/VB you/PPO his/PPg name/NN ,/pct and/CC he/PPS told/VBD me/PPO ,/pct '/pct I/PPSS love/VB the/AT President/NN like/CS a/AT brother/NN ,/pct but/CC God/NP damn/VB it/PPO ,/pct he's/PPSBEZ crucifying/VBG me/PPO ./pct
+I've/PPSSHV got/VBN a/AT quarter/NN of/IN a/AT million/CD Germans/NPS in/IN my/PPg state/NN ,/pct and/CC those/DTS krautheads/NNS tune/VB in/RP on/IN Father/NN Werther/NP every/AT night/NN ,/pct and/CC if/CS he/PPS tells/VBZ them/PPO to/TO go/VB out/RP and/CC piss/VB in/IN the/AT public/JJ square/NN ,/pct that's/DTBEZ what/WDT they/PPSS do/DO ./pct
+He's/PPSBEZ telling/VBG them/PPO now/RB to/TO write/VB letters/NNS to/IN their/PPg Congressmen/NNS opposing/VBG the/AT disarmament/NN of/IN Germany/NP ./pct
+And/CC another/DT one/CD comes/VBZ to/IN me/PPO and/CC he/PPS says/VBZ ,/pct '/pct Look/VB here/RB ,/pct there's/EXBEZ a/AT mill/NN in/IN my/PPg state/NN employs/VBZ five/CD thousand/CD people/NNS making/VBG uniforms/NNS for/IN the/AT Navy/NN ./pct

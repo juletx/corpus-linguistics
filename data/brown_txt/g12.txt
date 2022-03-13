@@ -28,14 +28,14 @@ The/AT voice/NN is/BEZ light/JJ in/IN timbre/NN ,/pct with/IN a/AT rough/JJ edge
 The/AT Irish/JJ accent/NN is/BEZ ,/pct as/CS one/PN would/MD expect/VB ,/pct combined/VBN with/IN slight/JJ inflections/NNS from/IN the/AT French/NP ./pct
 His/PPg tweed/NN suit/NN was/BEDZ a/AT baggy/JJ gray/JJ and/CC green/JJ ./pct
 He/PPS wore/VBD a/AT brown/JJ knit/VBN sports/NNS shirt/NN with/IN no/AT tie/NN ./pct
-We/PPSS walked/VBD down/IN the/AT Rue/NN De/IN L'Arcade /None ,/pct thence/RB along/RB beside/IN the/AT Madeleine/NP and/CC across/RP to/IN a/AT sidewalk/NN cafe/NN opposite/IN that/DT church/NN ./pct
+We/PPSS walked/VBD down/IN the/AT Rue/NN De/IN L'Arcade/ATNN ,/pct thence/RB along/RB beside/IN the/AT Madeleine/NP and/CC across/RP to/IN a/AT sidewalk/NN cafe/NN opposite/IN that/DT church/NN ./pct
 The/AT conversation/NN that/WPS ensued/VBD may/MD have/HV been/BEN engrossing/JJ but/CC it/PPS could/MD hardly/RB be/BE called/VBN world-shattering/JJ ./pct
 For/CS one/CD thing/NN ,/pct the/AT world/NN that/WPO Beckett/NP sees/VBZ is/BEZ already/RB shattered/VBN ./pct
 His/PPg talk/NN turns/VBZ to/IN what/WDT he/PPS calls/VBZ ``/pct the/AT mess/NN ''/pct ,/pct or/CC sometimes/RB ``/pct this/DT buzzing/VBG confusion/NN ''/pct ./pct
 I/PPSS reconstruct/VB his/PPg sentences/NNS from/IN notes/NNS made/VBN immediately/RB after/IN our/PPg conversation/NN ./pct
 What/WDT appears/VBZ here/RB is/BEZ shorter/JJR than/CS what/WDT he/PPS actually/RB said/VBD but/CC very/QL close/RB to/IN his/PPg own/JJ words/NNS ./pct
 ``/pct The/AT confusion/NN is/BEZ not/NEG my/PPg invention/NN ./pct
-We/PPSS cannot /None listen/VB to/IN a/AT conversation/NN for/IN five/CD minutes/NNS without/IN being/BEG acutely/QL aware/JJ of/IN the/AT confusion/NN ./pct
+We/PPSS cannot/MD* listen/VB to/IN a/AT conversation/NN for/IN five/CD minutes/NNS without/IN being/BEG acutely/QL aware/JJ of/IN the/AT confusion/NN ./pct
 It/PPS is/BEZ all/ABN around/IN us/PPO and/CC our/PPg only/AP chance/NN now/RB is/BEZ to/TO let/VB it/PPO in/RP ./pct
 The/AT only/AP chance/NN of/IN renovation/NN is/BEZ to/TO open/VB our/PPg eyes/NNS and/CC see/VB the/AT mess/NN ./pct
 It/PPS is/BEZ not/NEG a/AT mess/NN you/PPSS can/MD make/VB sense/NN of/IN ''/pct ./pct
@@ -43,8 +43,8 @@ I/PPSS suggested/VBD that/CS one/PN must/MD let/VB it/PPO in/RP because/CS it/PP
 ``/pct What/WDT is/BEZ more/QL true/JJ than/CS anything/PN else/RB ?/pct ?/pct
 To/TO swim/VB is/BEZ true/JJ ,/pct and/CC to/TO sink/VB is/BEZ true/JJ ./pct
 One/CD is/BEZ not/NEG more/QL true/JJ than/CS the/AT other/AP ./pct
-One/PN cannot /None speak/VB anymore/RB of/IN being/BEG ,/pct one/PN must/MD speak/VB only/RB of/IN the/AT mess/NN ./pct
-When/WRB Heidegger/NP and/CC Sartre/NP speak/VB of/IN a/AT contrast/NN between/IN being/BEG and/CC existence/NN ,/pct they/PPSS may/MD be/BE right/JJ ,/pct I/PPSS don't /None know/VB ,/pct but/CC their/PPg language/NN is/BEZ too/QL philosophical/JJ for/IN me/PPO ./pct
+One/PN cannot/MD* speak/VB anymore/RB of/IN being/BEG ,/pct one/PN must/MD speak/VB only/RB of/IN the/AT mess/NN ./pct
+When/WRB Heidegger/NP and/CC Sartre/NP speak/VB of/IN a/AT contrast/NN between/IN being/BEG and/CC existence/NN ,/pct they/PPSS may/MD be/BE right/JJ ,/pct I/PPSS don't/DO* know/VB ,/pct but/CC their/PPg language/NN is/BEZ too/QL philosophical/JJ for/IN me/PPO ./pct
 I/PPSS am/BEM not/NEG a/AT philosopher/NN ./pct
 One/PN can/MD only/RB speak/VB of/IN what/WDT is/BEZ in/IN front/NN of/IN him/PPO ,/pct and/CC that/DT now/RB is/BEZ simply/RB the/AT mess/NN ''/pct ./pct
 Then/RB he/PPS began/VBD to/TO speak/VB about/IN the/AT tension/NN in/IN art/NN between/IN the/AT mess/NN and/CC form/NN ./pct
@@ -68,9 +68,9 @@ The/AT latter/AP is/BEZ not/NEG reduced/VBN to/IN the/AT former/AP ./pct
 That/DT is/BEZ why/WRB the/AT form/NN itself/PPL becomes/VBZ a/AT preoccupation/NN ,/pct because/CS it/PPS exists/VBZ as/CS a/AT problem/NN separate/JJ from/IN the/AT material/NN it/PPS accommodates/VBZ ./pct
 To/TO find/VB a/AT form/NN that/WPS accommodates/VBZ the/AT mess/NN ,/pct that/DT is/BEZ the/AT task/NN of/IN the/AT artist/NN now/RB ''/pct ./pct
 Yet/RB ,/pct I/PPSS responded/VBD ,/pct could/MD not/NEG similar/JJ things/NNS be/BE said/VBN about/IN the/AT art/NN of/IN the/AT past/NN ?/pct ?/pct
-Is/BEZ it/PPS not/NEG characteristic/JJ of/IN the/AT greatest/JJT art/NN that/CS it/PPS confronts/VBZ us/PPO with/IN something/PN we/PPSS cannot /None clarify/VB ,/pct demanding/VBG that/CS the/AT viewer/NN respond/VB to/TO it/PPO in/IN his/PPg own/JJ never-predictable/JJ way/NN ?/pct ?/pct
+Is/BEZ it/PPS not/NEG characteristic/JJ of/IN the/AT greatest/JJT art/NN that/CS it/PPS confronts/VBZ us/PPO with/IN something/PN we/PPSS cannot/MD* clarify/VB ,/pct demanding/VBG that/CS the/AT viewer/NN respond/VB to/TO it/PPO in/IN his/PPg own/JJ never-predictable/JJ way/NN ?/pct ?/pct
 What/WDT is/BEZ the/AT history/NN of/IN criticism/NN but/CC the/AT history/NN of/IN men/NNS attempting/VBG to/TO make/VB sense/NN of/IN the/AT manifold/JJ elements/NNS in/IN art/NN that/WPS will/MD not/NEG allow/VB themselves/PPLS to/TO be/BE reduced/VBN to/IN a/AT single/AP philosophy/NN or/CC a/AT single/AP aesthetic/JJ theory/NN ?/pct ?/pct
-Isn't /None all/ABN art/NN ambiguous/JJ ?/pct ?/pct
+Isn't/BEZ* all/ABN art/NN ambiguous/JJ ?/pct ?/pct
 ``/pct Not/NEG this/DT ''/pct ,/pct he/PPS said/VBD ,/pct and/CC gestured/VBD toward/IN the/AT Madeleine/NP ./pct
 The/AT classical/JJ lines/NNS of/IN the/AT church/NN which/WDT Napoleon/NP thought/VBD of/IN as/CS a/AT Temple/NN of/IN Glory/NN ,/pct dominated/VBD all/ABN the/AT scene/NN where/WRB we/PPSS sat/VBD ./pct
 The/AT Boulevard/NP De/NP La/NP Madeleine/NP ,/pct the/AT Boulevard/NP Malesherbes/NP ,/pct and/CC the/AT Rue/NN Royale/JJ ran/VBD to/IN it/PPO with/IN graceful/JJ flattery/NN ,/pct bearing/VBG tidings/NNS of/IN the/AT Age/NN of/IN Reason/NN ./pct

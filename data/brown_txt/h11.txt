@@ -44,7 +44,7 @@ When/WRB values/NNS of/IN temperature/NN derived/VBN with/IN this/DT instrument/
 This/DT result/NN is/BEZ preliminary/JJ ,/pct and/CC work/NN is/BEZ continuing/VBG ./pct
 Resistance/NN thermometers/NNS ./pct
 Carbon/NN resistors/NNS and/CC impurity-doped/JJ germanium/NN resistors/NNS have/HV been/BEN investigated/VBN for/IN use/NN as/CS precision/JJ secondary/JJ thermometers/NNS in/IN the/AT liquid/NN helium/NN temperature/NN region/NN ./pct
-Several/AP germanium/NN resistors/NNS have/HV been/BEN thermally/RB cycled/VBN from/IN 300/CD to/IN 4.2/CD Af/NN and/CC their/PPg resistances/NNS have/HV been/BEN found/VBN to/TO be/BE reproducible/JJ within/IN 1/3/CD millidegree/NN when/WRB temperatures/NNS were/BED derived/VBN from/IN a/AT vapor/NN pressure/NN thermometer/NN whose/WPg tubing/NN is/BEZ jacketed/VBN through/IN most/AP of/IN the/AT liquid/NN helium/NN ./pct
+Several/AP germanium/NN resistors/NNS have/HV been/BEN thermally/RB cycled/VBN from/IN 300/CD to/IN 4.2/CD Af/NN and/CC their/PPg resistances/NNS have/HV been/BEN found/VBN to/TO be/BE reproducible/JJ within/IN 1:3/CD millidegree/NN when/WRB temperatures/NNS were/BED derived/VBN from/IN a/AT vapor/NN pressure/NN thermometer/NN whose/WPg tubing/NN is/BEZ jacketed/VBN through/IN most/AP of/IN the/AT liquid/NN helium/NN ./pct
 Preliminary/JJ calibrations/NNS of/IN the/AT resistors/NNS have/HV been/BEN made/VBN from/IN 4.21/CD to/IN 2.16/CD Af/NN at/IN every/AT 0.1/CD Af/NN ./pct
 The/AT estimated/VBN standard/JJ deviations/NNS of/IN the/AT data/NN for/IN two/CD of/IN the/AT resistors/NNS were/BED 1/CD millidegree/NN ;/pct ;/pct
 and/CC for/IN the/AT third/OD resistor/NN ,/pct 3.3/CD millidegrees/NNS ./pct

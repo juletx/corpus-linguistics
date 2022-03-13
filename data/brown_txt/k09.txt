@@ -1,26 +1,26 @@
 It/PPS was/BEDZ the/AT first/OD time/NN any/DTI of/IN us/PPO had/HVD laughed/VBN since/CS the/AT morning/NN began/VBD ./pct
 The/AT rider/NN from/IN Concord/NP was/BEDZ as/QL good/JJ as/CS his/PPg word/NN ./pct
 He/PPS came/VBD spurring/VBG and/CC whooping/VBG down/IN the/AT road/NN ,/pct his/PPg horse/NN kicking/VBG up/RP clouds/NNS of/IN dust/NN ,/pct shouting/VBG :/pct
-``/pct They're /None a-coming/VBG !/pct !/pct
-By/IN God/NP ,/pct they're /None a-coming/VBG ,/pct they/PPSS are/BER ''/pct !/pct !/pct
+``/pct They're/PPSSBER a-coming/VBG !/pct !/pct
+By/IN God/NP ,/pct they're/PPSSBER a-coming/VBG ,/pct they/PPSS are/BER ''/pct !/pct !/pct
 We/PPSS heard/VBD him/PPO before/CS he/PPS ever/RB showed/VBD ,/pct and/CC we/PPSS heard/VBD him/PPO yelling/VBG after/CS he/PPS was/BEDZ out/RP of/IN sight/NN ./pct
-Solomon/NP Chandler/NP hadn't /None misjudged/VBN the/AT strength/NN of/IN his/PPg lungs/NNS ,/pct not/NEG at/IN all/ABN ./pct
+Solomon/NP Chandler/NP hadn't/HVD* misjudged/VBN the/AT strength/NN of/IN his/PPg lungs/NNS ,/pct not/NEG at/IN all/ABN ./pct
 I/PPSS think/VB you/PPSS could/MD have/HV heard/VBN him/PPO a/AT mile/NN away/RB ,/pct and/CC he/PPS was/BEDZ bursting/VBG at/IN every/AT seam/NN with/IN importance/NN ./pct
-I/PPSS have/HV observed/VBN that/CS being/BEG up/RP on/IN a/AT horse/NN changes/VBZ the/AT whole/JJ character/NN of/IN a/AT man/NN ,/pct and/CC when/WRB a/AT very/QL small/JJ man/NN is/BEZ up/RP on/IN a/AT saddle/NN ,/pct he'd /None like/VB as/CS not/NEG prefer/VB to/TO eat/VB his/PPg meals/NNS there/RB ./pct
-That's /None understandable/JJ ,/pct and/CC I/PPSS appreciate/VB the/AT sentiment/NN ./pct
-As/CS for/IN this/DT rider/NN ,/pct I/PPSS never/RB saw/VBD him/PPO before/RB or/CC afterwards/RB and/CC never/RB saw/VBD him/PPO dismounted/VBN ,/pct so/RB whether/CS he/PPS stood/VBD tall/JJ or/CC short/JJ in/IN his/PPg shoes/NNS ,/pct I/PPSS can't /None say/VB ;/pct ;/pct
+I/PPSS have/HV observed/VBN that/CS being/BEG up/RP on/IN a/AT horse/NN changes/VBZ the/AT whole/JJ character/NN of/IN a/AT man/NN ,/pct and/CC when/WRB a/AT very/QL small/JJ man/NN is/BEZ up/RP on/IN a/AT saddle/NN ,/pct he'd/PPSMD like/VB as/CS not/NEG prefer/VB to/TO eat/VB his/PPg meals/NNS there/RB ./pct
+That's/DTBEZ understandable/JJ ,/pct and/CC I/PPSS appreciate/VB the/AT sentiment/NN ./pct
+As/CS for/IN this/DT rider/NN ,/pct I/PPSS never/RB saw/VBD him/PPO before/RB or/CC afterwards/RB and/CC never/RB saw/VBD him/PPO dismounted/VBN ,/pct so/RB whether/CS he/PPS stood/VBD tall/JJ or/CC short/JJ in/IN his/PPg shoes/NNS ,/pct I/PPSS can't/MD* say/VB ;/pct ;/pct
 but/CC I/PPSS do/DO know/VB that/CS he/PPS gave/VBD the/AT day/NN tone/NN and/CC distinction/NN ./pct
 The/AT last/AP thing/NN in/IN the/AT world/NN that/WPS resembled/VBD a/AT war/NN was/BEDZ our/PPg line/NN of/IN farmers/NNS and/CC storekeepers/NNS and/CC mechanics/NNS perched/VBN on/IN top/NN of/IN a/AT stone/NN wall/NN ,/pct and/CC this/DT dashing/VBG rider/NN made/VBD us/PPO feel/VB a/AT good/JJ deal/NN sharper/JJR and/CC more/QL alert/JJ to/IN the/AT situation/NN ./pct
 We/PPSS came/VBD down/RP off/IN the/AT wall/NN as/CS if/CS he/PPS had/HVD toppled/VBN all/ABN of/IN us/PPO ,/pct and/CC we/PPSS crouched/VBD behind/IN it/PPO ./pct
 I/PPSS have/HV heard/VBN people/NNS talk/VB with/IN contempt/NN about/IN the/AT British/JJ regulars/NNS ,/pct but/CC that/DT only/RB proves/VBZ that/CS a/AT lot/NN of/IN people/NNS talk/VB about/IN things/NNS of/IN which/WDT they/PPSS are/BER deplorably/QL ignorant/JJ ./pct
 Whatever/WDT we/PPSS felt/VBD about/IN the/AT redcoats/NNS ,/pct we/PPSS respected/VBD them/PPO in/IN terms/NNS of/IN their/PPg trade/NN ,/pct which/WDT was/BEDZ killing/VBG ;/pct ;/pct
 and/CC I/PPSS know/VB that/CS I/PPSS ,/pct myself/PPL ,/pct was/BEDZ nauseated/VBN with/IN apprehension/NN and/CC fear/NN and/CC that/CS my/PPg hands/NNS were/BED soaking/QL wet/JJ where/WRB they/PPSS held/VBD my/PPg gun/NN ./pct
-I/PPSS wanted/VBD to/TO wipe/VB my/PPg flint/NN ,/pct but/CC I/PPSS didn't /None dare/VB to/TO ,/pct the/AT state/NN my/PPg hands/NNS were/BED in/IN ,/pct just/RB as/CS I/PPSS didn't /None dare/VB to/TO do/DO anything/PN about/IN the/AT priming/NN ./pct
+I/PPSS wanted/VBD to/TO wipe/VB my/PPg flint/NN ,/pct but/CC I/PPSS didn't/DOD* dare/VB to/TO ,/pct the/AT state/NN my/PPg hands/NNS were/BED in/IN ,/pct just/RB as/CS I/PPSS didn't/DOD* dare/VB to/TO do/DO anything/PN about/IN the/AT priming/NN ./pct
 The/AT gun/NN would/MD fire/VB or/CC not/NEG ,/pct just/RB as/CS chance/NN willed/VBD ./pct
 I/PPSS put/VB a/AT lot/NN more/AP trust/NN in/IN my/PPg two/CD legs/NNS than/CS in/IN the/AT gun/NN ,/pct because/CS the/AT most/QL important/JJ thing/NN I/PPSS had/HVD learned/VBN about/IN war/NN was/BEDZ that/CS you/PPSS could/MD run/VB away/RB and/CC survive/VB to/TO talk/VB about/IN it/PPO ./pct
 The/AT gunfire/NN ,/pct which/WDT was/BEDZ so/QL near/RB that/CS it/PPS seemed/VBD just/RB a/AT piece/NN up/IN the/AT road/NN now/RB ,/pct stopped/VBD for/IN long/RB enough/QLP to/TO count/VB to/IN twenty/CD ;/pct ;/pct
 and/CC in/IN that/DT brief/JJ interval/NN ,/pct a/AT redcoat/NN officer/NN came/VBD tearing/VBG down/IN the/AT road/NN ,/pct whipping/VBG his/PPg horse/NN fit/VBN to/TO kill/VB ./pct
-I/PPSS don't /None know/VB whether/CS he/PPS was/BEDZ after/IN our/PPg rider/NN ,/pct who/WPS had/HVD gone/VBN by/RB a/AT minute/NN before/RB ,/pct or/CC whether/CS he/PPS was/BEDZ simply/RB scouting/VBG conditions/NNS ;/pct ;/pct
+I/PPSS don't/DO* know/VB whether/CS he/PPS was/BEDZ after/IN our/PPg rider/NN ,/pct who/WPS had/HVD gone/VBN by/RB a/AT minute/NN before/RB ,/pct or/CC whether/CS he/PPS was/BEDZ simply/RB scouting/VBG conditions/NNS ;/pct ;/pct
 but/CC when/WRB he/PPS passed/VBD us/PPO by/RB ,/pct a/AT musket/NN roared/VBD ,/pct and/CC he/PPS reared/VBD his/PPg horse/NN ,/pct swung/VBD it/PPO around/RB ,/pct and/CC began/VBD to/TO whip/VB it/PPO back/RB in/IN the/AT direction/NN from/IN which/WDT he/PPS had/HVD come/VBN ./pct
 He/PPS was/BEDZ a/AT fine/JJ and/CC showy/JJ rider/NN ,/pct but/CC his/PPg skill/NN was/BEDZ wasted/VBN on/IN us/PPO ./pct
 From/IN above/IN me/PPO and/CC somewhere/RB behind/IN me/PPO ,/pct a/AT rifle/NN cracked/VBD ./pct
@@ -69,18 +69,18 @@ We/PPSS were/BED less/AP than/CS a/AT quarter/NN of/IN a/AT mile/NN from/IN the/
 Wherever/WRB you/PPSS looked/VBD ,/pct you/PPSS saw/VBD Committeemen/NNS running/VBG across/IN the/AT meadows/NNS ,/pct some/DTI away/RB from/IN the/AT road/NN ,/pct some/DTI toward/IN it/PPO ,/pct some/DTI parallel/RB to/IN it/PPO ;/pct ;/pct
 and/CC about/RB a/AT mile/NN to/IN the/AT west/NR a/AT cluster/NN of/IN at/IN least/AP fifty/CD Militia/NNS were/BED making/VBG their/PPg way/NN in/IN our/PPg direction/NN ./pct
 Cousin/NN Joshua/NP and/CC some/DTI others/NNS felt/VBD that/CS we/PPSS should/MD march/VB toward/IN Lexington/NP and/CC take/VB up/RP new/JJ positions/NNS ahead/RB of/IN the/AT slow-moving/JJ British/JJ column/NN ,/pct but/CC another/DT group/NN maintained/VBD that/CS we/PPSS should/MD stick/VB to/IN this/DT spot/NN and/CC this/DT section/NN of/IN road/NN ./pct
-I/PPSS didn't /None offer/VB any/DTI advice/NN ,/pct but/CC I/PPSS certainly/RB did/DOD not/NEG want/VB to/TO go/VB back/RB to/IN where/WRB the/AT officer/NN lay/VBD with/IN his/PPg brains/NNS dashed/VBN out/RP ./pct
+I/PPSS didn't/DOD* offer/VB any/DTI advice/NN ,/pct but/CC I/PPSS certainly/RB did/DOD not/NEG want/VB to/TO go/VB back/RB to/IN where/WRB the/AT officer/NN lay/VBD with/IN his/PPg brains/NNS dashed/VBN out/RP ./pct
 Someone/PN said/VBD that/CS while/CS we/PPSS were/BED standing/VBG here/RB and/CC arguing/VBG about/IN it/PPO ,/pct the/AT British/NPS would/MD be/BE gone/VBN ;/pct ;/pct
 but/CC Cousin/NN Simmons/NP said/VBD he/PPS had/HVD watched/VBN them/PPO marching/VBG west/NR early/RB in/IN the/AT morning/NN ,/pct and/CC moving/VBG at/IN a/AT much/QL brisker/JJR pace/NN it/PPS had/HVD still/RB taken/VBN half/ABN an/AT hour/NN for/IN their/PPg column/NN to/TO pass/VB ,/pct what/WDT with/IN the/AT narrowness/NN of/IN the/AT road/NN and/CC their/PPg baggage/NN and/CC ammunition/NN carts/NNS ./pct
 While/CS this/DT was/BEDZ being/BEG discussed/VBN ,/pct we/PPSS saw/VBD the/AT militia/NN to/IN the/AT west/NR of/IN us/PPO fanning/VBG out/RP and/CC breaking/VBG into/IN little/JJ clusters/NNS of/IN two/CD and/CC three/CD men/NNS as/CS they/PPSS approached/VBD the/AT road/NN ./pct
 It/PPS was/BEDZ the/AT opinion/NN of/IN some/DTI of/IN us/PPO that/CS these/DTS must/MD be/BE part/NN of/IN the/AT Committeemen/NNS who/WPS had/HVD been/BEN in/IN the/AT Battle/NN of/IN the/AT North/JJ Bridge/NN ,/pct which/WDT entitled/VBD them/PPO to/IN a/AT sort/NN of/IN veteran/NN status/NN ,/pct and/CC we/PPSS felt/VBD that/CS if/CS they/PPSS employed/VBD this/DT tactic/NN ,/pct it/PPS was/BEDZ likely/JJ enough/QLP the/AT best/JJT one/CD ./pct
 Mattathias/NP Dover/NP said/VBD :/pct
 ``/pct It/PPS makes/VBZ sense/NN ./pct
-If/CS we/PPSS cluster/VB together/RB ,/pct the/AT redcoats/NNS can/MD make/VB an/AT advantage/NN out/RP of/IN it/PPO ,/pct but/CC there's /None not/NEG a/AT blessed/VBN thing/NN they/PPSS can/MD do/DO with/IN two/CD or/CC three/CD of/IN us/PPO except/IN chase/VB us/PPO ,/pct and/CC we/PPSS can/MD outrun/VB them/PPO ''/pct ./pct
+If/CS we/PPSS cluster/VB together/RB ,/pct the/AT redcoats/NNS can/MD make/VB an/AT advantage/NN out/RP of/IN it/PPO ,/pct but/CC there's/EXBEZ not/NEG a/AT blessed/VBN thing/NN they/PPSS can/MD do/DO with/IN two/CD or/CC three/CD of/IN us/PPO except/IN chase/VB us/PPO ,/pct and/CC we/PPSS can/MD outrun/VB them/PPO ''/pct ./pct
 That/DT settled/VBD it/PPO ,/pct and/CC we/PPSS broke/VBD into/IN parties/NNS of/IN two/CD and/CC three/CD ./pct
 Cousin/NN Joshua/NP Dover/NP decided/VBD to/TO remain/VB with/IN the/AT Reverend/NP and/CC poor/JJ Isaac/NP Pitt/NP until/CS life/NN passed/VBD away/RB --/pct and/CC he/PPS was/BEDZ hurt/VBN so/QL badly/RB he/PPS did/DOD not/NEG seem/VB for/IN long/RB in/IN this/DT world/NN ./pct
-I/PPSS went/VBD off/RP with/IN Cousin/NN Simmons/NP ,/pct who/WPS maintained/VBD that/CS if/CS he/PPS didn't /None see/VB to/IN me/PPO ,/pct he/PPS didn't /None know/VB who/WPS would/MD ./pct
-``/pct Good/JJ heavens/NNS ,/pct Adam/NP ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct I/PPSS thought/VBD one/CD thing/NN you'd /None have/HV no/AT trouble/NN learning/VBG is/BEZ when/WRB to/TO get/VB out/RP of/IN a/AT place/NN ''/pct ./pct
+I/PPSS went/VBD off/RP with/IN Cousin/NN Simmons/NP ,/pct who/WPS maintained/VBD that/CS if/CS he/PPS didn't/DOD* see/VB to/IN me/PPO ,/pct he/PPS didn't/DOD* know/VB who/WPS would/MD ./pct
+``/pct Good/JJ heavens/NNS ,/pct Adam/NP ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct I/PPSS thought/VBD one/CD thing/NN you'd/PPSSMD have/HV no/AT trouble/NN learning/VBG is/BEZ when/WRB to/TO get/VB out/RP of/IN a/AT place/NN ''/pct ./pct
 ``/pct I/PPSS learned/VBD that/DT now/RB ''/pct ,/pct I/PPSS said/VBD ./pct
 We/PPSS ran/VBD east/NR for/IN about/RB half/ABN a/AT mile/NN before/CS we/PPSS turned/VBD back/RB to/IN the/AT road/NN ,/pct panting/VBG from/IN the/AT effort/NN and/CC soaked/VBN with/IN sweat/NN ./pct
 There/EX was/BEDZ a/AT clump/NN of/IN trees/NNS that/WPS appeared/VBD to/TO provide/VB cover/NN right/QL up/RP to/IN the/AT road/NN ,/pct and/CC the/AT shouting/NN and/CC gunfire/NN never/RB slackened/VBD ./pct

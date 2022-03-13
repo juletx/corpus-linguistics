@@ -1,6 +1,6 @@
 Into/IN Washington/NP on/IN President-elect/NN John/NP F./NP Kennedy's/NPg Convair/NP ,/pct the/AT Caroline/NP ,/pct winged/VBD Actor-Crooner/NN Frank/NP Sinatra/NP and/CC his/PPg close/JJ Hollywood/NP pal/NN ,/pct Cinemactor/NP Peter/NP Lawford/NP ,/pct Jack/NP Kennedy's/NPg brother-in-law/NN ./pct
 Also/RB included/VBN in/IN the/AT entourage/NN :/pct a/AT dog/NN in/IN a/AT black/JJ sweater/NN ,/pct Frankie/NP and/CC Peter/NP had/HVD an/AT urgent/JJ mission/NN :/pct to/TO stage/VB a/AT mammoth/JJ Inauguration/NN Eve/NN entertainment/NN gala/NN in/IN the/AT capital's/NNg National/JJ Guard/NN Armory/NN ./pct
-Frankie/NP was/BEDZ fairly/QL glutted/VBN with/IN ideas/NNS ,/pct as/CS he/PPS had/HVD hinted/VBN upon/IN his/PPg arrival/NN :/pct ``/pct It's /None really/QL tremendous/JJ when/WRB you/PPSS think/VB Ella/NP Fitzgerald/NP is/BEZ coming/VBG from/IN Australia/NP ./pct
+Frankie/NP was/BEDZ fairly/QL glutted/VBN with/IN ideas/NNS ,/pct as/CS he/PPS had/HVD hinted/VBN upon/IN his/PPg arrival/NN :/pct ``/pct It's/PPSBEZ really/QL tremendous/JJ when/WRB you/PPSS think/VB Ella/NP Fitzgerald/NP is/BEZ coming/VBG from/IN Australia/NP ./pct
 I/PPSS could/MD talk/VB to/IN you/PPO for/IN three/CD hours/NNS and/CC still/RB not/NEG be/BE able/JJ to/TO give/VB you/PPO all/ABN of/IN our/PPg plans/NNS ''/pct !/pct !/pct
 As/CS the/AT plans/NNS were/BED laid/VBN ,/pct some/DTI several/AP thousand/CD fat/JJ cats/NNS were/BED to/TO be/BE ensconced/VBN in/IN the/AT armory's/NNg $100/NNS seats/NNS and/CC in/IN 68/CD ringside/NN boxes/NNS priced/VBN at/IN $10,000/NNS each/DT ./pct
 The/AT biggest/JJT single/AP act/NN would/MD doubtless/RB be/BE staged/VBN by/IN Frankie/NP himself/PPL :/pct his/PPg Inaugural/NN wardrobe/NN had/HVD been/BEN designed/VBN by/IN Hollywood/NP Couturier/NP Don/NP Loper/NP ,/pct who/WPS regularly/RB makes/VBZ up/RP ladies'/NNSg ensembles/NNS ./pct
@@ -23,11 +23,11 @@ South/JJ Philadelphia/NP High's/NNg principal/NN added/VBD that/CS the/AT curren
 To/IN Decathlon/NN Man/NN Rafer/NP Johnson/NP (/pct Time/NN cover/NN ,/pct Aug./NP 29/CD )/pct ,/pct whose/WPg gold/NN medal/NN in/IN last/AP summer's/NNg Olympic/JJ Games/NNS was/BEDZ won/VBN as/QL much/AP on/IN gumption/NN as/CS talent/NN ,/pct went/VBD the/AT A.A.U.'s/NPg James/NP E./NP Sullivan/NP Memorial/JJ Trophy/NN as/CS the/AT outstanding/JJ U.S./NP amateur/NN athlete/NN of/IN 1960/CD ./pct
 As/CS the/AT world's/NNg top/JJS sportsman/NN --/pct pro/JJ or/CC amateur/JJ --/pct Sports/NNS Illustrated/VBN tapped/VBD golf's/NNg confident/JJ Arnold/NP Palmer/NP (/pct Time/NN cover/NN ,/pct May/NP 2/CD )/pct ,/pct who/WPS staged/VBD two/CD cliffhanging/VBG rallies/NNS to/TO win/VB both/ABX the/AT Masters/NNS and/CC U.S./NP Open/NN crowns/NNS ,/pct went/VBD on/RP to/TO win/VB a/AT record/NN $80,738/NNS for/IN the/AT year/NN ./pct
 Tooling/VBG through/IN Sydney/NP on/IN his/PPg way/NN to/TO race/VB in/IN the/AT New/JJ Zealand/NP Grand/JJ Prix/NN ,/pct Britain's/NPg balding/JJ Ace/NN Driver/NN Stirling/NP Moss/NP ,/pct 31/CD ,/pct all/ABN but/IN smothered/VBD himself/PPL in/IN his/PPg own/JJ exhaust/NN of/IN self-crimination/NN ./pct
-``/pct I'm /None a/AT slob/NN ''/pct ,/pct he/PPS announced/VBD ./pct
+``/pct I'm/PPSSBEM a/AT slob/NN ''/pct ,/pct he/PPS announced/VBD ./pct
 ``/pct My/PPg taste/NN is/BEZ gaudy/JJ ./pct
-I'm /None useless/JJ for/IN anything/PN but/IN racing/VBG cars/NNS ./pct
-I'm /None ruddy/QL lazy/JJ ,/pct and/CC I'm /None getting/VBG on/RP in/IN years/NNS ./pct
-It/PPS gets/VBZ so/QL frustrating/JJ ,/pct but/CC then/RB again/RB I/PPSS don't /None know/VB what/WDT I/PPSS could/MD do/DO if/CS I/PPSS gave/VBD up/RP racing/VBG ''/pct ./pct
+I'm/PPSSBEM useless/JJ for/IN anything/PN but/IN racing/VBG cars/NNS ./pct
+I'm/PPSSBEM ruddy/QL lazy/JJ ,/pct and/CC I'm/PPSSBEM getting/VBG on/RP in/IN years/NNS ./pct
+It/PPS gets/VBZ so/QL frustrating/JJ ,/pct but/CC then/RB again/RB I/PPSS don't/DO* know/VB what/WDT I/PPSS could/MD do/DO if/CS I/PPSS gave/VBD up/RP racing/VBG ''/pct ./pct
 Has/HVZ Moss/NP no/AT stirling/JJ virtues/NNS ?/pct ?/pct
 ``/pct I/PPSS appreciate/VB beauty/NN ''/pct ./pct
 One/CD of/IN Nikita/NP Khrushchev's/NPg most/QL enthusiastic/JJ eulogizers/NNS ,/pct the/AT U.S.S.R.'s/NPg daily/JJ Izvestia/NP ,/pct enterprisingly/RB interviewed/VBD Red-prone/JJ Comedian/NN Charlie/NP Chaplin/NP at/IN his/PPg Swiss/JJ villa/NN ,/pct where/WRB he/PPS has/HVZ been/BEN in/IN self-exile/NN since/IN 1952/CD ./pct
@@ -41,7 +41,7 @@ Like/CS Philadelphia's/NPg late/JJ Dr./NN Albert/NP C./NP Barnes/NP who/WPS kept
 He/PPS made/VBD his/PPg fortune/NN during/IN World/NN War/NN 2/CD ,/pct when/WRB he/PPS took/VBD over/RP a/AT number/NN of/IN dying/VBG steel/NN plants/NNS and/CC kept/VBD them/PPO alive/JJ until/IN the/AT boom/NN ./pct
 Even/RB before/CS he/PPS hit/VBD big/JJ money/NN ,/pct he/PPS had/HVD begun/VBN buying/VBG modern/JJ paintings/NNS ./pct
 He/PPS gave/VBD the/AT impression/NN of/IN never/RB having/HVG read/VBN a/AT word/NN about/IN art/NN ,/pct but/CC there/EX was/BEDZ no/AT doubt/NN that/CS he/PPS had/HVD an/AT eye/NN for/IN the/AT best/JJT ./pct
-He/PPS was/BEDZ able/JJ to/TO smell/VB a/AT bargain/NN --/pct and/CC a/AT masterpiece/NN --/pct a/AT continent/NN away/RB ,/pct and/CC the/AT Museum/NN of/IN Modern/JJ Art's/NNg Alfred/NP Barr/NP said/VBD of/IN him/PPO :/pct ``/pct I/PPSS have/HV never/RB mentioned/VBN a/AT new/JJ artist/NN that/WPO Thompson/NP didn't /None know/VB about/IN ''/pct ./pct
+He/PPS was/BEDZ able/JJ to/TO smell/VB a/AT bargain/NN --/pct and/CC a/AT masterpiece/NN --/pct a/AT continent/NN away/RB ,/pct and/CC the/AT Museum/NN of/IN Modern/JJ Art's/NNg Alfred/NP Barr/NP said/VBD of/IN him/PPO :/pct ``/pct I/PPSS have/HV never/RB mentioned/VBN a/AT new/JJ artist/NN that/WPO Thompson/NP didn't/DOD* know/VB about/IN ''/pct ./pct
 He/PPS might/MD barge/VB into/IN a/AT gallery/NN ,/pct start/VB haggling/VBG over/IN prices/NNS without/IN so/QL much/AP as/CS a/AT word/NN of/IN greeting/VBG ./pct
 He/PPS could/MD be/BE lavishly/QL generous/JJ with/IN friends/NNS ,/pct cab/NN drivers/NNS and/CC bellboys/NNS ,/pct but/CC with/IN dealers/NNS he/PPS was/BEDZ tough/JJ ./pct
 He/PPS bought/VBD up/RP Cezannes/NPS ,/pct Braques/NPS ,/pct Matisses/NPS ,/pct Legers/NPS ,/pct a/AT splendid/JJ Picasso/NP series/NN ,/pct more/AP than/IN 70/CD Giacometti/NP sculptures/NNS ./pct

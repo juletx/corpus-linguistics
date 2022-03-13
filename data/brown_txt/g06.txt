@@ -22,7 +22,7 @@ The/AT musician/NN ran/VBD away/RB from/IN school/NN when/WRB he/PPS was/BEDZ fi
 Simultaneously/RB ,/pct he/PPS pursued/VBD his/PPg musical/JJ studies/NNS at/IN the/AT conservatory/NN ,/pct receiving/VBG sound/JJ training/NN in/IN counterpoint/NN and/CC harmony/NN ,/pct as/QL well/RB in/IN the/AT violin/NN and/CC piano/NN ./pct
 His/PPg professional/JJ career/NN began/VBD when/WRB he/PPS was/BEDZ twenty/CD ;/pct ;/pct
 he/PPS became/VBD Otto/NP Klemperer's/NPg personal/JJ assistant/NN at/IN the/AT Cologne/NP Opera/NN ,/pct and/CC a/AT year/NN later/RBR was/BEDZ promoted/VBN to/IN the/AT position/NN of/IN regular/JJ conductor/NN ./pct
-Wasn't /None this/DT an/AT unusually/RB young/JJ age/NN to/TO fill/VB such/ABL a/AT responsible/JJ post/NN ?/pct ?/pct
+Wasn't/BEDZ* this/DT an/AT unusually/RB young/JJ age/NN to/TO fill/VB such/ABL a/AT responsible/JJ post/NN ?/pct ?/pct
 Yes/RB ,/pct the/AT Maestro/NN assented/VBD ./pct
 Had/HVD he/PPS always/RB wished/VBD to/TO be/BE a/AT conductor/NN ?/pct ?/pct
 No/RB ,/pct originally/RB he/PPS had/HVD hoped/VBN to/TO become/VB a/AT concert/NN pianist/NN and/CC had/HVD even/RB performed/VBN as/CS such/JJ ./pct
@@ -60,7 +60,7 @@ There/EX will/MD be/BE premieres/NNS of/IN new/JJ works/NNS ,/pct made/VBN possi
 Other/AP world/NN premieres/NNS will/MD be/BE Gardner/NP Read's/NPg Third/OD Symphony/NN and/CC Burle/NP Marx's/NPg Samba/NN Concertante/JJ ./pct
 ``/pct And/CC next/AP year/NN we/PPSS will/MD do/DO --/pct also/RB a/AT Ford/NP commission/NN --/pct a/AT piano/NN concerto/NN by/IN Elliott/NP Carter/NP ,/pct with/IN Jacob/NP Lateiner/NP as/CS soloist/NN ./pct
 Of/IN course/NN ,/pct I/PPSS shall/MD conduct/VB Mahler/NP and/CC Bruckner/NP works/NNS in/IN the/AT coming/VBG season/NN ,/pct as/CS usual/JJ ./pct
-We'll /None play/VB Bruckner's/NPg Fifth/OD Symphony/NN in/IN the/AT original/JJ version/NN ,/pct and/CC Mahler's/NPg Seventh/OD --/pct the/AT least/QL accessible/JJ ,/pct known/VBN ,/pct and/CC played/VBN of/IN Mahler's/NPg works/NNS ./pct
+We'll/PPSSMD play/VB Bruckner's/NPg Fifth/OD Symphony/NN in/IN the/AT original/JJ version/NN ,/pct and/CC Mahler's/NPg Seventh/OD --/pct the/AT least/QL accessible/JJ ,/pct known/VBN ,/pct and/CC played/VBN of/IN Mahler's/NPg works/NNS ./pct
 My/PPg Pittsburghers/NPS have/HV become/VBN real/JJ addicts/NNS to/IN Mahler/NP and/CC Bruckner/NP ''/pct ./pct
 He/PPS added/VBD that/CS he/PPS also/RB stresses/VBZ the/AT works/NNS of/IN these/DTS favorite/JJ masters/NNS on/IN tour/NN ,/pct especially/RB Mahler's/NPg First/OD and/CC Fourth/OD symphonies/NNS ,/pct and/CC Das/AT Lied/VBD Von/IN der/AT Erde/NN ,/pct and/CC Bruckner's/NPg Sixth/OD --/pct which/WDT is/BEZ rarely/RB played/VBN --/pct and/CC Seventh/OD ./pct
 Bruckner's/NPg Eighth/OD he/PPS refers/VBZ to/IN as/CS ``/pct my/PPg travel/NN symphony/NN ''/pct ./pct

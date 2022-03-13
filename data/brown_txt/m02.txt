@@ -36,8 +36,8 @@ Perhaps/RB ,/pct even/RB ,/pct though/CS this/DT is/BEZ too/QL much/AP to/TO wis
 ``/pct No/RB ''/pct ,/pct said/VBD Macneff/NP ./pct
 ``/pct Though/CS that/DT does/DOZ not/NEG mean/VB that/CS there/EX may/MD not/NEG be/BE such/JJ records/NNS there/RB ./pct
 The/AT expedition/NN was/BEDZ under/IN orders/NNS to/TO make/VB a/AT swift/JJ survey/NN of/IN conditions/NNS and/CC then/RB to/TO return/VB to/IN Earth/NN ./pct
-I/PPSS can't /None tell/VB you/PPO now/RB the/AT distance/NN in/IN lightyears/NNS or/CC what/WDT star/NN this/DT was/BEDZ ,/pct though/CS you/PPSS can/MD see/VB it/PPO with/IN the/AT naked/JJ eye/NN at/IN night/NN in/IN this/DT hemisphere/NN ./pct
-If/CS you/PPSS volunteer/VB ,/pct you/PPSS will/MD be/BE told/VBN where/WRB you're /None going/VBG after/CS the/AT ship/NN leaves/VBZ ./pct
+I/PPSS can't/MD* tell/VB you/PPO now/RB the/AT distance/NN in/IN lightyears/NNS or/CC what/WDT star/NN this/DT was/BEDZ ,/pct though/CS you/PPSS can/MD see/VB it/PPO with/IN the/AT naked/JJ eye/NN at/IN night/NN in/IN this/DT hemisphere/NN ./pct
+If/CS you/PPSS volunteer/VB ,/pct you/PPSS will/MD be/BE told/VBN where/WRB you're/PPSSBER going/VBG after/CS the/AT ship/NN leaves/VBZ ./pct
 And/CC it/PPS leaves/VBZ very/QL soon/RB ''/pct ./pct
 ``/pct You/PPSS need/VB a/AT linguist/NN ''/pct ?/pct ?/pct
 Said/VBN Hal/NP ./pct
@@ -56,7 +56,7 @@ And/CC ,/pct if/CS a/AT man/NN is/BEZ married/VBN ,/pct he/PPS will/MD automatic
 Hal/NP gasped/VBD ,/pct and/CC he/PPS said/VBD ,/pct ``/pct A/AT divorce/NN ''/pct ?/pct ?/pct
 Macneff/NP raised/VBD his/PPg hands/NNS apologetically/RB and/CC said/VBD ,/pct ``/pct You/PPSS are/BER horrified/VBN ,/pct of/IN course/NN ./pct
 But/CC ,/pct from/IN our/PPg reading/NN of/IN the/AT Western/JJ Talmud/NP ,/pct we/PPSS Urielites/NPS believe/VB that/CS the/AT Forerunner/NN ,/pct knowing/VBG this/DT situation/NN would/MD arise/VB ,/pct made/VBD reference/NN to/IN and/CC provision/NN for/IN divorce/NN ./pct
-It's /None inevitable/JJ in/IN this/DT case/NN ,/pct for/CS the/AT couple/NN will/MD be/BE separated/VBN for/IN ,/pct at/IN the/AT least/AP ,/pct forty/CD years/NNS ./pct
+It's/PPSBEZ inevitable/JJ in/IN this/DT case/NN ,/pct for/CS the/AT couple/NN will/MD be/BE separated/VBN for/IN ,/pct at/IN the/AT least/AP ,/pct forty/CD years/NNS ./pct
 Naturally/RB ,/pct he/PPS couched/VBD the/AT provision/NN in/IN obscure/JJ language/NN ./pct
 In/IN his/PPg great/JJ and/CC glorious/JJ wisdom/NN ,/pct he/PPS knew/VBD that/CS our/PPg enemies/NNS the/AT Israelites/NPS must/MD not/NEG be/BE able/JJ to/TO read/VB therein/RB what/WDT we/PPSS planned/VBD ''/pct ./pct
 ``/pct I/PPSS volunteer/VB ''/pct ,/pct said/VBD Hal/NP ./pct

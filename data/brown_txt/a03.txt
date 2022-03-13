@@ -15,7 +15,7 @@ Washington/NP ,/pct July/NP 24/CD
 The/AT President/NN spent/VBD much/AP of/IN the/AT week-end/NN at/IN his/PPg summer/NN home/NN on/IN Cape/NN Cod/NN writing/VBG the/AT first/OD drafts/NNS of/IN portions/NNS of/IN the/AT address/NN with/IN the/AT help/NN of/IN White/JJ House/NN aids/NNS in/IN Washington/NP with/IN whom/WPO he/PPS talked/VBD by/IN telephone/NN ./pct
 Shortly/RB after/CS the/AT Chief/JJS Executive/NN returned/VBD to/IN Washington/NP in/IN midmorning/NN from/IN Hyannis/NP Port/NN ,/pct Mass./NP ,/pct a/AT White/JJ House/NN spokesman/NN said/VBD the/AT address/NN text/NN still/RB had/HVD ``/pct quite/ABL a/AT way/NN to/TO go/VB ''/pct toward/IN completion/NN ./pct
 Decisions/NNS are/BER made/VBN
-Asked/VBN to/TO elaborate/VB ,/pct Pierre/NP Salinger/NP ,/pct White/JJ House/NN press/NN secretary/NN ,/pct replied/VBD ,/pct ``/pct I/PPSS would/MD say/VB it's /None got/VBN to/TO go/VB thru/IN several/AP more/AP drafts/NNS ''/pct ./pct
+Asked/VBN to/TO elaborate/VB ,/pct Pierre/NP Salinger/NP ,/pct White/JJ House/NN press/NN secretary/NN ,/pct replied/VBD ,/pct ``/pct I/PPSS would/MD say/VB it's/PPSHVZ got/VBN to/TO go/VB thru/IN several/AP more/AP drafts/NNS ''/pct ./pct
 Salinger/NP said/VBD the/AT work/NN President/NN Kennedy/NP ,/pct advisers/NNS ,/pct and/CC members/NNS of/IN his/PPg staff/NN were/BED doing/VBG on/IN the/AT address/NN involved/VBD composition/NN and/CC wording/VBG ,/pct rather/IN than/IN last/AP minute/NN decisions/NNS on/IN administration/NN plans/NNS to/TO meet/VB the/AT latest/JJT Berlin/NP crisis/NN precipitated/VBN by/IN Russia's/NPg demands/NNS and/CC proposals/NNS for/IN the/AT city/NN ./pct
 The/AT last/AP 10/CD cases/NNS in/IN the/AT investigation/NN of/IN the/AT Nov./NP 8/CD election/NN were/BED dismissed/VBN yesterday/NR by/IN Acting/VBG Judge/NN John/NP M./NP Karns/NP ,/pct who/WPS charged/VBD that/CS the/AT prosecution/NN obtained/VBD evidence/NN ``/pct by/IN unfair/JJ and/CC fundamentally/QL illegal/JJ means/NNS ''/pct ./pct
 Karns/NP said/VBD that/CS the/AT cases/NNS involved/VBD a/AT matter/NN ``/pct of/IN even/QL greater/JJR significance/NN than/CS the/AT guilt/NN or/CC innocence/NN ''/pct of/IN the/AT 50/CD persons/NNS ./pct
@@ -71,12 +71,12 @@ He/PPS said/VBD his/PPg plan/NN is/BEZ designed/VBN to/TO ``/pct meet/VB the/AT 
 ``/pct This/DT is/BEZ not/NEG a/AT program/NN of/IN socialized/VBN medicine/NN ./pct
 It/PPS is/BEZ a/AT program/NN of/IN prepayment/NN of/IN health/NN costs/NNS with/IN absolute/JJ freedom/NN of/IN choice/NN guaranteed/VBN ./pct
 Every/AT person/NN will/MD choose/VB his/PPg own/JJ doctor/NN and/CC hospital/NN ''/pct ./pct
-Wouldn't /None pay/VB doctors/NNS
+Wouldn't/MD* pay/VB doctors/NNS
 The/AT plan/NN does/DOZ not/NEG cover/VB doctor/NN bills/NNS ./pct
 They/PPSS would/MD still/RB be/BE paid/VBN by/IN the/AT patient/NN ./pct
 Apart/RB from/IN the/AT aged/VBN care/NN plan/NN the/AT President's/NNg most/QL ambitious/JJ and/CC costly/JJ proposals/NNS were/BED for/IN federal/JJ scholarships/NNS ,/pct and/CC grants/NNS to/TO build/VB or/CC enlarge/VB medical/JJ and/CC dental/JJ schools/NNS ./pct
-The/AT President/NN said/VBD the/AT nation's/NNg 92/CD medical/JJ and/CC 47/CD dental/JJ schools/NNS cannot /None now/RB handle/VB the/AT student/NN load/NN needed/VBN to/TO meet/VB the/AT rising/VBG need/NN for/IN health/NN care/NN ./pct
-Moreover/RB ,/pct he/PPS said/VBD ,/pct many/AP qualified/VBN young/JJ people/NNS are/BER not/NEG going/VBG into/IN medicine/NN and/CC dentistry/NN because/CS they/PPSS can't /None afford/VB the/AT schooling/VBG costs/NNS ./pct
+The/AT President/NN said/VBD the/AT nation's/NNg 92/CD medical/JJ and/CC 47/CD dental/JJ schools/NNS cannot/MD* now/RB handle/VB the/AT student/NN load/NN needed/VBN to/TO meet/VB the/AT rising/VBG need/NN for/IN health/NN care/NN ./pct
+Moreover/RB ,/pct he/PPS said/VBD ,/pct many/AP qualified/VBN young/JJ people/NNS are/BER not/NEG going/VBG into/IN medicine/NN and/CC dentistry/NN because/CS they/PPSS can't/MD* afford/VB the/AT schooling/VBG costs/NNS ./pct
 Contributions/NNS to/IN schools/NNS
 The/AT scholarship/NN plan/NN would/MD provide/VB federal/JJ contributions/NNS to/IN each/DT medical/JJ and/CC dental/JJ school/NN equal/JJ to/IN $1,500/NNS a/AT year/NN for/IN one-fourth/NN of/IN the/AT first/OD year/NN students/NNS ./pct
 The/AT schools/NNS could/MD use/VB the/AT money/NN to/TO pay/VB 4-year/JJ scholarships/NNS ,/pct based/VBN on/IN need/NN ,/pct of/IN up/IN to/IN $2,000/NNS a/AT year/NN per/IN student/NN ./pct

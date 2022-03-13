@@ -51,11 +51,11 @@ It/PPS was/BEDZ possible/JJ ,/pct however/RB ,/pct to/TO decompose/VB the/AT com
 geochemistry/NN
 trace/NN elements/NNS in/IN tektites/NNS ,/pct meteorites/NNS ,/pct and/CC related/VBN materials/NNS
 --/pct The/AT results/NNS of/IN microanalysis/NN of/IN tektites/NNS (/pct natural/JJ glasses/NNS of/IN unknown/JJ origin/NN )/pct for/IN gallium/NN and/CC germanium/NN have/HV shown/VBN that/CS these/DTS glasses/NNS are/BER probably/RB produced/VBN from/IN terrestrial/JJ (/pct or/CC less/QL likely/JJ from/IN lunar/JJ )/pct matter/NN by/IN impact/NN of/IN a/AT celestial/JJ body/NN ./pct
-The/AT gallium/NN //pct germanium/NN ratio/NN is/BEZ higher/JJR than/CS that/DT for/IN ordinary/JJ igneous/JJ ,/pct metamorphic/JJ ,/pct or/CC sedimentary/JJ matter/NN as/CS a/AT result/NN of/IN selective/JJ volatilization/NN of/IN the/AT components/NNS of/IN the/AT tektite/NN ./pct
+The/AT gallium/NN :/pct germanium/NN ratio/NN is/BEZ higher/JJR than/CS that/DT for/IN ordinary/JJ igneous/JJ ,/pct metamorphic/JJ ,/pct or/CC sedimentary/JJ matter/NN as/CS a/AT result/NN of/IN selective/JJ volatilization/NN of/IN the/AT components/NNS of/IN the/AT tektite/NN ./pct
 Gallium/NN oxide/NN is/BEZ less/QL volatile/JJ than/CS silica/NN (/pct the/AT main/JJS constituent/NN of/IN tektites/NNS )/pct and/CC germanium/NN oxide/NN is/BEZ more/QL volatile/JJ ./pct
 Australites/NNS (/pct tektites/NNS from/IN Australia/NP )/pct give/VB the/AT appearance/NN of/IN a/AT second/OD melting/NN ./pct
 In/IN conformity/NN with/IN this/DT conclusion/NN a/AT higher/JJR trace/NN gallium/NN content/NN was/BEDZ found/VBN in/IN the/AT portion/NN (/pct flange/NN )/pct that/WPS has/HVZ undergone/VBN a/AT second/OD melting/NN ./pct
-The/AT silicate/JJ fractions/NNS of/IN stony/JJ meteorites/NNS show/VB gallium/NN //pct germanium/NN ratios/NNS similar/JJ to/IN those/DTS of/IN tektites/NNS because/CS they/PPSS too/RB have/HV undergone/VBN melting/VBG at/IN some/DTI point/NN in/IN their/PPg histories/NNS ./pct
+The/AT silicate/JJ fractions/NNS of/IN stony/JJ meteorites/NNS show/VB gallium/NN :/pct germanium/NN ratios/NNS similar/JJ to/IN those/DTS of/IN tektites/NNS because/CS they/PPSS too/RB have/HV undergone/VBN melting/VBG at/IN some/DTI point/NN in/IN their/PPg histories/NNS ./pct
 Libyan/NP Desert/NN silica-glass/NN ,/pct another/DT natural/JJ glass/NN ,/pct is/BEZ composed/VBN of/IN nearly/QL pure/JJ silica/NN and/CC has/HVZ the/AT same/AP trace/NN germanium/NN content/NN as/CS sands/NNS in/IN the/AT area/NN ./pct
 The/AT gallium/NN content/NN ,/pct however/RB ,/pct has/HVZ been/BEN enhanced/VBN five-fold/RB ./pct
 This/DT glass/NN is/BEZ probably/RB formed/VBN from/IN Libyan/NP Desert/NN sands/NNS by/IN comet/NN or/CC stony-meteorite/NN impact/NN ./pct

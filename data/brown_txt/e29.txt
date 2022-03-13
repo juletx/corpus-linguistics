@@ -46,7 +46,7 @@ Certainly/RB every/AT educator/NN involved/VBN in/IN interior/JJ design/NN shoul
 Not/NEG only/RB should/MD every/AT educator/NN above/IN the/AT rank/NN of/IN instructor/NN be/BE expected/VBN to/TO be/BE a/AT member/NN of/IN one/CD of/IN the/AT professional/JJ organizations/NNS ,/pct but/CC his/PPg first/OD qualification/NN for/IN membership/NN as/CS an/AT educator/NN should/MD be/BE so/QL sharply/RB scrutinized/VBN that/DT membership/NN would/MD be/BE equivalent/JJ to/IN certification/NN to/TO teach/VB the/AT subject/NN ./pct
 Participation/NN for/IN the/AT educator/NN in/IN this/DT case/NN ,/pct however/RB ,/pct would/MD have/HV to/TO be/BE raised/VBN to/IN full/JJ and/CC complete/JJ membership/NN ./pct
 The/AT largest/JJT of/IN these/DTS organizations/NNS at/IN present/NN denies/VBZ to/IN the/AT full/JJ time/NN educator/NN any/DTI vote/NN on/IN the/AT conduct/NN and/CC standards/NNS of/IN the/AT group/NN and/CC ,/pct indeed/RB ,/pct refuses/VBZ him/PPO even/RB the/AT right/NN to/TO attach/VB the/AT customary/JJ initials/NNS after/IN his/PPg name/NN in/IN the/AT college/NN catalog/NN ./pct
-This/DT anomalous/JJ status/NN of/IN the/AT educator/NN cannot /None fail/VB to/TO lower/VB his/PPg standing/NN in/IN the/AT eyes/NNS of/IN the/AT students/NNS ./pct
+This/DT anomalous/JJ status/NN of/IN the/AT educator/NN cannot/MD* fail/VB to/TO lower/VB his/PPg standing/NN in/IN the/AT eyes/NNS of/IN the/AT students/NNS ./pct
 The/AT professor/NN in/IN turn/NN dares/VBZ not/NEG tolerate/VB the/AT influence/NN in/IN his/PPg classes/NNS of/IN an/AT organization/NN in/IN the/AT policies/NNS and/CC standards/NNS of/IN which/WDT he/PPS has/HVZ no/AT voice/NN ./pct
 This/DT seems/VBZ somewhat/QL shortsighted/JJ since/CS if/CS the/AT absolute/JJ educational/JJ qualifications/NNS for/IN membership/NN which/WDT the/AT organizations/NNS profess/VB are/BER ever/RB enforced/VBN ,/pct the/AT educator/NN will/MD have/HV the/AT molding/NN of/IN the/AT entire/JJ profession/NN in/IN his/PPg hands/NNS ./pct
 In/IN one/CD way/NN the/AT Institutes/NNS and/CC Societies/NNS do/DO a/AT disservice/NN to/IN the/AT schools/NNS ./pct
@@ -73,9 +73,9 @@ The/AT proper/JJ correlation/NN of/IN the/AT art/NN with/IN the/AT academic/NN c
 The/AT matter/NN of/IN sympathy/NN of/IN the/AT academic/JJ professors/NNS for/IN art/NN objectives/NNS also/RB must/MD be/BE taken/VBN into/IN account/NN ./pct
 One/CD technical/JJ question/NN of/IN school/NN organization/NN comes/VBZ to/IN mind/NN here/RB ./pct
 For/IN proper/JJ accreditation/NN of/IN schools/NNS ,/pct teachers/NNS in/IN any/DTI course/NN must/MD have/HV a/AT degree/NN at/IN least/AP one/CD level/NN above/IN that/DT for/IN which/WDT the/AT student/NN is/BEZ a/AT candidate/NN ./pct
-Since/CS there/EX are/BER almost/RB no/AT schools/NNS in/IN the/AT country/NN offering/VBG graduate/NN work/NN in/IN interior/JJ design/NN this/DT rule/NN cannot /None at/IN present/NN be/BE observed/VBN ./pct
+Since/CS there/EX are/BER almost/RB no/AT schools/NNS in/IN the/AT country/NN offering/VBG graduate/NN work/NN in/IN interior/JJ design/NN this/DT rule/NN cannot/MD* at/IN present/NN be/BE observed/VBN ./pct
 Indeed/RB ,/pct it/PPS has/HVZ only/RB been/BEN a/AT matter/NN of/IN the/AT last/AP few/AP years/NNS that/CS reputable/JJ schools/NNS of/IN art/NN have/HV granted/VBN degrees/NNS at/IN all/ABN ./pct
-The/AT question/NN ,/pct however/RB ,/pct cannot /None be/BE ignored/VBN for/IN long/RB ./pct
+The/AT question/NN ,/pct however/RB ,/pct cannot/MD* be/BE ignored/VBN for/IN long/RB ./pct
 The/AT basic/JJ problem/NN involved/VBN is/BEZ that/CS a/AT college/NN setting/VBG up/RP a/AT graduate/NN school/NN must/MD have/HV an/AT entirely/QL separate/JJ faculty/NN for/IN the/AT advanced/VBN degree/NN ./pct
 Most/AP professors/NNS in/IN the/AT course/NN must/MD ,/pct naturally/RB ,/pct again/RB have/HV a/AT higher/JJR degree/NN than/CS the/AT course/NN offers/VBZ ./pct
 One/CD solution/NN is/BEZ the/AT aquisition/NN of/IN degrees/NNS in/IN education/NN but/CC it/PPS is/BEZ a/AT poor/JJ substitute/NN ./pct

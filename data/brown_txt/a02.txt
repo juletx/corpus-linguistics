@@ -7,7 +7,7 @@ Daniel/NP termed/VBD ``/pct extremely/RB conservative/JJ ''/pct his/PPg estimate
 He/PPS told/VBD the/AT committee/NN the/AT measure/NN would/MD merely/RB provide/VB means/NNS of/IN enforcing/VBG the/AT escheat/NN law/NN which/WDT has/HVZ been/BEN on/IN the/AT books/NNS ``/pct since/IN Texas/NP was/BEDZ a/AT republic/NN ''/pct ./pct
 It/PPS permits/VBZ the/AT state/NN to/TO take/VB over/RP bank/NN accounts/NNS ,/pct stocks/NNS and/CC other/AP personal/JJ property/NN of/IN persons/NNS missing/VBG for/IN seven/CD years/NNS or/CC more/AP ./pct
 The/AT bill/NN ,/pct which/WDT Daniel/NP said/VBD he/PPS drafted/VBD personally/RB ,/pct would/MD force/VB banks/NNS ,/pct insurance/NN firms/NNS ,/pct pipeline/NN companies/NNS and/CC other/AP corporations/NNS to/TO report/VB such/JJ property/NN to/IN the/AT state/NN treasurer/NN ./pct
-The/AT escheat/NN law/NN cannot /None be/BE enforced/VBN now/RB because/CS it/PPS is/BEZ almost/RB impossible/JJ to/TO locate/VB such/JJ property/NN ,/pct Daniel/NP declared/VBD ./pct
+The/AT escheat/NN law/NN cannot/MD* be/BE enforced/VBN now/RB because/CS it/PPS is/BEZ almost/RB impossible/JJ to/TO locate/VB such/JJ property/NN ,/pct Daniel/NP declared/VBD ./pct
 Dewey/NP Lawrence/NP ,/pct a/AT Tyler/NP lawyer/NN representing/VBG the/AT Texas/NP Bankers/NNS Association/NN ,/pct sounded/VBD the/AT opposition/NN keynote/NN when/WRB he/PPS said/VBD it/PPS would/MD force/VB banks/NNS to/TO violate/VB their/PPg contractual/JJ obligations/NNS with/IN depositors/NNS and/CC undermine/VB the/AT confidence/NN of/IN bank/NN customers/NNS ./pct
 ``/pct If/CS you/PPSS destroy/VB confidence/NN in/IN banks/NNS ,/pct you/PPSS do/DO something/PN to/IN the/AT economy/NN ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct You/PPSS take/VB out/RP of/IN circulation/NN many/AP millions/NNS of/IN dollars/NNS ''/pct ./pct
@@ -24,9 +24,9 @@ Operating/VBG budget/NN for/IN the/AT day/NN schools/NNS in/IN the/AT five/CD co
 The/AT TEA/NN estimated/VBD there/EX would/MD be/BE 182/CD scholastics/NNS to/TO attend/VB the/AT day/NN school/NN in/IN Dallas/NP County/NN ,/pct saving/VBG them/PPO from/IN coming/VBG to/IN Austin/NP to/TO live/VB in/IN the/AT state/NN deaf/JJ school/NN ./pct
 Dallas/NP may/MD get/VB to/TO hear/VB a/AT debate/NN on/IN horse/NN race/NN parimutuels/NNS soon/RB between/IN Reps./NNS V./NP E./NP (/pct Red/NP )/pct Berry/NP and/CC Joe/NP Ratcliff/NP ./pct
 While/CS details/NNS are/BER still/RB to/TO be/BE worked/VBN out/RP ,/pct Ratcliff/NP said/VBD he/PPS expects/VBZ to/TO tell/VB home/NR folks/NNS in/IN Dallas/NP why/WRB he/PPS thinks/VBZ Berry's/NPg proposed/VBN constitutional/JJ amendment/NN should/MD be/BE rejected/VBN ./pct
-``/pct We're /None getting/VBG more/AP '/pct pro/JJ '/pct letters/NNS than/IN '/pct con/JJ '/pct on/IN horse/NN race/NN betting/NN ''/pct ,/pct said/VBD Ratcliff/NP ./pct
+``/pct We're/PPSSBER getting/VBG more/AP '/pct pro/JJ '/pct letters/NNS than/IN '/pct con/JJ '/pct on/IN horse/NN race/NN betting/NN ''/pct ,/pct said/VBD Ratcliff/NP ./pct
 ``/pct But/CC I/PPSS believe/VB if/CS people/NNS were/BED better/RBR informed/VBN on/IN this/DT question/NN ,/pct most/AP of/IN them/PPO would/MD oppose/VB it/PPO also/RB ./pct
-I'm /None willing/JJ to/TO stake/VB my/PPg political/JJ career/NN on/IN it/PPO ''/pct ./pct
+I'm/PPSSBEM willing/JJ to/TO stake/VB my/PPg political/JJ career/NN on/IN it/PPO ''/pct ./pct
 Rep./NN Berry/NP ,/pct an/AT ex-gambler/NN from/IN San/NP Antonio/NP ,/pct got/VBD elected/VBN on/IN his/PPg advocacy/NN of/IN betting/VBG on/IN the/AT ponies/NNS ./pct
 A/AT House/NN committee/NN which/WDT heard/VBD his/PPg local/JJ option/NN proposal/NN is/BEZ expected/VBN to/TO give/VB it/PPO a/AT favorable/JJ report/NN ,/pct although/CS the/AT resolution/NN faces/VBZ hard/JJ sledding/NN later/RBR ./pct
 The/AT house/NN passed/VBD finally/RB ,/pct and/CC sent/VBD to/IN the/AT Senate/NN ,/pct a/AT bill/NN extending/VBG the/AT State/NN Health/NN Department's/NNg authority/NN to/TO give/VB planning/VBG assistance/NN to/IN cities/NNS ./pct
@@ -50,7 +50,7 @@ An/AT adverse/JJ vote/NN of/IN 81/CD to/IN 65/CD kept/VBD in/IN the/AT State/NN 
 Rep./NN Wesley/NP Roberts/NP of/IN Seminole/NP ,/pct sponsor/NN of/IN the/AT poll/NN idea/NN ,/pct said/VBD that/CS further/JJR delay/NN in/IN the/AT committee/NN can/MD kill/VB the/AT bill/NN ./pct
 The/AT West/JJ Texan/NP reported/VBD that/CS he/PPS had/HVD finally/RB gotten/VBN Chairman/NN Bill/NP Hollowell/NP of/IN the/AT committee/NN to/TO set/VB it/PPO for/IN public/JJ hearing/NN on/IN Feb./NP 22/CD ./pct
 The/AT proposal/NN would/MD have/HV to/TO receive/VB final/JJ legislative/JJ approval/NN ,/pct by/IN two-thirds/NNS majorities/NNS ,/pct before/IN March/NP 1/CD to/TO be/BE printed/VBN on/IN the/AT April/NP 4/CD ballot/NN ,/pct Roberts/NP said/VBD ./pct
-Opponents/NNS generally/RB argued/VBD that/CS the/AT ballot/NN couldn't /None give/VB enough/AP information/NN about/IN tax/NN proposals/NNS for/IN the/AT voters/NNS to/TO make/VB an/AT intelligent/JJ choice/NN ./pct
+Opponents/NNS generally/RB argued/VBD that/CS the/AT ballot/NN couldn't/MD* give/VB enough/AP information/NN about/IN tax/NN proposals/NNS for/IN the/AT voters/NNS to/TO make/VB an/AT intelligent/JJ choice/NN ./pct
 All/ABN Dallas/NP members/NNS voted/VBD with/IN Roberts/NP ,/pct except/IN Rep./NN Bill/NP Jones/NP ,/pct who/WPS was/BEDZ absent/JJ ./pct
 Austin/NP ,/pct Texas/NP
 --/pct Paradise/NN lost/VBD to/IN the/AT alleged/VBN water/NN needs/NNS of/IN Texas'/NPg big/JJ cities/NNS Thursday/NR ./pct

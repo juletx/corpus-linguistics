@@ -27,7 +27,7 @@ The/AT result/NN was/BEDZ the/AT ``/pct Gross/NP Report/NN ''/pct ,/pct prepared
 He/PPS had/HVD always/RB done/VBN well/RB ./pct
 Never/RB well/QL known/VBN ,/pct but/CC he/PPS had/HVD done/VBN his/PPg work/NN competently/RB ./pct
 Gross/NP had/HVD received/VBN Marshall/NP courteously/RB and/CC they/PPSS were/BED discussing/VBG the/AT case/NN ./pct
-``/pct You/PPSS know/VB ''/pct ,/pct the/AT lawyer/NN said/VBD ,/pct ``/pct it's /None difficult/JJ to/TO talk/VB like/CS this/DT about/IN a/AT man/NN who/WPS can't /None answer/VB back/RB ''/pct ./pct
+``/pct You/PPSS know/VB ''/pct ,/pct the/AT lawyer/NN said/VBD ,/pct ``/pct it's/PPSBEZ difficult/JJ to/TO talk/VB like/CS this/DT about/IN a/AT man/NN who/WPS can't/MD* answer/VB back/RB ''/pct ./pct
 Gross/NP was/BEDZ behind/IN a/AT clean-top/JJ desk/NN ,/pct only/RB a/AT manila/NN folder/NN before/IN him/PPO ./pct
 Marshall/NP sat/VBD in/IN one/CD of/IN the/AT several/AP leather/NN chairs/NNS ./pct
 Outside/IN the/AT office/NN windows/NNS ,/pct twenty-four/CD stories/NNS above/IN Wall/NN Street/NN ,/pct a/AT light/JJ rain/NN was/BEDZ falling/VBG ./pct
@@ -35,19 +35,19 @@ Outside/IN the/AT office/NN windows/NNS ,/pct twenty-four/CD stories/NNS above/I
 You/PPSS know/VB ,/pct Bang-Jensen/NP characterized/VBD your/PPg Committee/NN as/CS having/HVG prejudged/VBN his/PPg case/NN ''/pct ./pct
 Gross/NP swung/VBD his/PPg swivel/NN chair/NN ./pct
 ``/pct Well/RB ,/pct how/WRB could/MD that/DT have/HV been/BEN ?/pct ?/pct
-I/PPSS don't /None consider/VB that/CS he/PPS was/BEDZ prejudged/VBN ./pct
+I/PPSS don't/DO* consider/VB that/CS he/PPS was/BEDZ prejudged/VBN ./pct
 We/PPSS were/BED given/VBN a/AT job/NN and/CC we/PPSS carried/VBD it/PPO out/RP ,/pct and/CC later/RBR ,/pct his/PPg case/NN was/BEDZ taken/VBN up/RP by/IN the/AT Disciplinary/JJ Committee/NN ./pct
 ``/pct We/PPSS have/HV nothing/PN to/TO hide/VB under/IN a/AT bushel/NN ./pct
 We/PPSS did/DOD our/PPg job/NN ,/pct Mr./NP Stavropoulos/NP and/CC Mr./NP De/NP Seynes/NP and/CC myself/PPL ,/pct taking/VBG evidence/NN from/IN a/AT number/NN of/IN people/NNS ''/pct ./pct
 ``/pct What/WDT did/DOD you/PPSS think/VB about/IN his/PPg mental/JJ state/NN ''/pct ?/pct ?/pct
 ``/pct I/PPSS think/VB our/PPg report/NN sums/VBZ up/RP our/PPg finding/NN ''/pct ,/pct Gross/NP answered/VBD ./pct
-``/pct Don't /None forget/VB ,/pct here/RB was/BEDZ a/AT man/NN who/WPS had/HVD been/BEN accusing/VBG his/PPg colleagues/NNS for/IN almost/RB a/AT year/NN of/IN willfully/RB attempting/VBG to/TO present/VB an/AT incorrect/JJ report/NN ./pct
+``/pct Don't/DO* forget/VB ,/pct here/RB was/BEDZ a/AT man/NN who/WPS had/HVD been/BEN accusing/VBG his/PPg colleagues/NNS for/IN almost/RB a/AT year/NN of/IN willfully/RB attempting/VBG to/TO present/VB an/AT incorrect/JJ report/NN ./pct
 ``/pct This/DT was/BEDZ not/NEG merely/RB alleging/VBG errors/NNS ,/pct but/CC was/BEDZ carried/VBN out/RP by/IN day-after-day/JJ allegations/NNS in/IN memos/NNS ,/pct written/VBN charges/NNS of/IN serious/JJ consequence/NN ./pct
 ``/pct This/DT is/BEZ a/AT distressing/JJ thing/NN ./pct
 Supposing/CS you/PPSS or/CC I/PPSS were/BED being/BEG accused/VBN in/IN this/DT manner/NN ,/pct and/CC yet/RB we/PPSS were/BED doing/VBG our/PPg level/JJ best/JJT to/TO carry/VB on/RP our/PPg work/NN ./pct
 No/AT organization/NN can/MD carry/VB on/RP like/CS that/DT ./pct
-``/pct I've /None been/BEN in/IN government/NN and/CC I/PPSS can/MD tell/VB some/DTI pretty/QL hairy/JJ stories/NNS about/IN personnel/NNS difficulties/NNS ,/pct so/RB I/PPSS know/VB what/WDT a/AT problem/NN he/PPS was/BEDZ ''/pct ./pct
-``/pct What/WDT I'd /None like/VB you/PPSS to/TO comment/VB on/IN is/BEZ the/AT criticism/NN leveled/VBN at/IN your/PPg Committee/NN ''/pct ./pct
+``/pct I've/PPSSHV been/BEN in/IN government/NN and/CC I/PPSS can/MD tell/VB some/DTI pretty/QL hairy/JJ stories/NNS about/IN personnel/NNS difficulties/NNS ,/pct so/RB I/PPSS know/VB what/WDT a/AT problem/NN he/PPS was/BEDZ ''/pct ./pct
+``/pct What/WDT I'd/PPSSMD like/VB you/PPSS to/TO comment/VB on/IN is/BEZ the/AT criticism/NN leveled/VBN at/IN your/PPg Committee/NN ''/pct ./pct
 ``/pct What/WDT do/DO you/PPSS mean/VB ''/pct ?/pct ?/pct
 ``/pct For/IN instance/NN ,/pct regarding/IN the/AT fact/NN that/CS the/AT Gross/NP Committee/NN issued/VBD two/CD interim/JJ announcements/NNS to/IN the/AT press/NN during/IN its/PPg investigation/NN ./pct
 You/PPSS know/VB Bang-Jensen/NP was/BEDZ told/VBN the/AT Committee/NN was/BEDZ '/pct to/TO convey/VB its/PPg views/NNS ,/pct suggestions/NNS and/CC recommendations/NNS to/IN the/AT Secretary/NN General/JJ ./pct
@@ -60,14 +60,14 @@ For/IN an/AT instant/NN he/PPS glared/VBD speechless/JJ at/IN Marshall/NP ./pct
 But/CC you/PPSS know/VB Bang-Jensen/NP launched/VBD an/AT active/JJ campaign/NN against/IN us/PPO in/IN the/AT press/NN ./pct
 It/PPS was/BEDZ getting/VBG so/RB that/CS we/PPSS ,/pct the/AT Committee/NN ,/pct were/BED being/BEG tried/VBN ./pct
 You/PPSS can/MD find/VB it/PPO in/IN the/AT papers/NNS ''/pct ./pct
-``/pct Well/UH ,/pct as/CS a/AT matter/NN of/IN fact/NN ,/pct I've /None looked/VBN through/IN back-issue/NN files/NNS of/IN New/JJ York/NP papers/NNS for/IN December/NP ,/pct 1957/CD ,/pct and/CC haven't /None found/VBN a/AT great/JJ deal/NN ''/pct --/pct
+``/pct Well/UH ,/pct as/CS a/AT matter/NN of/IN fact/NN ,/pct I've/PPSSHV looked/VBN through/IN back-issue/NN files/NNS of/IN New/JJ York/NP papers/NNS for/IN December/NP ,/pct 1957/CD ,/pct and/CC haven't/HV* found/VBN a/AT great/JJ deal/NN ''/pct --/pct
 Gross/NP shot/VBD another/DT look/NN at/IN Marshall/NP ./pct
-``/pct It/PPS wasn't /None necessarily/RB all/ABN here/RB in/IN New/JJ York/NP ./pct
-Don't /None forget/VB the/AT foreign/JJ press/NN ''/pct ./pct
+``/pct It/PPS wasn't/BEDZ* necessarily/RB all/ABN here/RB in/IN New/JJ York/NP ./pct
+Don't/DO* forget/VB the/AT foreign/JJ press/NN ''/pct ./pct
 ``/pct Then/RB what/WDT about/IN the/AT second/OD interim/JJ public/JJ announcement/NN ?/pct ?/pct
 This/DT cited/VBD Bang-Jensen's/NPg '/pct aberrant/JJ conduct/NN '/pct ''/pct ./pct
 ``/pct The/AT reason/NN for/IN that/DT report/NN was/BEDZ to/TO settle/VB the/AT matter/NN of/IN the/AT list/NN ./pct
-As/QL far/RB as/CS I'm /None concerned/VBN ,/pct it/PPS was/BEDZ a/AT separate/JJ matter/NN from/IN the/AT general/JJ Committee/NN study/NN of/IN Bang-Jensen's/NPg conduct/NN ./pct
+As/QL far/RB as/CS I'm/PPSSBEM concerned/VBN ,/pct it/PPS was/BEDZ a/AT separate/JJ matter/NN from/IN the/AT general/JJ Committee/NN study/NN of/IN Bang-Jensen's/NPg conduct/NN ./pct
 The/AT January/NP fifteen/CD report/NN recommended/VBD that/CS Bang-Jensen/NP be/BE instructed/VBN to/TO burn/VB the/AT list/NN --/pct the/AT papers/NNS --/pct in/IN the/AT presence/NN of/IN a/AT U.N./NP Security/NN Officer/NN ''/pct ./pct
 ``/pct How/WRB about/IN your/PPg press/NN conference/NN three/CD days/NNS later/RBR --/pct what/WDT was/BEDZ the/AT reason/NN for/IN that/DT ?/pct ?/pct
 Bang-Jensen/NP said/VBD you/PPSS told/VBD correspondents/NNS that/CS you/PPSS had/HVD checked/VBN in/IN advance/NN to/TO make/VB sure/JJ the/AT term/NN '/pct aberrant/JJ conduct/NN '/pct was/BEDZ not/NEG libelous/JJ ./pct
@@ -75,21 +75,21 @@ He/PPS claimed/VBD you/PPSS made/VBN other/AP slanderous/JJ allegations/NNS ''/p
 Gross/NP paused/VBD and/CC repeated/VBD himself/PPL ./pct
 ``/pct The/AT entire/JJ object/NN of/IN the/AT press/NN conference/NN was/BEDZ to/TO clarify/VB the/AT problem/NN of/IN the/AT list/NN ,/pct since/CS many/AP in/IN the/AT press/NN were/BED querying/VBG the/AT U.N./NP about/IN it/PPO ./pct
 What/WDT was/BEDZ the/AT list/NN ?/pct ?/pct
-I/PPSS don't /None know/VB ./pct
+I/PPSS don't/DO* know/VB ./pct
 Bang-Jensen/NP never/RB explained/VBD what/WDT the/AT documents/NNS or/CC papers/NNS were/BED that/WPO he/PPS had/HVD in/IN his/PPg possession/NN ./pct
 ``/pct It/PPS was/BEDZ foolish/JJ of/IN him/PPO to/TO keep/VB them/PPO ,/pct whatever/WDT they/PPSS were/BED ./pct
 He/PPS could/MD have/HV been/BEN blackmailed/VBN ,/pct or/CC his/PPg family/NN might/MD have/HV been/BEN threatened/VBN ./pct
 Of/IN course/NN the/AT matter/NN caught/VBD the/AT public's/NNg attention/NN ./pct
 We/PPSS attempted/VBD to/TO conclude/VB this/DT ,/pct and/CC did/DOD so/RB by/IN having/HVG the/AT papers/NNS burned/VBN ./pct
-Hammarskjold/NP didn't /None like/VB the/AT way/NN it/PPS was/BEDZ carried/VBN out/RP ./pct
+Hammarskjold/NP didn't/DOD* like/VB the/AT way/NN it/PPS was/BEDZ carried/VBN out/RP ./pct
 It/PPS was/BEDZ a/AT sort/NN of/IN Gotterdammerung/NP affair/NN ./pct
 Hammarskjold/NP believes/VBZ the/AT U.N./NP is/BEZ an/AT organization/NN that/WPS settles/VBZ matters/NNS in/IN a/AT procedural/JJ way/NN ./pct
 Peter/NP Marshall/NP reflected/VBD ./pct
 If/CS Hammarskjold/NP had/HVD not/NEG wanted/VBN the/AT list/NN disposed/VBN of/IN in/IN this/DT manner/NN ,/pct and/CC if/CS Bang-Jensen/NP had/HVD not/NEG wanted/VBN it/PPO --/pct who/WPS had/HVD ordered/VBN it/PPO ?/pct ?/pct
-``/pct Mr./NP Gross/NP ,/pct concerning/IN the/AT formation/NN of/IN your/PPg Committee/NN ,/pct there's /None the/AT fact/NN that/CS you/PPSS have/HV been/BEN a/AT legal/JJ adviser/NN to/IN the/AT U.N./NP in/IN the/AT past/NN ;/pct ;/pct
+``/pct Mr./NP Gross/NP ,/pct concerning/IN the/AT formation/NN of/IN your/PPg Committee/NN ,/pct there's/EXBEZ the/AT fact/NN that/CS you/PPSS have/HV been/BEN a/AT legal/JJ adviser/NN to/IN the/AT U.N./NP in/IN the/AT past/NN ;/pct ;/pct
 as/CS I/PPSS understand/VB it/PPO ,/pct Mr./NP Hammarskjold/NP wanted/VBD outside/JJ advice/NN ./pct
 Could/MD you/PPSS comment/VB on/IN that/DT ''/pct ?/pct ?/pct
-``/pct I've /None served/VBN as/CS a/AT counsel/NN for/IN the/AT U.N./NP for/IN some/DTI years/NNS ,/pct specializing/VBG particularly/RB in/IN real/JJ estate/NN matters/NNS or/CC other/AP problems/NNS that/CS the/AT regular/JJ U.N./NP legal/JJ staff/NN might/MD not/NEG be/BE equipped/VBN to/TO handle/VB ./pct
+``/pct I've/PPSSHV served/VBN as/CS a/AT counsel/NN for/IN the/AT U.N./NP for/IN some/DTI years/NNS ,/pct specializing/VBG particularly/RB in/IN real/JJ estate/NN matters/NNS or/CC other/AP problems/NNS that/CS the/AT regular/JJ U.N./NP legal/JJ staff/NN might/MD not/NEG be/BE equipped/VBN to/TO handle/VB ./pct
 Mr./NP Stavropoulos/NP is/BEZ the/AT U.N./NP legal/JJ chief/NN and/CC a/AT very/QL good/JJ man/NN ,/pct but/CC he/PPS is/BEZ not/NEG fully/RB versed/JJ on/IN some/DTI technical/JJ points/NNS of/IN American/JJ law/NN ''/pct ./pct
 ``/pct What/WDT did/DOD you/PPO think/VB about/IN Bang-Jensen's/NPg contention/NN of/IN errors/NNS and/CC omissions/NNS in/IN the/AT Hungarian/JJ report/NN ''/pct ?/pct ?/pct
 Marshall/NP asked/VBD ./pct
@@ -101,16 +101,16 @@ Gross/NP reached/VBD in/IN his/PPg desk/NN and/CC pulled/VBD out/RP two/CD newsp
 One/CD was/BEDZ an/AT article/NN on/IN the/AT U.N./NP by/IN Alice/NP Widener/NP from/IN the/AT Cincinnati/NP Enquirer/NP ./pct
 The/AT other/AP was/BEDZ by/IN Chesly/NP Manley/NP in/IN the/AT Chicago/NP Daily/JJ Tribune/NN ./pct
 Gross/NP pointed/VBD to/IN the/AT Manley/NP story/NN ./pct
-``/pct I/PPSS know/VB Ches/NP ,/pct he's /None a/AT friend/NN of/IN mine/PPgg ./pct
-He/PPS probably/RB didn't /None mean/VB to/TO write/VB it/PPO this/DT way/NN ,/pct or/CC maybe/RB he/PPS did/DOD ./pct
-There/EX wasn't /None any/DTI '/pct violent/JJ argument/NN '/pct between/IN Bang-Jensen/NP and/CC Shann/NP ,/pct as/CS the/AT Tribune/NN puts/VBZ it/PPO ./pct
+``/pct I/PPSS know/VB Ches/NP ,/pct he's/PPSBEZ a/AT friend/NN of/IN mine/PPgg ./pct
+He/PPS probably/RB didn't/DOD* mean/VB to/TO write/VB it/PPO this/DT way/NN ,/pct or/CC maybe/RB he/PPS did/DOD ./pct
+There/EX wasn't/BEDZ* any/DTI '/pct violent/JJ argument/NN '/pct between/IN Bang-Jensen/NP and/CC Shann/NP ,/pct as/CS the/AT Tribune/NN puts/VBZ it/PPO ./pct
 That/DT implies/VBZ that/CS Shann/NP was/BEDZ on/IN the/AT enemy/NN side/NN ./pct
 You/PPSS see/VB what/WDT I/PPSS mean/VB ?/pct ?/pct
-How/WRB it's /None phrased/VBN there/RB --/pct the/AT word/NN violent/JJ ./pct
+How/WRB it's/PPSBEZ phrased/VBN there/RB --/pct the/AT word/NN violent/JJ ./pct
 ``/pct The/AT case/NN was/BEDZ that/CS Bang-Jensen/NP came/VBD up/IN to/IN Shann/NP claiming/VBG he/PPS had/HVD found/VBN further/JJR errors/NNS in/IN the/AT report/NN ./pct
-'/pct I've /None found/VBN errors/NNS and/CC I/PPSS want/VB you/PPO to/TO look/VB them/PPO over/RP ./pct
+'/pct I've/PPSSHV found/VBN errors/NNS and/CC I/PPSS want/VB you/PPO to/TO look/VB them/PPO over/RP ./pct
 So/RB once/RB again/RB Shann/NP had/HVD to/TO argue/VB with/IN him/PPO about/IN this/DT ./pct
-But/CC it/PPS wasn't /None a/AT violent/JJ discussion/NN ./pct
+But/CC it/PPS wasn't/BEDZ* a/AT violent/JJ discussion/NN ./pct
 And/CC after/IN all/ABN this/DT ,/pct Shann/NP went/VBD over/RP all/ABN that/WPO Bang-Jensen/NP had/HVD brought/VBN up/RP ''/pct ./pct
 (/pct Shann's/NPg own/JJ report/NN ,/pct Peter/NP Marshall/NP reflected/VBD ,/pct describes/VBZ the/AT encounter/NN as/CS ``/pct immoderate/JJ ''/pct ./pct
 Bang-Jensen/NP was/BEDZ in/IN ``/pct hysterical/JJ condition/NN ''/pct ./pct
@@ -119,11 +119,11 @@ Gross/NP stopped/VBD briefly/RB ,/pct then/RB went/VBD on/RP ./pct
 He/PPS has/HVZ felt/VBN terrible/JJ about/IN all/ABN this/DT ./pct
 It/PPS was/BEDZ a/AT good/JJ report/NN ,/pct he/PPS did/DOD all/ABN he/PPS could/MD to/TO make/VB it/PPO a/AT good/JJ report/NN ./pct
 When/WRB I/PPSS speak/VB of/IN how/WRB Shann/NP felt/VBD ,/pct I/PPSS know/VB well/RB ./pct
-Don't /None forget/VB ,/pct I/PPSS am/BEM an/AT old/JJ member/NN of/IN the/AT club/NN ,/pct a/AT former/AP delegate/NN ./pct
+Don't/DO* forget/VB ,/pct I/PPSS am/BEM an/AT old/JJ member/NN of/IN the/AT club/NN ,/pct a/AT former/AP delegate/NN ./pct
 I/PPSS think/VB you/PPSS are/BER being/BEG unfair/JJ to/TO take/VB these/DTS things/NNS up/RP now/RB ./pct
 ``/pct You/PPSS know/VB ,/pct this/DT hits/VBZ in/IN many/AP areas/NNS ./pct
 It/PPS appeals/VBZ to/IN those/DTS who/WPS were/BED frustrated/VBN in/IN the/AT outcome/NN of/IN the/AT Hungarian/JJ situation/NN ./pct
-Don't /None forget/VB ,/pct the/AT U.N./NP did/DOD no/QL more/RBR than/CS the/AT United/VBN States/NNS did/DOD ./pct
+Don't/DO* forget/VB ,/pct the/AT U.N./NP did/DOD no/QL more/RBR than/CS the/AT United/VBN States/NNS did/DOD ./pct
 It/PPS takes/VBZ a/AT great/JJ deal/NN of/IN sophisticated/JJ thought/NN to/TO get/VB the/AT impact/NN of/IN this/DT fact/NN ''/pct ./pct
 Chapter/NN 22/CD
 from/IN the/AT home/NN of/IN his/PPg friend/NN ,/pct Henrik/NP Kauffmann/NP ,/pct in/IN Washington/NP ,/pct D.C./NP ,/pct Paul/NP Bang-Jensen/NP sent/VBD a/AT telegram/NN dated/VBN December/NP 9/CD ,/pct 1957/CD ,/pct to/IN Ernest/NP Gross/NP ./pct

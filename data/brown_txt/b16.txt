@@ -16,7 +16,7 @@ This/DT sum/NN spent/VBN for/IN foreign/JJ economic/JJ aid/NN ,/pct the/AT peace
 Let/VB us/PPO prepare/VB for/IN peace/NN ,/pct instead/RB of/IN for/IN a/AT war/NN which/WDT would/MD mean/VB the/AT end/NN of/IN civilization/NN ./pct
 Short/JJ shorts/NNS on/IN the/AT campus/NN
 Chicago/NP ,/pct Aug./NP 4/CD
---/pct It/PPS seems/VBZ college/NN isn't /None what/WDT it/PPS should/MD be/BE ./pct
+--/pct It/PPS seems/VBZ college/NN isn't/BEZ* what/WDT it/PPS should/MD be/BE ./pct
 I/PPSS refer/VB to/IN the/AT attire/NN worn/VBN by/IN the/AT students/NNS ./pct
 Upon/IN a/AT visit/NN to/IN a/AT local/JJ junior/NN college/NN last/AP week/NN ,/pct I/PPSS was/BEDZ shocked/VBN to/TO see/VB the/AT young/JJ ladies/NNS wearing/VBG short/JJ shorts/NNS and/CC the/AT young/JJ men/NNS wearing/VBG Bermuda/NP shorts/NNS ./pct
 Is/BEZ this/DT what/WDT our/PPg children/NNS are/BER to/TO come/VB face/NN to/IN face/NN with/IN when/WRB they/PPSS are/BER ready/JJ for/IN college/NN in/IN a/AT few/AP years/NNS ?/pct ?/pct
@@ -50,7 +50,7 @@ We/PPSS are/BER slowly/RB being/BEG regimented/VBN to/IN having/HVG everything/P
 Most/AP women/NNS ,/pct in/IN this/DT age/NN of/IN freezers/NNS ,/pct shop/VB for/IN the/AT entire/JJ week/NN on/IN week-ends/NNS ,/pct when/WRB prices/NNS are/BER lower/JJR ./pct
 Also/RB ,/pct many/AP working/VBG wives/NNS have/HV children/NNS or/CC husbands/NNS who/WPS take/VB over/RP the/AT shopping/VBG chores/NNS for/IN them/PPO ./pct
 Independent/JJ market/NN owners/NNS work/VB six/CD days/NNS a/AT week/NN ;/pct ;/pct
-and/CC my/PPg husband/NN hasn't /None had/HVN a/AT vacation/NN in/IN 14/CD years/NNS ./pct
+and/CC my/PPg husband/NN hasn't/HVZ* had/HVN a/AT vacation/NN in/IN 14/CD years/NNS ./pct
 No/RB ,/pct we/PPSS are/BER not/NEG greedy/JJ ./pct
 But/CC if/CS we/PPSS closed/VBD the/AT store/NN for/IN a/AT vacation/NN ,/pct we/PPSS would/MD lose/VB our/PPg customers/NNS to/IN the/AT chain/NN stores/NNS in/IN the/AT next/AP block/NN ./pct
 The/AT meat/NN cutters'/NNSg union/NN ,/pct which/WDT has/HVZ a/AT history/NN of/IN being/BEG one/CD of/IN the/AT fairest/JJT and/CC least/QL corrupt/JJ in/IN our/PPg area/NN ,/pct represents/VBZ the/AT little/JJ corner/NN markets/NNS as/QL well/RB as/CS the/AT large/JJ supermarkets/NNS ./pct

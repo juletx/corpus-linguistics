@@ -1,5 +1,5 @@
 Slowly/RB he/PPS pulled/VBD out/RP the/AT hand/NN throttle/NN until/CS the/AT boat/NN was/BEDZ moving/VBG at/IN little/AP more/RBR than/IN a/AT crawl/NN ,/pct and/CC watched/VBD Elaine/NP rapidly/RB spin/VB from/IN one/CD station/NN to/IN another/DT ,/pct tune/VB in/IN the/AT null/NN ,/pct then/RB draw/VB in/RP a/AT line/NN on/IN the/AT chart/NN ./pct
-``/pct We're /None out/RP just/RB a/AT little/AP too/QL far/RB ./pct
+``/pct We're/PPSSBER out/RP just/RB a/AT little/AP too/QL far/RB ./pct
 Make/VB a/AT 90/CD degree/NN straight/JJ for/IN shore/NN ''/pct ./pct
 Poet/NN came/VBD in/RP ,/pct raising/VBG his/PPg eyebrows/NNS appreciatively/RB as/CS he/PPS saw/VBD Elaine/NP ./pct
 ``/pct Now/RB ''/pct ?/pct ?/pct
@@ -25,7 +25,7 @@ No/AT one/PN had/HVD screamed/VBN ./pct
 No/AT one/PN had/HVD prayed/VBN ./pct
 All/ABN had/HVD fallen/VBN into/IN a/AT complete/JJ silence/NN ,/pct listening/VBG to/IN the/AT wind/NN whistle/NN over/IN the/AT wings/NNS ./pct
 The/AT pilot/NN had/HVD been/BEN good/JJ ./pct
-He'd /None landed/VBN the/AT plane/NN on/IN a/AT small/JJ airstrip/NN in/IN Connecticut/NP and/CC as/QL soon/RB as/CS the/AT aircraft/NN had/HVD coasted/VBN to/IN a/AT stop/NN ,/pct everyone/PN had/HVD burst/VBN into/IN chatter/NN at/IN the/AT same/AP moment/NN ./pct
+He'd/PPSHVD landed/VBN the/AT plane/NN on/IN a/AT small/JJ airstrip/NN in/IN Connecticut/NP and/CC as/QL soon/RB as/CS the/AT aircraft/NN had/HVD coasted/VBN to/IN a/AT stop/NN ,/pct everyone/PN had/HVD burst/VBN into/IN chatter/NN at/IN the/AT same/AP moment/NN ./pct
 There/EX had/HVD been/BEN tension/NN in/IN the/AT plane/NN during/IN the/AT silent/JJ descent/NN ;/pct ;/pct
 a/AT tension/NN similar/JJ to/IN the/AT one/CD now/RB ./pct
 But/CC in/IN the/AT plane/NN there/EX was/BEDZ a/AT concrete/JJ reason/NN for/IN it/PPO ./pct
@@ -45,7 +45,7 @@ She/PPS kicked/VBD the/AT locker/NN lid/NN shut/VBN and/CC replaced/VBD the/AT c
 ``/pct And/CC the/AT deadliest/JJT ''/pct ,/pct Poet/NN commented/VBD as/CS he/PPS buckled/VBD on/RP his/PPg tank/NN harness/NN ./pct
 ``/pct Why/WRB do/DO you/PPSS need/VB an/AT arsenal/NN ''/pct ?/pct ?/pct
 Nick/NP asked/VBD ,/pct apprehensively/RB ,/pct staring/VBG at/IN the/AT weapon/NN ./pct
-``/pct It's /None quite/QL possible/JJ there's /None more/AP than/IN codfish/NN down/RP there/RB ,/pct man/NN ''/pct ,/pct Poet/NN replied/VBD with/IN a/AT short/JJ ,/pct nervous/JJ laugh/NN as/CS he/PPS held/VBD the/AT harness/NN for/IN Elaine/NP ./pct
+``/pct It's/PPSBEZ quite/QL possible/JJ there's/EXBEZ more/AP than/IN codfish/NN down/RP there/RB ,/pct man/NN ''/pct ,/pct Poet/NN replied/VBD with/IN a/AT short/JJ ,/pct nervous/JJ laugh/NN as/CS he/PPS held/VBD the/AT harness/NN for/IN Elaine/NP ./pct
 A/AT moment/NN later/RBR ,/pct moving/VBG awkwardly/RB because/CS of/IN the/AT swimming/VBG fins/NNS ,/pct she/PPS picked/VBD up/RP the/AT gun/NN ,/pct handed/VBD the/AT knife/NN to/IN Poet/NN ,/pct then/RB rolled/VBD off/IN the/AT transom/NN of/IN the/AT boat/NN ,/pct back/NN first/RB ./pct
 Poet/NN nodded/VBD to/IN Nick/NP and/CC entered/VBD the/AT water/NN in/IN a/AT similar/JJ fashion/NN ./pct
 Another/DT moment/NN and/CC they/PPSS were/BED out/IN of/IN sight/NN ,/pct leaving/VBG behind/RB only/RB a/AT string/NN of/IN bubbles/NNS as/CS a/AT clue/NN to/IN their/PPg whereabouts/NN ./pct
@@ -60,11 +60,11 @@ If/CS Elaine's/NPg uncle/NN had/HVD stuck/VBN to/IN this/DT desire/NN for/IN alo
 Yet/RB Alfredo/NP wanted/VBD money/NN wanted/VBD money/NN to/TO roam/VB through/IN the/AT deserts/NNS ./pct
 And/CC Graham/NP wanted/VBD money/NN probably/RB to/TO roam/VB among/IN the/AT dice/NNS tables/NNS in/IN Las/NP Vegas/NP ./pct
 It/PPS was/BEDZ an/AT odd/JJ combination/NN a/AT strange/JJ pair/NN to/TO stumble/VB upon/IN the/AT wreck/NN of/IN the/AT Trinidad/NP ./pct
-But/CC Graham/NP hadn't /None stumbled/VBN on/IN it/PPO ./pct
+But/CC Graham/NP hadn't/HVD* stumbled/VBN on/IN it/PPO ./pct
 Two/CD to/IN three/CD weeks/NNS prior/RB to/IN the/AT charter/NN of/IN the/AT Virginia/NP ,/pct Graham/NP had/HVD been/BEN snooping/VBG around/IN the/AT San/NP Luis/NP Rey/NP Mission/NN ./pct
 The/AT small/JJ helicopter/NN with/IN its/PPg two/CD steel/NN skids/NNS churned/VBD offshore/RB and/CC Nick/NP raised/VBD up/RP to/TO watch/VB it/PPO heading/VBG south/NR ./pct
 That/DT was/BEDZ a/AT hell/NN of/IN a/AT note/NN ,/pct he/PPS thought/VBD ./pct
-A/AT couple/NN couldn't /None even/VB find/VB a/AT secluded/VBN spot/NN anywhere/RB on/IN a/AT beach/NN to/TO neck/VB nowadays/RB without/IN someone/PN swooping/VBG down/RP upon/IN them/PPO ./pct
+A/AT couple/NN couldn't/MD* even/VB find/VB a/AT secluded/VBN spot/NN anywhere/RB on/IN a/AT beach/NN to/TO neck/VB nowadays/RB without/IN someone/PN swooping/VBG down/RP upon/IN them/PPO ./pct
 If/CS the/AT character/NN flying/VBG that/DT thing/NN had/HVD gone/VBN over/IN San/NP Clemente/NP Island/NN yesterday/NR he/PPS would/MD have/HV had/HVN an/AT eyeful/NN ./pct
 Off/RP to/IN the/AT west/NR a/AT beautiful/JJ schooner/NN slowly/RB beat/VB its/PPg way/NN into/IN the/AT wind/NN ,/pct headed/VBN on/IN a/AT tack/NN toward/IN San/NP Clemente/NP ./pct
 Behind/IN it/PPO a/AT cabin/NN cruiser/NN drifted/VBD crossways/RB in/IN the/AT small/JJ ground-swell/NN ,/pct a/AT lone/JJ fisherman/NN in/IN the/AT chair/NN aft/RB ./pct
@@ -74,7 +74,7 @@ Someday/RB ,/pct geologists/NNS had/HVD warned/VBN ,/pct the/AT land/NN on/IN bo
 Meanwhile/RB ,/pct fishermen/NNS took/VBD advantage/NN of/IN them/PPO to/TO pull/VB up/RP whoppers/NNS ./pct
 Sometimes/RB the/AT fish/NN exploded/VBD as/CS they/PPSS neared/VBD the/AT surface/NN because/CS of/IN the/AT difference/NN in/IN pressure/NN ./pct
 Why/WRB ,/pct he/PPS wondered/VBD ,/pct had/HVD Elaine/NP wanted/VBD him/PPO along/RB on/IN this/DT trip/NN ?/pct ?/pct
-He/PPS couldn't /None skindive/VB ,/pct he/PPS couldn't /None run/VB a/AT boat/NN ,/pct except/IN on/IN the/AT open/JJ sea/NN ./pct
+He/PPS couldn't/MD* skindive/VB ,/pct he/PPS couldn't/MD* run/VB a/AT boat/NN ,/pct except/IN on/IN the/AT open/JJ sea/NN ./pct
 He/PPS stood/VBD up/RP ,/pct stretched/VBD ,/pct looked/VBD around/RB for/IN the/AT bubbles/NNS ,/pct but/CC could/MD see/VB none/PN ./pct
 Strolling/VBG down/RP to/IN the/AT galley/NN ,/pct he/PPS lit/VBD the/AT butane/NN under/IN the/AT coffee/NN pot/NN and/CC when/WRB the/AT brew/NN was/BEDZ heated/VBN ,/pct poured/VBD himself/PPL a/AT cup/NN and/CC went/VBD up/RP to/IN the/AT chartroom/NN ./pct
 Turning/VBG on/RP the/AT hi-fi/NN ,/pct he/PPS went/VBD back/RB to/IN the/AT cockpit/NN ,/pct stretched/VBD out/RP on/IN the/AT cushions/NNS and/CC listened/VBD to/IN the/AT music/NN ./pct
@@ -83,7 +83,7 @@ He/PPS sat/VBD up/RP and/CC watched/VBD as/CS they/PPSS pulled/VBD themselves/PP
 ``/pct Any/DTI luck/NN ''/pct ?/pct ?/pct
 He/PPS asked/VBD ./pct
 Poet/NN shook/VBD his/PPg head/NN ,/pct sliding/VBG his/PPg face/NN mask/NN up/RP on/IN his/PPg forehead/NN ./pct
-``/pct We're /None right/QL on/IN the/AT edge/NN of/IN the/AT Deep/NN ''/pct ,/pct Elaine/NP said/VBD ./pct
+``/pct We're/PPSSBER right/QL on/IN the/AT edge/NN of/IN the/AT Deep/NN ''/pct ,/pct Elaine/NP said/VBD ./pct
 Pulling/VBG off/RP her/PPg face/NN mask/NN ,/pct she/PPS carefully/RB placed/VBD the/AT spear/NN gun/NN across/IN the/AT stern/NN ,/pct then/RB lifted/VBD her/PPg wet/JJ hair/NN from/IN her/PPO back/NN and/CC squeezed/VBD out/RP the/AT water/NN ./pct
 ``/pct Which/WDT is/BEZ a/AT break/NN as/CS the/AT area/NN to/IN search/NN is/BEZ less/AP than/IN a/AT square/NN mile/NN ''/pct ,/pct she/PPS added/VBD as/CS she/PPS swung/VBD her/PPO legs/NNS over/IN the/AT transom/NN ./pct
 ``/pct Any/DTI news/NN ''/pct ?/pct ?/pct
@@ -111,9 +111,9 @@ Elaine/NP recovered/VBD first/RB ,/pct so/QL quickly/RB that/CS Nick/NP thought/
 ``/pct Do/DO you/PPSS need/VB a/AT bandage/NN ''/pct ?/pct ?/pct
 She/PPS asked/VBD steadily/RB ./pct
 Poet/NN rubbed/VBD his/PPg arm/NN ./pct
-``/pct It's /None like/CS banging/VBG a/AT shin/NN ''/pct ,/pct he/PPS said/VBD ,/pct his/PPg eyes/NNS lingered/VBD on/IN Nick's/NPg face/NN ,/pct then/RB moved/VBD back/RB to/IN Elaine/NP ./pct
+``/pct It's/PPSBEZ like/CS banging/VBG a/AT shin/NN ''/pct ,/pct he/PPS said/VBD ,/pct his/PPg eyes/NNS lingered/VBD on/IN Nick's/NPg face/NN ,/pct then/RB moved/VBD back/RB to/IN Elaine/NP ./pct
 ``/pct Hurts/NNS like/CS hell/NN for/IN a/AT second/NN ,/pct then/RB it/PPS disappears/VBZ ''/pct ./pct
-``/pct I'll /None get/VB some/DTI ointment/NN ''/pct ./pct
+``/pct I'll/PPSSMD get/VB some/DTI ointment/NN ''/pct ./pct
 Elaine/NP turned/VBD and/CC started/VBD toward/IN the/AT companionway/NN ./pct
 But/CC her/PPg walk/NN was/BEDZ too/QL steady/JJ ,/pct too/QL slow/JJ ,/pct telegraphing/VBG her/PPg fear/NN ./pct
 Nick/NP sensed/VBD it/PPO ./pct

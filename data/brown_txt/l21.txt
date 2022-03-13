@@ -5,30 +5,30 @@ Go/VB to/IN the/AT same/AP hotel/NN and/CC occupy/VB the/AT same/AP suite/NN --/
 ``/pct Will/MD the/AT hotel/NN rent/NN it/PPO so/QL soon/RB after/IN the/AT crime/NN ''/pct ?/pct ?/pct
 ``/pct Why/WRB not/NEG ?/pct ?/pct
 The/AT police/NNS have/HV finished/VBN with/IN it/PPO ./pct
-Besides/RB ,/pct the/AT number/NN of/IN the/AT suite/NN hasn't /None been/BEN published/VBN in/IN any/DTI newspaper/NN ./pct
-To/IN the/AT hotel/NN people/NNS ,/pct you'll /None just/RB be/BE an/AT innocent/JJ tourist/NN who/WPS happens/VBZ to/TO ask/VB for/IN that/DT particular/JJ suite/NN ''/pct ./pct
+Besides/RB ,/pct the/AT number/NN of/IN the/AT suite/NN hasn't/HVZ* been/BEN published/VBN in/IN any/DTI newspaper/NN ./pct
+To/IN the/AT hotel/NN people/NNS ,/pct you'll/PPSSMD just/RB be/BE an/AT innocent/JJ tourist/NN who/WPS happens/VBZ to/TO ask/VB for/IN that/DT particular/JJ suite/NN ''/pct ./pct
 ``/pct Still/RB ,/pct they/PPSS may/MD not/NEG want/VB to/TO rent/VB it/PPO ''/pct ./pct
-``/pct That's /None your/PPg headache/NN ./pct
+``/pct That's/DTBEZ your/PPg headache/NN ./pct
 Once/RB inside/RB ,/pct keep/VB your/PPg eyes/NNS open/VB ''/pct !/pct !/pct
 ``/pct For/IN what/WDT ''/pct !/pct !/pct
 Alec/NP was/BEDZ growing/VBG more/QL and/CC more/QL skeptical/JJ ./pct
 ``/pct The/AT police/NNS will/MD have/HV gone/VBN over/IN every/AT square/NN inch/NN of/IN the/AT place/NN with/IN a/AT fine-tooth/NN comb/NN ./pct
 The/AT hotel/NN people/NNS will/MD have/HV scoured/VBN and/CC vacuumed/VBN it/PPO ./pct
-Ten/CD to/IN one/CD ,/pct it's /None even/RB been/BEN redecorated/VBN ''/pct !/pct !/pct
-``/pct There's /None always/RB a/AT chance/NN they/PPSS may/MD have/HV overlooked/VBN something/PN ''/pct ,/pct returned/VBD the/AT chief/NN ./pct
-``/pct I'm /None betting/VBG on/IN that/DT chance/NN ./pct
+Ten/CD to/IN one/CD ,/pct it's/PPSHVZ even/RB been/BEN redecorated/VBN ''/pct !/pct !/pct
+``/pct There's/EXBEZ always/RB a/AT chance/NN they/PPSS may/MD have/HV overlooked/VBN something/PN ''/pct ,/pct returned/VBD the/AT chief/NN ./pct
+``/pct I'm/PPSSBEM betting/VBG on/IN that/DT chance/NN ./pct
 Interview/VB the/AT bellboy/NN and/CC chambermaid/NN who/WPS waited/VBD on/IN Beauclerk/NP ./pct
 Study/VB the/AT topography/NN of/IN the/AT suite/NN ./pct
 Soak/VB up/RP local/JJ color/NN ./pct
 Reenact/VB everything/PN Beauclerk/NP did/DOD ./pct
-Try/VB to/TO imagine/VB you're /None going/VBG to/TO be/BE murdered/VBN yourself/PPL --/pct between/IN eleven/CD p.m./RB and/CC one/CD a.m./RB the/AT night/NN you/PPSS arrive/VB ''/pct ./pct
+Try/VB to/TO imagine/VB you're/PPSSBER going/VBG to/TO be/BE murdered/VBN yourself/PPL --/pct between/IN eleven/CD p.m./RB and/CC one/CD a.m./RB the/AT night/NN you/PPSS arrive/VB ''/pct ./pct
 Alec/NP smirked/VBD ./pct
 ``/pct Cheerful/JJ way/NN to/TO spend/VB an/AT evening/NN ''/pct !/pct !/pct
 A/AT sudden/JJ thought/NN wiped/VBD the/AT smirk/NN from/IN his/PPg face/NN ./pct
 ``/pct Suppose/VB the/AT murderer/NN should/MD return/VB to/IN the/AT scene/NN of/IN the/AT crime/NN ''/pct !/pct !/pct
 The/AT chief's/NNg eyes/NNS gleamed/VBD ./pct
 He/PPS spoke/VBD softly/RB ./pct
-``/pct That/DT is/BEZ exactly/RB what/WDT I'm /None hoping/VBG for/IN ./pct
+``/pct That/DT is/BEZ exactly/RB what/WDT I'm/PPSSBEM hoping/VBG for/IN ./pct
 After/IN all/ABN ,/pct the/AT murderer/NN is/BEZ still/RB at/IN large/JJ ./pct
 And/CC the/AT key/NN to/IN the/AT suite/NN is/BEZ still/RB missing/VBG ''/pct ./pct
 On/IN the/AT train/NN Alec/NP refreshed/VBD his/PPg memory/NN of/IN the/AT Beauclerk/NP case/NN by/IN reading/VBG teletype/NN flimsies/NNS --/pct spot-news/NN stories/NNS about/IN the/AT crime/NN sent/VBN out/RP by/IN the/AT Pearson/NP City/NN Star/NN ,/pct a/AT member/NN of/IN the/AT Syndicate/NN Press/NN ./pct
@@ -56,7 +56,7 @@ Find/VB a/AT motive/NN for/IN Stacy/NP or/CC an/AT opportunity/NN for/IN Forbes/
 The/AT Hotel/NN Westmore/NP proved/VBD to/TO be/BE one/CD of/IN the/AT older/JJR hotels/NNS in/IN Pearson/NP City/NN ,/pct and/CC definitely/RB second-rate/JJ ./pct
 Alec's/NPg first/OD impression/NN of/IN the/AT lobby/NN was/BEDZ gloomy/JJ ,/pct Victorian/JJ dignity/NN --/pct black/JJ walnut/NN and/CC red/JJ plush/NN ,/pct a/AT black/JJ and/CC white/JJ tiled/VBN floor/NN ,/pct and/CC Persian/JJ rugs/NNS ./pct
 He/PPS studied/VBD the/AT night/NN clerk/NN as/CS a/AT man/NN measures/VBZ an/AT adversary/NN ./pct
-``/pct I'd /None like/VB the/AT room/NN I/PPSS had/HVD the/AT last/AP time/NN ''/pct ./pct
+``/pct I'd/PPSSMD like/VB the/AT room/NN I/PPSS had/HVD the/AT last/AP time/NN ''/pct ./pct
 ``/pct Certainly/RB ,/pct sir/NN ''/pct ./pct
 The/AT clerk/NN was/BEDZ young/JJ and/CC limp/JJ ,/pct with/IN a/AT tired/VBN smile/NN ./pct
 ``/pct Do/DO you/PPSS recall/VB the/AT number/NN ''/pct ?/pct ?/pct
@@ -83,13 +83,13 @@ The/AT clerk's/NNg eyes/NNS flickered/VBD ./pct
 ``/pct Anybody/PN with/IN a/AT contagious/JJ disease/NN been/BEN in/IN there/RB ''/pct ?/pct ?/pct
 ``/pct No/RB ''/pct !/pct !/pct
 The/AT clerk/NN was/BEDZ almost/QL hysterical/JJ ./pct
-``/pct It's /None just/RB that/CS --/pct well/UH ,/pct 1105/CD is/BEZ being/BEG redecorated/VBN ''/pct ./pct
-``/pct I/PPSS don't /None believe/VB it/PPO ''/pct ./pct
+``/pct It's/PPSBEZ just/RB that/CS --/pct well/UH ,/pct 1105/CD is/BEZ being/BEG redecorated/VBN ''/pct ./pct
+``/pct I/PPSS don't/DO* believe/VB it/PPO ''/pct ./pct
 Alec/NP leaned/VBD on/IN the/AT desk/NN ,/pct holding/VBG the/AT clerk's/NNg eyes/NNS with/IN his/PPgg ./pct
 ``/pct Suppose/VB you/PPO tell/VB me/PPO the/AT real/JJ reason/NN ''/pct ,/pct he/PPS drawled/VBD ./pct
 ``/pct There/EX might/MD be/BE a/AT story/NN in/IN it/PPO ''/pct ./pct
 ``/pct St-story/NN ''/pct ?/pct ?/pct
-``/pct I'm /None with/IN the/AT Syndicated/VBN Press/NN ,/pct Feature/NN Service/NN ./pct
+``/pct I'm/PPSSBEM with/IN the/AT Syndicated/VBN Press/NN ,/pct Feature/NN Service/NN ./pct
 Either/CC I/PPSS get/VB the/AT story/NN --/pct or/CC I/PPSS get/VB the/AT suite/NN ''/pct ./pct
 It/PPS was/BEDZ blackmail/NN and/CC the/AT clerk/NN knew/VBD it/PPO ./pct
 ``/pct There/EX is/BEZ no/AT story/NN ''/pct ,/pct he/PPS piped/VBD tremulously/RB ./pct
@@ -117,14 +117,14 @@ Alec/NP played/VBD the/AT part/NN of/IN an/AT innocent/JJ tourist/NN ./pct
 ``/pct Is/BEZ there/EX anything/PN wrong/JJ with/IN this/DT room/NN ''/pct ?/pct ?/pct
 ``/pct N-no/RB ''/pct ./pct
 The/AT boy/NN dropped/VBD his/PPg eyes/NNS ./pct
-``/pct Afraid/JJ you'll /None lose/VB your/PPg job/NN if/CS you/PPSS don't /None keep/VB your/PPg mouth/NN shut/VBN ''/pct ?/pct ?/pct
+``/pct Afraid/JJ you'll/PPSSMD lose/VB your/PPg job/NN if/CS you/PPSS don't/DO* keep/VB your/PPg mouth/NN shut/VBN ''/pct ?/pct ?/pct
 The/AT boy/NN raised/VBD his/PPg eyes/NNS ./pct
 ``/pct Listen/VB ,/pct mister/NP ./pct
 If/CS you/PPSS want/VB my/PPg advice/NN ,/pct pack/VB up/RP and/CC take/VB the/AT next/AP train/NN back/RB to/IN New/JJ York/NP ''/pct ./pct
 ``/pct Were/BED you/PPSS on/IN duty/NN here/RB two/CD weeks/NNS ago/RB ''/pct ?/pct ?/pct
 The/AT boy/NN hesitated/VBD ./pct
-Then/RB ,/pct ``/pct I'm /None not/NEG talking/VBG ./pct
-But/CC I/PPSS wouldn't /None spend/VB a/AT night/NN in/IN here/RB for/IN a/AT million/CD bucks/NNS ''/pct !/pct !/pct
+Then/RB ,/pct ``/pct I'm/PPSSBEM not/NEG talking/VBG ./pct
+But/CC I/PPSS wouldn't/MD* spend/VB a/AT night/NN in/IN here/RB for/IN a/AT million/CD bucks/NNS ''/pct !/pct !/pct
 He/PPS was/BEDZ in/IN a/AT hurry/NN to/TO get/VB out/IN of/IN the/AT room/NN ./pct
 Alec/NP gave/VBD him/PPO a/AT tip/NN and/CC let/VB him/PPO go/VB ./pct
 Alone/RB ,/pct Alec/NP examined/VBD the/AT doors/NNS ./pct
@@ -133,7 +133,7 @@ Alec/NP locked/VBD the/AT hall/NN door/NN and/CC put/VBD the/AT key/NN with/IN h
 It/PPS was/BEDZ just/RB quarter/NN of/IN nine/CD ./pct
 As/CS he/PPS ranged/VBD his/PPg belongings/NNS on/IN the/AT bureau/NN he/PPS noticed/VBD a/AT film/NN of/IN white/JJ dust/NN on/IN the/AT dark/JJ surface/NN of/IN the/AT wood/NN beyond/IN the/AT linen/NN cover/NN ./pct
 Not/NEG gray/JJ like/CS the/AT dust/NN that/WPS collects/VBZ in/IN an/AT unused/JJ room/NN ,/pct but/CC white/JJ ./pct
-Women/NNS didn't /None use/VB white/JJ face/NN powder/NN nowadays/RB ,/pct he/PPS recalled/VBD ./pct
+Women/NNS didn't/DOD* use/VB white/JJ face/NN powder/NN nowadays/RB ,/pct he/PPS recalled/VBD ./pct
 They/PPSS used/VBD pink/JJ ,/pct tan/JJ ,/pct or/CC cream/JJ powder/NN ./pct
 Alec/NP glanced/VBD into/IN the/AT bathroom/NN ./pct
 Blood/NN in/IN the/AT bathtub/NN where/WRB the/AT murderer/NN appears/VBZ to/TO have/HV washed/VBN his/PPg hands/NNS ./pct
@@ -197,11 +197,11 @@ His/PPg lips/NNS were/BED bruised/VBN and/CC swollen/VBN where/WRB Alec/NP had/H
 ``/pct Did/DOD you/PPSS kill/VB Diana/NP Beauclerk/NP ''/pct ?/pct ?/pct
 Alec/NP expected/VBD an/AT indignant/JJ denial/NN ,/pct but/CC there/EX was/BEDZ no/AT response/NN at/IN all/ABN ./pct
 ``/pct Oh/UH ,/pct come/VB on/RP ,/pct snap/VB out/IN of/IN it/PPO !/pct !/pct
-Or/CC I'll /None turn/VB you/PPO over/RP to/IN the/AT police/NNS ''/pct !/pct !/pct
+Or/CC I'll/PPSSMD turn/VB you/PPO over/RP to/IN the/AT police/NNS ''/pct !/pct !/pct
 The/AT silence/NN was/BEDZ getting/VBG on/IN Alec's/NPg nerves/NNS ./pct
 The/AT man/NN opened/VBD his/PPg mouth/NN ,/pct but/CC no/AT words/NNS came/VBD ./pct
 Only/RB that/DT curious/JJ ,/pct animal/NN grunting/NN Alec/NP had/HVD heard/VBN during/IN their/PPg fight/NN ./pct
-``/pct Don't /None you/PPO speak/VB English/NP ''/pct ?/pct ?/pct
+``/pct Don't/DO* you/PPO speak/VB English/NP ''/pct ?/pct ?/pct
 The/AT man/NN opened/VBD his/PPg mouth/NN wider/JJR ./pct
 A/AT forefinger/NN pointed/VBN toward/IN his/PPg gullet/NN ./pct
 Alec/NP leaned/VBD forward/RB to/TO look/VB ./pct

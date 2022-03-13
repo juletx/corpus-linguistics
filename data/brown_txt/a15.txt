@@ -1,4 +1,4 @@
-If/CS the/AT Cardinals/NNS heed/VB Manager/NN Gene/NP Mauch/NP of/IN the/AT Phillies/NPS ,/pct they/PPSS won't /None be/BE misled/VBN by/IN the/AT Pirates'/NNSg slower/JJR start/NN this/DT season/NN ./pct
+If/CS the/AT Cardinals/NNS heed/VB Manager/NN Gene/NP Mauch/NP of/IN the/AT Phillies/NPS ,/pct they/PPSS won't/MD* be/BE misled/VBN by/IN the/AT Pirates'/NNSg slower/JJR start/NN this/DT season/NN ./pct
 ``/pct Pittsburgh/NP definitely/RB is/BEZ the/AT team/NN to/TO beat/VB ''/pct ,/pct Mauch/NP said/VBD here/RB the/AT other/AP day/NN ./pct
 ``/pct The/AT Pirates/NNS showed/VBD they/PPSS could/MD outclass/VB the/AT field/NN last/AP year/NN ./pct
 They/PPSS have/HV the/AT same/AP men/NNS ,/pct no/AT age/NN problem/NN ,/pct no/AT injuries/NNS and/CC they/PPSS also/RB have/HV Vinegar/NN Bend/NN Mizell/NP for/IN the/AT full/JJ season/NN ,/pct along/RB with/IN Bobby/NP Shantz/NP ''/pct ./pct
@@ -13,7 +13,7 @@ After/IN Thursday's/NRg open/JJ date/NN ,/pct Solly/NP plans/VBZ to/TO open/VB w
 Harvey/NP Haddix/NP ,/pct set/VBN back/RB by/IN the/AT flu/NN this/DT season/NN ,/pct will/MD start/VB against/IN his/PPg former/AP Cardinal/NN mates/NNS ,/pct who/WPS might/MD be/BE playing/VBG without/IN captain/NN Kenny/NP Boyer/NP in/IN tonight's/NRg game/NN at/IN Busch/NP Stadium/NN ./pct
 Boyer/NP is/BEZ suffering/VBG from/IN a/AT stiff/JJ neck/NN ./pct
 Haddix/NP has/HVZ a/AT 13-8/CD record/NN against/IN the/AT Redbirds/NPS ,/pct despite/IN only/AP a/AT 1-3/CD mark/NN in/IN 1960/CD ./pct
-Pirate/NN Manager/NN Danny/NP Murtaugh/NP said/VBD he/PPS hadn't /None decided/VBN between/IN Mizell/NP and/CC Vern/NP Law/NN for/IN Wednesday's/NRg game/NN ./pct
+Pirate/NN Manager/NN Danny/NP Murtaugh/NP said/VBD he/PPS hadn't/HVD* decided/VBN between/IN Mizell/NP and/CC Vern/NP Law/NN for/IN Wednesday's/NRg game/NN ./pct
 Mizell/NP has/HVZ won/VBN both/ABX of/IN his/PPg starts/NNS ./pct
 Nieman/NP kept/VBD in/IN lineup/NN ./pct
 After/IN a/AT lengthy/JJ workout/NN yesterday/NR ,/pct an/AT open/JJ date/NN ,/pct Hemus/NP said/VBD that/CS Bob/NP Nieman/NP definitely/RB would/MD stay/VB in/IN the/AT lineup/NN ./pct
@@ -32,8 +32,8 @@ Despite/IN the/AT recession/NN ,/pct Pittsburgh/NP came/VBD into/IN town/NN with
 and/CC Bob/NP Skinner/NP
 Bill/NP Mazeroski/NP with/IN and/CC Hal/NP Smith/NP with/IN were/BED the/AT only/AP Pirates/NNS dragging/VBG their/PPg feet/NNS ./pct
 Perhaps/RB the/AT Pirate/NN who/WPS will/MD be/BE the/AT unhappiest/JJT over/IN the/AT news/NN that/CS Musial/NP probably/RB will/MD sit/VB out/RP most/AP of/IN the/AT series/NN is/BEZ Bob/NP Friend/NP ,/pct who/WPS was/BEDZ beaten/VBN by/IN The/AT Man/NN twice/RB last/AP season/NN on/IN dramatic/JJ home/NN runs/NNS ./pct
-Friend/NP is/BEZ off/RP to/IN a/AT great/JJ start/NN with/IN a/AT 4-0/CD record/NN but/CC isn't /None likely/JJ to/TO see/VB action/NN here/RB this/DT week/NN ./pct
-``/pct We're /None getting/VBG Friend/NP some/DTI runs/NNS for/IN a/AT change/NN ,/pct and/CC he/PPS has/HVZ been/BEN pitching/VBG good/RB ''/pct ,/pct Murtaugh/NP said/VBD ./pct
+Friend/NP is/BEZ off/RP to/IN a/AT great/JJ start/NN with/IN a/AT 4-0/CD record/NN but/CC isn't/BEZ* likely/JJ to/TO see/VB action/NN here/RB this/DT week/NN ./pct
+``/pct We're/PPSSBER getting/VBG Friend/NP some/DTI runs/NNS for/IN a/AT change/NN ,/pct and/CC he/PPS has/HVZ been/BEN pitching/VBG good/RB ''/pct ,/pct Murtaugh/NP said/VBD ./pct
 ``/pct Virdon/NP has/HVZ been/BEN blasting/VBG the/AT ball/NN ./pct
 No/AT plunkers/NNS for/IN him/PPO ''/pct ./pct
 Six/CD Bucs/NPS over/IN ./pct
@@ -56,13 +56,13 @@ In/IN addition/NN ,/pct a/AT special/JJ award/NN was/BEDZ given/VBN to/IN Bob/NP
 The/AT boys/NNS had/HVD a/AT tremendous/JJ respect/NN for/IN each/DT other's/APg ability/NN ./pct
 They/PPSS knew/VBD what/WDT they/PPSS could/MD do/DO and/CC it/PPS was/BEDZ often/RB a/AT little/QL more/AP than/CS I/PPSS thought/VBD they/PPSS could/MD do/DO ./pct
 ``/pct Several/AP times/NNS I/PPSS found/VBD the/AT players/NNS pepping/VBG me/PPO up/RP ,/pct where/WRB it/PPS usually/RB is/BEZ the/AT coach/NN who/WPS is/BEZ supposed/VBN to/TO deliver/VB the/AT fight/NN talk/NN ./pct
-We'd /None be/BE losing/VBG at/IN halftime/NN to/IN a/AT good/JJ team/NN and/CC Hartweger/NP would/MD say/VB ,/pct '/pct Don't /None worry/VB ,/pct Coach/NN --/pct we'll /None get/VB 'em/PPO all/QL right/RB '/pct ''/pct ./pct
+We'd/PPSSMD be/BE losing/VBG at/IN halftime/NN to/IN a/AT good/JJ team/NN and/CC Hartweger/NP would/MD say/VB ,/pct '/pct Don't/DO* worry/VB ,/pct Coach/NN --/pct we'll/PPSSMD get/VB 'em/PPO all/QL right/RB '/pct ''/pct ./pct
 The/AT trio/NN who/WPS shared/VBD the/AT most-valuable/JJ honors/NNS were/BED introduced/VBN by/IN Bob/NP Broeg/NP ,/pct sports/NNS editor/NN of/IN the/AT Post-Dispatch/NP ./pct
 Kieffer/NP ,/pct the/AT only/AP junior/NN in/IN the/AT group/NN ,/pct was/BEDZ commended/VBN for/IN his/PPg ability/NN to/TO hit/VB in/IN the/AT clutch/NN ,/pct as/QL well/RB as/CS his/PPg all-round/JJ excellent/JJ play/NN ./pct
 Mankowski/NP ,/pct the/AT ball-hawking/JJ defensive/JJ expert/NN ,/pct was/BEDZ cited/VBN for/IN his/PPg performance/NN against/IN Bradley/NP in/IN St./NP Louis/NP U.'s/NNg nationally/RB televised/VBN victory/NN ./pct
-Benington/NP said/VBD ,/pct ``/pct I've /None never/RB seen/VBN a/AT player/NN have/HV a/AT game/NN as/QL great/JJ as/CS Mankowski/NP did/DOD against/IN Bradley/NP that/DT day/NN ''/pct ./pct
+Benington/NP said/VBD ,/pct ``/pct I've/PPSSHV never/RB seen/VBN a/AT player/NN have/HV a/AT game/NN as/QL great/JJ as/CS Mankowski/NP did/DOD against/IN Bradley/NP that/DT day/NN ''/pct ./pct
 Benington/NP recalled/VBD that/CS he/PPS once/RB told/VBD Hartweger/NP that/CS he/PPS doubted/VBD Gordon/NP would/MD ever/RB play/VB much/AP for/IN him/PPO because/CS he/PPS seemed/VBD to/TO be/BE lacking/VBG in/IN all/ABN of/IN the/AT accepted/VBN basketball/NN skills/NNS ./pct
-After/CS the/AT coach/NN listed/VBD all/ABN the/AT boy's/NNg faults/NNS ,/pct Hartweger/NP said/VBD ,/pct ``/pct Coach/NN before/CS I/PPSS leave/VB here/RB ,/pct you'll /None get/VB to/TO like/VB me/PPO ''/pct ./pct
+After/CS the/AT coach/NN listed/VBD all/ABN the/AT boy's/NNg faults/NNS ,/pct Hartweger/NP said/VBD ,/pct ``/pct Coach/NN before/CS I/PPSS leave/VB here/RB ,/pct you'll/PPSSMD get/VB to/TO like/VB me/PPO ''/pct ./pct
 Mrs./NP Benington/NP admired/VBD Gordon's/NPg spirit/NN and/CC did/DOD what/WDT she/PPS could/MD to/TO persuade/VB her/PPg husband/NN that/CS the/AT boy/NN might/MD help/VB the/AT team/NN ./pct
 As/CS Hartweger/NP accepted/VBD his/PPg silver/NN bowl/NN ,/pct he/PPS said/VBD ,/pct ``/pct I/PPSS want/VB to/TO thank/VB coach's/NNg wife/NN for/IN talking/VBG him/PPO into/IN letting/VBG me/PPO play/VB ''/pct ./pct
 Bob/NP Burnes/NP ,/pct sports/NNS editor/NN of/IN the/AT Globe-Democrat/NP ,/pct presented/VBD Bob/NP Nordmann/NP with/IN his/PPg award/NN ./pct
@@ -71,7 +71,7 @@ Within/IN a/AT week/NN after/IN the/AT injury/NN ,/pct suffered/VBN in/IN St./NP
 On/IN the/AT clock/NN given/VBN him/PPO was/BEDZ the/AT inscription/NN ,/pct ``/pct For/IN Outstanding/JJ Contribution/NN to/IN Billiken/NP Basketball/NN ,/pct 1960-61/CD ''/pct ./pct
 Other/AP lettermen/NNS from/IN the/AT team/NN that/WPS compiled/VBD a/AT 21-9/CD record/NN and/CC finished/VBD as/CS runner-up/NN in/IN the/AT National/JJ Invitation/NN Tournament/NN were/BED :/pct Art/NP Hambric/NP ,/pct Donnell/NP Reid/NP ,/pct Bill/NP Nordmann/NP ,/pct Dave/NP Harris/NP ,/pct Dave/NP Luechtefeld/NP and/CC George/NP Latinovich/NP ./pct
 ``/pct This/DT team/NN set/VBD a/AT precedent/NN that/WPS could/MD be/BE valuable/JJ in/IN the/AT future/NN ''/pct ,/pct Benington/NP pointed/VBD out/RP ./pct
-``/pct By/IN winning/VBG against/IN Bradley/NP ,/pct Kentucky/NP and/CC Notre/NP Dame/NP on/IN those/DTS teams'/NNSg home/NR courts/NNS ,/pct they/PPSS showed/VBD that/CS the/AT home/NR court/NN advantage/NN can/MD be/BE overcome/VBN anywhere/RB and/CC that/CS it/PPS doesn't /None take/VB a/AT super/JJ team/NN to/TO do/DO it/PPO ''/pct ./pct
+``/pct By/IN winning/VBG against/IN Bradley/NP ,/pct Kentucky/NP and/CC Notre/NP Dame/NP on/IN those/DTS teams'/NNSg home/NR courts/NNS ,/pct they/PPSS showed/VBD that/CS the/AT home/NR court/NN advantage/NN can/MD be/BE overcome/VBN anywhere/RB and/CC that/CS it/PPS doesn't/DOZ* take/VB a/AT super/JJ team/NN to/TO do/DO it/PPO ''/pct ./pct
 St./NP Louis/NP University/NN found/VBD a/AT way/NN to/TO win/VB a/AT baseball/NN game/NN ./pct
 Larry/NP Scherer/NP last/AP night/NN pitched/VBD a/AT no-hit/NN game/NN ,/pct said/VBN to/TO be/BE the/AT first/OD in/IN Billiken/NP baseball/NN history/NN ,/pct as/CS the/AT Blue/JJ and/CC White/JJ beat/VBD Southeast/JJ Missouri/NP State/NN College/NN ,/pct 5-1/CD ,/pct at/IN Crystal/NN City/NN ./pct
 The/AT victory/NN was/BEDZ the/AT first/OD of/IN the/AT season/NN for/IN the/AT Billikens/NPS after/IN nine/CD defeats/NNS and/CC a/AT tie/NN ./pct
@@ -81,20 +81,20 @@ St./NP Louis/NP U./NN was/BEDZ to/TO be/BE in/IN action/NN again/RB today/NR wit
 The/AT game/NN opened/VBD a/AT busy/JJ week/NN for/IN Washington/NP ./pct
 The/AT Bears/NNS are/BER set/VBN to/TO play/VB at/IN Harris/NP Teachers/NNS College/NN at/IN 3:30/CD tomorrow/NR and/CC have/HV a/AT doubleheader/NN at/IN Quincy/NP ,/pct Ill./NP ,/pct Saturday/NR ./pct
 Happy/JJ hitting/VBG
-If/CS it's /None true/JJ that/CS contented/VBN cows/NNS give/VB more/AP milk/NN ,/pct why/WRB shouldn't /None happy/JJ ball/NN players/NNS produce/VB more/AP base/NN hits/NNS ?/pct ?/pct
+If/CS it's/PPSBEZ true/JJ that/CS contented/VBN cows/NNS give/VB more/AP milk/NN ,/pct why/WRB shouldn't/MD* happy/JJ ball/NN players/NNS produce/VB more/AP base/NN hits/NNS ?/pct ?/pct
 The/AT two/CD top/JJS talents/NNS of/IN the/AT time/NN ,/pct Mickey/NP Mantle/NP and/CC Willie/NP Mays/NP ,/pct have/HV hit/VBN the/AT ball/NN harder/RBR and/CC more/QL successfully/RB so/QL far/RB this/DT early/JJ season/NN than/CS at/IN any/DTI period/NN in/IN careers/NNS which/WDT ,/pct to/TO be/BE frank/JJ about/IN it/PPO ,/pct never/RB have/HV quite/RB reached/VBN expectations/NNS ./pct
-And/CC that's /None meant/VBN as/CS a/AT boost/NN ,/pct not/NEG a/AT knock/NN ./pct
-Mays/NP and/CC Mantle/NP ,/pct both/ABX 10-year/JJ men/NNS at/IN 30/CD ,/pct have/HV so/QL much/AP ability/NN that/CS ,/pct baseball/NN men/NNS agree/VB ,/pct they've /None never/RB hit/VBN the/AT heights/NNS ./pct
+And/CC that's/DTBEZ meant/VBN as/CS a/AT boost/NN ,/pct not/NEG a/AT knock/NN ./pct
+Mays/NP and/CC Mantle/NP ,/pct both/ABX 10-year/JJ men/NNS at/IN 30/CD ,/pct have/HV so/QL much/AP ability/NN that/CS ,/pct baseball/NN men/NNS agree/VB ,/pct they've/PPSSHV never/RB hit/VBN the/AT heights/NNS ./pct
 Their/PPg heights/NNS ,/pct that/DT is/BEZ ./pct
 Mantle/NP ,/pct the/AT bull-necked/JJ blond/JJ switch-hitter/NN ,/pct had/HVD one/CD sensational/JJ triple-crown/NN season/NN ,/pct 1959/CD ,/pct when/WRB he/PPS batted/VBD and/CC also/RB led/VBD the/AT American/JJ League/NN in/IN home/NN runs/NNS ,/pct 52/CD ,/pct and/CC rbi's/NNS ,/pct 130/CD ./pct
 Like/CS the/AT Yankees'/NPSg slugger/NN ,/pct Mays/NP ,/pct the/AT terror/NN of/IN the/AT Giants/NNS ,/pct has/HVZ had/HVN seasons/NNS that/WPS would/MD be/BE considered/VBN the/AT ultimate/JJ by/IN most/AP players/NNS ,/pct but/CC not/NEG by/IN --/pct or/CC for/IN --/pct Willie/NP ./pct
 His/PPg best/JJT years/NNS were/BED 1954/CD when/WRB he/PPS hit/VBD with/IN 41/CD homers/NNS and/CC '55/CD when/WRB he/PPS belted/VBD 51/CD home/NN runs/NNS ,/pct drove/VBD in/RP 127/CD and/CC stole/VBD 24/CD bases/NNS ./pct
-Now/RB ,/pct apparently/RB happier/JJR under/IN new/JJ managers/NNS ,/pct Mays/NP and/CC Mantle/NP ,/pct the/AT perfect/JJ players/NNS ,/pct are/BER behaving/VBG as/CS though/CS they're /None going/VBG to/TO pass/VB those/DTS previous/JJ peaks/NNS ./pct
+Now/RB ,/pct apparently/RB happier/JJR under/IN new/JJ managers/NNS ,/pct Mays/NP and/CC Mantle/NP ,/pct the/AT perfect/JJ players/NNS ,/pct are/BER behaving/VBG as/CS though/CS they're/PPSSBER going/VBG to/TO pass/VB those/DTS previous/JJ peaks/NNS ./pct
 Labor/NN relations/NNS
-Yes/RB ,/pct we/PPSS know/VB ,/pct they're /None professionals/NNS ,/pct men/NNS paid/VBN to/TO play/VB ,/pct and/CC they/PPSS shouldn't /None care/VB how/WRB they're /None handled/VBN ,/pct just/RB as/QL long/RB as/CS their/PPg names/NNS are/BER spelled/VBN correctly/RB on/IN the/AT first/OD and/CC fifteenth/OD of/IN each/DT month/NN ./pct
+Yes/RB ,/pct we/PPSS know/VB ,/pct they're/PPSSBER professionals/NNS ,/pct men/NNS paid/VBN to/TO play/VB ,/pct and/CC they/PPSS shouldn't/MD* care/VB how/WRB they're/PPSSBER handled/VBN ,/pct just/RB as/QL long/RB as/CS their/PPg names/NNS are/BER spelled/VBN correctly/RB on/IN the/AT first/OD and/CC fifteenth/OD of/IN each/DT month/NN ./pct
 The/AT truth/NN is/BEZ ,/pct though/RB ,/pct that/CS men/NNS react/VB differently/RB to/IN different/JJ treatment/NN ./pct
 For/IN that/DT matter/NN ,/pct Stan/NP Musial/NP is/BEZ rare/JJ ,/pct possessing/VBG the/AT disposition/NN that/WPS enabled/VBD him/PPO to/TO put/VB out/RP the/AT same/AP for/IN seven/CD managers/NNS ,/pct reserving/VBG his/PPg opinions/NNS ,/pct but/CC not/NEG his/PPg effort/NN ./pct
-Mantle/NP ,/pct it's /None apparent/JJ ,/pct resented/VBD Casey/NP Stengel's/NPg attempts/NNS to/TO push/VB and/CC prod/VB him/PPO into/IN the/AT perfection/NN the/AT veteran/NN manager/NN saw/VBD as/CS a/AT thrilling/JJ possibility/NN ./pct
+Mantle/NP ,/pct it's/PPSBEZ apparent/JJ ,/pct resented/VBD Casey/NP Stengel's/NPg attempts/NNS to/TO push/VB and/CC prod/VB him/PPO into/IN the/AT perfection/NN the/AT veteran/NN manager/NN saw/VBD as/CS a/AT thrilling/JJ possibility/NN ./pct
 The/AT old/JJ man/NN was/BEDZ almost/RB too/QL possessive/JJ ./pct
 Stengel/NP inherited/VBD DiMaggio/NP ,/pct Rizzuto/NP ,/pct but/CC he/PPS brought/VBD up/RP Mantle/NP from/IN Class/NN C/NP to/IN the/AT majors/NNS ,/pct from/IN Joplin/NP to/IN New/JJ York/NP ./pct
 With/IN the/AT speed/NN and/CC power/NN of/IN the/AT body/NN beautiful/JJ he/PPS saw/VBD before/IN him/PPO ,/pct Ol'/JJ Case/NP wanted/VBD No./NN 7/CD to/TO be/BE not/NEG only/RB the/AT best/JJT homerun/NN hitter/NN ,/pct but/CC also/RB the/AT best/JJT bunter/NN ,/pct base-runner/NN and/CC outfielder/NN ./pct

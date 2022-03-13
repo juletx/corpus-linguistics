@@ -41,7 +41,7 @@ The/AT last/AP two/CD were/BED a/AT red/JJ and/CC a/AT black/JJ chow/NN ./pct
 Rob/NP Roy/NP remained/VBD boss/NN of/IN all/ABN the/AT dogs/NNS ./pct
 He/PPS showed/VBD them/PPO what/WDT to/TO do/DO ,/pct and/CC taught/VBD them/PPO how/WRB to/TO keep/VB the/AT maids/NNS around/IN the/AT White/JJ House/NN in/IN a/AT state/NN of/IN terror/NN ./pct
 The/AT dogs/NNS would/MD run/VB through/IN the/AT halls/NNS after/IN him/PPO like/CS a/AT burst/NN of/IN bullets/NNS ,/pct and/CC all/ABN the/AT maids/NNS would/MD run/VB for/IN cover/NN ./pct
-Mama/NN didn't /None know/VB what/WDT to/TO do/DO --/pct whether/CS to/TO tell/VB on/IN Rob/NP Roy/NP or/CC not/NEG --/pct since/CS she/PPS had/HVD the/AT ear/NN of/IN Mrs./NP Coolidge/NP more/RBR than/CS the/AT other/AP maids/NNS ./pct
+Mama/NN didn't/DOD* know/VB what/WDT to/TO do/DO --/pct whether/CS to/TO tell/VB on/IN Rob/NP Roy/NP or/CC not/NEG --/pct since/CS she/PPS had/HVD the/AT ear/NN of/IN Mrs./NP Coolidge/NP more/RBR than/CS the/AT other/AP maids/NNS ./pct
 But/CC she/PPS was/BEDZ afraid/JJ the/AT First/OD Lady/NN would/MD not/NEG understand/VB ,/pct because/CS Rob/NP Roy/NP was/BEDZ a/AT perfect/JJ angel/NN with/IN the/AT First/OD Family/NN ./pct
 Every/AT day/NN ,/pct when/WRB the/AT President/NN took/VBD his/PPg nap/NN ,/pct Rob/NP Roy/NP would/MD stretch/VB out/RP on/IN the/AT window/NN seat/NN near/IN him/PPO ,/pct like/CS a/AT perfect/JJ gentleman/NN ,/pct and/CC stare/VB thoughtfully/RB out/IN the/AT window/NN ,/pct or/CC he/PPS would/MD take/VB a/AT little/JJ nap/NN himself/PPL ./pct
 He/PPS would/MD not/NEG make/VB a/AT sound/NN until/CS the/AT President/NN had/HVD wakened/VBN and/CC left/VBN for/IN the/AT office/NN ;/pct ;/pct

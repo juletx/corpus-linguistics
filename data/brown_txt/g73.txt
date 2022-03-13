@@ -76,7 +76,7 @@ Perhaps/RB tracing/VBG some/DTI of/IN these/DTS more/QL important/JJ symbols/NNS
 Henry/NP Miller/NP characterized/VBD Patchen/NP as/CS a/AT ``/pct man/NN of/IN anger/NN and/CC light/NN ''/pct ./pct
 His/PPg revolutionary/JJ anger/NN is/BEZ apparent/JJ in/IN most/AP of/IN his/PPg early/JJ poems/NNS ./pct
 The/AT following/VBG passage/NN from/IN ``/pct The/AT Hangman's/NNg Great/JJ Hands/NNS ''/pct illustrates/VBZ the/AT directness/NN of/IN this/DT anger/NN ./pct
-``/pct Anger/NN won't /None help/VB ./pct
+``/pct Anger/NN won't/MD* help/VB ./pct
 I/PPSS was/BEDZ born/VBN angry/JJ ./pct
 Angry/JJ that/CS my/PPg father/NN was/BEDZ being/BEG burnt/VBN alive/JJ in/IN the/AT mills/NNS ;/pct ;/pct
 Angry/JJ that/CS none/PN of/IN us/PPO knew/VBD anything/PN but/IN filth/NN and/CC poverty/NN ./pct
@@ -85,11 +85,11 @@ This/DT angry/JJ and/CC exasperated/VBN stance/NN which/WDT Patchen/NP has/HVZ m
 In/IN his/PPg recent/JJ book/NN ,/pct Hurray/UH For/IN Anything/PN (/pct 1957/CD )/pct ,/pct one/CD of/IN the/AT most/QL important/JJ short/JJ poems/NNS --/pct and/CC it/PPS is/BEZ the/AT title/NN poem/NN for/IN one/CD of/IN the/AT long/JJ jazz/NN arrangements/NNS --/pct is/BEZ written/VBN for/IN recital/NN with/IN jazz/NN ./pct
 Although/CS it/PPS does/DOZ not/NEG follow/VB the/AT metrical/JJ rules/NNS for/IN a/AT blues/NNS to/TO be/BE sung/VBN ,/pct the/AT phrases/NNS themselves/PPLS carry/VB a/AT blues/NNS feeling/NN ./pct
 ``/pct I/PPSS went/VBD to/IN the/AT city/NN And/CC there/RB I/PPSS did/DOD Weep/VB ,/pct Men/NNS a-crowing/VBG like/CS asses/NNS ,/pct And/CC living/VBG like/CS sheep/NNS ./pct
-Oh/UH ,/pct can't /None hold/VB the/AT han'/NN of/IN my/PPg love/NN !/pct !/pct
-Can't /None hold/VB her/PPg little/JJ white/JJ han'/NN !/pct !/pct
+Oh/UH ,/pct can't/MD* hold/VB the/AT han'/NN of/IN my/PPg love/NN !/pct !/pct
+Can't/MD* hold/VB her/PPg little/JJ white/JJ han'/NN !/pct !/pct
 Yes/RB ,/pct I/PPSS went/VBD to/IN the/AT city/NN ,/pct And/CC there/RB I/PPSS did/DOD bitterly/RB cry/VB ,/pct Men/NNS out/RP of/IN touch/NN with/IN the/AT earth/NN ,/pct And/CC with/IN never/RB a/AT glance/NN at/IN the/AT sky/NN ./pct
-Oh/UH ,/pct can't /None hold/VB the/AT han'/NN of/IN my/PPg love/NN !/pct !/pct
-Can't /None hold/VB her/PPg pure/JJ little/JJ han'/NN !/pct !/pct
+Oh/UH ,/pct can't/MD* hold/VB the/AT han'/NN of/IN my/PPg love/NN !/pct !/pct
+Can't/MD* hold/VB her/PPg pure/JJ little/JJ han'/NN !/pct !/pct
 ''/pct Patchen/NP is/BEZ still/RB the/AT rebel/NN ,/pct but/CC he/PPS writes/VBZ in/IN a/AT doleful/JJ ,/pct mournful/JJ tone/NN ./pct
 Neither/DTX of/IN these/DTS poems/NNS is/BEZ an/AT aberration/NN ;/pct ;/pct
 each/DT is/BEZ so/QL typical/JJ that/CS it/PPS represents/VBZ a/AT prominent/JJ trend/NN in/IN the/AT poet's/NNg development/NN ./pct

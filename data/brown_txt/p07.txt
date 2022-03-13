@@ -49,7 +49,7 @@ Three/CD days/NNS had/HVD passed/VBN since/IN Spencer's/NPg arrest/NN and/CC eac
 Gansevoort/NP said/VBD ,/pct ``/pct It/PPS requires/VBZ an/AT omniscient/JJ eye/NN to/TO select/VB those/DTS if/CS any/DTI on/IN whom/WPO we/PPSS can/MD now/RB rely/VB ./pct
 To/TO have/HV the/AT Greek/JJ paper/NN is/BEZ not/NEG the/AT great/JJ help/NN that/CS at/IN first/OD flush/NN it/PPS seemed/VBD ./pct
 From/IN actions/NNS aboard/RB ,/pct it/PPS is/BEZ easy/JJ to/TO guess/VB that/CS Spencer's/NPg boast/NN of/IN twenty/CD staunch/JJ followers/NNS was/BEDZ a/AT modest/JJ estimate/NN ''/pct ./pct
-``/pct Well/UH ''/pct ,/pct Heiser/NP ventured/VBD ,/pct ``/pct why/WRB don't /None we/PPSS hold/VB an/AT investigation/NN with/IN questioning/VBG and/CC ''/pct --/pct
+``/pct Well/UH ''/pct ,/pct Heiser/NP ventured/VBD ,/pct ``/pct why/WRB don't/DO* we/PPSS hold/VB an/AT investigation/NN with/IN questioning/VBG and/CC ''/pct --/pct
 ``/pct That/DT would/MD be/BE worse/JJR than/CS useless/JJ ''/pct ,/pct Alexander/NP broke/VBD in/RP ./pct
 ``/pct There/EX is/BEZ not/NEG space/NN to/TO hold/VB or/CC force/NN to/TO guard/VB any/DTI increased/VBN number/NN of/IN prisoners/NNS ./pct
 Besides/RB ,/pct suppose/VB we/PPSS hold/VB a/AT court/NN of/IN inquiry/NN ,/pct then/RB what/WDT ?/pct ?/pct
@@ -104,7 +104,7 @@ Captain/NN ,/pct I/PPSS am/BEM innocent/JJ of/IN any/DTI plot/NN against/IN you/
 Before/IN God/NP I/PPSS swear/VB I/PPSS am/BEM innocent/JJ ./pct
 I/PPSS know/VB nothing/PN of/IN any/DTI plot/NN ,/pct if/CS there/EX is/BEZ such/ABL a/AT thing/NN ''/pct ./pct
 ``/pct You/PPSS are/BER the/AT only/AP man/NN aboard/RB who/WPS can/MD be/BE in/IN doubt/NN ''/pct ./pct
-``/pct I/PPSS cannot /None speak/VB for/IN others/NNS ,/pct sir/NN ,/pct but/CC I/PPSS am/BEM innocent/JJ ''/pct ./pct
+``/pct I/PPSS cannot/MD* speak/VB for/IN others/NNS ,/pct sir/NN ,/pct but/CC I/PPSS am/BEM innocent/JJ ''/pct ./pct
 He/PPS leaned/VBD closer/RBR to/IN Alexander/NP ,/pct squinting/VBG up/RP at/IN him/PPO from/IN the/AT deck/NN ./pct
 ``/pct Surely/RB ,/pct Captain/NN ,/pct you/PPSS did/DOD not/NEG find/VB my/PPg name/NN on/IN any/DTI suspicious/JJ paper/NN or/CC anything/PN ''/pct ./pct
 ``/pct No/RB ,/pct Cromwell/NP ,/pct I/PPSS did/DOD not/NEG find/VB your/PPg name/NN ./pct
@@ -131,7 +131,7 @@ The/AT hazel/NN eyes/NNS met/VBD Alexander's/NPg ./pct
 ``/pct Yes/RB ./pct
 I/PPSS have/HV nothing/PN to/TO gain/VB by/IN defending/VBG Cromwell/NP ''/pct ./pct
 ``/pct Nothing/PN to/TO lose/VB ,/pct either/RB ,/pct Spencer/NP ''/pct ./pct
-``/pct That's /None true/JJ ''/pct ,/pct Spencer/NP agreed/VBD and/CC withdrew/VBD himself/PPL from/IN the/AT conversation/NN ./pct
+``/pct That's/DTBEZ true/JJ ''/pct ,/pct Spencer/NP agreed/VBD and/CC withdrew/VBD himself/PPL from/IN the/AT conversation/NN ./pct
 His/PPg eyes/NNS went/VBD back/RB to/IN contemplation/NN of/IN the/AT sea/NN ./pct
 ``/pct I/PPSS am/BEM innocent/JJ ,/pct Captain/NN ''/pct ,/pct Cromwell/NP said/VBD again/RB ./pct
 ``/pct Before/IN God/NP ,/pct Captain/NN ,/pct I/PPSS am/BEM innocent/JJ ''/pct ./pct

@@ -11,7 +11,7 @@ Just/RB the/AT barest/JJT suggestion/NN of/IN a/AT heel/NN is/BEZ found/VBN on/I
 Coolest/JJT shade/NN
 While/CS white/JJ is/BEZ the/AT coolest/JJT summer/NN shade/NN ,/pct there/EX are/BER lots/NNS of/IN pastel/NN hues/NNS along/IN with/IN tintable/JJ fabrics/NNS that/WPS will/MD blend/VB with/IN any/DTI wardrobe/NN color/NN ./pct
 In/IN the/AT tintable/JJ group/NN are/BER high/JJ and/CC little/JJ heels/NNS ,/pct squared/VBN and/CC oval/JJ throats/NNS ,/pct and/CC shantung-like/JJ textures/NNS ./pct
-Don't /None overlook/VB the/AT straws/NNS this/DT year/NN ./pct
+Don't/DO* overlook/VB the/AT straws/NNS this/DT year/NN ./pct
 They/PPSS come/VB in/IN crisp/JJ basket/NN weaves/NNS in/IN natural/JJ honey/NN hues/NNS ,/pct along/IN with/IN lacey/JJ open/JJ weaves/NNS with/IN a/AT lustre/NN finish/NN in/IN natural/JJ ,/pct white/JJ ,/pct black/JJ and/CC a/AT whole/JJ range/NN of/IN colors/NNS ./pct
 In/IN the/AT casual/JJ field/NN straws/NNS feature/VB wedge/NN heels/NNS of/IN cork/NN or/CC carved/VBN wood/NN in/IN a/AT variety/NN of/IN styles/NNS ./pct
 For/IN added/VBN comfort/NN some/DTI of/IN the/AT Italian/JJ designed/VBD sandals/NNS have/HV foam/NN padded/VBN cushioning/NN ./pct
@@ -73,7 +73,7 @@ The/AT cholesterol/NN level/NN in/IN the/AT blood/NN is/BEZ influenced/VBN by/IN
 It/PPS is/BEZ low/JJ when/WRB the/AT thyroid/NN is/BEZ overactive/JJ and/CC high/JJ when/WRB the/AT gland/NN is/BEZ sluggish/JJ ./pct
 The/AT latter/AP is/BEZ likely/JJ to/TO occur/VB when/WRB the/AT thyroid/NN is/BEZ removed/VBN ./pct
 The/AT gap/NN between/IN the/AT bookshelf/NN and/CC the/AT record/NN cabinet/NN grows/VBZ smaller/JJR with/IN each/DT new/JJ recording/NN catalogue/NN ./pct
-There's /None more/AP reading/NN and/CC instruction/NN to/TO be/BE heard/VBN on/IN discs/NNS than/CS ever/RB before/RB ,/pct although/CS the/AT spoken/VBN rather/IN than/IN the/AT sung/VBN word/NN is/BEZ as/QL old/JJ as/CS Thomas/NP Alva/NP Edison's/NPg first/OD experiment/NN in/IN recorded/VBN sound/NN ./pct
+There's/EXBEZ more/AP reading/NN and/CC instruction/NN to/TO be/BE heard/VBN on/IN discs/NNS than/CS ever/RB before/RB ,/pct although/CS the/AT spoken/VBN rather/IN than/IN the/AT sung/VBN word/NN is/BEZ as/QL old/JJ as/CS Thomas/NP Alva/NP Edison's/NPg first/OD experiment/NN in/IN recorded/VBN sound/NN ./pct
 Edison/NP could/MD hardly/RB have/HV guessed/VBN ,/pct however/WRB ,/pct that/CS Sophocles/NP would/MD one/CD day/NN appear/VB in/IN stereo/NN ./pct
 If/CS the/AT record/NN buyer's/NNg tastes/NNS are/BER somewhat/QL eclectic/JJ or/CC even/RB the/AT slightest/JJT bit/NN esoteric/JJ ,/pct he/PPS will/MD find/VB them/PPO satisfied/VBN on/IN educational/JJ records/NNS ./pct
 And/CC he/PPS will/MD avoid/VB eye-strain/NN in/IN the/AT process/NN ./pct
@@ -82,7 +82,7 @@ For/IN sheer/JJ ambition/NN ,/pct take/VB the/AT Decca/NP series/NN titled/VBN m
 Volumes/NNS One/CD and/CC Two/CD ,/pct selected/VBN from/IN the/AT sound/NN tracks/NNS of/IN a/AT television/NN series/NN ,/pct contain/VB ``/pct conversations/NNS with/IN the/AT elder/JJR wise/JJ men/NNS of/IN our/PPg day/NN ''/pct ./pct
 These/DTS sages/NNS include/VB poet/NN Carl/NP Sandburg/NP ,/pct statesman/NN Jawaharlal/NP Nehru/NP and/CC sculptor/NN Jacques/NP Lipchitz/NP ,/pct in/IN Volume/NN One/CD ,/pct and/CC playwright/NN Sean/NP O'Casey/NP ,/pct David/NP Ben-Gurion/NP ,/pct philosopher/NN Bertrand/NP Russell/NP and/CC the/AT late/JJ Frank/NP Lloyd/NP Wright/NP in/IN the/AT second/OD set/NN ./pct
 Hugh/NP Downs/NP is/BEZ heard/VBN interviewing/VBG Wright/NP ,/pct for/IN an/AT added/VBN prestige/NN fillip/NN ./pct
-There's /None more/AP specialization/NN and/CC a/AT narrower/JJR purpose/NN in/IN two/CD albums/NNS recently/RB issued/VBN by/IN Dover/NP Publications/NNS ./pct
+There's/EXBEZ more/AP specialization/NN and/CC a/AT narrower/JJR purpose/NN in/IN two/CD albums/NNS recently/RB issued/VBN by/IN Dover/NP Publications/NNS ./pct
 Dover/NP ``/pct publishes/VBZ ''/pct what/WDT the/AT company/NN calls/VBZ ``/pct Listen/VB And/CC Learn/VB ''/pct Productions/NNS designed/VBN to/TO teach/VB foreign/JJ languages/NNS ./pct
 Previous/JJ presentations/NNS have/HV been/BEN on/IN French/JJ ,/pct Spanish/JJ ,/pct Russian/NP ,/pct Italian/NP ,/pct German/NP and/CC Japanese/NP ./pct
 But/CC the/AT firm/NN has/HVZ recognized/VBN the/AT tight/JJ dollar/NN and/CC the/AT tourist's/NNg desire/NN to/TO visit/VB the/AT ``/pct smaller/JJR ,/pct less-traveled/JJ and/CC relatively/QL inexpensive/JJ countries/NNS ''/pct ,/pct and/CC is/BEZ now/RB prepared/VBN to/TO teach/VB modern/JJ Greek/NP and/CC Portuguese/NP through/IN recordings/NNS ./pct
@@ -115,29 +115,29 @@ But/CC explanations/NNS leave/VB him/PPO confused/VBN and/CC unmoved/JJ ./pct
 If/CS his/PPg mother/NN loves/VBZ him/PPO ,/pct he/PPS clings/VBZ to/IN that/DT love/NN as/CS a/AT ballast/NN ./pct
 It/PPS motivates/VBZ his/PPg behavior/NN ./pct
 He/PPS wants/VBZ Mommy/NP to/TO think/VB him/PPO a/AT good/JJ boy/NN ./pct
-He/PPS doesn't /None want/VB her/PPO to/TO look/VB frowningly/RB at/IN him/PPO ,/pct or/CC speak/VB to/IN him/PPO angrily/RB ./pct
+He/PPS doesn't/DOZ* want/VB her/PPO to/TO look/VB frowningly/RB at/IN him/PPO ,/pct or/CC speak/VB to/IN him/PPO angrily/RB ./pct
 This/DT breaks/VBZ his/PPg heart/NN ./pct
 He/PPS wants/VBZ to/TO be/BE called/VBN sweet/JJ ,/pct good/JJ ,/pct considerate/JJ and/CC mother's/NNg little/JJ helper/NN ./pct
 But/CC even/RB mother's/NNg loving/VBG attitude/NN will/MD not/NEG always/RB prevent/VB misbehavior/NN ./pct
 His/PPg desires/NNS are/BER so/QL strong/JJ that/CS he/PPS needs/VBZ constant/JJ reassurance/NN of/IN his/PPg mother's/NNg love/NN for/IN him/PPO and/CC what/WDT she/PPS expects/VBZ of/IN him/PPO ,/pct in/IN order/NN to/TO overcome/VB them/PPO ./pct
 His/PPg own/JJ inner/JJ voice/NN ,/pct which/WDT should/MD tell/VB him/PPO what/WDT not/NEG to/TO do/DO ,/pct has/HVZ not/NEG developed/VBN ./pct
-It/PPS won't /None develop/VB until/CS he/PPS has/HVZ words/NNS with/IN which/WDT to/TO clothe/VB it/PPO ./pct
+It/PPS won't/MD* develop/VB until/CS he/PPS has/HVZ words/NNS with/IN which/WDT to/TO clothe/VB it/PPO ./pct
 The/AT conscience/NN is/BEZ non-existent/JJ in/IN the/AT 2-year-old/NN ./pct
 What/WDT can/MD a/AT mother/NN do/DO then/RB to/TO prevent/VB misbehavior/NN ?/pct ?/pct
 She/PPS can/MD decrease/VB the/AT number/NN of/IN temptations/NNS ./pct
 She/PPS can/MD remove/VB all/ABN knick-knacks/NNS within/IN reach/NN ./pct
 The/AT fewer/JJR nos/NNS she/PPS has/HVZ to/TO utter/VB the/AT more/QL effective/JJ they/PPSS will/MD be/BE ./pct
 She/PPS should/MD offer/VB substitutes/NNS for/IN the/AT temptations/NNS which/WDT seem/VB overwhelmingly/RB desirable/JJ to/IN the/AT child/NN ./pct
-If/CS he/PPS can't /None play/VB with/IN Mommy's/NPg magazines/NNS ,/pct he/PPS should/MD have/HV some/DTI old/JJ numbers/NNS of/IN his/PPg own/JJ ./pct
+If/CS he/PPS can't/MD* play/VB with/IN Mommy's/NPg magazines/NNS ,/pct he/PPS should/MD have/HV some/DTI old/JJ numbers/NNS of/IN his/PPg own/JJ ./pct
 If/CS Daddy's/NNg books/NNS are/BER out/IN of/IN bounds/NNS his/PPg own/JJ picture/NN books/NNS are/BER not/NEG ./pct
 Toys/NNS he/PPS has/HVZ can/MD be/BE made/VBN to/TO act/VB as/CS substitutes/NNS for/IN family/NN temptations/NNS such/JJ as/CS refrigerator/NN and/CC gas/NN stove/NN ./pct
 During/IN this/DT precarious/JJ period/NN of/IN development/NN the/AT mother/NN should/MD continue/VB to/TO influence/VB the/AT growth/NN of/IN the/AT child's/NNg conscience/NN ./pct
 She/PPS tells/VBZ him/PPO of/IN the/AT consequences/NNS of/IN his/PPg behavior/NN ./pct
-If/CS he/PPS bites/VBZ a/AT playmate/NN she/PPS says/VBZ ,/pct ``/pct Danny/NP won't /None like/VB you/PPO ''/pct ./pct
+If/CS he/PPS bites/VBZ a/AT playmate/NN she/PPS says/VBZ ,/pct ``/pct Danny/NP won't/MD* like/VB you/PPO ''/pct ./pct
 If/CS he/PPS snatches/VBZ a/AT toy/NN ,/pct she/PPS says/VBZ ,/pct ``/pct Caroline/NP wants/VBZ her/PPg own/JJ truck/NN just/RB as/CS you/PPSS do/DO ''/pct ./pct
 There/EX is/BEZ no/AT use/NN trying/VBG to/IN ``/pct Explain/VB ''/pct to/IN a/AT 2-year-old/NN ./pct
 Actions/NNS speak/VB louder/RBR ./pct
 Remove/VB temptations/NNS ./pct
 Remove/VB the/AT child/NN from/IN the/AT scene/NN of/IN his/PPg misbehavior/NN ./pct
 Substitute/VB approved/VBN objects/NNS for/IN forbidden/VBN ones/NNS and/CC keep/VB telling/VBG him/PPO how/WRB he/PPS is/BEZ to/TO act/VB ./pct
-He/PPS won't /None submit/VB to/IN his/PPg natural/JJ desires/NNS all/ABN the/AT time/NN ,/pct and/CC it's /None Mother's/NNg love/NN that/WPS is/BEZ responsible/JJ for/IN his/PPg good/JJ behavior/NN ./pct
+He/PPS won't/MD* submit/VB to/IN his/PPg natural/JJ desires/NNS all/ABN the/AT time/NN ,/pct and/CC it's/PPSBEZ Mother's/NNg love/NN that/WPS is/BEZ responsible/JJ for/IN his/PPg good/JJ behavior/NN ./pct

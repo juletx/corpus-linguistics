@@ -41,7 +41,7 @@ Land/NN reform/NN is/BEZ likely/JJ to/TO be/BE a/AT pressing/VBG issue/NN in/IN 
 It/PPS should/MD be/BE American/JJ policy/NN not/NEG only/RB to/TO encourage/VB effective/JJ land/NN reform/NN programs/NNS but/CC also/RB to/TO underline/VB the/AT relation/NN of/IN such/JJ reforms/NNS to/IN the/AT economic/JJ growth/NN and/CC modernization/NN of/IN the/AT society/NN ./pct
 As/CS an/AT isolated/VBN policy/NN ,/pct land/NN reform/NN is/BEZ likely/JJ to/TO be/BE politically/RB disruptive/JJ ;/pct ;/pct
 as/CS part/NN of/IN a/AT larger/JJR development/NN effort/NN ,/pct however/RB ,/pct it/PPS may/MD gain/VB wide/JJ acceptance/NN ./pct
-It/PPS should/MD also/RB be/BE recognized/VBN that/CS the/AT problem/NN of/IN rural/JJ tenancy/NN cannot /None be/BE solved/VBN by/IN administrative/JJ decrees/NNS alone/RB ./pct
+It/PPS should/MD also/RB be/BE recognized/VBN that/CS the/AT problem/NN of/IN rural/JJ tenancy/NN cannot/MD* be/BE solved/VBN by/IN administrative/JJ decrees/NNS alone/RB ./pct
 Land/NN reform/NN programs/NNS need/VB to/TO be/BE supplemented/VBN with/IN programs/NNS for/IN promoting/VBG rural/JJ credits/NNS and/CC technical/JJ assistance/NN in/IN agriculture/NN ./pct
 Lastly/RB ,/pct governmental/JJ and/CC private/JJ planners/NNS will/MD at/IN this/DT stage/NN begin/VB to/TO see/VB large/JJ capital/NN requirements/NNS looming/VBG ahead/RB ./pct
 By/IN holding/VBG out/RP prospects/NNS for/IN external/JJ capital/NN assistance/NN ,/pct the/AT United/VBN States/NNS can/MD provide/VB strong/JJ incentives/NNS to/TO prepare/VB for/IN the/AT concerted/JJ economic/JJ drive/NN necessary/JJ to/TO achieve/VB self-sustaining/JJ growth/NN ./pct

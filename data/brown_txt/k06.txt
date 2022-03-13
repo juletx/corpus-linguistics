@@ -33,7 +33,7 @@ His/PPg mother/NN was/BEDZ nudging/VBG him/PPO ,/pct but/CC he/PPS was/BEDZ stil
 His/PPg head/NN hung/VBD over/IN the/AT boards/NNS of/IN Katie's/NPg stall/NN ;/pct ;/pct
 before/IN it/PPO was/BEDZ sprawled/VBN the/AT mangled/VBN corpse/NN of/IN the/AT bearded/JJ stranger/NN ./pct
 ``/pct Stevie/NP ,/pct wake/VB up/RP now/RB !/pct !/pct
-We're /None nearly/RB there/RB ''/pct ./pct
+We're/PPSSBER nearly/RB there/RB ''/pct ./pct
 He/PPS had/HVD been/BEN dreaming/VBG ./pct
 He/PPS was/BEDZ safe/JJ in/IN his/PPg Mama's/NNg arms/NNS ./pct
 The/AT train/NN had/HVD slowed/VBN ./pct
@@ -62,11 +62,11 @@ There/EX was/BEDZ the/AT slate/NN roof/NN of/IN the/AT church/NN ;/pct ;/pct
 ivy/NN climbed/VBD the/AT red/JJ brick/NN walls/NNS like/CS a/AT green-scaled/JJ monster/NN ./pct
 The/AT clock/NN which/WDT had/HVD struck/VBN presented/VBD an/AT innocent/JJ face/NN ./pct
 In/IN the/AT kitchen/NN Mama/NN was/BEDZ wiping/VBG the/AT cupboards/NNS ./pct
-``/pct There's /None a/AT tower/NN and/CC a/AT steeple/NN on/IN the/AT church/NN a/AT million/CD feet/NNS high/JJ ./pct
+``/pct There's/EXBEZ a/AT tower/NN and/CC a/AT steeple/NN on/IN the/AT church/NN a/AT million/CD feet/NNS high/JJ ./pct
 And/CC the/AT loudest/JJT clock/NN in/IN the/AT whole/JJ world/NN ''/pct !/pct !/pct
 ``/pct I/PPSS know/VB ,/pct Stephen/NP ''/pct ,/pct she/PPS smiled/VBD ./pct
 ``/pct They/PPSS say/VB that/CS our/PPg steeple/NN is/BEZ one/CD hundred/CD and/CC sixty-two/CD feet/NNS high/JJ ./pct
-The/AT clock/NN you/PPSS heard/VBD strike/NN --/pct it's /None really/RB the/AT town/NN clock/NN --/pct was/BEDZ installed/VBN last/AP April/NP by/IN Mrs./NP Shorter/NP ,/pct on/IN her/PPg birthday/NN ''/pct ./pct
+The/AT clock/NN you/PPSS heard/VBD strike/NN --/pct it's/PPSBEZ really/RB the/AT town/NN clock/NN --/pct was/BEDZ installed/VBN last/AP April/NP by/IN Mrs./NP Shorter/NP ,/pct on/IN her/PPg birthday/NN ''/pct ./pct
 He/PPS dressed/VBD ,/pct and/CC sped/VBD outdoors/RB ./pct
 He/PPS crossed/VBD Broome/NP Street/NN to/IN Orange/NP Square/NN ./pct
 The/AT steeple/NN leaned/VBD backward/RB ,/pct while/CS the/AT church/NN advanced/VBD like/CS a/AT headless/JJ creature/NN in/IN a/AT long/JJ ,/pct shapeless/JJ coat/NN ./pct
@@ -98,15 +98,15 @@ However/RB ,/pct a/AT boy's/NNg lively/JJ eyes/NNS might/MD rove/VB ./pct
 Where/WRB Cuddleback/NP Brook/NN purled/VBD into/IN the/AT Neversink/NP was/BEDZ a/AT magnificent/JJ swimming/VBG hole/NN ./pct
 Papa/NP pointed/VBD a/AT scornful/JJ finger/NN at/IN the/AT splashing/VBG youth/NN :/pct ``/pct Idle/JJ recreation/NN ''/pct !/pct !/pct
 Stevie/NP saw/VBD no/AT idols/NNS ;/pct ;/pct
-it/PPS troubled/VBD him/PPO that/CS he/PPS couldn't /None always/RB see/VB what/WDT Papa/NP saw/VBD ./pct
+it/PPS troubled/VBD him/PPO that/CS he/PPS couldn't/MD* always/RB see/VB what/WDT Papa/NP saw/VBD ./pct
 He/PPS was/BEDZ torn/VBN between/IN the/AT excitement/NN in/IN the/AT sun-inflamed/JJ waters/NNS and/CC a/AT little/JJ engine/NN chugging/VBG northward/RB on/IN the/AT Monticello/NP Branch/NN ./pct
 ``/pct Where/WRB you/PPSS been/BEN today/NR ''/pct ?/pct ?/pct
 Ludie/NP inquired/VBD every/AT evening/NN ,/pct pretending/VBG that/CS he/PPS did/DOD not/NEG care/VB ./pct
-``/pct He'll /None make/VB a/AT preacher/NN out/RP of/IN you/PPO ''/pct !/pct !/pct
-``/pct No/RB ,/pct he/PPS won't /None ''/pct !/pct !/pct
+``/pct He'll/PPSMD make/VB a/AT preacher/NN out/RP of/IN you/PPO ''/pct !/pct !/pct
+``/pct No/RB ,/pct he/PPS won't/MD* ''/pct !/pct !/pct
 Stevie/NP flared/VBD ./pct
 ``/pct Not/NEG me/PPO ''/pct !/pct !/pct
-``/pct Somebody's /None got/VBN to/TO be/BE a/AT preacher/NN in/IN the/AT family/NN ./pct
+``/pct Somebody's/PNHVZ got/VBN to/TO be/BE a/AT preacher/NN in/IN the/AT family/NN ./pct
 He/PPS made/VBD a/AT will/NN and/CC last/AP testament/NN before/CS we/PPSS left/VBD Paterson/NP ./pct
 I/PPSS heard/VBD them/PPO !/pct !/pct
 Uncle/NN and/CC Aunt/NN Howe/NP were/BED the/AT witnesses/NNS ''/pct ./pct
@@ -125,7 +125,7 @@ The/AT boy/NN shuddered/VBD at/IN the/AT deathly/QL pale/JJ countenance/NN with/
 Would/MD Papa/NP really/RB die/VB ?/pct ?/pct
 The/AT mouth/NN was/BEDZ thin-lipped/JJ and/CC wide/JJ ,/pct the/AT long/JJ cleft/NN in/IN the/AT upper/JJ lip/NN like/CS a/AT slide/NN ./pct
 When/WRB Papa's/NPg slender/JJ fingers/NNS removed/VBD the/AT spectacles/NNS ,/pct there/EX were/BED red/JJ indentations/NNS on/IN the/AT bridge/NN of/IN the/AT strong/JJ nose/NN ./pct
-``/pct It's /None time/NN you/PPSS began/VBD to/TO think/VB on/IN God/NP ,/pct Stephen/NP ./pct
+``/pct It's/PPSBEZ time/NN you/PPSS began/VBD to/TO think/VB on/IN God/NP ,/pct Stephen/NP ./pct
 Perhaps/RB one/CD day/NN He/PPS will/MD choose/VB you/PPO as/CS He/PPS chose/VBD me/PPO ,/pct long/RB ago/RB ./pct
 Therefore/RB ,/pct give/VB Him/PPO your/PPg affection/NN and/CC store/VB up/RP His/PPg love/NN for/IN you/PPO ./pct
 Open/VB your/PPg heart/NN to/IN Him/PPO and/CC pray/VB ,/pct Stephen/NP ,/pct pray/VB !/pct !/pct
@@ -161,13 +161,13 @@ not/NEG of/IN Drew/NP Church/NN ./pct
 A/AT flash/NN illumined/VBD the/AT trees/NNS as/CS a/AT crooked/JJ bolt/NN twigged/VBD in/IN several/AP directions/NNS ./pct
 Violet/NP whinnied/VBD from/IN the/AT stable/NN ./pct
 He/PPS ran/VBD out/RP into/IN the/AT downpour/NN ,/pct sped/VBD across/IN the/AT yard/NN and/CC into/IN the/AT buggy/NN room/NN ./pct
-``/pct Don't /None be/BE afraid/JJ ,/pct Violet/NP ''/pct !/pct !/pct
+``/pct Don't/DO* be/BE afraid/JJ ,/pct Violet/NP ''/pct !/pct !/pct
 He/PPS shouted/VBD ,/pct and/CC was/BEDZ aghast/JJ at/IN the/AT echoes/NNS ./pct
-``/pct Don't /None you/PPO be/BE afraid/JJ ''/pct !/pct !/pct
+``/pct Don't/DO* you/PPO be/BE afraid/JJ ''/pct !/pct !/pct
 He/PPS would/MD save/VB her/PPO ./pct
 If/CS there/EX was/BEDZ a/AT fire/NN or/CC a/AT flood/NN he/PPS would/MD save/VB Mama/NN first/RB and/CC Violet/NP next/RB ./pct
 Drenched/VBN and/CC shaking/VBG ,/pct he/PPS stood/VBD near/IN the/AT sweet-smelling/JJ stall/NN and/CC dared/VBD to/TO pat/VB her/PPg muzzle/NN ./pct
-``/pct Don't /None you/PPO be/BE afraid/JJ ,/pct Violet/NP ''/pct !/pct !/pct
+``/pct Don't/DO* you/PPO be/BE afraid/JJ ,/pct Violet/NP ''/pct !/pct !/pct
 After/IN the/AT storm/NN ,/pct the/AT sky/NN cleared/VBD blue/JJ and/CC cool/JJ ,/pct and/CC fragrant/JJ air/NN swept/VBD the/AT hills/NNS ./pct
 When/WRB the/AT sun/NN came/VBD out/RP ,/pct Stevie/NP strode/VBD proudly/RB into/IN Orange/NP Square/NN ,/pct smiling/VBG like/CS a/AT landlord/NN on/IN industrious/JJ tenants/NNS ./pct
 The/AT fountain/NN had/HVD brimmed/VBN over/RP ,/pct the/AT cannon/NNS were/BED wet/JJ ,/pct the/AT soldiers'/NNSg monument/NN glistened/VBD ./pct
@@ -178,7 +178,7 @@ The/AT pointed/VBN shadow/NN had/HVD nearly/RB touched/VBN him/PPO ./pct
 He/PPS trailed/VBD Ludie/NP to/IN the/AT baseball/NN game/NN in/IN the/AT lot/NN on/IN Kingston/NP Street/NN near/IN the/AT Dutch/JJ Reformed/VBN ./pct
 ``/pct Go/VB on/RP home/NR ''/pct !/pct !/pct
 Ludie/NP screeched/VBD at/IN him/PPO ./pct
-``/pct Someone'll /None tell/VB Papa/NP ''/pct !/pct !/pct
+``/pct Someone'll/PNMD tell/VB Papa/NP ''/pct !/pct !/pct
 No/AT one/PN told/VBD on/IN Ludie/NP ,/pct not/NEG even/RB when/WRB he/PPS slipped/VBD live/JJ grasshoppers/NNS into/IN the/AT mite-box/NN ./pct
 Ludie/NP did/DOD as/CS he/PPS pleased/VBD ./pct
 Ludie/NP took/VBD his/PPg slingshot/NN and/CC climbed/VBD to/IN the/AT rooftop/NN to/TO shoot/VB at/IN crows/NNS ./pct

@@ -31,7 +31,7 @@ Sniffing/VBG its/PPg sweet/JJ smell/NN and/CC letting/VBG it/PPO fall/VB to/TO s
 ``/pct People/NNS and/CC soils/NNS respond/VB slowly/RB ''/pct ,/pct says/VBZ Walter/NP Clark/NP ,/pct ``/pct but/CC the/AT time/NN has/HVZ now/RB come/VBN when/WRB the/AT gardens/NNS produce/VB delicious/JJ long-keeping/JJ vegetables/NNS due/RB to/IN this/DT enrichment/NN program/NN ./pct
 No/AT chemical/NN fertilizers/NNS and/CC poisonous/JJ insecticides/NNS and/CC fungicides/NNS are/BER used/VBN ''/pct ./pct
 The/AT garden/NN supplies/VBZ enough/AP carrots/NNS ,/pct turnips/NNS ,/pct rutabagas/NNS ,/pct potatoes/NNS ,/pct beets/NNS ,/pct cabbage/NN and/CC squash/NN to/TO store/VB for/IN winter/NN meals/NNS in/IN the/AT root/NN cellar/NN ./pct
-The/AT carrots/NNS sometimes/RB don't /None make/VB it/PPO through/IN the/AT winter/NN ;/pct ;/pct
+The/AT carrots/NNS sometimes/RB don't/DO* make/VB it/PPO through/IN the/AT winter/NN ;/pct ;/pct
 the/AT cabbage/NN and/CC squash/NN keep/VB until/IN March/NP or/CC April/NP ./pct
 There/EX is/BEZ never/RB enough/AP corn/NN ,/pct peas/NNS or/CC strawberries/NNS ./pct
 Mr./NP Clark/NP still/RB has/HVZ to/TO use/VB rotenone/NN with/IN potatoes/NNS grown/VBN on/IN the/AT least/QL fertile/JJ fields/NNS ,/pct but/CC he/PPS has/HVZ watched/VBN the/AT insect/NN damage/NN decrease/VB steadily/RB and/CC hopes/VBZ that/CS continued/VBN use/NN of/IN compost/NN and/CC leaf/NN mulch/NN will/MD allow/VB him/PPO to/TO do/DO without/IN it/PPO in/IN the/AT future/NN ./pct
@@ -41,7 +41,7 @@ New/JJ ideas/NNS for/IN improving/VBG nutrition/NN came/VBD with/IN the/AT study
 The/AT first/OD major/JJ change/NN was/BEDZ that/DT of/IN providing/VBG wholewheat/NN bread/NN instead/RB of/IN white/JJ bread/NN ./pct
 ``/pct Adults/NNS take/VB a/AT long/JJ time/NN to/TO convince/VB and/CC you/PPSS are/BER thwarted/VBN if/CS you/PPSS try/VB to/TO push/VB ''/pct ./pct
 At/IN first/RB the/AT kitchen/NN help/NN was/BEDZ tolerant/JJ ,/pct but/CC ordered/VBD their/PPg own/JJ supply/NN of/IN white/JJ bread/NN for/IN themselves/PPLS ./pct
-``/pct You/PPSS can't /None make/VB French/JJ toast/NN with/IN whole-wheat/NN bread/NN ''/pct ,/pct was/BEDZ an/AT early/JJ complaint/NN ./pct
+``/pct You/PPSS can't/MD* make/VB French/JJ toast/NN with/IN whole-wheat/NN bread/NN ''/pct ,/pct was/BEDZ an/AT early/JJ complaint/NN ./pct
 Of/IN course/NN they/PPSS learned/VBD in/IN time/NN that/CS they/PPSS not/NEG only/RB could/MD use/VB whole-wheat/NN bread/NN ,/pct but/CC the/AT children/NNS liked/VBD it/PPO better/RBR ./pct
 Homemade/JJ bread/NN
 Mrs./NP Clark/NP ,/pct as/CS house/NN manager/NN ,/pct planned/VBD the/AT menus/NNS and/CC cared/VBD for/IN the/AT ordering/NN ./pct
@@ -62,10 +62,10 @@ The/AT school/NN has/HVZ not/NEG used/VBN cold/JJ prepared/VBN cereals/NNS for/I
 When/WRB the/AT chance/NN came/VBD ,/pct they/PPSS first/RB eliminated/VBD cold/JJ cereal/NN once/RB a/AT week/NN ,/pct then/RB gradually/RB converted/VBD to/IN hot/JJ fresh-ground/JJ cereal/NN every/AT day/NN ./pct
 They/PPSS serve/VB cracked/VBN wheat/NN ,/pct oats/NN or/CC cornmeal/NN ./pct
 Occasionally/RB ,/pct the/AT children/NNS find/VB steamed/VBN ,/pct whole-wheat/NN grains/NNS for/IN cereal/NN which/WDT they/PPSS call/VB ``/pct buckshot/NN ''/pct ./pct
-At/IN the/AT beginning/NN of/IN the/AT school/NN year/NN ,/pct the/AT new/JJ students/NNS don't /None eat/VB the/AT cereal/NN right/QL away/RB ,/pct but/CC within/IN a/AT short/JJ time/NN they/PPSS are/BER eating/VBG it/PPO voraciously/RB ./pct
+At/IN the/AT beginning/NN of/IN the/AT school/NN year/NN ,/pct the/AT new/JJ students/NNS don't/DO* eat/VB the/AT cereal/NN right/QL away/RB ,/pct but/CC within/IN a/AT short/JJ time/NN they/PPSS are/BER eating/VBG it/PPO voraciously/RB ./pct
 When/WRB they/PPSS leave/VB for/IN vacations/NNS they/PPSS miss/VB the/AT hot/JJ cereal/NN ./pct
 The/AT school/NN has/HVZ received/VBN letters/NNS from/IN parents/NNS asking/VBG ,/pct ``/pct What/WDT happened/VBD to/IN Johnny/NP ?/pct ?/pct
-He/PPS never/RB used/VBD to/TO like/VB any/DTI hot/JJ cereal/NN ,/pct now/RB that's /None the/AT only/AP kind/NN he/PPS wants/VBZ ./pct
+He/PPS never/RB used/VBD to/TO like/VB any/DTI hot/JJ cereal/NN ,/pct now/RB that's/DTBEZ the/AT only/AP kind/NN he/PPS wants/VBZ ./pct
 Where/WRB can/MD we/PPSS get/VB this/DT cereal/NN he/PPS likes/VBZ so/QL much/RB ''/pct ?/pct ?/pct
 Body-building/JJ foods/NNS
 Salads/NNS are/BER served/VBN at/IN least/AP once/RB a/AT day/NN ./pct
@@ -101,7 +101,7 @@ Wholesome/JJ snacks/NNS ,/pct no/AT candy/NN
 Since/CS Mr./NP Clark/NP believes/VBZ firmly/RB that/CS the/AT chewing/NN of/IN hard/JJ foods/NNS helps/VBZ develop/VB healthy/JJ gums/NNS and/CC teeth/NNS ,/pct raw/JJ vegetables/NNS and/CC raw/JJ whole-wheat/NN grains/NNS are/BER handed/VBN out/RP with/IN fresh/JJ fruit/NN and/CC whole-wheat/NN cookies/NNS at/IN snack/NN time/NN in/IN the/AT afternoons/NNS ./pct
 To/TO solve/VB the/AT problem/NN of/IN the/AT wheat/NN grains/NNS spilling/VBG on/IN the/AT floor/NN and/CC getting/VBG underfoot/RB ,/pct a/AT ball/NN of/IN maple/NN syrup/NN boiled/VBN to/IN candy/NN consistency/NN was/BEDZ invented/VBN to/TO hold/VB the/AT grains/NNS ./pct
 On/IN their/PPg frequent/JJ hikes/NNS into/IN the/AT nearby/JJ mountains/NNS ,/pct the/AT children/NNS carry/VB whole/JJ grains/NNS to/TO munch/VB along/IN the/AT trail/NN ./pct
-They/PPSS learn/VB to/TO like/VB these/DTS so/QL well/RB that/CS it/PPS isn't /None surprising/JJ to/TO hear/VB that/CS one/CD boy/NN tried/VBD the/AT oats/NN he/PPS was/BEDZ feeding/VBG his/PPg horse/NN at/IN chore/NN time/NN ./pct
+They/PPSS learn/VB to/TO like/VB these/DTS so/QL well/RB that/CS it/PPS isn't/BEZ* surprising/JJ to/TO hear/VB that/CS one/CD boy/NN tried/VBD the/AT oats/NN he/PPS was/BEDZ feeding/VBG his/PPg horse/NN at/IN chore/NN time/NN ./pct
 They/PPSS tasted/VBD good/JJ to/IN him/PPO ,/pct so/RB he/PPS brought/VBD some/DTI to/IN breakfast/NN to/TO eat/VB in/IN his/PPg cereal/NN bowl/NN with/IN milk/NN and/CC honey/NN ./pct
 Maple/NN syrup/NN is/BEZ made/VBN by/IN the/AT children/NNS in/IN the/AT woods/NNS on/IN the/AT school/NN grounds/NNS ./pct
 This/DT and/CC raw/JJ sugar/NN replace/VB ordinary/JJ refined/VBN sugar/NN on/IN the/AT tables/NNS and/CC very/QL little/AP sugar/NN is/BEZ used/VBN in/IN cooking/VBG ./pct

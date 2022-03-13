@@ -12,7 +12,7 @@ In/IN their/PPg search/NN for/IN what/WDT turned/VBD out/RP to/TO be/BE the/AT r
 While/CS she/PPS was/BEDZ settling/VBG the/AT teacart/NN ,/pct he/PPS went/VBD back/RB across/IN the/AT hall/NN to/IN their/PPg bedroom/NN ,/pct opened/VBD one/CD of/IN the/AT suitcases/NNS ,/pct and/CC took/VBD out/RP powdered/VBN coffee/NN and/CC sugar/NN ./pct
 She/PPS appeared/VBD with/IN the/AT teacart/NN and/CC he/PPS opened/VBD the/AT windows/NNS ./pct
 ``/pct Do/DO you/PPSS want/VB to/TO call/VB Eugene/NP ''/pct ?/pct ?/pct
-He/PPS didn't /None ,/pct but/CC it/PPS was/BEDZ not/NEG really/RB a/AT question/NN ,/pct and/CC so/RB he/PPS left/VBD the/AT room/NN ,/pct walked/VBD down/IN the/AT hall/NN to/IN the/AT front/NN of/IN the/AT apartment/NN ,/pct hesitated/VBD ,/pct and/CC then/RB knocked/VBD lightly/RB on/IN the/AT closed/VBN door/NN of/IN the/AT study/NN ./pct
+He/PPS didn't/DOD* ,/pct but/CC it/PPS was/BEDZ not/NEG really/RB a/AT question/NN ,/pct and/CC so/RB he/PPS left/VBD the/AT room/NN ,/pct walked/VBD down/IN the/AT hall/NN to/IN the/AT front/NN of/IN the/AT apartment/NN ,/pct hesitated/VBD ,/pct and/CC then/RB knocked/VBD lightly/RB on/IN the/AT closed/VBN door/NN of/IN the/AT study/NN ./pct
 A/AT sleepy/JJ voice/NN answered/VBD ./pct
 ``/pct Le/AT petit/JJ dejeuner/NN ''/pct ,/pct Harold/NP said/VBD ,/pct in/IN an/AT accent/NN that/WPS did/DOD credit/NN to/IN Miss/NP Sloan/NP ,/pct his/PPg high-school/NN French/NP teacher/NN ./pct
 At/IN the/AT same/AP time/NN ,/pct his/PPg voice/NN betrayed/VBD uncertainty/NN about/IN their/PPg being/BEG here/RB ,/pct and/CC conveyed/VBD an/AT appeal/NN to/IN whatever/WDT is/BEZ reasonable/JJ ,/pct peace-loving/JJ ,/pct and/CC dependable/JJ in/IN everybody/PN ./pct
@@ -99,7 +99,7 @@ Barbara/NP asked/VBD ,/pct as/CS they/PPSS heard/VBD the/AT front/JJ door/NN clo
 ``/pct Oh/UH no/RB ''/pct ,/pct Harold/NP said/VBD ,/pct shocked/VBN ./pct
 ``/pct Well/UH ,/pct this/DT is/BEZ France/NP ,/pct after/IN all/ABN ''/pct ./pct
 ``/pct I/PPSS know/VB ,/pct but/CC there/EX must/MD be/BE some/DTI other/AP explanation/NN ./pct
-He's /None probably/RB spending/VBG the/AT evening/NN with/IN friends/NNS ''/pct ./pct
+He's/PPSBEZ probably/RB spending/VBG the/AT evening/NN with/IN friends/NNS ''/pct ./pct
 ``/pct And/CC for/IN that/DT he/PPS needs/VBZ a/AT little/JJ bag/NN ''/pct ?/pct ?/pct
 They/PPSS went/VBD shopping/VBG in/IN the/AT neighborhood/NN ,/pct and/CC bought/VBD two/CD loaves/NNS of/IN bread/NN with/IN the/AT ration/NN coupons/NNS they/PPSS had/HVD been/BEN given/VBN in/IN Blois/NP ,/pct and/CC some/DTI cheese/NN ,/pct and/CC a/AT dozen/NN eggs/NNS ,/pct and/CC a/AT bag/NN of/IN oranges/NNS from/IN a/AT peddler/NN in/IN the/AT Place/NN Redoute/NN --/pct the/AT first/OD oranges/NNS they/PPSS had/HVD seen/VBN since/CS they/PPSS landed/VBD ./pct
 They/PPSS had/HVD Vermouth/NN ,/pct sitting/VBG in/IN front/NN of/IN a/AT cafe/NN ./pct
@@ -113,26 +113,26 @@ Damp/JJ also/RB ./pct
 He/PPS looked/VBD around/IN the/AT room/NN and/CC then/RB called/VBD out/RP :/pct ``/pct Come/VB here/RB ,/pct quick/RB ''/pct ?/pct ?/pct
 ``/pct What/WDT is/BEZ it/PPS ''/pct ?/pct ?/pct
 Barbara/NP asked/VBD ,/pct standing/VBG in/IN the/AT doorway/NN ./pct
-``/pct I've /None solved/VBN the/AT mystery/NN of/IN the/AT little/JJ bag/NN ./pct
+``/pct I've/PPSSHV solved/VBN the/AT mystery/NN of/IN the/AT little/JJ bag/NN ./pct
 There/RB it/PPS is/BEZ and/CC there/EX is/BEZ what/WDT was/BEDZ in/IN it/PPO ./pct
 But/CC where/WRB do/DO people/NNS go/VB swimming/VBG in/IN Paris/NP ?/pct ?/pct
 That/DT boat/NN in/IN the/AT river/NN ,/pct maybe/RB ''/pct ./pct
 ``/pct What/WDT boat/NN ''/pct ?/pct ?/pct
-``/pct There's /None a/AT big/JJ boat/NN anchored/VBN near/IN the/AT Place/NN De/IN La/AT Concorde/NN ,/pct with/IN a/AT swimming/VBG pool/NN in/IN it/PPO --/pct didn't /None you/PPO notice/VB it/PPO ?/pct ?/pct
+``/pct There's/EXBEZ a/AT big/JJ boat/NN anchored/VBN near/IN the/AT Place/NN De/IN La/AT Concorde/NN ,/pct with/IN a/AT swimming/VBG pool/NN in/IN it/PPO --/pct didn't/DOD* you/PPO notice/VB it/PPO ?/pct ?/pct
 But/CC if/CS he/PPS has/HVZ time/NN to/TO go/VB swimming/VBG ,/pct he/PPS had/HVD time/NN to/TO be/BE with/IN us/PPO ''/pct ./pct
 She/PPS looked/VBD at/IN him/PPO in/IN surprise/NN ./pct
 ``/pct I/PPSS know/VB ''/pct ,/pct he/PPS said/VBD ,/pct reading/VBG her/PPg mind/NN ./pct
-``/pct I/PPSS don't /None know/VB what/WDT I'm /None going/VBG to/TO do/DO with/IN you/PPO ''/pct ./pct
-``/pct It's /None because/CS we/PPSS are/BER in/IN France/NP ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct and/CC know/VB so/QL few/AP people/NNS ./pct
+``/pct I/PPSS don't/DO* know/VB what/WDT I'm/PPSSBEM going/VBG to/TO do/DO with/IN you/PPO ''/pct ./pct
+``/pct It's/PPSBEZ because/CS we/PPSS are/BER in/IN France/NP ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct and/CC know/VB so/QL few/AP people/NNS ./pct
 So/RB something/PN like/CS this/DT matters/VBZ more/RBR than/CS it/PPS would/MD at/IN home/NR ./pct
 Also/RB ,/pct he/PPS was/BEDZ so/QL nice/JJ when/WRB he/PPS was/BEDZ nice/JJ ''/pct ./pct
-``/pct All/ABN because/CS I/PPSS didn't /None feel/VB like/CS dancing/VBG ''/pct ./pct
-``/pct I/PPSS don't /None think/VB it/PPS was/BEDZ that/DT ,/pct really/RB ''/pct ./pct
+``/pct All/ABN because/CS I/PPSS didn't/DOD* feel/VB like/CS dancing/VBG ''/pct ./pct
+``/pct I/PPSS don't/DO* think/VB it/PPS was/BEDZ that/DT ,/pct really/RB ''/pct ./pct
 ``/pct Then/RB what/WDT was/BEDZ it/PPS ''/pct ?/pct ?/pct
-``/pct I/PPSS don't /None know/VB ./pct
+``/pct I/PPSS don't/DO* know/VB ./pct
 I/PPSS wish/VB I/PPSS did/DOD ./pct
 The/AT tweed/NN coat/NN ,/pct maybe/RB ./pct
-The/AT thing/NN about/IN Eugene/NP is/BEZ that/CS he's /None very/QL proud/JJ ''/pct ./pct
+The/AT thing/NN about/IN Eugene/NP is/BEZ that/CS he's/PPSBEZ very/QL proud/JJ ''/pct ./pct
 And/CC the/AT thing/NN about/IN hurt/NN feelings/NNS ,/pct the/AT wet/JJ bathing/VBG suit/NN pointed/VBD out/RP ,/pct is/BEZ that/CS the/AT person/NN who/WPS has/HVZ them/PPO is/BEZ not/NEG quite/ABL the/AT innocent/JJ party/NN he/PPS believes/VBZ himself/PPL to/TO be/BE ./pct
 For/IN instance/NN --/pct what/WDT about/IN all/ABN those/DTS people/NNS Harold/NP Rhodes/NP went/VBD toward/IN unhesitatingly/RB ,/pct as/CS if/CS this/DT were/BED the/AT one/CD moment/NN they/PPSS would/MD ever/RB have/HV together/RB ,/pct their/PPg one/CD chance/NN of/IN knowing/VBG each/DT other/AP ?/pct ?/pct
 Fortunately/RB ,/pct the/AT embarrassing/VBG questions/NNS raised/VBN by/IN objects/NNS do/DO not/NEG need/VB to/TO be/BE answered/VBN ,/pct or/CC we/PPSS would/MD all/ABN have/HV to/TO go/VB sleep/VB in/IN the/AT open/JJ fields/NNS ./pct

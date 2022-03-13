@@ -54,7 +54,7 @@ When/WRB the/AT automobile/NN was/BEDZ in/IN its/PPg embryonic/JJ stage/NN ,/pct
 When/WRB air/NN travel/NN was/BEDZ in/IN its/PPg infancy/NN ,/pct the/AT sky/NN was/BEDZ considered/VBN big/JJ enough/QLP and/CC high/JJ enough/QLP for/IN all/ABN ./pct
 Man/NN had/HVD enough/AP to/TO worry/VB about/IN managing/VBG to/TO get/VB up/RP there/RB and/CC stay/VB without/IN being/BEG burdened/VBN with/IN rules/NNS once/RB aloft/RB ./pct
 It/PPS was/BEDZ much/RB the/AT same/AP with/IN pleasure/NN boating/NN at/IN first/RB ./pct
-Come/VB one/CD ,/pct come/VB all/ABN ,/pct the/AT water's /None fine/JJ !/pct !/pct
+Come/VB one/CD ,/pct come/VB all/ABN ,/pct the/AT water's/NNBEZ fine/JJ !/pct !/pct
 As/CS the/AT ungoverned/JJ days/NNS of/IN the/AT automobile/NN and/CC the/AT airplane/NN are/BER long/RB since/RB relegated/VBN to/IN the/AT past/AP ,/pct so/RB is/BEZ the/AT carefree/JJ attitude/NN toward/IN what/WDT a/AT boatman/NN may/MD and/CC may/MD not/NEG do/DO ;/pct ;/pct
 must/MD and/CC should/MD do/DO ./pct
 However/RB ,/pct there/EX is/BEZ a/AT minimum/NN of/IN legislative/JJ restriction/NN on/IN boating/VBG ./pct

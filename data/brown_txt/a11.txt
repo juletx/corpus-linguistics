@@ -47,7 +47,7 @@ The/AT big/JJ ,/pct 22-year-old/JJ shortstop/NN ,/pct the/AT 1960/CD American/JJ
 The/AT 6-foot/JJ 3-inch/JJ Hansen/NP checked/VBD in/RP close/RB to/IN 200/CD pounds/NNS ,/pct 15/CD pounds/NNS lighter/JJR than/CS his/PPg reporting/VBG weight/NN last/AP spring/NN ./pct
 He/PPS hopes/VBZ to/TO melt/VB off/RP an/AT additional/JJ eight/CD pounds/NNS before/CS the/AT Flock/NN breaks/VBZ camp/NN three/CD weeks/NNS hence/RB ./pct
 When/WRB he/PPS was/BEDZ inducted/VBN into/IN the/AT Army/NN at/IN Fort/NN Knox/NP ,/pct Ky./NP ,/pct Hansen's/NPg weight/NN had/HVD dropped/VBN to/IN 180/CD --/pct ``/pct too/QL light/JJ for/CS me/PPO to/TO be/BE at/IN my/PPg best/JJT ''/pct he/PPS said/VBD ./pct
-``/pct I/PPSS feel/VB good/JJ physically/RB ''/pct ,/pct Hansen/NP added/VBD ,/pct ``/pct but/CC I/PPSS think/VB I'll /None move/VB better/RBR carrying/VBG a/AT little/QL less/AP weight/NN than/CS I'm /None carrying/VBG now/RB ''/pct ./pct
+``/pct I/PPSS feel/VB good/JJ physically/RB ''/pct ,/pct Hansen/NP added/VBD ,/pct ``/pct but/CC I/PPSS think/VB I'll/PPSSMD move/VB better/RBR carrying/VBG a/AT little/QL less/AP weight/NN than/CS I'm/PPSSBEM carrying/VBG now/RB ''/pct ./pct
 Seeks/VBZ ``/pct improved/VBN fielding/VBG ''/pct
 The/AT rangy/JJ ,/pct Albany/NP (/pct Cal./NP )/pct native/NN ,/pct a/AT surprise/NN slugging/VBG sensation/NN for/IN the/AT Flock/NN last/AP year/NN as/QL well/RB as/CS a/AT defensive/JJ whiz/NN ,/pct set/VBD ``/pct improved/VBN fielding/NN ''/pct as/CS his/PPg 1961/CD goal/NN ./pct
 ``/pct I/PPSS think/VB I/PPSS can/MD do/DO a/AT better/JJR job/NN with/IN the/AT glove/NN ,/pct now/RB that/CS I/PPSS know/VB the/AT hitters/NNS around/IN the/AT league/NN a/AT little/QL better/JJR ''/pct ,/pct he/PPS said/VBD ./pct
@@ -70,8 +70,8 @@ Hansen/NP arrived/VBD just/QL before/IN nightfall/NN ,/pct two/CD hours/NNS late
 J./NP A./NP W./NP Iglehart/NP ,/pct chairman/NN of/IN the/AT Oriole/NP board/NN of/IN directors/NNS ,/pct and/CC Public/JJ Relations/NNS Director/NN Jack/NP Dunn/NP ./pct
 Their/PPg flight/NN was/BEDZ delayed/VBN ,/pct Dunn/NP said/VBD ,/pct when/WRB a/AT boarding/VBG ramp/NN inflicted/VBD some/DTI minor/JJ damage/NN to/IN the/AT wing/NN of/IN the/AT plane/NN ./pct
 Ex-Oriole/NP Clint/NP Courtney/NP ,/pct now/RB catching/VBG for/IN the/AT A's/NN is/BEZ all/ABN for/IN the/AT American/JJ League's/NNg 1961/CD expansion/NN to/IN the/AT West/JJ Coast/NN ./pct
-``/pct But/CC they/PPSS shouldda /None brought/VBN in/RP Tokyo/NP ,/pct too/RB ''/pct ,/pct added/VBD Old/JJ Scrapiron/NP ./pct
-``/pct Then/RB we'd /None really/RB have/HV someplace/NN to/TO go/VB ''/pct ./pct
+``/pct But/CC they/PPSS shouldda/MDHV brought/VBN in/RP Tokyo/NP ,/pct too/RB ''/pct ,/pct added/VBD Old/JJ Scrapiron/NP ./pct
+``/pct Then/RB we'd/PPSSMD really/RB have/HV someplace/NN to/TO go/VB ''/pct ./pct
 Bowie/NP ,/pct Md./NP ,/pct March/NP 17/CD
 --/pct Gaining/VBG her/PPg second/OD straight/JJ victory/NN ,/pct Norman/NP B./NP ,/pct Small/NP ,/pct Jr.'s/NPg Garden/NN Fresh/JJ ,/pct a/AT 3-year-old/JJ filly/NN ,/pct downed/VBD promising/JJ colts/NNS in/IN the/AT $4,500/NNS St./NN Patrick's/NPg Day/NN Purse/NN ,/pct featured/VBN seventh/OD race/NN here/RB today/NR ,/pct and/CC paid/VBD $7.20/NNS straight/RB ./pct
 Toying/VBG with/IN her/PPg field/NN in/IN the/AT early/JJ stages/NNS ,/pct Garden/NN Fresh/JJ was/BEDZ asked/VBN for/IN top/NN speed/NN only/RB in/IN the/AT stretch/NN by/IN Jockey/NN Philip/NP Grimm/NP and/CC won/VBD by/IN a/AT length/NN and/CC a/AT half/ABN in/IN 1.24/CD 3-5/CD for/IN the/AT 7/CD furlongs/NNS ./pct

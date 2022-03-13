@@ -17,7 +17,7 @@ To/IN me/PPO ,/pct the/AT explanation/NN is/BEZ very/QL simple/JJ ./pct
 I/PPSS am/BEM not/NEG doing/VBG anything/PN ,/pct of/IN myself/PPL ./pct
 I/PPSS am/BEM merely/RB a/AT channel/NN for/IN something/PN ./pct
 What/WDT is/BEZ this/DT something/PN ?/pct ?/pct
-I/PPSS cannot /None define/VB it/PPO fully/RB ./pct
+I/PPSS cannot/MD* define/VB it/PPO fully/RB ./pct
 It/PPS is/BEZ the/AT force/NN in/IN the/AT universe/NN that/WPS makes/VBZ men/NNS love/VB goodness/NN ,/pct even/RB when/WRB they/PPSS turn/VB away/RB from/IN it/PPO ./pct
 It/PPS is/BEZ the/AT power/NN that/WPS holds/VBZ the/AT stars/NNS in/IN their/PPg orbits/NNS ,/pct but/CC allows/VBZ the/AT wind/NN to/TO bend/VB a/AT blade/NN of/IN grass/NN ./pct
 It/PPS is/BEZ the/AT whisper/NN in/IN the/AT heart/NN that/WPS urges/VBZ each/DT one/CD to/TO be/BE better/JJR than/CS he/PPS is/BEZ ./pct
@@ -34,16 +34,16 @@ Compared/VBN to/IN the/AT big/JJ ,/pct established/VBN magazines/NNS ,/pct my/PP
 But/CC from/IN the/AT start/NN they/PPSS had/HVD two/CD important/JJ ingredients/NNS :/pct sincerity/NN and/CC realism/NN ./pct
 The/AT people/NNS who/WPS told/VBD the/AT stories/NNS were/BED sincere/JJ ./pct
 And/CC the/AT stories/NNS they/PPSS told/VBD were/BED true/JJ ./pct
-For/IN example/NN ,/pct early/RB in/IN my/PPg life/NN ,/pct when/WRB one/CD of/IN my/PPg editorial/NN workers/NNS wanted/VBD to/TO find/VB out/RP how/WRB churches/NNS and/CC philanthropic/JJ organizations/NNS met/VBD the/AT needs/NNS of/IN New/JJ York's/NPg down-and-outers/NNS ,/pct he/PPS didn't /None just/RB ask/VB questions/NNS ./pct
+For/IN example/NN ,/pct early/RB in/IN my/PPg life/NN ,/pct when/WRB one/CD of/IN my/PPg editorial/NN workers/NNS wanted/VBD to/TO find/VB out/RP how/WRB churches/NNS and/CC philanthropic/JJ organizations/NNS met/VBD the/AT needs/NNS of/IN New/JJ York's/NPg down-and-outers/NNS ,/pct he/PPS didn't/DOD* just/RB ask/VB questions/NNS ./pct
 Len/NP LeSourd/NP went/VBD and/CC lived/VBD in/IN the/AT slums/NNS as/CS a/AT sidewalk/NN derelict/NN for/IN ten/CD days/NNS ./pct
 That/DT was/BEDZ nearly/RB 13/CD years/NNS ago/RB ./pct
 Len/NP LeSourd/NP is/BEZ my/PPg executive/JJ editor/NN today/NR ./pct
-Many/AP of/IN you/PPO are/BER familiar/JJ ,/pct I'm /None sure/JJ ,/pct with/IN the/AT story/NN of/IN my/PPg early/JJ struggles/NNS :/pct the/AT fire/NN in/IN January/NP ,/pct 1947/CD ,/pct that/WPS destroyed/VBD everything/PN --/pct even/RB our/PPg precious/JJ list/NN of/IN subscribers/NNS ./pct
+Many/AP of/IN you/PPO are/BER familiar/JJ ,/pct I'm/PPSSBEM sure/JJ ,/pct with/IN the/AT story/NN of/IN my/PPg early/JJ struggles/NNS :/pct the/AT fire/NN in/IN January/NP ,/pct 1947/CD ,/pct that/WPS destroyed/VBD everything/PN --/pct even/RB our/PPg precious/JJ list/NN of/IN subscribers/NNS ./pct
 The/AT help/NN and/CC sympathy/NN that/WPS were/BED forthcoming/JJ from/IN everywhere/RB ./pct
 The/AT crisis/NN later/RBR on/RP when/WRB debts/NNS seemed/VBD about/RB to/TO overwhelm/VB me/PPO ./pct
 That/DT was/BEDZ when/WRB a/AT remarkable/JJ woman/NN ,/pct Teresa/NP Durlach/NP ,/pct came/VBD to/IN my/PPg aid/NN --/pct not/NEG so/QL much/RB with/IN money/NN ,/pct as/CS with/IN wisdom/NN and/CC courage/NN ./pct
-``/pct You're /None not/NEG living/VBG up/RP to/IN your/PPg own/JJ principles/NNS ''/pct ,/pct she/PPS told/VBD my/PPg discouraged/VBN people/NNS ./pct
-``/pct You're /None so/QL preoccupied/VBN that/CS you've /None let/VB your/PPg faith/NN grow/VB dim/JJ ./pct
+``/pct You're/PPSSBER not/NEG living/VBG up/RP to/IN your/PPg own/JJ principles/NNS ''/pct ,/pct she/PPS told/VBD my/PPg discouraged/VBN people/NNS ./pct
+``/pct You're/PPSSBER so/QL preoccupied/VBN that/CS you've/PPSSHV let/VB your/PPg faith/NN grow/VB dim/JJ ./pct
 What/WDT do/DO you/PPSS want/VB --/pct a/AT hundred/CD thousand/CD subscribers/NNS ?/pct ?/pct
 Visualize/VB them/PPO ,/pct then/RB ,/pct believe/VB you/PPSS are/BER getting/VBG them/PPO ,/pct and/CC you/PPSS will/MD have/HV them/PPO ''/pct !/pct !/pct
 And/CC the/AT 100,000/CD subscribers/NNS became/VBD a/AT reality/NN ./pct
@@ -103,7 +103,7 @@ The/AT hated/VBN dictator/NN Batista/NP had/HVD fled/VBN ./pct
 Rumors/NNS flew/VBD from/IN lip/NN to/IN lip/NN that/CS Fidel/NP Castro/NP was/BEDZ on/IN his/PPg way/NN to/IN Havana/NP ,/pct coming/VBG from/IN the/AT mountains/NNS where/WRB he/PPS had/HVD fought/VBN Batista/NP for/IN five/CD years/NNS ./pct
 Already/RB the/AT city/NN was/BEDZ filled/VBN with/IN Barbudos/NPS ,/pct the/AT bearded/VBN ,/pct war-dirty/JJ Revolutionaries/NNS ,/pct carrying/VBG carbines/NNS ,/pct waving/VBG to/IN the/AT crowds/NNS that/WPS lined/VBD the/AT Prado/NP ./pct
 And/CC then/RB Castro/NP himself/PPL did/DOD come/VBN ,/pct bearded/VBN ,/pct smiling/VBG ;/pct ;/pct
-yet/CC if/CS you/PPSS looked/VBD closely/RB you'd /None see/VB that/CS his/PPg eyes/NNS did/DOD not/NEG pick/VB up/RP the/AT smile/NN on/IN his/PPg lips/NNS ./pct
+yet/CC if/CS you/PPSS looked/VBD closely/RB you'd/PPSSMD see/VB that/CS his/PPg eyes/NNS did/DOD not/NEG pick/VB up/RP the/AT smile/NN on/IN his/PPg lips/NNS ./pct
 At/IN first/RB I/PPSS was/BEDZ happy/JJ to/TO throw/VB the/AT support/NN of/IN our/PPg newspaper/NN behind/IN this/DT man/NN ./pct
 I/PPSS am/BEM sure/JJ that/CS Castro/NP was/BEDZ happy/JJ ,/pct too/RB ,/pct about/IN that/DT support/NN ./pct
 Diario/NP De/NP La/NP Marina/NP was/BEDZ the/AT oldest/JJT and/CC most/QL influential/JJ paper/NN in/IN Cuba/NP ,/pct with/IN a/AT reputation/NN for/IN speaking/VBG out/RP against/IN tyranny/NN ./pct

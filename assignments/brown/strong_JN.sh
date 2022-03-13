@@ -1,0 +1,1 @@
+egrep "^strong	.*\$" bigrams_pos_JN.tsv | sort -k 3 -nr > strong_JN.tsv

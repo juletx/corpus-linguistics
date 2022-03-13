@@ -20,13 +20,13 @@ The/AT Mayor/NN declined/VBD in/IN two/CD interviews/NNS with/IN reporters/NNS y
 The/AT Mayor/NN spoke/VBD yesterday/NR at/IN the/AT United/VBN Irish/JJ Counties/NNS Feis/NP on/IN the/AT Hunter/NP College/NN Campus/NN in/IN the/AT Bronx/NP ./pct
 After/IN his/PPg speech/NN ,/pct reporters/NNS asked/VBD him/PPO about/IN the/AT report/NN of/IN his/PPg political/JJ intentions/NNS ,/pct published/VBN in/IN yesterday's/NRg New/JJ York/NP Times/NNS ./pct
 The/AT Mayor/NN said/VBD :/pct
-``/pct It/PPS didn't /None come/VB from/IN me/PPO ./pct
+``/pct It/PPS didn't/DOD* come/VB from/IN me/PPO ./pct
 But/CC as/CS I/PPSS have/HV said/VBN before/RB ,/pct if/CS I/PPSS announce/VB my/PPg candidacy/NN ,/pct I/PPSS will/MD have/HV something/PN definite/JJ to/TO say/VB about/IN running/VBG mates/NNS ''/pct ./pct
 Boston/NP ,/pct June/NP 16/CD
 --/pct A/AT wave/NN of/IN public/JJ resentment/NN against/IN corruption/NN in/IN government/NN is/BEZ rising/VBG in/IN Massachusetts/NP ./pct
 There/EX is/BEZ a/AT tangible/JJ feeling/NN in/IN the/AT air/NN of/IN revulsion/NN toward/IN politics/NN ./pct
 The/AT taxi/NN driver/NN taking/VBG the/AT visitor/NN from/IN the/AT airport/NN remarks/VBZ that/CS politicians/NNS in/IN the/AT state/NN are/BER ``/pct all/ABN the/AT same/AP ''/pct ./pct
-``/pct It's /None '/pct See/VB Joe/NP ,/pct see/VB Jim/NP '/pct ''/pct ,/pct he/PPS says/VBZ ./pct
+``/pct It's/PPSBEZ '/pct See/VB Joe/NP ,/pct see/VB Jim/NP '/pct ''/pct ,/pct he/PPS says/VBZ ./pct
 ``/pct The/AT hand/NN is/BEZ out/RP ''/pct ./pct
 A/AT political/JJ scientist/NN writes/VBZ of/IN the/AT growth/NN of/IN ``/pct alienated/VBN voters/NNS ''/pct ,/pct who/WPS ``/pct believe/VB that/CS voting/VBG is/BEZ useless/JJ because/CS politicians/NNS or/CC those/DTS who/WPS influence/VB politicians/NNS are/BER corrupt/JJ ,/pct selfish/JJ and/CC beyond/IN popular/JJ control/NN ./pct
 These/DTS voters/NNS view/VB the/AT political/JJ process/NN as/CS a/AT secret/JJ conspiracy/NN ,/pct the/AT object/NN of/IN which/WDT is/BEZ to/TO plunder/VB them/PPO ''/pct ./pct
@@ -72,8 +72,8 @@ When/WRB he/PPS protested/VBD ,/pct the/AT hotel/NN owner/NN said/VBD :/pct
 The/AT U./NP S./NP Government/NN is/BEZ paying/VBG for/IN it/PPO ./pct
 The/AT U./NP S./NP Government/NN pays/VBZ for/IN all/ABN its/PPg overseas/NN workers/NNS ''/pct ./pct
 Missionary/NN explains/VBZ
-``/pct I/PPSS don't /None work/VB for/IN the/AT Government/NN ''/pct ,/pct the/AT American/NP said/VBD ./pct
-``/pct I'm /None a/AT missionary/NN ''/pct ./pct
+``/pct I/PPSS don't/DO* work/VB for/IN the/AT Government/NN ''/pct ,/pct the/AT American/NP said/VBD ./pct
+``/pct I'm/PPSSBEM a/AT missionary/NN ''/pct ./pct
 The/AT hotel/NN owner/NN shrugged/VBD ./pct
 ``/pct Same/AP thing/NN ''/pct ,/pct he/PPS said/VBD ./pct
 And/CC then/RB ,/pct some/DTI churchmen/NNS remarked/VBD ,/pct there/EX is/BEZ a/AT more/QL classical/JJ church-state/NN problem/NN :/pct

@@ -68,17 +68,17 @@ Therefore/RB employment/NN and/CC education/NN in/IN all/ABN the/AT schools/NNS 
 The/AT separate/JJ vocational/JJ or/CC technical/JJ high/JJ schools/NNS in/IN the/AT large/JJ cities/NNS must/MD be/BE reckoned/VBN as/CS permanent/JJ institutions/NNS ./pct
 By/RB and/CC large/RB their/PPg programs/NNS are/BER satisfactorily/RB connected/VBN both/ABX to/IN the/AT employment/NN situation/NN and/CC to/IN the/AT realities/NNS of/IN the/AT apprentice/NN system/NN ./pct
 It/PPS is/BEZ not/NEG often/RB realized/VBN to/IN what/WDT degree/NN certain/JJ trades/NNS are/BER in/IN many/AP communities/NNS closed/VBN areas/NNS of/IN employment/NN ,/pct except/IN for/IN a/AT lucky/JJ few/AP ./pct
-One/PN has/HVZ to/TO talk/VB confidentially/RB with/IN some/DTI of/IN the/AT directors/NNS of/IN vocational/JJ high/JJ schools/NNS to/TO realize/VB that/CS a/AT boy/NN cannot /None just/RB say/VB ,/pct ``/pct I/PPSS want/VB to/TO be/BE a/AT plumber/NN ''/pct ,/pct and/CC then/RB ,/pct by/IN doing/VBG good/JJ work/NN ,/pct find/VB a/AT job/NN ./pct
+One/PN has/HVZ to/TO talk/VB confidentially/RB with/IN some/DTI of/IN the/AT directors/NNS of/IN vocational/JJ high/JJ schools/NNS to/TO realize/VB that/CS a/AT boy/NN cannot/MD* just/RB say/VB ,/pct ``/pct I/PPSS want/VB to/TO be/BE a/AT plumber/NN ''/pct ,/pct and/CC then/RB ,/pct by/IN doing/VBG good/JJ work/NN ,/pct find/VB a/AT job/NN ./pct
 It/PPS is/BEZ far/QL more/QL difficult/JJ in/IN many/AP communities/NNS to/TO obtain/VB admission/NN to/IN an/AT apprentice/NN program/NN which/WDT involves/VBZ union/NN approval/NN than/CS to/TO get/VB into/IN the/AT most/QL selective/JJ medical/JJ school/NN in/IN the/AT nation/NN ./pct
 Two/CD stories/NNS will/MD illustrate/VB what/WDT I/PPSS have/HV in/IN mind/NN ./pct
 One/CD vocational/JJ instructor/NN in/IN a/AT city/NN vocational/JJ school/NN ,/pct speaking/VBG of/IN his/PPg course/NN in/IN a/AT certain/JJ field/NN ,/pct said/VBD he/PPS had/HVD no/AT difficulty/NN placing/VBG all/ABN students/NNS in/IN jobs/NNS outside/RB of/IN the/AT city/NN ./pct
-In/IN the/AT city/NN ,/pct he/PPS said/VBD ,/pct the/AT waiting/VBG list/NN for/IN those/DTS who/WPS want/VB to/TO join/VB the/AT union/NN is/BEZ so/QL long/JJ that/CS unless/CS a/AT boy/NN has/HVZ an/AT inside/JJ track/NN he/PPS can't /None get/VB in/RP ./pct
+In/IN the/AT city/NN ,/pct he/PPS said/VBD ,/pct the/AT waiting/VBG list/NN for/IN those/DTS who/WPS want/VB to/TO join/VB the/AT union/NN is/BEZ so/QL long/JJ that/CS unless/CS a/AT boy/NN has/HVZ an/AT inside/JJ track/NN he/PPS can't/MD* get/VB in/RP ./pct
 In/IN a/AT far/QL distant/JJ part/NN of/IN the/AT United/VBN States/NNS ,/pct I/PPSS was/BEDZ talking/VBG to/IN an/AT instructor/NN about/IN a/AT boy/NN who/WPS in/IN the/AT twelfth/OD grade/NN was/BEDZ doing/VBG special/JJ work/NN ./pct
 ``/pct What/WDT does/DOZ he/PPS have/HV in/IN mind/NN to/TO do/DO when/WRB he/PPS graduates/VBZ ''/pct ?/pct ?/pct
-``/pct Oh/UH ,/pct he'll /None be/BE a/AT plumber/NN ''/pct ,/pct came/VBD the/AT answer/NN ./pct
-``/pct But/CC isn't /None it/PPS almost/RB impossible/JJ to/TO get/VB into/IN the/AT union/NN ''/pct ?/pct ?/pct
+``/pct Oh/UH ,/pct he'll/PPSMD be/BE a/AT plumber/NN ''/pct ,/pct came/VBD the/AT answer/NN ./pct
+``/pct But/CC isn't/BEZ* it/PPS almost/RB impossible/JJ to/TO get/VB into/IN the/AT union/NN ''/pct ?/pct ?/pct
 I/PPSS asked/VBD ./pct
-``/pct He'll /None have/HV no/AT difficulty/NN ''/pct ,/pct I/PPSS was/BEDZ told/VBN ./pct
+``/pct He'll/PPSMD have/HV no/AT difficulty/NN ''/pct ,/pct I/PPSS was/BEDZ told/VBN ./pct
 ``/pct He/PPS has/HVZ very/QL good/JJ connections/NNS ''/pct ./pct
 In/IN my/PPg view/NN ,/pct there/EX should/MD be/BE a/AT school/NN which/WDT offers/VBZ significant/JJ vocational/JJ programs/NNS for/IN boys/NNS within/IN easy/JJ reach/NN of/IN every/AT family/NN in/IN a/AT city/NN ./pct
 Ideally/RB these/DTS schools/NNS should/MD be/BE so/RB located/VBN that/CS one/CD or/CC more/AP should/MD be/BE in/IN the/AT area/NN where/WRB demand/NN for/IN practical/JJ courses/NNS is/BEZ at/IN the/AT highest/JJT ./pct

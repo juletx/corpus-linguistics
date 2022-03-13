@@ -64,7 +64,7 @@ Ever/QL since/RB the/AT fire/NN of/IN 1812/CD destroyed/VBD the/AT beautiful/JJ 
 Mrs./NP Kennedy/NP shows/VBZ a/AT determination/NN to/TO change/VB all/ABN this/DT ./pct
 Not/NEG long/RB after/IN moving/VBG in/RP she/PPS turned/VBD up/RP a/AT richly/QL carved/VBN desk/NN ,/pct hewed/VBN from/IN the/AT timbers/NNS of/IN the/AT British/JJ ship/NN H.M.S./NP Resolute/NP and/CC presented/VBN to/IN President/NN Hayes/NP by/IN Queen/NN Victoria/NP ./pct
 It/PPS now/RB serves/VBZ the/AT President/NN in/IN his/PPg oval/JJ office/NN ./pct
-Later/RBR ,/pct browsing/VBG in/IN an/AT old/JJ issue/NN of/IN the/AT Gazette/NN Des /None Beaux-Arts/NNS ,/pct she/PPS found/VBD a/AT description/NN of/IN a/AT handsome/JJ gilt/JJ pier-table/NN purchased/VBN in/IN 1817/CD by/IN President/NN James/NP Monroe/NP ./pct
+Later/RBR ,/pct browsing/VBG in/IN an/AT old/JJ issue/NN of/IN the/AT Gazette/NN Des/INAT Beaux-Arts/NNS ,/pct she/PPS found/VBD a/AT description/NN of/IN a/AT handsome/JJ gilt/JJ pier-table/NN purchased/VBN in/IN 1817/CD by/IN President/NN James/NP Monroe/NP ./pct
 She/PPS traced/VBD it/PPO to/IN a/AT storage/NN room/NN ./pct
 With/IN its/PPg coating/NN of/IN gold/NN radiator/NN paint/NN removed/VBN --/pct a/AT gaucherie/NN of/IN some/DTI earlier/JJR tenant/NN --/pct it/PPS will/MD now/RB occupy/VB its/PPg rightful/JJ place/NN in/IN the/AT oval/JJ Blue/JJ Room/NN on/IN the/AT first/OD floor/NN of/IN the/AT White/JJ House/NN ./pct
 But/CC it/PPS soon/RB became/VBD clear/JJ that/CS the/AT search/NN for/IN eighteenth-century/JJ furniture/NN (/pct which/WDT Mrs./NP Kennedy/NP feels/VBZ is/BEZ the/AT proper/JJ period/NN for/IN the/AT White/JJ House/NN )/pct must/MD be/BE pursued/VBN in/IN places/NNS other/AP than/CS government/NN storage/NN rooms/NNS ./pct
@@ -84,7 +84,7 @@ While/CS a/AT Senator/NN ,/pct Kennedy/NP had/HVD unsuccessfully/RB pushed/VBN a
 What/WDT to/TO do/DO about/IN it/PPO now/RB that/CS he/PPS was/BEDZ President/NN ?/pct ?/pct
 Only/RB a/AT few/AP days/NNS after/IN moving/VBG into/IN the/AT White/JJ House/NN ./pct
 Kennedy/NP made/VBD a/AT midnight/NN inspection/NN of/IN the/AT Square/NN ./pct
-Then/RB he/PPS called/VBD in/RP his/PPg friend/NN Walton/NP and/CC turned/VBD over/RP the/AT problem/NN to/IN him/PPO ,/pct with/IN instructions/NNS to/TO work/VB out/RP what/WDT was/BEDZ best/JJT --/pct provided/VBN it/PPS didn't /None pile/VB unnecessary/JJ burdens/NNS on/IN the/AT President/NN ./pct
+Then/RB he/PPS called/VBD in/RP his/PPg friend/NN Walton/NP and/CC turned/VBD over/RP the/AT problem/NN to/IN him/PPO ,/pct with/IN instructions/NNS to/TO work/VB out/RP what/WDT was/BEDZ best/JJT --/pct provided/VBN it/PPS didn't/DOD* pile/VB unnecessary/JJ burdens/NNS on/IN the/AT President/NN ./pct
 The/AT situation/NN involved/VBD some/DTI political/JJ perils/NNS ./pct
 One/CD of/IN the/AT offices/NNS slated/VBN for/IN reconstruction/NN is/BEZ the/AT aged/VBN Court/NN of/IN Claims/NNS ,/pct diagonally/RB across/IN the/AT street/NN from/IN the/AT White/JJ House/NN ./pct
 Logically/RB ,/pct it/PPS should/MD be/BE moved/VBN downtown/NR ./pct

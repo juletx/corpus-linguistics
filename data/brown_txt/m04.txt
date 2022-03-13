@@ -1,14 +1,14 @@
 Ryan/NP hefted/VBD his/PPg bulk/NN up/RP and/CC supported/VBD it/PPO on/IN one/CD elbow/NN ./pct
 He/PPS rubbed/VBD his/PPg eyes/NNS sleepily/RB with/IN one/CD huge/JJ paw/NN ./pct
 ``/pct Ekstrohm/NP ,/pct Nogol/NP ,/pct you/PPSS guys/NNS okay/JJ ''/pct ?/pct ?/pct
-``/pct Nothing/PN wrong/JJ with/IN me/PPO that/DT couldn't /None be/BE cured/VBN ''/pct ,/pct Nogol/NP said/VBD ./pct
-He/PPS didn't /None say/VB what/WDT would/MD cure/VB him/PPO ;/pct ;/pct
+``/pct Nothing/PN wrong/JJ with/IN me/PPO that/DT couldn't/MD* be/BE cured/VBN ''/pct ,/pct Nogol/NP said/VBD ./pct
+He/PPS didn't/DOD* say/VB what/WDT would/MD cure/VB him/PPO ;/pct ;/pct
 he/PPS had/HVD been/BEN explaining/VBG all/ABN during/IN the/AT trip/NN what/WDT he/PPS needed/VBD to/TO make/VB him/PPO feel/VB like/CS himself/PPL ./pct
 His/PPg small/JJ black/JJ eyes/NNS darted/VBD inside/IN the/AT olive/JJ oval/NN of/IN his/PPg face/NN ./pct
 ``/pct Ekstrohm/NP ''/pct ?/pct ?/pct
 Ryan/NP insisted/VBD ./pct
 ``/pct Okay/UH ''/pct ./pct
-``/pct Well/UH ,/pct let's /None take/VB a/AT ground-level/NN look/NN at/IN the/AT country/NN around/IN here/RB ''/pct ./pct
+``/pct Well/UH ,/pct let's/VBPPO take/VB a/AT ground-level/NN look/NN at/IN the/AT country/NN around/IN here/RB ''/pct ./pct
 The/AT facsiport/NN rolled/VBD open/RB on/IN the/AT landscape/NN ./pct
 A/AT range/NN of/IN bluffs/NNS hugged/VBD the/AT horizon/NN ,/pct the/AT color/NN of/IN decaying/VBG moss/NN ./pct
 Above/IN them/PPO ,/pct the/AT sky/NN was/BEDZ the/AT black/NN of/IN space/NN ,/pct or/CC the/AT almost/QL equal/JJ black/NN of/IN the/AT winter/NN sky/NN above/IN Minneapolis/NP ,/pct seen/VBN against/IN neon-lit/JJ snow/NN ./pct
@@ -27,55 +27,55 @@ He/PPS was/BEDZ the/AT captain/NN ,/pct so/CS he/PPS could/MD ask/VB questions/N
 Ekstrohm/NP asked/VBD ./pct
 ``/pct No/AT helmets/NNS ''/pct ,/pct the/AT captain/NN answered/VBD ./pct
 ``/pct We/PPSS can/MD breathe/VB out/RP there/RB ,/pct all/QL right/RB ./pct
-It/PPS just/RB won't /None be/BE easy/JJ ./pct
+It/PPS just/RB won't/MD* be/BE easy/JJ ./pct
 This/DT old/JJ world/NN lost/VBD all/ABN of/IN its/PPg helium/NN and/CC trace/NN gases/NNS long/JJ ago/RB ./pct
 Nitrogen/NN and/CC oxygen/NN are/BER about/IN it/PPO ''/pct ./pct
 ``/pct Ryan/NP ,/pct look/VB over/IN there/RB ''/pct ,/pct Nogol/NP said/VBD ./pct
 ``/pct Animals/NNS ./pct
 Ringing/VBG the/AT ship/NN ./pct
-Think/VB they're /None intelligent/JJ ,/pct maybe/RB hostile/JJ ''/pct ?/pct ?/pct
-``/pct I/PPSS think/VB they're /None dead/JJ ''/pct ,/pct Ekstrohm/NP interjected/VBD quietly/RB ./pct
+Think/VB they're/PPSSBER intelligent/JJ ,/pct maybe/RB hostile/JJ ''/pct ?/pct ?/pct
+``/pct I/PPSS think/VB they're/PPSSBER dead/JJ ''/pct ,/pct Ekstrohm/NP interjected/VBD quietly/RB ./pct
 ``/pct I/PPSS get/VB no/AT readings/NNS from/IN them/PPO at/IN all/ABN ./pct
 Sonic/JJ ,/pct electronic/JJ ,/pct galvanic/JJ --/pct all/ABN blank/JJ ./pct
-According/IN to/IN these/DTS needles/NNS ,/pct they're /None stone/NN dead/JJ ''/pct ./pct
+According/IN to/IN these/DTS needles/NNS ,/pct they're/PPSSBER stone/NN dead/JJ ''/pct ./pct
 ``/pct Ekstrohm/NP ,/pct you/PPSS and/CC I/PPSS will/MD have/HV a/AT look/NN ''/pct ,/pct Ryan/NP said/VBD ./pct
 ``/pct You/PPSS hold/VB down/RP the/AT fort/NN ,/pct Nogol/NP ./pct
 Take/VB it/PPO easy/RB ''/pct ./pct
 ``/pct Easy/RB ''/pct ,/pct Nogol/NP confirmed/VBD ./pct
-``/pct I/PPSS heard/VBD a/AT story/NN once/RB about/IN a/AT rookie/NN who/WPS got/VBD excited/VBN when/WRB the/AT captain/NN stepped/VBD outside/RB and/CC he/PPS couldn't /None get/VB an/AT encephalographic/JJ reading/NN on/IN him/PPO ./pct
+``/pct I/PPSS heard/VBD a/AT story/NN once/RB about/IN a/AT rookie/NN who/WPS got/VBD excited/VBN when/WRB the/AT captain/NN stepped/VBD outside/RB and/CC he/PPS couldn't/MD* get/VB an/AT encephalographic/JJ reading/NN on/IN him/PPO ./pct
 Me/PPO ,/pct I/PPSS know/VB the/AT mind/NN of/IN an/AT officer/NN works/VBZ in/IN a/AT strange/JJ and/CC unfathomable/JJ manner/NN ''/pct ./pct
-``/pct I'm /None not/NEG worried/VBN about/IN you/PPO mis-reading/VBG the/AT dials/NNS ,/pct Nogol/NP ,/pct just/RB about/IN a/AT lug/NN like/CS you/PPSS reading/VBG them/PPO at/IN all/ABN ./pct
-Remember/VB ,/pct when/WRB the/AT little/AP hand/NN is/BEZ straight/RB up/RP that's /None negative/JJ ./pct
+``/pct I'm/PPSSBEM not/NEG worried/VBN about/IN you/PPO mis-reading/VBG the/AT dials/NNS ,/pct Nogol/NP ,/pct just/RB about/IN a/AT lug/NN like/CS you/PPSS reading/VBG them/PPO at/IN all/ABN ./pct
+Remember/VB ,/pct when/WRB the/AT little/AP hand/NN is/BEZ straight/RB up/RP that's/DTBEZ negative/JJ ./pct
 Positive/JJ results/NNS start/VB when/WRB it/PPS goes/VBZ towards/IN the/AT hand/NN you/PPSS use/VB to/TO make/VB your/PPg mark/NN ''/pct ./pct
-``/pct But/CC I'm /None ambidextrous/JJ ''/pct ./pct
+``/pct But/CC I'm/PPSSBEM ambidextrous/JJ ''/pct ./pct
 Ryan/NP told/VBD him/PPO what/WDT he/PPS could/MD do/DO then/RB ./pct
 Ekstrohm/NP smiled/VBD ,/pct and/CC followed/VBD the/AT captain/NN through/IN the/AT airlock/NN with/IN only/RB a/AT glance/NN at/IN the/AT lapel/NN gauge/NN on/IN his/PPg coverall/NN ./pct
 The/AT strong/JJ negative/JJ field/NN his/PPg suit/NN set/VB up/RP would/MD help/VB to/TO repel/VB bacteria/NNS and/CC insects/NNS ./pct
 Actually/RB ,/pct the/AT types/NNS of/IN infection/NN that/WPS could/MD attack/VB a/AT warm-blooded/JJ mammal/NN were/BED not/NEG infinite/JJ ,/pct and/CC over/IN the/AT course/NN of/IN the/AT last/AP few/AP hundred/CD years/NNS adequate/JJ defenses/NNS had/HVD been/BEN found/VBN for/IN all/ABN basic/JJ categories/NNS ./pct
-He/PPS wasn't /None likely/JJ to/TO come/VB down/RP with/IN hot/JJ chills/NNS and/CC puzzling/JJ striped/VBN fever/NN ./pct
+He/PPS wasn't/BEDZ* likely/JJ to/TO come/VB down/RP with/IN hot/JJ chills/NNS and/CC puzzling/JJ striped/VBN fever/NN ./pct
 They/PPSS ignored/VBD the/AT ladder/NN down/RP to/IN the/AT planet/NN surface/NN and/CC ,/pct with/IN only/RB a/AT glance/NN at/IN the/AT seismological/JJ gauge/NN to/TO judge/VB surface/NN resistance/NN ,/pct dropped/VBD to/IN the/AT ground/NN ./pct
 It/PPS was/BEDZ day/NN ,/pct but/CC in/IN the/AT thin/JJ atmosphere/NN contrasts/NNS were/BED sharp/JJ between/IN light/NN and/CC shadow/NN ./pct
 They/PPSS walked/VBD from/IN midnight/NN to/IN noon/NN ,/pct noon/NN to/IN midnight/NN ,/pct and/CC came/VBD to/IN the/AT beast/NN sprawled/VBN on/IN its/PPg side/NN ./pct
 Ekstrohm/NP nudged/VBD it/PPO with/IN a/AT boot/NN ./pct
 ``/pct Hey/UH ,/pct this/DT is/BEZ pretty/QL close/RB to/IN a/AT wart-hog/NN ''/pct ./pct
 ``/pct Uh-huh/UH ''/pct ,/pct Ryan/NP admitted/VBD ./pct
-``/pct One/CD of/IN the/AT best/JJT matches/NNS I've /None ever/RB found/VBN ./pct
+``/pct One/CD of/IN the/AT best/JJT matches/NNS I've/PPSSHV ever/RB found/VBN ./pct
 Well/UH ,/pct it/PPS has/HVZ to/TO happen/VB ./pct
 Statistical/JJ average/NN and/CC all/ABN ./pct
 Still/RB ,/pct it/PPS sometimes/RB gives/VBZ you/PPO a/AT creepy/JJ feeling/NN to/TO find/VB a/AT rabbit/NN or/CC a/AT snapping/VBG turtle/NN on/IN some/DTI strange/JJ world/NN ./pct
-It/PPS makes/VBZ you/PPO wonder/VB if/CS this/DT exploration/NN business/NN isn't /None all/ABN some/DTI big/JJ joke/NN ,/pct and/CC somebody/PN has/HVZ been/BEN everywhere/RB before/CS you/PPSS even/RB started/VBD ''/pct ./pct
+It/PPS makes/VBZ you/PPO wonder/VB if/CS this/DT exploration/NN business/NN isn't/BEZ* all/ABN some/DTI big/JJ joke/NN ,/pct and/CC somebody/PN has/HVZ been/BEN everywhere/RB before/CS you/PPSS even/RB started/VBD ''/pct ./pct
 The/AT surveyor/NN looked/VBD sidewise/RB at/IN the/AT captain/NN ./pct
 The/AT big/JJ man/NN seldom/RB gave/VBD out/RP with/IN such/JJ thoughts/NNS ./pct
 Ekstrohm/NP cleared/VBD his/PPg throat/NN ./pct
 ``/pct What/WDT shall/MD we/PPSS do/DO with/IN this/DT one/PN ?/pct ?/pct
 Dissect/VB it/PPO ''/pct ?/pct ?/pct
 Ryan/NP nudged/VBD it/PPO with/IN his/PPg toe/NN ,/pct following/VBG Ekstrohm's/NPg example/NN ./pct
-``/pct I/PPSS don't /None know/VB ,/pct Stormy/NP ./pct
-It/PPS sure/RB as/CS hell/NN doesn't /None look/VB like/CS any/DTI dominant/JJ intelligent/JJ species/NN to/IN me/PPO ./pct
+``/pct I/PPSS don't/DO* know/VB ,/pct Stormy/NP ./pct
+It/PPS sure/RB as/CS hell/NN doesn't/DOZ* look/VB like/CS any/DTI dominant/JJ intelligent/JJ species/NN to/IN me/PPO ./pct
 No/AT hands/NNS ,/pct for/IN one/CD thing/NN ./pct
-Of/IN course/NN ,/pct that's /None not/NEG definite/JJ proof/NN ''/pct ./pct
-``/pct No/AT ,/pct it/PPS isn't /None ''/pct ,/pct Ekstrohm/NP said/VBD ./pct
-``/pct I/PPSS think/VB we'd /None better/RBR let/VB it/PPO lay/VB until/CS we/PPSS get/VB a/AT clearer/JJR picture/NN of/IN the/AT ecological/JJ setup/NN around/IN here/RB ./pct
+Of/IN course/NN ,/pct that's/DTBEZ not/NEG definite/JJ proof/NN ''/pct ./pct
+``/pct No/AT ,/pct it/PPS isn't/BEZ* ''/pct ,/pct Ekstrohm/NP said/VBD ./pct
+``/pct I/PPSS think/VB we'd/PPSSHVD better/RBR let/VB it/PPO lay/VB until/CS we/PPSS get/VB a/AT clearer/JJR picture/NN of/IN the/AT ecological/JJ setup/NN around/IN here/RB ./pct
 In/IN the/AT meantime/NN ,/pct we/PPSS might/MD be/BE thinking/VBG on/IN the/AT problem/NN all/ABN these/DTS dead/JJ beasts/NNS represent/VB ./pct
 What/WDT killed/VBD them/PPO ''/pct ?/pct ?/pct
 ``/pct It/PPS looks/VBZ like/CS we/PPSS did/DOD ,/pct when/WRB we/PPSS made/VBD blastdown/NN ''/pct ./pct
@@ -84,19 +84,19 @@ What/WDT killed/VBD them/PPO ''/pct ?/pct ?/pct
 Ekstrohm/NP suggested/VBD ./pct
 ``/pct The/AT planet/NN is/BEZ very/QL low/JJ in/IN radiation/NN from/IN mineral/NN deposits/NNS ,/pct and/CC the/AT atmosphere/NN seems/VBZ to/TO shield/VB out/RP most/AP of/IN the/AT solar/JJ output/NN ./pct
 Any/DTI little/AP dose/NN of/IN radiation/NN might/MD knock/VB off/RP these/DTS critters/NNS ''/pct ./pct
-``/pct I/PPSS don't /None know/VB about/IN that/DT ./pct
+``/pct I/PPSS don't/DO* know/VB about/IN that/DT ./pct
 Maybe/RB it/PPS would/MD work/VB the/AT other/AP way/NN ./pct
-Maybe/RB because/CS they/PPSS have/HV had/HVN virtually/RB no/AT radioactive/JJ exposure/NN and/CC don't /None have/HV any/DTI R's/NP stored/VBN up/RP ,/pct they/PPSS could/MD take/VB a/AT lot/NN without/IN harm/NN ''/pct ./pct
+Maybe/RB because/CS they/PPSS have/HV had/HVN virtually/RB no/AT radioactive/JJ exposure/NN and/CC don't/DO* have/HV any/DTI R's/NP stored/VBN up/RP ,/pct they/PPSS could/MD take/VB a/AT lot/NN without/IN harm/NN ''/pct ./pct
 ``/pct Then/RB maybe/RB it/PPS was/BEDZ the/AT shockwave/NN we/PPSS set/VBD up/RP ./pct
-Or/CC maybe/RB it's /None sheer/JJ xenophobia/NN ./pct
+Or/CC maybe/RB it's/PPSBEZ sheer/JJ xenophobia/NN ./pct
 They/PPSS curl/VB up/RP and/CC die/VB at/IN the/AT sight/NN of/IN something/PN strange/JJ and/CC alien/JJ --/pct like/CS a/AT spaceship/NN ''/pct ./pct
 ``/pct Maybe/RB ''/pct ,/pct the/AT captain/NN admitted/VBD ./pct
 ``/pct At/IN this/DT stage/NN of/IN the/AT game/NN anything/PN could/MD be/BE possible/JJ ./pct
-But/CC there's /None one/CD possibility/NN I/PPSS particularly/RB don't /None like/VB ''/pct ./pct
+But/CC there's/EXBEZ one/CD possibility/NN I/PPSS particularly/RB don't/DO* like/VB ''/pct ./pct
 ``/pct And/CC that/DT is/BEZ ''/pct ?/pct ?/pct
 ``/pct Suppose/VB it/PPS was/BEDZ not/NEG us/PPO that/WPS killed/VBD these/DTS aliens/NNS ./pct
 Suppose/VB it/PPS is/BEZ something/PN right/QL on/IN the/AT planet/NN ,/pct native/JJ to/IN it/PPO ./pct
-I/PPSS just/RB hope/VB it/PPS doesn't /None work/VB on/IN Earthmen/NPS too/RB ./pct
+I/PPSS just/RB hope/VB it/PPS doesn't/DOZ* work/VB on/IN Earthmen/NPS too/RB ./pct
 These/DTS critters/NNS went/VBD real/QL sudden/JJ ''/pct ./pct
 Ekstrohm/NP lay/VBD in/IN his/PPg bunk/NN and/CC thought/VBD ,/pct the/AT camp/NN is/BEZ quiet/JJ ./pct
 The/AT Earthmen/NPS made/VBD camp/NN outside/IN the/AT spaceship/NN ./pct
@@ -126,54 +126,54 @@ His/PPg body/NN processes/NNS only/RB slowed/VBD down/RP enough/QLP for/IN him/P
 Occasionally/RB he/PPS fell/VBD into/IN a/AT waking/VBG ,/pct gritty-eyed/JJ stupor/NN ;/pct ;/pct
 but/CC he/PPS never/RB slept/VBD ./pct
 Never/RB at/IN all/ABN ./pct
-Naturally/RB ,/pct he/PPS couldn't /None let/VB his/PPg shipmates/NNS know/VB this/DT ./pct
+Naturally/RB ,/pct he/PPS couldn't/MD* let/VB his/PPg shipmates/NNS know/VB this/DT ./pct
 Insomnia/NN would/MD ground/VB him/PPO from/IN the/AT Exploration/NN Service/NN ,/pct on/IN physiological/JJ if/CS not/NEG psychological/JJ grounds/NNS ./pct
 He/PPS had/HVD to/TO hide/VB it/PPO ./pct
 Over/IN the/AT years/NNS ,/pct he/PPS had/HVD had/HVN buddies/NNS in/IN space/NN in/IN whom/WPO he/PPS thought/VBD he/PPS could/MD confide/VB ./pct
 The/AT buddies/NNS invariably/RB took/VBD advantage/NN of/IN him/PPO ./pct
-Since/CS he/PPS couldn't /None sleep/VB anyway/RB ,/pct he/PPS might/MD as/QL well/RB stand/VB their/PPg watches/NNS for/IN them/PPO or/CC write/VB their/PPg reports/NNS ./pct
+Since/CS he/PPS couldn't/MD* sleep/VB anyway/RB ,/pct he/PPS might/MD as/QL well/RB stand/VB their/PPg watches/NNS for/IN them/PPO or/CC write/VB their/PPg reports/NNS ./pct
 Where/WRB the/AT hell/NN did/DOD he/PPS get/VB off/RP threatening/VBG to/TO report/VB any/DTI laxness/NN on/IN their/PPg part/NN to/IN the/AT captain/NN ?/pct ?/pct
 A/AT man/NN with/IN insomnia/NN had/HVD better/RBR avoid/VB bad/JJ dreams/NNS of/IN that/DT kind/NN if/CS he/PPS knew/VBD what/WDT was/BEDZ good/JJ for/IN him/PPO ./pct
 Ekstrohm/NP had/HVD to/TO hide/VB his/PPg secret/NN ./pct
 In/IN a/AT camp/NN ,/pct instead/RB of/IN shipboard/NN ,/pct hiding/VBG the/AT secret/NN was/BEDZ easier/JJR ./pct
 But/CC the/AT secret/NN itself/PPL was/BEDZ just/RB as/QL hard/JJ ./pct
 Ekstrohm/NP picked/VBD up/RP a/AT lightweight/JJ no-back/NN from/IN the/AT ship's/NNg library/NN ,/pct a/AT book/NN by/IN Bloch/NP ,/pct the/AT famous/JJ twentieth/OD century/NN expert/NN on/IN sex/NN ./pct
-He/PPS scanned/VBD a/AT few/AP lines/NNS on/IN the/AT social/JJ repercussions/NNS of/IN a/AT celebrated/VBN nineteenth/OD century/NN sex/NN murderer/NN ,/pct but/CC he/PPS couldn't /None seem/VB to/TO concentrate/VB on/IN the/AT weighty/JJ ,/pct pontifical/JJ ,/pct ponderous/JJ style/NN ./pct
+He/PPS scanned/VBD a/AT few/AP lines/NNS on/IN the/AT social/JJ repercussions/NNS of/IN a/AT celebrated/VBN nineteenth/OD century/NN sex/NN murderer/NN ,/pct but/CC he/PPS couldn't/MD* seem/VB to/TO concentrate/VB on/IN the/AT weighty/JJ ,/pct pontifical/JJ ,/pct ponderous/JJ style/NN ./pct
 On/IN impulse/NN ,/pct he/PPS flipped/VBD up/RP the/AT heat/NN control/NN on/IN his/PPg coverall/NN and/CC slid/VBD back/RB the/AT hatch/NN of/IN the/AT bubble/NN ./pct
 Ekstrohm/NP walked/VBD through/IN the/AT alien/JJ glass/NN and/CC looked/VBD up/RP at/IN the/AT unfamiliar/JJ constellations/NNS ,/pct smelling/VBG the/AT frozen/VBN sterility/NN of/IN the/AT thin/JJ air/NN ./pct
 Behind/IN him/PPO ,/pct his/PPg mates/NNS stirred/VBD without/IN waking/VBG ./pct
 Ekstrohm/NP was/BEDZ startled/VBN in/IN the/AT morning/NN by/IN a/AT banging/NN on/IN the/AT hatch/NN of/IN his/PPg bubble/NN ./pct
 It/PPS took/VBD him/PPO a/AT few/AP seconds/NNS to/TO put/VB his/PPg thoughts/NNS in/IN order/NN ,/pct and/CC then/RB he/PPS got/VBD up/RP from/IN the/AT bunk/NN where/WRB he/PPS had/HVD been/BEN resting/VBG ,/pct sleeplessly/RB ./pct
 The/AT angry/JJ burnt-red/JJ face/NN of/IN Ryan/NP greeted/VBD him/PPO ./pct
-``/pct Okay/UH ,/pct Stormy/NP ,/pct this/DT isn't /None the/AT place/NN for/IN fun/NN and/CC games/NNS ./pct
+``/pct Okay/UH ,/pct Stormy/NP ,/pct this/DT isn't/BEZ* the/AT place/NN for/IN fun/NN and/CC games/NNS ./pct
 What/WDT did/DOD you/PPO do/DO with/IN them/PPO ''/pct ?/pct ?/pct
 ``/pct Do/DO with/IN what/WDT ''/pct ?/pct ?/pct
 ``/pct The/AT dead/JJ beasties/NNS ./pct
 All/QL the/AT dead/JJ animals/NNS laying/VBG around/IN the/AT ship/NN ''/pct ./pct
 ``/pct What/WDT are/BER you/PPSS talking/VBG about/RB ,/pct Ryan/NP ?/pct ?/pct
 What/WDT do/DO you/PPO think/VB I/PPSS did/DOD with/IN them/PPO ''/pct ?/pct ?/pct
-``/pct I/PPSS don't /None know/VB ./pct
+``/pct I/PPSS don't/DO* know/VB ./pct
 All/ABN I/PPSS know/VB is/BEZ that/CS they/PPSS are/BER gone/VBN ''/pct ./pct
 ``/pct Gone/VBN ''/pct ?/pct ?/pct
 Ekstrohm/NP shouldered/VBD his/PPg way/NN outside/RB and/CC scanned/VBD the/AT veldt/NN ./pct
 There/EX was/BEDZ no/AT ring/NN of/IN animal/NN corpses/NNS ./pct
 Nothing/PN ./pct
 Nothing/PN but/IN wispy/JJ grass/NN whipping/VBG in/IN the/AT keen/JJ breeze/NN ./pct
-``/pct I'll /None be/BE damned/VBN ''/pct ,/pct Ekstrohm/NP said/VBD ./pct
+``/pct I'll/PPSSMD be/BE damned/VBN ''/pct ,/pct Ekstrohm/NP said/VBD ./pct
 ``/pct You/PPSS are/BER right/JJ now/RB ,/pct buddy/NN ./pct
-ExPe/NP doesn't /None like/VB anybody/PN mucking/VBG up/RP primary/JJ evidence/NN ''/pct ./pct
+ExPe/NP doesn't/DOZ* like/VB anybody/PN mucking/VBG up/RP primary/JJ evidence/NN ''/pct ./pct
 ``/pct Where/WRB do/DO you/PPO get/VB off/RP ,/pct Ryan/NP ''/pct ?/pct ?/pct
 Ekstrohm/NP demanded/VBD ./pct
 ``/pct Why/WRB pick/NN me/PPO for/IN your/PPg patsy/NN ?/pct ?/pct
 This/DT has/HVZ got/VBN to/TO be/BE some/DTI kind/NN of/IN local/JJ phenomenon/NN ./pct
 Why/WRB accuse/VB a/AT shipmate/NN of/IN being/BEG behind/IN this/DT ''/pct ?/pct ?/pct
 ``/pct Listen/VB ,/pct Ekstrohm/NP ,/pct I/PPSS want/VB to/TO give/VB you/PPO the/AT benefit/NN of/IN every/AT doubt/NN ./pct
-But/CC you/PPSS aren't /None exactly/RB the/AT model/NN of/IN a/AT surveyor/NN ,/pct you/PPSS know/VB ./pct
-You've /None been/BEN riding/VBG on/IN a/AT pink/JJ ticket/NN for/IN six/CD years/NNS ,/pct you/PPSS know/VB that/DT ''/pct ./pct
-``/pct No/RB ''/pct ,/pct Ekstrohm/NP said/VBD ,/pct ``/pct No/RB ,/pct I/PPSS didn't /None know/VB that/DT ''/pct ./pct
-``/pct You've /None been/BEN hiding/VBG things/NNS from/IN me/PPO and/CC Nogol/NP every/AT jump/NN we've /None made/VBN with/IN you/PPO ./pct
+But/CC you/PPSS aren't/BER* exactly/RB the/AT model/NN of/IN a/AT surveyor/NN ,/pct you/PPSS know/VB ./pct
+You've/PPSSHV been/BEN riding/VBG on/IN a/AT pink/JJ ticket/NN for/IN six/CD years/NNS ,/pct you/PPSS know/VB that/DT ''/pct ./pct
+``/pct No/RB ''/pct ,/pct Ekstrohm/NP said/VBD ,/pct ``/pct No/RB ,/pct I/PPSS didn't/DOD* know/VB that/DT ''/pct ./pct
+``/pct You've/PPSSHV been/BEN hiding/VBG things/NNS from/IN me/PPO and/CC Nogol/NP every/AT jump/NN we've/PPSSHV made/VBN with/IN you/PPO ./pct
 Now/RB comes/VBZ this/DT !/pct !/pct
-It/PPS fits/VBZ the/AT pattern/NN of/IN secrecy/NN and/CC stealth/NN you've /None been/BEN involved/VBN in/RP ''/pct ./pct
+It/PPS fits/VBZ the/AT pattern/NN of/IN secrecy/NN and/CC stealth/NN you've/PPSSHV been/BEN involved/VBN in/RP ''/pct ./pct
 ``/pct What/WDT could/MD I/PPSS do/DO with/IN your/PPg lousy/JJ dead/JJ bodies/NNS ?/pct ?/pct
 What/WDT would/MD I/PPSS want/VB with/IN them/PPO ''/pct ?/pct ?/pct
 ``/pct All/ABN I/PPSS know/VB is/BEZ that/CS you/PPSS were/BED outside/IN the/AT bubbles/NNS last/VB night/NN ,/pct and/CC you/PPSS were/BED the/AT only/AP sentient/JJ being/NN who/WPS came/VBD in/RP or/CC out/RP of/IN our/PPg alarm/NN web/NN ./pct
@@ -181,17 +181,17 @@ The/AT tapes/NNS show/VB that/DT ./pct
 Now/RB all/ABN the/AT bodies/NNS are/BER missing/VBG ,/pct like/CS they/PPSS got/VBD up/RP and/CC walked/VBD away/RB ''/pct ./pct
 It/PPS was/BEDZ not/NEG a/AT new/JJ experience/NN to/IN Ekstrohm/NP ./pct
 No/RB ./pct
-Suspicion/NN wasn't /None new/JJ to/IN him/PPO at/IN all/ABN ./pct
+Suspicion/NN wasn't/BEDZ* new/JJ to/IN him/PPO at/IN all/ABN ./pct
 ``/pct Ryan/NP ,/pct there/EX are/BER other/AP explanations/NNS for/IN the/AT disappearance/NN of/IN the/AT bodies/NNS ./pct
 Look/VB for/IN them/PPO ,/pct will/MD you/PPSS ?/pct ?/pct
-I/PPSS give/VB you/PPO my/PPg word/NN I'm /None not/NEG trying/VBG to/TO pull/VB some/DTI stupid/JJ kind/NN of/IN joke/NN ,/pct or/CC to/TO deliberately/RB foul/VB up/RP the/AT expedition/NN ./pct
-Take/VB my/PPg word/NN ,/pct can't /None you/PPSS ''/pct ?/pct ?/pct
+I/PPSS give/VB you/PPO my/PPg word/NN I'm/PPSSBEM not/NEG trying/VBG to/TO pull/VB some/DTI stupid/JJ kind/NN of/IN joke/NN ,/pct or/CC to/TO deliberately/RB foul/VB up/RP the/AT expedition/NN ./pct
+Take/VB my/PPg word/NN ,/pct can't/MD* you/PPSS ''/pct ?/pct ?/pct
 Ryan/NP shook/VBD his/PPg head/NN ./pct
-``/pct I/PPSS don't /None think/VB I/PPSS can/MD ./pct
-There's /None still/RB such/ABL a/AT thing/NN as/CS mental/JJ illness/NN ./pct
+``/pct I/PPSS don't/DO* think/VB I/PPSS can/MD ./pct
+There's/EXBEZ still/RB such/ABL a/AT thing/NN as/CS mental/JJ illness/NN ./pct
 You/PPSS may/MD not/NEG be/BE responsible/JJ ''/pct ./pct
 Ekstrohm/NP scowled/VBD ./pct
-``/pct Don't /None try/VB anything/PN violent/JJ ,/pct Stormy/NP ./pct
-I/PPSS outweigh/VB you/PPO fifty/CD pounds/NNS and/CC I'm /None fast/RB for/IN a/AT big/JJ man/NN ''/pct ./pct
-``/pct I/PPSS wasn't /None planning/VBG on/IN jumping/VBG you/PPO ./pct
+``/pct Don't/DO* try/VB anything/PN violent/JJ ,/pct Stormy/NP ./pct
+I/PPSS outweigh/VB you/PPO fifty/CD pounds/NNS and/CC I'm/PPSSBEM fast/RB for/IN a/AT big/JJ man/NN ''/pct ./pct
+``/pct I/PPSS wasn't/BEDZ* planning/VBG on/IN jumping/VBG you/PPO ./pct
 Why/WRB do/DO you/PPO have/HV to/TO jump/VB me/PPO the/AT first/OD time/NN something/PN goes/VBZ wrong/JJ ?/pct ?/pct

@@ -52,13 +52,13 @@ As/CS mass/NN dealer/NN and/CC distributor/NN organizations/NNS grow/VB in/IN si
 Average/NN manufacturer/NN frequently/RB has/HVZ helped/VBN build/VB private/JJ brand/NN business/NN ,/pct delivering/VBG largely/RB the/AT same/AP qualities/NNS and/CC styles/NNS in/IN private/JJ brand/NN merchandise/NN as/CS in/IN branded/VBN ./pct
 Moreover/RB ,/pct the/AT larger/JJR and/CC more/QL aggressive/JJ mass/NN distribution/NN outlets/NNS and/CC chain/NN stores/NNS have/HV insisted/VBN on/IN high/JJ quality/NN --/pct and/CC the/AT customer/NN seems/VBZ to/TO have/HV caught/VBN on/RP ./pct
 If/CS you/PPSS are/BER up/RP against/IN private/JJ brand/NN competition/NN ,/pct have/HV you/PPSS formulated/VBN a/AT long-term/NN program/NN for/IN researching/VBG and/CC strengthening/VBG your/PPg market/NN position/NN ?/pct ?/pct
-If/CS private/JJ brand/NN competition/NN hasn't /None been/BEN felt/VBN in/IN your/PPg product/NN field/NN as/QL yet/RB ,/pct have/HV you/PPSS thought/VBN how/WRB you/PPSS will/MD cope/VB with/IN it/PPO if/CS and/CC when/WRB it/PPS does/DOZ appear/VB ?/pct ?/pct
+If/CS private/JJ brand/NN competition/NN hasn't/HVZ* been/BEN felt/VBN in/IN your/PPg product/NN field/NN as/QL yet/RB ,/pct have/HV you/PPSS thought/VBN how/WRB you/PPSS will/MD cope/VB with/IN it/PPO if/CS and/CC when/WRB it/PPS does/DOZ appear/VB ?/pct ?/pct
 Less/AP personal/JJ salesmanship/NN ./pct
 Display/NN merchandising/VBG ,/pct backed/VBN by/IN pre-selling/VBG through/IN advertising/VBG and/CC promotion/NN ,/pct will/MD continue/VB to/TO make/VB strides/NNS in/IN the/AT sixties/NNS ./pct
 It/PPS has/HVZ multiple/JJ implications/NNS and/CC possible/JJ headaches/NNS for/IN your/PPg marketing/VBG program/NN ./pct
 How/WRB can/MD you/PPSS cash/VB in/RP on/IN this/DT fast-growing/JJ type/NN of/IN outlet/NN and/CC still/RB maintain/VB relationships/NNS with/IN older/JJR existing/VBG outlets/NNS which/WDT are/BER still/RB important/JJ ?/pct ?/pct
 If/CS you/PPSS have/HV a/AT higher-quality/NN product/NN ,/pct how/WRB can/MD you/PPSS make/VB it/PPO stand/VB out/RP --/pct justify/VB its/PPg premium/NN price/NN --/pct without/IN the/AT spoken/VBN word/NN ?/pct ?/pct
-Salesmanship/NN is/BEZ still/RB necessary/JJ ,/pct but/CC it's /None a/AT different/JJ brand/NN of/IN salesmanship/NN ./pct
+Salesmanship/NN is/BEZ still/RB necessary/JJ ,/pct but/CC it's/PPSBEZ a/AT different/JJ brand/NN of/IN salesmanship/NN ./pct
 Have/HV you/PPSS carefully/RB examined/VBN the/AT selling/VBG techniques/NNS which/WDT best/RBT suit/VB your/PPg products/NNS ?/pct ?/pct
 Have/HV you/PPSS studied/VBN the/AT caliber/NN and/CC sales/NNS approaches/NNS of/IN your/PPg sales/NNS force/NN in/IN relation/NN to/IN requirements/NNS for/IN effective/JJ marketing/NN ?/pct ?/pct
 Are/BER you/PPSS experimenting/VBG with/IN different/JJ selling/VBG slants/NNS in/IN developing/VBG new/JJ customers/NNS ?/pct ?/pct
@@ -89,11 +89,11 @@ On/IN the/AT other/AP hand/NN ,/pct the/AT process/NN of/IN obsoleting/VBG an/AT
 As/CS markets/NNS become/VB larger/JJR and/CC marketing/VBG more/QL complex/JJ ,/pct the/AT costs/NNS of/IN an/AT error/NN become/VB progressively/RB larger/JJR ./pct
 Is/BEZ your/PPg R/NP &/CC D/NP or/CC product/NN development/NN program/NN tuned/VBN in/RP to/IN the/AT commercial/JJ realities/NNS of/IN the/AT market/NN ?/pct ?/pct
 Are/BER there/EX regular/JJ communications/NNS from/IN the/AT field/NN ,/pct or/CC meetings/NNS of/IN sales/NNS and/CC marketing/VBG personnel/NNS with/IN R/NP &/CC D/NP people/NNS ?/pct ?/pct
-Technical/JJ knowledge/NN is/BEZ a/AT wonderful/JJ thing/NN ,/pct but/CC it's /None useless/JJ unless/CS it/PPS eventually/RB feeds/VBZ the/AT cash/NN register/NN ./pct
+Technical/JJ knowledge/NN is/BEZ a/AT wonderful/JJ thing/NN ,/pct but/CC it's/PPSBEZ useless/JJ unless/CS it/PPS eventually/RB feeds/VBZ the/AT cash/NN register/NN ./pct
 Are/BER there/EX individuals/NNS in/IN your/PPg organization/NN who/WPS can/MD shepherd/VB a/AT new/JJ product/NN through/RP to/IN commercialization/NN ;/pct ;/pct
 who/WPS can/MD develop/VB reliable/JJ estimates/NNS of/IN sales/NNS volume/NN ,/pct production/NN ,/pct and/CC distribution/NN costs/NNS ;/pct ;/pct
 and/CC translate/VB the/AT whole/JJ into/IN profit/NN and/CC loss/NN and/CC balance/VB sheet/NN figures/NNS which/WDT management/NN can/MD act/VB on/IN with/IN some/DTI assurance/NN ?/pct ?/pct
-We/PPSS have/HV seen/VBN good/JJ new/JJ products/NNS shelved/VBN because/CS no/AT one/PN had/HVD the/AT assignment/NN to/TO develop/VB such/JJ facts/NNS and/CC plans/NNS --/pct and/CC management/NN couldn't /None make/VB up/RP its/PPg mind/NN ./pct
+We/PPSS have/HV seen/VBN good/JJ new/JJ products/NNS shelved/VBN because/CS no/AT one/PN had/HVD the/AT assignment/NN to/TO develop/VB such/JJ facts/NNS and/CC plans/NNS --/pct and/CC management/NN couldn't/MD* make/VB up/RP its/PPg mind/NN ./pct
 3/CD ./pct
 Problems/NNS in/IN marketing/VBG management/NN
 shortage/NN of/IN skilled/JJ salesmen/NNS ./pct
@@ -115,7 +115,7 @@ Every/AT single/AP problem/NN touched/VBN on/RP thus/QL far/RB is/BEZ related/VB
 ``/pct Hip-pocket/NN ''/pct tactics/NNS are/BER going/VBG to/TO be/BE harder/JJR to/TO apply/VB ./pct
 Many/AP food/NN and/CC beverage/NN companies/NNS are/BER already/RB on/IN a/AT highly/QL planned/VBN basis/NN ./pct
 They/PPSS have/HV to/TO be/BE ./pct
-With/IN greater/JJR investments/NNS in/IN plant/NN facilities/NNS ,/pct with/IN automation/NN growing/VBG ,/pct you/PPSS can't /None switch/VB around/RB ,/pct either/CC in/IN volume/NN or/CC in/IN product/NN design/NN ,/pct as/QL much/RB as/CS was/BEDZ formerly/RB possible/JJ --/pct or/CC at/IN least/AP not/NEG as/QL economically/RB ./pct
+With/IN greater/JJR investments/NNS in/IN plant/NN facilities/NNS ,/pct with/IN automation/NN growing/VBG ,/pct you/PPSS can't/MD* switch/VB around/RB ,/pct either/CC in/IN volume/NN or/CC in/IN product/NN design/NN ,/pct as/QL much/RB as/CS was/BEDZ formerly/RB possible/JJ --/pct or/CC at/IN least/AP not/NEG as/QL economically/RB ./pct
 Are/BER planning/VBG and/CC strategy/NN development/NN emphasized/VBN sufficiently/RB in/IN your/PPg company/NN ?/pct ?/pct
 We/PPSS find/VB too/QL many/AP sales/NNS and/CC marketing/VBG executives/NNS so/QL burdened/VBN with/IN detail/NN that/CS they/PPSS are/BER short-changing/VBG planning/VBG ./pct
 Are/BER annual/JJ marketing/VBG plans/NNS reviewed/VBN throughout/IN your/PPg management/NN group/NN to/TO get/VB the/AT perspective/NN of/IN all/ABN individuals/NNS and/CC get/VB everyone/PN on/IN the/AT marketing/VBG team/NN ?/pct ?/pct

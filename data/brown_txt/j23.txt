@@ -18,7 +18,7 @@ Religion/NN seeks/VBZ to/TO satisfy/VB human/JJ needs/NNS of/IN great/JJ pertine
 The/AT significant/JJ things/NNS in/IN it/PPO ,/pct at/IN the/AT higher/JJR religious/JJ levels/NNS ,/pct are/BER the/AT inner/JJ emotional/JJ ,/pct mental/JJ ,/pct and/CC spiritual/JJ occurrences/NNS that/WPS fill/VB the/AT pressing/VBG human/JJ needs/NNS of/IN self-preservation/NN ,/pct self-pacification/NN ,/pct and/CC self-completion/NN ./pct
 The/AT chief/JJS experience/NN is/BEZ the/AT sensing/NN of/IN communion/NN ,/pct and/CC in/IN the/AT higher/JJR religions/NNS ,/pct of/IN a/AT harmonious/JJ relationship/NN with/IN the/AT supernatural/JJ power/NN ./pct
 Related/VBN to/IN this/DT is/BEZ the/AT fact/NN that/CS most/AP of/IN the/AT higher/JJR religions/NNS define/VB for/IN the/AT individual/NN his/PPg place/NN in/IN the/AT universe/NN and/CC give/VB him/PPO a/AT feeling/NN that/CS he/PPS is/BEZ relatively/QL secure/JJ in/IN an/AT ordered/VBN ,/pct dependable/JJ universe/NN ./pct
-Man/NN has/HVZ the/AT experience/NN of/IN being/BEG helpfully/RB allied/VBN with/IN what/WDT he/PPS cannot /None fully/RB understand/VB ;/pct ;/pct
+Man/NN has/HVZ the/AT experience/NN of/IN being/BEG helpfully/RB allied/VBN with/IN what/WDT he/PPS cannot/MD* fully/RB understand/VB ;/pct ;/pct
 he/PPS is/BEZ a/AT coordinate/JJ part/NN of/IN all/ABN of/IN the/AT mysterious/JJ energy/NN and/CC being/BEG and/CC movement/NN ./pct
 The/AT universe/NN is/BEZ a/AT safe/JJ and/CC permanent/JJ home/NN ./pct
 A/AT number/NN of/IN religions/NNS also/RB satisfy/VB for/IN many/AP the/AT need/NN of/IN being/BEG linked/VBN with/IN the/AT ultimate/JJ and/CC eternal/JJ ./pct
@@ -75,7 +75,7 @@ Without/IN a/AT system/NN of/IN values/NNS there/EX can/MD be/BE no/AT society/N
 Where/WRB such/ABL a/AT value/NN system/NN prevails/VBZ ,/pct it/PPS always/RB unifies/VBZ all/ABN who/WPS possess/VB it/PPO ;/pct ;/pct
 it/PPS enables/VBZ members/NNS of/IN the/AT society/NN to/TO operate/VB as/CS a/AT system/NN ./pct
 The/AT beliefs/NNS of/IN a/AT religion/NN also/RB reflecting/VBG the/AT values/NNS are/BER expressed/VBN in/IN creeds/NNS ,/pct dogmas/NNS ,/pct and/CC doctrines/NNS ,/pct and/CC form/VB what/WDT Durkheim/NP calls/VBZ a/AT credo/NN ./pct
-As/CS he/PPS points/VBZ out/RP ,/pct a/AT religious/JJ group/NN cannot /None exist/VB without/IN a/AT collective/JJ credo/NN ,/pct and/CC the/AT more/QL extensive/JJ the/AT credo/NN ,/pct the/AT more/QL unified/VBN and/CC strong/JJ is/BEZ the/AT group/NN ./pct
+As/CS he/PPS points/VBZ out/RP ,/pct a/AT religious/JJ group/NN cannot/MD* exist/VB without/IN a/AT collective/JJ credo/NN ,/pct and/CC the/AT more/QL extensive/JJ the/AT credo/NN ,/pct the/AT more/QL unified/VBN and/CC strong/JJ is/BEZ the/AT group/NN ./pct
 The/AT credo/NN unifies/VBZ and/CC socializes/VBZ men/NNS by/IN attaching/VBG them/PPO completely/RB to/IN an/AT identical/JJ body/NN of/IN doctrine/NN ;/pct ;/pct
 the/AT more/QL extensive/JJ and/CC firm/JJ the/AT body/NN of/IN doctrine/NN ,/pct the/AT firmer/JJR the/AT group/NN ./pct
 The/AT religious/JJ symbolism/NN ,/pct and/CC especially/RB the/AT closely/RB related/VBN rites/NNS and/CC worship/NN forms/NNS ,/pct constitute/VB a/AT powerful/JJ bond/NN for/IN the/AT members/NNS of/IN the/AT particular/AP faith/NN ./pct

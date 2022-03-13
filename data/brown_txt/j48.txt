@@ -7,7 +7,7 @@ The/AT states/NNS and/CC the/AT Nation's/NNg Capital/NN all/ABN have/HV some/DTI
 but/CC the/AT region/NN also/RB embraces/VBZ some/DTI of/IN the/AT staunchest/JJT opposition/NN ./pct
 Desegregation/NN has/HVZ been/BEN opposed/VBN by/IN massive/JJ resistance/NN ,/pct interposition/NN ,/pct pupil/NN assignment/NN (/pct with/IN no/AT assignments/NNS of/IN Negro/NP children/NNS )/pct ,/pct and/CC hate/NN bombings/NNS ./pct
 Desegregation/NN and/CC court/NN order/NN
-Now/RB let's /None look/VB at/IN the/AT evidence/NN that/WPS shows/VBZ the/AT increase/NN in/IN desegregation/NN and/CC such/JJ increase/NN as/CS a/AT result/NN of/IN court/NN order/NN ./pct
+Now/RB let's/VBPPO look/VB at/IN the/AT evidence/NN that/WPS shows/VBZ the/AT increase/NN in/IN desegregation/NN and/CC such/JJ increase/NN as/CS a/AT result/NN of/IN court/NN order/NN ./pct
 First/RB Kentucky/NP ./pct
 Elementary/JJ school/NN desegregation/NN came/VBD to/IN Owen/NP and/CC Union/NN Counties/NNS ,/pct which/WDT already/RB had/HVD high/JJ school/NN desegregation/NN ./pct
 The/AT action/NN was/BEDZ a/AT result/NN of/IN a/AT court/NN order/NN ,/pct the/AT citation/NN for/IN which/WDT (/pct and/CC for/IN other/AP court/NN action/NN mentioned/VBN in/IN this/DT paper/NN )/pct is/BEZ taken/VBN from/IN the/AT Summary/NN Report/NN for/IN this/DT Conference/NN ./pct
@@ -36,7 +36,7 @@ West/NR of/IN Rock/NN Creek/NN Park/NN is/BEZ still/RB monolithically/RB white/J
 Nearby/JJ Foggy/JJ Bottom/NN is/BEZ ousting/VBG Negroes/NPS ./pct
 The/AT large/JJ acreage/NN in/IN the/AT Southwest/JJ Redevelopment/NN area/NN beckons/VBZ white/JJ people/NNS --/pct what/WDT with/IN high-priced/JJ town/NN houses/NNS and/CC elevator/NN apartments/NNS ./pct
 The/AT Capitol/NN Hill/NN rehabilitation/NN ,/pct like/CS Foggy/JJ Bottom/NN ,/pct replaces/VBZ Negroes/NPS with/IN whites/NNS (/pct but/CC also/RB replaces/VBZ some/DTI whites/NNS with/IN other/AP whites/NNS )/pct ./pct
-The/AT sharpest/JJT break/NN with/IN tradition/NN ,/pct the/AT past/NN and/CC present/NN of/IN ``/pct White/JJ Ring/NN Around/IN a/AT Black/JJ Core/NN ''/pct ,/pct may/MD come/VB with/IN the/AT opening/NN of/IN nearby/JJ Montgomery/NP County/NN suburbs/NNS to/IN Negro/NP residents/NNS and/CC ,/pct presumably/RB ,/pct the/AT consequent/JJ conclusion/NN of/IN some/DTI whites/NNS that/CS they/PPSS cannot /None escape/VB the/AT Negro/NP by/IN fleeing/VBG to/IN the/AT suburbs/NNS ./pct
+The/AT sharpest/JJT break/NN with/IN tradition/NN ,/pct the/AT past/NN and/CC present/NN of/IN ``/pct White/JJ Ring/NN Around/IN a/AT Black/JJ Core/NN ''/pct ,/pct may/MD come/VB with/IN the/AT opening/NN of/IN nearby/JJ Montgomery/NP County/NN suburbs/NNS to/IN Negro/NP residents/NNS and/CC ,/pct presumably/RB ,/pct the/AT consequent/JJ conclusion/NN of/IN some/DTI whites/NNS that/CS they/PPSS cannot/MD* escape/VB the/AT Negro/NP by/IN fleeing/VBG to/IN the/AT suburbs/NNS ./pct
 In/IN fact/NN ,/pct short/JJ of/IN fleeing/VBG to/IN Warrenton/NP ,/pct Virginia/NP ,/pct or/CC Rockville/NP ,/pct Maryland/NP ,/pct white/JJ people/NNS may/MD have/HV to/TO live/VB with/IN Negroes/NPS ./pct
 All/ABN of/IN this/DT must/MD be/BE taken/VBN into/IN account/NN before/CS the/AT image/NN of/IN an/AT ``/pct all-Negro/JJ ''/pct D.C./NP public/JJ school/NN system/NN is/BEZ conjured/VBN up/RP ./pct
 Problems/NNS to/TO solve/VB
@@ -100,8 +100,8 @@ Should/MD a/AT political/JJ subdivision/NN ,/pct state/NN or/CC county/NN or/CC 
 For/IN the/AT school/NN year/NN ,/pct 1959-1960/CD ,/pct the/AT Prince/NN Edward/NP County/NN (/pct Virginia/NP )/pct Board/NN of/IN Supervisors/NNS voted/VBD not/NEG to/TO provide/VB funds/NNS for/IN public/JJ education/NN ,/pct and/CC the/AT school/NN board/NN therefore/RB could/MD provide/VB no/AT public/JJ education/NN --/pct for/IN white/JJ or/CC Negro/NP children/NNS ./pct
 Is/BEZ public/JJ education/NN in/IN this/DT American/JJ democracy/NN of/IN such/JJ importance/NN that/CS no/AT child/NN should/MD be/BE denied/VBN public/JJ education/NN ?/pct ?/pct
 Or/CC is/BEZ this/DT subject/NN a/AT matter/NN of/IN self-determination/NN ,/pct a/AT matter/NN of/IN states/NNS rights/NNS or/CC county/NN rights/NNS ?/pct ?/pct
-If/CS people/NNS don't /None want/VB to/TO provide/VB public/JJ education/NN ,/pct should/MD they/PPSS be/BE forced/VBN to/TO do/DO so/RB ?/pct ?/pct
-Even/RB if/CS we/PPSS marshal/VB substantial/JJ agreement/NN behind/IN mandatory/JJ public/JJ education/NN ,/pct we/PPSS likely/RB cannot /None expect/VB that/CS all/ABN the/AT states/NNS will/MD enact/VB the/AT legislation/NN ./pct
+If/CS people/NNS don't/DO* want/VB to/TO provide/VB public/JJ education/NN ,/pct should/MD they/PPSS be/BE forced/VBN to/TO do/DO so/RB ?/pct ?/pct
+Even/RB if/CS we/PPSS marshal/VB substantial/JJ agreement/NN behind/IN mandatory/JJ public/JJ education/NN ,/pct we/PPSS likely/RB cannot/MD* expect/VB that/CS all/ABN the/AT states/NNS will/MD enact/VB the/AT legislation/NN ./pct
 Should/MD the/AT requirement/NN ,/pct which/WDT must/MD therefore/RB be/BE Federal/JJ in/IN nature/NN ,/pct be/BE legislated/VBN by/IN the/AT United/VBN States/NNS Congress/NP ?/pct ?/pct
 Or/CC must/MD it/PPO become/VB law/NN by/IN amendment/NN of/IN the/AT United/VBN States/NNS Constitution/NN ?/pct ?/pct
 We/PPSS actually/RB have/HV two/CD issues/NNS in/IN this/DT question/NN --/pct goal/NN and/CC method/NN ./pct

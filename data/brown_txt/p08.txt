@@ -70,18 +70,18 @@ She/PPS passed/VBD by/IN him/PPO ./pct
 I/PPSS reached/VBD into/IN the/AT pocket/NN of/IN my/PPg skirt/NN ,/pct fingered/VBD ten/CD pruta/NNS ,/pct and/CC dropped/VBD the/AT coin/NN ./pct
 Then/RB I/PPSS picked/VBD it/PPO up/RP again/RB and/CC handed/VBD it/PPO to/IN the/AT old/JJ man/NN ./pct
 He/PPS thanked/VBD me/PPO ./pct
-I/PPSS didn't /None look/VB at/IN him/PPO ./pct
+I/PPSS didn't/DOD* look/VB at/IN him/PPO ./pct
 I/PPSS grinned/VBD at/IN Rachel/NP ./pct
 ``/pct Does/DOZ this/DT bother/VB you/PPO ''/pct ?/pct ?/pct
 I/PPSS said/VBD ./pct
 She/PPS smiled/VBD to/IN herself/PPL ./pct
-``/pct Most/AP of/IN our/PPg Sabras/NPS think/VB it's /None horrible/JJ ./pct
+``/pct Most/AP of/IN our/PPg Sabras/NPS think/VB it's/PPSBEZ horrible/JJ ./pct
 When/WRB we/PPSS were/BED fighting/VBG ,/pct a/AT few/AP of/IN our/PPg orthodox/JJ people/NNS were/BED lying/VBG down/RP in/IN the/AT roads/NNS so/CS we/PPSS could/MD not/NEG pass/VB ./pct
 They/PPSS said/VBD that/CS we/PPSS must/MD not/NEG fight/VB but/CC wait/VB for/IN the/AT Messiah/NP ''/pct ./pct
 I/PPSS was/BEDZ amazed/VBN ./pct
 You/PPSS had/HVD to/TO have/HV convictions/NNS to/TO lie/VB down/RP in/IN the/AT road/NN in/IN all/ABN those/DTS clothes/NNS and/CC appear/VB as/CS though/CS you/PPSS might/MD wish/VB to/TO turn/VB yourself/PPL out/IN of/IN your/PPg own/JJ home/NR ./pct
 You/PPSS had/HVD to/TO be/BE stupid/JJ or/CC crazy/JJ or/CC immortal/JJ ./pct
-And/CC I/PPSS wasn't /None ./pct
+And/CC I/PPSS wasn't/BEDZ* ./pct
 I/PPSS was/BEDZ American/JJ ./pct
 You/PPSS had/HVD to/TO know/VB ,/pct also/RB ,/pct that/CS you/PPSS were/BED going/VBG to/TO fail/VB ./pct
 All/ABN of/IN it/PPO might/MD have/HV been/BEN heroic/JJ ,/pct but/CC they/PPSS had/HVD done/VBN it/PPO in/IN the/AT wrong/JJ place/NN ./pct
@@ -116,7 +116,7 @@ Here/RB they/PPSS did/DOD not/NEG need/VB to/TO be/BE in/IN ghettos/NNS ./pct
 If/CS she/PPS could/MD not/NEG take/VB the/AT children/NNS out/IN of/IN this/DT section/NN ,/pct at/IN least/AP she/PPS could/MD take/VB other/AP children/NNS out/IN of/IN their/PPg countries/NNS and/CC put/VB them/PPO on/IN the/AT farms/NNS ./pct
 She/PPS set/VBD out/RP to/TO make/VB sure/JJ that/CS no/AT Jewish/JJ child/NN anyplace/RB in/IN the/AT world/NN had/HVD to/TO live/VB in/IN a/AT place/NN such/JJ as/CS this/DT ''/pct ./pct
 I/PPSS said/VBD quietly/RB ,/pct gaining/VBG nerve/NN ,/pct ready/JJ to/TO ask/VB any/DTI question/NN at/IN all/ABN ,/pct no/AT matter/NN how/WRB intimate/JJ ,/pct ready/JJ to/TO be/BE rebuffed/VBN ,/pct ``/pct Then/RB why/WRB did/DOD she/PPS leave/VB Israel/NP ?/pct ?/pct
-I'd /None like/VB to/TO know/VB that/DT very/QL much/RB ''/pct ./pct
+I'd/PPSSMD like/VB to/TO know/VB that/DT very/QL much/RB ''/pct ./pct
 Rachel/NP clasped/VBD her/PPg hands/NNS together/RB and/CC slowed/VBD her/PPg pace/NN ./pct
 The/AT soles/NNS of/IN her/PPg sandals/NNS reported/VBD sharply/RB on/IN the/AT cobblestones/NNS ./pct
 She/PPS pursed/VBD her/PPO lips/NNS ,/pct then/RB clamped/VBD them/PPO together/RB so/QL tightly/RB that/CS I/PPSS thought/VBD she/PPS was/BEDZ angry/JJ with/IN me/PPO ./pct
@@ -139,7 +139,7 @@ Then/RB he/PPS would/MD walk/VB off/RP for/IN a/AT few/AP days/NNS alone/RB in/I
 All/ABN his/PPg family/NN was/BEDZ dead/JJ ,/pct except/IN for/IN his/PPg son/NN ./pct
 Your/PPg mother/NN would/MD always/RB retrieve/VB him/PPO when/WRB he/PPS wandered/VBD off/RP ,/pct and/CC she/PPS would/MD send/VB him/PPO home/NR to/IN his/PPg son/NN ./pct
 He/PPS loved/VBD the/AT son/NN and/CC was/BEDZ always/RB glad/JJ to/TO be/BE sent/VBN back/RB to/IN him/PPO ./pct
-Then/RB his/PPg son/NN did/DOD something/PN ''/pct --/pct Rachel/NP threw/VBD up/RP her/PPg hands/NNS --/pct ``/pct I/PPSS don't /None know/VB what/WDT ,/pct but/CC something/PN ,/pct to/IN an/AT official/NN here/RB --/pct it/PPS was/BEDZ during/IN the/AT Mandate/NN --/pct and/CC the/AT son/NN was/BEDZ imprisoned/VBN ./pct
+Then/RB his/PPg son/NN did/DOD something/PN ''/pct --/pct Rachel/NP threw/VBD up/RP her/PPg hands/NNS --/pct ``/pct I/PPSS don't/DO* know/VB what/WDT ,/pct but/CC something/PN ,/pct to/IN an/AT official/NN here/RB --/pct it/PPS was/BEDZ during/IN the/AT Mandate/NN --/pct and/CC the/AT son/NN was/BEDZ imprisoned/VBN ./pct
 A/AT few/AP hours/NNS after/CS the/AT son/NN was/BEDZ arrested/VBN ,/pct your/PPg mother/NN was/BEDZ informed/VBN ./pct
 She/PPS ran/VBD from/IN a/AT little/JJ group/NN of/IN us/PPO ./pct
 We/PPSS were/BED sitting/VBG together/RB ,/pct talking/VBG ./pct
@@ -162,7 +162,7 @@ She/PPS came/VBD to/IN me/PPO one/CD day/NN ./pct
 She/PPS was/BEDZ pale/JJ and/CC skinny/JJ ;/pct ;/pct
 she/PPS was/BEDZ terribly/QL alone/RB ./pct
 And/CC she/PPS said/VBD that/CS after/CS this/DT man/NN had/HVD been/BEN dead/JJ for/IN a/AT week/NN she/PPS had/HVD gone/VBN to/IN Reuveni/NP and/CC accepted/VBD his/PPg proposal/NN ./pct
-He/PPS shouted/VBD at/IN her/PPO and/CC told/VBD her/PPO he/PPS loved/VBD her/PPO and/CC couldn't /None understand/VB why/WRB she/PPS had/HVD upset/VBN herself/PPL ./pct
+He/PPS shouted/VBD at/IN her/PPO and/CC told/VBD her/PPO he/PPS loved/VBD her/PPO and/CC couldn't/MD* understand/VB why/WRB she/PPS had/HVD upset/VBN herself/PPL ./pct
 But/CC now/RB he/PPS was/BEDZ happy/JJ she/PPS would/MD let/VB him/PPO straighten/VB out/RP her/PPg life/NN and/CC take/VB care/NN of/IN her/PPO ./pct
 He/PPS would/MD never/RB let/VB her/PPO harm/NN herself/PPL again/RB ./pct
 For/CS one/CD whole/JJ week/NN he/PPS never/RB let/VBD her/PPO stay/VB alone/RB ./pct

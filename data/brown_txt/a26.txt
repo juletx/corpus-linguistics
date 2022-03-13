@@ -40,10 +40,10 @@ More/AP than/IN 10/CD companies/NNS maintain/VB facilities/NNS in/IN Dallas/NP a
 It/PPS is/BEZ no/AT coincidence/NN that/CS the/AT Texas/NP Cotton/NN Ginner's/NNg Association/NN is/BEZ meeting/VBG here/RB this/DT week/NN for/IN the/AT 46th/OD time/NN in/IN their/PPg 52-year/JJ history/NN ./pct
 The/AT exhibition/NN of/IN cotton/NN ginning/VBG machinery/NN at/IN the/AT State/NN Fair/NN grounds/NNS is/BEZ valued/VBN at/IN more/AP than/IN a/AT million/CD dollars/NNS ./pct
 It/PPS weighs/VBZ in/IN the/AT tons/NNS ,/pct so/CS the/AT proximity/NN of/IN factory/NN and/CC exhibition/NN area/NN makes/VBZ it/PPO possible/JJ for/IN an/AT outstanding/JJ exhibit/NN each/DT year/NN ./pct
-A/AT modern/JJ cotton/NN gin/NN plant/NN costs/VBZ in/IN the/AT neighborhood/NN of/IN $250,000/NNS ,/pct and/CC it's /None a/AT safe/JJ assumption/NN that/CS a/AT large/JJ percentage/NN of/IN new/JJ gins/NNS in/IN the/AT U.S./NP and/CC foreign/JJ countries/NNS contain/VB machinery/NN made/VBN in/IN this/DT area/NN ./pct
+A/AT modern/JJ cotton/NN gin/NN plant/NN costs/VBZ in/IN the/AT neighborhood/NN of/IN $250,000/NNS ,/pct and/CC it's/PPSBEZ a/AT safe/JJ assumption/NN that/CS a/AT large/JJ percentage/NN of/IN new/JJ gins/NNS in/IN the/AT U.S./NP and/CC foreign/JJ countries/NNS contain/VB machinery/NN made/VBN in/IN this/DT area/NN ./pct
 The/AT Murray/NP Co./NN of/IN Texas/NP ,/pct Inc./VBN ,/pct originated/VBD in/IN Dallas/NP in/IN 1896/CD ./pct
-They've /None occupied/VBN a/AT 22-acre/JJ site/NN since/IN the/AT early/JJ 1900's/NNS ./pct
-More/AP than/IN 700/CD employees/NNS make/VB gin/NN machinery/NN that's /None sold/VBN anywhere/RB cotton/NN is/BEZ grown/VBN ./pct
+They've/PPSSHV occupied/VBN a/AT 22-acre/JJ site/NN since/IN the/AT early/JJ 1900's/NNS ./pct
+More/AP than/IN 700/CD employees/NNS make/VB gin/NN machinery/NN that's/WPSBEZ sold/VBN anywhere/RB cotton/NN is/BEZ grown/VBN ./pct
 Murray/NP makes/VBZ a/AT complete/JJ line/NN of/IN ginning/VBG equipment/NN except/IN for/IN driers/NNS and/CC cleaners/NNS ,/pct and/CC this/DT machinery/NN is/BEZ purchased/VBN from/IN a/AT Dallas-based/JJ firm/NN ./pct
 The/AT Continental/JJ Gin/NN Co./NN began/VBD operations/NNS in/IN Dallas/NP in/IN 1899/CD ./pct
 The/AT present/JJ company/NN is/BEZ a/AT combination/NN of/IN several/AP smaller/JJR ones/NNS that/WPS date/VB back/RB to/IN 1834/CD ./pct
@@ -69,12 +69,12 @@ The/AT increase/NN in/IN mechanical/JJ harvesting/NN of/IN cotton/NN makes/VBZ c
 Mitchell/NP employs/VBZ a/AT total/NN of/IN about/RB 400/CD people/NNS ./pct
 They/PPSS export/VB cotton/NN ginning/VBG machinery/NN ./pct
 The/AT Hinckley/NP Gin/NN Supply/NN Co./NN is/BEZ a/AT maker/NN of/IN ``/pct overhead/JJ equipment/NN ''/pct ./pct
-This/DT includes/VBZ driers/NNS ,/pct cleaners/NNS ,/pct burr/NN extractors/NNS ,/pct separators/NNS and/CC piping/VBG that's /None located/VBN above/IN gin/NN stands/NNS in/IN a/AT complete/JJ gin/NN ./pct
+This/DT includes/VBZ driers/NNS ,/pct cleaners/NNS ,/pct burr/NN extractors/NNS ,/pct separators/NNS and/CC piping/VBG that's/WPSBEZ located/VBN above/IN gin/NN stands/NNS in/IN a/AT complete/JJ gin/NN ./pct
 The/AT firm/NN began/VBD operations/NNS back/RB in/IN 1925/CD and/CC sells/VBZ equipment/NN in/IN the/AT central/JJ cotton/NN belt/NN ,/pct including/IN the/AT Mississippi/NP Delta/NP ./pct
 The/AT Cen-Tennial/NN Gin/NN Supply/NN Co./NN has/HVZ home/NR offices/NNS and/CC factory/NN facilities/NNS here/RB ./pct
 They/PPSS make/VB gin/NN saws/NNS and/CC deal/VB in/IN parts/NNS ,/pct supplies/NNS and/CC some/DTI used/VBN gin/NN machinery/NN ./pct
 The/AT Stacy/NP Co./NN makes/VBZ cleaning/VBG and/CC drying/VBG equipment/NN for/IN sale/NN largely/RB in/IN Texas/NP ./pct
-They've /None been/BEN in/IN Dallas/NP since/IN 1921/CD ./pct
+They've/PPSSHV been/BEN in/IN Dallas/NP since/IN 1921/CD ./pct
 Cotton/NN Belt/NN Gin/NN Service/NN ,/pct Inc./VBN of/IN Dallas/NP makes/VBZ gin/NN saws/NNS and/CC started/VBD here/RB 14/CD years/NNS ago/RB ./pct
 They/PPSS distribute/VB equipment/NN in/IN 11/CD states/NNS ./pct
 The/AT firm/NN also/RB handles/VBZ gin/NN and/CC oil/NN mill/NN supplies/NNS such/JJ as/CS belting/NN ,/pct bearings/NNS ,/pct etc./RB ./pct

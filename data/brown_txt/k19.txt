@@ -87,11 +87,11 @@ She/PPS has/HVZ a/AT pretty/QL bad/JJ cold/NN ''/pct ./pct
 I/PPSS want/VB to/TO create/VB the/AT impression/NN of/IN a/AT compound/NN full/JJ of/IN children/NNS ./pct
 Do/DO you/PPO think/VB you/PPO can/MD manage/VB it/PPO ''/pct ?/pct ?/pct
 Mavis/NP smiled/VBD ./pct
-``/pct I'll /None try/VB ''/pct ./pct
+``/pct I'll/PPSSMD try/VB ''/pct ./pct
 As/CS Rector/NP was/BEDZ walking/VBG back/RB toward/IN the/AT residential/JJ hall/NN ,/pct Johnson/NP came/VBD out/RP of/IN the/AT basement/NN and/CC bounded/VBD up/RP to/IN him/PPO ./pct
 The/AT altercation/NN in/IN the/AT coffee/NN house/NN had/HVD done/VBN little/AP to/TO dampen/VB his/PPg spirits/NNS ,/pct but/CC he/PPS was/BEDZ still/RB a/AT little/QL wary/JJ around/IN Rector/NP for/CS they/PPSS had/HVD not/NEG yet/RB discussed/VBN the/AT incident/NN ./pct
-``/pct I/PPSS think/VB I've /None fixed/VBN the/AT pump/NN so/CS we/PPSS won't /None have/HV to/TO worry/VB about/IN it/PPO for/IN a/AT long/JJ time/NN ''/pct ,/pct he/PPS said/VBD ./pct
-``/pct I've /None adjusted/VBN the/AT gauge/NN so/CS that/CS the/AT pump/NN cuts/VBZ out/RP before/CS the/AT water/NN gets/VBZ too/QL low/JJ ./pct
+``/pct I/PPSS think/VB I've/PPSSHV fixed/VBN the/AT pump/NN so/CS we/PPSS won't/MD* have/HV to/TO worry/VB about/IN it/PPO for/IN a/AT long/JJ time/NN ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct I've/PPSSHV adjusted/VBN the/AT gauge/NN so/CS that/CS the/AT pump/NN cuts/VBZ out/RP before/CS the/AT water/NN gets/VBZ too/QL low/JJ ./pct
 ''/pct ``/pct Fine/JJ ''/pct ,/pct Rector/NP said/VBD ./pct
 He/PPS looked/VBD out/RP over/IN the/AT expanse/NN of/IN the/AT compound/NN ./pct
 It/PPS was/BEDZ going/VBG to/TO take/VB a/AT lot/NN of/IN activity/NN to/TO fill/VB it/PPO ./pct
@@ -101,9 +101,9 @@ He/PPS said/VBD ./pct
 ``/pct You/PPSS are/BER about/RB to/TO become/VB a/AT first-class/NN surveyor/NN ''/pct ,/pct Rector/NP said/VBD ./pct
 ``/pct When/WRB Konishi/NP gets/VBZ back/RB with/IN the/AT jeep/NN ,/pct I/PPSS want/VB you/PPO to/TO round/VB up/RP two/CD or/CC three/CD Japanese/JJ boys/NNS ./pct
 Konishi/NP can/MD help/VB you/PPO ./pct
-You'll /None find/VB an/AT old/JJ transit/NN in/IN the/AT basement/NN ./pct
-The/AT glass/NN is/BEZ out/IN of/IN it/PPO ,/pct but/CC that/DT won't /None matter/VB ./pct
-It/PPS looks/VBZ pretty/QL efficient/JJ and/CC that's /None the/AT important/JJ thing/NN ''/pct ./pct
+You'll/PPSSMD find/VB an/AT old/JJ transit/NN in/IN the/AT basement/NN ./pct
+The/AT glass/NN is/BEZ out/IN of/IN it/PPO ,/pct but/CC that/DT won't/MD* matter/VB ./pct
+It/PPS looks/VBZ pretty/QL efficient/JJ and/CC that's/DTBEZ the/AT important/JJ thing/NN ''/pct ./pct
 He/PPS went/VBD on/RP to/TO explain/VB what/WDT he/PPS had/HVD in/IN mind/NN ./pct
 Johnson/NP nodded/VBD ./pct
 He/PPS said/VBD he/PPS could/MD do/DO it/PPO ./pct

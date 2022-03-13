@@ -13,7 +13,7 @@ Smiling/VBG at/IN his/PPg quixotic/JJ thoughts/NNS ,/pct Warren/NP turned/VBD ba
 Tonight/NR a/AT group/NN of/IN men/NNS ,/pct tomorrow/NR night/NN he/PPS himself/PPL ,/pct would/MD go/VB out/IN there/RB somewhere/RB and/CC wait/VB ./pct
 If/CS he/PPS were/BED to/TO go/VB with/IN White/NP ,/pct he/PPS would/MD be/BE out/IN there/RB two/CD days/NNS ,/pct not/NEG just/RB listening/VBG in/IN the/AT dark/NN at/IN some/DTI point/NN between/IN here/RB and/CC Papa-san/NP ,/pct but/CC moving/VBG ever/RB deeper/RBR into/IN enemy/NN land/NN --/pct behind/IN Papa-san/NP --/pct itself/PPL ./pct
 Was/BEDZ this/DT what/WDT he/PPS had/HVD expected/VBN ?/pct ?/pct
-He/PPS hadn't /None realized/VBN that/CS there/EX would/MD be/BE so/QL much/AP time/NN to/TO think/VB ,/pct so/QL many/AP lulls/NNS ./pct
+He/PPS hadn't/HVD* realized/VBN that/CS there/EX would/MD be/BE so/QL much/AP time/NN to/TO think/VB ,/pct so/QL many/AP lulls/NNS ./pct
 Somehow/RB he/PPS had/HVD forgotten/VBN what/WDT he/PPS must/MD have/HV been/BEN told/VBN ,/pct that/CS combat/NN was/BEDZ an/AT intermittent/JJ activity/NN ./pct
 Now/RB he/PPS knew/VBD that/CS the/AT moment/NN illuminated/VBN by/IN the/AT vision/NN on/IN the/AT train/NN would/MD have/HV to/TO be/BE approached/VBN ./pct
 It/PPS could/MD take/VB place/NN tomorrow/NR night/NN ,/pct or/CC it/PPS might/MD occur/VB months/NNS from/IN now/RB ./pct
@@ -21,7 +21,7 @@ There/EX was/BEDZ just/RB too/QL much/AP time/NN ./pct
 Time/NN to/TO become/VB afraid/JJ ./pct
 White's/NPg suggestion/NN flattered/VBD ,/pct but/CC he/PPS did/DOD not/NEG like/VB the/AT identity/NN ./pct
 He/PPS did/DOD not/NEG spill/VB over/RP with/IN hatred/NN for/IN the/AT enemy/NN ./pct
-He/PPS hadn't /None even/RB seen/VBN him/PPO yet/RB
+He/PPS hadn't/HVD* even/RB seen/VBN him/PPO yet/RB
 Pressing/VBG his/PPg cigarette/NN out/RP in/IN the/AT earth/NN ,/pct Warren/NP walked/VBD to/IN the/AT slit/NN and/CC scanned/VBD the/AT jagged/JJ hills/NNS ./pct
 He/PPS saw/VBD no/AT life/NN ,/pct but/CC still/RB stood/VBD there/RB for/IN a/AT time/NN peering/VBG at/IN the/AT unlovely/JJ hills/NNS ,/pct his/PPg gaze/NN continually/RB returning/VBG to/IN Papa-san/NP ./pct
 He/PPS had/HVD come/VBN here/RB in/IN order/NN to/TO test/VB himself/PPL ./pct
@@ -36,7 +36,7 @@ Others/NNS carried/VBD extra/JJ clips/NNS for/IN the/AT Browning/NP Automatic/JJ
 Prevot/NP had/HVD briefed/VBN the/AT two/CD new/JJ men/NNS that/DT afternoon/NN ./pct
 ``/pct We/PPSS just/RB sit/VB quiet/JJ and/CC wait/VB ''/pct ,/pct Prevot/NP had/HVD said/VBN ./pct
 ``/pct Be/BE sure/JJ the/AT man/NN nearest/IN you/PPO is/BEZ awake/JJ ./pct
-If/CS Joe/NP doesn't /None show/VB up/RP ,/pct we'll /None all/ABN be/BE back/RB here/RB at/IN 0600/CD hours/NNS ./pct
+If/CS Joe/NP doesn't/DOZ* show/VB up/RP ,/pct we'll/PPSSMD all/ABN be/BE back/RB here/RB at/IN 0600/CD hours/NNS ./pct
 Otherwise/RB ,/pct we/PPSS hold/VB a/AT reception/NN ./pct
 Then/RB we/PPSS pull/VB out/RP under/IN our/PPg mortar/NN and/CC artillery/NN cover/NN ,/pct but/CC nobody/PN pulls/VBZ out/RP until/CS I/PPSS say/VB so/RB ./pct
 Remember/VB what/WDT I/PPSS said/VBD about/IN going/VBG out/RP to/TO get/VB anybody/PN left/VBN behind/RB ?/pct ?/pct
@@ -59,11 +59,11 @@ Booby/JJ traps/NNS to/TO fill/VB the/AT head/NN with/IN chunks/NNS of/IN metal/N
 Warren/NP tried/VBD to/TO shake/VB off/RP the/AT jumble/NN of/IN his/PPg fears/NNS by/IN looking/VBG at/IN the/AT sky/NN ./pct
 It/PPS was/BEDZ dark/JJ ./pct
 Prevot/NP had/HVD said/VBN that/CS the/AT searchlights/NNS would/MD be/BE bounced/VBN off/IN the/AT clouds/NNS at/IN 2230/CD hours/NNS ,/pct ``/pct which/WDT gives/VBZ us/PPO time/NN to/TO get/VB settled/VBN in/IN position/NN ''/pct ./pct
-Because/CS they/PPSS were/BED new/JJ men/NNS and/CC to/TO be/BE sure/JJ that/CS they/PPSS didn't /None get/VB lost/VBN ,/pct Prevot/NP had/HVD placed/VBN Warren/NP and/CC White/NP in/IN the/AT center/NN of/IN the/AT patrol/NN as/CS it/PPS filed/VBD out/RP ./pct
+Because/CS they/PPSS were/BED new/JJ men/NNS and/CC to/TO be/BE sure/JJ that/CS they/PPSS didn't/DOD* get/VB lost/VBN ,/pct Prevot/NP had/HVD placed/VBN Warren/NP and/CC White/NP in/IN the/AT center/NN of/IN the/AT patrol/NN as/CS it/PPS filed/VBD out/RP ./pct
 His/PPg eyes/NNS now/RB fixed/VBN on/IN White's/NPg solid/JJ figure/NN ,/pct Warren/NP could/MD hear/VB behind/IN him/PPO the/AT tread/NN of/IN another/DT ./pct
 He/PPS could/MD also/RB hear/VB the/AT stream/NN which/WDT he/PPS had/HVD seen/VBN from/IN his/PPg position/NN ./pct
 They/PPSS were/BED going/VBG to/TO follow/VB it/PPO for/IN part/NN of/IN their/PPg journey/NN ./pct
-``/pct It's /None safe/JJ ''/pct ,/pct Prevot/NP had/HVD said/VBN ,/pct ``/pct and/CC it/PPS provides/VBZ cover/NN for/IN our/PPg noise/NN ''/pct ./pct
+``/pct It's/PPSBEZ safe/JJ ''/pct ,/pct Prevot/NP had/HVD said/VBN ,/pct ``/pct and/CC it/PPS provides/VBZ cover/NN for/IN our/PPg noise/NN ''/pct ./pct
 Soon/RB they/PPSS were/BED picking/VBG their/PPg way/NN along/IN the/AT edge/NN of/IN the/AT stream/NN which/WDT glowed/VBD in/IN the/AT night/NN ./pct
 On/IN their/PPg right/NR rose/VBD the/AT embankment/NN covered/VBN with/IN brush/NN and/CC trees/NNS ./pct
 If/CS a/AT branch/NN extended/VBD out/RP too/QL far/RB ,/pct each/DT man/NN held/VBD it/PPO back/RB for/IN the/AT next/AP ,/pct and/CC if/CS they/PPSS met/VBD a/AT low/JJ overhang/NN ,/pct each/DT warned/VBD the/AT other/AP ./pct
@@ -119,17 +119,17 @@ He/PPS took/VBD the/AT pen/NN in/IN his/PPg stumps/NNS and/CC began/VBD to/TO wr
 Wait/VB ''/pct !/pct !/pct
 Cried/VBD the/AT guard/NN who/WPS ran/VBD from/IN the/AT hut/NN to/TO shout/VB to/IN other/AP men/NNS standing/VBG about/RB outside/RB ./pct
 They/PPSS crowded/VBD the/AT small/JJ room/NN and/CC peered/VBD over/IN one/CD another's/DTg shoulders/NNS to/TO watch/VB the/AT handless/JJ man/NN write/VB his/PPg name/NN in/IN the/AT book/NN ./pct
-``/pct C'est /None formidable/JJ ''/pct ,/pct they/PPSS exclaimed/VBD ./pct
+``/pct C'est/DTBEZ formidable/JJ ''/pct ,/pct they/PPSS exclaimed/VBD ./pct
 ``/pct Mais/CC ,/pct oui/RB ./pct
-C'est /None merveilleux/JJ ''/pct ./pct
+C'est/DTBEZ merveilleux/JJ ''/pct ./pct
 And/CC then/RB the/AT questions/NNS came/VBD ,/pct eager/JJ ,/pct interested/JJ questions/NNS ,/pct and/CC many/AP compliments/NNS on/IN his/PPg having/HVG overcome/VBN his/PPg infirmity/NN ./pct
-``/pct Doesn't /None it/PPS ever/RB bother/VB you/PPO ''/pct ,/pct Warren/NP had/HVD asked/VBN ,/pct ``/pct to/TO have/HV people/NNS always/RB asking/VBG you/PPO about/IN your/PPg hands/NNS ''/pct ?/pct ?/pct
+``/pct Doesn't/DOZ* it/PPS ever/RB bother/VB you/PPO ''/pct ,/pct Warren/NP had/HVD asked/VBN ,/pct ``/pct to/TO have/HV people/NNS always/RB asking/VBG you/PPO about/IN your/PPg hands/NNS ''/pct ?/pct ?/pct
 ``/pct Oh/UH ,/pct the/AT French/NPS are/BER a/AT very/QL curious/JJ people/NNS ''/pct ,/pct Pierre/NP had/HVD laughed/VBN ./pct
 ``/pct They/PPSS are/BER also/RB honest/JJ seekers/NNS after/IN truth/NN ./pct
 Now/RB the/AT English/NPS are/BER painfully/RB silent/JJ about/IN my/PPg missing/VBG hands/NNS ./pct
 They/PPSS refuse/VB to/TO mention/VB or/CC to/TO notice/VB that/CS they/PPSS are/BER not/NEG there/RB ./pct
-The/AT Americans/NPS ,/pct like/CS yourself/PPL ,/pct take/VB the/AT fact/NN for/IN granted/VBN ,/pct try/VB to/TO be/BE helpful/JJ ,/pct but/CC don't /None ask/VB questions/NNS ./pct
-I'm /None used/VBN to/IN all/ABN three/CD ,/pct but/CC I/PPSS think/VB the/AT French/NPS have/HV the/AT healthiest/JJT attitude/NN ''/pct ./pct
+The/AT Americans/NPS ,/pct like/CS yourself/PPL ,/pct take/VB the/AT fact/NN for/IN granted/VBN ,/pct try/VB to/TO be/BE helpful/JJ ,/pct but/CC don't/DO* ask/VB questions/NNS ./pct
+I'm/PPSSBEM used/VBN to/IN all/ABN three/CD ,/pct but/CC I/PPSS think/VB the/AT French/NPS have/HV the/AT healthiest/JJT attitude/NN ''/pct ./pct
 That/DT was/BEDZ the/AT day/NN that/CS Pierre/NP had/HVD told/VBN Warren/NP about/IN the/AT Abbey/NN of/IN Solesmes/NP ./pct
 ``/pct You/PPSS are/BER looking/VBG tired/JJ and/CC there/RB you/PPSS can/MD rest/VB ./pct
 It/PPS will/MD be/BE good/JJ for/IN you/PPO ./pct

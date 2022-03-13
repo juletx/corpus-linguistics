@@ -91,7 +91,7 @@ Pressures/NNS portrayed/VBN
 Throughout/IN ``/pct The/AT Making/NN Of/IN A/AT President/NN ''/pct Mr./NP White/NP shows/VBZ wonderfully/QL well/RB how/WRB the/AT pressures/NNS pile/VB up/RP on/IN candidates/NNS ,/pct how/WRB decisions/NNS have/HV constantly/RB to/TO be/BE made/VBN ,/pct how/WRB fatigue/NN and/CC illness/NN and/CC nervous/JJ strain/NN wear/VB candidates/NNS down/RP ,/pct how/WRB subordinates/NNS play/VB key/JJS roles/NNS ./pct
 And/CC he/PPS makes/VBZ many/AP interesting/JJ comments/NNS ./pct
 Here/RB are/BER several/AP :/pct
-``/pct The/AT root/NN question/NN in/IN American/JJ politics/NN is/BEZ always/RB :/pct Who's /None the/AT Man/NN to/TO See/VB ?/pct ?/pct
+``/pct The/AT root/NN question/NN in/IN American/JJ politics/NN is/BEZ always/RB :/pct Who's/WPSBEZ the/AT Man/NN to/TO See/VB ?/pct ?/pct
 To/TO understand/VB American/JJ politics/NN is/BEZ ,/pct simply/RB ,/pct to/TO know/VB people/NNS ,/pct to/TO know/VB the/AT relative/JJ weight/NN of/IN names/NNS --/pct who/WPS are/BER heroes/NNS ,/pct who/WPS are/BER straw/NN men/NNS ,/pct who/WPS controls/VBZ ,/pct who/WPS does/DOZ not/NEG ./pct
 But/CC to/TO operate/VB in/IN American/JJ politics/NN one/PN must/MD go/VB a/AT step/NN further/RBR --/pct one/PN must/MD build/VB a/AT bridge/NN to/IN such/JJ names/NNS ,/pct establish/VB a/AT warmth/NN ,/pct a/AT personal/JJ connection/NN ''/pct ./pct
 ``/pct In/IN the/AT hard/JJ life/NN of/IN politics/NN it/PPS is/BEZ well/RB known/VBN that/CS no/AT platform/NN nor/CC any/DTI program/NN advanced/VBN by/IN either/DTX major/JJ American/JJ party/NN has/HVZ any/DTI purpose/NN beyond/IN expressing/VBG emotion/NN ''/pct ./pct

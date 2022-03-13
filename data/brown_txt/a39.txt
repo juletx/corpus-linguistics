@@ -47,7 +47,7 @@ Both/ABX were/BED scholastic/JJ stars/NNS in/IN football/NN ,/pct basketball/NN 
 as/CS halfbacks/NNS ,/pct both/ABX came/VBD close/RB to/IN playing/VBG football/NN at/IN the/AT University/NN of/IN Oklahoma/NP (/pct ``/pct Sometimes/RB in/IN the/AT minors/NNS ''/pct ,/pct Maris/NP recalls/VBZ ,/pct ``/pct I/PPSS wished/VBD I/PPSS had/HVD gone/VBN to/IN Oklahoma/NP ''/pct )/pct ./pct
 To/IN an/AT extent/NN ,/pct the/AT two/CD even/RB look/VB alike/RB ./pct
 Both/ABX have/HV blue/JJ eyes/NNS and/CC short/RB blond/JJ hair/NN ./pct
-Both/ABX are/BER 6/CD feet/NNS tall/JJ and/CC weigh/VB between/IN 195/CD and/CC 200/CD pounds/NNS ,/pct but/CC Mantle/NP ,/pct incredibly/QL muscular/JJ (/pct he/PPS has/HVZ a/AT 17-1/2-inch/JJ neck/NN )/pct ,/pct looks/VBZ bigger/JJR ./pct
+Both/ABX are/BER 6/CD feet/NNS tall/JJ and/CC weigh/VB between/IN 195/CD and/CC 200/CD pounds/NNS ,/pct but/CC Mantle/NP ,/pct incredibly/QL muscular/JJ (/pct he/PPS has/HVZ a/AT 17-1:2-inch/JJ neck/NN )/pct ,/pct looks/VBZ bigger/JJR ./pct
 With/IN their/PPg huge/JJ backs/NNS and/CC overdeveloped/VBN shoulders/NNS ,/pct both/ABX must/MD have/HV their/PPg clothes/NNS made/VBN to/IN order/NN ./pct
 Maris/NP purchases/VBZ $100/NNS suits/NNS from/IN Simpson's/NPg in/IN New/JJ York/NP ./pct
 Mantle/NP ,/pct more/QL concerned/VBN with/IN dress/NN ,/pct buys/VBZ his/PPg suits/NNS four/CD at/IN a/AT time/NN at/IN Neiman-Marcus/NP in/IN Dallas/NP and/CC pays/VBZ as/QL much/AP as/CS $250/NNS each/DT ./pct
@@ -57,30 +57,30 @@ Mantle/NP so/RB appreciated/VBD Miller's/NPg delicate/JJ literary/JJ style/NN th
 Mantle/NP is/BEZ not/NEG normally/RB given/VBN to/IN public/JJ speaking/NN --/pct or/CC ,/pct for/IN that/DT matter/NN ,/pct to/IN private/JJ speaking/NN ./pct
 ``/pct What/WDT do/DO you/PPSS and/CC Mickey/NP talk/VB about/IN at/IN home/NR ''/pct ?/pct ?/pct
 A/AT reporter/NN asked/VBD Maris/NP recently/RB ./pct
-``/pct To/TO tell/VB you/PPO the/AT truth/NN ''/pct ,/pct Maris/NP said/VBD ,/pct ``/pct Mickey/NP don't /None talk/VB much/RB ''/pct ./pct
+``/pct To/TO tell/VB you/PPO the/AT truth/NN ''/pct ,/pct Maris/NP said/VBD ,/pct ``/pct Mickey/NP don't/DOZ* talk/VB much/RB ''/pct ./pct
 This/DT is/BEZ no/AT surprising/JJ trait/NN for/IN a/AT ballplayer/NN ./pct
 What/WDT is/BEZ surprising/VBG and/CC pleasant/NN is/BEZ that/CS Mantle/NP and/CC Maris/NP ,/pct under/IN constant/JJ pressure/NN from/IN writers/NNS and/CC photographers/NNS ,/pct are/BER trying/VBG to/TO be/BE cooperative/JJ ./pct
 Of/IN the/AT two/CD ,/pct Mantle/NP is/BEZ by/IN nature/NN the/AT less/QL outgoing/JJ ,/pct Maris/NP the/AT more/QL outspoken/JJ ./pct
 But/CC last/AP week/NN ,/pct when/WRB a/AT reporter/NN was/BEDZ standing/VBG near/IN Mantle's/NPg locker/NN ,/pct Mickey/NP walked/VBD up/RP and/CC volunteered/VBD an/AT anecdote/NN ./pct
 ``/pct See/VB that/DT kid/NN ''/pct ?/pct ?/pct
 He/PPS said/VBD ,/pct pointing/VBG to/IN a/AT dark-haired/JJ 11-year-old/JJ boy/NN ./pct
-``/pct That's /None (/pct Yogi/NP )/pct Berra's/NPg ./pct
-I'll /None never/RB forget/VB one/CD time/NN I/PPSS struck/VBD out/RP three/CD times/NNS ,/pct dropped/VBD a/AT fly/NN ball/NN ,/pct and/CC we/PPSS lost/VBD the/AT game/NN ./pct
+``/pct That's/DTBEZ (/pct Yogi/NP )/pct Berra's/NPg ./pct
+I'll/PPSSMD never/RB forget/VB one/CD time/NN I/PPSS struck/VBD out/RP three/CD times/NNS ,/pct dropped/VBD a/AT fly/NN ball/NN ,/pct and/CC we/PPSS lost/VBD the/AT game/NN ./pct
 I/PPSS came/VBD back/RB ,/pct sitting/VBG by/IN my/PPg locker/NN ,/pct feeling/VBG real/QL low/JJ ,/pct and/CC the/AT kid/NN walks/VBZ over/RP to/IN me/PPO ,/pct looks/VBZ up/RP ,/pct and/CC says/VBZ :/pct '/pct You/PPSS stunk/VBD '/pct ''/pct ./pct
 Maris/NP ,/pct in/IN talking/VBG to/IN reporters/NNS ,/pct tries/VBZ to/TO answer/VB all/ABN questions/NNS candidly/RB and/CC fully/RB ,/pct but/CC on/IN rare/JJ occasions/NNS ,/pct he/PPS shuns/VBZ newsmen/NNS ./pct
-``/pct When/WRB I've /None made/VBN a/AT dumb/JJ play/NN ''/pct ,/pct he/PPS says/VBZ ,/pct ``/pct I/PPSS don't /None want/VB to/TO talk/VB to/IN anyone/PN ./pct
-I'm /None angry/JJ ''/pct ./pct
+``/pct When/WRB I've/PPSSHV made/VBN a/AT dumb/JJ play/NN ''/pct ,/pct he/PPS says/VBZ ,/pct ``/pct I/PPSS don't/DO* want/VB to/TO talk/VB to/IN anyone/PN ./pct
+I'm/PPSSBEM angry/JJ ''/pct ./pct
 By/IN his/PPg own/JJ confession/NN ,/pct Maris/NP is/BEZ an/AT angry/JJ young/JJ man/NN ./pct
-Benched/VBN at/IN Tulsa/NP in/IN 1955/CD ,/pct he/PPS told/VBD manager/NN Dutch/NP Meyer/NP :/pct ``/pct I/PPSS can't /None play/VB for/IN you/PPO ./pct
+Benched/VBN at/IN Tulsa/NP in/IN 1955/CD ,/pct he/PPS told/VBD manager/NN Dutch/NP Meyer/NP :/pct ``/pct I/PPSS can't/MD* play/VB for/IN you/PPO ./pct
 Send/VB me/PPO where/WRB I/PPSS can/MD play/VB ''/pct ./pct
 (/pct Meyer/NP sent/VBD him/PPO to/IN Reading/NP ,/pct Pa./NP ./pct
-)/pct Benched/VBN at/IN Indianapolis/NP in/IN 1956/CD ,/pct he/PPS told/VBD manager/NN Kerby/NP Farrell/NP :/pct ``/pct I'm /None not/NEG learning/VBG anything/PN on/IN the/AT bench/NN ./pct
+)/pct Benched/VBN at/IN Indianapolis/NP in/IN 1956/CD ,/pct he/PPS told/VBD manager/NN Kerby/NP Farrell/NP :/pct ``/pct I'm/PPSSBEM not/NEG learning/VBG anything/PN on/IN the/AT bench/NN ./pct
 Play/VB me/PPO ''/pct ./pct
 (/pct Farrell/NP did/DOD --/pct and/CC Maris/NP led/VBD the/AT team/NN to/IN victory/NN in/IN the/AT Little/JJ World/NN Series/NN ./pct
-)/pct ``/pct That's /None the/AT way/NN I/PPSS am/BEM ''/pct ,/pct he/PPS says/VBZ ./pct
+)/pct ``/pct That's/DTBEZ the/AT way/NN I/PPSS am/BEM ''/pct ,/pct he/PPS says/VBZ ./pct
 ``/pct I/PPSS tell/VB people/NNS what/WDT I/PPSS think/VB ./pct
-If/CS you're /None a/AT good/JJ ballplayer/NN ,/pct you've /None got/VBN to/TO get/VB mad/JJ ./pct
-Give/VB me/PPO a/AT team/NN of/IN nine/CD angry/JJ men/NNS and/CC I'll /None give/VB you/PPO a/AT team/NN of/IN nine/CD gentlemen/NNS and/CC we'll /None beat/VB you/PPO nine/CD out/IN of/IN ten/CD times/NNS ''/pct ./pct
+If/CS you're/PPSSBER a/AT good/JJ ballplayer/NN ,/pct you've/PPSSHV got/VBN to/TO get/VB mad/JJ ./pct
+Give/VB me/PPO a/AT team/NN of/IN nine/CD angry/JJ men/NNS and/CC I'll/PPSSMD give/VB you/PPO a/AT team/NN of/IN nine/CD gentlemen/NNS and/CC we'll/PPSSMD beat/VB you/PPO nine/CD out/IN of/IN ten/CD times/NNS ''/pct ./pct
 Idols'/NNSg idols/NNS :/pct
 One/CD good/JJ indication/NN of/IN the/AT two/CD men's/NNSg personalities/NNS is/BEZ the/AT way/NN they/PPSS reacted/VBD to/IN meeting/VBG their/PPg own/JJ heroes/NNS ./pct
 Maris's/NPg was/BEDZ Ted/NP Williams/NP ./pct
@@ -88,7 +88,7 @@ Maris's/NPg was/BEDZ Ted/NP Williams/NP ./pct
 ``/pct When/WRB you/PPSS came/VBD up/RP to/IN the/AT majors/NNS ,/pct did/DOD you/PPO seek/VB out/RP Williams/NP for/IN advice/NN ''/pct ?/pct ?/pct
 ``/pct Are/BER you/PPSS kidding/VBG ''/pct ?/pct ?/pct
 Said/VBN Maris/NP ./pct
-``/pct You're /None afraid/JJ to/TO talk/VB to/IN a/AT guy/NN you/PPSS idolize/VB ''/pct ./pct
+``/pct You're/PPSSBER afraid/JJ to/TO talk/VB to/IN a/AT guy/NN you/PPSS idolize/VB ''/pct ./pct
 Mantle's/NNg hero/NN was/BEDZ Joe/NP DiMaggio/NP ./pct
 ``/pct When/WRB Mickey/NP went/VBD to/IN the/AT Yankees/NPS ''/pct ,/pct says/VBZ Mark/NP Freeman/NP ,/pct an/AT ex-Yankee/NP pitcher/NN who/WPS sells/VBZ mutual/JJ funds/NNS in/IN Denver/NP ,/pct ``/pct DiMaggio/NP still/RB was/BEDZ playing/VBG and/CC every/AT day/NN Mickey/NP would/MD go/VB by/IN his/PPg locker/NN ,/pct just/RB aching/VBG for/IN some/DTI word/NN of/IN encouragement/NN from/IN this/DT great/JJ man/NN ,/pct this/DT hero/NN of/IN his/PPgg ./pct
 But/CC DiMaggio/NP never/RB said/VBD a/AT word/NN ./pct
@@ -98,7 +98,7 @@ Mantle/NP has/HVZ kept/VBN the/AT vow/NN ./pct
 Among/IN all/ABN the/AT Yankees/NPS ,/pct he/PPS is/BEZ the/AT veteran/NN most/QL friendly/JJ to/IN rookies/NNS ./pct
 Neither/DTX Mantle/NP nor/CC Maris/NP is/BEZ totally/RB devoted/VBN to/IN baseball/NN above/IN all/ABN else/RB ./pct
 If/CS laying/VBG ties/NNS on/IN a/AT railroad/NN track/NN ,/pct which/WDT he/PPS once/RB did/DOD for/IN $1/NN an/AT hour/NN ,/pct paid/VBD more/AP than/IN playing/VBG right/JJ field/NN for/IN the/AT Yankees/NPS ,/pct Maris/NP would/MD lay/VB ties/NNS on/IN a/AT railroad/NN track/NN ./pct
-If/CS working/VBG in/IN a/AT zinc/NN mine/NN ,/pct which/WDT he/PPS once/RB did/DOD for/IN 87-1/2/CD cents/NNS an/AT hour/NN ,/pct paid/VBD more/AP than/CS playing/VBG center/NN field/NN for/IN the/AT Yankees/NPS ,/pct Mantle/NP would/MD work/VB in/IN a/AT zinc/NN mine/NN ./pct
+If/CS working/VBG in/IN a/AT zinc/NN mine/NN ,/pct which/WDT he/PPS once/RB did/DOD for/IN 87-1:2/CD cents/NNS an/AT hour/NN ,/pct paid/VBD more/AP than/CS playing/VBG center/NN field/NN for/IN the/AT Yankees/NPS ,/pct Mantle/NP would/MD work/VB in/IN a/AT zinc/NN mine/NN ./pct
 But/CC since/CS railroading/NN and/CC mining/VBG are/BER not/NEG the/AT highest/RBT paid/VBN arts/NNS ,/pct Mantle/NP and/CC Maris/NP concentrate/VB on/IN baseball/NN ./pct
 They/PPSS try/VB to/TO play/VB baseball/NN the/AT best/JJT they/PPSS can/MD ./pct
 Each/DT is/BEZ a/AT complete/JJ ballplayer/NN ./pct

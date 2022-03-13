@@ -36,17 +36,17 @@ A/AT burlesque/JJ paean/NN entitled/VBN :/pct ``/pct Hark/VB The/AT Herald/NN Tr
 A/AT semi-serious/JJ literary/JJ document/NN entitled/VBN ``/pct The/AT Wings/NNS Of/IN Henry/NP James/NP ''/pct is/BEZ noteworthy/JJ ,/pct if/CS only/RB for/IN a/AT keenly/QL trenchant/JJ though/RB little-known/JJ comment/NN on/IN the/AT master's/NNg difficult/JJ later/JJR period/NN by/IN modest/JJ Owen/NP Wister/NP ,/pct author/NN of/IN ``/pct The/AT Virginian/NP ''/pct ./pct
 James/NP ,/pct he/PPS remarks/VBZ in/IN a/AT letter/NN to/IN a/AT friend/NN ,/pct ``/pct is/BEZ attempting/VBG the/AT impossible/JJ namely/RB ,/pct to/TO produce/VB upon/IN the/AT reader/NN ,/pct as/CS a/AT painting/NN produces/VBZ upon/IN the/AT gazer/NN ,/pct a/AT number/NN of/IN superimposed/VBN ,/pct simultaneous/JJ impressions/NNS ./pct
 He/PPS would/MD like/VB to/TO put/VB several/AP sentences/NNS on/IN top/NN of/IN each/DT other/AP so/CS that/CS you/PPSS could/MD read/VB them/PPO all/ABN at/IN once/RB ,/pct and/CC get/VB all/ABN at/IN once/RB ,/pct the/AT various/JJ shadings/NNS and/CC complexities/NNS ''/pct ./pct
-Equally/RB penetrating/JJ in/IN its/PPg fashion/NN is/BEZ the/AT following/VBG remark/NN by/IN a/AT lady/NN in/IN the/AT course/NN of/IN a/AT literary/JJ conversation/NN :/pct ``/pct So/QL much/AP has/HVZ already/RB been/BEN written/VBN about/IN everything/PN that/CS you/PPSS can't /None find/VB out/RP anything/PN about/IN it/PPO ''/pct ./pct
+Equally/RB penetrating/JJ in/IN its/PPg fashion/NN is/BEZ the/AT following/VBG remark/NN by/IN a/AT lady/NN in/IN the/AT course/NN of/IN a/AT literary/JJ conversation/NN :/pct ``/pct So/QL much/AP has/HVZ already/RB been/BEN written/VBN about/IN everything/PN that/CS you/PPSS can't/MD* find/VB out/RP anything/PN about/IN it/PPO ''/pct ./pct
 Or/CC the/AT mildly/QL epigrammatic/JJ utterance/NN (/pct also/RB a/AT quotation/NN )/pct :/pct ``/pct Woman's/NNg place/NN is/BEZ in/IN the/AT wrong/NN ''/pct ./pct
 Who/WPS but/IN Thurber/NP can/MD be/BE counted/VBN on/RP to/TO glean/VB such/JJ nectareous/JJ essences/NNS ?/pct ?/pct
 A/AT tribute/NN to/IN midsummer/NN ``/pct bang-sashes/NNS ''/pct seems/VBZ terribly/QL funny/JJ ,/pct though/CS it/PPS would/MD be/BE hard/JJ to/TO explain/VB why/WRB ./pct
 ``/pct One/CD of/IN them/PPO banged/VBD the/AT sash/NN of/IN the/AT window/NN nearest/RBT my/PPg bed/NN around/RB midnight/NN in/IN July/NP and/CC I/PPSS leaped/VBD out/IN of/IN sleep/NN and/CC out/IN of/IN bed/NN ./pct
-'/pct It's /None just/RB a/AT bat/NN '/pct ,/pct said/VBD my/PPg wife/NN reassuringly/RB ,/pct and/CC I/PPSS sighed/VBD with/IN relief/NN ./pct
+'/pct It's/PPSBEZ just/RB a/AT bat/NN '/pct ,/pct said/VBD my/PPg wife/NN reassuringly/RB ,/pct and/CC I/PPSS sighed/VBD with/IN relief/NN ./pct
 '/pct Thank/VB God/NP for/IN that/DT '/pct ,/pct I/PPSS said/VBD ;/pct ;/pct
 '/pct I/PPSS thought/VBD it/PPS was/BEDZ a/AT human/JJ being/NN '/pct ''/pct ./pct
 In/IN a/AT sense/NN ,/pct perhaps/RB ,/pct Thurber/NP is/BEZ indebted/JJ artistically/RB to/IN the/AT surrealist/JJ painter/NN (/pct was/BEDZ it/PPS Salvador/NP Dali/NP ?/pct ?/pct
 )/pct who/WPS first/RB conceived/VBD the/AT startling/JJ fancy/NN of/IN a/AT picture/NN window/NN in/IN the/AT abdomen/NN ./pct
-That/DT is/BEZ ,/pct it/PPS is/BEZ literally/RB a/AT picture/NN window/NN :/pct you/PPSS don't /None see/VB into/IN the/AT viscera/NNS ;/pct ;/pct
+That/DT is/BEZ ,/pct it/PPS is/BEZ literally/RB a/AT picture/NN window/NN :/pct you/PPSS don't/DO* see/VB into/IN the/AT viscera/NNS ;/pct ;/pct
 you/PPSS see/VB a/AT picture/NN --/pct trees/NNS ,/pct or/CC flowers/NNS ./pct
 This/DT is/BEZ something/PN like/CS what/WDT Thurber's/NPg best/JJT effects/NNS are/BER like/CS ,/pct if/CS I/PPSS am/BEM not/NEG mistaken/VBN ./pct
 Though/CS no/QL longer/RBR able/JJ to/TO turn/VB out/RP his/PPg protoplasmic/JJ pen-and-ink/NN sketches/NNS (/pct several/AP old/JJ favorites/NNS are/BER scattered/VBN through/IN the/AT present/JJ volume/NN )/pct Thurber/NP has/HVZ retained/VBN unimpaired/JJ his/PPg vision/NN of/IN humor/NN as/CS a/AT thing/NN of/IN simple/JJ ,/pct unaffected/JJ humanness/NN ./pct
@@ -61,7 +61,7 @@ There/EX is/BEZ fear/NN in/IN the/AT fifties/NNS as/CS his/PPg title/NN suggests
 But/CC there/EX was/BEDZ terror/NN in/IN the/AT thirties/NNS when/WRB the/AT Nazis/NPS were/BED on/IN the/AT loose/NN and/CC in/IN those/DTS days/NNS Low/NP struck/VBD like/CS lightning/NN ./pct
 Anyone/PN can/MD draw/VB his/PPg own/JJ conclusions/NNS from/IN this/DT difference/NN ./pct
 It/PPS might/MD be/BE argued/VBN that/CS the/AT Communists/NNS are/BER less/QL inhuman/JJ than/CS the/AT Nazis/NPS and/CC furnish/VB the/AT artist/NN with/IN drama/NN in/IN a/AT lower/JJR key/NN ./pct
-But/CC this/DT argument/NN cannot /None be/BE pushed/VBN very/QL far/RB because/CS the/AT Communist/NN system/NN makes/VBZ up/RP for/IN any/DTI shortcomings/NNS of/IN its/PPg leaders/NNS in/IN respect/NN to/IN corrosion/NN ./pct
+But/CC this/DT argument/NN cannot/MD* be/BE pushed/VBN very/QL far/RB because/CS the/AT Communist/NN system/NN makes/VBZ up/RP for/IN any/DTI shortcomings/NNS of/IN its/PPg leaders/NNS in/IN respect/NN to/IN corrosion/NN ./pct
 The/AT Communists/NNS wield/VB a/AT power/NN unknown/JJ to/IN Hitler/NP ./pct
 And/CC the/AT leading/VBG issue/NN ,/pct that/DT of/IN piecemeal/JJ aggression/NN ,/pct remains/VBZ the/AT same/AP ./pct
 This/DT is/BEZ drama/NN enough/QLP ./pct
@@ -69,7 +69,7 @@ Do/DO we/PPSS ourselves/PPLS offer/NN Mr./NP Low/NP less/RBR of/IN a/AT crusade/
 In/IN the/AT thirties/NNS we/PPSS would/MD not/NEG face/VB our/PPg enemy/NN ;/pct ;/pct
 that/DT was/BEDZ a/AT nightmarish/JJ situation/NN and/CC Low/NP was/BEDZ in/IN his/PPg element/NN ./pct
 Now/RB we/PPSS have/HV stood/VBN up/RP to/IN the/AT Communists/NNS ;/pct ;/pct
-we/PPSS are/BER stronger/JJR and/CC more/QL self-confident/JJ --/pct and/CC Low/NP cannot /None so/QL easily/RB put/VB us/PPO to/IN rights/NNS ./pct
+we/PPSS are/BER stronger/JJR and/CC more/QL self-confident/JJ --/pct and/CC Low/NP cannot/MD* so/QL easily/RB put/VB us/PPO to/IN rights/NNS ./pct
 Or/CC does/DOZ the/AT reason/NN for/IN less/AP Jovian/JJ drawings/NNS lie/VB elsewhere/RB ?/pct ?/pct
 It/PPS might/MD be/BE that/CS Low/NP has/HVZ seen/VBN too/QL many/AP stupidities/NNS and/CC that/CS they/PPSS do/DO not/NEG outrage/VB him/PPO now/RB ./pct
 He/PPS writes/VBZ ,/pct ``/pct Confucius/NP held/VBD that/CS in/IN times/NNS of/IN stress/NN one/PN should/MD take/VB short/JJ views/NNS --/pct only/RB up/IN to/IN lunchtime/NN ''/pct ./pct
@@ -92,14 +92,14 @@ Look/VB in/IN this/DT book/NN for/IN weak/JJ mortals/NNS and/CC only/RB on/IN oc
 Read/VB the/AT moderately/QL brief/JJ text/NN ,/pct not/NEG for/IN captions/NNS ,/pct sometimes/RB for/IN tart/JJ epigrams/NNS ,/pct once/RB in/IN a/AT while/NN for/IN an/AT explosion/NN in/IN the/AT middle/NN of/IN your/PPg fixed/VBN ideas/NNS ./pct
 A/AT gray/JJ fox/NN with/IN a/AT patch/NN on/IN one/CD eye/NN --/pct confidence/NN man/NN ,/pct city/NN slicker/NN ,/pct lebensraum/NN specialist/NN --/pct tries/VBZ to/TO take/VB over/RP Catfish/NN Bend/NN in/IN this/DT third/OD relaxed/VBN allegory/NN from/IN Mr./NP Burman's/NPg refreshing/JJ Louisiana/NP animal/NN community/NN ./pct
 The/AT fox/NN is/BEZ all/ABN ingratiating/JJ smiles/NNS when/WRB he/PPS arrives/VBZ from/IN New/JJ Orleans/NP ,/pct accompanied/VBN by/IN one/CD wharf/NN rat/NN ./pct
-But/CC like/CS all/ABN despots/NNS ,/pct as/CS he/PPS builds/VBZ his/PPg following/NN from/IN among/IN the/AT gullible/JJ ,/pct he/PPS grows/VBZ more/QL threatening/JJ toward/IN those/DTS who/WPS won't /None follow/VB --/pct such/JJ solid/JJ citizens/NNS as/CS Doc/NP Raccoon/NP ;/pct ;/pct
+But/CC like/CS all/ABN despots/NNS ,/pct as/CS he/PPS builds/VBZ his/PPg following/NN from/IN among/IN the/AT gullible/JJ ,/pct he/PPS grows/VBZ more/QL threatening/JJ toward/IN those/DTS who/WPS won't/MD* follow/VB --/pct such/JJ solid/JJ citizens/NNS as/CS Doc/NP Raccoon/NP ;/pct ;/pct
 Judge/NN Black/NP ,/pct the/AT vegetarian/NN black/JJ snake/NN ;/pct ;/pct
 and/CC the/AT eagle/NN ,/pct who/WPS leads/VBZ the/AT bird/NN community/NN when/WRB he/PPS is/BEZ not/NEG too/QL busy/JJ in/IN Washington/NP posing/VBG for/IN fifty-cent/JJ pieces/NNS ./pct
 As/QL soon/RB as/CS the/AT fox/NN has/HVZ taken/VBN hold/NN on/IN most/AP of/IN the/AT populace/NN he/PPS imports/VBZ more/AP wharf/NN rats/NNS ,/pct who/WPS ,/pct of/IN course/NN ,/pct say/VB they/PPSS are/BER the/AT aggrieved/VBN victims/NNS of/IN an/AT extermination/NN campaign/NN in/IN the/AT city/NN ./pct
 (/pct The/AT followers/NNS of/IN bullies/NNS invariably/RB are/BER aggrieved/VBN about/IN the/AT very/AP things/NNS they/PPSS plan/VB to/TO do/DO to/IN others/NNS ./pct
 )/pct They/PPSS train/VB the/AT mink/NN and/CC other/AP animals/NNS to/TO fight/VB ./pct
-And/CC pretty/QL soon/RB gray/JJ fox/NN is/BEZ announcing/VBG that/CS he/PPS won't /None have/HV anyone/PN around/RB that's /None against/IN him/PPO ,/pct and/CC setting/VBG out/RP to/TO break/VB his/PPg second/OD territorial/JJ treaty/NN with/IN the/AT birds/NNS ./pct
+And/CC pretty/QL soon/RB gray/JJ fox/NN is/BEZ announcing/VBG that/CS he/PPS won't/MD* have/HV anyone/PN around/RB that's/WPSBEZ against/IN him/PPO ,/pct and/CC setting/VBG out/RP to/TO break/VB his/PPg second/OD territorial/JJ treaty/NN with/IN the/AT birds/NNS ./pct
 Robert/NP Hillyer/NP ,/pct the/AT poet/NN ,/pct writes/VBZ in/IN his/PPg introduction/NN to/IN this/DT brief/JJ animal/NN fable/NN that/CS Mr./NP Burman/NP ought/MD to/TO win/VB a/AT Nobel/NP Prize/NN for/IN the/AT Catfish/NN Bend/NN series/NN ./pct
 He/PPS may/MD have/HV a/AT point/NN in/IN urging/VBG that/CS decadent/JJ themes/NNS be/BE given/VBN fewer/AP prizes/NNS ./pct
-But/CC it's /None hard/JJ to/TO imagine/VB Mr./NP Burman/NP as/CS a/AT Nobel/NP laureate/NN on/IN the/AT basis/NN of/IN these/DTS charming/JJ but/CC not/NEG really/QL momentous/JJ fables/NNS ./pct
+But/CC it's/PPSBEZ hard/JJ to/TO imagine/VB Mr./NP Burman/NP as/CS a/AT Nobel/NP laureate/NN on/IN the/AT basis/NN of/IN these/DTS charming/JJ but/CC not/NEG really/QL momentous/JJ fables/NNS ./pct
 In/IN substance/NN they/PPSS lie/VB somewhere/RB between/IN the/AT Southern/JJ dialect/NN animal/NN stories/NNS of/IN Joel/NP Chandler/NP Harris/NP (/pct Uncle/NP Remus/NP )/pct and/CC the/AT polished/VBN ,/pct witty/JJ fables/NNS of/IN James/NP Thurber/NP ./pct

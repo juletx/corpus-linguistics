@@ -1,5 +1,5 @@
-Every/AT library/NN borrower/NN ,/pct or/CC at/IN least/AP those/DTS whose/WPg taste/NN goes/VBZ beyond/IN the/AT five-cent/JJ fiction/NN rentals/NNS ,/pct knows/VBZ what/WDT it/PPS is/BEZ to/TO hear/VB the/AT librarian/NN say/VB apologetically/RB ,/pct ``/pct I'm /None sorry/JJ ,/pct but/CC we/PPSS don't /None have/HV that/DT book/NN ./pct
-There/EX wouldn't /None be/BE much/AP demand/NN for/IN it/PPO ,/pct I'm /None afraid/JJ ''/pct ./pct
+Every/AT library/NN borrower/NN ,/pct or/CC at/IN least/AP those/DTS whose/WPg taste/NN goes/VBZ beyond/IN the/AT five-cent/JJ fiction/NN rentals/NNS ,/pct knows/VBZ what/WDT it/PPS is/BEZ to/TO hear/VB the/AT librarian/NN say/VB apologetically/RB ,/pct ``/pct I'm/PPSSBEM sorry/JJ ,/pct but/CC we/PPSS don't/DO* have/HV that/DT book/NN ./pct
+There/EX wouldn't/MD* be/BE much/AP demand/NN for/IN it/PPO ,/pct I'm/PPSSBEM afraid/JJ ''/pct ./pct
 Behind/IN this/DT reply/NN ,/pct and/CC its/PPg many/AP variations/NNS ,/pct is/BEZ the/AT ever-present/JJ budget/NN problem/NN all/ABN libraries/NNS must/MD face/VB ,/pct from/IN the/AT largest/JJT to/IN the/AT smallest/JJT ./pct
 What/WDT to/TO buy/VB out/IN of/IN the/AT year's/NNg grist/NN of/IN nearly/RB 15,000/CD book/NN titles/NNS ?/pct ?/pct
 What/WDT to/TO buy/VB for/IN adult/NN and/CC child/NN readers/NNS ,/pct for/IN lovers/NNS of/IN fiction/NN and/CC nonfiction/NN ,/pct for/IN a/AT clientele/NN whose/WPg wants/NNS are/BER incredibly/QL diversified/VBN ,/pct when/WRB your/PPg budget/NN is/BEZ pitifully/RB small/JJ ?/pct ?/pct
@@ -37,7 +37,7 @@ Basic/JJ reference/NN tools/NNS are/BER the/AT backbone/NN of/IN the/AT collecti
 On/IN microfilm/NN ,/pct headquarters/NN also/RB has/HVZ a/AT file/NN of/IN the/AT New/JJ York/NP Times/NNS from/IN its/PPg founding/VBG in/IN 1851/CD to/IN the/AT present/JJ day/NN ,/pct as/QL well/RB as/CS bound/VBN volumes/NNS of/IN important/JJ periodicals/NNS ./pct
 The/AT entire/JJ headquarters/NN collection/NN is/BEZ available/JJ to/IN the/AT patrons/NNS of/IN all/ABN members/NNS on/IN interlibrary/JJ loans/NNS ./pct
 Headquarters/NN gets/VBZ about/RB 100/CD requests/NNS every/AT day/NN ./pct
-It/PPS is/BEZ connected/VBN by/IN teletype/NN with/IN the/AT State/NN Library/NN in/IN Albany/NP ,/pct which/WDT will/MD supply/VB any/DTI book/NN to/IN a/AT system/NN that/CS the/AT system/NN itself/PPL cannot /None provide/VB ./pct
+It/PPS is/BEZ connected/VBN by/IN teletype/NN with/IN the/AT State/NN Library/NN in/IN Albany/NP ,/pct which/WDT will/MD supply/VB any/DTI book/NN to/IN a/AT system/NN that/CS the/AT system/NN itself/PPL cannot/MD* provide/VB ./pct
 The/AT books/NNS are/BER carried/VBN around/RB by/IN truck/NN in/IN canvas/NN bags/NNS from/IN headquarters/NNS to/IN the/AT other/AP libraries/NNS ./pct
 Each/DT subject/NN center/NN library/NN was/BEDZ chosen/VBN because/RB of/IN its/PPg demonstrated/VBN strength/NN in/IN a/AT particular/JJ area/NN ,/pct which/WDT headquarters/NN could/MD then/RB build/VB upon/IN ./pct
 East/JJ Meadow/NN has/HVZ philosophy/NN ,/pct psychology/NN ,/pct and/CC religion/NN ;/pct ;/pct
@@ -70,13 +70,13 @@ The/AT system/NN itself/PPL is/BEZ governed/VBN by/IN a/AT board/NN of/IN truste
 In/IN Nassau/NP ,/pct as/CS in/IN other/AP systems/NNS ,/pct the/AT long-range/NN objective/NN is/BEZ to/TO bring/VB the/AT maximum/JJ service/NN of/IN libraries/NNS to/TO bear/VB on/IN the/AT schools/NNS ,/pct and/CC on/IN adult/NN education/NN in/IN general/JJ ./pct
 Librarians/NNS ,/pct a/AT patient/JJ breed/NN of/IN men/NNS and/CC women/NNS who/WPS have/HV borne/VBN much/AP with/IN dedication/NN ,/pct can/MD begin/VB to/TO see/VB results/NNS today/NR ./pct
 Library/NN use/NN is/BEZ multiplying/VBG daily/RB ,/pct and/CC the/AT bulk/NN of/IN the/AT newcomers/NNS are/BER those/DTS maligned/VBN Americans/NPS ,/pct the/AT teen-agers/NNS ./pct
-To/IN them/PPO especially/RB the/AT librarians/NNS ,/pct with/IN the/AT help/NN of/IN co-ops/NNS ,/pct hope/VB they/PPSS will/MD never/RB have/HV to/TO say/VB ,/pct ``/pct I'm /None sorry/JJ ,/pct we/PPSS don't /None have/HV that/DT book/NN ''/pct ./pct
+To/IN them/PPO especially/RB the/AT librarians/NNS ,/pct with/IN the/AT help/NN of/IN co-ops/NNS ,/pct hope/VB they/PPSS will/MD never/RB have/HV to/TO say/VB ,/pct ``/pct I'm/PPSSBEM sorry/JJ ,/pct we/PPSS don't/DO* have/HV that/DT book/NN ''/pct ./pct
 Today/NR ,/pct more/AP than/IN ever/RB before/RB ,/pct the/AT survival/NN of/IN our/PPg free/JJ society/NN depends/VBZ upon/IN the/AT citizen/NN who/WPS is/BEZ both/ABX informed/VBN and/CC concerned/VBN ./pct
 The/AT great/JJ advances/NNS made/VBN in/IN recent/JJ years/NNS in/IN Communist/NN strength/NN and/CC in/IN our/PPg own/JJ capacity/NN to/TO destroy/VB require/VB an/AT educated/VBN citizenry/NN in/IN the/AT Western/JJ world/NN ./pct
 The/AT need/NN for/IN lifetime/NN reading/NN is/BEZ apparent/JJ ./pct
 Education/NN must/MD not/NEG be/BE limited/VBN to/IN our/PPg youth/NN but/CC must/MD be/BE a/AT continuing/VBG process/NN through/IN our/PPg entire/JJ lives/NNS ,/pct for/CS it/PPS is/BEZ only/QL through/IN knowledge/NN that/CS we/PPSS ,/pct as/CS a/AT nation/NN ,/pct can/MD cope/VB with/IN the/AT dangers/NNS that/WPS threaten/VB our/PPg society/NN ./pct
 The/AT desire/NN and/CC ability/NN to/IN read/VBN are/BER important/JJ aspects/NNS of/IN our/PPg cultural/JJ life/NN ./pct
-We/PPSS cannot /None consider/VB ourselves/PPLS educated/VBN if/CS we/PPSS do/DO not/NEG read/VB ;/pct ;/pct
+We/PPSS cannot/MD* consider/VB ourselves/PPLS educated/VBN if/CS we/PPSS do/DO not/NEG read/VB ;/pct ;/pct
 if/CS we/PPSS are/BER not/NEG discriminating/JJ in/IN our/PPg reading/NN ;/pct ;/pct
 if/CS we/PPSS do/DO not/NEG know/VB how/WRB to/TO use/VB what/WDT we/PPSS do/DO read/VB ./pct
 We/PPSS must/MD not/NEG permit/VB our/PPg society/NN to/TO become/VB a/AT slave/NN to/IN the/AT scientific/JJ age/NN ,/pct as/CS might/MD well/RB happen/VB without/IN the/AT cultural/JJ and/CC spiritual/JJ restraint/NN that/DT comes/VBZ from/IN the/AT development/NN of/IN the/AT human/NN mind/NN through/IN wisdom/NN absorbed/VBN from/IN the/AT written/VBN word/NN ./pct

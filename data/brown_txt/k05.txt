@@ -72,8 +72,8 @@ There/EX was/BEDZ a/AT lady/NN there/RB ,/pct in/IN a/AT nightdress/NN ./pct
 He/PPS would/MD not/NEG have/HV wanted/VBN to/TO hurt/VB a/AT lady/NN ./pct
 Another/DT man/NN approached/VBD ,/pct this/DT one/CD fully/QL dressed/VBN ./pct
 When/WRB the/AT knife/NN went/VBD into/IN his/PPg chest/NN ,/pct he/PPS went/VBD down/RP at/IN once/RB ./pct
-``/pct I'm /None mad/JJ ''/pct ,/pct shouted/VBD Payne/NP ,/pct as/CS he/PPS ran/VBD out/RP into/IN the/AT hall/NN ./pct
-``/pct I'm /None mad/JJ ''/pct ,/pct and/CC only/RB wished/VBD he/PPS had/HVD been/BEN ./pct
+``/pct I'm/PPSSBEM mad/JJ ''/pct ,/pct shouted/VBD Payne/NP ,/pct as/CS he/PPS ran/VBD out/RP into/IN the/AT hall/NN ./pct
+``/pct I'm/PPSSBEM mad/JJ ''/pct ,/pct and/CC only/RB wished/VBD he/PPS had/HVD been/BEN ./pct
 That/DT would/MD have/HV made/VBN things/NNS so/QL much/QL easier/JJR ./pct
 But/CC he/PPS was/BEDZ not/NEG mad/JJ ./pct
 He/PPS was/BEDZ only/RB dreaming/VBG ./pct
@@ -91,8 +91,8 @@ He/PPS had/HVD no/AT idea/NN where/WRB he/PPS was/BEDZ ./pct
 After/CS some/DTI time/NN he/PPS came/VBD to/IN an/AT open/JJ field/NN ./pct
 An/AT open/JJ field/NN was/BEDZ better/JJR than/CS a/AT building/NN ,/pct that/DT was/BEDZ for/IN sure/JJ ,/pct so/RB he/PPS dismounted/VBD ,/pct turned/VBD off/IN the/AT horse/NN ,/pct and/CC plunged/VBD through/IN the/AT grass/NN ./pct
 He/PPS felt/VBD curiously/RB sleepy/JJ ,/pct the/AT world/NN seemed/VBD far/RB away/RB ;/pct ;/pct
-he/PPS knew/VBD he/PPS should/MD get/VB to/IN Cap/NP ,/pct but/CC he/PPS didn't /None know/VB how/WRB ./pct
-He/PPS was/BEDZ sure/JJ ,/pct for/CS he/PPS had/HVD done/VBN as/CS he/PPS was/BEDZ told/VBN ,/pct hadn't /None he/PPS ?/pct ?/pct
+he/PPS knew/VBD he/PPS should/MD get/VB to/IN Cap/NP ,/pct but/CC he/PPS didn't/DOD* know/VB how/WRB ./pct
+He/PPS was/BEDZ sure/JJ ,/pct for/CS he/PPS had/HVD done/VBN as/CS he/PPS was/BEDZ told/VBN ,/pct hadn't/HVD* he/PPS ?/pct ?/pct
 Cap/NP would/MD find/VB him/PPO and/CC take/VB care/NN of/IN him/PPO ./pct
 So/RB choosing/VBG a/AT good/JJ tree/NN ,/pct he/PPS clambered/VBD up/RP into/IN it/PPO ,/pct found/VBD a/AT comfortable/JJ notch/NN ,/pct and/CC curled/VBD up/RP in/IN it/PPO to/TO sleep/VB ,/pct like/CS the/AT tousled/VBN bear/NN he/PPS was/BEDZ ,/pct with/IN his/PPg hands/NNS across/IN his/PPg chest/NN ,/pct as/CS though/CS surfeited/VBN with/IN honey/NN ./pct
 Violence/NN always/RB made/VBD him/PPO tired/JJ ,/pct but/CC he/PPS was/BEDZ not/NEG frightened/VBN ./pct
@@ -171,4 +171,4 @@ He/PPS went/VBD straight/RB to/IN the/AT Presidential/JJ box/NN ./pct
 As/CS usual/JJ ,/pct Mrs./NP Lincoln/NP had/HVD lost/VBN her/PPg head/NN ,/pct but/CC nobody/PN blamed/VBD her/PPO for/IN doing/VBG so/RB now/RB ./pct
 There/EX was/BEDZ a/AT little/AP blood/NN on/IN the/AT hem/NN of/IN her/PPg dress/NN ,/pct for/CS the/AT assassin/NN had/HVD slashed/VBN Miss/NP Harris's/NPg companion/NN ,/pct Major/NN Rathbone/NP ,/pct with/IN a/AT knife/NN ./pct
 Rathbone/NP said/VBD he/PPS was/BEDZ bleeding/VBG to/IN death/NN ./pct
-By/IN the/AT look/NN of/IN him/PPO he/PPS wasn't /None that/QL far/RB gone/VBN ./pct
+By/IN the/AT look/NN of/IN him/PPO he/PPS wasn't/BEDZ* that/QL far/RB gone/VBN ./pct

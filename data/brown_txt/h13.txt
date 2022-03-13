@@ -61,8 +61,8 @@ You/PPSS can/MD see/VB it/PPO ,/pct for/IN example/NN ,/pct in/IN the/AT extensi
 efforts/NNS ,/pct as/CS I/PPSS see/VB it/PPO ,/pct which/WDT are/BER being/BEG directed/VBN ,/pct by/IN the/AT way/NN ,/pct toward/IN support/NN for/IN future/JJ actions/NNS ,/pct not/NEG for/IN those/DTS already/RB past/AP ./pct
 What/WDT the/AT next/AP move/NN will/MD be/BE only/RB time/NN ,/pct of/IN course/NN ,/pct will/MD tell/VB ./pct
 Personally/RB ,/pct I/PPSS think/VB we/PPSS ought/MD to/TO set/VB up/RP an/AT immediate/JJ naval/JJ blockade/NN of/IN Cuba/NP ./pct
-We/PPSS simply/RB can't /None tolerate/VB further/AP Russian/JJ weapons/NNS ,/pct including/IN the/AT possibility/NN of/IN long-range/NN nuclear/JJ missiles/NNS ,/pct being/BEG located/VBN in/IN Cuba/NP ./pct
-Obviously/RB ,/pct we/PPSS can't /None stop/VB them/PPO from/IN coming/VBG in/RP ,/pct however/RB ,/pct just/RB by/IN talk/NN ./pct
+We/PPSS simply/RB can't/MD* tolerate/VB further/AP Russian/JJ weapons/NNS ,/pct including/IN the/AT possibility/NN of/IN long-range/NN nuclear/JJ missiles/NNS ,/pct being/BEG located/VBN in/IN Cuba/NP ./pct
+Obviously/RB ,/pct we/PPSS can't/MD* stop/VB them/PPO from/IN coming/VBG in/RP ,/pct however/RB ,/pct just/RB by/IN talk/NN ./pct
 A/AT naval/JJ blockade/NN would/MD be/BE thoroughly/RB in/IN line/NN with/IN the/AT Monroe/NP Doctrine/NN ,/pct would/MD be/BE a/AT relatively/QL simple/JJ operation/NN to/TO carry/VB out/RP ,/pct and/CC would/MD bring/VB an/AT abrupt/JJ end/NN to/IN Soviet/NP penetration/NN of/IN our/PPg hemisphere/NN ''/pct ./pct
 (/pct from/IN U.s./NP News/NN &/CC World/NN Report/NN ,/pct May/NP 8/CD ,/pct 1961/CD )/pct
 next/AP for/IN Cuba/NP :/pct an/AT arms/NNS blockade/NN ?/pct ?/pct

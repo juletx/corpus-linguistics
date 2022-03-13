@@ -8,7 +8,7 @@ Mrs./NP Hengesbach/NP was/BEDZ killed/VBN on/IN Aug./NP 31/CD ,/pct 1958/CD ./pc
 Hengesbach/NP has/HVZ been/BEN living/VBG under/IN a/AT cloud/NN ever/RB since/IN ./pct
 When/WRB the/AT verdict/NN came/VBD in/RP against/IN his/PPg young/JJ neighbor/NN ,/pct Hengesbach/NP said/VBD :/pct
 ``/pct I/PPSS am/BEM very/QL pleased/VBN to/TO have/HV the/AT doubt/NN of/IN suspicion/NN removed/VBN ./pct
-Still/RB ,/pct I/PPSS don't /None wish/VB to/TO appear/VB happy/JJ at/IN somebody/PN else's/RBg misfortune/NN ''/pct ./pct
+Still/RB ,/pct I/PPSS don't/DO* wish/VB to/TO appear/VB happy/JJ at/IN somebody/PN else's/RBg misfortune/NN ''/pct ./pct
 Lives/VBZ on/IN welfare/NN
 Hengesbach/NP ,/pct who/WPS has/HVZ been/BEN living/VBG on/IN welfare/NN recently/RB ,/pct said/VBD he/PPS hopes/VBZ to/TO rebuild/VB the/AT farm/NN which/WDT was/BEDZ settled/VBN by/IN his/PPg grandfather/NN in/IN Westphalia/NP ,/pct 27/CD miles/NNS southwest/NR of/IN here/RB ./pct
 Hengesbach/NP has/HVZ been/BEN living/VBG in/IN Grand/JJ Ledge/NN since/CS his/PPg house/NN and/CC barn/NN were/BED burned/VBN down/RP after/CS his/PPg release/NN in/IN 1958/CD ./pct
@@ -21,7 +21,7 @@ Circuit/NN Judge/NN Paul/NP R./NP Cash/NP did/DOD not/NEG set/VB a/AT date/NN fo
 Pohl/NP could/MD receive/VB from/IN 1/CD to/IN 15/CD years/NNS in/IN prison/NN or/CC probation/NN ./pct
 Walker/NP said/VBD he/PPS was/BEDZ considering/VBG filing/VBG a/AT motion/NN for/IN a/AT new/JJ trial/NN which/WDT would/MD contend/VB that/CS the/AT verdict/NN was/BEDZ against/IN the/AT weight/NN of/IN the/AT evidence/NN and/CC that/CS there/EX were/BED several/AP errors/NNS in/IN trial/NN procedure/NN ./pct
 Locked/VBN in/IN motel/NN
-A/AT verdict/NN against/IN Pohl/NP came/VBD at/IN 4:05/CD p.m./RB after/IN almost/RB 13-1/2/CD hours/NNS of/IN deliberation/NN ./pct
+A/AT verdict/NN against/IN Pohl/NP came/VBD at/IN 4:05/CD p.m./RB after/IN almost/RB 13-1:2/CD hours/NNS of/IN deliberation/NN ./pct
 The/AT jury/NN ,/pct which/WDT was/BEDZ locked/VBN up/RP in/IN a/AT motel/NN overnight/RB ,/pct was/BEDZ canvassed/VBN at/IN the/AT request/NN of/IN Walker/NP after/CS the/AT verdict/NN was/BEDZ announced/VBN ./pct
 The/AT jury/NN foreman/NN ,/pct Mrs./NP Olive/NP Heideman/NP ,/pct of/IN rural/JJ Elsie/NP ,/pct said/VBD that/CS a/AT ballot/NN was/BEDZ not/NEG even/RB taken/VBN until/IN yesterday/NR morning/NN and/CC that/CS the/AT first/OD day/NN of/IN deliberation/NN was/BEDZ spent/VBN in/IN going/VBG over/IN the/AT evidence/NN ./pct
 She/PPS said/VBD the/AT jurors/NNS agreed/VBD that/CS Pohl's/NPg confession/NN was/BEDZ valid/JJ ./pct
@@ -62,8 +62,8 @@ Expresses/VBZ thanks/NNS
 Kowalski/NP has/HVZ spoken/VBN but/IN little/AP since/CS the/AT fire/NN last/AP Saturday/NR ./pct
 But/CC today/NR he/PPS wanted/VBD to/TO make/VB a/AT public/JJ statement/NN ./pct
 ``/pct I/PPSS never/RB knew/VBD there/EX were/BED such/JJ neighbors/NNS and/CC friends/NNS around/IN me/PPO and/CC my/PPg family/NN ./pct
-I/PPSS wasn't /None sure/JJ there/EX were/BED such/JJ people/NNS anywhere/RB in/IN the/AT world/NN ./pct
-I'll /None need/VB more/AP than/IN a/AT single/AP day/NN to/TO find/VB the/AT words/NNS to/TO properly/RB express/VB my/PPg thanks/NNS to/IN them/PPO ''/pct ./pct
+I/PPSS wasn't/BEDZ* sure/JJ there/EX were/BED such/JJ people/NNS anywhere/RB in/IN the/AT world/NN ./pct
+I'll/PPSSMD need/VB more/AP than/IN a/AT single/AP day/NN to/TO find/VB the/AT words/NNS to/TO properly/RB express/VB my/PPg thanks/NNS to/IN them/PPO ''/pct ./pct
 An/AT alert/JJ 10-year-old/JJ safety/NN patrol/NN boy/NN was/BEDZ congratulated/VBN by/IN police/NNS today/NR for/IN his/PPg part/NN in/IN obtaining/VBG a/AT reckless/JJ driving/NN conviction/NN against/IN a/AT youthful/JJ motorist/NN ./pct
 Patrolman/NN George/NP Kimmell/NP ,/pct of/IN McClellan/NP Station/NN ,/pct said/VBD he/PPS would/MD recommend/VB a/AT special/JJ safety/NN citation/NN for/IN Ralph/NP Sisk/NP ,/pct 9230/CD Vernor/NP east/NR ,/pct a/AT third/OD grader/NN at/IN the/AT Scripps/NP School/NN ,/pct for/IN his/PPg assistance/NN in/IN the/AT case/NN ./pct
 Kimmell/NP said/VBD he/PPS and/CC Ralph/NP were/BED helping/VBG children/NNS across/IN Belvidere/NP at/IN Kercheval/NP Monday/NR afternoon/NN when/WRB a/AT car/NN heading/VBG north/NR on/IN Belvidere/NP stopped/VBD belatedly/RB inside/IN the/AT pedestrian/NN crosswalk/NN ./pct

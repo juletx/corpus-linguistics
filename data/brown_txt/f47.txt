@@ -46,7 +46,7 @@ We/PPSS started/VBD at/IN 9/CD a.m./RB to/TO visit/VB the/AT Kyoto/NP University
 I/PPSS was/BEDZ amazed/VBN at/IN the/AT very/QL poor/JJ hospital/NN facilities/NNS accompanying/VBG the/AT medical/JJ school/NN ./pct
 They/PPSS apologized/VBD for/IN the/AT condition/NN ,/pct including/IN dirt/NN and/CC flies/NNS ,/pct and/CC I/PPSS was/BEDZ a/AT little/AP at/IN a/AT loss/NN to/TO know/VB what/WDT to/TO say/VB ./pct
 There/EX seemed/VBD to/TO be/BE no/AT excuse/NN ?/pct ?/pct
-I/PPSS don't /None have/HV the/AT answer/NN yet/RB ./pct
+I/PPSS don't/DO* have/HV the/AT answer/NN yet/RB ./pct
 We/PPSS had/HVD tea/NN at/IN Mr./NP Washizu's/NPg home/NN where/WRB I/PPSS learned/VBD that/CS he/PPS ,/pct too/RB ,/pct comes/VBZ from/IN a/AT very/QL wealthy/JJ family/NN ./pct
 His/PPg grandfather/NN is/BEZ a/AT Buddhist/JJ priest/NN ;/pct ;/pct
 and/CC he/PPS ,/pct being/BEG the/AT eldest/JJT ,/pct was/BEDZ supposed/VBN to/TO be/BE a/AT priest/NN ,/pct but/CC he/PPS chose/VBD to/TO do/DO differently/RB ,/pct and/CC one/CD of/IN his/PPg brothers/NNS is/BEZ to/TO become/VB the/AT priest/NN ./pct
@@ -64,7 +64,7 @@ A/AT new/JJ red/JJ carpet/NN had/HVD been/BEN laid/VBN for/IN their/PPg coming/N
 Here/RB Mr./NP Yoneda/NP met/VBD us/PPO after/IN a/AT three-hour/JJ train/NN trip/NN from/IN the/AT town/NN where/WRB he/PPS teaches/VBZ ./pct
 Even/RB though/CS we/PPSS had/HVD walked/VBN miles/NNS in/IN Kyoto/NP that/DT day/NN ,/pct we/PPSS started/VBD out/RP again/RB to/TO see/VB Nara/NP at/IN night/NN ./pct
 In/IN the/AT evening/NN both/ABX of/IN the/AT men/NNS went/VBD with/IN me/PPO on/IN the/AT train/NN 30/CD miles/NNS to/IN Osaka/NP to/TO put/VB me/PPO on/IN the/AT train/NN for/IN Hiroshima/NP ./pct
-Again/RB the/AT plan/NN was/BEDZ for/CS me/PPO to/TO go/VB alone/RB ,/pct but/CC they/PPSS wouldn't /None let/VB me/PPO ./pct
+Again/RB the/AT plan/NN was/BEDZ for/CS me/PPO to/TO go/VB alone/RB ,/pct but/CC they/PPSS wouldn't/MD* let/VB me/PPO ./pct
 At/IN Osaka/NP ,/pct Mr./NP Yoneda/NP had/HVD to/TO leave/VB us/PPO to/TO get/VB the/AT train/NN to/IN his/PPg home/NN ,/pct but/CC Mr./NP Nishima/NP and/CC I/PPSS had/HVD an/AT hour/NN and/CC a/AT half/ABN before/IN train/NN time/NN to/TO see/VB Osaka/NP at/IN night/NN ./pct
 It/PPS is/BEZ the/AT second/OD largest/JJT city/NN in/IN Japan/NP ,/pct with/IN about/RB four/CD million/CD people/NNS ./pct
 One/CD spot/NN in/IN Osaka/NP I/PPSS shall/MD always/RB remember/VB --/pct the/AT bridge/NN where/WRB we/PPSS stood/VBD to/TO watch/VB the/AT reflections/NNS of/IN the/AT elaborate/JJ neon/NN signs/NNS in/IN the/AT still/JJ waters/NNS of/IN the/AT river/NN ./pct
@@ -72,7 +72,7 @@ In/IN the/AT midst/NN of/IN a/AT great/JJ busy/JJ city/NN ,/pct people/NNS take/
 My/PPg train/NN arrived/VBD in/IN Hiroshima/NP at/IN the/AT awful/JJ hour/NN of/IN 4:45/CD a.m./RB ./pct
 I/PPSS had/HVD planned/VBN to/TO go/VB to/IN the/AT hotel/NN by/IN taxi/NN and/CC sleep/VB a/AT little/AP ,/pct after/IN which/WDT Mr./NP Uno/NP would/MD arrive/VB and/CC pilot/VB me/PPO around/RB ./pct
 But/CC there/RB he/PPS was/BEDZ at/IN the/AT train/NN with/IN an/AT Oregon/NP State/NN pennant/NN in/IN his/PPg hand/NN ./pct
-I/PPSS know/VB now/RB why/WRB the/AT students/NNS insisted/VBD that/CS I/PPSS go/VB to/IN Hiroshima/NP even/RB when/WRB I/PPSS told/VBD them/PPO I/PPSS didn't /None want/VB to/TO ./pct
+I/PPSS know/VB now/RB why/WRB the/AT students/NNS insisted/VBD that/CS I/PPSS go/VB to/IN Hiroshima/NP even/RB when/WRB I/PPSS told/VBD them/PPO I/PPSS didn't/DOD* want/VB to/TO ./pct
 They/PPSS knew/VBD that/CS I/PPSS was/BEDZ still/RB grieving/VBG over/IN the/AT tragic/JJ event/NN ,/pct and/CC they/PPSS felt/VBD that/CS if/CS I/PPSS could/MD see/VB the/AT recovery/NN and/CC the/AT spirit/NN of/IN the/AT people/NNS ,/pct who/WPS hold/VB no/AT grudge/NN ,/pct but/CC who/WPS also/RB regret/VB Pearl/NN Harbor/NN ,/pct I/PPSS would/MD be/BE happier/JJR and/CC would/MD understand/VB better/RBR a/AT new/JJ Japan/NP ./pct
 There/EX were/BED no/AT words/NNS to/TO say/VB this/DT but/CC there/EX was/BEDZ no/AT need/NN ./pct
 The/AT teachers/NNS of/IN Mr./NP Uno's/NPg school/NN gave/VBD me/PPO a/AT small/JJ gift/NN to/TO thank/VB me/PPO for/IN coming/VBG ./pct

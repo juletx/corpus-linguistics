@@ -47,7 +47,7 @@ With/IN over/RP four/CD million/CD American/JJ men/NNS away/RB at/IN war/NN ,/pc
 With/IN the/AT return/NN of/IN our/PPg soldiers/NNS ,/pct it/PPS soon/RB became/VBD apparent/JJ that/CS the/AT belief/NN was/BEDZ not/NEG shared/VBN by/IN the/AT great/JJ majority/NN of/IN citizens/NNS ./pct
 The/AT attempt/NN to/TO enforce/VB that/DT belief/NN ushered/VBD in/RP a/AT reign/NN of/IN bootleggers/NNS ,/pct racketeers/NNS ,/pct hijackers/NNS and/CC gangsters/NNS that/WPS led/VBD to/IN a/AT breakdown/NN of/IN law/NN unparalleled/JJ in/IN our/PPg history/NN ./pct
 The/AT so-called/JJ ``/pct noble/JJ experiment/NN ''/pct came/VBD to/IN an/AT inglorious/JJ end/NN ./pct
-That/DT tumultuous/JJ ,/pct painful/JJ and/CC costly/JJ experience/NN shows/VBZ clearly/RB that/CS a/AT law/NN expressing/VBG a/AT moral/JJ judgment/NN cannot /None be/BE enforced/VBN when/WRB it/PPS has/HVZ little/AP correspondence/NN with/IN the/AT general/JJ view/NN of/IN society/NN ./pct
+That/DT tumultuous/JJ ,/pct painful/JJ and/CC costly/JJ experience/NN shows/VBZ clearly/RB that/CS a/AT law/NN expressing/VBG a/AT moral/JJ judgment/NN cannot/MD* be/BE enforced/VBN when/WRB it/PPS has/HVZ little/AP correspondence/NN with/IN the/AT general/JJ view/NN of/IN society/NN ./pct
 That/DT experience/NN holds/VBZ a/AT lesson/NN for/IN us/PPO all/ABN in/IN regard/NN to/IN birth/NN control/NN today/NR ./pct
 Up/IN to/IN the/AT turn/NN of/IN the/AT century/NN ,/pct contraception/NN was/BEDZ condemned/VBN by/IN all/ABN Christian/JJ churches/NNS as/CS immoral/JJ ,/pct unnatural/JJ and/CC contrary/JJ to/IN divine/JJ law/NN ./pct
 This/DT was/BEDZ generally/RB reflected/VBN in/IN the/AT civil/JJ laws/NNS of/IN Christian/JJ countries/NNS ./pct

@@ -6,13 +6,13 @@ They/PPSS slept/VBD --/pct Mynheer/NP with/IN a/AT marvelously/RB high-pitched/J
 In/IN the/AT ballroom/NN below/RB ,/pct the/AT dark/NN had/HVD given/VBN way/NN to/IN moonlight/NN coming/VBG in/RP through/IN the/AT bank/NN of/IN French/JJ windows/NNS ./pct
 It/PPS was/BEDZ a/AT delayed/VBN moon/NN ,/pct but/CC now/RB the/AT sky/NN had/HVD cleared/VBN of/IN scudding/VBG black/JJ and/CC the/AT stars/NNS sugared/VBD the/AT silver-gray/JJ sky/NN ./pct
 Martha/NP Schuyler/NP ,/pct old/JJ ,/pct slow/JJ ,/pct careful/JJ of/IN foot/NN ,/pct came/VBD down/IN the/AT great/JJ staircase/NN ,/pct dressed/VBN in/IN her/PPg best/JJT lace-drawn/JJ black/JJ silk/NN ,/pct her/PPg jeweled/JJ shoe/NN buckles/NNS held/VBD forward/RB ./pct
-``/pct Well/UH ,/pct I'm /None here/RB at/IN last/RB ''/pct ,/pct she/PPS said/VBD ,/pct addressing/VBG the/AT old/JJ portraits/NNS on/IN the/AT walls/NNS ./pct
-``/pct I/PPSS don't /None hear/VB the/AT music/NN ./pct
+``/pct Well/UH ,/pct I'm/PPSSBEM here/RB at/IN last/RB ''/pct ,/pct she/PPS said/VBD ,/pct addressing/VBG the/AT old/JJ portraits/NNS on/IN the/AT walls/NNS ./pct
+``/pct I/PPSS don't/DO* hear/VB the/AT music/NN ./pct
 I/PPSS am/BEM getting/VBG deaf/JJ ,/pct I/PPSS must/MD admit/VB it/PPO ''/pct ./pct
 She/PPS came/VBD to/IN the/AT ballroom/NN and/CC stood/VBD on/IN the/AT two/CD carpeted/VBN steps/NNS that/WPS led/VBD down/RP to/IN it/PPO ./pct
 ``/pct Where/WRB is/BEZ everyone/PN ?/pct ?/pct
 I/PPSS say/VB ,/pct where/WRB is/BEZ everyone/PN ?/pct ?/pct
-Peter/NP ,/pct you/PPSS lummox/NN ,/pct you've /None forgot/VBN to/TO order/VB the/AT musicians/NNS ''/pct ./pct
+Peter/NP ,/pct you/PPSS lummox/NN ,/pct you've/PPSSHV forgot/VBN to/TO order/VB the/AT musicians/NNS ''/pct ./pct
 She/PPS stood/VBD there/RB ,/pct a/AT large/JJ old/JJ woman/NN ,/pct smiling/VBG at/IN the/AT things/NNS she/PPS would/MD say/VB to/IN him/PPO in/IN the/AT morning/NN ,/pct this/DT big/JJ foolish/JJ baby/NN of/IN a/AT son/NN ./pct
 There/EX were/BED times/NNS now/RB ,/pct like/CS this/DT ,/pct when/WRB she/PPS lost/VBD control/NN of/IN the/AT time/NN count/NN and/CC moved/VBD freely/RB back/RB and/CC forth/RB into/IN three/CD generations/NNS ./pct
 Was/BEDZ it/PPS a/AT birthday/NN ball/NN ?/pct ?/pct

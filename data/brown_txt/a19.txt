@@ -8,9 +8,9 @@ A/AT flat/JJ reduction/NN of/IN 10/CD per/IN cent/NN in/IN the/AT salary/NN of/I
 There/EX are/BER about/RB 3,325/CD officers/NNS and/CC employees/NNS in/IN this/DT class/NN ./pct
 2/CD
 Sufficient/JJ lay-offs/NNS of/IN union/NN employees/NNS to/TO bring/VB about/RB a/AT 10/CD per/IN cent/NN cut/NN in/IN the/AT union/NN payroll/NN expense/NN ./pct
-Since/CS the/AT railroad/NN cannot /None reduce/VB the/AT salary/NN of/IN individual/JJ union/NN members/NNS under/IN contract/NN ,/pct it/PPS must/MD accomplish/VB its/PPg payroll/NN reduction/NN by/IN placing/VBG some/DTI of/IN the/AT men/NNS on/IN furlough/NN ,/pct a/AT B./NP &/CC O./NP spokesman/NN said/VBD ./pct
+Since/CS the/AT railroad/NN cannot/MD* reduce/VB the/AT salary/NN of/IN individual/JJ union/NN members/NNS under/IN contract/NN ,/pct it/PPS must/MD accomplish/VB its/PPg payroll/NN reduction/NN by/IN placing/VBG some/DTI of/IN the/AT men/NNS on/IN furlough/NN ,/pct a/AT B./NP &/CC O./NP spokesman/NN said/VBD ./pct
 Those/DTS union/NN members/NNS kept/VBD on/IN their/PPg jobs/NNS ,/pct therefore/RB ,/pct will/MD not/NEG take/VB a/AT cut/NN in/IN their/PPg wages/NNS ./pct
-The/AT spokesman/NN said/VBD the/AT number/NN to/TO be/BE furloughed/VBN cannot /None be/BE estimated/VBN since/CS the/AT lay-offs/NNS must/MD be/BE carried/VBN out/RP in/IN each/DT area/NN depending/IN on/IN what/WDT men/NNS are/BER most/RBT needed/VBN on/IN the/AT job/NN ./pct
+The/AT spokesman/NN said/VBD the/AT number/NN to/TO be/BE furloughed/VBN cannot/MD* be/BE estimated/VBN since/CS the/AT lay-offs/NNS must/MD be/BE carried/VBN out/RP in/IN each/DT area/NN depending/IN on/IN what/WDT men/NNS are/BER most/RBT needed/VBN on/IN the/AT job/NN ./pct
 A/AT thug/NN struck/VBD a/AT cab/NN driver/NN in/IN the/AT face/NN with/IN a/AT pistol/NN last/AP night/NN after/CS robbing/VBG him/PPO of/IN $18/NNS at/IN Franklin/NP and/CC Mount/NN Streets/NNS ./pct
 The/AT victim/NN ,/pct Norman/NP B./NP Wiley/NP ,/pct 38/CD ,/pct of/IN the/AT 900/CD block/NN North/JJ Charles/NP Street/NN ,/pct was/BEDZ treated/VBN for/IN cuts/NNS at/IN Franklin/NP Square/NN Hospital/NN after/IN the/AT robbery/NN ./pct
 The/AT driver/NN told/VBD police/NNS he/PPS followed/VBD as/CS the/AT Negro/NP man/NN got/VBD out/RP of/IN the/AT cab/NN with/IN his/PPg money/NN ./pct
@@ -34,7 +34,7 @@ Cites/VBZ discrepancies/NNS
 Mrs./NP Williams/NP had/HVD a/AT list/NN which/WDT she/PPS said/VBD contained/VBN about/RB nine/CD or/CC ten/CD discrepancies/NNS between/IN her/PPO memory/NN of/IN Dr./NN Jenkins's/NPg conversation/NN and/CC how/WRB they/PPSS were/BED written/VBN up/RP for/IN the/AT board's/NNg approval/NN ./pct
 ``/pct I/PPSS hate/VB to/TO have/HV these/DTS things/NNS come/VB up/RP again/RB and/CC again/RB ''/pct ,/pct Dr./NN Jenkins/NP commented/VBD as/CS he/PPS made/VBD his/PPg suggestion/NN ./pct
 ``/pct These/DTS are/BER the/AT board's/NNg minutes/NNS ./pct
-I'll /None write/VB what/WDT you/PPSS tell/VB me/PPO to/TO ''/pct ./pct
+I'll/PPSSMD write/VB what/WDT you/PPSS tell/VB me/PPO to/TO ''/pct ./pct
 For/IN a/AT number/NN of/IN years/NNS the/AT board/NN used/VBD a/AT machine/NN to/TO keep/VB a/AT permanent/JJ record/NN but/CC abandoned/VBD the/AT practice/NN about/RB two/CD years/NNS ago/RB ./pct
 It/PPS was/BEDZ about/RB that/DT time/NN ,/pct a/AT board/NN member/NN said/VBD later/RBR ,/pct that/CS Dr./NN Thomas/NP G./NP Pullen/NP ,/pct Jr./NP ,/pct State/NN superintendent/NN of/IN schools/NNS ,/pct told/VBD Dr./NN Jenkins/NP and/CC a/AT number/NN of/IN other/AP education/NN officials/NNS that/CS he/PPS would/MD not/NEG talk/VB to/IN them/PPO with/IN a/AT recording/VBG machine/NN sitting/VBG in/IN front/NN of/IN him/PPO ./pct
 The/AT Board/NN of/IN County/NN Commissioners/NNS ,/pct the/AT Sanitary/JJ Commission/NN ,/pct the/AT Planning/VBG and/CC Zoning/VBG Board/NN and/CC other/AP county/NN official/JJ bodies/NNS use/VB recording/VBG machines/NNS for/IN all/ABN public/NN business/NN in/IN order/NN to/TO prevent/VB law/NN suits/NNS and/CC other/AP misunderstandings/NNS about/IN what/WDT actually/RB happened/VBD at/IN their/PPg meetings/NNS ./pct
@@ -68,7 +68,7 @@ automatic/JJ rifle/NN ,/pct according/IN to/IN Capt./NN Elmer/NP Hagner/NP ,/pct
 Judge/NN Benjamin/NP Michaelson/NP signed/VBD the/AT order/NN remanding/VBG the/AT boy/NN to/IN the/AT hospital/NN because/CS of/IN the/AT lack/NN of/IN juvenile/NN accommodations/NNS at/IN the/AT Anne/NP Arundel/NP County/NN Jail/NN ./pct
 The/AT Circuit/NN Court/NN jurist/NN said/VBD the/AT boy/NN will/MD have/HV a/AT hearing/NN in/IN Juvenile/JJ Court/NN ./pct
 Younger/JJR son/NN calls/VBZ police/NNS
-Soon/RB after/IN 10/CD A.M./RB ,/pct when/WRB police/NNS reached/VBD the/AT 1-1/2-story/NN brick/NN home/NN in/IN the/AT Franklin/NP Manor/NN section/NN ,/pct 15/CD miles/NNS south/NR of/IN here/RB on/IN the/AT bay/NN ,/pct in/IN response/NN to/IN a/AT call/NN from/IN the/AT Dresbach's/NPg other/AP son/NN ,/pct Lee/NP ,/pct 14/CD ,/pct they/PPSS found/VBD Mrs./NP Dresbach's/NPg body/NN on/IN the/AT first-floor/NN bedroom/NN floor/NN ./pct
+Soon/RB after/IN 10/CD A.M./RB ,/pct when/WRB police/NNS reached/VBD the/AT 1-1:2-story/NN brick/NN home/NN in/IN the/AT Franklin/NP Manor/NN section/NN ,/pct 15/CD miles/NNS south/NR of/IN here/RB on/IN the/AT bay/NN ,/pct in/IN response/NN to/IN a/AT call/NN from/IN the/AT Dresbach's/NPg other/AP son/NN ,/pct Lee/NP ,/pct 14/CD ,/pct they/PPSS found/VBD Mrs./NP Dresbach's/NPg body/NN on/IN the/AT first-floor/NN bedroom/NN floor/NN ./pct
 Her/PPg husband/NN was/BEDZ lying/VBG on/IN the/AT kitchen/NN floor/NN ,/pct police/NNS said/VBD ./pct
 The/AT younger/JJR son/NN told/VBD police/NNS his/PPg brother/NN had/HVD run/VBN from/IN the/AT house/NN after/IN the/AT shootings/NNS and/CC had/HVD driven/VBN away/RB in/IN their/PPg mother's/NNg car/NN ./pct
 The/AT description/NN of/IN the/AT car/NN was/BEDZ immediately/RB broadcast/VBN throughout/IN Southern/JJ Maryland/NP on/IN police/NN radio/NN ./pct

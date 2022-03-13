@@ -56,7 +56,7 @@ Helva/NP turned/VBD her/PPg vision/NN back/RB to/IN magnification/NN and/CC surv
 The/AT lady's/NNg eyes/NNS ,/pct unmagnified/JJ ,/pct bugged/VBD out/RP ./pct
 ``/pct Oh/UH ,/pct I/PPSS forget/VB ''/pct ,/pct and/CC Helva's/NPg voice/NN was/BEDZ really/QL contrite/JJ ./pct
 If/CS she/PPS could/MD have/HV blushed/VBN ,/pct she/PPS would/MD have/HV ./pct
-``/pct You/PPSS people/VB don't /None have/HV adjustable/JJ vision/NN ''/pct ./pct
+``/pct You/PPSS people/VB don't/DO* have/HV adjustable/JJ vision/NN ''/pct ./pct
 The/AT monitor/NN of/IN this/DT discourse/NN grinned/VBD with/IN pride/NN and/CC amusement/NN as/CS Helva's/NPg tone/NN indicated/VBD pity/NN for/IN the/AT unfortunate/NN ./pct
 ``/pct Here/RB ,/pct this/DT will/NN help/VB ''/pct ,/pct suggested/VBD Helva/NP ,/pct substituting/VBG a/AT magnifying/VBG device/NN in/IN one/CD extension/NN and/CC holding/VBG it/PPO over/IN the/AT picture/NN ./pct
 In/IN a/AT kind/NN of/IN shock/NN ,/pct the/AT ladies/NNS and/CC gentlemen/NNS of/IN the/AT committee/NN bent/VBD to/TO observe/VB the/AT incredibly/RB copied/VBN and/CC brilliantly/RB executed/VBN Last/AP Supper/NN on/IN the/AT head/NN of/IN a/AT screw/NN ./pct
@@ -75,7 +75,7 @@ She/PPS had/HVD ,/pct of/IN course/NN ,/pct been/BEN exposed/VBN to/IN and/CC en
 But/CC ``/pct singing/VBG ''/pct for/IN any/DTI shell/NN person/NN posed/VBD considerable/JJ technical/JJ difficulties/NNS to/TO be/BE overcome/VBN ./pct
 Shell/NN people/NNS were/BED schooled/VBN to/TO examine/VB every/AT aspect/NN of/IN a/AT problem/NN or/CC situation/NN before/CS making/VBG a/AT prognosis/NN ./pct
 Balanced/VBN properly/RB between/IN optimism/NN and/CC practicality/NN ,/pct the/AT nondefeatist/NN attitude/NN of/IN the/AT shell/NN people/NNS led/VBD them/PPO to/TO extricate/VB themselves/PPLS ,/pct their/PPg ships/NNS and/CC personnel/NNS ,/pct from/IN bizarre/JJ situations/NNS ./pct
-Therefore/RB to/IN Helva/NP ,/pct the/AT problem/NN that/CS she/PPS couldn't /None open/VB her/PPg mouth/NN to/TO sing/VB ,/pct among/IN other/AP restrictions/NNS ,/pct did/DOD not/NEG bother/VB her/PPO ./pct
+Therefore/RB to/IN Helva/NP ,/pct the/AT problem/NN that/CS she/PPS couldn't/MD* open/VB her/PPg mouth/NN to/TO sing/VB ,/pct among/IN other/AP restrictions/NNS ,/pct did/DOD not/NEG bother/VB her/PPO ./pct
 She/PPS would/MD work/VB out/RP a/AT method/NN ,/pct by-passing/JJ her/PPg limitations/NNS ,/pct whereby/WRB she/PPS could/MD sing/VB ./pct
 She/PPS approached/VBD the/AT problem/NN by/IN investigating/VBG the/AT methods/NNS of/IN sound/NN reproduction/NN through/IN the/AT centuries/NNS ,/pct human/NN and/CC instrumental/JJ ./pct
 Her/PPg own/JJ sound/NN production/NN equipment/NN was/BEDZ essentially/RB more/QL instrumental/JJ than/CS vocal/JJ ./pct
@@ -113,7 +113,7 @@ Tanner/NP wisecracked/VBD ./pct
 She/PPS asked/VBD hopefully/RB ,/pct as/CS she/PPS recognized/VBD the/AT Scout/NN Service/NN uniform/NN ./pct
 ``/pct All/ABN you/PPSS have/HV to/TO do/DO is/BEZ ask/VB ''/pct ,/pct he/PPS retorted/VBD hopefully/RB ./pct
 ``/pct No/AT one/PN has/HVZ come/VBN ./pct
-I/PPSS thought/VBD perhaps/RB there/EX were/BED no/AT partners/NNS available/JJ and/CC I've /None had/HVD no/AT directives/NNS from/IN Central/JJ ''/pct ./pct
+I/PPSS thought/VBD perhaps/RB there/EX were/BED no/AT partners/NNS available/JJ and/CC I've/PPSSHV had/HVD no/AT directives/NNS from/IN Central/JJ ''/pct ./pct
 Even/RB to/IN herself/PPL Helva/NP sounded/VBD a/AT little/QL self-pitying/JJ but/CC the/AT truth/NN was/BEDZ she/PPS was/BEDZ lonely/JJ ,/pct sitting/VBG on/IN the/AT darkened/VBN field/NN ./pct
 Always/RB she/PPS had/HVD had/HVN the/AT company/NN of/IN other/AP shells/NNS and/CC more/QL recently/RB ,/pct technicians/NNS by/IN the/AT score/NN ./pct
 The/AT sudden/JJ solitude/NN had/HVD lost/VBN its/PPg momentary/JJ charm/NN and/CC become/VBN oppressive/JJ ./pct

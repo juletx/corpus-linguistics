@@ -45,7 +45,7 @@ Whatever/WDT the/AT Hetman's/NPg ambitions/NNS ,/pct his/PPg colleagues/NNS were
 Among/IN the/AT outstanding/JJ members/NNS of/IN the/AT Hearst/NP cabinet/NN whom/WPO he/PPS successfully/RB opposed/VBD for/IN a/AT time/NN were/BED the/AT great/JJ Arthur/NP Brisbane/NP ,/pct Bradford/NP Merrill/NP ,/pct S.S./NP Carvalho/NP ,/pct and/CC Colonel/NN Van/NP Hamm/NP ./pct
 He/PPS also/RB disliked/VBD Runyon/NP ,/pct for/IN no/AT good/JJ reason/NN other/AP than/CS the/AT fact/NN that/CS the/AT Demon's/NNg talent/NN was/BEDZ so/QL marked/VBN as/CS to/TO put/VB him/PPO well/QL beyond/IN the/AT Hetman's/NPg say-so/NN or/CC his/PPg supervision/NN ./pct
 Runyon/NP ,/pct for/IN his/PPg part/NN ,/pct had/HVD a/AT contemptuous/JJ regard/NN for/IN Mr./NP Watson/NP ./pct
-``/pct He's /None a/AT wrong-o/NN ''/pct ,/pct said/VBD Runyon/NP ,/pct ``/pct and/CC I/PPSS wouldn't /None trust/VB him/PPO as/QL far/RB as/CS I/PPSS could/MD throw/VB the/AT Statue/NN of/IN Liberty/NN ''/pct ./pct
+``/pct He's/PPSBEZ a/AT wrong-o/NN ''/pct ,/pct said/VBD Runyon/NP ,/pct ``/pct and/CC I/PPSS wouldn't/MD* trust/VB him/PPO as/QL far/RB as/CS I/PPSS could/MD throw/VB the/AT Statue/NN of/IN Liberty/NN ''/pct ./pct
 Arthur/NP ``/pct Bugs/NP ''/pct Baer/NP wrote/VBD to/IN me/PPO just/QL recently/RB ,/pct ``/pct Vic/NP wanted/VBD to/TO die/VB in/IN harness/NN ,/pct with/IN his/PPg head/NN towards/IN the/AT wagon/NN ./pct
 He/PPS supported/VBD his/PPg mother/NN and/CC his/PPg brother/NN ,/pct who/WPS afterwards/RB committed/VBD suicide/NN ./pct
 Watson/NP told/VBD me/PPO that/CS his/PPg brother/NN always/RB sent/VBD roses/NNS to/IN his/PPg mother/NN ,/pct blossoms/NNS bought/VBN with/IN Vic's/NPg allowance/NN to/IN him/PPO ./pct
@@ -53,12 +53,12 @@ Watson/NP told/VBD me/PPO that/CS his/PPg brother/NN always/RB sent/VBD roses/NN
 Why/WRB '/pct ''/pct ?/pct ?/pct
 About/RB the/AT only/AP time/NN the/AT Hetman/NP seemed/VBD excited/VBN was/BEDZ when/WRB one/CD of/IN his/PPg own/JJ pet/NN ideas/NNS was/BEDZ born/VBN ./pct
 Then/RB he/PPS would/MD get/VB to/IN his/PPg feet/NNS ,/pct as/CS though/CS rising/VBG in/IN honor/NN of/IN his/PPg own/JJ remarkable/JJ powers/NNS ,/pct and/CC say/VB almost/QL invariably/RB ,/pct ``/pct Gentlemen/NNS ,/pct this/DT is/BEZ an/AT amazing/JJ story/NN !/pct !/pct
-It's /None bigger/JJR than/CS the/AT Armistice/NN ''/pct ./pct
+It's/PPSBEZ bigger/JJR than/CS the/AT Armistice/NN ''/pct ./pct
 Some/DTI of/IN the/AT Hetman's/NPg ``/pct ideas/NNS ''/pct were/BED dream-ridden/JJ ,/pct vaguely/RB imparted/VBN ,/pct and/CC at/IN times/NNS preposterous/JJ ./pct
 One/CD day/NN he/PPS assigned/VBD me/PPO to/TO lay/VB bare/JJ a/AT ``/pct plot/NN ''/pct by/IN the/AT Duponts/NPS to/TO supply/VB munitions/NNS to/IN a/AT wholly/QL fictitious/JJ revolution/NN he/PPS said/VBD was/BEDZ about/RB to/TO occur/VB in/IN Cuba/NP ./pct
 He/PPS said/VBD that/CS his/PPg information/NN was/BEDZ so/QL secret/JJ that/CS he/PPS would/MD not/NEG be/BE able/JJ to/TO confide/VB in/IN me/PPO the/AT origin/NN of/IN his/PPg pipeline/NN tip/NN ./pct
 ``/pct I/PPSS can/MD tell/VB you/PPO this/DT much/AP ''/pct ,/pct he/PPS said/VBD ./pct
-It's /None bigger/JJR than/CS the/AT Armistice/NN ''/pct ./pct
+It's/PPSBEZ bigger/JJR than/CS the/AT Armistice/NN ''/pct ./pct
 I/PPSS worked/VBD for/IN a/AT day/NN on/IN this/DT plainly/QL ridiculous/JJ assignment/NN and/CC consulted/VBD several/AP of/IN my/PPg own/JJ well-informed/JJ sources/NNS ./pct
 Then/RB I/PPSS spent/VBD the/AT next/AP two/CD days/NNS at/IN the/AT baseball/NN park/NN and/CC at/IN Jack/NP Doyle's/NPg pool/NN parlors/NNS ./pct
 When/WRB I/PPSS returned/VBD to/TO make/VB my/PPg report/NN ,/pct the/AT Hetman/NP did/DOD not/NEG remember/VB having/HVG sent/VBN me/PPO on/IN the/AT secret/JJ mission/NN ./pct
@@ -98,22 +98,22 @@ Alone/RB ,/pct rejected/VBN on/IN every/AT hand/NN ,/pct divorced/VBN ,/pct and/
 One/PN finds/VBZ it/PPO difficult/JJ to/TO pass/VB censure/NN on/IN the/AT lonely/JJ figure/NN who/WPS waited/VBD for/IN days/NNS for/IN a/AT saving/VBG word/NN from/IN his/PPg zealously/QL served/VBN idol/NN ,/pct W.R./NP Hearst/NP ./pct
 That/DT word/NN was/BEDZ withheld/VBN when/WRB the/AT need/NN of/IN it/PPO seemed/VBD the/AT measure/NN of/IN his/PPg despair/NN ./pct
 The/AT unfinished/JJ note/NN ,/pct written/VBN in/IN pencil/NN upon/IN the/AT back/NN of/IN a/AT used/VBN envelope/NN ,/pct and/CC addressed/VBN to/IN the/AT coroner/NN ,/pct makes/VBZ one/PN wonder/VB about/IN many/AP things/NNS :/pct ``/pct God/NP forgive/VB me/PPO for/IN everything/PN ./pct
-I/PPSS cannot /None ''/pct
+I/PPSS cannot/MD* ''/pct
 Much/AP to/IN Damon/NP Runyon's/NPg amazement/NN ,/pct as/QL well/RB as/CS my/PPg own/JJ ,/pct I/PPSS got/VBD along/RB splendidly/RB with/IN the/AT Hetman/NP ;/pct ;/pct
 that/DT is/BEZ ,/pct until/CS I/PPSS became/VBD an/AT editor/NN ,/pct hence/RB ,/pct in/IN his/PPg eyes/NNS ,/pct a/AT rival/NN ./pct
 Not/NEG long/RB after/CS Colonel/NN Van/NP Hamm/NP had/HVD foisted/VBN me/PPO on/IN the/AT Watson/NP staff/NN I/PPSS received/VBD a/AT salary/NN raise/NN and/CC a/AT contract/NN on/IN the/AT Hetman's/NPg recommendation/NN ./pct
 During/IN the/AT next/AP years/NNS he/PPS gave/VBD me/PPO the/AT second/OD of/IN the/AT five/CD contracts/NNS I/PPSS would/MD sign/VB with/IN the/AT Hearst/NP Service/NN ./pct
 It/PPS was/BEDZ a/AT somewhat/QL unusual/JJ thing/NN for/IN a/AT reporter/NN to/TO have/HV a/AT contract/NN in/IN those/DTS days/NNS before/IN the/AT epidemic/NN of/IN syndicated/VBN columnists/NNS ./pct
 I/PPSS would/MD like/VB to/TO believe/VB that/CS my/PPg ability/NN warranted/VBD this/DT advancement/NN ./pct
-Somehow/RB I/PPSS think/VB that/CS Watson/NP paid/VBD more/AP attention/NN to/IN me/PPO than/CS he/PPS otherwise/RB might/MD have/HV because/CS his/PPg foe/NN ,/pct Colonel/NN Van/NP Hamm/NP ,/pct wouldn't /None touch/VB me/PPO with/IN a/AT ten-foot/JJ blue/JJ pencil/NN ./pct
+Somehow/RB I/PPSS think/VB that/CS Watson/NP paid/VBD more/AP attention/NN to/IN me/PPO than/CS he/PPS otherwise/RB might/MD have/HV because/CS his/PPg foe/NN ,/pct Colonel/NN Van/NP Hamm/NP ,/pct wouldn't/MD* touch/VB me/PPO with/IN a/AT ten-foot/JJ blue/JJ pencil/NN ./pct
 I/PPSS remember/VB one/CD day/NN when/WRB Mr./NP Hearst/NP (/pct and/CC I/PPSS never/RB knew/VBD why/WRB he/PPS liked/VBD me/PPO ,/pct either/RB )/pct sent/VBD the/AT Hetman/NP a/AT telegram/NN :/pct ``/pct Please/VB find/VB some/DTI more/AP reporters/NNS like/CS that/DT young/JJ man/NN from/IN Denver/NP ''/pct ./pct
 Watson/NP showed/VBD this/DT wire/NN to/IN Colonel/NN Van/NP Hamm/NP ./pct
 The/AT colonel/NN grunted/VBD ,/pct then/RB made/VBD a/AT remark/NN which/WDT might/MD be/BE construed/VBN in/IN either/DTX of/IN two/CD ways/NNS ./pct
-``/pct Don't /None bother/VB to/TO look/VB any/DTI further/RBR ./pct
+``/pct Don't/DO* bother/VB to/TO look/VB any/DTI further/RBR ./pct
 We/PPSS already/RB have/HV the/AT only/AP one/CD of/IN its/PPg kind/NN ''/pct ./pct
 The/AT Hetman/NP did/DOD have/HV friends/NNS ,/pct but/CC they/PPSS were/BED mostly/RB outside/IN the/AT newspaper/NN profession/NN ./pct
 Sergeant/NN Mike/NP Donaldson/NP ,/pct Congressional/JJ Medal/NN of/IN Honor/NN soldier/NN ,/pct was/BEDZ one/CD of/IN them/PPO ./pct
 Dr./NN Menas/NP S./NP Gregory/NP was/BEDZ another/DT ./pct
 I/PPSS used/VBD to/TO go/VB with/IN Watson/NP to/TO call/VB on/IN the/AT eminent/JJ neurologist/NN at/IN his/PPg apartment/NN ,/pct to/TO sit/VB among/IN the/AT doctor's/NNg excellent/JJ collection/NN of/IN statues/NNS ,/pct paintings/NNS ,/pct and/CC books/NNS and/CC drink/VB Oriental/JJ coffee/NN while/CS Watson/NP seemed/VBD to/TO thaw/VB out/RP and/CC become/VB almost/QL affable/JJ ./pct
 There/EX was/BEDZ one/CD time/NN ,/pct however/RB ,/pct when/WRB his/PPg face/NN clouded/VBD and/CC he/PPS suddenly/RB blurted/VBD ,/pct ``/pct Why/WRB did/DOD my/PPg brother/NN commit/VB suicide/NN ''/pct ?/pct ?/pct
-I/PPSS cannot /None remember/VB Dr./NN Gregory's/NPg reply/NN ,/pct if/CS ,/pct indeed/RB ,/pct he/PPS made/VBD one/CD ./pct
+I/PPSS cannot/MD* remember/VB Dr./NN Gregory's/NPg reply/NN ,/pct if/CS ,/pct indeed/RB ,/pct he/PPS made/VBD one/CD ./pct

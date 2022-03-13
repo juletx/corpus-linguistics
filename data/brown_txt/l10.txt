@@ -1,12 +1,12 @@
 ``/pct Not/NEG since/IN last/AP night/NN ./pct
-I/PPSS didn't /None think/VB there/EX was/BEDZ any/DTI reason/NN to/TO ''/pct ./pct
-``/pct Maybe/RB there/EX isn't /None ./pct
+I/PPSS didn't/DOD* think/VB there/EX was/BEDZ any/DTI reason/NN to/TO ''/pct ./pct
+``/pct Maybe/RB there/EX isn't/BEZ* ./pct
 Speak/VB to/IN him/PPO again/RB anyway/RB ./pct
 Try/VB talking/VBG to/IN some/DTI of/IN the/AT fellows/NNS he/PPS works/VBZ with/IN ,/pct friends/NNS ,/pct anyone/PN ./pct
 Try/VB to/TO find/VB out/RP how/WRB happy/JJ he/PPS is/BEZ with/IN his/PPg wife/NN ,/pct whether/CS he/PPS plays/VBZ around/RB with/IN women/NNS ./pct
 You/PPSS might/MD try/VB looking/VBG into/IN his/PPg wife/NN too/RB ./pct
-She/PPS might/MD have/HV been/BEN talking/VBG to/IN some/DTI of/IN her/PPg friends/NNS about/IN her/PPO husband/NN if/CS they've /None been/BEN having/HVG any/DTI trouble/NN ''/pct ./pct
-``/pct You/PPSS think/VB Black's /None the/AT one/CD we're /None looking/VBG for/IN ''/pct ?/pct ?/pct
+She/PPS might/MD have/HV been/BEN talking/VBG to/IN some/DTI of/IN her/PPg friends/NNS about/IN her/PPO husband/NN if/CS they've/PPSSHV been/BEN having/HVG any/DTI trouble/NN ''/pct ./pct
+``/pct You/PPSS think/VB Black's/NPBEZ the/AT one/CD we're/PPSSBER looking/VBG for/IN ''/pct ?/pct ?/pct
 ``/pct Yeah/RB ./pct
 I/PPSS think/VB he/PPS might/MD be/BE ''/pct ,/pct Conrad/NP said/VBD grimly/RB ./pct
 ``/pct Then/RB again/RB he/PPS might/MD not/NEG ''/pct ./pct
@@ -15,21 +15,21 @@ I/PPSS think/VB he/PPS might/MD be/BE ''/pct ,/pct Conrad/NP said/VBD grimly/RB 
 ``/pct I/PPSS know/VB ''/pct ./pct
 ``/pct Will/MD you/PPSS be/BE coming/VBG back/RB soon/RB ''/pct ?/pct ?/pct
 ``/pct I/PPSS think/VB so/RB ./pct
-I'm /None on/IN my/PPg way/NN to/TO see/VB the/AT Jacobs/NP woman/NN ''/pct ./pct
+I'm/PPSSBEM on/IN my/PPg way/NN to/TO see/VB the/AT Jacobs/NP woman/NN ''/pct ./pct
 ``/pct Gilborn's/NPg secretary/NN ?/pct ?/pct
 What/WDT for/IN ?/pct ?/pct
-You/PPSS don't /None think/VB Gilborn/NP is/BEZ the/AT --/pct ''/pct ?/pct ?/pct
-``/pct I/PPSS don't /None think/VB anything/PN ./pct
-I/PPSS just/RB don't /None want/VB to/TO go/VB off/RP half-cocked/JJ before/CS picking/VBG up/RP Black/NP ,/pct that's /None all/ABN ''/pct ./pct
+You/PPSS don't/DO* think/VB Gilborn/NP is/BEZ the/AT --/pct ''/pct ?/pct ?/pct
+``/pct I/PPSS don't/DO* think/VB anything/PN ./pct
+I/PPSS just/RB don't/DO* want/VB to/TO go/VB off/RP half-cocked/JJ before/CS picking/VBG up/RP Black/NP ,/pct that's/DTBEZ all/ABN ''/pct ./pct
 Conrad/NP interrupted/VBD ./pct
 ``/pct Gilborn/NP says/VBZ he/PPS was/BEDZ in/IN his/PPg office/NN all/ABN day/NN with/IN her/PPO yesterday/NR ./pct
-I'd /None like/VB to/TO make/VB sure/JJ ./pct
-Also/RB ,/pct it's /None just/RB possible/JJ she/PPS might/MD know/VB something/PN about/IN Mrs./NP Gilborn/NP ''/pct ./pct
+I'd/PPSSMD like/VB to/TO make/VB sure/JJ ./pct
+Also/RB ,/pct it's/PPSBEZ just/RB possible/JJ she/PPS might/MD know/VB something/PN about/IN Mrs./NP Gilborn/NP ''/pct ./pct
 ``/pct Right/RB ./pct
-I'll /None see/VB you/PPO later/RBR ''/pct ./pct
-``/pct Aren't /None you/PPSS ever/RB going/VBG to/TO go/VB home/NR ''/pct ?/pct ?/pct
-``/pct It/PPS sure/RB as/CS hell/NN doesn't /None look/VB like/IN it/PPO ,/pct does/DOZ it/PPS ?/pct ?/pct
-I'm /None telling/VBG you/PPO ,/pct if/CS these/DTS corpses/NNS ever/RB knew/VBD the/AT trouble/NN they/PPSS put/VBD us/PPO to/IN ,/pct they'd /None think/VB twice/RB before/CS letting/VBG themselves/PPLS get/VB knocked/VBN off/RP ''/pct ./pct
+I'll/PPSSMD see/VB you/PPO later/RBR ''/pct ./pct
+``/pct Aren't/BER* you/PPSS ever/RB going/VBG to/TO go/VB home/NR ''/pct ?/pct ?/pct
+``/pct It/PPS sure/RB as/CS hell/NN doesn't/DOZ* look/VB like/IN it/PPO ,/pct does/DOZ it/PPS ?/pct ?/pct
+I'm/PPSSBEM telling/VBG you/PPO ,/pct if/CS these/DTS corpses/NNS ever/RB knew/VBD the/AT trouble/NN they/PPSS put/VBD us/PPO to/IN ,/pct they'd/PPSSMD think/VB twice/RB before/CS letting/VBG themselves/PPLS get/VB knocked/VBN off/RP ''/pct ./pct
 ``/pct Remember/VB to/TO tell/VB that/DT to/IN the/AT next/AP corpse/NN you/PPSS meet/VB ''/pct ./pct
 Conrad/NP hung/VBD up/RP and/CC sat/VBD on/IN the/AT small/JJ telephone-booth/NN bench/NN ,/pct massaging/VBG his/PPg right/JJ leg/NN ./pct
 He/PPS looked/VBD at/IN his/PPg watch/NN ./pct
@@ -52,11 +52,11 @@ Conrad's/NPg words/NNS had/HVD intellectual/JJ meaning/NN for/IN him/PPO only/RB
 Emotionally/RB ,/pct they/PPSS penetrated/VBD him/PPO not/NEG at/IN all/ABN ./pct
 Whoever/WPS he/PPS was/BEDZ and/CC your/PPg wife/NN were/BED intimate/JJ ./pct
 Gilborn/NP remembered/VBD Conrad's/NPg exact/JJ words/NNS ./pct
-They/PPSS made/VBD sense/NN and/CC yet/RB they/PPSS didn't /None ./pct
+They/PPSS made/VBD sense/NN and/CC yet/RB they/PPSS didn't/DOD* ./pct
 He/PPS knew/VBD Conrad/NP had/HVD told/VBN him/PPO the/AT truth/NN ./pct
 It/PPS was/BEDZ so/RB ./pct
-Yet/RB it/PPS wasn't /None so/RB ./pct
-It/PPS wasn't /None so/RB because/CS it/PPS couldn't /None be/BE so/RB ./pct
+Yet/RB it/PPS wasn't/BEDZ* so/RB ./pct
+It/PPS wasn't/BEDZ* so/RB because/CS it/PPS couldn't/MD* be/BE so/RB ./pct
 When/WRB Kitti/NP was/BEDZ alive/JJ --/pct and/CC he/PPS remembered/VBD the/AT pressure/NN of/IN her/PPg hand/NN resting/VBG lightly/RB on/IN his/PPg arm/NN --/pct she/PPS had/HVD been/BEN the/AT center/NN of/IN his/PPg life/NN ./pct
 She/PPS was/BEDZ the/AT sun/NN ,/pct he/PPS the/AT closest/JJT planet/NN orbiting/VBG around/IN her/PPO ,/pct the/AT rest/NN of/IN the/AT world/NN existing/VBG and/CC visible/JJ yet/RB removed/VBN ./pct
 For/IN fifty-five/CD years/NNS he/PPS had/HVD lived/VBN ,/pct progressing/VBG towards/IN a/AT no-goal/NN ,/pct eating/VBG ,/pct working/VBG ,/pct breathing/VBG without/IN plan/NN ,/pct without/IN reason/NN ./pct
@@ -75,7 +75,7 @@ He/PPS crossed/VBD the/AT lobby/NN and/CC rode/VBD up/RP in/IN the/AT elevator/N
 In/IN the/AT apartment/NN itself/PPL ,/pct all/ABN was/BEDZ still/JJ ./pct
 The/AT police/NN were/BED no/QL longer/JJR there/RB ./pct
 There/EX was/BEDZ no/AT evidence/NN that/CS anything/PN was/BEDZ different/JJ than/CS it/PPS had/HVD been/BEN ./pct
-Except/IN that/CS Kitti/NP wasn't /None there/RB ./pct
+Except/IN that/CS Kitti/NP wasn't/BEDZ* there/RB ./pct
 Without/IN taking/VBG off/RP his/PPg coat/NN ,/pct he/PPS sat/VBD in/IN the/AT blue/JJ chair/NN which/WDT still/RB faced/VBD the/AT closed/VBN bedroom/NN door/NN ./pct
 At/IN last/RB ,/pct sitting/VBG there/RB ,/pct in/IN the/AT familiar/JJ surroundings/NNS ,/pct the/AT truth/NN began/VBD to/TO sink/VB in/RP ./pct
 Who/WPS ?/pct ?/pct
@@ -113,31 +113,31 @@ The/AT figures/NNS on/IN the/AT worksheet/NN paper/NN in/IN front/NN of/IN her/P
 She/PPS wondered/VBD whether/CS Stanley/NP would/MD call/VB ./pct
 She/PPS wanted/VBD to/TO be/BE with/IN him/PPO ,/pct to/TO give/VB him/PPO the/AT comfort/NN and/CC companionship/NN she/PPS knew/VBD he/PPS needed/VBD ./pct
 She/PPS had/HVD skipped/VBN her/PPg lunch/NN hour/NN in/IN the/AT fear/NN that/CS he/PPS might/MD call/VB while/CS she/PPS was/BEDZ out/RP ./pct
-He/PPS hadn't /None ./pct
+He/PPS hadn't/HVD* ./pct
 And/CC now/RB she/PPS was/BEDZ feeling/VBG sick/JJ ,/pct both/ABX from/IN concern/NN about/IN Stanley/NP and/CC hunger/NN ./pct
-Why/WRB hadn't /None he/PPS called/VBN ?/pct ?/pct
+Why/WRB hadn't/HVD* he/PPS called/VBN ?/pct ?/pct
 Men/NNS ,/pct she/PPS reflected/VBD ,/pct even/RB men/NNS like/IN Stanley/NP ,/pct are/BER unpredictable/JJ ./pct
-She/PPS tried/VBD to/TO think/VB of/IN his/PPg unpredictable/JJ actions/NNS in/IN the/AT eleven/CD years/NNS she/PPS had/HVD known/VBN him/PPO and/CC discovered/VBD they/PPSS weren't /None so/QL many/AP after/IN all/ABN ./pct
+She/PPS tried/VBD to/TO think/VB of/IN his/PPg unpredictable/JJ actions/NNS in/IN the/AT eleven/CD years/NNS she/PPS had/HVD known/VBN him/PPO and/CC discovered/VBD they/PPSS weren't/BED* so/QL many/AP after/IN all/ABN ./pct
 Stanley/NP really/RB was/BEDZ quite/QL predictable/JJ ./pct
 That/DT was/BEDZ one/CD of/IN the/AT things/NNS she/PPS liked/VBD about/IN Stanley/NP ./pct
-He/PPS wasn't /None like/IN so/QL many/AP other/AP men/NNS ./pct
+He/PPS wasn't/BEDZ* like/IN so/QL many/AP other/AP men/NNS ./pct
 The/AT dentist/NN last/AP night/NN ,/pct for/IN instance/NN ./pct
 Dinner/NN and/CC the/AT movies/NNS had/HVD been/BEN fine/JJ ./pct
 He/PPS had/HVD taken/VBN her/PPO upstairs/RB to/TO say/VB good/JJ night/NN ./pct
 She/PPS had/HVD invited/VBN him/PPO in/RP for/IN coffee/NN ./pct
 It/PPS was/BEDZ in/IN the/AT kitchen/NN ,/pct as/CS she/PPS was/BEDZ watching/VBG the/AT kettle/NN ,/pct waiting/VBG for/IN the/AT water/NN to/TO boil/VB ,/pct that/CS he/PPS had/HVD grabbed/VBN for/IN her/PPO ./pct
 Without/IN warning/VBG ,/pct without/IN giving/VBG her/PPO a/AT chance/NN to/TO prepare/VB for/IN it/PPO ./pct
-From/IN behind/RB ,/pct he/PPS had/HVD put/VBN his/PPg arms/NNS on/IN her/PPg shoulders/NNS ,/pct turned/VBN her/PPO around/RB ,/pct and/CC pressed/VBN her/PPO to/IN him/PPO ,/pct so/QL close/RB she/PPS couldn't /None breathe/VB ./pct
-Later/RBR ,/pct she/PPS apologized/VBD for/IN the/AT long/JJ scratch/NN across/IN his/PPg face/NN ,/pct tried/VBD to/TO explain/VB she/PPS couldn't /None help/VB herself/PPL ,/pct that/CS the/AT panic/NN arose/VBD in/IN her/PPO unwanted/JJ ./pct
-But/CC he/PPS hadn't /None understood/VBN ./pct
+From/IN behind/RB ,/pct he/PPS had/HVD put/VBN his/PPg arms/NNS on/IN her/PPg shoulders/NNS ,/pct turned/VBN her/PPO around/RB ,/pct and/CC pressed/VBN her/PPO to/IN him/PPO ,/pct so/QL close/RB she/PPS couldn't/MD* breathe/VB ./pct
+Later/RBR ,/pct she/PPS apologized/VBD for/IN the/AT long/JJ scratch/NN across/IN his/PPg face/NN ,/pct tried/VBD to/TO explain/VB she/PPS couldn't/MD* help/VB herself/PPL ,/pct that/CS the/AT panic/NN arose/VBD in/IN her/PPO unwanted/JJ ./pct
+But/CC he/PPS hadn't/HVD* understood/VBN ./pct
 When/WRB he/PPS left/VBD ,/pct she/PPS knew/VBD she/PPS would/MD never/RB see/VB him/PPO again/RB ./pct
-Stanley/NP wasn't /None like/IN that/DT ./pct
+Stanley/NP wasn't/BEDZ* like/IN that/DT ./pct
 She/PPS could/MD always/RB predict/VB what/WDT Stanley/NP was/BEDZ going/VBG to/TO do/DO ,/pct ever/RB since/CS she/PPS first/RB met/VBD him/PPO ./pct
 Except/IN for/IN that/DT one/CD morning/NN ./pct
 The/AT morning/NN he/PPS walked/VBD in/RP to/TO announce/VB to/IN her/PPO ,/pct blushing/VBG ,/pct that/CS he/PPS was/BEDZ married/VBN ./pct
 She/PPS thought/VBD she/PPS was/BEDZ going/VBG to/TO die/VB ./pct
 She/PPS had/HVD assumed/VBN before/IN then/RN that/CS one/CD day/NN he/PPS would/MD ask/VB her/PPO to/TO marry/VB him/PPO ./pct
-Blanche/NP couldn't /None remember/VB when/WRB she/PPS had/HVD first/RB arrived/VBN at/IN this/DT conclusion/NN ./pct
+Blanche/NP couldn't/MD* remember/VB when/WRB she/PPS had/HVD first/RB arrived/VBN at/IN this/DT conclusion/NN ./pct
 She/PPS thought/VBD it/PPS was/BEDZ sometime/RB during/IN the/AT second/OD week/NN she/PPS worked/VBD for/IN Stanley/NP ./pct
 It/PPS was/BEDZ nothing/PN that/WPO he/PPS said/VBD or/CC did/DOD ,/pct but/CC it/PPS seemed/VBD so/QL natural/JJ to/IN her/PPO that/CS she/PPS should/MD be/BE working/VBG for/IN him/PPO ,/pct looking/VBG forward/RB to/IN his/PPg eventual/JJ proposal/NN ./pct
 She/PPS was/BEDZ thirty-one/CD years/NNS old/JJ then/RB ./pct
@@ -153,7 +153,7 @@ Indeed/RB ,/pct there/EX was/BEDZ a/AT woman/NN who/WPS ,/pct unasked/JJ ,/pct h
 Unquestionably/RB ,/pct Blanche/NP loved/VBD Stanley/NP ./pct
 And/CC then/RB ,/pct unexpectedly/RB ,/pct Stanley/NP made/VBD his/PPg announcement/NN ./pct
 On/IN that/DT first/OD day/NN ,/pct Blanche/NP literally/RB thought/VBD she/PPS was/BEDZ going/VBG to/TO die/VB ,/pct or/CC ,/pct at/IN the/AT very/QL least/AP ,/pct go/VB out/RP of/IN her/PPg mind/NN ./pct
-It/PPS might/MD have/HV been/BEN easier/JJR for/IN her/PPO if/CS Kitti/NP Walker/NP hadn't /None been/BEN everything/PN that/CS Blanche/NP was/BEDZ not/NEG ./pct
+It/PPS might/MD have/HV been/BEN easier/JJR for/IN her/PPO if/CS Kitti/NP Walker/NP hadn't/HVD* been/BEN everything/PN that/CS Blanche/NP was/BEDZ not/NEG ./pct
 Kitti/NP was/BEDZ thirty/CD years/NNS younger/JJR than/CS Stanley/NP ,/pct taller/JJR than/CS Stanley/NP ,/pct prettier/JJR than/CS Stanley/NP had/HVD any/DTI right/NN to/TO hope/VB for/IN ,/pct much/QL less/RBR expect/VB ./pct
 Kitti/NP could/MD have/HV married/VBN a/AT score/NN of/IN men/NNS ./pct
 There/EX was/BEDZ no/AT reason/NN for/IN her/PPO to/TO marry/VB someone/PN like/IN Stanley/NP Gilborn/NP ,/pct there/EX was/BEDZ no/AT need/NN for/IN her/PPO to/TO marry/VB Stanley/NP ./pct
@@ -161,9 +161,9 @@ Kitti/NP had/HVD come/VBN into/IN the/AT office/NN ,/pct on/IN somebody's/PNg re
 Stanley/NP had/HVD filled/VBN out/RP the/AT return/NN and/CC because/CS ,/pct when/WRB he/PPS was/BEDZ finished/VBN ,/pct it/PPS was/BEDZ close/JJ to/IN the/AT lunch/NN hour/NN ,/pct he/PPS had/HVD politely/RB asked/VBN Kitti/NP to/TO join/VB him/PPO ,/pct never/RB expecting/VBG her/PPO to/TO accept/VB ./pct
 Blanche/NP knew/VBD all/ABN this/DT because/CS the/AT door/NN to/IN Stanley's/NPg office/NN was/BEDZ open/JJ and/CC ,/pct without/IN straining/VBG too/QL hard/RB ,/pct she/PPS could/MD hear/VB everything/PN that/WPS was/BEDZ said/VBN ./pct
 Stanley/NP had/HVD gone/VBN out/RP ,/pct saying/VBG he/PPS would/MD be/BE back/RB in/IN an/AT hour/NN ./pct
-He/PPS hadn't /None come/VBN back/RB for/IN over/IN two/CD ./pct
-After/IN that/DT day/NN ,/pct Blanche/NP still/RB didn't /None know/VB exactly/RB what/WDT had/HVD happened/VBN ./pct
-There/EX were/BED mornings/NNS when/WRB Stanley/NP came/VBD in/RP late/RB ,/pct afternoons/NNS when/WRB he/PPS left/VBD early/RB ,/pct days/NNS when/WRB he/PPS didn't /None come/VB in/IN at/IN all/ABN ./pct
+He/PPS hadn't/HVD* come/VBN back/RB for/IN over/IN two/CD ./pct
+After/IN that/DT day/NN ,/pct Blanche/NP still/RB didn't/DOD* know/VB exactly/RB what/WDT had/HVD happened/VBN ./pct
+There/EX were/BED mornings/NNS when/WRB Stanley/NP came/VBD in/RP late/RB ,/pct afternoons/NNS when/WRB he/PPS left/VBD early/RB ,/pct days/NNS when/WRB he/PPS didn't/DOD* come/VB in/IN at/IN all/ABN ./pct
 Blanche/NP knew/VBD something/PN must/MD be/BE causing/VBG Stanley's/NPg new/JJ ,/pct strange/JJ behavior/NN but/CC she/PPS never/RB once/RB connected/VBD it/PPO with/IN Kitti/NP Walker/NP ./pct
 It/PPS was/BEDZ too/QL unprecedented/JJ ./pct
 Then/RB ,/pct six/CD weeks/NNS after/IN the/AT day/NN Kitti/NP first/RB came/VBD into/IN the/AT office/NN ,/pct Stanley/NP announced/VBD he/PPS and/CC Kitti/NP were/BED married/VBN ./pct
@@ -176,5 +176,5 @@ Two/CD hours/NNS of/IN watching/VBG his/PPg serenely/RB happy/JJ face/NN ,/pct l
 She/PPS stayed/VBD away/RB for/IN ten/CD days/NNS ./pct
 Those/DTS ten/CD days/NNS were/BED like/IN no/AT others/NNS that/CS Blanche/NP had/HVD known/VBN ./pct
 Mostly/RB ,/pct she/PPS stayed/VBD in/IN bed/NN ./pct
-She/PPS didn't /None tell/VB anyone/PN ,/pct even/RB her/PPg mother/NN ,/pct what/WDT was/BEDZ wrong/JJ ./pct
+She/PPS didn't/DOD* tell/VB anyone/PN ,/pct even/RB her/PPg mother/NN ,/pct what/WDT was/BEDZ wrong/JJ ./pct
 She/PPS refused/VBD to/TO have/HV a/AT doctor/NN ,/pct insisting/VBG there/EX was/BEDZ nothing/PN a/AT doctor/NN could/MD do/DO for/IN her/PPO ./pct

@@ -26,9 +26,9 @@ But/CC ,/pct at/IN the/AT start/NN ,/pct his/PPg new/JJ life/NN felt/VBD invigor
 Good/JJ ./pct
 It/PPS was/BEDZ on/IN the/AT tenth/OD day/NN after/IN the/AT wedding/NN (/pct how/WRB could/MD it/PPO have/HV been/BEN so/QL soon/RB ?/pct ?/pct
 )/pct that/CS he/PPS dropped/VBD the/AT shorts/NNS on/IN the/AT floor/NN ./pct
-``/pct Now/RB ,/pct I'm /None not/NEG going/VBG to/TO pick/VB up/RP those/DTS shorts/NNS ''/pct !/pct !/pct
+``/pct Now/RB ,/pct I'm/PPSSBEM not/NEG going/VBG to/TO pick/VB up/RP those/DTS shorts/NNS ''/pct !/pct !/pct
 Martin/NP gave/VBD her/PPO a/AT teasing/VBG pat/NN ./pct
-``/pct I/PPSS think/VB you'll /None get/VB tired/VBN of/IN them/PPO there/RB ''/pct ./pct
+``/pct I/PPSS think/VB you'll/PPSSMD get/VB tired/VBN of/IN them/PPO there/RB ''/pct ./pct
 In/IN the/AT morning/NN the/AT shorts/NNS were/BED where/WRB he/PPS had/HVD left/VBN them/PPO ./pct
 He/PPS smiled/VBD to/IN himself/PPL ,/pct and/CC decided/VBD not/NEG to/TO mention/VB them/PPO till/CS Dolores/NP did/DOD ./pct
 It/PPS was/BEDZ almost/QL too/QL easy/JJ ./pct
@@ -41,7 +41,7 @@ He/PPS saw/VBD that/CS Dolores/NP intended/VBD to/TO wait/VB until/CS the/AT las
 Quietly/RB he/PPS determined/VBD to/TO foil/VB her/PPO ./pct
 I/PPSS can/MD be/BE as/QL stubborn/JJ as/CS she/PPS can/MD ,/pct he/PPS thought/VBD ;/pct ;/pct
 my/PPg nerves/NNS are/BER as/QL strong/JJ ./pct
-She'll /None rush/VB to/IN the/AT bedroom/NN when/WRB the/AT doorbell/NN rings/VBZ ./pct
+She'll/PPSMD rush/VB to/IN the/AT bedroom/NN when/WRB the/AT doorbell/NN rings/VBZ ./pct
 It/PPS rang/VBD ./pct
 Ten/CD minutes/NNS early/JJ ./pct
 Martin/NP was/BEDZ standing/VBG a/AT few/AP feet/NNS from/IN the/AT front/JJ door/NN ./pct
@@ -75,9 +75,9 @@ There/EX was/BEDZ something/PN about/IN private/JJ feminine/JJ whisperings/NNS w
 He/PPS remembered/VBD his/PPg mother/NN gossiping/VBG with/IN her/PPg neighborhood/NN women/NNS friends/NNS ,/pct lowering/VBG her/PPg voice/NN to/IN a/AT penetrating/JJ hoarseness/NN which/WDT might/MD be/BE trusted/VBN to/TO carry/VB to/IN the/AT head/NN of/IN the/AT stairs/NNS ,/pct where/WRB he/PPS crouched/VBD listening/VBG ./pct
 He/PPS could/MD even/VB recall/VB the/AT last/AP time/NN he/PPS sat/VBD there/RB ./pct
 She/PPS was/BEDZ talking/VBG about/IN him/PPO that/DT time/NN ,/pct because/CS he/PPS had/HVD done/VBN some/DTI bad/JJ thing/NN ,/pct something/PN she/PPS disliked/VBD ,/pct but/CC ``/pct Afterwards/RB Martin/NP said/VBD he/PPS was/BEDZ sorry/JJ ./pct
-He/PPS apologized/VBD so/QL sweetly/RB ,/pct I/PPSS couldn't /None keep/VB being/BEG annoyed/VBN with/IN him/PPO ''/pct ./pct
-It/PPS wasn't /None even/RB true/JJ that/CS he'd /None said/VBN he/PPS was/BEDZ sorry/JJ that/DT time/NN ;/pct ;/pct
-he/PPS had/HVD in/IN fact/NN said/VBD simply/RB that/CS he/PPS wished/VBD the/AT thing/NN hadn't /None happened/VBN ,/pct which/WDT was/BEDZ as/QL honest/JJ as/CS he/PPS could/MD put/VB it/PPO ./pct
+He/PPS apologized/VBD so/QL sweetly/RB ,/pct I/PPSS couldn't/MD* keep/VB being/BEG annoyed/VBN with/IN him/PPO ''/pct ./pct
+It/PPS wasn't/BEDZ* even/RB true/JJ that/CS he'd/PPSHVD said/VBN he/PPS was/BEDZ sorry/JJ that/DT time/NN ;/pct ;/pct
+he/PPS had/HVD in/IN fact/NN said/VBD simply/RB that/CS he/PPS wished/VBD the/AT thing/NN hadn't/HVD* happened/VBN ,/pct which/WDT was/BEDZ as/QL honest/JJ as/CS he/PPS could/MD put/VB it/PPO ./pct
 But/CC his/PPg mother/NN told/VBD the/AT story/NN over/RP and/CC over/RP ,/pct till/CS her/PPg ``/pct Martin/NP said/VBD he/PPS was/BEDZ sorry/JJ ''/pct was/BEDZ as/QL much/AP a/AT part/NN of/IN her/PPO as/CS the/AT shape/NN of/IN her/PPg thin/JJ ,/pct pallid/JJ ears/NNS ./pct
 The/AT battle/NN had/HVD to/TO be/BE fought/VBN ./pct
 Let/VB the/AT best/JJT sex/NN win/VB ./pct
@@ -93,17 +93,17 @@ Some/DTI tried/VBD to/TO ignore/VB the/AT blot/NN on/IN the/AT bedroom's/NNg cou
 Others/NNS asked/VBD ./pct
 Quite/QL a/AT few/AP laughed/VBN ./pct
 To/IN them/PPO all/ABN Dolores/NP told/VBD a/AT lighthearted/JJ and/CC witty/JJ tale/NN ./pct
-``/pct It's /None a/AT little/AP contest/NN Martin/NP and/CC I/PPSS have/HV ''/pct ,/pct she/PPS would/MD begin/VB gaily/RB ,/pct carrying/VBG the/AT anecdote/NN through/IN a/AT frothy/JJ and/CC deceptive/JJ course/NN ./pct
+``/pct It's/PPSBEZ a/AT little/AP contest/NN Martin/NP and/CC I/PPSS have/HV ''/pct ,/pct she/PPS would/MD begin/VB gaily/RB ,/pct carrying/VBG the/AT anecdote/NN through/IN a/AT frothy/JJ and/CC deceptive/JJ course/NN ./pct
 While/CS he/PPS waited/VBD in/IN the/AT living/NN room/NN ./pct
 Once/RB Martin/NP went/VBD along/RB ./pct
 They/PPSS entered/VBD the/AT bedroom/NN ,/pct and/CC Dolores/NP said/VBD nothing/PN ./pct
 Then/RB one/CD of/IN the/AT guests/NNS showed/VBD his/PPg merriment/NN ./pct
-``/pct You/PPSS were/BED in/IN a/AT hurry/NN ,/pct weren't /None you/PPSS ''/pct ?/pct ?/pct
+``/pct You/PPSS were/BED in/IN a/AT hurry/NN ,/pct weren't/BED* you/PPSS ''/pct ?/pct ?/pct
 Martin/NP would/MD have/HV liked/VBN to/TO break/VB the/AT man's/NNg neck/NN ./pct
 Dolores/NP smiled/VBD ;/pct ;/pct
 she/PPS let/VBD the/AT interpretation/NN stand/VB ./pct
 Now/RB Martin/NP heard/VBD himself/PPL give/VB a/AT snort/NN of/IN mock/JJ good/JJ nature/NN ./pct
-With/IN her/PPg eyes/NNS Dolores/NP dared/VBD him/PPO for/IN the/AT truth/NN ,/pct ready/JJ to/TO begin/VB :/pct It's /None a/AT little/AP contest/NN --/pct
+With/IN her/PPg eyes/NNS Dolores/NP dared/VBD him/PPO for/IN the/AT truth/NN ,/pct ready/JJ to/TO begin/VB :/pct It's/PPSBEZ a/AT little/AP contest/NN --/pct
 Never/RB again/RB did/DOD he/PPS enter/VB into/IN the/AT ritual/NN of/IN showing/VBG the/AT apartment/NN ./pct
 They/PPSS kept/VBD up/RP a/AT rigid/JJ pretense/NN of/IN speaking/VBG relations/NNS ./pct
 But/CC Martin/NP seldom/RB felt/VBD the/AT impulse/NN to/TO talk/VB about/IN anything/PN ./pct
@@ -117,7 +117,7 @@ Bizarre/JJ :/pct He/PPS could/MD hear/VB the/AT word/NN ./pct
 The/AT most/QL bizarre/JJ situation/NN ./pct
 We/PPSS were/BED up/RP to/TO visit/VB them/PPO and/CC
 He/PPS had/HVD thought/VBN her/PPO exactly/RB what/WDT he/PPS wanted/VBD ./pct
-Six/CD weeks/NNS of/IN marriage/NN and/CC I'm /None using/VBG the/AT past/JJ tense/NN ,/pct he/PPS told/VBD himself/PPL furiously/RB ./pct
+Six/CD weeks/NNS of/IN marriage/NN and/CC I'm/PPSSBEM using/VBG the/AT past/JJ tense/NN ,/pct he/PPS told/VBD himself/PPL furiously/RB ./pct
 Pursuing/VBG his/PPg idea/NN ,/pct he/PPS saw/VBD that/CS it/PPS would/MD be/BE impossible/JJ to/TO leave/VB her/PPO now/RB ./pct
 Everyone/PN would/MD know/VB why/WRB ;/pct ;/pct
 he/PPS would/MD cut/VB a/AT supremely/QL ridiculous/JJ figure/NN ./pct
@@ -133,7 +133,7 @@ Instantaneously/RB he/PPS would/MD have/HV won/VBN an/AT immeasurable/JJ moral/J
 He/PPS felt/VBD that/CS it/PPS would/MD be/BE a/AT particular/JJ humiliation/NN to/IN Dolores/NP to/TO pick/VB up/RP her/PPg own/JJ underwear/NN which/WDT he/PPS had/HVD laid/VBN on/IN the/AT floor/NN ./pct
 Furthermore/RB ,/pct he/PPS could/MD go/VB on/IN repeating/VBG the/AT maneuver/NN endlessly/RB :/pct every/AT time/NN he/PPS went/VBD in/IN the/AT bedroom/NN ,/pct he/PPS could/MD drop/VB a/AT slip/NN or/CC a/AT brassiere/NN ,/pct or/CC maybe/RB a/AT girdle/NN ,/pct next/IN to/IN his/PPg shorts/NNS ./pct
 Sooner/RBR or/CC later/RBR ,/pct Dolores/NP would/MD crack/VB ./pct
-On/IN the/AT other/AP hand/NN ,/pct if/CS she/PPS didn't /None remove/VB her/PPg own/JJ things/NNS ,/pct it/PPS would/MD be/BE difficult/JJ to/TO explain/VB to/IN the/AT parade/NN of/IN guests/NNS which/WDT traversed/VBD the/AT apartment/NN ./pct
+On/IN the/AT other/AP hand/NN ,/pct if/CS she/PPS didn't/DOD* remove/VB her/PPg own/JJ things/NNS ,/pct it/PPS would/MD be/BE difficult/JJ to/TO explain/VB to/IN the/AT parade/NN of/IN guests/NNS which/WDT traversed/VBD the/AT apartment/NN ./pct
 Martin/NP guessed/VBD that/CS Dolores/NP would/MD not/NEG be/BE so/QL eager/JJ to/TO tell/VB the/AT next/AP installment/NN of/IN her/PPg story/NN ./pct
 The/AT tale/NN ,/pct he/PPS thought/VBD ,/pct would/MD become/VB less/QL gay/JJ ./pct
 She/PPS had/HVD used/VBN his/PPg rumpled/VBN shorts/NNS as/CS the/AT very/AP image/NN of/IN his/PPg childishness/NN ,/pct his/PPg lack/NN of/IN control/NN ,/pct his/PPg general/JJ male/NN looseness/NN ,/pct while/CS she/PPS remained/VBD cool/JJ ,/pct airy/JJ ,/pct and/CC untouched/JJ ,/pct the/AT charming/JJ teacher/NN who/WPS disciplined/VBD an/AT unruly/JJ body/NN ./pct
@@ -145,12 +145,12 @@ He/PPS sat/VBD down/RP on/IN the/AT bed/NN ./pct
 In/IN a/AT surprisingly/RB short/JJ time/NN ,/pct Dolores/NP appeared/VBD ./pct
 To/IN his/PPg delight/NN ,/pct her/PPg eyes/NNS focused/VBD at/IN once/RB upon/IN the/AT two/CD garments/NNS ./pct
 Slowly/RB and/CC deliberately/RB she/PPS reached/VBD down/RP and/CC touched/VBD the/AT lace/NN with/IN her/PPg fingers/NNS ,/pct then/RB hesitated/VBD for/IN about/RB a/AT second/OD ./pct
-Ah/UH ,/pct he/PPS thought/VBD ,/pct she's /None going/VBG through/IN the/AT chain/NN of/IN reasoning/VBG which/WDT says/VBZ she/PPS might/MD really/RB just/RB as/QL well/RB pick/VB up/RP my/PPg shorts/NNS too/RB ./pct
+Ah/UH ,/pct he/PPS thought/VBD ,/pct she's/PPSBEZ going/VBG through/IN the/AT chain/NN of/IN reasoning/VBG which/WDT says/VBZ she/PPS might/MD really/RB just/RB as/QL well/RB pick/VB up/RP my/PPg shorts/NNS too/RB ./pct
 He/PPS saw/VBD that/CS in/IN a/AT moment/NN she/PPS had/HVD grasped/VBN all/ABN the/AT implications/NNS of/IN a/AT plot/NN which/WDT had/HVD been/BEN weeks/NNS in/IN occurring/VBG to/IN him/PPO ./pct
 Extending/VBG her/PPg fingers/NNS another/DT inch/NN ,/pct she/PPS caught/VBD up/RP the/AT shorts/NNS ,/pct and/CC swiftly/RB left/VBD the/AT room/NN ./pct
 She/PPS did/DOD not/NEG look/VB at/IN him/PPO ,/pct but/CC he/PPS noticed/VBD that/CS her/PPg face/NN was/BEDZ flushed/VBN and/CC her/PPg eyes/NNS unsteady/JJ ./pct
 They/PPSS breakfasted/VBD together/RB ,/pct but/CC Martin/NP did/DOD not/NEG refer/VB to/IN his/PPg triumph/NN ,/pct and/CC Dolores/NP found/VBD a/AT great/JJ deal/NN to/TO do/DO in/IN the/AT kitchen/NN ,/pct bobbing/VBG up/RP and/CC down/RP from/IN the/AT table/NN so/CS that/DT talk/NN was/BEDZ impossible/JJ ./pct
-Well/UH ,/pct Martin/NP thought/VBD ,/pct That'll /None save/VB ./pct
+Well/UH ,/pct Martin/NP thought/VBD ,/pct That'll/DTMD save/VB ./pct
 He/PPS left/VBD for/IN work/NN in/IN high/JJ spirits/NNS ./pct
 As/CS he/PPS relaxed/VBD that/DT day/NN ,/pct Martin/NP realized/VBD how/WRB tense/JJ he/PPS had/HVD been/BEN these/DTS past/JJ weeks/NNS ./pct
 He/PPS found/VBD that/CS he/PPS no/AT longer/JJR hated/VBD Dolores/NP (/pct he/PPS knew/VBD how/WRB much/AP he/PPS had/HVD hated/VBN her/PPO )/pct ,/pct and/CC he/PPS was/BEDZ surprised/VBN at/IN a/AT resurgence/NN of/IN an/AT affectionate/JJ feeling/NN ./pct

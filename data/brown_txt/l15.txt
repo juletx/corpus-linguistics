@@ -5,19 +5,19 @@ Madden's/NPg dark/JJ face/NN wore/VBD a/AT meditative/JJ look/NN ./pct
 ``/pct If/CS there/EX was/BEDZ collusion/NN between/IN an/AT outside/JJ murderer/NN and/CC a/AT member/NN of/IN the/AT household/NN it/PPS would/MD be/BE an/AT elementary/JJ precaution/NN to/TO check/VB on/IN the/AT door/NN later/RBR ./pct
 And/CC it/PPS makes/VBZ a/AT very/QL poor/JJ red/JJ herring/NN for/IN an/AT inside/JJ job/NN ./pct
 Much/QL better/RBR to/TO break/VB a/AT cellar/NN window/NN ''/pct ./pct
-``/pct Don't /None forget/VB ,/pct there/EX was/BEDZ the/AT hope/NN it/PPS would/MD pass/VB for/IN a/AT natural/JJ death/NN ''/pct ,/pct Pauling/NP reminded/VBD him/PPO ./pct
-``/pct Well/UH ,/pct with/IN a/AT house/NN as/QL big/JJ as/CS that/DT there/EX must/MD be/BE at/IN least/AP one/CD cellar/NN window/NN that/DT wouldn't /None be/BE noticed/VBN right/QL away/RB unless/CS there/EX was/BEDZ a/AT police/NN investigation/NN ''/pct ./pct
+``/pct Don't/DO* forget/VB ,/pct there/EX was/BEDZ the/AT hope/NN it/PPS would/MD pass/VB for/IN a/AT natural/JJ death/NN ''/pct ,/pct Pauling/NP reminded/VBD him/PPO ./pct
+``/pct Well/UH ,/pct with/IN a/AT house/NN as/QL big/JJ as/CS that/DT there/EX must/MD be/BE at/IN least/AP one/CD cellar/NN window/NN that/DT wouldn't/MD* be/BE noticed/VBN right/QL away/RB unless/CS there/EX was/BEDZ a/AT police/NN investigation/NN ''/pct ./pct
 ``/pct Yeah/RB ./pct
-And/CC a/AT pane/NN of/IN glass/NN isn't /None hard/JJ to/TO ''/pct --/pct
+And/CC a/AT pane/NN of/IN glass/NN isn't/BEZ* hard/JJ to/TO ''/pct --/pct
 The/AT telephone/NN interrupted/VBD him/PPO ./pct
 He/PPS scooped/VBD up/RP the/AT receiver/NN and/CC said/VBD ,/pct ``/pct Police/NN chief/NN ''/pct ,/pct into/IN the/AT mouthpiece/NN ,/pct and/CC then/RB ,/pct ``/pct Oh/UH yes/RB ,/pct Mr./NP Benson/NP ./pct
-I/PPSS was/BEDZ hoping/VBG I'd /None hear/VB from/IN you/PPO today/NR ''/pct ./pct
+I/PPSS was/BEDZ hoping/VBG I'd/PPSSMD hear/VB from/IN you/PPO today/NR ''/pct ./pct
 With/IN his/PPg free/JJ hand/NN he/PPS pulled/VBD a/AT pad/NN and/CC pencil/NN toward/IN him/PPO and/CC began/VBD to/TO make/VB notes/NNS as/CS he/PPS listened/VBD ,/pct saying/VBG ,/pct ``/pct Uh-huh/UH ''/pct and/CC ``/pct I/PPSS see/VB ''/pct at/IN intervals/NNS ./pct
 At/IN last/RB he/PPS said/VBD ,/pct ``/pct Well/UH ,/pct thank/VB you/PPO for/IN calling/VBG ,/pct Mr./NP Benson/NP ./pct
-Although/CS there/EX was/BEDZ no/AT doubt/NN in/IN my/PPg mind/NN and/CC we've /None been/BEN handling/VBG it/PPO as/CS one/CD I'm /None glad/JJ to/TO have/HV it/PPO made/VBN official/JJ ''/pct ./pct
+Although/CS there/EX was/BEDZ no/AT doubt/NN in/IN my/PPg mind/NN and/CC we've/PPSSHV been/BEN handling/VBG it/PPO as/CS one/CD I'm/PPSSBEM glad/JJ to/TO have/HV it/PPO made/VBN official/JJ ''/pct ./pct
 He/PPS hung/VBD up/RP ./pct
 ``/pct Coroner/NN ''/pct ,/pct he/PPS said/VBD to/IN Madden/NP ./pct
-``/pct He's /None just/RB heard/VBN from/IN the/AT pathologist/NN who/WPS says/VBZ Mrs./NP Meeker/NP apparently/RB died/VBD from/IN suffocation/NN ''/pct ./pct
+``/pct He's/PPSHVZ just/RB heard/VBN from/IN the/AT pathologist/NN who/WPS says/VBZ Mrs./NP Meeker/NP apparently/RB died/VBD from/IN suffocation/NN ''/pct ./pct
 Pauling/NP looked/VBD at/IN his/PPg notes/NNS ./pct
 ``/pct Many/AP minute/JJ hemorrhages/NNS in/IN the/AT lungs/NNS ;/pct ;/pct
 particles/NNS of/IN lint/NN and/CC thread/NN in/IN the/AT mouth/NN and/CC nostrils/NNS ./pct
@@ -27,7 +27,7 @@ Trachea/NN clear/JJ of/IN mucus/NN and/CC foreign/JJ objects/NNS ./pct
 Brain/NN examined/VBN for/IN thrombosis/NN ,/pct clot/NN or/CC hemorrhage/NN ./pct
 No/AT signs/NNS of/IN these/DTS ,/pct no/AT gross/NN hemorrhage/NN of/IN lungs/NNS ,/pct heart/NN ,/pct brain/NN or/CC stomach/NN ''/pct ./pct
 He/PPS paused/VBD ./pct
-``/pct That's /None about/RB it/PPO ./pct
+``/pct That's/DTBEZ about/RB it/PPO ./pct
 Oh/UH ,/pct the/AT time/NN of/IN death/NN ./pct
 The/AT duration/NN of/IN the/AT digestive/JJ process/NN varies/VBZ ,/pct the/AT pathologist/NN says/VBZ ,/pct but/CC the/AT empty/JJ stomach/NN and/CC the/AT findings/NNS in/IN the/AT upper/JJ gastrointestinal/JJ tract/NN indicate/VB that/CS Mrs./NP Meeker/NP died/VBD several/AP hours/NNS after/IN her/PPg seven-o'clock/NN dinner/NN ./pct
 Probably/RB around/RB midnight/NN ,/pct give/VB or/CC take/VB an/AT hour/NN either/DTX way/NN ''/pct ./pct
@@ -35,7 +35,7 @@ Pauling/NP paused/VBD again/RB ./pct
 ``/pct So/RB there/RB it/PPS is/BEZ ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct Not/NEG your/PPg problem/NN ,/pct of/IN course/NN ,/pct unless/CS Johnston/NP and/CC the/AT murderer/NN are/BER one/CD and/CC the/AT same/AP ''/pct ./pct
 They/PPSS discussed/VBD this/DT possibility/NN ./pct
-However/WQL likely/RB it/PPS was/BEDZ ,/pct Pauling/NP said/VBD ,/pct he/PPS couldn't /None limit/VB himself/PPL to/IN it/PPO ./pct
+However/WQL likely/RB it/PPS was/BEDZ ,/pct Pauling/NP said/VBD ,/pct he/PPS couldn't/MD* limit/VB himself/PPL to/IN it/PPO ./pct
 He/PPS had/HVD to/TO look/VB for/IN other/AP prospects/NNS ,/pct other/AP motives/NNS until/CS more/QL conclusive/JJ evidence/NN pointing/VBG to/IN Johnston/NP came/VBD to/IN light/NN ./pct
 Madden/NP ,/pct with/IN his/PPg investigation/NN centered/VBN on/IN the/AT fraud/NN ,/pct said/VBD that/CS tomorrow/NR he/PPS would/MD go/VB to/IN the/AT Bronx/NP bank/NN through/IN which/WDT Mrs./NP Meeker's/NPg checks/NNS to/IN Johnston/NP had/HVD cleared/VBN ./pct
 Arthur/NP Williams/NP had/HVD to/TO be/BE located/VBN ,/pct they/PPSS agreed/VBD ./pct
@@ -77,13 +77,13 @@ particularly/RB the/AT scholarship/NN fund/NN ./pct
 At/IN the/AT time/NN the/AT will/NN was/BEDZ drawn/VBN Mr./NP Hohlbein/NP mentioned/VBD to/IN me/PPO how/WRB mentally/RB alert/JJ she/PPS seemed/VBD for/IN her/PPg age/NN ,/pct knowing/VBG just/RB what/WDT changes/NNS she/PPS wanted/VBD made/VBN and/CC so/RB forth/RB ''/pct ./pct
 Garth/NP hesitated/VBD ./pct
 ``/pct Mr./NP Hohlbein/NP and/CC I/PPSS have/HV noticed/VBN some/DTI lapses/NNS since/RB ,/pct though/RB ./pct
-Most/AP of/IN them/PPO this/DT past/JJ year/NN ,/pct I'd /None say/VB ./pct
-Even/RB two/CD or/CC three/CD years/NNS ago/RB I/PPSS doubt/VB that/CS she'd /None have/HV become/VBN involved/VBN in/IN this/DT unfortunate/NN Johnston/NP affair/NN ./pct
-She'd /None have/HV consulted/VBN us/PPO ,/pct you/PPSS see/VB ./pct
+Most/AP of/IN them/PPO this/DT past/JJ year/NN ,/pct I'd/PPSSMD say/VB ./pct
+Even/RB two/CD or/CC three/CD years/NNS ago/RB I/PPSS doubt/VB that/CS she'd/PPSMD have/HV become/VBN involved/VBN in/IN this/DT unfortunate/NN Johnston/NP affair/NN ./pct
+She'd/PPSMD have/HV consulted/VBN us/PPO ,/pct you/PPSS see/VB ./pct
 She/PPS always/RB did/DOD before/RB ,/pct and/CC showed/VBD the/AT utmost/JJS confidence/NN in/IN whatever/WDT we/PPSS advised/VBD ''/pct ./pct
 The/AT inspector/NN nodded/VBD ,/pct doubting/VBG this/DT ./pct
-Mrs./NP Meeker/NP hadn't /None struck/VBN him/PPO as/CS ready/JJ to/TO seek/VB anyone's/PNg advice/NN ,/pct least/AP of/IN all/ABN Garth's/NPg ./pct
-With/IN her/PPg sharp/JJ tongue/NN she'd /None have/HV cut/VBN his/PPg pompousness/NN to/IN ribbons/NNS ./pct
+Mrs./NP Meeker/NP hadn't/HVD* struck/VBN him/PPO as/CS ready/JJ to/TO seek/VB anyone's/PNg advice/NN ,/pct least/AP of/IN all/ABN Garth's/NPg ./pct
+With/IN her/PPg sharp/JJ tongue/NN she'd/PPSMD have/HV cut/VBN his/PPg pompousness/NN to/IN ribbons/NNS ./pct
 It/PPS would/MD have/HV been/BEN Hohlbein/NP who/WPS handled/VBD her/PPg affairs/NNS ./pct
 Madden/NP settled/VBD back/RB to/TO read/VB the/AT will/NN ./pct
 He/PPS skimmed/VBD over/IN the/AT millions/NNS that/WPS went/VBD to/IN Meeker/NP Park/NN ,/pct Medfield/NP Hospital/NN ,/pct the/AT civic/JJ center/NN ,/pct the/AT Public/JJ Health/NN Nursing/VBG Association/NN ,/pct the/AT library/NN ,/pct and/CC so/RB on/RP ,/pct pausing/VBG when/WRB he/PPS came/VBD to/IN the/AT scholarship/NN fund/NN ./pct
@@ -97,7 +97,7 @@ to/IN Brian/NP Thayer/NP ,/pct the/AT sum/NN of/IN ten/CD thousand/CD dollars/NN
 to/IN the/AT Pecks/NPS ,/pct ten/CD thousand/CD each/DT ;/pct ;/pct
 to/IN Joan/NP Sheldon/NP the/AT conditional/JJ bequest/NN of/IN ten/CD thousand/CD to/TO be/BE paid/VBN to/IN her/PPO in/IN the/AT event/NN that/CS she/PPS was/BEDZ still/RB in/IN Mrs./NP Meeker's/NPg employ/NN at/IN the/AT time/NN of/IN the/AT latter's/NNg death/NN ./pct
 (/pct No/AT additional/JJ five/CD thousand/CD for/IN each/DT year/NN after/IN Joan's/NPg twenty-first/OD birthday/NN ;/pct ;/pct
-Mrs./NP Meeker/NP hadn't /None got/VBN around/RB to/IN taking/VBG care/NN of/IN that/DT ./pct
+Mrs./NP Meeker/NP hadn't/HVD* got/VBN around/RB to/IN taking/VBG care/NN of/IN that/DT ./pct
 Too/QL bad/JJ ,/pct Madden/NP thought/VBD ./pct
 Joan/NP Sheldon/NP had/HVD earned/VBN the/AT larger/JJR bequest/NN ./pct
 Mr./NP Hohlbein/NP was/BEDZ left/VBN twenty/CD thousand/CD ,/pct Garth/NP ten/CD ./pct
@@ -108,19 +108,19 @@ Madden/NP took/VBD up/RP this/DT point/NN with/IN Garth/NP ,/pct who/WPS shrugge
 ``/pct Old/JJ people/NNS have/HV their/PPg idiosyncrasies/NNS ''/pct ./pct
 ``/pct This/DT one/PN came/VBD a/AT bit/NN high/JJ at/IN thirty/CD thousand/CD or/CC more/AP ./pct
 ``/pct Well/RB ,/pct she/PPS had/HVD a/AT number/NN of/IN them/PPO where/WRB money/NN was/BEDZ concerned/VBN ''/pct ,/pct Garth/NP said/VBD ./pct
-``/pct Sometimes/RB we'd /None have/HV trouble/NN persuading/VBG her/PPO to/TO make/VB tax-exempt/JJ charitable/JJ contributions/NNS ,/pct and/CC I've /None known/VBN her/PPO to/TO quarrel/VB with/IN a/AT plumber/NN over/IN a/AT bill/NN for/IN fixing/VBG a/AT faucet/NN ;/pct ;/pct
-the/AT next/AP moment/NN she'd /None put/VBN another/DT half/ABN million/CD into/IN the/AT scholarship/NN fund/NN or/CC thirty/CD thousand/CD into/IN something/PN as/QL impractical/JJ as/CS this/DT unfortunate/NN Johnston/NP affair/NN ./pct
-There/EX was/BEDZ no/AT telling/NN how/WRB she'd /None react/VB to/IN spending/VBG money/NN ''/pct ./pct
+``/pct Sometimes/RB we'd/PPSSMD have/HV trouble/NN persuading/VBG her/PPO to/TO make/VB tax-exempt/JJ charitable/JJ contributions/NNS ,/pct and/CC I've/PPSSHV known/VBN her/PPO to/TO quarrel/VB with/IN a/AT plumber/NN over/IN a/AT bill/NN for/IN fixing/VBG a/AT faucet/NN ;/pct ;/pct
+the/AT next/AP moment/NN she'd/PPSMD put/VBN another/DT half/ABN million/CD into/IN the/AT scholarship/NN fund/NN or/CC thirty/CD thousand/CD into/IN something/PN as/QL impractical/JJ as/CS this/DT unfortunate/NN Johnston/NP affair/NN ./pct
+There/EX was/BEDZ no/AT telling/NN how/WRB she'd/PPSMD react/VB to/IN spending/VBG money/NN ''/pct ./pct
 Madden/NP inquired/VBN next/RB about/IN the/AT audit/NN of/IN the/AT scholarship/NN fund/NN ./pct
 There/EX was/BEDZ an/AT annual/JJ audit/NN ,/pct Garth/NP informed/VBD him/PPO ./pct
 No/AT discrepancies/NNS or/CC shortages/NNS had/HVD ever/RB been/BEN found/VBN ./pct
 Brian/NP Thayer/NP was/BEDZ a/AT thoroughly/RB honest/JJ and/CC competent/JJ administrator/NN ./pct
 His/PPg salary/NN had/HVD reached/VBN the/AT ten/CD thousand/CD mark/NN ./pct
 His/PPg expenses/NNS ran/VBD another/DT four/CD or/CC five/CD thousand/CD ./pct
-The/AT lawyer/NN didn't /None know/VB him/PPO very/QL well/RB although/CS he/PPS saw/VBD him/PPO occasionally/RB at/IN some/DTI dinner/NN party/NN --/pct Thayer/NP ,/pct like/CS himself/PPL ,/pct Madden/NP reflected/VBD ,/pct was/BEDZ the/AT extra/JJ man/NN so/QL prized/VBN by/IN hostesses/NNS --/pct and/CC found/VBD him/PPO easy/JJ enough/QLP to/TO talk/VB to/IN ./pct
-But/CC he/PPS didn't /None play/VB golf/NN ,/pct didn't /None seem/VB to/TO belong/VB to/IN any/DTI local/JJ clubs/NNS --/pct his/PPg work/NN took/VBD him/PPO away/RB a/AT lot/NN ,/pct of/IN course/NN --/pct which/WDT probably/RB accounted/VBD for/IN his/PPg tendency/NN to/TO keep/VB to/IN himself/PPL ./pct
+The/AT lawyer/NN didn't/DOD* know/VB him/PPO very/QL well/RB although/CS he/PPS saw/VBD him/PPO occasionally/RB at/IN some/DTI dinner/NN party/NN --/pct Thayer/NP ,/pct like/CS himself/PPL ,/pct Madden/NP reflected/VBD ,/pct was/BEDZ the/AT extra/JJ man/NN so/QL prized/VBN by/IN hostesses/NNS --/pct and/CC found/VBD him/PPO easy/JJ enough/QLP to/TO talk/VB to/IN ./pct
+But/CC he/PPS didn't/DOD* play/VB golf/NN ,/pct didn't/DOD* seem/VB to/TO belong/VB to/IN any/DTI local/JJ clubs/NNS --/pct his/PPg work/NN took/VBD him/PPO away/RB a/AT lot/NN ,/pct of/IN course/NN --/pct which/WDT probably/RB accounted/VBD for/IN his/PPg tendency/NN to/TO keep/VB to/IN himself/PPL ./pct
 Garth's/NPg glance/NN began/VBD to/TO flicker/VB to/IN his/PPg watch/NN ./pct
-He/PPS said/VBD that/CS he/PPS had/HVD already/RB told/VBN the/AT police/NN chief/NN that/CS he/PPS didn't /None know/VB what/WDT insurance/NN man/NN had/HVD recommended/VBN Johnston/NP to/IN Mrs./NP Meeker/NP ./pct
+He/PPS said/VBD that/CS he/PPS had/HVD already/RB told/VBN the/AT police/NN chief/NN that/CS he/PPS didn't/DOD* know/VB what/WDT insurance/NN man/NN had/HVD recommended/VBN Johnston/NP to/IN Mrs./NP Meeker/NP ./pct
 He/PPS would/MD offer/VB no/AT theory/NN to/TO account/VB for/IN her/PPg murder/NN ./pct
 The/AT whole/JJ thing/NN ,/pct his/PPg manner/NN conveyed/VBD ,/pct was/BEDZ so/QL far/RB outside/IN the/AT normal/JJ routine/NN of/IN Hohlbein/NP and/CC Garth/NP that/CS it/PPS practically/RB demanded/VBD being/BEG swept/VBN under/IN the/AT rug/NN ./pct
 No/AT doubt/NN Mrs./NP Meeker/NP had/HVD snubbed/VBN him/PPO many/ABN a/AT time/NN and/CC he/PPS felt/VBD no/AT grief/NN over/IN her/PPg passing/NN ./pct
@@ -146,7 +146,7 @@ Thayer/NP folded/VBD it/PPO up/RP and/CC offered/VBD a/AT drink/NN ./pct
 The/AT inspector/NN declined/VBD ./pct
 To/TO begin/VB the/AT interview/NN ,/pct he/PPS asked/VBD if/CS Thayer/NP ,/pct with/IN more/AP time/NN to/TO think/VB it/PPO over/RP ,/pct could/MD add/VB to/IN what/WDT he/PPS had/HVD said/VBN the/AT other/AP day/NN about/IN Johnston/NP ./pct
 Thayer/NP shook/VBD his/PPg head/NN ./pct
-``/pct It's /None all/ABN I/PPSS think/VB about/RB ,/pct too/RB ./pct
+``/pct It's/PPSBEZ all/ABN I/PPSS think/VB about/RB ,/pct too/RB ./pct
 That/DT and/CC her/PPg death/NN ./pct
-It's /None still/RB unbelievable/JJ that/CS it/PPS was/BEDZ murder/NN ./pct
-For/IN all/ABN her/PPg domineering/VBG ways/NNS ,/pct I/PPSS can't /None conceive/VB of/IN her/PPO having/HVG had/HVN a/AT deadly/JJ enemy/NN ''/pct ./pct
+It's/PPSBEZ still/RB unbelievable/JJ that/CS it/PPS was/BEDZ murder/NN ./pct
+For/IN all/ABN her/PPg domineering/VBG ways/NNS ,/pct I/PPSS can't/MD* conceive/VB of/IN her/PPO having/HVG had/HVN a/AT deadly/JJ enemy/NN ''/pct ./pct

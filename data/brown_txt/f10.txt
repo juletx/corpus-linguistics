@@ -10,16 +10,16 @@ Did/DOD she/PPS know/VB ,/pct he/PPS asked/VBD ,/pct why/WRB the/AT colors/NNS o
 The/AT human/JJ body/NN --/pct he/PPS pointed/VBD out/RP ,/pct for/IN example/NN --/pct required/VBD 33/CD units/NNS of/IN blue/JJ light/NN ./pct
 For/IN that/DT reason/NN ,/pct he/PPS informed/VBD her/PPO ,/pct the/AT Lord/NN made/VBD the/AT sky/NN blue/JJ ./pct
 Continuing/VBG glibly/RB in/IN this/DT vein/NN ,/pct he/PPS paused/VBD to/TO comfort/VB her/PPO :/pct
-``/pct Don't /None you/PPSS worry/VB ./pct
+``/pct Don't/DO* you/PPSS worry/VB ./pct
 This/DT machine/NN will/MD cure/VB your/PPg cancer-ridden/JJ body/NN ''/pct ./pct
 ``/pct Cancer/NN ''/pct !/pct !/pct
 Mrs./NP Shaefer/NP practically/RB shrieked/VBD ./pct
-``/pct You/PPSS didn't /None tell/VB me/PPO I/PPSS had/HVD cancer/NN ''/pct ./pct
+``/pct You/PPSS didn't/DOD* tell/VB me/PPO I/PPSS had/HVD cancer/NN ''/pct ./pct
 ``/pct You/PPSS have/HV it/PPO ,/pct all/QL right/RB ./pct
 But/CC as/QL long/RB as/CS you/PPSS can/MD have/HV treatment/NN from/IN my/PPg machine/NN you/PPSS have/HV nothing/PN to/TO worry/VB about/IN ./pct
 Why/WRB ,/pct I/PPSS once/RB used/VBD this/DT machine/NN to/TO cure/VB a/AT woman/NN with/IN 97/CD pounds/NNS of/IN cancer/NN in/IN her/PPg body/NN ''/pct ./pct
 He/PPS urged/VBD her/PPO to/TO buy/VB one/CD of/IN his/PPg machines/NNS --/pct for/IN $300/NNS ./pct
-When/WRB she/PPS said/VBD that/CS she/PPS didn't /None have/HV the/AT money/NN ,/pct he/PPS said/VBD that/CS she/PPS could/MD come/VB in/RP for/IN treatment/NN with/IN his/PPg office/NN model/NN until/CS she/PPS was/BEDZ ready/JJ to/TO buy/VB one/CD ./pct
+When/WRB she/PPS said/VBD that/CS she/PPS didn't/DOD* have/HV the/AT money/NN ,/pct he/PPS said/VBD that/CS she/PPS could/MD come/VB in/RP for/IN treatment/NN with/IN his/PPg office/NN model/NN until/CS she/PPS was/BEDZ ready/JJ to/TO buy/VB one/CD ./pct
 He/PPS then/RB sold/VBD her/PPO minerals/NNS to/TO cure/VB her/PPg kidney/NN ailment/NN ,/pct a/AT can/NN of/IN sage/NN ``/pct to/TO make/VB her/PPO look/VB like/CS a/AT girl/NN again/RB ''/pct ,/pct and/CC an/AT application/NN of/IN plain/JJ mud/NN to/TO take/VB her/PPg wrinkles/NNS away/RB ./pct
 Lee/NP renewed/VBD his/PPg pressure/NN on/IN Mrs./NP Shaefer/NP to/TO buy/VB his/PPg machine/NN when/WRB she/PPS visited/VBD him/PPO the/AT next/AP day/NN ./pct
 After/IN another/DT treatment/NN with/IN the/AT machine/NN ,/pct he/PPS told/VBD her/PPO that/CS ``/pct her/PPg entire/JJ body/NN was/BEDZ shot/VBN through/RP with/IN tumors/NNS and/CC cysts/NNS ''/pct ./pct
@@ -49,7 +49,7 @@ Look/VB at/IN the/AT sums/NNS paid/VBN by/IN two/CD device/NN quack/NN victims/N
 Sarah/NP Gross/NP ,/pct a/AT dress/NN shop/NN proprietor/NN ,/pct paid/VBD $1020/NNS to/IN a/AT masseur/NN ,/pct and/CC Mr./NP A./NP ,/pct a/AT laborer/NN ,/pct paid/VBD $4200/NNS to/IN a/AT chiropractor/NN for/IN treatment/NN with/IN two/CD fake/JJ health/NN machines/NNS --/pct the/AT ``/pct radioclast/NN ''/pct and/CC the/AT ``/pct diagnometer/NN ''/pct ./pct
 Multiply/VB these/DTS figures/NNS by/IN the/AT millions/NNS of/IN people/NNS known/VBN to/TO be/BE conned/VBN by/IN medical/JJ pirates/NNS annually/RB ./pct
 You/PPSS will/MD come/VB up/RP with/IN a/AT frightening/VBG total/NN ./pct
-That's /None why/WRB the/AT FDA/NN ,/pct the/AT American/JJ Medical/JJ Association/NN (/pct AMA/NP )/pct ,/pct and/CC the/AT National/JJ Better/JJR Business/NN Bureau/NN (/pct BBB/NP )/pct have/HV estimated/VBN the/AT toll/NN of/IN mechanical/JJ quackery/NN to/TO be/BE a/AT substantial/JJ portion/NN of/IN the/AT $610/NNS million/CD or/CC so/RB paid/VBN to/IN medical/JJ charlatans/NNS annually/RB ./pct
+That's/DTBEZ why/WRB the/AT FDA/NN ,/pct the/AT American/JJ Medical/JJ Association/NN (/pct AMA/NP )/pct ,/pct and/CC the/AT National/JJ Better/JJR Business/NN Bureau/NN (/pct BBB/NP )/pct have/HV estimated/VBN the/AT toll/NN of/IN mechanical/JJ quackery/NN to/TO be/BE a/AT substantial/JJ portion/NN of/IN the/AT $610/NNS million/CD or/CC so/RB paid/VBN to/IN medical/JJ charlatans/NNS annually/RB ./pct
 The/AT Postmaster/NN General/JJ recently/RB reported/VBD that/CS mail/NN order/NN frauds/NNS --/pct among/IN which/WDT fake/JJ therapeutic/JJ devices/NNS figure/VB prominently/RB --/pct are/BER at/IN the/AT highest/JJT level/NN in/IN history/NN ./pct
 Similarly/RB ,/pct the/AT American/JJ Cancer/NN Society/NN (/pct ACS/NP )/pct ,/pct the/AT Arthritis/NN and/CC Rheumatism/NN Foundation/NN ,/pct and/CC the/AT BBB/NN have/HV each/DT stated/VBN lately/RB that/CS medical/JJ quackery/NN is/BEZ at/IN a/AT new/JJ high/NN ./pct
 For/IN example/NN ,/pct the/AT BBB/NN has/HVZ reported/VBN it/PPS was/BEDZ receiving/VBG four/CD times/NNS as/QL many/AP inquiries/NNS about/IN quack/NN devices/NNS and/CC 10/CD times/NNS as/QL many/AP complaints/NNS compared/VBN with/IN two/CD years/NNS ago/RB ./pct
@@ -64,12 +64,12 @@ As/CS a/AT result/NN ,/pct she/PPS consulted/VBD medical/JJ authorities/NNS and/
 She/PPS suffered/VBD a/AT nervous/JJ breakdown/NN and/CC had/HVD to/TO be/BE institutionalized/VBN ./pct
 Mr./NP A./NP ,/pct her/PPg fellow/NN townsman/NN ,/pct also/RB experienced/VBD a/AT nervous/JJ breakdown/NN just/QL as/QL soon/RB as/CS he/PPS discovered/VBD that/CS he/PPS had/HVD been/BEN bilked/VBN of/IN his/PPg life/NN savings/NNS by/IN the/AT limited/VBN practitioner/NN who/WPS had/HVD been/BEN treating/VBG his/PPg wife/NN --/pct a/AT woman/NN suffering/VBG from/IN an/AT incurable/JJ disease/NN ,/pct multiple/JJ sclerosis/NN --/pct and/CC himself/PPL ./pct
 Mr./NP A/NP has/HVZ recovered/VBN ,/pct but/CC he/PPS is/BEZ ,/pct justifiably/RB ,/pct a/AT bitter/JJ man/NN ./pct
-``/pct That's /None a/AT lot/NN of/IN hard-earned/JJ money/NN to/TO lose/VB ''/pct ,/pct he/PPS says/VBZ today/NR ./pct
+``/pct That's/DTBEZ a/AT lot/NN of/IN hard-earned/JJ money/NN to/TO lose/VB ''/pct ,/pct he/PPS says/VBZ today/NR ./pct
 ``/pct Neither/CC me/PPO nor/CC my/PPg wife/NN were/BED helped/VBN by/IN that/DT chiropractor's/NNg treatments/NNS ''/pct ./pct
 And/CC there/EX was/BEDZ the/AT case/NN of/IN Tom/NP Hepker/NP ,/pct a/AT machinist/NN ,/pct who/WPS was/BEDZ referred/VBN by/IN a/AT friend/NN to/IN a/AT health/NN machine/NN quack/NN who/WPS treated/VBD him/PPO with/IN a/AT so-called/JJ diagnostic/JJ machine/NN for/IN what/WDT Doctor/NN Fraud/NN said/VBD was/BEDZ a/AT system/NN full/JJ of/IN arsenic/NN and/CC strychnine/NN ./pct
 After/CS his/PPg pains/NNS got/VBD worse/JJR ,/pct Tom/NP decided/VBD to/TO see/VB a/AT real/JJ doctor/NN ,/pct from/IN whom/WPO he/PPS learned/VBD he/PPS was/BEDZ suffering/VBG from/IN cancer/NN of/IN the/AT lung/NN ./pct
 Yes/RB ,/pct Tom/NP caught/VBD it/PPO in/IN time/NN to/TO stay/VB alive/JJ ./pct
-But/CC he's /None a/AT welfare/NN case/NN now/RB --/pct a/AT human/JJ wreck/NN --/pct thanks/NNS to/IN this/DT modern/JJ witch/NN doctor/NN ./pct
+But/CC he's/PPSBEZ a/AT welfare/NN case/NN now/RB --/pct a/AT human/JJ wreck/NN --/pct thanks/NNS to/IN this/DT modern/JJ witch/NN doctor/NN ./pct
 But/CC the/AT machine/NN quack/NN can/MD cause/VB far/QL more/AP than/CS just/RB suffering/VBG ./pct
 In/IN such/JJ diseases/NNS as/CS cancer/NN ,/pct tuberculosis/NN ,/pct and/CC heart/NN disease/NN ,/pct early/JJ diagnosis/NN and/CC treatment/NN are/BER so/QL vital/JJ that/CS the/AT waste/NN of/IN time/NN by/IN the/AT patient/NN with/IN Doctor/NN Fraud's/NPg cure-all/NN gadget/NN can/MD prove/VB fatal/JJ ./pct
 Moreover/RB ,/pct the/AT diabetic/JJ patient/NN who/WPS relies/VBZ on/IN cure/NN by/IN the/AT quack/NN device/NN and/CC therefore/RB cuts/VBZ off/RP his/PPg insulin/NN intake/NN can/MD be/BE committing/VBG suicide/NN ./pct
@@ -88,10 +88,10 @@ In/IN California/NP ,/pct a/AT few/AP years/NNS ago/RB ,/pct a/AT ghoul/NN by/IN
 He/PPS did/DOD this/DT by/IN the/AT charming/JJ practice/NN of/IN buying/VBG up/RP used/VBN electric/JJ blankets/NNS for/IN $5/NNS to/IN $10/NNS from/IN survivors/NNS of/IN patients/NNS who/WPS had/HVD died/VBN ,/pct reconditioning/VBG them/PPO ,/pct and/CC selling/VBG them/PPO at/IN $185/NNS each/DT ./pct
 When/WRB authorities/NNS convicted/VBD him/PPO of/IN practicing/VBG medicine/NN without/IN a/AT license/NN (/pct he/PPS got/VBD off/RP with/IN a/AT suspended/VBN sentence/NN of/IN three/CD years/NNS because/RB of/IN his/PPg advanced/VBN age/NN of/IN 77/CD )/pct ,/pct one/CD of/IN his/PPg victims/NNS was/BEDZ not/NEG around/RB to/TO testify/VB :/pct He/PPS was/BEDZ dead/JJ of/IN cancer/NN ./pct
 By/IN no/AT means/NNS are/BER these/DTS isolated/VBN cases/NNS ./pct
-``/pct Unfortunately/RB ''/pct ,/pct says/VBZ Chief/JJS Postal/JJ Inspector/NN David/NP H./NP Stephens/NP ,/pct who/WPS has/HVZ prosecuted/VBN many/AP device/NN quacks/NNS ,/pct ``/pct the/AT ghouls/NNS who/WPS trade/VB on/IN the/AT hopes/NNS of/IN the/AT desperately/QL ill/JJ often/RB cannot /None be/BE successfully/RB prosecuted/VBN because/CS the/AT patients/NNS who/WPS are/BER the/AT chief/JJS witnesses/NNS die/VB before/CS the/AT case/NN is/BEZ called/VBN up/RP in/IN court/NN ''/pct ./pct
+``/pct Unfortunately/RB ''/pct ,/pct says/VBZ Chief/JJS Postal/JJ Inspector/NN David/NP H./NP Stephens/NP ,/pct who/WPS has/HVZ prosecuted/VBN many/AP device/NN quacks/NNS ,/pct ``/pct the/AT ghouls/NNS who/WPS trade/VB on/IN the/AT hopes/NNS of/IN the/AT desperately/QL ill/JJ often/RB cannot/MD* be/BE successfully/RB prosecuted/VBN because/CS the/AT patients/NNS who/WPS are/BER the/AT chief/JJS witnesses/NNS die/VB before/CS the/AT case/NN is/BEZ called/VBN up/RP in/IN court/NN ''/pct ./pct
 Death/NN !/pct !/pct
 Have/HV no/AT doubt/NN about/IN it/PPO ./pct
-That's /None where/WRB device/NN quackery/NN can/MD lead/VB ./pct
+That's/DTBEZ where/WRB device/NN quackery/NN can/MD lead/VB ./pct
 The/AT evidence/NN shows/VBZ that/CS fake/JJ therapeutic/JJ machines/NNS ,/pct substituted/VBN for/IN valid/JJ medical/JJ cures/NNS ,/pct have/HV hastened/VBN the/AT deaths/NNS of/IN thousands/NNS ./pct
 Who/WPS are/BER the/AT victims/NNS of/IN the/AT device/NN quacks/NNS ?/pct ?/pct
 Authorities/NNS say/VB that/CS oldsters/NNS are/BER a/AT prime/JJ target/NN ./pct

@@ -35,7 +35,7 @@ On/IN November/NP 24th/OD ,/pct they/PPSS had/HVD made/VBN a/AT raid/NN on/IN La
 Two/CD days/NNS later/RBR ,/pct some/RB 30/CD of/IN them/PPO had/HVD struck/VBN at/IN a/AT convoy/NN off/IN Bougie/NP ,/pct sinking/VBG a/AT troopship/NN --/pct and/CC it/PPS had/HVD been/BEN that/DT very/AP night/NN that/CS the/AT Me-210/NN had/HVD made/VBN its/PPg first/OD appearance/NN ./pct
 After/CS it/PPS had/HVD reappeared/VBN the/AT next/AP two/CD nights/NNS ,/pct Jenks/NP went/VBD to/IN higher/JJR headquarters/NN and/CC said/VBD :/pct
 ``/pct For/IN three/CD days/NNS now/RB a/AT German/JJ reconnaissance/NN plane/NN has/HVZ been/BEN over/IN the/AT city/NN taking/VBG pictures/NNS ./pct
-They're /None just/RB waiting/VBG for/IN the/AT proper/JJ time/NN to/TO come/VB over/IN here/RB and/CC dump/VB this/DT place/NN into/IN the/AT Adriatic/NP ''/pct ./pct
+They're/PPSSBER just/RB waiting/VBG for/IN the/AT proper/JJ time/NN to/TO come/VB over/IN here/RB and/CC dump/VB this/DT place/NN into/IN the/AT Adriatic/NP ''/pct ./pct
 But/CC the/AT older/JJR and/CC wiser/JJR heads/NNS had/HVD dismissed/VBN his/PPg warning/NN as/CS alarmist/JJ ./pct
 Even/RB though/CS it/PPS was/BEDZ known/VBN that/CS the/AT Luftwaffe/NP in/IN the/AT north/NR was/BEDZ now/RB being/BEG directed/VBN by/IN the/AT young/JJ and/CC energetic/JJ General/NN Peltz/NP ,/pct the/AT commander/NN who/WPS would/MD conduct/VB the/AT ``/pct Little/JJ Blitz/NN ''/pct on/IN London/NP in/IN 1944/CD ,/pct a/AT major/JJ raid/NN on/IN Bari/NP at/IN this/DT juncture/NN of/IN the/AT war/NN was/BEDZ not/NEG to/TO be/BE considered/VBN seriously/RB ./pct
 True/RB ,/pct there/EX had/HVD been/BEN raids/NNS on/IN Naples/NP --/pct but/CC Naples/NP was/BEDZ pretty/QL far/QL north/NR on/IN the/AT opposite/JJ coast/NN ./pct
@@ -52,17 +52,17 @@ It/PPS had/HVD been/BEN made/VBN shockingly/QL evident/JJ that/DT very/AP mornin
 A/AT British/JJ officer/NN had/HVD come/VBN aboard/RB and/CC told/VBN him/PPO that/CS in/IN case/NN of/IN enemy/NN air/NN attack/NN he/PPS was/BEDZ not/NEG to/TO open/VB fire/NN until/CS bombs/NNS were/BED actually/RB dropped/VBN ./pct
 Then/RB he/PPS was/BEDZ to/TO co-ordinate/VB his/PPg fire/NN with/IN a/AT radar-controlled/JJ shore/NN gun/NN firing/VBG white/JJ tracers/NNS ./pct
 ``/pct This/DT harbor/NN is/BEZ a/AT bomber's/NNg paradise/NN ''/pct ,/pct the/AT Britisher/NP had/HVD said/VBN with/IN frank/JJ grimness/NN ./pct
-``/pct It's /None up/IN to/IN you/PPO to/TO protect/VB yourselves/PPLS ./pct
-We/PPSS can't /None expect/VB any/DTI help/NN from/IN the/AT fighters/NNS at/IN Foggia/NP ,/pct either/RB ./pct
-They're /None all/ABN being/BEG used/VBN on/IN offensive/JJ missions/NNS ''/pct ./pct
+``/pct It's/PPSBEZ up/IN to/IN you/PPO to/TO protect/VB yourselves/PPLS ./pct
+We/PPSS can't/MD* expect/VB any/DTI help/NN from/IN the/AT fighters/NNS at/IN Foggia/NP ,/pct either/RB ./pct
+They're/PPSSBER all/ABN being/BEG used/VBN on/IN offensive/JJ missions/NNS ''/pct ./pct
 Vesole/NP had/HVD been/BEN stunned/VBN ./pct
 Not/NEG fire/VB until/CS the/AT bombs/NNS came/VBD down/RP !/pct !/pct
 He/PPS thought/VBD of/IN the/AT tons/NNS and/CC tons/NNS of/IN flammable/JJ fluid/NN beneath/IN his/PPg feet/NNS and/CC shook/VBD his/PPg head/NN ./pct
 Like/CS hell/NN !/pct !/pct
-Like/CS hell/NN he'd /None wait/VB --/pct and/CC supposing/CS the/AT radar-controlled/JJ gun/NN got/VBD knocked/VBN out/RP ?/pct ?/pct
+Like/CS hell/NN he'd/PPSMD wait/VB --/pct and/CC supposing/CS the/AT radar-controlled/JJ gun/NN got/VBD knocked/VBN out/RP ?/pct ?/pct
 What/WDT would/MD his/PPg guns/NNS guide/VB on/IN then/RB --/pct the/AT North/JJ Star/NN ?/pct ?/pct
-Ensign/NN Vesole/NP decided/VBD that/CS he/PPS would/MD not/NEG tarry/VB until/CS he/PPS heard/VBD the/AT whispering/NN of/IN the/AT bombs/NNS ,/pct and/CC when/WRB night/NN began/VBD to/TO fall/VB ,/pct he/PPS put/VBD Seaman/NN 2/c/NP Donald/NP L./NP Norton/NP and/CC Seaman/NN 1/c/NP William/NP A./NP Rochford/NP on/IN the/AT guns/NNS and/CC told/VBD them/PPO to/TO start/VB shooting/VBG the/AT moment/NN they/PPSS saw/VBD an/AT enemy/NN silhouette/NN ./pct
-Below/IN decks/NNS ,/pct Seaman/NN 1/c/NP Stanley/NP Bishop/NP had/HVD begun/VBN to/TO write/VB a/AT letter/NN home/NR ./pct
+Ensign/NN Vesole/NP decided/VBD that/CS he/PPS would/MD not/NEG tarry/VB until/CS he/PPS heard/VBD the/AT whispering/NN of/IN the/AT bombs/NNS ,/pct and/CC when/WRB night/NN began/VBD to/TO fall/VB ,/pct he/PPS put/VBD Seaman/NN 2:c/NP Donald/NP L./NP Norton/NP and/CC Seaman/NN 1:c/NP William/NP A./NP Rochford/NP on/IN the/AT guns/NNS and/CC told/VBD them/PPO to/TO start/VB shooting/VBG the/AT moment/NN they/PPSS saw/VBD an/AT enemy/NN silhouette/NN ./pct
+Below/IN decks/NNS ,/pct Seaman/NN 1:c/NP Stanley/NP Bishop/NP had/HVD begun/VBN to/TO write/VB a/AT letter/NN home/NR ./pct
 Above/IN decks/NNS on/IN the/AT John/NP Harvey/NP ,/pct Lieutenant/NN Richardson/NP gazed/VBD at/IN the/AT lights/NNS still/RB burning/VBG on/IN the/AT port/JJ wall/NN and/CC felt/VBD uneasy/JJ ./pct
 There/EX were/BED lights/NNS glinting/VBG in/IN the/AT city/NN ,/pct too/RB ,/pct even/RB though/CS it/PPS was/BEDZ now/RB dark/JJ enough/QLP for/IN a/AT few/AP stars/NNS to/TO become/VB visible/JJ ./pct
 Bari/NP was/BEDZ asking/VBG for/IN it/PPO ,/pct he/PPS thought/VBD ./pct
@@ -77,7 +77,7 @@ Deck/NN Cadet/NN James/NP L./NP Cahill/NP and/CC Seaman/NN Walter/NP Brooks/NP h
 Richardson/NP had/HVD returned/VBN their/PPg departing/VBG grins/NNS with/IN the/AT noncommittal/JJ nod/NN that/WPS is/BEZ the/AT security/NN officer's/NNg stock/NN in/IN trade/NN ./pct
 The/AT other/AP half/ABN of/IN the/AT crew/NN ,/pct plus/CC Beckstrom/NP and/CC his/PPg men/NNS ,/pct had/HVD remained/VBN aboard/RB ./pct
 Richardson/NP glanced/VBD to/IN sea/NN and/CC started/VBD slightly/RB ./pct
-Damned/VBN if/CS that/DT wasn't /None a/AT sailing/VBG ship/NN standing/VBG out/IN of/IN the/AT old/JJ harbor/NN --/pct Porto/NP Vecchio/NP ./pct
+Damned/VBN if/CS that/DT wasn't/BEDZ* a/AT sailing/VBG ship/NN standing/VBG out/IN of/IN the/AT old/JJ harbor/NN --/pct Porto/NP Vecchio/NP ./pct
 The/AT night/NN was/BEDZ so/QL clear/JJ that/CS Richardson/NP had/HVD no/AT difficulty/NN making/VBG out/RP the/AT silhouette/NN ./pct
 Then/RB the/AT thought/NN of/IN a/AT cloudless/JJ sky/NN made/VBD him/PPO shiver/VB ,/pct and/CC he/PPS glanced/VBD upward/RB ./pct
 His/PPg eyes/NNS boggled/VBD ./pct

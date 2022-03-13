@@ -35,7 +35,7 @@ Unlike/IN the/AT Sicilians/NPS ,/pct he/PPS additionally/RB conducted/VBD holdup
 He/PPS was/BEDZ also/RB personally/RB active/JJ in/IN ward/NN politics/NN ,/pct and/CC by/IN 1924/CD O'Banion/NP had/HVD acquired/VBN sufficient/JJ political/JJ might/NN to/TO be/BE able/JJ to/TO state/VB :/pct ``/pct I/PPSS always/RB deliver/VB my/PPg borough/NN as/CS per/IN requirements/NNS ''/pct ./pct
 But/CC whose/WPg requirements/NNS ?/pct ?/pct
 Until/IN 1924/CD O'Banion/NP pistoleers/NNS and/CC knuckle-duster/NN bullyboys/NNS had/HVD kept/VBN his/PPg North/JJ Side/NN domain/NN solidly/RB Democratic/JJ ./pct
-There/EX was/BEDZ a/AT question-and-answer/NN gag/NN that/WPS went/VBD around/RB at/IN that/DT time/NN :/pct Q./NP ``/pct Who'll /None carry/VB the/AT Forty-second/OD and/CC Forty-third/OD wards/NNS ''/pct ?/pct ?/pct
+There/EX was/BEDZ a/AT question-and-answer/NN gag/NN that/WPS went/VBD around/RB at/IN that/DT time/NN :/pct Q./NP ``/pct Who'll/WPSMD carry/VB the/AT Forty-second/OD and/CC Forty-third/OD wards/NNS ''/pct ?/pct ?/pct
 A./NP O'Banion/NP ,/pct in/IN his/PPg pistol/NN pocket/NN ''/pct ./pct
 But/CC as/CS November/NP 1924/CD drew/VBD close/RB the/AT Democratic/JJ hierarchy/NN was/BEDZ sorely/RB troubled/VBN by/IN grapevine/NN reports/NNS that/CS O'Banion/NP was/BEDZ being/BEG wooed/VBN by/IN the/AT opposition/NN ,/pct and/CC was/BEDZ meeting/VBG and/CC conferring/VBG with/IN important/JJ Republicans/NPS ./pct
 To/TO forestall/VB any/DTI change/NN of/IN allegiance/NN ,/pct the/AT Democrats/NPS hastily/RB organised/VBD a/AT testimonial/JJ banquet/NN for/IN O'Banion/NP ,/pct as/CS public/JJ reward/NN for/IN his/PPg past/AP services/NNS and/CC as/CS a/AT reminder/NN of/IN where/WRB his/PPg loyalties/NNS lay/VBD ./pct
@@ -73,7 +73,7 @@ To/IN them/PPO bums/NNS ?/pct ?/pct
 Why/WRB ,/pct I/PPSS can/MD get/VB them/PPO knocked/VBN off/RP for/IN half/ABN that/DT much/AP ''/pct ./pct
 Upon/IN which/WDT the/AT detective/NN bureau/NN despatched/VBD rifle/NN squads/NNS to/TO prevent/VB trouble/NN if/CS O'Banion/NP should/MD send/VB his/PPg gunmen/NNS out/RP to/TO deal/VB with/IN the/AT hijacking/VBG policemen/NNS ./pct
 But/CC in/IN the/AT meantime/NN the/AT beer-runner/NN ,/pct unhappy/JJ with/IN this/DT solution/NN ,/pct telephoned/VBD Torrio/NP and/CC returned/VBD to/IN O'Banion/NP with/IN the/AT message/NN :/pct ``/pct Say/UH ,/pct Dionie/NP ,/pct I/PPSS just/RB been/BEN talking/VBG to/IN Johnny/NP ,/pct and/CC he/PPS said/VBD to/TO let/VB them/PPO cops/NNS have/HV the/AT three/CD hundred/CD ./pct
-He/PPS says/VBZ he/PPS don't /None want/VB no/AT trouble/NN ''/pct ./pct
+He/PPS says/VBZ he/PPS don't/DO* want/VB no/AT trouble/NN ''/pct ./pct
 But/CC Torrio/NP and/CC Capone/NP had/HVD graver/JJR cause/NN to/TO hate/VB and/CC distrust/VB the/AT Irishman/NP ./pct
 For/IN three/CD years/NNS ,/pct since/IN the/AT liquor/NN territorial/JJ conference/NN ,/pct Torrio/NP had/HVD ,/pct with/IN his/PPg elastic/JJ patience/NN ,/pct and/CC because/CS he/PPS knew/VBD that/CS retaliation/NN could/MD cause/VB only/RB violent/JJ warfare/NN and/CC disaster/NN to/IN business/NN ,/pct tolerated/VBN O'Banion's/NPg impudent/JJ double-crossing/NN ./pct
 They/PPSS had/HVD suffered/VBN ,/pct in/IN sulky/JJ silence/NN ,/pct the/AT sight/NN of/IN his/PPg sharp/JJ practice/NN in/IN Cicero/NP ./pct

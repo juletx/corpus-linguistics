@@ -82,7 +82,7 @@ Having/HVG hit/VBN one/CD of/IN the/AT trees/NNS ,/pct the/AT ball/NN came/VBD t
 Player/NP then/RB had/HVD the/AT choice/NN of/IN punching/VBG the/AT ball/NN safely/RB out/IN of/IN the/AT woods/NNS to/IN the/AT 9th/OD fairway/NN and/CC settling/VBG for/IN a/AT bogey/NN 5/CD ,/pct or/CC gambling/VBG ./pct
 The/AT latter/AP involved/VBN hitting/VBG a/AT full/JJ four-wood/NN out/RP to/IN the/AT first/OD fairway/NN and/CC toward/IN the/AT clubhouse/NN ,/pct hoping/VBG to/TO slice/VB it/PPO back/RB to/IN the/AT deeply/QL bunkered/VBN 9th/OD green/NN ./pct
 ``/pct I/PPSS was/BEDZ hitting/VBG the/AT ball/NN well/RB ''/pct ,/pct Player/NP said/VBD later/RBR ,/pct ``/pct and/CC I/PPSS felt/VBD strong/JJ ./pct
-When/WRB you're /None playing/VBG like/CS that/DT you'd /None better/RBR attack/VB ''/pct ./pct
+When/WRB you're/PPSSBER playing/VBG like/CS that/DT you'd/PPSSMD better/RBR attack/VB ''/pct ./pct
 Player/NP attacked/VBD with/IN his/PPg four-wood/NN and/CC hit/VB a/AT shot/NN that/CS few/AP who/WPS saw/VBD it/PPO will/MD ever/RB forget/VB ./pct
 It/PPS struck/VBD the/AT 9th/OD green/NN on/IN the/AT fly/NN and/CC stopped/VBD just/RB off/IN the/AT edge/NN ./pct
 From/IN there/RB he/PPS chipped/VBD back/RB and/CC sank/VBD his/PPg putt/NN for/IN a/AT par/NN 4/CD ./pct

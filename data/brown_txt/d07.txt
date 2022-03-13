@@ -5,7 +5,7 @@ of/IN whom/WPO shall/MD I/PPSS be/BE afraid/JJ ''/pct ?/pct ?/pct
 (/pct Psalm/NN 27/CD :/pct 1/CD )/pct
 A/AT certain/JJ teacher/NN scheduled/VBD a/AT ``/pct Fear/NN Party/NN ''/pct for/IN her/PPg fourth/OD grade/NN pupils/NNS ./pct
 It/PPS was/BEDZ a/AT session/NN at/IN which/WDT all/ABN the/AT youngsters/NNS were/BED told/VBN to/TO express/VB their/PPg fears/NNS ,/pct to/TO get/VB them/PPO out/RP in/IN the/AT open/JJ where/WRB they/PPSS could/MD talk/VB about/IN them/PPO freely/RB ./pct
-The/AT teacher/NN thought/VBD it/PPS was/BEDZ so/QL successful/JJ that/CS she/PPS asks/VBZ :/pct ``/pct Wouldn't /None it/PPS be/BE helpful/JJ to/IN all/ABN age/NN groups/NNS if/CS they/PPSS could/MD participate/VB in/IN a/AT similar/JJ confessional/NN of/IN their/PPg fears/NNS and/CC worries/NNS ''/pct ?/pct ?/pct
+The/AT teacher/NN thought/VBD it/PPS was/BEDZ so/QL successful/JJ that/CS she/PPS asks/VBZ :/pct ``/pct Wouldn't/MD* it/PPS be/BE helpful/JJ to/IN all/ABN age/NN groups/NNS if/CS they/PPSS could/MD participate/VB in/IN a/AT similar/JJ confessional/NN of/IN their/PPg fears/NNS and/CC worries/NNS ''/pct ?/pct ?/pct
 Dr./NN George/NP W./NP Crane/NP ,/pct a/AT medical/JJ columnist/NN ,/pct thinks/VBZ it/PPS would/MD ./pct
 He/PPS says/VBZ :/pct ``/pct That/DT would/MD reduce/VB neurotic/JJ ailments/NNS tremendously/RB ./pct
 Each/DT week/NN an/AT estimated/VBN 20/CD million/CD patients/NNS call/VB upon/RB us/PPO doctors/NNS ./pct
@@ -31,16 +31,16 @@ We/PPSS spend/VB billions/NNS of/IN dollars/NNS on/IN liquor/NN ,/pct and/CC man
 We/PPSS consume/VB tons/NNS of/IN aspirin/NN and/CC tranquilizers/NNS and/CC sleeping/VBG pills/NNS in/IN order/NN to/TO get/VB a/AT moment's/NNg relief/NN from/IN the/AT tensions/NNS that/WPS are/BER tearing/VBG us/PPO apart/RB ./pct
 A/AT visitor/NN from/IN a/AT more/QL peaceful/JJ country/NN across/IN the/AT sea/NN was/BEDZ taken/VBN to/IN one/CD of/IN our/PPg amusement/NN parks/NNS ,/pct and/CC after/CS he/PPS had/HVD seen/VBN it/PPO all/ABN ,/pct he/PPS said/VBD to/IN a/AT friend/NN :/pct ``/pct You/PPSS must/MD be/BE a/AT very/QL sad/JJ people/NNS ''/pct ./pct
 ``/pct Sad/JJ ''/pct was/BEDZ not/NEG the/AT right/JJ word/NN ,/pct of/IN course/NN ./pct
-He/PPS should/MD have/HV said/VBN ``/pct jittery/JJ ''/pct ,/pct for/CS that's /None what/WDT we/PPSS are/BER ./pct
-And/CC that's /None worse/JJR than/CS sad/JJ ./pct
+He/PPS should/MD have/HV said/VBN ``/pct jittery/JJ ''/pct ,/pct for/CS that's/DTBEZ what/WDT we/PPSS are/BER ./pct
+And/CC that's/DTBEZ worse/JJR than/CS sad/JJ ./pct
 Watch/VB people/NNS flock/VB to/IN amusement/NN houses/NNS ,/pct cocktail/NN lounges/NNS ,/pct and/CC night/NN clubs/NNS that/WPS advertise/VB continuous/JJ entertainment/NN ,/pct which/WDT means/VBZ an/AT endless/JJ flow/NN of/IN noise/NN and/CC frivolity/NN by/IN paid/VBN entertainers/NNS who/WPS are/BER supposed/VBN to/TO perform/VB in/IN those/DTS incredible/JJ ways/NNS which/WDT are/BER designed/VBN to/TO give/VB men/NNS a/AT few/AP hours/NNS of/IN dubious/JJ relaxation/NN --/pct watch/VB them/PPO and/CC you/PPSS can/MD tell/VB that/CS many/AP of/IN them/PPO are/BER running/VBG away/RB from/IN something/PN ./pct
-In/IN one/CD of/IN his/PPg writings/NNS Pascal/NP speaks/VBZ of/IN this/DT mania/NN for/IN diversion/NN as/CS being/BEG a/AT sign/NN of/IN misery/NN and/CC fear/NN which/WDT man/NN cannot /None endure/VB without/IN such/JJ opiates/NNS ./pct
+In/IN one/CD of/IN his/PPg writings/NNS Pascal/NP speaks/VBZ of/IN this/DT mania/NN for/IN diversion/NN as/CS being/BEG a/AT sign/NN of/IN misery/NN and/CC fear/NN which/WDT man/NN cannot/MD* endure/VB without/IN such/JJ opiates/NNS ./pct
 Yes/RB ,/pct and/CC as/CS tension/NN mounts/VBZ in/IN this/DT world/NN ,/pct fear/NN is/BEZ increasing/VBG ./pct
 Does/DOZ that/DT explain/VB why/WRB there/EX is/BEZ now/RB such/ABL a/AT big/JJ boom/NN in/IN the/AT bomb/NN shelter/NN business/NN ?/pct ?/pct
 We/PPSS have/HV so/QL many/AP new/JJ things/NNS to/TO fear/VB in/IN this/DT age/NN of/IN nuclear/JJ weapons/NNS ,/pct dreadful/JJ things/NNS which/WDT are/BER too/QL horrible/JJ to/TO contemplate/VB ./pct
 I/PPSS doubt/VB that/CS ``/pct fear/NN parties/NNS ''/pct and/CC ``/pct group/NN confessionals/NNS ''/pct will/MD help/VB very/QL much/RB ./pct
 Suppose/VB we/PPSS do/DO get/VB our/PPg fears/NNS out/RP in/IN the/AT open/JJ ,/pct what/WDT then/RB ?/pct ?/pct
-Isn't /None that/DT where/WRB most/AP of/IN them/PPO are/BER already/RB --/pct right/QL out/RP on/IN the/AT front/JJ page/NN of/IN our/PPg newspapers/NNS ?/pct ?/pct
+Isn't/BEZ* that/DT where/WRB most/AP of/IN them/PPO are/BER already/RB --/pct right/QL out/RP on/IN the/AT front/JJ page/NN of/IN our/PPg newspapers/NNS ?/pct ?/pct
 Maybe/RB we/PPSS are/BER talking/VBG about/IN them/PPO too/QL much/RB ./pct
 The/AT question/NN is/BEZ :/pct what/WDT are/BER we/PPSS going/VBG to/TO do/DO about/IN them/PPO ?/pct ?/pct
 Meanwhile/RB ,/pct the/AT enemy/NN will/MD capitalize/VB on/IN our/PPg fears/NNS ,/pct if/CS he/PPS can/MD ./pct
@@ -50,19 +50,19 @@ It/PPS is/BEZ said/VBN that/CS fear/NN in/IN human/JJ beings/NNS produces/VBZ an
 It/PPS could/MD have/HV the/AT same/AP effect/NN on/IN Communists/NNS ./pct
 The/AT President/NN of/IN the/AT United/VBN States/NNS has/HVZ said/VBN :/pct ``/pct We/PPSS will/MD never/RB negotiate/VB out/IN of/IN fear/NN ,/pct and/CC we/PPSS will/MD never/RB fear/VB to/TO negotiate/VB ''/pct ./pct
 That/DT is/BEZ a/AT sound/JJ position/NN ,/pct but/CC it/PPS is/BEZ important/JJ that/CS Moscow/NP shall/MD recognize/VB it/PPO not/NEG merely/RB as/CS the/AT word/NN of/IN a/AT president/NN but/CC as/CS the/AT mind/NN of/IN a/AT free/JJ people/NNS who/WPS are/BER not/NEG afraid/JJ ./pct
-And/CC that's /None another/DT reason/NN why/WRB it/PPS is/BEZ imperative/JJ for/IN us/PPO these/DTS days/NNS to/TO conquer/VB our/PPg fears/NNS ,/pct to/TO develop/VB the/AT poise/NN that/WPS promotes/VBZ peace/NN ./pct
+And/CC that's/DTBEZ another/DT reason/NN why/WRB it/PPS is/BEZ imperative/JJ for/IN us/PPO these/DTS days/NNS to/TO conquer/VB our/PPg fears/NNS ,/pct to/TO develop/VB the/AT poise/NN that/WPS promotes/VBZ peace/NN ./pct
 Turning/VBG to/IN the/AT Word/NN of/IN God/NP ,/pct we/PPSS find/VB the/AT only/AP sure/JJ way/NN to/TO do/DO that/DT ./pct
 In/IN Psalm/NN 27/CD :/pct 1/CD you/PPSS read/VB those/DTS beautiful/JJ words/NNS which/WDT you/PPSS must/MD have/HV in/IN your/PPg heart/NN if/CS you/PPSS are/BER to/TO master/VB the/AT fears/NNS that/WPS surround/VB you/PPO ,/pct or/CC to/TO drive/VB them/PPO out/RP if/CS they/PPSS have/HV you/PPO in/IN their/PPg grip/NN :/pct ``/pct The/AT Lord/NN is/BEZ my/PPg light/NN and/CC my/PPg salvation/NN ;/pct ;/pct
 whom/WPO shall/MD I/PPSS fear/VB ?/pct ?/pct
 The/AT Lord/NN is/BEZ the/AT strength/NN of/IN my/PPg life/NN ;/pct ;/pct
 of/IN whom/WPO shall/MD I/PPSS be/BE afraid/JJ ''/pct ?/pct ?/pct
 Well/UH ,/pct you/PPSS say/VB ,/pct those/DTS are/BER beautiful/JJ words/NNS all/QL right/JJ ,/pct but/CC it/PPS was/BEDZ easy/JJ for/IN the/AT psalmist/NN to/TO sing/VB them/PPO in/IN his/PPg day/NN ./pct
-He/PPS didn't /None live/VB in/IN a/AT world/NN of/IN perpetual/JJ peril/NN like/CS ours/PPgg ./pct
-He/PPS didn't /None know/VB anything/PN about/IN the/AT problems/NNS we/PPSS face/VB today/NR ./pct
+He/PPS didn't/DOD* live/VB in/IN a/AT world/NN of/IN perpetual/JJ peril/NN like/CS ours/PPgg ./pct
+He/PPS didn't/DOD* know/VB anything/PN about/IN the/AT problems/NNS we/PPSS face/VB today/NR ./pct
 No/RB ?/pct ?/pct
 Read/VB the/AT next/AP two/CD verses/NNS :/pct ``/pct When/WRB the/AT wicked/JJ ,/pct even/RB mine/PPg enemies/NNS and/CC my/PPg foes/NNS ,/pct came/VBD upon/IN me/PPO to/TO eat/VB up/RP my/PPg flesh/NN ,/pct they/PPSS stumbled/VBD and/CC fell/VBD ./pct
 Though/CS an/AT host/NN should/MD encamp/VB against/IN me/PPO ,/pct my/PPg heart/NN shall/MD not/NEG fear/VB :/pct though/CS war/NN should/MD rise/VB against/IN me/PPO ,/pct in/IN this/DT will/MD I/PPSS be/BE confident/JJ ''/pct ./pct
-That/DT is/BEZ almost/RB a/AT perfect/JJ description/NN of/IN the/AT predicament/NN in/IN which/WDT we/PPSS find/VB ourselves/PPLS today/NR ,/pct isn't /None it/PPS ?/pct ?/pct
+That/DT is/BEZ almost/RB a/AT perfect/JJ description/NN of/IN the/AT predicament/NN in/IN which/WDT we/PPSS find/VB ourselves/PPLS today/NR ,/pct isn't/BEZ* it/PPS ?/pct ?/pct
 Our/PPg enemy/NN is/BEZ also/RB threatening/VBG to/TO devour/VB us/PPO ./pct
 He/PPS has/HVZ already/RB devoured/VBN huge/JJ areas/NNS of/IN the/AT world/NN ,/pct putting/VBG men/NNS behind/IN concrete/NN walls/NNS and/CC iron/NN curtains/NNS and/CC barbed/VBN wire/NN ,/pct reducing/VBG them/PPO to/IN slavery/NN ,/pct systematically/RB crushing/VBG not/NEG only/RB their/PPg bodies/NNS but/CC their/PPg souls/NNS ,/pct and/CC shooting/VBG them/PPO to/IN death/NN if/CS they/PPSS try/VB to/TO escape/VB their/PPg prison/NN ./pct
 Yes/RB indeed/RB ,/pct we/PPSS too/RB can/MD see/VB a/AT warlike/JJ host/NN of/IN infidels/NNS encamped/VBN against/IN us/PPO ./pct
@@ -71,7 +71,7 @@ A/AT man/NN with/IN a/AT baby/NN in/IN his/PPg arms/NNS stood/VBD there/RB plead
 Another/DT man/NN tried/VBD to/TO swim/VB across/IN the/AT river/NN from/IN the/AT East/NR to/IN the/AT West/NR ,/pct but/CC was/BEDZ shot/VBN and/CC killed/VBN ./pct
 A/AT middle/JJ aged/VBN woman/NN opened/VBD a/AT window/NN on/IN the/AT third/OD floor/NN of/IN her/PPg house/NN which/WDT was/BEDZ behind/IN the/AT wall/NN ,/pct she/PPS threw/VBD out/RP a/AT few/AP belongings/NNS and/CC then/RB jumped/VBD ;/pct ;/pct
 she/PPS was/BEDZ fatally/RB injured/VBN ./pct
-The/AT entrance/NN to/IN a/AT church/NN has/HVZ been/BEN walled/VBN up/RP ,/pct so/CS that/CS the/AT congregation/NN ,/pct most/AP of/IN which/WDT is/BEZ in/IN the/AT western/JJ sector/NN ,/pct cannot /None worship/VB God/NP there/RB anymore/RB ./pct
+The/AT entrance/NN to/IN a/AT church/NN has/HVZ been/BEN walled/VBN up/RP ,/pct so/CS that/CS the/AT congregation/NN ,/pct most/AP of/IN which/WDT is/BEZ in/IN the/AT western/JJ sector/NN ,/pct cannot/MD* worship/VB God/NP there/RB anymore/RB ./pct
 Practically/RB everybody/PN in/IN Berlin/NP has/HVZ relatives/NNS and/CC friends/NNS that/WPS live/VB in/IN the/AT opposite/JJ part/NN of/IN the/AT city/NN ./pct
 People/NNS stand/VB at/IN the/AT wall/NN giving/VBG vent/NN to/IN their/PPg feelings/NNS ,/pct weeping/VBG ,/pct pounding/VBG it/PPO with/IN their/PPg fists/NNS ,/pct pleading/VBG for/IN loved/VBN ones/NNS ./pct
 But/CC the/AT enemy/NN answers/VBZ them/PPO from/IN loudspeakers/NNS that/WPS pour/VB out/RP Communist/NN propaganda/NN with/IN a/AT generous/JJ mixture/NN of/IN terrible/JJ profanity/NN ./pct

@@ -16,7 +16,7 @@ His/PPg four/CD weeks/NNS in/IN Italy/NP had/HVD turned/VBN into/IN nearer/RBR t
 He/PPS had/HVD returned/VBN to/IN the/AT pension/NN a/AT week/NN ago/RB ./pct
 Now/RB ,/pct he/PPS was/BEDZ just/RB in/IN the/AT late/JJ poems/NNS of/IN Holderlin/NP and/CC therefore/RB had/HVD most/AP of/IN the/AT nineteenth/OD century/NN before/IN him/PPO --/pct plus/CC next/AP semester's/NNg class/NN preparation/NN ./pct
 He/PPS was/BEDZ determined/VBN to/TO spend/VB an/AT industrious/JJ summer/NN ./pct
-Well/UH ,/pct maybe/RB Manas/NP wouldn't /None call/VB ./pct
+Well/UH ,/pct maybe/RB Manas/NP wouldn't/MD* call/VB ./pct
 Meredith's/NPg fingers/NNS slowed/VBD and/CC stopped/VBD over/IN a/AT line/NN before/IN him/PPO :/pct Sie/PPSS lacheln/VB ,/pct die/AT Schwarzen/JJ Hexen/NN ./pct
 The/AT menace/NN of/IN Manas/NP gradually/RB faded/VBD as/CS Meredith/NP asked/VBD himself/PPL should/MD he/PPS translate/VB it/PPO ,/pct '/pct How/WRB the/AT dark/JJ fates/NNS laughed/VBD '/pct ?/pct ?/pct
 Or/CC ,/pct more/QL rhythmically/RB ,/pct '/pct The/AT swarthy/JJ witches/NNS are/BER laughing/VBG '/pct ?/pct ?/pct
@@ -25,15 +25,15 @@ But/CC Nicolas/NP ,/pct too/RB ,/pct was/BEDZ being/BEG interrupted/VBN ,/pct th
 Not/NEG by/IN the/AT 11:00/CD sun/NN which/WDT had/HVD spread/VBN a/AT warmth/NN around/IN his/PPg spot/NN of/IN grass/NN in/IN the/AT English/JJ Gardens/NNS and/CC sent/VBD him/PPO off/RP to/TO sleep/VB ;/pct ;/pct
 but/CC by/IN a/AT blond/JJ girl/NN in/IN a/AT sweater/NN and/CC skirt/NN who/WPS stood/VBD a/AT few/AP yards/NNS off/RP and/CC tenderly/RB regarded/VBD him/PPO ./pct
 Should/MD she/PPS wake/VB him/PPO ?/pct ?/pct
-She/PPS didn't /None have/HV the/AT heart/NN ./pct
+She/PPS didn't/DOD* have/HV the/AT heart/NN ./pct
 Her/PPg heart/NN ,/pct her/PPg maternal/JJ feeling/NN ,/pct in/IN fact/NN her/PPg being/NN was/BEDZ too/QL busy/JJ expressing/VBG itself/PPL ,/pct as/CS quietly/RB thrilled/VBN by/IN this/DT sight/NN of/IN her/PPg Nicolas/NP curled/VBD asleep/RB under/IN a/AT blanket/NN ,/pct in/IN a/AT park/NN like/CS a/AT scene/NN from/IN Poussin/NP ./pct
 She/PPS was/BEDZ just/RB not/NEG able/JJ to/TO break/VB the/AT spell/NN ./pct
 (/pct Would/MD she/PPS have/HV been/BEN able/JJ to/TO had/HVD she/PPS known/VBN that/CS the/AT blanket/NN belonged/VBD to/IN a/AT young/JJ ballet/NN dancer/NN Nicolas/NP had/HVD found/VBN his/PPg first/OD night/NN in/IN one/CD of/IN Walter's/NPg marked/VBN bars/NNS ?/pct ?/pct
-Nicolas/NP :/pct ``/pct Look/VB ,/pct Nicolas/NP doesn't /None go/VB to/IN bed/NN with/IN boys/NNS --/pct no/AT sex/NN ,/pct see/VB ?/pct ?/pct
+Nicolas/NP :/pct ``/pct Look/VB ,/pct Nicolas/NP doesn't/DOZ* go/VB to/IN bed/NN with/IN boys/NNS --/pct no/AT sex/NN ,/pct see/VB ?/pct ?/pct
 So/RB if/CS all/ABN these/DTS beers/NNS was/BEDZ to/TO get/VB me/PPO in/IN bed/NN ,/pct man/NN ,/pct you/PPSS just/RB spent/VBD a/AT lot/NN of/IN money/NN ''/pct ./pct
 Ballet/NN dancer/NN :/pct Protests/NNS ,/pct tears/NNS ,/pct and/CC ``/pct take/VB what/WDT you/PPSS want/VB ,/pct Nicolas/NP ,/pct I/PPSS am/BEM a/AT dancer/NN ,/pct you/PPSS are/BER a/AT poet/NN ,/pct it/PPS is/BEZ all/ABN beautiful/JJ ''/pct ./pct
 To/IN this/DT meek/JJ conjugation/NN Nicolas/NP had/HVD replied/VBN ,/pct ``/pct O.K./UH I/PPSS can/MD use/VB this/DT blanket/NN ./pct
-And/CC when/WRB you/PPSS get/VB off/IN this/DT job/NN tonight/NR ,/pct well/UH ,/pct you/PPSS can/MD gimme /None something/PN to/TO eat/VB ''/pct ./pct
+And/CC when/WRB you/PPSS get/VB off/IN this/DT job/NN tonight/NR ,/pct well/UH ,/pct you/PPSS can/MD gimme/VBPPO something/PN to/TO eat/VB ''/pct ./pct
 And/CC ,/pct as/CS a/AT matter/NN of/IN fact/NN ,/pct Nicolas/NP had/HVD slept/VBN in/IN the/AT park/NN only/RB part/NN of/IN one/CD night/NN ,/pct when/WRB he/PPS discovered/VBD that/CS Munich's/NPg early/JJ mornings/NNS even/RB in/IN summer/NN are/BER laden/JJ with/IN dew/NN ./pct
 He/PPS had/HVD always/RB known/VBN how/WRB to/TO find/VB a/AT bed/NN ,/pct and/CC on/IN his/PPg own/JJ terms/NNS ./pct
 He/PPS used/VBD the/AT blanket/NN for/IN late/JJ morning/NN naps/NNS when/WRB hosts/NNS of/IN the/AT night/NN had/HVD gone/VBN off/RP to/IN jobs/NNS and/CC proved/VBD reluctant/JJ to/TO leave/VB him/PPO in/IN their/PPg small/JJ rooms/NNS with/IN their/PPg few/AP possessions/NNS ./pct
@@ -104,7 +104,7 @@ The/AT result/NN was/BEDZ grace/NN and/CC modesty/NN ./pct
 As/CS she/PPS was/BEDZ rather/QL tired/VBN this/DT evening/NN ,/pct her/PPg simple/JJ ``/pct Thank/VB you/PPO for/IN the/AT use/NN of/IN your/PPg bath/NN ''/pct --/pct when/WRB she/PPS sat/VBD down/RP opposite/IN him/PPO --/pct spoken/VBN in/IN a/AT low/JJ voice/NN ,/pct came/VBD across/RB with/IN coolnesses/NNS of/IN intelligence/NN and/CC control/NN ./pct
 Meredith/NP began/VBD falling/VBG in/IN love/NN ./pct
 Soup/NN :/pct ``/pct Only/RB this/DT morning/NN ''/pct ;/pct ;/pct
-veal/NN cutlets/NNS :/pct ``/pct Oh/UH ,/pct I/PPSS couldn't /None possibly/RB eat/VB all/ABN this/DT ''/pct !/pct !/pct
+veal/NN cutlets/NNS :/pct ``/pct Oh/UH ,/pct I/PPSS couldn't/MD* possibly/RB eat/VB all/ABN this/DT ''/pct !/pct !/pct
 Wine/NN :/pct ``/pct Then/RB you/PPSS were/BED typing/VBG poems/NNS this/DT afternoon/NN ''/pct ?/pct ?/pct
 Fruit/NN compote/NN :/pct ``/pct If/CS you/PPSS think/VB I/PPSS would/MD understand/VB it/PPO ''/pct ;/pct ;/pct
 a/AT smile/NN ./pct
@@ -114,9 +114,9 @@ Having/HVG opened/VBN the/AT windows/NNS onto/IN the/AT terrace/NN ,/pct lit/VBN
 Opening/VBG these/DTS he/PPS brought/VBD out/RP a/AT schnapps/NN bottle/NN and/CC small/JJ gold/NN thimble-sized/JJ glasses/NNS hidden/VBN inside/IN it/PPO ./pct
 ``/pct I/PPSS think/VB the/AT maids/NNS tipple/VB in/IN the/AT afternoon/NN ''/pct ./pct
 ``/pct Those/DTS sweet/JJ girls/NNS ?/pct ?/pct
-Oh/UH you're /None joking/VBG ./pct
+Oh/UH you're/PPSSBER joking/VBG ./pct
 It/PPS tastes/VBZ a/AT little/AP like/CS poppyseed/NN ./pct
-What's /None its/PPg name/NN ?/pct ?/pct
+What's/WDTBEZ its/PPg name/NN ?/pct ?/pct
 Steinhager/NP ''/pct She/PPS whispered/VBD Steinhager/NP to/IN herself/PPL ,/pct several/AP times/NNS ,/pct memorizing/VBG it/PPO ./pct
 ``/pct Would/MD you/PPSS first/RB read/VB the/AT poem/NN aloud/RB to/IN me/PPO and/CC then/RB let/VB me/PPO read/VB it/PPO to/IN myself/PPL ''/pct ?/pct ?/pct
 Meredith's/NPg voice/NN was/BEDZ always/RB deep/RB ,/pct with/IN rough/JJ bass/NN notes/NNS in/IN it/PPO ;/pct ;/pct
@@ -126,16 +126,16 @@ The/AT husband/NN points/VBZ the/AT steps/NNS out/RP with/IN his/PPg flashlight/
 )/pct But/CC he/PPS read/VBD on/RP ./pct
 In/IN the/AT bedroom/NN before/CS the/AT husband/NN and/CC wife/NN find/VB their/PPg way/NN to/IN the/AT bed/NN ,/pct the/AT lights/NNS go/VB on/RP :/pct ``/pct In/IN dull/JJ domestic/JJ radiance/NN I/PPSS watch/VB her/PPO staring/VBG face/NN ,/pct still/QL blind/JJ ,/pct Start/VB wincing/VBG in/IN obedience/NN To/IN dirty/JJ waters/NNS ,/pct counters/NNS ,/pct pots/NNS and/CC pans/NNS ,/pct Waiting/VBG below/IN stairs/NNS ,/pct in/IN her/PPg mind/NN ''/pct ./pct
 Mary/NP Jane/NP took/VBD the/AT page/NN from/IN him/PPO and/CC began/VBD reading/VBG it/PPO ,/pct moving/VBG her/PPg lips/NNS with/IN the/AT words/NNS ./pct
-``/pct Oh/UH ,/pct it's /None that/DT myth/NN ,/pct about/IN Orpheus/NP and/CC What/WDT is/BEZ her/PPg name/NN ?/pct ?/pct
+``/pct Oh/UH ,/pct it's/PPSBEZ that/DT myth/NN ,/pct about/IN Orpheus/NP and/CC What/WDT is/BEZ her/PPg name/NN ?/pct ?/pct
 I/PPSS can/MD never/RB pronounce/VB it/PPO ''/pct ./pct
 She/PPS repeated/VBD ``/pct Eurydice/NP ''/pct ./pct
 The/AT third/OD time/NN rather/QL urgently/RB ./pct
 But/CC with/IN her/PPg hand/NN poem/NN again/RB ./pct
-She/PPS raised/VBD her/PPO face/NN and/CC nodded/VBD ,/pct ``/pct It's /None sweet/JJ ,/pct and/CC very/QL sad/JJ ''/pct ./pct
+She/PPS raised/VBD her/PPO face/NN and/CC nodded/VBD ,/pct ``/pct It's/PPSBEZ sweet/JJ ,/pct and/CC very/QL sad/JJ ''/pct ./pct
 They/PPSS discussed/VBD the/AT way/NN people/NNS never/RB tell/VB each/DT other/AP the/AT things/NNS on/IN their/PPg minds/NNS ./pct
 They/PPSS finished/VBD the/AT small/JJ bottle/NN of/IN Steinhager/NP ./pct
 She/PPS confessed/VBD she/PPS was/BEDZ unhappy/JJ ,/pct he/PPS asked/VBD was/BEDZ it/PPS her/PPg husband/NN ?/pct ?/pct
-She/PPS began/VBD to/TO explain/VB ,/pct ``/pct There/EX was/BEDZ this/DT poet/NN ,/pct in/IN Italy/NP ''/pct He/PPS interrupted/VBD ,/pct ``/pct Please/UH don't /None judge/VB all/ABN poets/NNS ''/pct ./pct
+She/PPS began/VBD to/TO explain/VB ,/pct ``/pct There/EX was/BEDZ this/DT poet/NN ,/pct in/IN Italy/NP ''/pct He/PPS interrupted/VBD ,/pct ``/pct Please/UH don't/DO* judge/VB all/ABN poets/NNS ''/pct ./pct
 They/PPSS smiled/VBD ./pct
 At/IN her/PPg door/NN ,/pct two/CD or/CC three/CD hours/NNS later/RBR ,/pct Mary/NP Jane/NP whispered/VBD ,/pct ``/pct Everyone/PN is/BEZ asleep/RB ''/pct ./pct
 Kissing/VBG her/PPO he/PPS whispered/VBD ,/pct several/AP times/NNS ,/pct ``/pct Eurydice/NP ''/pct ./pct

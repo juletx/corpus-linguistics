@@ -1,7 +1,7 @@
 The/AT Bishop/NN looked/VBD at/IN him/PPO coldly/RB and/CC said/VBD ,/pct ``/pct Take/VB it/PPO or/CC leave/VB it/PPO ''/pct !/pct !/pct
 Literally/RB ,/pct there/EX was/BEDZ nothing/PN else/RB to/TO do/DO ./pct
 He/PPS was/BEDZ caught/VBN in/IN a/AT machine/NN ./pct
-But/CC Sojourner/NP was/BEDZ not/NEG easily/RB excited/VBN or/CC upset/VBN and/CC said/VBD quite/QL calmly/RB :/pct ``/pct Let's /None go/VB and/CC see/VB what/WDT it's /None like/CS ''/pct ./pct
+But/CC Sojourner/NP was/BEDZ not/NEG easily/RB excited/VBN or/CC upset/VBN and/CC said/VBD quite/QL calmly/RB :/pct ``/pct Let's/VBPPO go/VB and/CC see/VB what/WDT it's/PPSBEZ like/CS ''/pct ./pct
 Annisberg/NP was/BEDZ about/RB seventy-five/CD miles/NNS west/NR of/IN Birmingham/NP ,/pct near/IN the/AT Georgia/NP border/NN and/CC on/IN the/AT Tallahoosa/NP River/NN ,/pct a/AT small/JJ and/CC dirty/JJ stream/NN ./pct
 The/AT city/NN was/BEDZ a/AT center/NN of/IN manufacture/NN ,/pct especially/RB in/IN textiles/NNS ,/pct and/CC also/RB because/RB of/IN the/AT beauty/NN of/IN some/DTI of/IN its/PPg surroundings/NNS ,/pct a/AT residence/NN for/IN many/AP owners/NNS of/IN the/AT great/JJ industries/NNS in/IN north/JJ Alabama/NP ./pct
 But/CC it/PPS had/HVD ,/pct as/CS was/BEDZ usual/JJ in/IN southern/JJ cities/NNS of/IN this/DT sort/NN ,/pct a/AT Black/JJ Bottom/NN ,/pct a/AT low/JJ region/NN near/IN the/AT river/NN where/WRB the/AT Negroes/NPS lived/VBD --/pct servants/NNS and/CC laborers/NNS huddled/VBN together/RB in/IN a/AT region/NN with/IN no/AT sewage/NN save/IN the/AT river/NN ,/pct where/WRB streets/NNS and/CC sidewalks/NNS were/BED neglected/VBN and/CC where/WRB there/EX was/BEDZ much/AP poverty/NN and/CC crime/NN ./pct
@@ -93,25 +93,25 @@ It/PPS was/BEDZ going/VBG to/TO stay/VB forever/RB ./pct
 It/PPS was/BEDZ hardly/RB possible/JJ to/TO get/VB any/DTI argument/NN on/IN the/AT subject/NN ./pct
 As/CS for/IN rebuilding/VBG ,/pct well/UH ,/pct that/DT might/MD be/BE looked/VBN into/IN ,/pct but/CC there/EX was/BEDZ no/AT hurry/NN ,/pct no/AT hurry/NN at/IN all/ABN ./pct
 Wilson/NP again/RB went/VBD downtown/NR to/IN a/AT different/JJ banker/NN ,/pct an/AT intelligent/JJ young/JJ white/JJ man/NN who/WPS seemed/VBD rather/QL sympathetic/JJ ,/pct but/CC he/PPS shook/VBD his/PPg head/NN ./pct
-``/pct Reverend/NP ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct I/PPSS think/VB you/PPSS don't /None quite/RB understand/VB the/AT situation/NN here/RB ./pct
-Don't /None you/PPO see/VB the/AT amount/NN of/IN money/NN that/WPS has/HVZ been/BEN invested/VBN by/IN whites/NNS around/IN that/DT church/NN ?/pct ?/pct
+``/pct Reverend/NP ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct I/PPSS think/VB you/PPSS don't/DO* quite/RB understand/VB the/AT situation/NN here/RB ./pct
+Don't/DO* you/PPO see/VB the/AT amount/NN of/IN money/NN that/WPS has/HVZ been/BEN invested/VBN by/IN whites/NNS around/IN that/DT church/NN ?/pct ?/pct
 Tenements/NNS ,/pct stores/NNS ,/pct saloons/NNS ,/pct some/DTI gambling/NN ,/pct I/PPSS hope/VB not/NEG too/QL much/AP ./pct
 The/AT colored/VBN people/NNS are/BER getting/VBG employment/NN at/IN Kent/NP House/NN and/CC other/AP places/NNS ,/pct and/CC they/PPSS are/BER near/IN their/PPg places/NNS of/IN employment/NN ./pct
-When/WRB a/AT city/NN has/HVZ arranged/VBN things/NNS like/VB this/DT you/PPSS cannot /None easily/RB change/VB them/PPO ./pct
+When/WRB a/AT city/NN has/HVZ arranged/VBN things/NNS like/VB this/DT you/PPSS cannot/MD* easily/RB change/VB them/PPO ./pct
 Now/RB ,/pct if/CS I/PPSS were/BED you/PPSS I/PPSS would/MD just/RB plan/VB to/TO repair/VB the/AT old/JJ church/NN so/CS it/PPS would/MD last/VB for/IN five/CD or/CC ten/CD years/NNS ./pct
 By/IN that/DT time/NN ,/pct perhaps/RB something/PN better/JJR can/MD be/BE done/VBN ''/pct ./pct
 Then/RB Wilson/NP asked/VBD ,/pct ``/pct What/WDT about/IN this/DT Kent/NP House/NN which/WDT you/PPSS mention/VB ?/pct ?/pct
-I/PPSS don't /None understand/VB why/WRB a/AT white/JJ hotel/NN should/MD be/BE down/IN here/RB ''/pct ./pct
-The/AT young/JJ banker/NN looked/VBD at/IN him/PPO with/IN a/AT certain/AP surprise/NN ,/pct and/CC then/RB he/PPS said/VBD flatly/RB :/pct ``/pct I'm /None afraid/JJ I/PPSS can't /None tell/VB you/PPO anything/PN in/IN particular/AP about/IN Kent/NP House/NN ./pct
-You'll /None have/HV to/TO find/VB out/RP about/IN it/PPO on/IN your/PPg own/JJ ./pct
+I/PPSS don't/DO* understand/VB why/WRB a/AT white/JJ hotel/NN should/MD be/BE down/IN here/RB ''/pct ./pct
+The/AT young/JJ banker/NN looked/VBD at/IN him/PPO with/IN a/AT certain/AP surprise/NN ,/pct and/CC then/RB he/PPS said/VBD flatly/RB :/pct ``/pct I'm/PPSSBEM afraid/JJ I/PPSS can't/MD* tell/VB you/PPO anything/PN in/IN particular/AP about/IN Kent/NP House/NN ./pct
+You'll/PPSSMD have/HV to/TO find/VB out/RP about/IN it/PPO on/IN your/PPg own/JJ ./pct
 Hope/VB to/TO see/VB you/PPO again/RB ''/pct ./pct
 And/CC he/PPS dismissed/VBD the/AT colored/VBN pastor/NN ./pct
 It/PPS was/BEDZ next/AP day/NN that/CS Sojourner/NP came/VBD and/CC sat/VBD beside/IN him/PPO and/CC took/VBD his/PPg hand/NN ./pct
 She/PPS said/VBD ,/pct ``/pct My/PPg dear/NN ,/pct do/DO you/PPSS know/VB what/WDT Kent/NP House/NN is/BEZ ''/pct ?/pct ?/pct
-``/pct No/RB ''/pct ,/pct said/VBD Wilson/NP ,/pct ``/pct I/PPSS don't /None ./pct
+``/pct No/RB ''/pct ,/pct said/VBD Wilson/NP ,/pct ``/pct I/PPSS don't/DO* ./pct
 I/PPSS was/BEDZ just/RB asking/VBG about/IN it/PPO ./pct
 What/WDT is/BEZ it/PPS ''/pct ?/pct ?/pct
-``/pct It's /None a/AT house/NN of/IN prostitution/NN for/IN white/JJ men/NNS with/IN white/JJ girls/NNS as/CS inmates/NNS ./pct
+``/pct It's/PPSBEZ a/AT house/NN of/IN prostitution/NN for/IN white/JJ men/NNS with/IN white/JJ girls/NNS as/CS inmates/NNS ./pct
 They/PPSS hire/VB a/AT good/JJ deal/NN of/IN local/JJ labor/NN ,/pct including/IN two/CD members/NNS of/IN our/PPg Trustee/NN Board/NN ./pct
 They/PPSS buy/VB some/DTI supplies/NNS from/IN our/PPg colored/VBN grocers/NNS and/CC they/PPSS are/BER patronized/VBN by/IN some/DTI of/IN the/AT best/JJT white/JJ gentlemen/NNS in/IN town/NN ''/pct ./pct
 Wilson/NP stared/VBD at/IN her/PPO ./pct

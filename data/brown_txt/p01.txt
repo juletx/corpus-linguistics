@@ -6,7 +6,7 @@ or/CC the/AT smell/NN of/IN thick/JJ tomato/NN paste/NN --/pct the/AT ripe/JJ sm
 Or/CC the/AT surging/VBG whirling/VBG sounds/NNS of/IN bats/NNS at/IN night/NN ,/pct when/WRB their/PPg black/JJ bodies/NNS dived/VBD into/IN the/AT blackness/NN above/IN and/CC below/IN the/AT amber/JJ street/NN lights/NNS ./pct
 Or/CC the/AT bay/NN of/IN female/NN dogs/NNS in/IN heat/NN ./pct
 They/PPSS never/RB called/VBD him/PPO by/IN name/NN ,/pct although/CS he/PPS had/HVD one/PN ./pct
-Filippo/NP Rossi/NP ,/pct that's /None what/WDT he/PPS was/BEDZ called/VBN in/IN the/AT old/JJ country/NN ;/pct ;/pct
+Filippo/NP Rossi/NP ,/pct that's/DTBEZ what/WDT he/PPS was/BEDZ called/VBN in/IN the/AT old/JJ country/NN ;/pct ;/pct
 but/CC here/RB he/PPS was/BEDZ just/RB Signore/NP or/CC the/AT Old/JJ Man/NN ./pct
 But/CC this/DT was/BEDZ not/NEG unusual/JJ ,/pct because/CS youth/NN in/IN these/DTS quarters/NNS was/BEDZ always/RB pushed/VBN at/IN a/AT distance/NN from/IN its/PPg elders/NNS ./pct
 Youth/NN obeyed/VBD when/WRB commanded/VBN ./pct
@@ -16,11 +16,11 @@ The/AT only/AP thing/NN unusual/JJ about/IN the/AT Old/JJ Man/NN had/HVD long/JJ
 But/CC the/AT past/NN was/BEDZ dead/JJ here/RB as/CS the/AT present/JJ was/BEDZ dead/JJ ./pct
 Once/CS the/AT Old/JJ Man/NN had/HVD had/HVN a/AT wife/NN ./pct
 And/CC once/CS she/PPS ,/pct too/RB ,/pct ignored/VBD him/PPO ./pct
-With/IN a/AT tiny/JJ fur-piece/NN wrapped/VBD around/IN her/PPg shoulders/NNS ,/pct she/PPS wiggled/VBD her/PPg satin-covered/JJ buttocks/NNS down/IN the/AT street/NN before/IN him/PPO and/CC didn't /None stop/VB ./pct
+With/IN a/AT tiny/JJ fur-piece/NN wrapped/VBD around/IN her/PPg shoulders/NNS ,/pct she/PPS wiggled/VBD her/PPg satin-covered/JJ buttocks/NNS down/IN the/AT street/NN before/IN him/PPO and/CC didn't/DOD* stop/VB ./pct
 In/IN one/CD hand/NN she/PPS clutched/VBD a/AT hundred/CD dollar/NN bill/NN and/CC in/IN the/AT other/AP a/AT straw/NN suitcase/NN ./pct
 The/AT way/NN she/PPS strutted/VBD down/IN the/AT street/NN ,/pct the/AT Old/JJ Man/NN would/MD have/HV been/BEN blind/JJ not/NEG to/TO have/HV noticed/VBN both/ABX ./pct
 Without/IN looking/VBG at/IN him/PPO ,/pct without/IN looking/VBG at/IN anything/PN except/IN Drexel/NP Street/NN directly/RB in/IN front/NN of/IN her/PPO ,/pct she/PPS climbed/VBD up/RP into/IN one/CD of/IN those/DTS orange/JJ streetcars/NNS ,/pct rode/VBD away/RB in/IN it/PPO ,/pct and/CC never/RB came/VBD back/RB ./pct
-``/pct But/CC she/PPS shouldn't /None have/HV come/VBN here/RB in/IN the/AT first/OD place/NN ''/pct ,/pct the/AT women/NNS had/HVD said/VBN ./pct
+``/pct But/CC she/PPS shouldn't/MD* have/HV come/VBN here/RB in/IN the/AT first/OD place/NN ''/pct ,/pct the/AT women/NNS had/HVD said/VBN ./pct
 ``/pct No/RB ,/pct no/RB ./pct
 Not/NEG that/DT one/PN ./pct
 She/PPS thought/VBD she/PPS was/BEDZ bigger/JJR than/CS we/PPSS are/BER because/CS she/PPS came/VBD from/IN Torino/NP ''/pct ./pct
@@ -28,7 +28,7 @@ She/PPS thought/VBD she/PPS was/BEDZ bigger/JJR than/CS we/PPSS are/BER because/
 She/PPS gave/VBD herself/PPL fancy/JJ airs/NNS !/pct !/pct
 Just/RB because/CS she/PPS had/HVD a/AT part/NN on/IN the/AT stage/NN in/IN the/AT old/JJ country/NN ,/pct she/PPS thought/VBD she/PPS could/MD carry/VB her/PPg head/NN higher/RBR than/CS ours/PPgg ''/pct ./pct
 They/PPSS had/HVD slapped/VBN their/PPg thighs/NNS ./pct
-``/pct It's /None not/NEG for/IN making/VBG pretty/JJ speeches/NNS about/IN Dante/NP those/DTS actresses/NNS get/VB paid/VBN so/QL good/RB ''/pct ./pct
+``/pct It's/PPSBEZ not/NEG for/IN making/VBG pretty/JJ speeches/NNS about/IN Dante/NP those/DTS actresses/NNS get/VB paid/VBN so/QL good/RB ''/pct ./pct
 ``/pct Henh/UH ''/pct !/pct !/pct
 Calloused/VBN fingers/NNS ,/pct caressed/VBN only/RB by/IN the/AT smoothness/NN of/IN polished/VBN rosaries/NNS ,/pct had/HVD swayed/VBN excitedly/RB beneath/IN puckered/VBN chins/NNS where/WRB tiny/JJ black/JJ hairs/NNS sprouted/VBD ,/pct never/RB to/TO be/BE tweezed/VBN away/RB ./pct
 Mauve-colored/JJ mouths/NNS that/WPS had/HVD never/RB known/VBN anything/PN sweeter/JJR than/CS the/AT taste/NN of/IN new/JJ wine/NN and/CC the/AT passion/NN of/IN man's/NNg tongue/NN had/HVD not/NEG smiled/VBN ,/pct but/CC had/HVD condemned/VBN again/RB and/CC again/RB ./pct
@@ -41,7 +41,7 @@ The/AT women/NNS said/VBD they/PPSS had/HVD seen/VBN him/PPO wave/VB an/AT exhau
 but/CC he/PPS might/MD have/HV been/BEN shooing/VBG away/RB the/AT fleas/NNS that/WPS hopped/VBD from/IN his/PPg yellow/JJ dog/NN onto/IN him/PPO ./pct
 (/pct He/PPS was/BEDZ never/RB without/IN that/DT dog/NN ./pct
 )/pct And/CC his/PPg eyes/NNS --/pct those/DTS miniature/JJ sundials/NNS of/IN variegated/VBN yellow/JJ --/pct had/HVD not/NEG altered/VBN their/PPg expression/NN or/CC direction/NN ./pct
-The/AT Old/JJ Man's/NNg very/AP soul/NN could/MD have/HV left/VBN him/PPO and/CC flown/VBN down/IN that/DT street/NN ,/pct but/CC he/PPS wouldn't /None have/HV had/HVN anyone/PN know/VB it/PPO ./pct
+The/AT Old/JJ Man's/NNg very/AP soul/NN could/MD have/HV left/VBN him/PPO and/CC flown/VBN down/IN that/DT street/NN ,/pct but/CC he/PPS wouldn't/MD* have/HV had/HVN anyone/PN know/VB it/PPO ./pct
 Perhaps/RB he/PPS had/HVD known/VBN then/RB where/WRB that/DT hundred/CD dollar/NN bill/NN had/HVD come/VBN from/IN and/CC where/WRB it/PPS was/BEDZ taking/VBG his/PPg wife/NN ./pct
 But/CC when/WRB he/PPS called/VBD for/IN his/PPg withered/VBN ,/pct wrinkled/VBN sister/NN Rose/NP to/TO care/VB for/IN him/PPO and/CC the/AT children/NNS ,/pct had/HVD he/PPS guessed/VBD that/CS all/ABN he/PPS would/MD remember/VB of/IN his/PPg woman/NN was/BEDZ the/AT memory/NN of/IN her/PPO climbing/VBG into/IN that/DT streetcar/NN ?/pct ?/pct
 There/EX seemed/VBD to/TO be/BE a/AT contemptuous/JJ purpose/NN in/IN the/AT way/NN he/PPS sat/VBD there/RB with/IN his/PPg eyes/NNS glued/VBN to/IN Drexel/NP Street/NN and/CC his/PPg back/NN in/IN opposition/NN to/IN the/AT church/NN behind/IN him/PPO ./pct
@@ -74,9 +74,9 @@ It/PPS was/BEDZ as/CS though/CS he/PPS had/HVD made/VBN a/AT pact/NN with/IN the
 He/PPS was/BEDZ holding/VBG out/RP for/IN something/PN ./pct
 He/PPS was/BEDZ determined/VBN to/TO hold/VB out/RP ./pct
 The/AT Old/JJ Man's/NNg son/NN threw/VBD himself/PPL down/RP ,/pct belly/NN first/RB ,/pct upon/IN a/AT concrete/NN step/NN ,/pct taking/VBG in/RP the/AT coolness/NN of/IN it/PPO ,/pct and/CC dreaming/VBG of/IN the/AT day/NN he/PPS would/MD be/BE rich/JJ ./pct
-At/IN fifteen/CD he/PPS didn't /None care/VB that/CS he/PPS had/HVD no/AT mother/NN ,/pct that/CS he/PPS couldn't /None remember/VB her/PPg face/NN or/CC her/PPg touch/NN ;/pct ;/pct
+At/IN fifteen/CD he/PPS didn't/DOD* care/VB that/CS he/PPS had/HVD no/AT mother/NN ,/pct that/CS he/PPS couldn't/MD* remember/VB her/PPg face/NN or/CC her/PPg touch/NN ;/pct ;/pct
 neither/CC did/DOD he/PPS care/VB that/CS Aunt/NN Rose/NP provided/VBD for/IN him/PPO ./pct
-He/PPS was/BEDZ named/VBN Pompeii/NP as/CS a/AT tribute/NN to/IN his/PPg heritage/NN ,/pct and/CC he/PPS couldn't /None have/HV cared/VBN less/AP about/IN that/DT either/RB ./pct
+He/PPS was/BEDZ named/VBN Pompeii/NP as/CS a/AT tribute/NN to/IN his/PPg heritage/NN ,/pct and/CC he/PPS couldn't/MD* have/HV cared/VBN less/AP about/IN that/DT either/RB ./pct
 To/IN him/PPO life/NN was/BEDZ a/AT restless/JJ boredom/NN that/WPS began/VBD with/IN the/AT rising/VBG sun/NN and/CC ended/VBD only/RB with/IN sleep/NN ./pct
 When/WRB he/PPS would/MD be/BE a/AT man/NN ,/pct he/PPS would/MD be/BE a/AT rich/JJ man/NN ./pct
 He/PPS would/MD not/NEG be/BE like/CS the/AT ``/pct rich/JJ Americans/NPS ''/pct who/WPS lived/VBD in/IN white-columned/JJ houses/NNS on/IN the/AT other/AP side/NN of/IN the/AT park/NN ./pct
@@ -103,7 +103,7 @@ Even/RB though/CS the/AT boy/NN could/MD not/NEG see/VB them/PPO ,/pct he/PPS kn
 He/PPS was/BEDZ never/RB sure/JJ they/PPSS fully/RB took/VBD him/PPO in/RP ./pct
 Pompeii/NP called/VBD again/RB ,/pct ``/pct Laura/NP ''/pct !/pct !/pct
 But/CC the/AT only/AP answer/NN that/WPS reached/VBD him/PPO was/BEDZ the/AT screeching/VBG of/IN the/AT porch/NN rail/NN from/IN her/PPg leg/NN moving/VBG against/IN it/PPO ./pct
-``/pct She's /None in/IN a/AT mood/NN ''/pct ,/pct he/PPS thought/VBD ``/pct There's /None not/NEG a/AT month/NN she/PPS doesn't /None get/VB herself/PPL in/IN a/AT mood/NN ''/pct ./pct
+``/pct She's/PPSBEZ in/IN a/AT mood/NN ''/pct ,/pct he/PPS thought/VBD ``/pct There's/EXBEZ not/NEG a/AT month/NN she/PPS doesn't/DOZ* get/VB herself/PPL in/IN a/AT mood/NN ''/pct ./pct
 Well/UH ,/pct what/WDT did/DOD that/DT matter/VB when/WRB the/AT sun/NN was/BEDZ shining/VBG and/CC there/EX were/BED dreams/NNS to/TO dream/VB about/RB ?/pct ?/pct
 And/CC as/CS for/IN his/PPg pipe/NN ,/pct if/CS he/PPS wanted/VBD to/TO smoke/VB one/PN ,/pct nobody/PN would/MD stop/VB him/PPO ./pct
 Not/NEG even/RB Laura/NP ./pct
@@ -111,7 +111,7 @@ Suddenly/RB he/PPS was/BEDZ interrupted/VBN in/IN his/PPg daydreaming/NN by/IN a
 Above/IN the/AT tongue/NN ,/pct an/AT aged/VBN yellow/JJ eye/NN ,/pct sallow/JJ and/CC time-cast/JJ ,/pct encrusted/VBN within/IN a/AT sphere/NN of/IN marbleized/VBN pink/JJ skin/NN ,/pct stared/VBD unfalteringly/RB at/IN him/PPO ./pct
 ``/pct Christ/UH sake/UH ,/pct goat/NN ,/pct git/VB ''/pct !/pct !/pct
 But/CC the/AT goat/NN would/MD not/NEG ./pct
-``/pct You're /None boiling/VBG milk/NN ,/pct ain't /None you/PPO ''/pct ?/pct ?/pct
+``/pct You're/PPSSBER boiling/VBG milk/NN ,/pct ain't/BER* you/PPO ''/pct ?/pct ?/pct
 Soothing/VBG it/PPO with/IN his/PPg hand/NN ,/pct knowing/VBG the/AT whiskered/JJ jowls/NNS and/CC the/AT swollen/VBN smoothness/NN of/IN teats/NNS that/WPS wrinkled/VBD expectantly/RB to/IN his/PPg touch/NN ./pct
 Pompeii/NP rolled/VBD over/RP ./pct
 His/PPg head/NN undulated/VBD gradually/RB ,/pct covering/VBG space/NN ,/pct to/TO come/VB straining/VBG beneath/IN the/AT taut/JJ belly/NN within/IN the/AT warmth/NN of/IN those/DTS teats/NNS ./pct
@@ -121,7 +121,7 @@ Above/IN him/PPO slid/VBD the/AT evasive/JJ shadow/NN of/IN a/AT storm/NN cloud/
 Its/PPg form/NN was/BEDZ a/AT heavy/JJ figure/NN in/IN a/AT fluttering/VBG soutane/NN ./pct
 But/CC the/AT boy/NN could/MD see/VB only/RB the/AT goat's/NNg belly/NN ./pct
 The/AT Old/JJ Man/NN near/IN the/AT corner/NN let/VBD the/AT shadow/NN pass/NN over/IN him/PPO ,/pct sensing/VBG something/PN portentous/JJ in/IN it/PPO ./pct
-He/PPS knew/VBD it/PPS was/BEDZ there/RB ,/pct knew/VBD also/RB what/WDT it/PPS was/BEDZ about/IN ,/pct but/CC he/PPS wouldn't /None raise/VB a/AT finger/NN except/IN to/TO smooth/VB his/PPg yellow/JJ dog's/NNg back/NN ./pct
+He/PPS knew/VBD it/PPS was/BEDZ there/RB ,/pct knew/VBD also/RB what/WDT it/PPS was/BEDZ about/IN ,/pct but/CC he/PPS wouldn't/MD* raise/VB a/AT finger/NN except/IN to/TO smooth/VB his/PPg yellow/JJ dog's/NNg back/NN ./pct
 There/EX would/MD be/BE time/NN enough/AP ,/pct perhaps/RB the/AT Old/JJ Man/NN reassured/VBD himself/PPL ,/pct to/TO pay/VB the/AT devil/NN his/PPg due/NN ./pct
 Time/NN enough/AP to/TO give/VB up/RP his/PPg soul/NN ./pct
 In/IN the/AT meantime/NN ,/pct six/CD sandals/NNS ,/pct stained/VBN an/AT ocher/NN ,/pct the/AT same/AP color/NN as/CS Pompeii's/NPg shaved/VBN hair/NN ,/pct edged/VBD up/RP close/RB to/IN him/PPO ./pct

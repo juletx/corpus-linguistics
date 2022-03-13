@@ -1,62 +1,62 @@
 She/PPS called/VBD then/RB to/TO say/VB she/PPS had/HVD a/AT baby-sitter/NN for/IN that/DT night/NN ./pct
 ``/pct Shirley/NP appreciated/VBD the/AT chance/NN to/TO make/VB some/DTI money/NN ./pct
 Such/ABL a/AT nice/JJ little/JJ thing/NN --/pct lives/VBZ right/QL in/IN the/AT building/NN ''/pct ./pct
-``/pct That's /None swell/JJ ''/pct ,/pct I/PPSS said/VBD sweetly/RB ./pct
+``/pct That's/DTBEZ swell/JJ ''/pct ,/pct I/PPSS said/VBD sweetly/RB ./pct
 I/PPSS could/MD get/VB along/RB without/IN that/DT three/CD dollars/NNS ./pct
 In/IN some/DTI ways/NNS it/PPS was/BEDZ worth/JJ being/BEG out/IN the/AT money/NN --/pct just/RB knowing/VBG I/PPSS was/BEDZ no/AT longer/JJR obligated/VBD to/IN Nadine/NP !/pct !/pct
 It/PPS was/BEDZ past/IN midnight/NN and/CC we/PPSS were/BED in/IN bed/NN when/WRB the/AT phone/NN rang/VBD ./pct
 I/PPSS stumbled/VBD through/IN the/AT hall/NN ,/pct wondering/VBG who/WPS would/MD be/BE calling/VBG at/IN this/DT hour/NN ./pct
 I/PPSS answered/VBD to/TO find/VB Nadine/NP at/IN the/AT other/AP end/NN ./pct
 ``/pct You/PPSS scared/VBD me/PPO half/ABN to/IN death/NN ''/pct ,/pct I/PPSS said/VBD shakily/RB ./pct
-``/pct What's /None wrong/JJ ''/pct ?/pct ?/pct
+``/pct What's/WDTBEZ wrong/JJ ''/pct ?/pct ?/pct
 ``/pct Janice/NP ,/pct nobody/PN answers/VBZ at/IN the/AT apartment/NN ''/pct !/pct !/pct
 Her/PPg voice/NN came/VBD shrill/JJ ./pct
-``/pct I'm /None absolutely/QL frantic/JJ !/pct !/pct
+``/pct I'm/PPSSBEM absolutely/QL frantic/JJ !/pct !/pct
 That/DT stupid/JJ girl/NN might/MD have/HV gone/VBN off/RP and/CC left/VBD Francie/NP ''/pct !/pct !/pct
-``/pct Oh/UH ,/pct she/PPS wouldn't /None do/DO that/DT ''/pct ,/pct I/PPSS said/VBD ./pct
-``/pct She's /None probably/RB fallen/VBN asleep/RB and/CC doesn't /None hear/VB the/AT phone/NN ./pct
-But/CC if/CS you're /None worried/VBN you/PPSS can/MD go/VB home/NR and/CC check/VB ''/pct --/pct
-``/pct I/PPSS can't /None leave/VB the/AT party/NN !/pct !/pct
-We're /None at/IN Ken/NP Thom's/NPg apartment/NN ,/pct and/CC when/WRB one/CD couple/NN leaves/VBZ early/RB everything/PN falls/VBZ flat/RB !/pct !/pct
-Old/JJ Mr./NP Thom/NP is/BEZ already/RB down/IN on/IN Wally/NP ,/pct and/CC we/PPSS simply/RB can't /None afford/VB to/TO get/VB Ken/NP mad/JJ at/IN us/PPO ''/pct --/pct
+``/pct Oh/UH ,/pct she/PPS wouldn't/MD* do/DO that/DT ''/pct ,/pct I/PPSS said/VBD ./pct
+``/pct She's/PPSHVZ probably/RB fallen/VBN asleep/RB and/CC doesn't/DOZ* hear/VB the/AT phone/NN ./pct
+But/CC if/CS you're/PPSSBER worried/VBN you/PPSS can/MD go/VB home/NR and/CC check/VB ''/pct --/pct
+``/pct I/PPSS can't/MD* leave/VB the/AT party/NN !/pct !/pct
+We're/PPSSBER at/IN Ken/NP Thom's/NPg apartment/NN ,/pct and/CC when/WRB one/CD couple/NN leaves/VBZ early/RB everything/PN falls/VBZ flat/RB !/pct !/pct
+Old/JJ Mr./NP Thom/NP is/BEZ already/RB down/IN on/IN Wally/NP ,/pct and/CC we/PPSS simply/RB can't/MD* afford/VB to/TO get/VB Ken/NP mad/JJ at/IN us/PPO ''/pct --/pct
 I/PPSS was/BEDZ all/QL set/VBN for/IN what/WDT came/VBD next/AP ./pct
-``/pct Janice/NP ,/pct could/MD you/PPSS possibly/RB go/VB over/RP and/CC make/VB sure/JJ everything's /None all/QL right/JJ ?/pct ?/pct
-I'll /None call/VB you/PPO there/RB in/IN ten/CD minutes/NNS ''/pct --/pct
-``/pct I/PPSS can't /None make/VB it/PPO in/IN ten/CD minutes/NNS ''/pct --/pct Wondering/VBG ,/pct as/CS I/PPSS said/VBD it/PPO ,/pct why/WRB I/PPSS should/MD make/VB it/PPO at/IN all/ABN ./pct
-Why/WRB should/MD I/PPSS go/VB over/RP at/IN midnight/NN to/TO check/VB on/IN Francie/NP ,/pct when/WRB her/PPg parents/NNS didn't /None care/VB enough/AP to/TO leave/VB a/AT party/NN ?/pct ?/pct
+``/pct Janice/NP ,/pct could/MD you/PPSS possibly/RB go/VB over/RP and/CC make/VB sure/JJ everything's/PNBEZ all/QL right/JJ ?/pct ?/pct
+I'll/PPSSMD call/VB you/PPO there/RB in/IN ten/CD minutes/NNS ''/pct --/pct
+``/pct I/PPSS can't/MD* make/VB it/PPO in/IN ten/CD minutes/NNS ''/pct --/pct Wondering/VBG ,/pct as/CS I/PPSS said/VBD it/PPO ,/pct why/WRB I/PPSS should/MD make/VB it/PPO at/IN all/ABN ./pct
+Why/WRB should/MD I/PPSS go/VB over/RP at/IN midnight/NN to/TO check/VB on/IN Francie/NP ,/pct when/WRB her/PPg parents/NNS didn't/DOD* care/VB enough/AP to/TO leave/VB a/AT party/NN ?/pct ?/pct
 ``/pct Fifteen/CD minutes/NNS ,/pct then/RB !/pct !/pct
 Please/UH ,/pct Janice/NP ./pct
-I'll /None be/BE glad/JJ to/TO pay/VB you/PPO ''/pct --/pct
+I'll/PPSSMD be/BE glad/JJ to/TO pay/VB you/PPO ''/pct --/pct
 So/QL sure/JJ that/DT money/NN could/MD do/DO anything/PN !/pct !/pct
 ``/pct All/QL right/RB ''/pct ,/pct I/PPSS said/VBD ./pct
-I'd /None do/DO it/PPO ./pct
+I'd/PPSSMD do/DO it/PPO ./pct
 Not/NEG for/IN the/AT dollar/NN or/CC so/RB Nadine/NP would/MD give/VB me/PPO ./pct
-But/CC because/CS there/EX was/BEDZ the/AT chance/NN that/CS something/PN had/HVD gone/VBN wrong/JJ at/IN the/AT apartment/NN ,/pct and/CC if/CS I/PPSS didn't /None go/VB over/RP ,/pct who/WPS would/MD ?/pct ?/pct
-Chris/NP was/BEDZ sound/JJ asleep/RB ,/pct and/CC I/PPSS didn't /None see/VB any/DTI sense/NN in/IN waking/VBG him/PPO ./pct
+But/CC because/CS there/EX was/BEDZ the/AT chance/NN that/CS something/PN had/HVD gone/VBN wrong/JJ at/IN the/AT apartment/NN ,/pct and/CC if/CS I/PPSS didn't/DOD* go/VB over/RP ,/pct who/WPS would/MD ?/pct ?/pct
+Chris/NP was/BEDZ sound/JJ asleep/RB ,/pct and/CC I/PPSS didn't/DOD* see/VB any/DTI sense/NN in/IN waking/VBG him/PPO ./pct
 I/PPSS dressed/VBD in/IN the/AT kitchen/NN ,/pct then/RB left/VBD a/AT note/NN on/IN the/AT table/NN telling/VBG him/PPO what/WDT had/HVD happened/VBN ./pct
 I/PPSS drove/VBD off/RP through/IN the/AT cool/JJ darkness/NN to/IN Nadine's/NPg apartment/NN and/CC rang/VBD the/AT bell/NN ,/pct and/CC in/IN a/AT few/AP seconds/NNS a/AT young/JJ girl/NN opened/VBD the/AT door/NN ./pct
 Her/PPg face/NN was/BEDZ flushed/VBN from/IN sleep/NN ./pct
-``/pct It's /None all/QL right/RB ''/pct ,/pct I/PPSS said/VBD ,/pct as/CS she/PPS started/VBD to/TO look/VB scared/VBN ./pct
-``/pct Mrs./NP Roberts/NP had/HVD called/VBN ,/pct and/CC couldn't /None wake/VB you/PPO ./pct
+``/pct It's/PPSBEZ all/QL right/RB ''/pct ,/pct I/PPSS said/VBD ,/pct as/CS she/PPS started/VBD to/TO look/VB scared/VBN ./pct
+``/pct Mrs./NP Roberts/NP had/HVD called/VBN ,/pct and/CC couldn't/MD* wake/VB you/PPO ./pct
 I/PPSS just/RB came/VBD over/RP to/TO make/VB sure/JJ everything/PN was/BEDZ all/QL right/RB ''/pct ./pct
-``/pct I'm /None --/pct hard/JJ to/TO wake/VB up/RP ''/pct ,/pct she/PPS faltered/VBD ./pct
-She/PPS didn't /None look/VB over/IN thirteen/CD ./pct
+``/pct I'm/PPSSBEM --/pct hard/JJ to/TO wake/VB up/RP ''/pct ,/pct she/PPS faltered/VBD ./pct
+She/PPS didn't/DOD* look/VB over/IN thirteen/CD ./pct
 And/CC Nadine/NP insisted/VBD that/CS her/PPg sitters/NNS be/BE reliable/JJ !/pct !/pct
 ``/pct I/PPSS have/HV to/TO get/VB up/RP early/RB for/IN church/NN tomorrow/NR ''/pct ,/pct she/PPS went/VBD on/RP ./pct
-``/pct I/PPSS didn't /None know/VB it/PPS was/BEDZ going/VBG to/TO be/BE this/DT late/JJ ''/pct !/pct !/pct
+``/pct I/PPSS didn't/DOD* know/VB it/PPS was/BEDZ going/VBG to/TO be/BE this/DT late/JJ ''/pct !/pct !/pct
 The/AT phone/NN started/VBD ringing/VBG ./pct
-``/pct That's /None Mrs./NP Roberts/NP again/RB ''/pct ,/pct I/PPSS said/VBD ./pct
-``/pct I'll /None answer/VB it/PPO ''/pct ./pct
+``/pct That's/DTBEZ Mrs./NP Roberts/NP again/RB ''/pct ,/pct I/PPSS said/VBD ./pct
+``/pct I'll/PPSSMD answer/VB it/PPO ''/pct ./pct
 I/PPSS crossed/VBD the/AT beautifully/RB furnished/VBN living/NN room/NN to/IN the/AT pale/JJ yellow/JJ phone/NN ./pct
-I/PPSS told/VBD Nadine/NP everything/PN was/BEDZ fine/JJ ,/pct and/CC that/CS I'd /None be/BE getting/VBG on/IN home/NR ./pct
+I/PPSS told/VBD Nadine/NP everything/PN was/BEDZ fine/JJ ,/pct and/CC that/CS I'd/PPSSMD be/BE getting/VBG on/IN home/NR ./pct
 ``/pct Janice/NP ,/pct would/MD you/PPSS mind/VB staying/VBG ''/pct ?/pct ?/pct
-There/EX was/BEDZ a/AT ragged/JJ edge/NN to/IN her/PPg voice/NN now/RB ,/pct as/CS if/CS she'd /None been/BEN crying/VBG ./pct
-``/pct Wally's /None drunk/JJ --/pct I'll /None get/VB him/PPO out/IN of/IN here/RB as/QL soon/RB as/CS I/PPSS possibly/RB can/MD ,/pct but/CC I/PPSS don't /None want/VB Shirley/NP to/TO see/VB him/PPO like/CS this/DT ./pct
+There/EX was/BEDZ a/AT ragged/JJ edge/NN to/IN her/PPg voice/NN now/RB ,/pct as/CS if/CS she'd/PPSHVD been/BEN crying/VBG ./pct
+``/pct Wally's/NPBEZ drunk/JJ --/pct I'll/PPSSMD get/VB him/PPO out/IN of/IN here/RB as/QL soon/RB as/CS I/PPSS possibly/RB can/MD ,/pct but/CC I/PPSS don't/DO* want/VB Shirley/NP to/TO see/VB him/PPO like/CS this/DT ./pct
 You/PPSS know/VB how/WRB gossip/NN of/IN that/DT sort/NN spreads/VBZ through/IN an/AT apartment/NN building/NN ''/pct --/pct
-Not/NEG a/AT word/NN of/IN thanks/NNS for/IN what/WDT I'd /None already/RB done/VBN ./pct
+Not/NEG a/AT word/NN of/IN thanks/NNS for/IN what/WDT I'd/PPSSHVD already/RB done/VBN ./pct
 The/AT receiver/NN clicked/VBD in/IN my/PPg ear/NN ./pct
-She/PPS didn't /None even/VB give/VB me/PPO a/AT chance/NN to/TO refuse/VB ./pct
-Well/UH ,/pct there/EX wasn't /None any/DTI law/NN that/WPS said/VBD I/PPSS had/HVD to/TO stay/VB !/pct !/pct
+She/PPS didn't/DOD* even/VB give/VB me/PPO a/AT chance/NN to/TO refuse/VB ./pct
+Well/UH ,/pct there/EX wasn't/BEDZ* any/DTI law/NN that/WPS said/VBD I/PPSS had/HVD to/TO stay/VB !/pct !/pct
 But/CC then/RB I/PPSS looked/VBD at/IN Shirley/NP and/CC thought/VBD that/CS I/PPSS might/MD as/QL well/RB --/pct the/AT child/NN needed/VBD her/PPg sleep/NN ,/pct and/CC Heaven/NN knew/VBD what/WDT kind/NN of/IN a/AT mess/NN it/PPS would/MD be/BE ,/pct with/IN Wally/NP coming/VBG home/NR drunk/JJ ./pct
 So/CS I/PPSS told/VBD her/PPO Mrs./NP Roberts/NP would/MD pay/VB her/PPO in/IN the/AT morning/NN ,/pct and/CC she/PPS scooted/VBD off/RP to/IN her/PPg own/JJ apartment/NN ./pct
 After/CS I/PPSS looked/VBD in/RP at/IN Francie/NP ,/pct I/PPSS went/VBD into/IN the/AT living/NN room/NN and/CC waited/VBD ./pct
@@ -68,34 +68,34 @@ But/CC now/RB she/PPS looked/VBD ugly/JJ ./pct
 Her/PPg skin/NN was/BEDZ stretched/VBN so/QL tight/JJ that/CS her/PPg cheekbones/NNS stuck/VBD out/RP ,/pct and/CC if/CS looks/NNS could/MD kill/VB ,/pct Wally/NP would/MD have/HV been/BEN dead/JJ ./pct
 ``/pct Pack/VB your/PPg clothes/NNS ''/pct ,/pct she/PPS hissed/VBD ./pct
 ``/pct Pack/VB --/pct and/CC get/VB out/RP ''/pct !/pct !/pct
-``/pct You're /None crazy/JJ ''/pct ,/pct Wally/NP said/VBD thickly/RB ./pct
+``/pct You're/PPSSBER crazy/JJ ''/pct ,/pct Wally/NP said/VBD thickly/RB ./pct
 He/PPS lurched/VBD and/CC stumbled/VBD to/IN the/AT davenport/NN and/CC sank/VBD down/RP on/IN it/PPO ,/pct and/CC was/BEDZ instantly/RB asleep/RB ./pct
 Nadine/NP strode/VBD over/RP to/IN him/PPO ,/pct and/CC her/PPg pointed/VBN nails/NNS raked/VBD across/IN his/PPg face/NN ./pct
 I/PPSS grabbed/VBD her/PPg arm/NN and/CC she/PPS turned/VBD on/IN me/PPO and/CC for/IN a/AT scared/VBN second/OD I/PPSS thought/VBD that/CS maybe/RB Wally/NP was/BEDZ right/JJ ,/pct and/CC she/PPS was/BEDZ crazy/JJ ./pct
 ``/pct You/PPSS stay/VB out/IN of/IN this/DT ''/pct ,/pct she/PPS spat/VBD at/IN me/PPO ./pct
-``/pct He's /None ruined/VBN us/PPO --/pct do/DO you/PPO hear/VB me/PPO --/pct he's /None ruined/VBN us/PPO !/pct !/pct
+``/pct He's/PPSHVZ ruined/VBN us/PPO --/pct do/DO you/PPO hear/VB me/PPO --/pct he's/PPSHVZ ruined/VBN us/PPO !/pct !/pct
 He/PPS insulted/VBD Ken/NP Thom/NP ''/pct !/pct !/pct
 Her/PPg eyes/NNS were/BED wild/JJ ./pct
-``/pct He/PPS told/VBD Ken/NP to/IN his/PPg face/NN that/CS he/PPS doesn't /None have/HV what/WDT it/PPS takes/VBZ to/TO get/VB a/AT woman/NN !/pct !/pct
+``/pct He/PPS told/VBD Ken/NP to/IN his/PPg face/NN that/CS he/PPS doesn't/DOZ* have/HV what/WDT it/PPS takes/VBZ to/TO get/VB a/AT woman/NN !/pct !/pct
 And/CC the/AT other/AP people/NNS there/RB were/BED listening/VBG !/pct !/pct
-We're /None ruined/VBN and/CC he's /None going/VBG to/TO get/VB out/RP if/CS I/PPSS have/HV to/TO throw/VB him/PPO down/IN the/AT stairs/NNS ''/pct --/pct
-``/pct you'd /None better/RBR simmer/VB down/RP ''/pct ,/pct I/PPSS said/VBD nervously/RB ./pct
+We're/PPSSBER ruined/VBN and/CC he's/PPSBEZ going/VBG to/TO get/VB out/RP if/CS I/PPSS have/HV to/TO throw/VB him/PPO down/IN the/AT stairs/NNS ''/pct --/pct
+``/pct you'd/PPSSHVD better/RBR simmer/VB down/RP ''/pct ,/pct I/PPSS said/VBD nervously/RB ./pct
 I/PPSS was/BEDZ plenty/RB scared/VBN ./pct
 In/IN the/AT state/NN she/PPS was/BEDZ in/IN ,/pct she/PPS could/MD actually/RB kill/VB him/PPO !/pct !/pct
-``/pct Now/RB you/PPSS just/RB take/VB it/PPO easy/RB ,/pct and/CC I'll /None make/VB you/PPO some/DTI tea/NN ''/pct --/pct
+``/pct Now/RB you/PPSS just/RB take/VB it/PPO easy/RB ,/pct and/CC I'll/PPSSMD make/VB you/PPO some/DTI tea/NN ''/pct --/pct
 ``/pct Tea/NN ,/pct ''/pct Nadine/NP screeched/VBD ./pct
 ``/pct How/WRB can/MD you/PPSS be/BE so/QL damn/JJ stupid/JJ ?/pct ?/pct
-Wally's /None lost/VBN his/PPg job/NN !/pct !/pct
+Wally's/NPHVZ lost/VBN his/PPg job/NN !/pct !/pct
 Ken/NP will/MD never/RB forgive/VB him/PPO --/pct never/RB !/pct !/pct
-And/CC we/PPSS don't /None have/HV any/DTI money/NN --/pct we/PPSS don't /None have/HV a/AT dime/NN !/pct !/pct
+And/CC we/PPSS don't/DO* have/HV any/DTI money/NN --/pct we/PPSS don't/DO* have/HV a/AT dime/NN !/pct !/pct
 All/ABN we/PPSS own/VB is/BEZ Francie's/NPg bedroom/NN set/NN and/CC the/AT televison-record/NN player/NN and/CC we/PPSS even/RB owe/VB on/IN them/PPO ./pct
-And/CC we'll /None be/BE poor/JJ and/CC have/HV to/TO live/VB in/IN a/AT grubby/JJ little/AP house/NN like/CS yours/PPgg --/pct and/CC all/ABN because/CS of/IN that/DT ''/pct --/pct
+And/CC we'll/PPSSMD be/BE poor/JJ and/CC have/HV to/TO live/VB in/IN a/AT grubby/JJ little/AP house/NN like/CS yours/PPgg --/pct and/CC all/ABN because/CS of/IN that/DT ''/pct --/pct
 I/PPSS clamped/VBD my/PPg hand/NN over/IN her/PPg mouth/NN to/TO stop/VB the/AT stream/NN of/IN filth/NN ./pct
 ``/pct Stop/VB that/DT !/pct !/pct
-You'll /None wake/VB up/RP the/AT whole/JJ building/NN ./pct
-Wally/NP can't /None go/VB any/DTI place/NN at/IN this/DT hour/NN ''/pct --/pct
-``/pct Well/RB then/RB ,/pct I'll /None get/VB out/RP ''/pct --/pct But/CC she/PPS looked/VBD uncertain/JJ ./pct
-She/PPS was/BEDZ coming/VBG to/TO her/PPg senses/NNS enough/QLP to/TO realize/VB that/CS you/PPSS don't /None go/VB traipsing/VBG off/RP anywhere/RB at/IN two/CD in/IN the/AT morning/NN ./pct
+You'll/PPSSMD wake/VB up/RP the/AT whole/JJ building/NN ./pct
+Wally/NP can't/MD* go/VB any/DTI place/NN at/IN this/DT hour/NN ''/pct --/pct
+``/pct Well/RB then/RB ,/pct I'll/PPSSMD get/VB out/RP ''/pct --/pct But/CC she/PPS looked/VBD uncertain/JJ ./pct
+She/PPS was/BEDZ coming/VBG to/TO her/PPg senses/NNS enough/QLP to/TO realize/VB that/CS you/PPSS don't/DO* go/VB traipsing/VBG off/RP anywhere/RB at/IN two/CD in/IN the/AT morning/NN ./pct
 ``/pct You/PPSS go/VB to/IN bed/NN ''/pct ,/pct I/PPSS said/VBD curtly/RB ./pct
 ``/pct In/IN the/AT morning/NN you/PPSS and/CC Wally/NP can/MD talk/VB things/NNS out/RP ''/pct --/pct
 She/PPS collapsed/VBD against/IN me/PPO ,/pct as/CS if/CS everything/PN inside/IN her/PPO snapped/VBD ./pct
@@ -108,25 +108,25 @@ I/PPSS had/HVD done/VBN all/ABN I/PPSS was/BEDZ going/VBG to/TO do/DO ./pct
 Whether/CS or/CC not/NEG Wally/NP lost/VBD his/PPg job/NN was/BEDZ no/AT concern/NN of/IN mine/PPgg ./pct
 I/PPSS drove/VBD home/NR ,/pct found/VBD Chris/NP still/RB asleep/RB ./pct
 I/PPSS snuggled/VBD up/RP close/RB to/IN him/PPO --/pct loving/VBG him/PPO --/pct thankful/JJ for/IN a/AT man/NN like/CS him/PPO ./pct
-Thankful/JJ I/PPSS wasn't /None Nadine/NP ./pct
+Thankful/JJ I/PPSS wasn't/BEDZ* Nadine/NP ./pct
 I/PPSS kept/VBD on/IN being/BEG thankful/JJ ./pct
 In/IN the/AT afternoon/NN Nadine/NP and/CC Wally/NP came/VBD over/RP with/IN Francie/NP ./pct
 Wally/NP sat/VBD in/IN our/PPg big/JJ chair/NN ,/pct his/PPg hands/NNS between/IN his/PPg knees/NNS ,/pct looking/VBG ready/JJ to/TO cry/VB ./pct
-``/pct I'd /None had/HVN all/ABN this/DT trouble/NN with/IN the/AT old/JJ man/NN ,/pct that's /None why/WRB I/PPSS drank/VBD so/QL much/AP ./pct
+``/pct I'd/PPSSHVD had/HVN all/ABN this/DT trouble/NN with/IN the/AT old/JJ man/NN ,/pct that's/DTBEZ why/WRB I/PPSS drank/VBD so/QL much/AP ./pct
 I/PPSS --/pct got/VBD fired/VBN yesterday/NR for/IN not/NEG attending/VBG to/IN business/NN ''/pct --/pct
-Old/JJ Mr./NP Thom/NP himself/PPL had/HVD stopped/VBN at/IN the/AT service/NN station/NN for/IN a/AT grease/NN job/NN ,/pct Wally/NP confessed/VBD ,/pct and/CC couldn't /None get/VB one/PN because/CS there/EX were/BED cars/NNS on/IN the/AT pits/NNS waiting/VBG to/TO be/BE repaired/VBN ./pct
+Old/JJ Mr./NP Thom/NP himself/PPL had/HVD stopped/VBN at/IN the/AT service/NN station/NN for/IN a/AT grease/NN job/NN ,/pct Wally/NP confessed/VBD ,/pct and/CC couldn't/MD* get/VB one/PN because/CS there/EX were/BED cars/NNS on/IN the/AT pits/NNS waiting/VBG to/TO be/BE repaired/VBN ./pct
 Seems/VBZ that/CS the/AT kid/NN Wally/NP had/HVD hired/VBN had/HVD a/AT repair/NN business/NN of/IN his/PPg own/JJ going/VBG on/IN the/AT side/NN ./pct
 Mr./NP Thom/NP had/HVD gotten/VBN Wally/NP on/IN the/AT phone/NN ,/pct and/CC fired/VBD him/PPO ./pct
-``/pct I/PPSS thought/VBD I'd /None smooth/VB things/NNS over/RP through/IN Ken/NP ''/pct ,/pct Wally/NP said/VBD miserably/RB ./pct
-``/pct But/CC Ken/NP got/VBD coy/JJ and/CC wouldn't /None make/VB any/DTI promises/NNS ./pct
+``/pct I/PPSS thought/VBD I'd/PPSSMD smooth/VB things/NNS over/RP through/IN Ken/NP ''/pct ,/pct Wally/NP said/VBD miserably/RB ./pct
+``/pct But/CC Ken/NP got/VBD coy/JJ and/CC wouldn't/MD* make/VB any/DTI promises/NNS ./pct
 And/CC I/PPSS was/BEDZ plastered/VBN and/CC I/PPSS blew/VBD my/PPg stack/NN ''/pct --/pct
-``/pct And/CC told/VBD him/PPO right/RB to/IN his/PPg face/NN he'd /None never/RB slept/VBN with/IN a/AT woman/NN ''/pct !/pct !/pct
+``/pct And/CC told/VBD him/PPO right/RB to/IN his/PPg face/NN he'd/PPSHVD never/RB slept/VBN with/IN a/AT woman/NN ''/pct !/pct !/pct
 I/PPSS tried/VBD to/TO quiet/VB Nadine/NP because/CS the/AT children/NNS were/BED there/RB ./pct
 But/CC she/PPS was/BEDZ beyond/IN caring/VBG what/WDT she/PPS said/VBD ./pct
 ``/pct Things/NNS may/MD smooth/VB over/RP yet/RB ''/pct ,/pct Chris/NP said/VBD ,/pct his/PPg nice/JJ lean/JJ face/NN grave/JJ with/IN honest/JJ concern/NN ./pct
-But/CC I/PPSS couldn't /None help/VB thinking/VBG that/CS Nadine/NP and/CC Wally/NP were/BED getting/VBG just/RB what/WDT they/PPSS deserved/VBD ./pct
-Now/RB maybe/RB they'd /None realize/VB that/CS life/NN can/MD be/BE tough/JJ ./pct
-When/WRB A/AT bubble/NN breaks/VBZ ,/pct there's /None nothing/PN ./pct
+But/CC I/PPSS couldn't/MD* help/VB thinking/VBG that/CS Nadine/NP and/CC Wally/NP were/BED getting/VBG just/RB what/WDT they/PPSS deserved/VBD ./pct
+Now/RB maybe/RB they'd/PPSSMD realize/VB that/CS life/NN can/MD be/BE tough/JJ ./pct
+When/WRB A/AT bubble/NN breaks/VBZ ,/pct there's/EXBEZ nothing/PN ./pct
 Little/AP by/IN little/AP ,/pct during/IN the/AT week/NN ,/pct Chris/NP and/CC I/PPSS discovered/VBD the/AT crazy/JJ unbelievable/JJ way/NN Nadine/NP and/CC Wally/NP had/HVD lived/VBN ./pct
 They/PPSS had/HVD not/NEG only/RB spent/VBN every/AT cent/NN --/pct they/PPSS were/BED in/IN debt/NN up/IN to/IN their/PPg necks/NNS ,/pct owing/VBG on/IN everything/PN they/PPSS owned/VBD ./pct
 On/IN top/NN of/IN everything/PN else/RB they/PPSS were/BED two/CD months/NNS behind/RB on/IN their/PPg apartment/NN rent/NN ,/pct and/CC the/AT day/NN Wally/NP received/VBD written/VBN notice/NN that/CS he/PPS was/BEDZ fired/VBN ,/pct they/PPSS were/BED evicted/VBN ./pct
@@ -135,40 +135,40 @@ He/PPS had/HVD fallen/VBN into/IN a/AT soft/JJ job/NN ,/pct and/CC now/RB the/AT
 Chris/NP fretted/VBD ./pct
 ``/pct I/PPSS wish/VB we/PPSS were/BED in/IN a/AT position/NN to/TO offer/VB a/AT little/AP money/NN to/TO tide/VB them/PPO over/RP ''/pct ./pct
 I/PPSS said/VBD I/PPSS wished/VBD we/PPSS were/BED ,/pct too/RB ./pct
-It/PPS was/BEDZ easy/JJ enough/QLP to/TO say/VB it/PPO ,/pct because/CS of/IN course/NN we/PPSS couldn't /None spare/VB a/AT cent/NN ./pct
+It/PPS was/BEDZ easy/JJ enough/QLP to/TO say/VB it/PPO ,/pct because/CS of/IN course/NN we/PPSS couldn't/MD* spare/VB a/AT cent/NN ./pct
 But/CC Chris/NP brightened/VBD up/RP like/CS a/AT candle/NN ./pct
-``/pct I'm /None glad/JJ you/PPSS feel/VB that/DT way/NN ,/pct honey/NN ./pct
+``/pct I'm/PPSSBEM glad/JJ you/PPSS feel/VB that/DT way/NN ,/pct honey/NN ./pct
 There/EX is/BEZ one/CD big/JJ way/NN we/PPSS can/MD help/VB them/PPO ./pct
 We/PPSS can/MD let/VB them/PPO move/VB in/IN with/IN us/PPO ''/pct --/pct
 Something/PN I/PPSS had/HVD simply/RB never/RB thought/VBN of/IN ./pct
 Something/PN so/QL incredible/JJ --/pct
 I/PPSS just/RB stared/VBD at/IN him/PPO ./pct
 It/PPS was/BEDZ incredible/JJ --/pct He/PPS gave/VBD me/PPO an/AT embarrassed/VBN ,/pct pleading/VBG look/NN ./pct
-``/pct I/PPSS know/VB we'd /None be/BE pretty/QL crowded/VBN ./pct
+``/pct I/PPSS know/VB we'd/PPSSMD be/BE pretty/QL crowded/VBN ./pct
 But/CC it/PPS would/MD only/RB be/BE for/IN a/AT couple/NN of/IN weeks/NNS --/pct until/CS they/PPSS get/VB straightened/VBN out/RP ''/pct ./pct
-Straightened/VBN out/RP --/pct They'd /None had/HVN years/NNS of/IN making/VBG all/ABN that/DT money/NN !/pct !/pct
-``/pct I/PPSS won't /None do/DO it/PPO ''/pct ,/pct I/PPSS said/VBD flatly/RB ./pct
+Straightened/VBN out/RP --/pct They'd/PPSSHVD had/HVN years/NNS of/IN making/VBG all/ABN that/DT money/NN !/pct !/pct
+``/pct I/PPSS won't/MD* do/DO it/PPO ''/pct ,/pct I/PPSS said/VBD flatly/RB ./pct
 ``/pct Nadine/NP was/BEDZ always/RB too/QL good/JJ to/TO live/VB in/IN a/AT little/AP house/NN like/CS this/DT !/pct !/pct
 Well/UH ,/pct now/RB she/PPS can/MD sleep/VB in/IN the/AT street/NN for/CS all/ABN I/PPSS care/VB ''/pct !/pct !/pct
-``/pct That/DT isn't /None like/CS you/PPSS ,/pct Janice/NP ''/pct ,/pct Chris/NP said/VBD uncomfortably/RB ./pct
+``/pct That/DT isn't/BEZ* like/CS you/PPSS ,/pct Janice/NP ''/pct ,/pct Chris/NP said/VBD uncomfortably/RB ./pct
 Then/RB I/PPSS felt/VBD uncomfortable/JJ ,/pct too/RB ./pct
-I/PPSS didn't /None want/VB to/TO be/BE like/CS that/DT ,/pct mean/JJ and/CC bitter/JJ ./pct
+I/PPSS didn't/DOD* want/VB to/TO be/BE like/CS that/DT ,/pct mean/JJ and/CC bitter/JJ ./pct
 But/CC ,/pct darn/VB it/PPO all/ABN ,/pct why/WRB should/MD we/PPSS help/VB a/AT couple/NN of/IN spoiled/VBN snobs/NNS who/WPS had/HVD looked/VBN down/IN their/PPg noses/NNS at/IN us/PPO ?/pct ?/pct
 But/CC ,/pct in/IN the/AT end/NN ,/pct we/PPSS did/DOD ./pct
 It/PPS just/RB seemed/VBD as/CS if/CS there/EX was/BEDZ nothing/PN else/RB to/TO do/DO ./pct
-The/AT finance/NN company/NN took/VBD all/ABN their/PPg furniture/NN --/pct and/CC they/PPSS didn't /None have/HV a/AT cent/NN to/IN their/PPg name/NN ./pct
+The/AT finance/NN company/NN took/VBD all/ABN their/PPg furniture/NN --/pct and/CC they/PPSS didn't/DOD* have/HV a/AT cent/NN to/IN their/PPg name/NN ./pct
 Then/JJ Wally/NP got/VBD sick/JJ ./pct
 To/IN my/PPg way/NN of/IN thinking/VBG ,/pct he/PPS was/BEDZ scared/VBN sick/JJ ./pct
 His/PPg luck/NN had/HVD failed/VBN him/PPO ,/pct and/CC it/PPS was/BEDZ easier/RBR to/TO crawl/VB off/RP into/IN bed/NN than/CS to/TO get/VB out/RP and/CC fight/VB the/AT world/NN ./pct
 Chris/NP made/VBD trip/NN after/IN trip/NN in/IN our/PPg old/JJ car/NN ,/pct moving/VBG the/AT clothes/NNS and/CC dishes/NNS and/CC the/AT stock/NN of/IN groceries/NNS Nadine/NP had/HVD bought/VBN on/IN special/NN ./pct
-At/IN least/AP we'll /None eat/VB ,/pct I/PPSS thought/VBD grimly/RB as/CS I/PPSS put/VBD all/ABN the/AT food/NN away/RB ./pct
+At/IN least/AP we'll/PPSSMD eat/VB ,/pct I/PPSS thought/VBD grimly/RB as/CS I/PPSS put/VBD all/ABN the/AT food/NN away/RB ./pct
 While/CS I/PPSS worked/VBD ,/pct Nadine/NP sat/VBD and/CC cried/VBD ./pct
-When/WRB she/PPS wasn't /None crying/VBG ,/pct she/PPS was/BEDZ in/IN our/PPg bedroom/NN fighting/VBG with/IN Wally/NP ./pct
-``/pct Virus/NN infection/NN nothing/PN ''/pct ,/pct she'd /None scream/VB at/IN him/PPO ./pct
-``/pct You're /None too/QL lazy/JJ to/TO go/VB out/RP and/CC look/VB for/IN another/DT job/NN ./pct
-You're /None just/RB a/AT no-good/JJ bum/NN ''/pct !/pct !/pct
+When/WRB she/PPS wasn't/BEDZ* crying/VBG ,/pct she/PPS was/BEDZ in/IN our/PPg bedroom/NN fighting/VBG with/IN Wally/NP ./pct
+``/pct Virus/NN infection/NN nothing/PN ''/pct ,/pct she'd/PPSMD scream/VB at/IN him/PPO ./pct
+``/pct You're/PPSSBER too/QL lazy/JJ to/TO go/VB out/RP and/CC look/VB for/IN another/DT job/NN ./pct
+You're/PPSSBER just/RB a/AT no-good/JJ bum/NN ''/pct !/pct !/pct
 It/PPS was/BEDZ a/AT mess/NN ,/pct all/QL right/RB ./pct
-But/CC it/PPS couldn't /None go/VB on/RP forever/RB --/pct A/AT couple/NN of/IN weeks/NNS ,/pct Chris/NP had/HVD said/VBN ./pct
+But/CC it/PPS couldn't/MD* go/VB on/RP forever/RB --/pct A/AT couple/NN of/IN weeks/NNS ,/pct Chris/NP had/HVD said/VBN ./pct
 I/PPSS figured/VBD I/PPSS could/MD stand/VB practically/RB anything/PN for/IN a/AT couple/NN of/IN weeks/NNS ./pct
 But/CC the/AT two/CD weeks/NNS dragged/VBD into/IN three/CD ,/pct and/CC they/PPSS were/BED still/RB with/IN us/PPO ./pct
 Nadine's/NPg constant/JJ nagging/NN had/HVD finally/RB gotten/VBN Wally/NP out/IN of/IN bed/NN ./pct
@@ -179,7 +179,7 @@ Nobody/PN would/MD even/RB take/VB his/PPg application/NN ./pct
 ``/pct You/PPSS can/MD get/VB a/AT job/NN working/VBG in/IN a/AT grocery/NN store/NN ,/pct if/CS nothing/PN else/RB ''/pct ./pct
 ``/pct The/AT high/JJ school/NN kids/NNS have/HV got/VBN everything/PN sewed/VBN up/RP ''/pct ,/pct he/PPS said/VBD ,/pct a/AT whine/NN in/IN his/PPg voice/NN ./pct
 ``/pct Those/DTS damn/JJ punks/NNS --/pct taking/VBG work/NN away/RB from/IN men/NNS who/WPS need/VB it/PPO ''/pct ./pct
-``/pct By/IN fall/NN they'll /None be/BE back/RB in/IN school/NN ''/pct ,/pct I'd /None say/VB ,/pct trying/VBG to/TO sound/VB encouraging/JJ ./pct
+``/pct By/IN fall/NN they'll/PPSSMD be/BE back/RB in/IN school/NN ''/pct ,/pct I'd/PPSSMD say/VB ,/pct trying/VBG to/TO sound/VB encouraging/JJ ./pct
 But/CC this/DT was/BEDZ only/RB the/AT middle/NN of/IN July/NP ./pct
-And/CC I/PPSS couldn't /None take/VB six/CD more/AP weeks/NNS of/IN this/DT ./pct
+And/CC I/PPSS couldn't/MD* take/VB six/CD more/AP weeks/NNS of/IN this/DT ./pct
 I/PPSS mentioned/VBD it/PPO to/IN Chris/NP one/CD stifling/VBG hot/JJ night/NN ,/pct when/WRB I/PPSS had/HVD slipped/VBN outside/RB for/IN a/AT breath/NN of/IN fresh/JJ air/NN ./pct

@@ -67,7 +67,7 @@ So/CS the/AT Commission's/NNg announcements/NNS of/IN the/AT new/JJ Soviet/NN sh
 Now/RB ,/pct of/IN course/NN ,/pct that/CS the/AT Russians/NPS are/BER the/AT nuclear/JJ villains/NNS ,/pct radiation/NN is/BEZ a/AT nastier/JJR word/NN than/CS it/PPS was/BEDZ in/IN the/AT mid/JJ ,/pct when/WRB the/AT US/NN was/BEDZ testing/VBG in/IN the/AT atmosphere/NN ./pct
 The/AT prevailing/VBG official/JJ attitude/NN then/RB seemed/VBD to/TO be/BE that/CS fallout/NN ,/pct if/CS not/NEG exactly/RB good/JJ for/IN you/PPO ,/pct might/MD not/NEG be/BE much/QL worse/JJR than/CS a/AT bad/JJ cold/NN ./pct
 After/IN a/AT nuclear/JJ blast/NN ,/pct one/CD bureaucrat/NN suggested/VBD in/IN those/DTS halcyon/JJ days/NNS ,/pct about/RB all/ABN you/PPSS had/HVD to/TO do/DO was/BEDZ haul/VB out/RP the/AT broom/NN and/CC sweep/VB off/RP your/PPg sidewalks/NNS and/CC roof/NN ./pct
-Things/NNS aren't /None that/QL simple/JJ anymore/RB ./pct
+Things/NNS aren't/BER* that/QL simple/JJ anymore/RB ./pct
 Yet/CC if/CS Washington/NP gets/VBZ too/QL indignant/JJ about/IN Soviet/NN fallout/NN ,/pct it/PPS will/MD have/HV to/TO do/DO a/AT lot/NN of/IN fast/JJ footwork/NN if/CS America/NP decides/VBZ it/PPS too/RB must/MD start/VB pushing/VBG up/RP the/AT radiation/NN count/NN ./pct
 How/WRB much/AP fallout/NN will/MD we/PPSS get/VB ?/pct ?/pct
 As/IN of/IN October/NP 25/CD ,/pct the/AT AEC/NN had/HVD reported/VBN 24/CD shots/NNS in/IN the/AT new/JJ Soviet/NN series/NN ,/pct 12/CD of/IN them/PPO in/IN a/AT megaton/NN range/NN ,/pct including/IN a/AT super/JJ bomb/NN with/IN a/AT yield/NN of/IN 30/CD to/IN 50/CD megatons/NNS (/pct the/AT equivalent/NN of/IN 30/CD million/CD to/IN 50/CD million/CD tons/NNS of/IN TNT/NN )/pct ;/pct ;/pct

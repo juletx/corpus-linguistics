@@ -28,11 +28,11 @@ At/IN this/DT time/NN Miriam/NP Noel/NP appeared/VBD ,/pct urging/VBG on/RP Cons
 A/AT troop/NN of/IN reporters/NNS brought/VBD up/RP the/AT rear/NN ./pct
 Miriam/NP was/BEDZ stopped/VBN at/IN the/AT Taliesin/NP gate/NN ,/pct and/CC William/NP Weston/NP ,/pct now/RB the/AT estate/NN foreman/NN ,/pct came/VBD out/RP to/IN parley/VB ./pct
 He/PPS said/VBD that/CS Mr./NP Wright/NP was/BEDZ not/NEG in/RP ,/pct and/CC so/RB could/MD not/NEG be/BE arrested/VBN on/IN something/PN called/VBN a/AT peace/NN warrant/NN that/WPO Miriam/NP was/BEDZ waving/VBG in/IN the/AT air/NN ./pct
-Miriam/NP now/RB ordered/VBD Pengally/NP to/TO break/VB down/RP the/AT gate/NN ,/pct but/CC he/PPS said/VBD he/PPS really/RB couldn't /None go/VB that/QL far/RB ./pct
+Miriam/NP now/RB ordered/VBD Pengally/NP to/TO break/VB down/RP the/AT gate/NN ,/pct but/CC he/PPS said/VBD he/PPS really/RB couldn't/MD* go/VB that/QL far/RB ./pct
 At/IN this/DT point/NN Mrs./NP Frances/NP Cupply/NP ,/pct one/CD of/IN Wright's/NPg handsome/JJ daughters/NNS by/IN his/PPg first/OD wife/NN ,/pct came/VBD from/IN the/AT house/NN and/CC tried/VBD to/TO calm/VB Miriam/NP as/CS she/PPS tore/VBD down/RP a/AT no/AT visitors/NNS sign/VB and/CC smashed/VBD the/AT glass/NN pane/NN on/IN another/DT sign/NN with/IN a/AT rock/NN ./pct
 Miriam/NP Noel/NP Wright/NP said/VBD ,/pct ``/pct Here/RB I/PPSS am/BEM at/IN my/PPg own/JJ home/NR ,/pct locked/VBN out/RP so/CS I/PPSS must/MD stand/VB in/IN the/AT road/NN ''/pct !/pct !/pct
 Then/RB she/PPS rounded/VBD on/IN Weston/NP and/CC cried/VBD ,/pct ``/pct You/PPSS always/RB did/DOD Wright's/NPg dirty/JJ work/NN !/pct !/pct
-When/WRB I/PPSS take/VB over/RP Taliesin/NP ,/pct the/AT first/OD thing/NN I'll /None do/DO is/BEZ fire/VB you/PPO ''/pct ./pct
+When/WRB I/PPSS take/VB over/RP Taliesin/NP ,/pct the/AT first/OD thing/NN I'll/PPSSMD do/DO is/BEZ fire/VB you/PPO ''/pct ./pct
 ``/pct Madame/NP Noel/NP ,/pct I/PPSS think/VB you/PPO had/HVN better/RBR go/VB ''/pct ,/pct said/VBD Mrs./NP Cupply/NP ./pct
 ``/pct And/CC I/PPSS think/VB you/PPSS had/HVD better/RBR leave/VB ''/pct ,/pct replied/VBD Miriam/NP ./pct
 Turning/VBG to/IN the/AT reporters/NNS ,/pct she/PPS asked/VBD ,/pct ``/pct Did/DOD you/PPSS hear/VB her/PPO ?/pct ?/pct
@@ -50,7 +50,7 @@ Under/IN this/DT kind/NN of/IN pressure/NN ,/pct it/PPS is/BEZ not/NEG surprisin
 Miriam/NP had/HVD not/NEG yet/RB goaded/VBN him/PPO into/IN mentioning/VBG her/PPO directly/RB ,/pct but/CC one/PN can/MD feel/VB the/AT generalized/VBN anger/NN in/IN Wright's/NPg remarks/NNS to/IN reporters/NNS when/WRB he/PPS was/BEDZ asked/VBN ,/pct one/CD morning/NN on/IN arrival/NN in/IN Chicago/NP ,/pct what/WDT he/PPS thought/VBD of/IN the/AT city/NN as/CS a/AT whole/NN ./pct
 First/RB ,/pct Wright/NP said/VBD ,/pct he/PPS was/BEDZ choked/VBN by/IN the/AT smoke/NN ,/pct which/WDT fortunately/RB kept/VBD him/PPO from/IN seeing/VBG the/AT dreadful/JJ town/NN ./pct
 But/CC surely/RB Michigan/NP Avenue/NN was/BEDZ handsome/JJ ?/pct ?/pct
-``/pct That/DT isn't /None a/AT boulevard/NN ,/pct it's /None a/AT racetrack/NN ''/pct !/pct !/pct
+``/pct That/DT isn't/BEZ* a/AT boulevard/NN ,/pct it's/PPSBEZ a/AT racetrack/NN ''/pct !/pct !/pct
 Cried/VBD Wright/NP ,/pct showing/VBG that/CS automobiles/NNS were/BED considered/VBN to/TO be/BE a/AT danger/NN as/QL early/RB as/CS the/AT 1920's/NNS ./pct
 ``/pct This/DT is/BEZ a/AT horrible/JJ way/NN to/TO live/VB ''/pct ,/pct Wright/NP went/VBD on/RP ./pct
 ``/pct You/PPSS are/BER being/BEG strangled/VBN by/IN traffic/NN ''/pct ./pct
@@ -58,11 +58,11 @@ He/PPS was/BEDZ then/RB asked/VBN for/IN a/AT solution/NN of/IN the/AT difficult
 ``/pct Take/VB a/AT gigantic/JJ knife/NN and/CC sweep/VB it/PPO over/IN the/AT Loop/NN ''/pct ,/pct Wright/NP said/VBD ./pct
 ``/pct Cut/VB off/RP every/AT building/NN at/IN the/AT seventh/OD floor/NN ./pct
 Spread/VB everything/PN out/RP ./pct
-You/PPSS don't /None need/VB concentration/NN ./pct
-If/CS you/PPSS cut/VB down/RP these/DTS horrible/JJ buildings/NNS you'll /None have/HV no/QL more/AP traffic/NN jams/NNS ./pct
-You'll /None have/HV trees/NNS again/RB ./pct
-You'll /None have/HV some/DTI joy/NN in/IN the/AT life/NN of/IN this/DT city/NN ./pct
-After/IN all/ABN ,/pct that's /None the/AT job/NN of/IN the/AT architect/NN --/pct to/TO give/VB the/AT world/NN a/AT little/AP joy/NN ''/pct ./pct
+You/PPSS don't/DO* need/VB concentration/NN ./pct
+If/CS you/PPSS cut/VB down/RP these/DTS horrible/JJ buildings/NNS you'll/PPSSMD have/HV no/QL more/AP traffic/NN jams/NNS ./pct
+You'll/PPSSMD have/HV trees/NNS again/RB ./pct
+You'll/PPSSMD have/HV some/DTI joy/NN in/IN the/AT life/NN of/IN this/DT city/NN ./pct
+After/IN all/ABN ,/pct that's/DTBEZ the/AT job/NN of/IN the/AT architect/NN --/pct to/TO give/VB the/AT world/NN a/AT little/AP joy/NN ''/pct ./pct
 Little/AP enough/QLP joy/NN was/BEDZ afforded/VBN Wright/NP in/IN the/AT spring/NN of/IN 1925/CD ,/pct when/WRB another/DT destructive/JJ fire/NN broke/VBD out/RP at/IN Taliesin/NP ./pct
 The/AT first/OD news/NN stories/NNS had/HVD it/PPO that/CS this/DT blaze/NN was/BEDZ started/VBN by/IN a/AT bolt/NN of/IN lightning/NN ,/pct as/CS though/CS Miriam/NP could/MD call/VB down/RP fire/NN from/IN heaven/NN like/CS a/AT prophet/NN of/IN the/AT Old/JJ Testament/NN ./pct
 A/AT storm/NN did/DOD take/VB place/NN that/DT night/NN ,/pct and/CC fortunately/RB enough/QLP ,/pct it/PPS included/VBD a/AT cloudburst/NN that/WPS helped/VBD put/VB out/RP the/AT flames/NNS ./pct
@@ -91,7 +91,7 @@ He/PPS said/VBD that/CS the/AT architect/NN might/MD reasonably/RB be/BE expecte
 Miriam/NP said/VBD that/CS she/PPS must/MD be/BE assured/VBN that/CS ``/pct that/DT other/AP woman/NN ,/pct Olga/NP ,/pct will/MD not/NEG be/BE in/IN luxury/NN while/CS I/PPSS am/BEM scraping/VBG along/RB ''/pct ./pct
 This/DT exhausted/VBD Wright's/NPg patience/NN ,/pct and/CC in/IN consequence/NN he/PPS talked/VBD freely/RB to/IN reporters/NNS in/IN a/AT Madison/NP hotel/NN suite/NN ./pct
 ``/pct Volstead/NP laws/NNS ,/pct speed/NN laws/NNS ,/pct divorce/NN laws/NNS ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct as/CS they/PPSS now/RB stand/VB ,/pct demoralize/VB the/AT individual/NN ,/pct make/VB liars/NNS and/CC law/NN breakers/NNS of/IN us/PPO in/IN one/CD way/NN or/CC another/DT ,/pct and/CC tend/VB to/TO make/VB our/PPg experiment/NN in/IN democracy/NN absurd/JJ ./pct
-If/CS Mrs./NP Wright/NP doesn't /None accept/VB the/AT terms/NNS in/IN the/AT morning/NN ,/pct I'll /None go/VB either/CC to/IN Tokyo/NP or/CC to/IN Holland/NP ,/pct to/TO do/DO what/WDT I/PPSS can/MD ./pct
+If/CS Mrs./NP Wright/NP doesn't/DOZ* accept/VB the/AT terms/NNS in/IN the/AT morning/NN ,/pct I'll/PPSSMD go/VB either/CC to/IN Tokyo/NP or/CC to/IN Holland/NP ,/pct to/TO do/DO what/WDT I/PPSS can/MD ./pct
 I/PPSS realize/VB ,/pct in/IN taking/VBG this/DT stand/NN ,/pct just/RB what/WDT it/PPS means/VBZ to/IN me/PPO and/CC mine/PPgg ''/pct ./pct
 Here/RB Wright/NP gave/VBD a/AT slight/JJ sigh/NN of/IN weariness/NN ,/pct and/CC continued/VBD ,/pct ``/pct It/PPS means/VBZ more/AP long/JJ years/NNS lived/VBN across/IN the/AT social/JJ grain/NN of/IN the/AT life/NN of/IN our/PPg people/NNS ,/pct making/VBG shift/NN to/TO live/VB in/IN the/AT face/NN of/IN popular/JJ disrespect/NN and/CC misunderstanding/VBG as/CS I/PPSS best/RBT can/MD for/IN myself/PPL and/CC those/DTS dependent/JJ upon/IN me/PPO ''/pct ./pct
 Next/AP day/NN ,/pct word/NN came/VBD that/CS Miriam/NP was/BEDZ not/NEG going/VBG through/RP with/IN the/AT divorce/NN ;/pct ;/pct

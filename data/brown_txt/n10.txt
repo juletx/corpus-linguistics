@@ -7,7 +7,7 @@ There/EX was/BEDZ some/DTI idle/JJ talk/NN ,/pct a/AT listless/JJ discussion/NN 
 But/CC they/PPSS deliberately/RB avoided/VBD the/AT one/CD subject/NN that/WPS had/HVD them/PPO all/ABN curious/JJ :/pct the/AT failure/NN of/IN the/AT boss's/NNg wife/NN and/CC son/NN to/TO join/VB the/AT outfit/NN ./pct
 It/PPS especially/RB bothered/VBD the/AT older/JJR hands/NNS ./pct
 The/AT cook/NN ,/pct Mateo/NP Garcia/NP ,/pct had/HVD arrived/VBN there/RB long/JJ before/IN the/AT herd/NN ./pct
-He'd /None started/VBN a/AT fire/NN and/CC put/VBN coffee/NN on/RP ,/pct and/CC now/RB was/BEDZ busy/JJ at/IN the/AT work/NN board/NN of/IN his/PPg chuck/NN wagon/NN ./pct
+He'd/PPSMD started/VBN a/AT fire/NN and/CC put/VBN coffee/NN on/RP ,/pct and/CC now/RB was/BEDZ busy/JJ at/IN the/AT work/NN board/NN of/IN his/PPg chuck/NN wagon/NN ./pct
 He/PPS was/BEDZ readying/VBG a/AT batch/NN of/IN sourdough/NN biscuits/NNS for/IN the/AT Dutch/JJ oven/NN ./pct
 Supper/NN would/MD be/BE ready/JJ within/IN the/AT hour/NN ./pct
 The/AT Maguire/NP family/NN was/BEDZ setting/VBG up/RP a/AT separate/JJ camp/NN nearby/RB ./pct
@@ -16,22 +16,22 @@ Hank/NP had/HVD gathered/VBN wood/NN for/IN a/AT cookfire/NN ,/pct and/CC his/PP
 Conchita/NP kept/VBD an/AT eye/NN on/IN the/AT twins/NNS and/CC little/JJ Elena/NP ,/pct trying/VBG to/TO keep/VB them/PPO from/IN falling/VBG into/IN the/AT creek/NN by/IN which/WDT they/PPSS persisted/VBD in/IN playing/VBG ./pct
 Conchita/NP nagged/VBD at/IN the/AT younger/JJR children/NNS ,/pct attempting/VBG without/IN success/NN to/TO keep/VB her/PPg thoughts/NNS off/IN Tom/NP Brannon/NP ./pct
 Tom/NP Brannon/NP had/HVD caught/VBN up/RP with/IN the/AT outfit/NN shortly/RB after/CS the/AT Maguires/NPS joined/VBD it/PPO ,/pct which/WDT had/HVD been/BEN at/IN midday/NN ./pct
-He'd /None come/VBN alone/RB ,/pct without/IN his/PPg wife/NN and/CC child/NN ./pct
-He'd /None been/BEN in/IN an/AT angry/JJ mood/NN :/pct Conchita/NP had/HVD thought/VBN his/PPg face/NN almost/RB ugly/JJ with/IN the/AT anger/NN in/IN him/PPO ./pct
+He'd/PPSHVD come/VBN alone/RB ,/pct without/IN his/PPg wife/NN and/CC child/NN ./pct
+He'd/PPSHVD been/BEN in/IN an/AT angry/JJ mood/NN :/pct Conchita/NP had/HVD thought/VBN his/PPg face/NN almost/RB ugly/JJ with/IN the/AT anger/NN in/IN him/PPO ./pct
 She/PPS wondered/VBD what/WDT had/HVD taken/VBN place/NN in/IN town/NN ,/pct between/IN him/PPO and/CC his/PPg wife/NN ./pct
 She/PPS wished/VBD that/CS she/PPS could/MD talk/VB to/IN her/PPg mother/NN about/IN it/PPO ./pct
 Not/NEG that/CS her/PPg mother/NN knew/VBD what/WDT had/HVD happened/VBN ,/pct but/CC they/PPSS could/MD speculate/VB upon/IN it/PPO ./pct
 But/CC her/PPg mother/NN would/MD rebuke/VB her/PPO if/CS she/PPS mentioned/VBD it/PPO ,/pct and/CC say/VB that/CS it/PPS was/BEDZ none/PN of/IN her/PPg concern/NN ./pct
 ``/pct Pat/NP ,/pct get/VB out/RP of/IN that/DT creek/NN !/pct !/pct
 You/PPSS too/RB ,/pct Sean/NP !/pct !/pct
-Elena/NP ,/pct you'll /None get/VB mud/NN all/ABN over/IN your/PPg dress/NN ''/pct !/pct !/pct
+Elena/NP ,/pct you'll/PPSSMD get/VB mud/NN all/ABN over/IN your/PPg dress/NN ''/pct !/pct !/pct
 Even/RB as/CS she/PPS called/VBD to/IN the/AT children/NNS ,/pct Conchita/NP let/VB her/PPg gaze/VB seek/VB Tom/NP Brannon/NP ./pct
 Tomas/NP ,/pct she/PPS called/VBD him/PPO --/pct as/CS the/AT Mexican/JJ hands/NNS did/DOD ./pct
 He/PPS was/BEDZ in/IN earnest/JJ conversation/NN with/IN her/PPg father/NN and/CC the/AT old/JJ vaquero/NN ,/pct Luis/NP Hernandez/NP ./pct
 Whatever/WDT they/PPSS are/BER talking/VBG about/RB ?/pct ?/pct
 Conchita/NP wondered/VBD ./pct
 It/PPS bothered/VBD her/PPO that/CS she/PPS probably/RB would/MD never/RB know/VB ./pct
-Certainly/RB ,/pct she/PPS wouldn't /None dare/VB ask/VB her/PPg father/NN afterward/RB ./pct
+Certainly/RB ,/pct she/PPS wouldn't/MD* dare/VB ask/VB her/PPg father/NN afterward/RB ./pct
 He/PPS would/MD tell/VB her/PPO not/NEG to/TO pry/VB into/IN grownups'/NNSg affairs/NNS --/pct as/CS though/CS she/PPS were/BED a/AT little/JJ kid/NN like/CS Elena/NP !/pct !/pct
 At/IN the/AT moment/NN ,/pct the/AT three/CD men/NNS were/BED not/NEG saying/VBG much/AP of/IN anything/PN ./pct
 They/PPSS were/BED sitting/VBG on/IN their/PPg heels/NNS ,/pct rider-fashion/RB ,/pct over/RP by/IN the/AT still/RB empty/JJ calf/NN wagon/NN ./pct
@@ -39,17 +39,17 @@ Brannon/NP was/BEDZ hunkered/VBN down/RP with/IN his/PPg broad/JJ back/NN to/IN 
 He/PPS held/VBD a/AT cigarette/NN in/IN his/PPg right/JJ hand/NN ./pct
 It/PPS was/BEDZ burning/VBG away/RB ,/pct forgotten/VBN ./pct
 His/PPg face/NN was/BEDZ clouded/VBN with/IN unhappiness/NN ./pct
-He'd /None told/VBN Hank/NP Maguire/NP and/CC Luis/NP Hernandez/NP about/IN his/PPg wife's/NNg refusal/NN to/TO come/VB with/IN him/PPO and/CC about/IN what/WDT he/PPS now/RB intended/VBD to/TO do/DO ./pct
+He'd/PPSHVD told/VBN Hank/NP Maguire/NP and/CC Luis/NP Hernandez/NP about/IN his/PPg wife's/NNg refusal/NN to/TO come/VB with/IN him/PPO and/CC about/IN what/WDT he/PPS now/RB intended/VBD to/TO do/DO ./pct
 They/PPSS were/BED considering/VBG it/PPO gravely/RB ,/pct neither/DTX seeming/VBG to/TO like/VB what/WDT he/PPS planned/VBD ./pct
-Finally/RB Hernandez/NP said/VBD ,/pct ``/pct I/PPSS could/MD offer/VB you/PPO advice/NN ,/pct Tomas/NP ,/pct but/CC you/PPSS wouldn't /None heed/VB it/PPO ''/pct ./pct
-``/pct Let's /None hear/VB it/PPO ,/pct anyway/RB ''/pct ./pct
+Finally/RB Hernandez/NP said/VBD ,/pct ``/pct I/PPSS could/MD offer/VB you/PPO advice/NN ,/pct Tomas/NP ,/pct but/CC you/PPSS wouldn't/MD* heed/VB it/PPO ''/pct ./pct
+``/pct Let's/VBPPO hear/VB it/PPO ,/pct anyway/RB ''/pct ./pct
 ``/pct Wait/VB a/AT little/AP while/NN ./pct
 Let/VB Senora/NP Brannon/NP live/VB in/IN her/PPg father's/NNg house/NN for/IN a/AT time/NN ./pct
 Give/VB her/PPO time/NN to/TO miss/VB you/PPO ./pct
 Maybe/RB she/PPS will/MD then/RB come/VB to/IN you/PPO ./pct
 After/IN all/ABN ,/pct you/PPSS want/VB the/AT senora/NN as/QL much/RB as/CS you/PPSS want/VB the/AT boy/NN ./pct
 You/PPSS need/VB her/PPO even/RB more/RBR than/CS you/PPSS need/VB him/PPO ''/pct ./pct
-``/pct She/PPS won't /None change/VB her/PPg mind/NN ''/pct ,/pct Brannon/NP said/VBD ./pct
+``/pct She/PPS won't/MD* change/VB her/PPg mind/NN ''/pct ,/pct Brannon/NP said/VBD ./pct
 ``/pct John/NP Clayton/NP will/MD see/VB to/IN that/DT ''/pct ./pct
 ``/pct But/CC after/IN a/AT time/NN away/RB from/IN you/PPO ./pct
 ``/pct A/AT year/NN ,/pct Luis/NP ?/pct ?/pct
@@ -57,46 +57,46 @@ Five/CD ?/pct ?/pct
 Ten/CD ?/pct ?/pct
 How/WRB long/JJ should/MD I/PPSS wait/VB ''/pct ?/pct ?/pct
 ``/pct Maybe/RB in/IN a/AT year/NN ,/pct Tomas/NP ./pct
-``/pct In/IN a/AT year/NN she'll /None like/VB living/VBG in/IN Clayton's/NPg house/NN too/QL much/RB to/TO come/VB back/RB to/IN me/PPO ''/pct ,/pct Brannon/NP said/VBD flatly/RB ./pct
+``/pct In/IN a/AT year/NN she'll/PPSMD like/VB living/VBG in/IN Clayton's/NPg house/NN too/QL much/RB to/TO come/VB back/RB to/IN me/PPO ''/pct ,/pct Brannon/NP said/VBD flatly/RB ./pct
 ``/pct And/CC the/AT boy/NN will/MD be/BE too/QL much/RB under/IN his/PPg influence/NN by/IN then/RB ./pct
-I've /None got/VBN to/TO take/VB Danny/NP away/RB from/IN Clayton/NP before/CS I/PPSS lose/VB him/PPO altogether/RB ./pct
+I've/PPSSHV got/VBN to/TO take/VB Danny/NP away/RB from/IN Clayton/NP before/CS I/PPSS lose/VB him/PPO altogether/RB ./pct
 Hell/NN ,/pct in/IN a/AT year/NN or/CC five/CD or/CC ten/CD ,/pct the/AT boy/NN will/MD have/HV forgotten/VBN me/PPO --/pct his/PPg own/JJ father/NN ''/pct !/pct !/pct
 ``/pct But/CC to/TO take/VB him/PPO and/CC leave/VB his/PPg mother/NN behind/RB is/BEZ not/NEG good/JJ ''/pct ./pct
-``/pct In/IN my/PPg place/NN ,/pct you'd /None follow/VB such/JJ advice/NN as/CS you/PPSS give/VB me/PPO ''/pct ?/pct ?/pct
+``/pct In/IN my/PPg place/NN ,/pct you'd/PPSSMD follow/VB such/JJ advice/NN as/CS you/PPSS give/VB me/PPO ''/pct ?/pct ?/pct
 Hernandez/NP looked/VBD suddenly/RB uncertain/JJ ./pct
-``/pct That/CS I/PPSS can't /None answer/VB ,/pct for/CS I/PPSS can't /None imagine/VB something/PN like/CS this/DT happening/VBG to/IN me/PPO ./pct
+``/pct That/CS I/PPSS can't/MD* answer/VB ,/pct for/CS I/PPSS can't/MD* imagine/VB something/PN like/CS this/DT happening/VBG to/IN me/PPO ./pct
 Maybe/RB I/PPSS should/MD withdraw/VB my/PPg advice/NN --/pct no/RB ''/pct ?/pct ?/pct
 Brannon/NP looked/VBD at/IN Hank/NP Maguire/NP ./pct
 ``/pct And/CC you/PPO ?/pct ?/pct
 What/WDT would/MD you/PPO do/DO in/IN my/PPg place/NN ''/pct ?/pct ?/pct
 Hank/NP shook/VBD his/PPg head/NN ./pct
-``/pct I/PPSS don't /None know/VB ,/pct Tom/NP ./pct
-Like/CS Luis/NP ,/pct I/PPSS can't /None see/VB something/PN like/CS this/DT happening/VBG to/IN me/PPO ./pct
-With/IN Maria/NP and/CC me/PPO ,/pct there's /None never/RB any/DTI problem/NN ./pct
+``/pct I/PPSS don't/DO* know/VB ,/pct Tom/NP ./pct
+Like/CS Luis/NP ,/pct I/PPSS can't/MD* see/VB something/PN like/CS this/DT happening/VBG to/IN me/PPO ./pct
+With/IN Maria/NP and/CC me/PPO ,/pct there's/EXHVZ never/RB any/DTI problem/NN ./pct
 Where/WRB I/PPSS go/VB ,/pct she/PPS goes/VBZ --/pct and/CC the/AT kids/NNS with/IN us/PPO ./pct
-You're /None going/VBG to/TO need/VB your/PPg woman/NN ./pct
+You're/PPSSBER going/VBG to/TO need/VB your/PPg woman/NN ./pct
 And/CC the/AT boy/NN will/MD need/VB his/PPg mother/NN ./pct
-If/CS you/PPSS take/VB the/AT one/PN ,/pct you'd /None better/RBR take/VB both/ABX ''/pct ./pct
+If/CS you/PPSS take/VB the/AT one/PN ,/pct you'd/PPSSHVD better/RBR take/VB both/ABX ''/pct ./pct
 Brannon/NP shook/VBD his/PPg head/NN ./pct
-``/pct I/PPSS won't /None force/VB Beth/NP to/TO come/VB against/IN her/PPg will/NN ./pct
-But/CC I'm /None going/VBG to/TO have/HV my/PPg son/NN ''/pct ./pct
+``/pct I/PPSS won't/MD* force/VB Beth/NP to/TO come/VB against/IN her/PPg will/NN ./pct
+But/CC I'm/PPSSBEM going/VBG to/TO have/HV my/PPg son/NN ''/pct ./pct
 They/PPSS were/BED silent/JJ for/IN a/AT little/AP while/NN ,/pct each/DT looking/VBG glum/NN ./pct
 Finally/RB Luis/NP Hernandez/NP said/VBD ,/pct ``/pct What/WDT must/MD be/BE ,/pct must/MD be/BE ./pct
 I/PPSS am/BEM with/IN you/PPO ,/pct of/IN course/NN ,/pct Tomas/NP ''/pct ./pct
 And/CC Hank/NP Maguire/NP added/VBD ,/pct ``/pct So/RB am/BEM I/PPSS ,/pct Tom/NP ''/pct ./pct
 ``/pct All/QL right/RB ''/pct ,/pct Brannon/NP said/VBD ,/pct rising/VBG ./pct
-``/pct We'll /None ride/VB out/RP as/CS soon/RB as/CS we've /None had/HVD chuck/NN ''/pct ./pct
+``/pct We'll/PPSSMD ride/VB out/RP as/CS soon/RB as/CS we've/PPSSHV had/HVD chuck/NN ''/pct ./pct
 Brannon/NP timed/VBD it/PPO so/CS that/CS they/PPSS rode/VBD in/IN an/AT hour/NN after/IN nightfall/NN ./pct
 They/PPSS had/HVD for/IN cover/NN both/ABX darkness/NN and/CC a/AT summer/NN storm/NN ./pct
 During/IN much/AP of/IN the/AT fifteen-mile/JJ ride/NN they/PPSS had/HVD watched/VBN a/AT lurid/JJ display/NN of/IN lightning/NN in/IN the/AT sky/NN to/IN the/AT east/NR ./pct
-Later/RBR ,/pct they'd /None heard/VBN the/AT rumble/NN of/IN thunder/NN and/CC then/RB ,/pct just/RB outside/RB Rockfork/NP ,/pct they/PPSS ran/VBD into/IN rain/NN ./pct
+Later/RBR ,/pct they'd/PPSSHVD heard/VBN the/AT rumble/NN of/IN thunder/NN and/CC then/RB ,/pct just/RB outside/RB Rockfork/NP ,/pct they/PPSS ran/VBD into/IN rain/NN ./pct
 Those/DTS who/WPS had/HVD slickers/NNS donned/VBD them/PPO ./pct
 The/AT others/NNS put/VB on/RP old/JJ coats/NNS or/CC ducking/VBG jackets/NNS ,/pct whichever/WDT they/PPSS carried/VBD behind/IN their/PPg saddle/NN cantles/NNS ./pct
 There/EX were/BED seven/CD of/IN them/PPO ,/pct enough/AP for/IN a/AT show/NN of/IN strength/NN --/pct to/TO run/VB a/AT bluff/NN ./pct
 It/PPS was/BEDZ to/TO be/BE nothing/PN more/AP than/IN that/DT ./pct
 There/EX was/BEDZ to/TO be/BE no/AT gunplay/NN ./pct
 If/CS the/AT bluff/NN failed/VBD and/CC they/PPSS ran/VBD into/IN trouble/NN ,/pct Brannon/NP had/HVD told/VBN the/AT others/NNS ,/pct they/PPSS would/MD withdraw/VB --/pct and/CC he/PPS would/MD come/VB after/IN his/PPg son/NN another/DT time/NN ./pct
-He/PPS didn't /None want/VB to/TO put/VB himself/PPL outside/IN the/AT law/NN ./pct
+He/PPS didn't/DOD* want/VB to/TO put/VB himself/PPL outside/IN the/AT law/NN ./pct
 With/IN him/PPO were/BED Hank/NP Maguire/NP ,/pct Luis/NP Hernandez/NP ,/pct and/CC Luis's/NPg son/NN Pedro/NP ./pct
 The/AT Ramirez/NP brothers/NNS were/BED also/RB along/RB ./pct
 The/AT seventh/OD man/NN was/BEDZ Red/NP Hogan/NP ,/pct a/AT wiry/JJ little/AP puncher/NN with/IN a/AT wild/JJ streak/NN and/CC a/AT liking/NN for/IN hell-raising/NN ./pct
@@ -106,7 +106,7 @@ Also/RB because/CS of/IN the/AT storm/NN ,/pct the/AT streets/NNS of/IN Rockfork
 Lighted/VBN windows/NNS glowed/VBD jewel-bright/JJ through/IN the/AT downpour/NN ./pct
 They/PPSS reined/VBD in/RP before/IN the/AT town/NN marshal's/NNg office/NN ,/pct a/AT box-sized/JJ building/NN on/IN Main/JJS Street/NN ./pct
 A/AT lamp/NN burned/VBD inside/RB ,/pct but/CC Brannon/NP ,/pct peering/VBG through/IN the/AT window/NN ,/pct saw/VBD that/CS the/AT office/NN was/BEDZ empty/JJ ./pct
-He'd /None hoped/VBN to/TO catch/VB Jesse/NP Macklin/NP there/RB ./pct
+He'd/PPSHVD hoped/VBN to/TO catch/VB Jesse/NP Macklin/NP there/RB ./pct
 ``/pct Probably/RB just/RB stepped/VBD out/RP ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct Maybe/RB to/TO have/HV supper/NN ./pct
 Red/NP ,/pct come/VB along/RB ./pct
@@ -114,19 +114,19 @@ The/AT rest/NN of/IN you/PPO wait/VB here/RB ''/pct ./pct
 With/IN Red/NP Hogan/NP ,/pct he/PPS rode/VBD to/IN the/AT Welcome/NN Cafe/NN ./pct
 Hogan/NP got/VBD down/RP from/IN the/AT saddle/NN and/CC had/HVD a/AT look/NN inside/RB ./pct
 ``/pct Not/NEG there/RB ''/pct ,/pct he/PPS said/VBD ,/pct getting/VBG back/RB onto/IN his/PPg horse/NN ./pct
-``/pct Maybe/RB he's /None at/IN the/AT hotel/NN ''/pct ./pct
+``/pct Maybe/RB he's/PPSBEZ at/IN the/AT hotel/NN ''/pct ./pct
 They/PPSS rode/VBD to/IN the/AT Rockfork/NP House/NN ,/pct a/AT little/AP farther/RBR along/IN the/AT opposite/JJ side/NN of/IN the/AT street/NN ./pct
 They/PPSS reined/VBD in/RP there/RB ,/pct Brannon/NP remaining/VBG in/IN the/AT saddle/NN while/CS Hogan/NP went/VBD to/TO look/VB for/IN Jesse/NP Macklin/NP in/IN the/AT hotel/NN dining/VBG room/NN ./pct
 Brannon/NP had/HVD no/AT slicker/NN ./pct
-He'd /None put/VB on/RP his/PPg old/JJ brown/JJ corduroy/NN coat/NN and/CC it/PPS was/BEDZ already/RB soaked/VBN ./pct
+He'd/PPSHVD put/VB on/RP his/PPg old/JJ brown/JJ corduroy/NN coat/NN and/CC it/PPS was/BEDZ already/RB soaked/VBN ./pct
 But/CC he/PPS felt/VBD no/AT physical/JJ discomfort/NN ./pct
 He/PPS was/BEDZ only/RB vaguely/RB aware/JJ of/IN the/AT sluicing/VBG rain/NN ./pct
 He/PPS hardly/RB noticed/VBD the/AT blue-green/JJ flashes/NNS of/IN lightning/NN and/CC the/AT hard/JJ claps/NNS of/IN thunder/NN ./pct
 Hogan/NP reappeared/VBD ,/pct stopped/VBD on/IN the/AT hotel/NN porch/NN ,/pct lifted/VBD a/AT hand/NN in/IN signal/NN ./pct
 Brannon/NP dismounted/VBD and/CC climbed/VBD the/AT steps/NNS ./pct
-``/pct He's /None finished/VBN eating/VBG ''/pct ,/pct Hogan/NP said/VBD ./pct
+``/pct He's/PPSHVZ finished/VBN eating/VBG ''/pct ,/pct Hogan/NP said/VBD ./pct
 ``/pct Sitting/VBG with/IN a/AT cup/NN of/IN coffee/NN now/RB ./pct
-It/PPS shouldn't /None be/BE long/JJ ''/pct ./pct
+It/PPS shouldn't/MD* be/BE long/JJ ''/pct ./pct
 It/PPS seemed/VBD long/JJ ,/pct at/IN least/AP to/IN Tom/NP Brannon/NP ./pct
 He/PPS and/CC Hogan/NP waited/VBD by/IN the/AT door/NN ,/pct one/CD to/IN either/DTX side/NN ./pct
 Macklin/NP was/BEDZ the/AT third/OD man/NN to/TO come/VB out/RP ,/pct and/CC he/PPS came/VBD unhurriedly/RB ./pct
@@ -134,45 +134,45 @@ He/PPS was/BEDZ puffing/VBG on/IN a/AT cigar/NN ,/pct and/CC he/PPS was/BEDZ tur
 It/PPS was/BEDZ not/NEG until/CS he/PPS moved/VBD across/IN the/AT porch/NN that/CS he/PPS became/VBD aware/JJ of/IN them/PPO ,/pct and/CC then/RB it/PPS was/BEDZ too/QL late/JJ ./pct
 They/PPSS closed/VBD in/RP fast/RB ,/pct kept/VBD him/PPO from/IN reaching/VBG inside/IN his/PPg coat/NN for/IN his/PPg gun/NN ./pct
 ``/pct Just/RB come/VB along/RB ''/pct ,/pct Brannon/NP told/VBD him/PPO ./pct
-``/pct Don't /None start/VB anything/PN you/PPSS can't /None finish/VB ''/pct ./pct
+``/pct Don't/DO* start/VB anything/PN you/PPSS can't/MD* finish/VB ''/pct ./pct
 ``/pct Now/RB ,/pct listen/VB ''/pct --/pct Macklin/NP began/VBD ./pct
-``/pct We'll /None talk/VB over/RP at/IN your/PPg office/NN ''/pct ./pct
+``/pct We'll/PPSSMD talk/VB over/RP at/IN your/PPg office/NN ''/pct ./pct
 ``/pct Brannon/NP ,/pct I/PPSS warn/VB you/PPO ''/pct !/pct !/pct
-``/pct Let's /None go/VB ,/pct Marshal/NN ''/pct ,/pct Brannon/NP said/VBD ,/pct and/CC took/VBD him/PPO by/IN the/AT arm/NN ./pct
+``/pct Let's/VBPPO go/VB ,/pct Marshal/NN ''/pct ,/pct Brannon/NP said/VBD ,/pct and/CC took/VBD him/PPO by/IN the/AT arm/NN ./pct
 Hogan/NP gripped/VBD the/AT lawman's/NNg other/AP arm/NN ./pct
 They/PPSS escorted/VBD him/PPO down/RP from/IN the/AT porch/NN and/CC through/IN the/AT rain/NN to/IN his/PPg office/NN ./pct
 The/AT other/AP five/CD Slash-B/NP men/NNS followed/VBD them/PPO inside/RB ,/pct crowding/VBG the/AT small/JJ room/NN ./pct
 His/PPg face/NN was/BEDZ stiff/JJ with/IN anger/NN when/WRB they/PPSS let/VB go/VB of/IN his/PPg arms/NNS ./pct
 He/PPS looked/VBD at/IN each/DT of/IN them/PPO in/IN turn/NN ,/pct Brannon/NP last/AP of/IN all/ABN ./pct
-``/pct I'll /None remember/VB you/PPO ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct I'll/PPSSMD remember/VB you/PPO ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct Every/AT last/AP one/CD of/IN you/PPO ./pct
 As/CS for/IN you/PPO ,/pct Brannon/NP ''/pct --/pct
 ``/pct Put/VB your/PPg gun/NN on/IN the/AT desk/NN ,/pct Marshal/NN ''/pct ./pct
 ``/pct Now/RB ,/pct hold/VB on/RP ,/pct damn/VB it/PPO ;/pct ;/pct
-I/PPSS won't /None ''/pct --/pct
+I/PPSS won't/MD* ''/pct --/pct
 Red/NP Hogan's/NPg patience/NN ran/VBD out/RP ./pct
 He/PPS lifted/VBD the/AT skirt/NN of/IN Macklin's/NPg coat/NN ,/pct took/VBD his/PPg gun/NN from/IN its/PPg holster/NN ,/pct tossed/VBD it/PPO onto/IN the/AT desk/NN ./pct
 ``/pct Too/QL much/AP fooling/NN around/RB ''/pct ,/pct he/PPS said/VBD ./pct
-``/pct Don't /None press/VB your/PPg luck/NN ,/pct badge-toter/NN ''/pct ./pct
+``/pct Don't/DO* press/VB your/PPg luck/NN ,/pct badge-toter/NN ''/pct ./pct
 Brannon/NP said/VBD ,/pct ``/pct Now/RB the/AT key/NN to/IN the/AT lockup/NN ,/pct Marshal/NN ''/pct ./pct
 ``/pct Key/NN ''/pct ?/pct ?/pct
 Macklin/NP said/VBD ./pct
 ``/pct What/WDT for/IN ''/pct ?/pct ?/pct
-``/pct Can't /None you/PPSS guess/VB ''/pct ?/pct ?/pct
+``/pct Can't/MD* you/PPSS guess/VB ''/pct ?/pct ?/pct
 Brannon/NP said/VBD ./pct
-``/pct We're /None putting/VBG you/PPO where/WRB you/PPSS won't /None come/VB to/IN harm/NN ./pct
+``/pct We're/PPSSBER putting/VBG you/PPO where/WRB you/PPSS won't/MD* come/VB to/IN harm/NN ./pct
 Come/VB on/RP --/pct the/AT key/NN ./pct
 Get/VB it/PPO out/RP ''/pct !/pct !/pct
 ``/pct Damned/VBN if/CS I/PPSS will/MD ./pct
-Brannon/NP ,/pct you've /None assaulted/VBN a/AT law/NN officer/NN and/CC ''/pct --/pct
+Brannon/NP ,/pct you've/PPSSHV assaulted/VBN a/AT law/NN officer/NN and/CC ''/pct --/pct
 They/PPSS moved/VBD in/RP on/IN him/PPO ,/pct crowded/VBD him/PPO from/IN all/ABN sides/NNS ./pct
 No/AT man/NN laid/VBD a/AT hand/NN on/IN him/PPO ,/pct but/CC the/AT threat/NN of/IN violence/NN was/BEDZ there/RB ./pct
 His/PPg face/NN took/VBD on/RP a/AT sudden/JJ pallor/NN ,/pct became/VBD beaded/VBN with/IN sweat/NN ,/pct and/CC he/PPS seemed/VBD to/TO have/HV trouble/NN with/IN his/PPg breathing/NN ./pct
 He/PPS held/VBD out/RP a/AT moment/NN longer/RBR ,/pct then/RB his/PPg nerve/NN gave/VBD under/IN the/AT pressure/NN ./pct
 He/PPS swore/VBD ,/pct and/CC said/VBD ,/pct ``/pct All/QL right/RB ./pct
-It's /None here/RB in/IN my/PPg pocket/NN ''/pct ./pct
+It's/PPSBEZ here/RB in/IN my/PPg pocket/NN ''/pct ./pct
 ``/pct Get/VB it/PPO out/RP ''/pct ,/pct Brannon/NP ordered/VBD ./pct
-Then/RB ,/pct as/CS Macklin/NP obeyed/VBD :/pct ``/pct Now/RB let's /None go/VB out/RP back/RB ''/pct ./pct
+Then/RB ,/pct as/CS Macklin/NP obeyed/VBD :/pct ``/pct Now/RB let's/VBPPO go/VB out/RP back/RB ''/pct ./pct
 Resignedly/RB ,/pct Macklin/NP turned/VBD to/IN the/AT back/NN door/NN ./pct
 They/PPSS followed/VBD him/PPO into/IN the/AT rain/NN and/CC across/RB to/IN the/AT squat/NN stone/NN building/NN fifty/CD feet/NNS to/IN the/AT rear/NN ./pct
 The/AT door/NN of/IN the/AT lockup/NN was/BEDZ of/IN oak/NN planks/NNS and/CC banded/VBN with/IN strap/NN iron/NN ./pct
@@ -185,8 +185,8 @@ They/PPSS returned/VBD to/IN the/AT street/NN ,/pct mounted/VBD their/PPg horses
 Its/PPg windows/NNS glowed/VBD with/IN lamplight/NN ./pct
 Deputy/NN Marshal/NN Luke/NP Harper/NP still/RB stood/VBD guard/NN on/IN the/AT veranda/NN ,/pct a/AT forlorn/JJ ,/pct scarecrowish/JJ figure/NN in/IN the/AT murky/JJ dark/NN ./pct
 He/PPS came/VBD to/IN the/AT edge/NN of/IN the/AT veranda/NN ,/pct peered/VBD down/RP at/IN them/PPO with/IN his/PPg hand/NN on/IN his/PPg gun/NN ./pct
-``/pct Don't /None try/VB it/PPO ''/pct ,/pct Brannon/NP told/VBD him/PPO ,/pct dismounting/VBG and/CC starting/VBG up/IN the/AT steps/NNS with/IN his/PPg men/NNS following/VBG ./pct
-``/pct Don't /None get/VB yourself/PPL killed/VBN for/IN something/PN that/DT doesn't /None concern/VB you/PPO ''/pct ./pct
+``/pct Don't/DO* try/VB it/PPO ''/pct ,/pct Brannon/NP told/VBD him/PPO ,/pct dismounting/VBG and/CC starting/VBG up/IN the/AT steps/NNS with/IN his/PPg men/NNS following/VBG ./pct
+``/pct Don't/DO* get/VB yourself/PPL killed/VBN for/IN something/PN that/DT doesn't/DOZ* concern/VB you/PPO ''/pct ./pct
 He/PPS strode/VBD past/IN the/AT now/RB frightened/VBN man/NN ,/pct entered/VBD the/AT house/NN ./pct
 Miguel/NP and/CC Arturo/NP Ramirez/NP remained/VBD on/IN the/AT veranda/NN to/TO keep/VB Harper/NP from/IN interfering/VBG ./pct
 The/AT others/NNS followed/VBD Brannon/NP inside/RB ./pct

@@ -44,13 +44,13 @@ The/AT experimental/JJ arrangement/NN as/CS described/VBN below/RB is/BEZ based/
 Thus/RB ,/pct direct/JJ comparisons/NNS can/MD be/BE drawn/VBN with/IN free/RB burning/VBG arcs/NNS which/WDT have/HV been/BEN studied/VBN in/IN detail/NN during/IN the/AT past/AP years/NNS and/CC decades/NNS by/IN numerous/JJ investigators/NNS (/pct Ref./NN 3/CD )/pct ./pct
 Experimental/JJ apparatus/NN
 Figures/NNS 1/CD to/IN 3/CD show/VB photographic/JJ and/CC schematic/JJ views/NNS of/IN the/AT test/NN stand/NN and/CC of/IN two/CD different/JJ models/NNS of/IN the/AT anode/NN holder/NN ./pct
-The/AT cathode/NN consisted/VBD of/IN a/AT 1/4''/NN ''/pct diameter/NN thoriated/VBN tungsten/NN rod/NN attached/VBN to/IN a/AT water/NN cooled/VBN copper/NN tube/NN ./pct
+The/AT cathode/NN consisted/VBD of/IN a/AT 1:4''/NN ''/pct diameter/NN thoriated/VBN tungsten/NN rod/NN attached/VBN to/IN a/AT water/NN cooled/VBN copper/NN tube/NN ./pct
 This/DT tube/NN could/MD be/BE adjusted/VBN in/IN its/PPg axial/JJ direction/NN by/IN an/AT electric/JJ drive/NN to/TO establish/VB the/AT required/VBN electrode/NN spacing/NN ./pct
 The/AT anode/NN in/IN figure/NN 2/CD was/BEDZ mounted/VBN by/IN means/NN of/IN the/AT anode/NN holder/NN which/WDT was/BEDZ attached/VBN to/IN a/AT steel/NN plug/NN and/CC disk/NN ./pct
 The/AT transpiring/VBG gas/NN ejected/VBN from/IN the/AT anode/NN formed/VBD a/AT jet/NN directed/VBN axially/RB towards/IN the/AT cathode/NN below/RB ./pct
 Inflow/NN of/IN air/NN from/IN the/AT surrounding/VBG atmosphere/NN was/BEDZ prevented/VBN by/IN the/AT two/CD disks/NNS shown/VBN in/IN figure/NN 2/CD ./pct
 Argon/NN was/BEDZ also/RB blown/VBN at/IN low/JJ velocities/NNS (/pct mass/NN flow/NN rate/NN Af/NN )/pct through/IN a/AT tube/NN coaxial/JJ with/IN the/AT cathode/NN as/CS an/AT additional/JJ precaution/NN against/IN contamination/NN of/IN the/AT arc/NN by/IN air/NN ./pct
-The/AT anode/NN consisted/VBD of/IN a/AT 1/2/CD inch/NN diameter/NN porous/JJ graphite/NN plug/NN ,/pct 1/4/CD inch/NN long/JJ ./pct
+The/AT anode/NN consisted/VBD of/IN a/AT 1:2/CD inch/NN diameter/NN porous/JJ graphite/NN plug/NN ,/pct 1:4/CD inch/NN long/JJ ./pct
 The/AT graphite/NN was/BEDZ National/JJ Carbon/NN NC/NN 60/CD ,/pct which/WDT has/HVZ a/AT porosity/NN of/IN 50%/NN and/CC an/AT average/JJ pore/NN size/NN of/IN 30/CD ./pct
 This/DT small/JJ pore/NN size/NN was/BEDZ required/VBN to/TO ensure/VB uniformity/NN of/IN the/AT flow/NN leaving/VBG the/AT anode/NN ./pct
 The/AT anode/NN plug/NN (/pct Figure/NN 2/CD )/pct was/BEDZ inserted/VBN into/IN a/AT carbon/NN anode/NN holder/NN ./pct
@@ -62,7 +62,7 @@ Two/CD pyrometers/NNS shown/VBN in/IN figure/NN 1/CD and/CC 2/CD (/pct Pyrometer
 Three/CD thermocouples/NNS were/BED placed/VBN at/IN different/JJ locations/NNS in/IN the/AT aluminum/NN disk/NN surrounding/VBG the/AT anode/NN holder/NN to/TO determine/VB its/PPg temperature/NN ./pct
 Another/DT anode/NN holder/NN used/VBN in/IN the/AT experiments/NNS is/BEZ shown/VBN in/IN figure/NN 3/CD ./pct
 In/IN this/DT design/NN the/AT anode/NN holder/NN is/BEZ water/NN cooled/VBN and/CC the/AT heat/NN losses/NNS by/IN conduction/NN from/IN the/AT anode/NN were/BED determined/VBN by/IN measuring/VBG the/AT temperature/NN rise/NN of/IN the/AT coolant/NN ./pct
-To/TO reduce/VB heat/NN transfer/NN from/IN the/AT hot/JJ gas/NN to/IN this/DT anode/NN holder/NN outside/IN the/AT regime/NN of/IN the/AT arc/NN ,/pct a/AT carbon/NN shield/NN was/BEDZ attached/VBN to/IN the/AT surface/NN providing/VBG an/AT air/NN gap/NN of/IN 1/16/CD inch/NN between/IN the/AT plate/NN and/CC the/AT surface/NN of/IN the/AT anode/NN holder/NN ./pct
+To/TO reduce/VB heat/NN transfer/NN from/IN the/AT hot/JJ gas/NN to/IN this/DT anode/NN holder/NN outside/IN the/AT regime/NN of/IN the/AT arc/NN ,/pct a/AT carbon/NN shield/NN was/BEDZ attached/VBN to/IN the/AT surface/NN providing/VBG an/AT air/NN gap/NN of/IN 1:16/CD inch/NN between/IN the/AT plate/NN and/CC the/AT surface/NN of/IN the/AT anode/NN holder/NN ./pct
 In/IN addition/NN ,/pct the/AT inner/JJ surface/NN of/IN the/AT carbon/NN shield/NN was/BEDZ covered/VBN with/IN aluminum/NN foil/NN to/TO reduce/VB radiation/NN ./pct
 Temperatures/NNS of/IN the/AT shield/NN and/CC of/IN the/AT surface/NN of/IN the/AT water-cooled/JJ anode/NN holder/NN were/BED measured/VBN by/IN thermocouples/NNS to/TO account/VB for/IN heat/NN received/VBN by/IN the/AT coolant/NN but/CC not/NEG originating/VBG from/IN the/AT anode/NN plug/NN ./pct
 The/AT argon/NN flow/NN from/IN commercial/JJ bottles/NNS was/BEDZ regulated/VBN by/IN a/AT pressure/NN regulator/NN and/CC measured/VBN with/IN a/AT gas/NN flow/NN rator/NN ./pct

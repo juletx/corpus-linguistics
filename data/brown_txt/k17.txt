@@ -87,7 +87,7 @@ Andrei/NP glanced/VBD up/RP over/IN the/AT top/NN of/IN the/AT paper/NN and/CC l
 Styka/NP sat/VBD beside/IN him/PPO and/CC pumped/VBD his/PPg hand/NN excitedly/RB ./pct
 ``/pct I/PPSS have/HV been/BEN waiting/VBG across/IN the/AT street/NN at/IN the/AT post/NN office/NN since/IN dawn/NN ./pct
 I/PPSS thought/VBD you/PPSS might/MD get/VB in/RP on/IN a/AT morning/NN train/NN ''/pct ./pct
-``/pct It's /None good/JJ to/TO see/VB you/PPO again/RB ,/pct Styka/NP ''/pct ./pct
+``/pct It's/PPSBEZ good/JJ to/TO see/VB you/PPO again/RB ,/pct Styka/NP ''/pct ./pct
 Styka/NP studied/VBD his/PPg captain/NN ./pct
 He/PPS almost/RB broke/VBD into/IN tears/NNS ./pct
 To/IN him/PPO ,/pct Andrei/NP Androfski/NP had/HVD always/RB been/BEN the/AT living/VBG symbol/NN of/IN a/AT Polish/JJ officer/NN ./pct
@@ -95,7 +95,7 @@ His/PPg captain/NN was/BEDZ thin/JJ and/CC haggard/JJ and/CC his/PPg beautiful/J
 ``/pct Remember/VB to/TO call/VB me/PPO Jan/NP ''/pct ,/pct Andrei/NP said/VBD ./pct
 Styka/NP nodded/VBD and/CC sniffed/VBD and/CC blew/VBD his/PPg nose/NN vociferously/RB ./pct
 ``/pct When/WRB that/DT woman/NN found/VBD me/PPO and/CC told/VBD me/PPO that/CS you/PPSS needed/VBD me/PPO I/PPSS was/BEDZ never/RB so/QL happy/JJ since/IN before/IN the/AT war/NN ''/pct ./pct
-``/pct I'm /None lucky/JJ that/CS you/PPSS were/BED still/RB living/VBG in/IN Lublin/NP ''/pct ./pct
+``/pct I'm/PPSSBEM lucky/JJ that/CS you/PPSS were/BED still/RB living/VBG in/IN Lublin/NP ''/pct ./pct
 Styka/NP grumbled/VBD about/IN fate/NN ./pct
 ``/pct For/IN a/AT time/NN I/PPSS thought/VBD of/IN trying/VBG to/TO reach/VB the/AT Free/JJ Polish/JJ Forces/NNS ,/pct but/CC one/CD thing/NN led/VBD to/IN another/DT ./pct
 I/PPSS got/VBD a/AT girl/NN in/IN trouble/NN and/CC we/PPSS had/HVD to/TO get/VB married/VBN ./pct
@@ -122,17 +122,17 @@ I/PPSS told/VBD him/PPO you/PPSS are/BER on/IN orders/NNS from/IN the/AT Home/NN
 The/AT stories/NNS Everyone/PN really/RB knows/VBZ what/WDT is/BEZ happening/VBG there/RB ''/pct ./pct
 ``/pct Not/NEG everyone/PN ,/pct Styka/NP ''/pct ./pct
 ``/pct What/WDT good/NN will/MD it/PPS really/RB do/DO ''/pct ?/pct ?/pct
-``/pct I/PPSS don't /None know/VB ./pct
+``/pct I/PPSS don't/DO* know/VB ./pct
 Perhaps/RB perhaps/RB there/EX is/BEZ a/AT shred/NN of/IN conscience/NN left/VBN in/IN the/AT human/NN race/NN ./pct
 Perhaps/RB if/CS they/PPSS know/VB the/AT story/NN there/EX will/MD be/BE a/AT massive/JJ cry/NN of/IN indignation/NN ''/pct ./pct
 ``/pct Do/DO you/PPSS really/RB believe/VB that/DT ,/pct Jan/NP ''/pct ?/pct ?/pct
 ``/pct I/PPSS have/HV to/TO believe/VB it/PPO ''/pct ./pct
 Styka/NP shook/VBD his/PPg head/NN slowly/RB ./pct
 ``/pct I/PPSS am/BEM only/RB a/AT simple/JJ soldier/NN ./pct
-I/PPSS cannot /None think/VB things/NNS out/RP too/QL well/RB ./pct
+I/PPSS cannot/MD* think/VB things/NNS out/RP too/QL well/RB ./pct
 Until/CS I/PPSS was/BEDZ transferred/VBN into/IN the/AT Seventh/OD Ulanys/NPS I/PPSS was/BEDZ like/CS every/AT other/AP Pole/NP in/IN my/PPg feeling/NN about/IN Jews/NPS ./pct
 I/PPSS hated/VBD you/PPO when/WRB I/PPSS first/RB came/VBD in/RP ./pct
-But/CC my/PPg captain/NN might/MD have/HV been/BEN a/AT Jew/NP ,/pct but/CC he/PPS wasn't /None a/AT Jew/NP ./pct
+But/CC my/PPg captain/NN might/MD have/HV been/BEN a/AT Jew/NP ,/pct but/CC he/PPS wasn't/BEDZ* a/AT Jew/NP ./pct
 What/WDT I/PPSS mean/VB is/BEZ ,/pct he/PPS was/BEDZ a/AT Pole/NP and/CC the/AT greatest/JJT soldier/NN in/IN the/AT Ulanys/NPS ./pct
 Hell/UH ,/pct sir/NN ./pct
 The/AT men/NNS of/IN our/PPg company/NN had/HVD a/AT dozen/NN fights/NNS defending/VBG your/PPg name/NN ./pct
@@ -146,13 +146,13 @@ The/AT men/NNS of/IN your/PPg company/NN would/MD not/NEG allow/VB your/PPg name
 Why/WRB do/DO we/PPSS let/VB the/AT Germans/NPS do/DO this/DT ''/pct ?/pct ?/pct
 ``/pct I/PPSS have/HV sat/VBN many/AP hours/NNS with/IN this/DT ,/pct Styka/NP ./pct
 All/ABN I/PPSS ever/RB wanted/VBD was/BEDZ to/TO be/BE a/AT free/JJ man/NN in/IN my/PPg own/JJ country/NN ./pct
-I've /None lost/VBN faith/NN ,/pct Styka/NP ./pct
-I/PPSS used/VBD to/TO love/VB this/DT country/NN and/CC believe/VB that/CS someday/RB we'd /None win/VB our/PPg battle/NN for/IN equality/NN ./pct
+I've/PPSSHV lost/VBN faith/NN ,/pct Styka/NP ./pct
+I/PPSS used/VBD to/TO love/VB this/DT country/NN and/CC believe/VB that/CS someday/RB we'd/PPSSMD win/VB our/PPg battle/NN for/IN equality/NN ./pct
 But/CC now/RB I/PPSS think/VB I/PPSS hate/VB it/PPO very/QL much/RB ''/pct ./pct
 ``/pct And/CC do/DO you/PPSS really/RB think/VB that/CS the/AT world/NN outside/IN Poland/NP will/MD care/VB any/DTI more/RBR than/CS we/PPSS do/DO ''/pct ?/pct ?/pct
 The/AT question/NN frightened/VBD Andrei/NP ./pct
-``/pct Please/VB don't /None go/VB inside/IN Majdanek/NP ''/pct ./pct
-``/pct I'm /None still/RB a/AT soldier/NN in/IN a/AT very/QL small/JJ way/NN ,/pct Styka/NP ''/pct ./pct
+``/pct Please/VB don't/DO* go/VB inside/IN Majdanek/NP ''/pct ./pct
+``/pct I'm/PPSSBEM still/RB a/AT soldier/NN in/IN a/AT very/QL small/JJ way/NN ,/pct Styka/NP ''/pct ./pct
 It/PPS was/BEDZ an/AT answer/NN that/CS Styka/NP understood/VBD ./pct
 Grabski's/NPg shanty/NN was/BEDZ beyond/IN the/AT bridge/NN over/IN the/AT River/NN Bystrzyca/NP near/IN the/AT rail/NN center/NN ./pct
 Grabski/NP sat/VBD in/IN a/AT sweat-saturated/JJ undershirt/NN ,/pct cursing/VBG the/AT excessive/JJ heat/NN which/WDT clamped/VBD an/AT uneasy/JJ stillness/NN before/IN sundown/NN ./pct
@@ -168,10 +168,10 @@ He/PPS grunted/VBD a/AT sort/NN of/IN ``/pct yes/RB ''/pct answer/NN ./pct
 He/PPS can/MD make/VB you/PPO work/NN papers/NNS ./pct
 It/PPS will/MD take/VB a/AT few/AP days/NNS ./pct
 I/PPSS will/MD get/VB you/PPO inside/IN the/AT guard/NN camp/NN as/CS a/AT member/NN of/IN my/PPg crew/NN ./pct
-I/PPSS don't /None know/VB if/CS I/PPSS can/MD get/VB you/PPO into/IN the/AT inner/JJ camp/NN ./pct
+I/PPSS don't/DO* know/VB if/CS I/PPSS can/MD get/VB you/PPO into/IN the/AT inner/JJ camp/NN ./pct
 Maybe/RB yes/RB ,/pct maybe/RB no/RB ,/pct but/CC you/PPSS can/MD observe/VB everything/PN from/IN the/AT roof/NN of/IN a/AT barrack/NN we/PPSS are/BER building/VBG ''/pct ./pct
 Grabski/NP slurped/VBD his/PPg way/NN to/IN the/AT bottom/NN of/IN the/AT soup/NN bowl/NN ./pct
-``/pct Can't /None understand/VB why/WRB the/AT hell/NN anyone/PN wants/VBZ to/TO go/VB inside/RB that/DT son-of-a-bitch/NN place/NN ''/pct ./pct
+``/pct Can't/MD* understand/VB why/WRB the/AT hell/NN anyone/PN wants/VBZ to/TO go/VB inside/RB that/DT son-of-a-bitch/NN place/NN ''/pct ./pct
 ``/pct Orders/NNS from/IN the/AT Home/NN Army/NN ''/pct ./pct
 ``/pct Why/WRB ?/pct ?/pct
 Nothing/PN there/RB but/IN Jews/NPS ''/pct ./pct
@@ -181,7 +181,7 @@ Andrei/NP shrugged/VBD ./pct
 Andrei/NP peeled/VBD off/RP five/CD one-thousand-zloty/NN notes/NNS ./pct
 Grabski/NP had/HVD never/RB seen/VBN so/QL much/AP money/NN ./pct
 His/PPg broad/JJ flat/JJ fingers/NNS ,/pct petrified/VBN into/IN massive/JJ sausages/NNS by/IN years/NNS of/IN bricklaying/NN ,/pct snatched/VBD the/AT bills/NNS clumsily/RB ./pct
-``/pct This/DT ain't /None enough/QLP ''/pct ./pct
-``/pct You/PPSS get/VB the/AT rest/NN when/WRB I'm /None safely/RB out/IN of/IN Majdanek/NP ''/pct ./pct
-``/pct I/PPSS ain't /None taking/VBG no/AT goddamned/VBN chances/NNS for/IN no/AT Jew/NP business/NN ''/pct ./pct
+``/pct This/DT ain't/BEZ* enough/QLP ''/pct ./pct
+``/pct You/PPSS get/VB the/AT rest/NN when/WRB I'm/PPSSBEM safely/RB out/IN of/IN Majdanek/NP ''/pct ./pct
+``/pct I/PPSS ain't/BEM* taking/VBG no/AT goddamned/VBN chances/NNS for/IN no/AT Jew/NP business/NN ''/pct ./pct
 Andrei/NP and/CC Styka/NP were/BED silent/JJ ./pct

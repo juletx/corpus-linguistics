@@ -55,7 +55,7 @@ But/CC that/CS one/PN should/MD superimpose/VB all/ABN these/DTS charts/NNS ,/pc
 He/PPS might/MD even/RB suppose/VB the/AT planets/NNS to/TO move/VB at/IN infinity/NN ./pct
 Ptolemy's/NPg problem/NN is/BEZ to/TO forecast/VB where/WRB ,/pct against/IN the/AT inverted/VBN bowl/NN of/IN night/NN ,/pct some/DTI particular/JJ light/NN will/MD be/BE found/VBN at/IN future/JJ times/NNS ./pct
 His/PPg problem/NN concerns/VBZ longitudes/NNS ,/pct latitudes/NNS ,/pct and/CC angular/JJ velocities/NNS ./pct
-The/AT distances/NNS of/IN these/DTS points/NNS of/IN light/NN is/BEZ a/AT problem/NN he/PPS cannot /None master/VB ,/pct beyond/IN crude/JJ conjectures/NNS as/IN to/IN the/AT orderings/NNS of/IN the/AT planetary/JJ orbits/NNS viewed/VBN outward/RB from/IN earth/NN ./pct
+The/AT distances/NNS of/IN these/DTS points/NNS of/IN light/NN is/BEZ a/AT problem/NN he/PPS cannot/MD* master/VB ,/pct beyond/IN crude/JJ conjectures/NNS as/IN to/IN the/AT orderings/NNS of/IN the/AT planetary/JJ orbits/NNS viewed/VBN outward/RB from/IN earth/NN ./pct
 But/CC none/PN of/IN this/DT has/HVZ prevented/VBN scientists/NNS ,/pct philosophers/NNS ,/pct and/CC even/RB historians/NNS of/IN science/NN ,/pct from/IN speaking/VBG of/IN the/AT Ptolemaic/JJ system/NN ,/pct in/IN contrast/NN to/IN the/AT Copernican/JJ ./pct
 This/DT is/BEZ a/AT mistake/NN ./pct
 It/PPS is/BEZ engendered/VBN by/IN confounding/VBG the/AT Aristotelian/JJ cosmology/NN in/IN The/AT Almagest/NP with/IN the/AT geocentric/JJ astronomy/NN ./pct
@@ -63,8 +63,8 @@ Ptolemy/NP recurrently/RB denies/VBZ that/CS he/PPS could/MD ever/RB explain/VB 
 This/DT is/BEZ what/WDT necessitates/VBZ the/AT nonsystematic/JJ character/NN of/IN his/PPg astronomy/NN ./pct
 So/RB when/WRB textbooks/NNS ,/pct like/CS that/DT of/IN Baker/NP set/VB out/RP drawings/NNS of/IN the/AT '/pct Ptolemaic/JJ System/NN '/pct ,/pct complete/JJ with/IN earth/NN in/IN the/AT center/NN and/CC the/AT seven/CD heavenly/JJ bodies/NNS epicyclically/RB arranged/VBN on/IN their/PPg several/AP deferents/NNS ,/pct we/PPSS have/HV nothing/PN but/IN a/AT misleading/VBG 20th-century/NN idea/NN of/IN what/WDT never/RB existed/VBD historically/RB ./pct
 It/PPS is/BEZ the/AT chief/JJS merit/NN in/IN Copernicus'/NPg work/NN that/CS all/ABN his/PPg planetary/JJ calculations/NNS are/BER interdependent/JJ ./pct
-He/PPS cannot /None ,/pct e.g./RB compute/VB the/AT retrograde/JJ arc/NN traveled/VBN by/IN Mars/NP ,/pct without/IN also/RB making/VBG suppositions/NNS about/IN the/AT earth's/NNg own/JJ motion/NN ./pct
-He/PPS cannot /None describe/VB eclipses/NNS without/IN entertaining/VBG some/DTI form/NN of/IN a/AT three-body/JJ problem/NN ./pct
+He/PPS cannot/MD* ,/pct e.g./RB compute/VB the/AT retrograde/JJ arc/NN traveled/VBN by/IN Mars/NP ,/pct without/IN also/RB making/VBG suppositions/NNS about/IN the/AT earth's/NNg own/JJ motion/NN ./pct
+He/PPS cannot/MD* describe/VB eclipses/NNS without/IN entertaining/VBG some/DTI form/NN of/IN a/AT three-body/JJ problem/NN ./pct
 In/IN Ptolemaic/JJ terms/NNS ,/pct however/RB ,/pct eclipses/NNS and/CC retrograde/JJ motion/NN were/BED phenomena/NNS simpliciter/RB ,/pct to/TO be/BE explained/VBN directly/RB as/CS possible/JJ resultants/NNS of/IN epicyclical/JJ combinations/NNS ./pct
 In/IN a/AT systematic/JJ astronomy/NN ,/pct like/CS that/DT of/IN Copernicus/NP ,/pct retrogradations/NNS become/VB part/NN of/IN the/AT conceptual/JJ structure/NN of/IN the/AT system/NN ;/pct ;/pct
 they/PPSS are/BER no/QL longer/RBR a/AT puzzling/JJ aspect/NN of/IN intricately/QL variable/JJ ,/pct local/JJ planetary/JJ motions/NNS ./pct

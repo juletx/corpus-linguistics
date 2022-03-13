@@ -30,8 +30,8 @@ Now/RB her/PPg modern/JJ tapestries/NNS have/HV been/BEN exhibited/VBN on/IN two
 Her/PPg days/NNS as/CS an/AT art/NN student/NN at/IN the/AT University/NN of/IN Budapest/NP came/VBD to/IN a/AT sudden/JJ end/NN during/IN the/AT Hungarian/NP uprisings/NNS in/IN 1957/CD and/CC she/PPS and/CC her/PPg husband/NN Stephen/NP fled/VBD to/IN Vienna/NP ./pct
 There/RB they/PPSS continued/VBD their/PPg studies/NNS at/IN the/AT university/NN ,/pct she/PPS in/IN art/NN ,/pct he/PPS in/IN architecture/NN ./pct
 And/CC there/RB she/PPS had/HVD her/PPg first/OD showing/NN of/IN tapestry/NN work/NN ./pct
-There's /None a/AT lot/NN of/IN talk/NN about/IN the/AT problem/NN of/IN education/NN in/IN America/NP today/NR ./pct
-What/WDT most/AP people/NNS don't /None seem/VB to/TO realize/VB ,/pct if/CS they/PPSS aren't /None tied/VBN up/RP with/IN the/AT thing/NN as/CS I/PPSS am/BEM ,/pct is/BEZ that/CS 90%/NN of/IN the/AT problem/NN is/BEZ transportation/NN ./pct
+There's/EXBEZ a/AT lot/NN of/IN talk/NN about/IN the/AT problem/NN of/IN education/NN in/IN America/NP today/NR ./pct
+What/WDT most/AP people/NNS don't/DO* seem/VB to/TO realize/VB ,/pct if/CS they/PPSS aren't/BER* tied/VBN up/RP with/IN the/AT thing/NN as/CS I/PPSS am/BEM ,/pct is/BEZ that/CS 90%/NN of/IN the/AT problem/NN is/BEZ transportation/NN ./pct
 I/PPSS never/RB dreamed/VBD of/IN the/AT logistical/JJ difficulties/NNS involved/VBN until/CS ,/pct at/IN long/JJ last/AP ,/pct both/ABX of/IN my/PPg boys/NNS got/VBD squeezed/VBN into/IN high/JJ school/NN ./pct
 It/PPS seems/VBZ like/CS only/RB last/AP year/NN that/CS we/PPSS watched/VBD them/PPO set/VB out/RP up/IN the/AT hill/NN hand/NN in/IN hand/NN on/IN a/AT rainy/JJ day/NN in/IN their/PPg yellow/JJ raincoats/NNS to/TO finger-paint/VB at/IN the/AT grammar/NN school/NN ./pct
 Getting/VBG to/IN and/CC from/IN school/NN was/BEDZ no/AT problem/NN ./pct
@@ -39,36 +39,36 @@ They/PPSS either/CC walked/VBD or/CC were/BED driven/VBN ./pct
 Now/RB they/PPSS go/VB to/IN a/AT high/JJ school/NN that/WPS is/BEZ two/CD miles/NNS away/RB ./pct
 One/PN might/MD think/VB the/AT problem/NN would/MD be/BE similar/JJ ./pct
 They/PPSS could/MD walk/VB ,/pct ride/VB on/IN a/AT bus/NN or/CC be/BE driven/VBN ./pct
-It's /None much/QL more/QL complex/JJ than/CS that/DT ./pct
+It's/PPSBEZ much/QL more/QL complex/JJ than/CS that/DT ./pct
 Generally/RB ,/pct they/PPSS go/VB to/IN school/NN with/IN a/AT girl/NN named/VBN Gloriana/NP ,/pct who/WPS lives/VBZ down/IN the/AT block/NN ,/pct and/CC has/HVZ a/AT car/NN ./pct
 This/DT is/BEZ a/AT way/NN of/IN getting/VBG to/IN school/NN ,/pct but/CC ,/pct I/PPSS understand/VB ,/pct it/PPS entails/VBZ a/AT certain/JJ loss/NN of/IN social/JJ status/NN ./pct
-A/AT young/JJ man/NN doesn't /None like/VB to/TO be/BE driven/VBN up/RP in/IN front/NN of/IN a/AT school/NN in/IN a/AT car/NN driven/VBN by/IN a/AT girl/NN who/WPS isn't /None even/RB in/IN a/AT higher/JJR class/NN than/CS he/PPS is/BEZ ,/pct and/CC is/BEZ also/RB a/AT girl/NN ./pct
-``/pct Why/WRB don't /None you/PPSS walk/VB to/IN school/NN then/RB ''/pct ?/pct ?/pct
+A/AT young/JJ man/NN doesn't/DOZ* like/VB to/TO be/BE driven/VBN up/RP in/IN front/NN of/IN a/AT school/NN in/IN a/AT car/NN driven/VBN by/IN a/AT girl/NN who/WPS isn't/BEZ* even/RB in/IN a/AT higher/JJR class/NN than/CS he/PPS is/BEZ ,/pct and/CC is/BEZ also/RB a/AT girl/NN ./pct
+``/pct Why/WRB don't/DO* you/PPSS walk/VB to/IN school/NN then/RB ''/pct ?/pct ?/pct
 I/PPSS suggested/VBD ./pct
 ``/pct My/PPg father/NN walked/VBD ,/pct through/IN two/CD miles/NNS of/IN snow/NN ,/pct in/IN Illinois/NP ''/pct ./pct
 ``/pct Did/DOD you/PPSS ''/pct ?/pct ?/pct
 I/PPSS was/BEDZ asked/VBN ./pct
-``/pct No/RB ''/pct ,/pct I/PPSS said/VBD ,/pct ``/pct I/PPSS didn't /None happen/VB to/TO grow/VB up/RP in/IN Illinois/NP ''/pct ./pct
+``/pct No/RB ''/pct ,/pct I/PPSS said/VBD ,/pct ``/pct I/PPSS didn't/DOD* happen/VB to/TO grow/VB up/RP in/IN Illinois/NP ''/pct ./pct
 I/PPSS explained/VBD ,/pct however/WRB ,/pct that/CS I/PPSS had/HVD my/PPg share/NN of/IN hardship/NN in/IN making/VBG my/PPg daily/JJ pilgrimage/NN to/IN the/AT feet/NNS of/IN wisdom/NN ./pct
 I/PPSS had/HVD to/TO ride/VB a/AT streetcar/NN two/CD miles/NNS ./pct
 Sometimes/RB the/AT streetcar/NN was/BEDZ late/RB ./pct
-Sometimes/RB there/EX weren't /None even/RB any/DTI seats/NNS ./pct
+Sometimes/RB there/EX weren't/BED* even/RB any/DTI seats/NNS ./pct
 I/PPSS had/HVD to/TO stand/VB up/RP ,/pct with/IN the/AT ladies/NNS ./pct
-Sometimes/RB I/PPSS got/VBD on/IN the/AT wrong/JJ car/NN and/CC didn't /None get/VB to/IN school/NN at/IN all/ABN ,/pct but/CC wound/VBD up/RP at/IN the/AT ocean/NN ,/pct or/CC some/DTI other/AP dismal/JJ place/NN ,/pct and/CC had/HVD to/TO spend/VB the/AT day/NN there/RB ./pct
-I've /None tried/VBN to/TO compromise/VB by/IN letting/VBG them/PPO take/VB the/AT little/JJ car/NN now/RB and/CC then/RB ./pct
+Sometimes/RB I/PPSS got/VBD on/IN the/AT wrong/JJ car/NN and/CC didn't/DOD* get/VB to/IN school/NN at/IN all/ABN ,/pct but/CC wound/VBD up/RP at/IN the/AT ocean/NN ,/pct or/CC some/DTI other/AP dismal/JJ place/NN ,/pct and/CC had/HVD to/TO spend/VB the/AT day/NN there/RB ./pct
+I've/PPSSHV tried/VBN to/TO compromise/VB by/IN letting/VBG them/PPO take/VB the/AT little/JJ car/NN now/RB and/CC then/RB ./pct
 When/WRB they/PPSS do/DO that/DT my/PPg wife/NN has/HVZ to/TO drive/VB me/PPO to/IN work/NN in/IN the/AT big/JJ car/NN ./pct
 She/PPS has/HVZ to/TO have/HV at/IN least/AP one/CD car/NN herself/PPL ./pct
 I/PPSS feel/VB a/AT certain/JJ loss/NN of/IN status/NN when/WRB I/PPSS am/BEM driven/VBN up/RP in/IN front/NN of/IN work/NN in/IN a/AT car/NN driven/VBN by/IN my/PPg wife/NN ,/pct who/WPS is/BEZ only/RB a/AT woman/NN ./pct
-Even/RB that/DT isn't /None satisfactory/JJ ./pct
-If/CS they/PPSS have/HV to/TO take/VB any/DTI car/NN ,/pct they'd /None rather/RB take/VB the/AT big/JJ one/CD ./pct
-They/PPSS say/VB that/CS when/WRB they/PPSS take/VB a/AT car/NN ,/pct Gloriana/NP doesn't /None take/VB her/PPg car/NN ,/pct but/CC rides/VBZ with/IN them/PPO ./pct
-But/CC when/WRB Gloriana/NP rides/VBZ with/IN them/PPO they/PPSS also/RB have/HV to/TO take/VB the/AT two/CD girls/NNS who/WPS usually/RB ride/VB with/IN her/PPO ,/pct so/CS the/AT little/JJ car/NN isn't /None big/JJ enough/QLP ./pct
+Even/RB that/DT isn't/BEZ* satisfactory/JJ ./pct
+If/CS they/PPSS have/HV to/TO take/VB any/DTI car/NN ,/pct they'd/PPSSMD rather/RB take/VB the/AT big/JJ one/CD ./pct
+They/PPSS say/VB that/CS when/WRB they/PPSS take/VB a/AT car/NN ,/pct Gloriana/NP doesn't/DOZ* take/VB her/PPg car/NN ,/pct but/CC rides/VBZ with/IN them/PPO ./pct
+But/CC when/WRB Gloriana/NP rides/VBZ with/IN them/PPO they/PPSS also/RB have/HV to/TO take/VB the/AT two/CD girls/NNS who/WPS usually/RB ride/VB with/IN her/PPO ,/pct so/CS the/AT little/JJ car/NN isn't/BEZ* big/JJ enough/QLP ./pct
 The/AT logic/NN of/IN that/DT is/BEZ impeccable/JJ ,/pct of/IN course/NN ,/pct except/IN that/CS I/PPSS feel/VB like/CS a/AT fool/NN being/BEG driven/VBN up/RP to/IN work/NN in/IN a/AT little/JJ car/NN ,/pct by/IN my/PPg wife/NN ,/pct when/WRB everybody/PN knows/VBZ I/PPSS have/HV a/AT big/JJ car/NN and/CC am/BEM capable/JJ of/IN driving/VBG myself/PPL ./pct
 The/AT solution/NN ,/pct naturally/RB ,/pct is/BEZ the/AT bus/NN ./pct
-However/WRB ,/pct it's /None a/AT half-mile/NN walk/NN down/IN a/AT steep/JJ hill/NN from/IN our/PPg house/NN to/IN the/AT bus/NN ,/pct and/CC it's /None too/QL hard/JJ on/IN my/PPg legs/NNS ./pct
+However/WRB ,/pct it's/PPSBEZ a/AT half-mile/NN walk/NN down/IN a/AT steep/JJ hill/NN from/IN our/PPg house/NN to/IN the/AT bus/NN ,/pct and/CC it's/PPSBEZ too/QL hard/JJ on/IN my/PPg legs/NNS ./pct
 My/PPg wife/NN could/MD drive/VB us/PPO down/IN the/AT hill/NN and/CC we/PPSS could/MD all/ABN walk/VB from/IN there/RB ./pct
-But/CC that's /None hardly/QL realistic/JJ ./pct
-Nobody/PN walks/VBZ anymore/RB but/IN crackpots/NNS and/CC Harry/NP Truman/NP ,/pct and/CC he's /None already/RB got/VBN an/AT education/NN ./pct
+But/CC that's/DTBEZ hardly/QL realistic/JJ ./pct
+Nobody/PN walks/VBZ anymore/RB but/IN crackpots/NNS and/CC Harry/NP Truman/NP ,/pct and/CC he's/PPSHVZ already/RB got/VBN an/AT education/NN ./pct
 Advance/JJ publicity/NN on/IN the/AT Los/NP Angeles/NP Blue/JJ Book/NN does/DOZ not/NEG mention/VB names/NNS dropped/VBN as/CS did/DOD the/AT notices/NNS for/IN the/AT New/JJ York/NP Social/JJ Register/NN which/WDT made/VBD news/NN last/AP week/NN ./pct
 Published/VBN annually/RB by/IN William/NP Hord/NP Richardson/NP ,/pct the/AT 1962/CD edition/NN ,/pct subtitled/VBN Society/NN Register/NN of/IN Southern/JJ California/NP ,/pct is/BEZ scheduled/VBN to/TO arrive/VB with/IN Monday/NR morning's/NNg postman/NN ./pct
 Publisher/NN Richardson/NP has/HVZ updated/VBN the/AT Blue/JJ Book/NN ``/pct but/CC it/PPS still/RB remains/VBZ the/AT compact/JJ reference/NN book/NN used/VBN by/IN so/QL many/AP for/IN those/DTS ever-changing/JJ telephone/NN numbers/NNS ,/pct addresses/NNS ,/pct other/AP residences/NNS ,/pct club/NN affiliations/NNS and/CC marriages/NNS ''/pct ./pct
@@ -95,7 +95,7 @@ And/CC Lawrence/NP Chase/NP ,/pct son/NN of/IN the/AT Ransom/NP Chases/NPS ,/pct
 Others/NNS listed/VBN at/IN new/JJ addresses/NNS are/BER the/AT Richard/NP T./NP Olerichs/NP ,/pct the/AT Joseph/NP Aderholds/NPS Jr./NP ,/pct the/AT Henri/NP De/NP La/NP Chapelles/NPS ,/pct the/AT John/NP Berteros/NP and/CC Dr./NN and/CC Mrs./NP Egerton/NP Crispin/NP ,/pct the/AT John/NP Armisteads/NPS ,/pct the/AT Allen/NP Chases/NPS ,/pct the/AT Howard/NP Lockies/NPS ,/pct the/AT Thomas/NP Lockies/NPS ,/pct and/CC Anthony/NP Longinotti/NP ./pct
 Newcomers/NNS of/IN social/JJ note/NN from/IN other/AP parts/NNS of/IN the/AT country/NN are/BER the/AT Ray/NP Carbones/NPS ,/pct formerly/RB of/IN Panama/NP ;/pct ;/pct
 the/AT Geddes/NP MacGregors/NP ,/pct formerly/RB of/IN Scotland/NP ,/pct and/CC Mr./NP and/CC Mrs./NP Werner/NP H./NP Althaus/NP ,/pct formerly/RB of/IN Switzerland/NP ./pct
-Here's /None an/AT idea/NN for/IN a/AT child's/NNg room/NN that/WPS is/BEZ easy/JJ to/TO execute/VB and/CC is/BEZ completely/RB charming/JJ ,/pct using/VBG puppets/NNS for/IN lamp/NN bases/NNS ./pct
+Here's/RBBEZ an/AT idea/NN for/IN a/AT child's/NNg room/NN that/WPS is/BEZ easy/JJ to/TO execute/VB and/CC is/BEZ completely/RB charming/JJ ,/pct using/VBG puppets/NNS for/IN lamp/NN bases/NNS ./pct
 Most/AP children/NNS love/VB the/AT animated/VBN puppet/NN faces/NNS and/CC their/PPg flexible/JJ bodies/NNS ,/pct and/CC they/PPSS prefer/VB to/TO see/VB them/PPO as/CS though/CS the/AT puppets/NNS were/BED in/IN action/NN ,/pct rather/IN than/IN put/VBN away/RB in/IN boxes/NNS ./pct
 Displayed/VBN as/CS lamps/NNS ,/pct the/AT puppets/NNS delight/VB the/AT children/NNS and/CC are/BER decorative/JJ accent/NN ./pct
 To/TO create/VB such/ABL a/AT lamp/NN ,/pct order/VB a/AT wired/VBN pedestal/NN from/IN any/DTI lamp/NN shop/NN ./pct
@@ -112,7 +112,7 @@ Today's/NRg trend/NN toward/IN furniture/NN designs/NNS from/IN America's/NPg pa
 A/AT generation/NN ago/RB there/EX were/BED plenty/NN of/IN people/NNS who/WPS appreciated/VBD antiques/NNS and/CC fine/JJ reproductions/NNS ./pct
 In/IN the/AT background/NN lurked/VBD the/AT feeling/NN ,/pct however/WRB ,/pct that/CS these/DTS pieces/NNS ,/pct beautiful/JJ as/CS they/PPSS were/BED ,/pct lacked/VBD the/AT utilitarian/JJ touch/NN ./pct
 So/RB junior's/NNg bedroom/NN was/BEDZ usually/RB tricked/VBN out/RP with/IN heavy/JJ ,/pct nondescript/JJ pieces/NNS that/WPS supposedly/RB could/MD take/VB the/AT ``/pct hard/JJ knocks/NNS ''/pct ,/pct while/CS the/AT fine/JJ secretary/NN was/BEDZ relegated/VBN to/IN the/AT parlor/NN where/WRB it/PPS was/BEDZ for/IN show/NN only/RB ./pct
-This/DT isn't /None true/JJ of/IN the/AT many/AP homemakers/NNS of/IN the/AT 1960's/NNS ,/pct according/IN to/IN decorator/NN consultant/NN ,/pct Leland/NP Alden/NP ./pct
+This/DT isn't/BEZ* true/JJ of/IN the/AT many/AP homemakers/NNS of/IN the/AT 1960's/NNS ,/pct according/IN to/IN decorator/NN consultant/NN ,/pct Leland/NP Alden/NP ./pct
 Housewives/NNS are/BER finding/VBG literally/RB hundreds/NNS of/IN ways/NNS of/IN getting/VBG the/AT maximum/JJ use/NN out/IN of/IN traditional/JJ designs/NNS ,/pct says/VBZ Mr./NP Alden/NP and/CC they/PPSS are/BER doing/VBG it/PPO largely/RB because/CS Colonial/JJ craftsmen/NNS had/HVD ``/pct an/AT innate/JJ sense/NN of/IN the/AT practical/JJ ''/pct ./pct
 Solid/JJ investment/NN
 There/EX are/BER a/AT number/NN of/IN reasons/NNS why/WRB the/AT Eighteenth/OD Century/NN designer/NN had/HVD to/TO develop/VB ``/pct down/RP to/IN earth/NN ''/pct designs/NNS --/pct or/CC go/VB out/IN of/IN business/NN ./pct

@@ -7,7 +7,7 @@ I/PPSS had/HVD turned/VBN at/IN the/AT corner/NN of/IN the/AT field/NN and/CC I/
 It/PPS lay/VBD half/ABN in/IN the/AT furrow/NN and/CC half/ABN out/RP ,/pct and/CC the/AT front/JJ wheels/NNS had/HVD rolled/VBN nearly/RB up/IN to/IN it/PPO when/WRB I/PPSS put/VBD in/IN the/AT clutch/NN ./pct
 The/AT tractor/NN was/BEDZ heavily/RB loaded/VBN with/IN the/AT weight/NN of/IN the/AT plow/NN turning/VBG the/AT earth/NN ,/pct and/CC the/AT tractor/NN stopped/VBD instantly/RB ./pct
 The/AT snake/NN slid/VBD slowly/RB and/CC with/IN great/JJ care/NN from/IN the/AT new/JJ ridge/NN the/AT plow/NN had/HVD made/VBN ,/pct into/IN the/AT furrow/NN and/CC did/DOD not/NEG go/VB any/DTI further/RBR ./pct
-I/PPSS had/HVD never/RB liked/VBN snakes/NNS much/RB ,/pct I/PPSS still/RB had/HVD that/DT kind/NN of/IN quick/JJ panic/NN that/WPS I'd /None had/HVN as/CS a/AT child/NN whenever/WRB I/PPSS saw/VBD one/PN ,/pct but/CC this/DT snake/NN was/BEDZ clean/JJ and/CC bright/JJ and/CC very/QL beautiful/JJ ./pct
+I/PPSS had/HVD never/RB liked/VBN snakes/NNS much/RB ,/pct I/PPSS still/RB had/HVD that/DT kind/NN of/IN quick/JJ panic/NN that/WPS I'd/PPSSHVD had/HVN as/CS a/AT child/NN whenever/WRB I/PPSS saw/VBD one/PN ,/pct but/CC this/DT snake/NN was/BEDZ clean/JJ and/CC bright/JJ and/CC very/QL beautiful/JJ ./pct
 He/PPS was/BEDZ multi-colored/JJ and/CC graceful/JJ and/CC he/PPS lay/VBD in/IN the/AT furrow/NN and/CC moved/VBD his/PPg arched/VBN and/CC tapered/VBN head/NN only/RB so/QL slightly/RB ./pct
 Go/VB out/IN of/IN the/AT furrow/NN ,/pct snake/NN ,/pct I/PPSS said/VBD ,/pct but/CC it/PPS did/DOD not/NEG move/VB at/IN all/ABN ./pct
 I/PPSS pulled/VBD the/AT throttle/NN of/IN the/AT tractor/NN in/RP and/CC out/RP ,/pct hoping/VBG to/TO frighten/VB him/PPO with/IN the/AT noise/NN ,/pct but/CC the/AT snake/NN only/RB flicked/VBD its/PPg black/JJ ,/pct forked/VBN tongue/NN and/CC faced/VBD the/AT huge/JJ tractor/NN wheel/NN ,/pct without/IN fright/NN or/CC concern/NN ./pct
@@ -17,7 +17,7 @@ I/PPSS followed/VBD it/PPO ,/pct looking/VBG at/IN the/AT brilliant/JJ colors/NN
 The/AT colors/NNS were/BED astonishing/JJ ,/pct clear/JJ and/CC bright/JJ ,/pct and/CC it/PPS was/BEDZ as/CS if/CS the/AT body/NN held/VBD a/AT fire/NN of/IN its/PPg own/JJ ,/pct and/CC the/AT colors/NNS came/VBD through/IN that/DT transparent/JJ flesh/NN and/CC skin/NN ,/pct vivid/JJ and/CC alive/JJ and/CC warm/JJ ./pct
 The/AT eyes/NNS were/BED clear/JJ and/CC black/JJ and/CC the/AT slender/JJ body/NN was/BEDZ arched/VBN slightly/RB ./pct
 His/PPg flat/JJ and/CC gracefully/RB tapered/VBN head/NN lifted/VBD as/CS I/PPSS looked/VBD at/IN him/PPO and/CC the/AT black/JJ tongue/NN slipped/VBD in/IN and/CC out/IN of/IN that/DT solemn/JJ mouth/NN ./pct
-You/PPSS beauty/NN ,/pct I/PPSS said/VBD ,/pct I/PPSS couldn't /None kill/VB you/PPO ./pct
+You/PPSS beauty/NN ,/pct I/PPSS said/VBD ,/pct I/PPSS couldn't/MD* kill/VB you/PPO ./pct
 You/PPSS are/BER much/QL too/QL beautiful/JJ ./pct
 I/PPSS had/HVD killed/VBN snakes/NNS before/IN ,/pct when/WRB I/PPSS was/BEDZ younger/JJR ,/pct but/CC there/EX had/HVD been/BEN no/AT animal/NN like/CS this/DT one/PN ,/pct and/CC I/PPSS knew/VBD it/PPS was/BEDZ unthinkable/JJ that/CS an/AT animal/NN such/JJ as/CS that/DT should/MD die/VB ./pct
 I/PPSS picked/VBD him/PPO up/RP ,/pct and/CC the/AT length/NN of/IN him/PPO arched/VBN very/QL carefully/RB and/CC gracefully/RB and/CC only/RB a/AT little/QL wildly/RB ,/pct and/CC I/PPSS could/MD feel/VB the/AT coolness/NN of/IN that/DT radiant/JJ ,/pct fire-colored/JJ body/NN ,/pct like/CS splendid/JJ ice/NN ,/pct and/CC I/PPSS knew/VBD that/CS he/PPS had/HVD eaten/VBN only/RB recently/RB because/CS there/EX were/BED two/CD whole/JJ and/CC solid/JJ little/JJ lumps/NNS in/IN the/AT forepart/NN of/IN him/PPO ,/pct like/CS fieldmice/NNS swallowed/VBN whole/JJ might/MD make/VB ./pct
@@ -55,7 +55,7 @@ I/PPSS stopped/VBD the/AT tractor/NN and/CC climbed/VBD down/RP and/CC the/AT bo
 He/PPS asked/VBD ,/pct as/CS he/PPS often/RB did/DOD ,/pct and/CC I/PPSS had/HVD as/QL often/RB let/VB him/PPO be/BE on/IN the/AT tractor/NN beside/IN me/PPO ./pct
 I/PPSS looked/VBD closely/RB at/IN his/PPg eyes/NNS ,/pct and/CC he/PPS was/BEDZ already/RB innocent/JJ ;/pct ;/pct
 the/AT killing/NN was/BEDZ already/RB forgotten/VBN in/IN that/DT clear/JJ mind/NN of/IN his/PPgg ./pct
-``/pct No/RB ,/pct you/PPSS cannot /None ''/pct ,/pct I/PPSS said/VBD ,/pct pushing/VBG aside/RB the/AT water/NN jar/NN he/PPS offered/VBD to/IN me/PPO ./pct
+``/pct No/RB ,/pct you/PPSS cannot/MD* ''/pct ,/pct I/PPSS said/VBD ,/pct pushing/VBG aside/RB the/AT water/NN jar/NN he/PPS offered/VBD to/IN me/PPO ./pct
 I/PPSS pointed/VBD to/IN the/AT splintered/VBN ,/pct upright/JJ stake/NN ./pct
 ``/pct Did/DOD you/PPO do/DO that/DT ''/pct ?/pct ?/pct
 I/PPSS asked/VBD ./pct
@@ -66,9 +66,9 @@ He/PPS tried/VBD to/TO take/VB my/PPg hand/NN to/TO show/VB me/PPO ./pct
 ``/pct Why/WRB did/DOD you/PPO kill/VB it/PPO ''/pct ?/pct ?/pct
 ``/pct Snakes/NNS are/BER ugly/JJ and/CC bad/JJ ''/pct ./pct
 ``/pct This/DT snake/NN was/BEDZ very/QL beautiful/JJ ./pct
-Didn't /None you/PPO see/VB how/WRB beautiful/JJ it/PPS was/BEDZ ''/pct ?/pct ?/pct
+Didn't/DOD* you/PPO see/VB how/WRB beautiful/JJ it/PPS was/BEDZ ''/pct ?/pct ?/pct
 ``/pct Snakes/NNS are/BER ugly/JJ ''/pct ,/pct he/PPS said/VBD again/RB ./pct
-``/pct You/PPSS saw/VBD the/AT colors/NNS of/IN it/PPO ,/pct didn't /None you/PPSS ?/pct ?/pct
+``/pct You/PPSS saw/VBD the/AT colors/NNS of/IN it/PPO ,/pct didn't/DOD* you/PPSS ?/pct ?/pct
 Have/HV you/PPSS ever/RB seen/VBN anything/PN like/CS it/PPS around/IN here/RB ''/pct ?/pct ?/pct
 ``/pct Snakes/NNS are/BER ugly/JJ and/CC bad/JJ ,/pct and/CC it/PPS might/MD have/HV bitten/VBN somebody/PN ,/pct and/CC they/PPSS would/MD have/HV died/VBN ''/pct ./pct
 ``/pct You/PPSS know/VB there/EX are/BER no/RB poisonous/JJ snakes/NNS in/IN this/DT area/NN ./pct
@@ -77,7 +77,7 @@ This/DT snake/NN could/MD not/NEG harm/VB anything/PN ''/pct ./pct
 ``/pct They/PPSS are/BER ugly/JJ and/CC they/PPSS eat/VB chickens/NNS and/CC I/PPSS hate/VB snakes/NNS ''/pct ./pct
 ``/pct You/PPSS are/BER talking/VBG foolishly/RB ''/pct ,/pct I/PPSS said/VBD ./pct
 ``/pct You/PPSS killed/VBD it/PPO because/CS you/PPSS wanted/VBD to/TO kill/VB it/PPO ,/pct for/IN no/AT other/AP reason/NN ''/pct ./pct
-``/pct They're /None ugly/JJ and/CC I/PPSS hate/VB them/PPO ''/pct ,/pct the/AT boy/NN insisted/VBD ./pct
+``/pct They're/PPSSBER ugly/JJ and/CC I/PPSS hate/VB them/PPO ''/pct ,/pct the/AT boy/NN insisted/VBD ./pct
 ``/pct Nobody/PN likes/VBZ snakes/NNS ''/pct ./pct
 ``/pct It/PPS was/BEDZ beautiful/JJ ''/pct ,/pct I/PPSS said/VBD ,/pct half/ABN to/IN myself/PPL ./pct
 The/AT boy/NN skipped/VBD along/RB beside/IN me/PPO ,/pct and/CC he/PPS was/BEDZ contented/VBN with/IN what/WDT he/PPS had/HVD done/VBN ./pct
@@ -90,19 +90,19 @@ I/PPSS wrenched/VBD the/AT stake/NN out/RP ,/pct that/CS the/AT boy/NN had/HVD d
 I/PPSS touched/VBD it/PPO and/CC the/AT coolness/NN ,/pct the/AT ice-feeling/JJ ,/pct was/BEDZ gone/VBN ,/pct and/CC even/RB then/RB it/PPS moved/VBD a/AT little/AP ,/pct perhaps/RB a/AT tiny/JJ spasm/NN of/IN the/AT dead/JJ muscles/NNS ,/pct and/CC I/PPSS hoped/VBD that/CS it/PPS was/BEDZ truly/RB dead/JJ ,/pct so/CS that/CS I/PPSS would/MD not/NEG have/HV to/TO kill/VB it/PPO ./pct
 And/CC then/RB it/PPS moved/VBD a/AT little/QL more/RBR ,/pct and/CC I/PPSS knew/VBD the/AT snake/NN was/BEDZ dying/VBG ,/pct and/CC I/PPSS would/MD have/HV to/TO kill/VB it/PPO there/RB ./pct
 The/AT boy/NN stood/VBD off/RP a/AT few/AP feet/NNS and/CC he/PPS had/HVD the/AT stake/NN again/RB and/CC he/PPS was/BEDZ racing/VBG innocently/RB in/IN circles/NNS ,/pct making/VBG the/AT buzzing/VBG tractor/NN sound/NN with/IN his/PPg lips/NNS ./pct
-I'm /None sorry/JJ ,/pct I/PPSS thought/VBD to/IN the/AT snake/NN ,/pct for/CS you/PPSS were/BED beautiful/JJ ./pct
+I'm/PPSSBEM sorry/JJ ,/pct I/PPSS thought/VBD to/IN the/AT snake/NN ,/pct for/CS you/PPSS were/BED beautiful/JJ ./pct
 I/PPSS took/VBD the/AT broken/VBN length/NN of/IN it/PPO around/IN the/AT tractor/NN and/CC I/PPSS took/VBD one/CD of/IN the/AT wrenches/NNS from/IN the/AT tool-kit/NN and/CC I/PPSS struck/VBD its/PPg head/NN ,/pct not/NEG looking/VBG at/IN it/PPO ,/pct to/TO kill/VB it/PPO at/IN last/RB ,/pct for/CS it/PPS could/MD never/RB live/VB ./pct
 The/AT boy/NN came/VBD around/RB behind/IN me/PPO ,/pct dragging/VBG the/AT stake/NN ./pct
-``/pct It's /None a/AT big/JJ snake/NN ,/pct isn't /None it/PPS ''/pct ?/pct ?/pct
+``/pct It's/PPSBEZ a/AT big/JJ snake/NN ,/pct isn't/BEZ* it/PPS ''/pct ?/pct ?/pct
 He/PPS said/VBD ./pct
-``/pct I'm /None going/VBG to/TO tell/VB everybody/PN how/WRB big/JJ a/AT snake/NN I/PPSS killed/VBD ''/pct ./pct
-``/pct Don't /None you/PPO see/VB what/WDT you/PPSS have/HV done/VBN ''/pct ?/pct ?/pct
+``/pct I'm/PPSSBEM going/VBG to/TO tell/VB everybody/PN how/WRB big/JJ a/AT snake/NN I/PPSS killed/VBD ''/pct ./pct
+``/pct Don't/DO* you/PPO see/VB what/WDT you/PPSS have/HV done/VBN ''/pct ?/pct ?/pct
 I/PPSS said/VBD ./pct
-``/pct Don't /None you/PPO see/VB the/AT difference/NN now/RB ''/pct ?/pct ?/pct
-``/pct It's /None an/AT ugly/JJ ,/pct terrible/JJ snake/NN ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct Don't/DO* you/PPO see/VB the/AT difference/NN now/RB ''/pct ?/pct ?/pct
+``/pct It's/PPSBEZ an/AT ugly/JJ ,/pct terrible/JJ snake/NN ''/pct ,/pct he/PPS said/VBD ./pct
 He/PPS came/VBD up/RP and/CC was/BEDZ going/VBG to/TO push/VB at/IN it/PPO with/IN his/PPg heavy/JJ shoes/NNS ./pct
 I/PPSS could/MD see/VB the/AT happiness/NN in/IN the/AT boy's/NNg eyes/NNS ,/pct the/AT gleeful/JJ brutality/NN ./pct
-``/pct Don't /None ''/pct ,/pct I/PPSS said/VBD ./pct
+``/pct Don't/DO* ''/pct ,/pct I/PPSS said/VBD ./pct
 I/PPSS could/MD have/HV slapped/VBN the/AT boy/NN ./pct
 He/PPS looked/VBD up/RP at/IN me/PPO ,/pct puzzled/VBN ,/pct and/CC he/PPS swayed/VBD his/PPg head/NN from/IN side/NN to/IN side/NN ./pct
 I/PPSS thought/VBD ,/pct you/PPSS little/AP brute/NN ,/pct you/PPSS nasty/JJ ,/pct selfish/JJ ,/pct little/AP beast/NN ,/pct with/IN brutality/NN already/RB developed/VBN within/IN that/DT brain/NN and/CC in/IN those/DTS eyes/NNS ./pct

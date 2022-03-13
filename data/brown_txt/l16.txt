@@ -1,55 +1,55 @@
 ``/pct Dammit/UH ,/pct Phil/NP ,/pct are/BER you/PPSS trying/VBG to/TO wreck/VB my/PPg career/NN ?/pct ?/pct
-Because/CS that's /None what/WDT you're /None doing/VBG --/pct wrecking/VBG it/PPO ,/pct wrecking/VBG it/PPO ,/pct wrecking/VBG it/PPO ''/pct !/pct !/pct
+Because/CS that's/DTBEZ what/WDT you're/PPSSBER doing/VBG --/pct wrecking/VBG it/PPO ,/pct wrecking/VBG it/PPO ,/pct wrecking/VBG it/PPO ''/pct !/pct !/pct
 Griffith/NP had/HVD confronted/VBN Hoag/NP on/IN the/AT building's/NNg front/JJ steps/NNS --/pct Hoag/NP had/HVD been/BEN permitted/VBN no/AT further/RBR --/pct and/CC backed/VBD him/PPO against/IN a/AT wrought-iron/NN railing/NN ./pct
 His/PPg rage/NN had/HVD built/VBN up/RP as/CS he/PPS made/VBD his/PPg way/NN here/RB from/IN the/AT second/OD floor/NN ,/pct helped/VBD by/IN the/AT quantity/NN of/IN champagne/NN he/PPS had/HVD consumed/VBN ./pct
-Hoag/NP said/VBD ,/pct ``/pct I/PPSS didn't /None send/VB for/IN you/PPO ,/pct Leigh/NP ./pct
+Hoag/NP said/VBD ,/pct ``/pct I/PPSS didn't/DOD* send/VB for/IN you/PPO ,/pct Leigh/NP ./pct
 I/PPSS want/VB the/AT captain/NN in/IN charge/NN ./pct
 Where/WRB is/BEZ he/PPS ''/pct ?/pct ?/pct
 ``/pct Phil/NP ,/pct for/IN God's/NPg sake/NN ,/pct go/VB away/RB ./pct
-The/AT undersecretary's /None in/IN there/RB ./pct
-I/PPSS told/VBD you/PPO there's /None nothing/PN between/IN Midge/NP and/CC me/PPO ,/pct nothing/PN ./pct
-It's /None all/ABN in/IN your/PPg mind/NN ''/pct ./pct
+The/AT undersecretary's/NNBEZ in/IN there/RB ./pct
+I/PPSS told/VBD you/PPO there's/EXBEZ nothing/PN between/IN Midge/NP and/CC me/PPO ,/pct nothing/PN ./pct
+It's/PPSBEZ all/ABN in/IN your/PPg mind/NN ''/pct ./pct
 A/AT couple/NN of/IN sobs/NNS escaped/VBD him/PPO ,/pct followed/VBN by/IN a/AT sentiment/NN that/CS revealed/VBD his/PPg emotional/JJ state/NN ./pct
-``/pct Why/WRB ,/pct I'm /None not/NEG fit/VBN to/TO touch/VB the/AT hem/NN of/IN her/PPO garment/NN ''/pct ./pct
+``/pct Why/WRB ,/pct I'm/PPSSBEM not/NEG fit/VBN to/TO touch/VB the/AT hem/NN of/IN her/PPO garment/NN ''/pct ./pct
 ``/pct Leigh/NP ,/pct get/VB a/AT grip/NN on/IN yourself/PPL ./pct
-It's /None not/NEG about/IN you/PPO or/CC Midge/NP ./pct
+It's/PPSBEZ not/NEG about/IN you/PPO or/CC Midge/NP ./pct
 I/PPSS have/HV some/DTI security/NN information/NN about/IN the/AT prime/JJ minister/NN ''/pct ./pct
 Griffith/NP looked/VBD at/IN him/PPO suspiciously/RB through/IN red-rimmed/JJ eyes/NNS ./pct
 ``/pct Not/NEG about/IN me/PPO ?/pct ?/pct
 You/PPSS mean/VB it/PPO ,/pct Phil/NP ?/pct ?/pct
-You/PPSS wouldn't /None pull/VB my/PPg leg/NN ,/pct old/JJ man/NN ?/pct ?/pct
+You/PPSS wouldn't/MD* pull/VB my/PPg leg/NN ,/pct old/JJ man/NN ?/pct ?/pct
 I/PPSS did/DOD get/VB you/PPO on/IN the/AT platform/NN this/DT morning/NN ''/pct ./pct
-``/pct I'm /None not/NEG pulling/VBG your/PPg leg/NN ./pct
+``/pct I'm/PPSSBEM not/NEG pulling/VBG your/PPg leg/NN ./pct
 Will/MD you/PPSS call/VB that/DT captain/NN ''/pct ?/pct ?/pct
-``/pct No/AT use/NN ,/pct he/PPS won't /None come/VB ''/pct ./pct
+``/pct No/AT use/NN ,/pct he/PPS won't/MD* come/VB ''/pct ./pct
 He/PPS peered/VBD closely/RB at/IN Hoag/NP in/IN the/AT gathering/VBG darkness/NN ./pct
 ``/pct What/WDT happened/VBD to/IN your/PPg head/NN ''/pct ?/pct ?/pct
 ``/pct I/PPSS was/BEDZ hit/VBN --/pct knocked/VBN out/RP ./pct
 Now/RB will/MD you/PPSS get/VB him/PPO ''/pct ?/pct ?/pct
-``/pct He/PPS says/VBZ I'm /None to/TO take/VB the/AT message/NN ''/pct ./pct
+``/pct He/PPS says/VBZ I'm/PPSSBEM to/TO take/VB the/AT message/NN ''/pct ./pct
 He/PPS stared/VBD at/IN Hoag/NP drunkenly/RB ./pct
-``/pct Who'd /None hit/VB you/PPO in/IN the/AT head/NN ''/pct ?/pct ?/pct
-``/pct It/PPS doesn't /None matter/VB ./pct
-You/PPSS get/VB back/RB to/IN the/AT captain/NN and/CC tell/VB him/PPO this/DT :/pct Somebody's /None going/VBG to/TO take/VB a/AT shot/NN at/IN the/AT prime/JJ minister/NN ,/pct and/CC Mahzeer/NP is/BEZ in/RP on/IN the/AT plot/NN ./pct
+``/pct Who'd/WPSMD hit/VB you/PPO in/IN the/AT head/NN ''/pct ?/pct ?/pct
+``/pct It/PPS doesn't/DOZ* matter/VB ./pct
+You/PPSS get/VB back/RB to/IN the/AT captain/NN and/CC tell/VB him/PPO this/DT :/pct Somebody's/PNBEZ going/VBG to/TO take/VB a/AT shot/NN at/IN the/AT prime/JJ minister/NN ,/pct and/CC Mahzeer/NP is/BEZ in/RP on/IN the/AT plot/NN ./pct
 Tell/VB him/PPO under/IN no/AT circumstances/NNS to/TO trust/VB the/AT prime/JJ minister/NN with/IN Mahzeer/NP ''/pct ./pct
-Griffith/NP said/VBD ,/pct ``/pct That's /None impossible/JJ ./pct
-Mahzeer's /None the/AT ambassador/NN ''/pct ./pct
-``/pct Nevertheless/RB it's /None true/JJ ''/pct ./pct
+Griffith/NP said/VBD ,/pct ``/pct That's/DTBEZ impossible/JJ ./pct
+Mahzeer's/NPBEZ the/AT ambassador/NN ''/pct ./pct
+``/pct Nevertheless/RB it's/PPSBEZ true/JJ ''/pct ./pct
 ``/pct Impossible/JJ ''/pct ./pct
 Griffith/NP was/BEDZ trying/VBG to/TO clear/VB his/PPg head/NN of/IN the/AT champagne/NN fuzz/NN that/WPS encased/VBD it/PPO ./pct
-``/pct I'll /None show/VB you/PPO how/WRB wrong/JJ you/PPSS are/BER ./pct
+``/pct I'll/PPSSMD show/VB you/PPO how/WRB wrong/JJ you/PPSS are/BER ./pct
 Mahzeer/NP and/CC the/AT prime/JJ minister/NN are/BER alone/RB right/QL now/RB ''/pct ./pct
 He/PPS nodded/VBD triumphantly/RB ./pct
 ``/pct So/CS that/DT proves/VBZ it/PPO ''/pct !/pct !/pct
 Hoag/NP looked/VBD terrified/VBN ./pct
 ``/pct Where/WRB are/BER they/PPSS ''/pct ?/pct ?/pct
-``/pct Where'd /None you/PPSS expect/VB ,/pct the/AT john/NN ?/pct ?/pct
+``/pct Where'd/WRBMD you/PPSS expect/VB ,/pct the/AT john/NN ?/pct ?/pct
 Mahzeer's/NPg office/NN ''/pct ./pct
 ``/pct Where/WRB is/BEZ that/DT ''/pct ?/pct ?/pct
 ``/pct Facing/VBG us/PPO ,/pct two/CD flights/NNS up/RP ./pct
-Look/VB ,/pct old/JJ man/NN ,/pct you/PPSS can't /None go/VB up/RP ./pct
-They/PPSS won't /None even/VB let/VB you/PPO in/IN the/AT front/JJ door/NN ./pct
-So/CS why/WRB don't /None you/PPO be/BE a/AT good/JJ boy/NN and/CC ''/pct --/pct
+Look/VB ,/pct old/JJ man/NN ,/pct you/PPSS can't/MD* go/VB up/RP ./pct
+They/PPSS won't/MD* even/VB let/VB you/PPO in/IN the/AT front/JJ door/NN ./pct
+So/CS why/WRB don't/DO* you/PPO be/BE a/AT good/JJ boy/NN and/CC ''/pct --/pct
 Hoag/NP grabbed/VBD him/PPO by/IN the/AT shoulders/NNS ./pct
 ``/pct Listen/VB to/IN me/PPO ,/pct Leigh/NP ./pct
 If/CS you/PPSS want/VB to/TO spend/VB another/DT day/NN in/IN the/AT State/NN Department/NN --/pct another/DT day/NN --/pct you/PPSS get/VB in/IN there/RB and/CC tell/VB that/DT captain/NN what/WDT I/PPSS told/VBD you/PPO ''/pct ./pct
@@ -58,9 +58,9 @@ He/PPS bit/VBD out/RP the/AT words/NNS ./pct
 Griffith/NP raised/VBD placating/VBG hands/NNS ./pct
 ``/pct Easy/RB does/DOZ it/PPO ,/pct Phil/NP ./pct
 I/PPSS was/BEDZ just/RB going/VBG ./pct
-I'm /None on/IN my/PPg way/NN ''/pct ./pct
+I'm/PPSSBEM on/IN my/PPg way/NN ''/pct ./pct
 He/PPS turned/VBD and/CC fled/VBD into/IN the/AT house/NN and/CC made/VBD his/PPg way/NN up/IN the/AT marble/NN stairs/NNS without/IN once/RB looking/VBG back/RB ./pct
-On/IN the/AT second/OD landing/NN he/PPS paused/VBD to/TO look/VB for/IN Docherty/NP ,/pct didn't /None see/VB him/PPO ,/pct and/CC accepted/VBD a/AT glass/NN of/IN champagne/NN ./pct
+On/IN the/AT second/OD landing/NN he/PPS paused/VBD to/TO look/VB for/IN Docherty/NP ,/pct didn't/DOD* see/VB him/PPO ,/pct and/CC accepted/VBD a/AT glass/NN of/IN champagne/NN ./pct
 He/PPS took/VBD several/AP large/JJ swallows/NNS ,/pct recollected/VBD that/CS Docherty/NP had/HVD gone/VBN up/IN another/DT flight/NN ,/pct and/CC decided/VBD he/PPS would/MD be/BE wise/JJ to/TO cover/VB himself/PPL by/IN finding/VBG him/PPO ./pct
 The/AT way/NN Hoag/NP was/BEDZ ,/pct no/AT telling/NN what/WDT he/PPS might/MD say/VB or/CC do/DO ./pct
 He/PPS finished/VBD his/PPg champagne/NN and/CC climbed/VBD uncertainly/RB to/IN the/AT next/AP landing/NN ./pct
@@ -69,7 +69,7 @@ At/IN the/AT top/NN a/AT uniformed/JJ officer/NN blocked/VBD further/JJR progres
 He/PPS asked/VBD ./pct
 ``/pct I/PPSS want/VB Captain/NN Docherty/NP ''/pct ./pct
 He/PPS spotted/VBD Docherty/NP coming/VBG out/IN of/IN a/AT room/NN at/IN the/AT far/JJ end/NN of/IN the/AT corridor/NN and/CC called/VBD to/IN him/PPO ./pct
-Docherty/NP said/VBD ,/pct ``/pct It's /None okay/JJ ,/pct Bonfiglio/NP ,/pct let/VB him/PPO by/RB ''/pct ./pct
+Docherty/NP said/VBD ,/pct ``/pct It's/PPSBEZ okay/JJ ,/pct Bonfiglio/NP ,/pct let/VB him/PPO by/RB ''/pct ./pct
 They/PPSS walked/VBD toward/IN each/DT other/AP ./pct
 ``/pct Well/UH ''/pct ?/pct ?/pct
 Griffith/NP said/VBD ,/pct ``/pct Hoag/NP told/VBD me/PPO to/TO tell/VB you/PPO ''/pct --/pct he/PPS waited/VBD until/CS they/PPSS were/BED close/RB ;/pct ;/pct
@@ -77,21 +77,21 @@ it/PPS was/BEDZ hideously/RB embarrassing/VBG --/pct ``/pct not/NEG to/TO let/VB
 Griffith/NP looked/VBD half-crocked/JJ to/IN the/AT captain/NN ;/pct ;/pct
 it/PPS would/MD be/BE just/RB like/CS him/PPO ./pct
 ``/pct Why/WRB not/NEG ''/pct ?/pct ?/pct
-``/pct He/PPS claims/VBZ Mahzeer's /None in/IN a/AT plot/NN to/TO kill/VB the/AT P.M./RB ''/pct ./pct
+``/pct He/PPS claims/VBZ Mahzeer's/NPBEZ in/IN a/AT plot/NN to/TO kill/VB the/AT P.M./RB ''/pct ./pct
 Docherty/NP went/VBD taut/RB :/pct was/BEDZ it/PPS possible/JJ ?/pct ?/pct
 Could/MD the/AT ambassador/NN himself/PPL be/BE the/AT man/NN on/IN this/DT side/NN the/AT prime/JJ minister/NN feared/VBD ?/pct ?/pct
 Not/NEG possible/JJ ,/pct he/PPS thought/VBD ;/pct ;/pct
 the/AT prime/JJ minister/NN knew/VBD who/WPS his/PPg enemy/NN was/BEDZ here/RB ;/pct ;/pct
-he/PPS wasn't /None going/VBG to/TO allow/VB himself/PPL to/TO be/BE led/VBN meekly/RB to/IN the/AT slaughter/NN ./pct
-And/CC if/CS by/IN some/DTI wild/JJ chance/NN Mahzeer/NP was/BEDZ the/AT man/NN ,/pct he/PPS wouldn't /None dare/VB try/VB anything/PN now/RB --/pct not/NEG after/CS Docherty/NP had/HVD looked/VBN in/RP on/IN the/AT two/CD of/IN them/PPO to/TO see/VB that/CS all/ABN was/BEDZ well/RB ./pct
+he/PPS wasn't/BEDZ* going/VBG to/TO allow/VB himself/PPL to/TO be/BE led/VBN meekly/RB to/IN the/AT slaughter/NN ./pct
+And/CC if/CS by/IN some/DTI wild/JJ chance/NN Mahzeer/NP was/BEDZ the/AT man/NN ,/pct he/PPS wouldn't/MD* dare/VB try/VB anything/PN now/RB --/pct not/NEG after/CS Docherty/NP had/HVD looked/VBN in/RP on/IN the/AT two/CD of/IN them/PPO to/TO see/VB that/CS all/ABN was/BEDZ well/RB ./pct
 Docherty/NP was/BEDZ damned/VBN if/CS he/PPS would/MD make/VB a/AT fool/NN of/IN himself/PPL again/RB the/AT way/NN he/PPS had/HVD earlier/RBR over/IN the/AT laundry/NN truck/NN ./pct
-One/CD more/AP muddleheaded/JJ play/NN like/CS that/DT one/CD and/CC they'd /None be/BE leading/VBG him/PPO away/RB ./pct
+One/CD more/AP muddleheaded/JJ play/NN like/CS that/DT one/CD and/CC they'd/PPSSMD be/BE leading/VBG him/PPO away/RB ./pct
 Still/RB ,/pct this/DT had/HVD to/TO be/BE checked/VBN out/RP ./pct
-``/pct Where'd /None your/PPg friend/NN Hoag/NP get/VB his/PPg information/NN ''/pct ?/pct ?/pct
+``/pct Where'd/WRBDOD your/PPg friend/NN Hoag/NP get/VB his/PPg information/NN ''/pct ?/pct ?/pct
 He/PPS asked/VBD ./pct
-``/pct Haven't /None the/AT faintest/JJT ,/pct Captain/NN ''/pct ./pct
+``/pct Haven't/HV* the/AT faintest/JJT ,/pct Captain/NN ''/pct ./pct
 ``/pct Would/MD you/PPSS mind/VB sending/VBG him/PPO up/RP here/RB ?/pct ?/pct
-I'd /None like/VB to/TO talk/VB to/IN him/PPO ''/pct ./pct
+I'd/PPSSMD like/VB to/TO talk/VB to/IN him/PPO ''/pct ./pct
 Troubled/VBN ,/pct he/PPS continued/VBD along/IN the/AT corridor/NN ,/pct poking/VBG his/PPg head/NN into/IN the/AT next/AP office/NN for/IN a/AT careful/JJ look/NN around/RB ./pct
 But/CC Hoag/NP had/HVD not/NEG stayed/VBN on/IN the/AT front/JJ steps/NNS when/WRB Griffith/NP disappeared/VBD into/IN the/AT building/NN ./pct
 He/PPS was/BEDZ unwilling/JJ to/TO rely/VB on/IN Griffith's/NPg carrying/VBG his/PPg message/NN ,/pct and/CC he/PPS had/HVD no/AT confidence/NN the/AT police/NNS would/MD act/VB on/IN it/PPO ./pct
@@ -164,7 +164,7 @@ It/PPS had/HVD been/BEN shut/VBN again/RB ,/pct but/CC the/AT lock/NN was/BEDZ b
 he/PPS noted/VBD with/IN a/AT thrill/NN of/IN fear/NN that/CS the/AT door/NN moved/VBD under/IN his/PPg touch/NN ./pct
 What/WDT was/BEDZ he/PPS to/TO do/DO now/RB ?/pct ?/pct
 He/PPS had/HVD thought/VBN no/AT further/RBR than/CS finding/VBG Muller/NP ./pct
-He/PPS realized/VBD now/RB he/PPS had/HVD more/AP than/IN half/ABN hoped/VBN he/PPS wouldn't /None find/VB him/PPO --/pct that/CS Muller/NP would/MD not/NEG be/BE here/RB ,/pct that/CS the/AT attempt/NN would/MD be/BE scheduled/VBN for/IN somewhere/NN beyond/IN Hoag's/NPg control/NN ./pct
+He/PPS realized/VBD now/RB he/PPS had/HVD more/AP than/IN half/ABN hoped/VBN he/PPS wouldn't/MD* find/VB him/PPO --/pct that/CS Muller/NP would/MD not/NEG be/BE here/RB ,/pct that/CS the/AT attempt/NN would/MD be/BE scheduled/VBN for/IN somewhere/NN beyond/IN Hoag's/NPg control/NN ./pct
 He/PPS could/MD not/NEG break/VB in/RP on/IN an/AT armed/VBN man/NN ./pct
 He/PPS would/MD have/HV to/TO climb/VB back/RB down/RP to/IN the/AT street/NN and/CC signal/VB a/AT cop/NN ./pct
 Was/BEDZ there/EX time/NN ?/pct ?/pct

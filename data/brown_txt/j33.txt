@@ -6,18 +6,18 @@ Thus/RB the/AT first/OD lines/NNS of/IN one/CD of/IN Charles/NP Wesley's/NPg hym
 In/IN the/AT tune/NN to/IN which/WDT this/DT hymn/NN is/BEZ most/QL often/RB sung/VBN ,/pct ``/pct Boylston/NP ''/pct ,/pct the/AT syllables/NNS have/HV and/CC fy/NN ,/pct ending/VBG their/PPg lines/NNS ,/pct have/HV twice/RB the/AT time/NN any/DTI other/AP syllables/NNS have/HV ./pct
 Dominant/JJ stress/NN is/BEZ of/IN course/NN more/AP than/CS extended/VBN duration/NN ,/pct and/CC normally/RB centers/VBZ on/IN syllables/NNS that/WPS would/MD have/HV primary/JJ stress/NN or/CC phrase/NN stress/NN if/CS the/AT words/NNS or/CC longer/JJR units/NNS they/PPSS are/BER parts/NNS of/IN were/BED spoken/VBN alone/RB :/pct a/AT dominant/JJ stress/NN given/VBN to/IN glorify/VB would/MD normally/RB center/VB on/IN its/PPg first/OD syllable/NN rather/RB than/CS its/PPg last/AP ./pct
 But/CC the/AT parallel/NN is/BEZ significant/JJ ./pct
-When/WRB the/AT answer/NN to/IN what's /None wrong/JJ now/RB ?/pct ?/pct
-Is/BEZ Bill's /None broken/VBN a/AT chair/NN ,/pct dominant/JJ stress/NN will/MD usually/RB be/BE on/IN the/AT complement/NN a/AT chair/NN ./pct
+When/WRB the/AT answer/NN to/IN what's/WDTBEZ wrong/JJ now/RB ?/pct ?/pct
+Is/BEZ Bill's/NPHVZ broken/VBN a/AT chair/NN ,/pct dominant/JJ stress/NN will/MD usually/RB be/BE on/IN the/AT complement/NN a/AT chair/NN ./pct
 From/IN the/AT point/NN of/IN view/NN of/IN syntactic/JJ analysis/NN the/AT head/NN word/NN in/IN the/AT statement/NN is/BEZ the/AT predicator/NN has/HVZ broken/VBN ,/pct and/CC from/IN the/AT point/NN of/IN view/NN of/IN meaning/NN it/PPS would/MD seem/VB that/CS the/AT trouble/NN centers/VBZ in/IN the/AT breaking/NN ;/pct ;/pct
 but/CC dominant/JJ stress/NN will/MD be/BE assigned/VBN to/IN broken/VBN only/RB in/IN rather/QL exceptional/JJ versions/NNS of/IN the/AT sentence/NN ./pct
 In/IN I/PPSS know/VB one/CD thing/NN dominant/JJ stress/NN will/MD usually/RB be/BE on/IN the/AT complement/NN one/CD thing/NN ;/pct ;/pct
 in/IN one/CD thing/NN I/PPSS know/VB it/PPS will/MD usually/RB be/BE on/IN the/AT predicator/NN know/VB ./pct
 In/IN small-town/NN people/NNS are/BER very/QL friendly/JJ dominant/JJ stress/NN will/MD generally/RB be/BE on/IN the/AT complement/NN very/QL friendly/JJ ;/pct ;/pct
 in/IN the/AT double/JJ sentence/NN the/AT smaller/JJR the/AT town/NN ,/pct the/AT friendlier/JJR the/AT people/NNS it/PPS will/MD generally/RB be/BE on/IN the/AT subjects/NNS the/AT town/NN and/CC the/AT people/NNS ./pct
-In/IN what's /None a/AT linguist/NN ?/pct ?/pct
+In/IN what's/WDTBEZ a/AT linguist/NN ?/pct ?/pct
 dominant/JJ stress/NN will/MD generally/RB be/BE on/IN the/AT subject/NN a/AT linguist/NN ;/pct ;/pct
-in/IN who's /None a/AT linguist/NN ?/pct it/PPS will/MD generally/RB be/BE on/IN the/AT complement/NN a/AT linguist/NN ./pct
-Dominant/JJ stress/NN is/BEZ on/IN her/PPg luggage/NN both/ABX in/IN that's /None her/PPg luggage/NN ,/pct where/WRB her/PPg luggage/NN is/BEZ the/AT complement/NN ,/pct and/CC in/IN there's /None her/PPg luggage/NN ,/pct where/WRB it/PPS is/BEZ the/AT subject/NN ./pct
+in/IN who's/WPSBEZ a/AT linguist/NN ?/pct it/PPS will/MD generally/RB be/BE on/IN the/AT complement/NN a/AT linguist/NN ./pct
+Dominant/JJ stress/NN is/BEZ on/IN her/PPg luggage/NN both/ABX in/IN that's/DTBEZ her/PPg luggage/NN ,/pct where/WRB her/PPg luggage/NN is/BEZ the/AT complement/NN ,/pct and/CC in/IN there's/RBBEZ her/PPg luggage/NN ,/pct where/WRB it/PPS is/BEZ the/AT subject/NN ./pct
 Adverbial/JJ second/OD complements/NNS ,/pct however/RB ,/pct are/BER likely/JJ not/NEG to/TO have/HV dominant/JJ stress/NN when/WRB they/PPSS terminate/VB sentences/NNS ./pct
 If/CS the/AT answer/NN to/IN what/WDT was/BEDZ that/DT noise/NN ?/pct ?/pct
 Is/BEZ George/NP put/VBD the/AT cat/NN out/RP ,/pct dominant/JJ stress/NN will/MD ordinarily/RB be/BE on/IN the/AT first/OD complement/NN ,/pct the/AT cat/NN ,/pct not/NEG the/AT second/OD complement/NN out/RP ./pct
@@ -30,14 +30,14 @@ Context/NN is/BEZ of/IN extreme/JJ importance/NN ./pct
 What/WDT is/BEZ new/JJ in/IN the/AT context/NN is/BEZ likely/JJ to/TO be/BE made/VBN more/QL prominent/JJ than/CS what/WDT is/BEZ not/NEG ./pct
 Thus/RB in/IN a/AT context/NN in/IN which/WDT there/EX has/HVZ been/BEN discussion/NN of/IN snow/NN but/CC mention/NN of/IN local/JJ conditions/NNS is/BEZ new/JJ ,/pct dominant/JJ stress/NN will/MD probably/RB be/BE on/IN here/RB in/IN it/PPS rarely/RB snows/VBZ here/RB ,/pct but/CC in/IN a/AT context/NN in/IN which/WDT there/EX has/HVZ been/BEN discussion/NN of/IN local/JJ weather/NN but/CC no/AT mention/NN of/IN snow/NN ,/pct dominant/JJ stress/NN will/MD probably/RB be/BE on/IN snows/VBZ ./pct
 The/AT personal/JJ pronouns/NNS and/CC substitute/JJ one/PN are/BER normally/RB unstressed/JJ because/CS they/PPSS refer/VB to/IN what/WDT is/BEZ prominent/JJ in/IN the/AT immediate/JJ context/NN ./pct
-In/IN I'll /None go/VB with/IN George/NP dominant/JJ stress/NN is/BEZ probably/RB on/IN George/NP ;/pct ;/pct
-but/IN if/CS George/NP has/HVZ just/RB been/BEN mentioned/VBN prominently/RB (/pct and/CC the/AT trip/NN to/TO be/BE made/VBN has/HVZ been/BEN under/IN discussion/NN )/pct ,/pct what/WDT is/BEZ said/VBN is/BEZ probably/RB I'll /None go/VB with/IN him/PPO ,/pct and/CC dominant/JJ stress/NN is/BEZ probably/RB on/IN the/AT preposition/NN with/IN ./pct
-When/WRB a/AT gesture/NN accompanies/VBZ who's /None he/PPS ?/pct ?/pct
+In/IN I'll/PPSSMD go/VB with/IN George/NP dominant/JJ stress/NN is/BEZ probably/RB on/IN George/NP ;/pct ;/pct
+but/IN if/CS George/NP has/HVZ just/RB been/BEN mentioned/VBN prominently/RB (/pct and/CC the/AT trip/NN to/TO be/BE made/VBN has/HVZ been/BEN under/IN discussion/NN )/pct ,/pct what/WDT is/BEZ said/VBN is/BEZ probably/RB I'll/PPSSMD go/VB with/IN him/PPO ,/pct and/CC dominant/JJ stress/NN is/BEZ probably/RB on/IN the/AT preposition/NN with/IN ./pct
+When/WRB a/AT gesture/NN accompanies/VBZ who's/WPSBEZ he/PPS ?/pct ?/pct
 the/AT personal/JJ pronoun/NN has/HVZ dominant/JJ stress/NN because/CS ``/pct he/PPS ''/pct has/HVZ not/NEG been/BEN mentioned/VBN previously/RB ./pct
 If/CS both/ABX George/NP and/CC a/AT piece/NN of/IN information/NN George/NP does/DOZ not/NEG have/HV are/BER prominent/JJ in/IN the/AT context/NN ,/pct but/CC the/AT idea/NN of/IN telling/VBG George/NP is/BEZ new/JJ ,/pct then/RB dominant/JJ stress/NN will/MD probably/RB be/BE on/IN tell/VB in/IN why/WRB not/NEG tell/VB George/NP ?/pct ?/pct
 But/CC when/WRB what/WDT is/BEZ new/JJ in/IN a/AT particular/JJ context/NN is/BEZ also/RB fairly/QL obvious/JJ ,/pct there/EX is/BEZ normally/RB only/RB light/JJ stress/NN or/CC no/AT stress/NN at/IN all/ABN ./pct
 Thus/RB the/AT unstressed/JJ it/PPS of/IN it/PPS rarely/RB snows/VBZ here/RB gets/VBZ its/PPg significance/NN from/IN its/PPg use/NN with/IN snows/VBZ :/pct nothing/PN can/MD snow/VB snow/NN but/IN ``/pct it/PPO ''/pct ./pct
-In/IN there/EX aren't /None many/AP young/JJ people/NNS in/IN the/AT neighborhood/NN the/AT modifier/NN young/JJ takes/VBZ dominant/JJ stress/NN away/RB from/IN its/PPg head/NN people/NNS :/pct the/AT fact/NN that/CS the/AT young/JJ creatures/NNS of/IN interest/NN are/BER people/NNS seems/VBZ rather/QL obvious/JJ ./pct
+In/IN there/EX aren't/BER* many/AP young/JJ people/NNS in/IN the/AT neighborhood/NN the/AT modifier/NN young/JJ takes/VBZ dominant/JJ stress/NN away/RB from/IN its/PPg head/NN people/NNS :/pct the/AT fact/NN that/CS the/AT young/JJ creatures/NNS of/IN interest/NN are/BER people/NNS seems/VBZ rather/QL obvious/JJ ./pct
 If/CS women/NNS replaced/VBD people/NNS ,/pct it/PPS would/MD normally/RB have/HV dominant/JJ stress/NN ./pct
 In/IN I/PPSS have/HV things/NNS to/TO do/DO the/AT word/NN things/NNS makes/VBZ little/AP real/JJ contribution/NN to/IN meaning/NN and/CC has/HVZ weaker/JJR stress/NN than/CS do/DO ./pct
 If/CS work/NN is/BEZ substituted/VBN for/IN things/NNS (/pct with/IN more/QL exact/JJ contribution/NN to/IN meaning/NN )/pct ,/pct it/PPS will/MD have/HV dominant/JJ stress/NN ./pct
@@ -46,12 +46,12 @@ In/IN I/PPSS knew/VBD you/PPO when/WRB you/PPSS were/BED a/AT child/NN ,/pct and
 Dominant/JJ stress/NN on/IN pretty/JJ would/MD be/BE almost/QL insulting/JJ here/RB ./pct
 In/IN the/AT written/VBN language/NN then/RB can/MD be/BE underlined/VBN or/CC italicized/VBN to/TO guide/VB the/AT reader/NN here/RB ,/pct but/CC much/AP of/IN the/AT time/NN the/AT written/VBN language/NN simply/RB depends/VBZ on/IN the/AT reader's/NNg alertness/NN ,/pct and/CC a/AT careless/JJ reader/NN will/MD have/HV to/TO back/VB up/RP and/CC reread/VB ./pct
 Often/RB ,/pct dominant/JJ stress/NN simply/RB indicates/VBZ a/AT centering/NN of/IN attention/NN or/CC emotion/NN ./pct
-Thus/RB in/IN it's /None incredible/JJ what/WDT that/DT boy/NN can/MD eat/VB dominant/JJ stress/NN is/BEZ likely/JJ to/TO be/BE on/IN incredible/JJ ,/pct and/CC eat/VB will/MD have/HV strong/JJ stress/NN also/RB ./pct
+Thus/RB in/IN it's/PPSBEZ incredible/JJ what/WDT that/DT boy/NN can/MD eat/VB dominant/JJ stress/NN is/BEZ likely/JJ to/TO be/BE on/IN incredible/JJ ,/pct and/CC eat/VB will/MD have/HV strong/JJ stress/NN also/RB ./pct
 In/IN she/PPS has/HVZ it/PPO in/RP for/IN George/NP dominant/JJ stress/NN will/MD ordinarily/RB be/BE on/IN in/RP ,/pct where/WRB the/AT notion/NN of/IN stored-up/JJ antipathy/NN seems/VBZ to/TO center/VB ./pct
-In/IN we're /None painting/VBG at/IN our/PPg garage/NN strong/JJ stress/NN on/IN at/IN indicates/VBZ that/CS the/AT job/NN being/BEG done/VBN is/BEZ not/NEG real/JJ painting/NN but/CC simply/RB an/AT effort/NN at/IN painting/VBG ./pct
+In/IN we're/PPSSBER painting/VBG at/IN our/PPg garage/NN strong/JJ stress/NN on/IN at/IN indicates/VBZ that/CS the/AT job/NN being/BEG done/VBN is/BEZ not/NEG real/JJ painting/NN but/CC simply/RB an/AT effort/NN at/IN painting/VBG ./pct
 Where/WRB there/EX is/BEZ comparison/NN or/CC contrast/NN ,/pct dominant/JJ stresses/NNS normally/RB operate/VB to/TO center/VB attention/NN ./pct
 Thus/RB in/IN his/PPg friends/NNS are/BER stranger/JJR than/CS his/PPg sisters'/NNSg strong/JJ stresses/NNS are/BER normal/JJ for/IN his/PPg and/CC sisters'/NNSg ,/pct but/CC in/IN his/PPg friends/NNS are/BER stranger/JJR than/IN his/PPg sisters/NNS strong/JJ stresses/NNS are/BER normal/JJ for/IN friends/NNS and/CC sisters/NNS ./pct
-In/IN he's /None hurting/VBG himself/PPL more/RBR than/CS he's /None hurting/VBG you/PPO both/ABX himself/PPL and/CC you/PPO have/HV stronger/JJR stress/NN than/CS they/PPSS would/MD ordinarily/RB have/HV if/CS there/EX were/BED no/AT contrast/NN ./pct
+In/IN he's/PPSBEZ hurting/VBG himself/PPL more/RBR than/CS he's/PPSBEZ hurting/VBG you/PPO both/ABX himself/PPL and/CC you/PPO have/HV stronger/JJR stress/NN than/CS they/PPSS would/MD ordinarily/RB have/HV if/CS there/EX were/BED no/AT contrast/NN ./pct
 In/IN is/BEZ she/PPS Chinese/JJ or/CC Japanese/JJ ?/pct ?/pct
 The/AT desire/NN to/TO contrast/VB the/AT first/OD parts/NNS of/IN words/NNS which/WDT are/BER alike/JJ in/IN their/PPg last/AP components/NNS produces/VBZ an/AT exceptional/JJ disregard/NN of/IN the/AT normal/JJ patterns/NNS of/IN stress/NN of/IN Chinese/NP and/CC Japanese/JJ ./pct
 Sometimes/RB strong/JJ stress/NN serves/VBZ to/TO focus/VB an/AT important/JJ secondary/JJ relationship/NN ./pct
@@ -62,8 +62,8 @@ Here/RB again/RB ,/pct in/IN the/AT written/VBN language/NN it/PPS is/BEZ possib
 When/WRB a/AT word/NN represents/VBZ a/AT larger/JJR construction/NN of/IN which/WDT it/PPS is/BEZ the/AT only/AP expressed/VBN part/NN ,/pct it/PPS normally/RB has/HVZ more/AP stress/NN than/CS it/PPS would/MD have/HV in/IN fully/QL expressed/VBN construction/NN ./pct
 Thus/RB when/WRB yes/RB ,/pct I/PPSS have/HV is/BEZ the/AT response/NN to/IN have/HV you/PPSS finished/VBN reading/VBG the/AT paper/NN ?/pct ?/pct
 The/AT stress/NN on/IN have/HV ,/pct which/WDT here/RB represents/VBZ have/HV finished/VBN reading/VBG the/AT paper/NN ,/pct is/BEZ quite/QL strong/JJ ./pct
-In/IN Mack's /None the/AT leader/NN at/IN camp/NN ,/pct but/CC Jack/NP is/BEZ here/RB the/AT is/BEZ of/IN the/AT second/OD main/JJS declarative/NN represents/VBZ is/BEZ the/AT leader/NN and/CC therefore/RB has/HVZ stress/NN ./pct
-Mack's /None the/AT leader/NN at/IN camp/NN ,/pct but/CC Jack's /None here/RB ,/pct with/IN this/DT is/BEZ deprived/VBN of/IN stress/NN ,/pct makes/VBZ here/RB the/AT complement/NN in/IN the/AT clause/NN ./pct
+In/IN Mack's/NPBEZ the/AT leader/NN at/IN camp/NN ,/pct but/CC Jack/NP is/BEZ here/RB the/AT is/BEZ of/IN the/AT second/OD main/JJS declarative/NN represents/VBZ is/BEZ the/AT leader/NN and/CC therefore/RB has/HVZ stress/NN ./pct
+Mack's/NPBEZ the/AT leader/NN at/IN camp/NN ,/pct but/CC Jack's/NPBEZ here/RB ,/pct with/IN this/DT is/BEZ deprived/VBN of/IN stress/NN ,/pct makes/VBZ here/RB the/AT complement/NN in/IN the/AT clause/NN ./pct
 In/IN of/IN all/ABN the/AT suggestions/NNS that/WPS were/BED made/VBN ,/pct his/PPg was/BEDZ the/AT silliest/JJT the/AT possessive/NN his/PPg represents/VBZ his/PPg suggestion/NN and/CC is/BEZ stressed/VBN ./pct
 When/WRB go/VB represents/VBZ itself/PPL and/CC a/AT complement/NN (/pct being/BEG equivalent/JJ ,/pct say/UH ,/pct to/IN go/VB to/IN Martinique/NP )/pct in/IN which/WDT boat/NN did/DOD Jack/NP go/VB on/IN ?/pct ?/pct
 It/PPS has/HVZ strong/JJ stress/NN ;/pct ;/pct
@@ -77,8 +77,8 @@ When/WRB I/PPSS have/HV instructions/NNS to/TO leave/VB is/BEZ equivalent/JJ in/
 When/WRB the/AT same/AP sequence/NN is/BEZ equivalent/JJ in/IN meaning/NN to/IN I/PPSS have/HV instructions/NNS which/WDT I/PPSS am/BEM to/TO leave/VB ,/pct dominant/JJ stress/NN is/BEZ ordinarily/RB on/IN instructions/NNS ./pct
 It/PPS is/BEZ clear/JJ that/CS patterns/NNS of/IN stress/NN sometimes/RB show/VB construction/NN unambiguously/RB in/IN the/AT spoken/VBN language/NN where/WRB without/IN the/AT help/NN of/IN context/NN it/PPS would/MD be/BE ambiguous/JJ in/IN the/AT written/VBN ./pct
 Other/AP examples/NNS follow/VB ./pct
-``/pct I'll /None come/VB by/RB Tuesday/NR ./pct
-I/PPSS can't /None be/BE happy/JJ long/RB without/IN drinking/VBG water/NN ''/pct ./pct
+``/pct I'll/PPSSMD come/VB by/RB Tuesday/NR ./pct
+I/PPSS can't/MD* be/BE happy/JJ long/RB without/IN drinking/VBG water/NN ''/pct ./pct
 In/IN the/AT first/OD of/IN these/DTS sentences/NNS if/CS by/IN is/BEZ the/AT complement/NN of/IN come/VB and/CC Tuesday/NR is/BEZ an/AT adjunct/NN of/IN time/NN equivalent/JJ to/IN on/IN Tuesday/NR ,/pct there/EX will/MD be/BE strong/JJ stress/NN on/IN by/IN in/IN the/AT spoken/VBN language/NN ;/pct ;/pct
 but/CC if/CS a/AT complement/NN for/IN come/VB is/BEZ implied/VBN and/CC by/IN Tuesday/NR is/BEZ a/AT prepositional/JJ unit/NN used/VBN as/CS an/AT adjunct/NN ,/pct by/IN will/MD be/BE unstressed/JJ or/CC lightly/RB stressed/VBN at/IN most/AP ./pct
 In/IN the/AT second/OD sentence/NN if/CS drinking/VBG water/NN is/BEZ a/AT gerundial/JJ clause/NN and/CC without/IN drinking/VBG water/NN is/BEZ roughly/QL equivalent/JJ in/IN meaning/NN to/IN unless/CS I/PPSS drink/VB water/NN ,/pct there/EX will/MD be/BE stronger/JJR stress/NN on/IN water/NN than/CS on/IN drinking/VBG ;/pct ;/pct
@@ -87,11 +87,11 @@ But/CC the/AT use/NN of/IN stress/NN in/IN comparison/NN and/CC contrast/NN ,/pc
 And/CC patterns/NNS of/IN stress/NN are/BER not/NEG always/RB unambiguous/JJ by/IN any/DTI means/NNS ./pct
 In/IN the/AT Steiners/NPS have/HV busy/JJ lives/NNS without/IN visiting/VBG relatives/NNS only/AP context/NN can/MD indicate/VB whether/CS visiting/VBG relatives/NNS is/BEZ equivalent/JJ in/IN meaning/NN to/IN paying/VBG visits/NNS to/IN relatives/NNS or/CC to/IN relatives/NNS who/WPS are/BER visiting/VBG them/PPO ,/pct and/CC in/IN I/PPSS looked/VBD up/RP the/AT number/NN and/CC I/PPSS looked/VBD up/IN the/AT chimney/NN only/RB the/AT meanings/NNS of/IN number/NN and/CC chimney/NN make/VB it/PPO clear/JJ that/CS up/IN is/BEZ syntactically/RB a/AT second/OD complement/NN in/IN the/AT first/OD sentence/NN and/CC a/AT preposition/NN followed/VBN by/IN its/PPg object/NN in/IN the/AT second/OD ./pct
 Syllabification/NN ./pct
---/pct Syllables/NNS are/BER linguistic/JJ units/NNS centering/VBG in/IN peaks/NNS which/WDT are/BER usually/RB vocalic/JJ but/CC ,/pct as/CS has/HVZ been/BEN noted/VBN ,/pct are/BER consonantal/JJ under/IN certain/AP circumstances/NNS ,/pct and/CC which/WDT may/MD or/CC may/MD not/NEG be/BE combined/VBN with/IN preceding/VBG and/or/CC following/VBG consonants/NNS or/CC combinations/NNS of/IN consonants/NNS ./pct
+--/pct Syllables/NNS are/BER linguistic/JJ units/NNS centering/VBG in/IN peaks/NNS which/WDT are/BER usually/RB vocalic/JJ but/CC ,/pct as/CS has/HVZ been/BEN noted/VBN ,/pct are/BER consonantal/JJ under/IN certain/AP circumstances/NNS ,/pct and/CC which/WDT may/MD or/CC may/MD not/NEG be/BE combined/VBN with/IN preceding/VBG and:or/CC following/VBG consonants/NNS or/CC combinations/NNS of/IN consonants/NNS ./pct
 Syllables/NNS are/BER genuine/JJ units/NNS ,/pct but/CC division/NN of/IN words/NNS and/CC sentences/NNS into/IN them/PPO presents/VBZ great/JJ difficulties/NNS ./pct
 Sometimes/RB even/RB the/AT number/NN of/IN syllables/NNS is/BEZ not/NEG clear/JJ ./pct
-Doubt/NN on/IN this/DT point/NN is/BEZ strongest/JJT before/IN /l//NN and/CC AAb//NN or/CC /r//NN ./pct
+Doubt/NN on/IN this/DT point/NN is/BEZ strongest/JJT before/IN :l:/NN and/CC AAb:/NN or/CC :r:/NN ./pct
 From/IN the/AT point/NN of/IN view/NN of/IN word/NN formation/NN real/JJ might/MD be/BE expected/VBN to/TO have/HV two/CD syllables/NNS ./pct
 Historically/RB re/NN is/BEZ the/AT formative/NN that/WPS is/BEZ employed/VBN also/RB in/IN republic/NN ,/pct and/CC al/NN is/BEZ the/AT common/JJ suffix/NN ./pct
 When/WRB ity/NN is/BEZ added/VBN ,/pct real/JJ clearly/RB has/HVZ two/CD syllables/NNS ./pct
-But/CC there/EX is/BEZ every/AT reason/NN to/TO regard/VB deal/VB as/CS a/AT monosyllable/NN ,/pct and/CC because/RB of/IN the/AT fact/NN that/CS /l//NN commonly/RB has/HVZ the/AT quality/NN of/IN AAb//NN when/WRB it/PPS follows/VBZ vowel/NN sounds/NNS ,/pct deal/VB seems/VBZ to/TO be/BE a/AT perfectly/QL satisfactory/JJ rhyme/NN with/IN deal/VB ./pct
+But/CC there/EX is/BEZ every/AT reason/NN to/TO regard/VB deal/VB as/CS a/AT monosyllable/NN ,/pct and/CC because/RB of/IN the/AT fact/NN that/CS :l:/NN commonly/RB has/HVZ the/AT quality/NN of/IN AAb:/NN when/WRB it/PPS follows/VBZ vowel/NN sounds/NNS ,/pct deal/VB seems/VBZ to/TO be/BE a/AT perfectly/QL satisfactory/JJ rhyme/NN with/IN deal/VB ./pct

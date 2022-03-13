@@ -20,7 +20,7 @@ We/PPSS know/VB that/CS we/PPSS have/HV hydrogen/NN in/IN water/NN ;/pct ;/pct
 water/NN is/BEZ Af/NN and/CC the/AT H/NN stands/VBZ for/IN hydrogen/NN ;/pct ;/pct
 there/EX is/BEZ also/RB hydrogen/NN in/IN wood/NN and/CC hydrogen/NN in/IN our/PPg bodies/NNS ./pct
 I/PPSS have/HV calculated/VBN that/CS if/CS I/PPSS could/MD snap/VB my/PPg fingers/NNS in/IN one/CD magic/JJ gesture/NN to/TO release/VB the/AT power/NN of/IN all/ABN the/AT hydrogen/NN in/IN my/PPg body/NN ,/pct I/PPSS would/MD explode/VB with/IN the/AT force/NN of/IN a/AT hundred/CD bombs/NNS of/IN the/AT kind/NN that/WPS fell/VBD on/IN Hiroshima/NP ./pct
-I/PPSS won't /None try/VB the/AT experiment/NN ,/pct but/CC I/PPSS think/VB you/PPO can/MD see/VB that/CS if/CS we/PPSS all/ABN knew/VBD the/AT secret/NN and/CC we/PPSS could/MD all/ABN let/VB ourselves/PPLS go/VB ,/pct there/EX would/MD be/BE quite/ABL an/AT explosion/NN ./pct
+I/PPSS won't/MD* try/VB the/AT experiment/NN ,/pct but/CC I/PPSS think/VB you/PPO can/MD see/VB that/CS if/CS we/PPSS all/ABN knew/VBD the/AT secret/NN and/CC we/PPSS could/MD all/ABN let/VB ourselves/PPLS go/VB ,/pct there/EX would/MD be/BE quite/ABL an/AT explosion/NN ./pct
 And/CC then/RB think/VB how/WQL little/AP hydrogen/NN we/PPSS have/HV in/IN us/PPO compared/VBN with/IN the/AT hydrogen/NN in/IN Delaware/NP Bay/NN or/CC in/IN the/AT ocean/NN beyond/RB ./pct
 Salt/NN water/NN is/BEZ still/RB Af/NN ,/pct the/AT same/AP hydrogen/NN is/BEZ there/RB ./pct
 And/CC the/AT size/NN of/IN the/AT ocean/NN shows/VBZ us/PPO the/AT magnitude/NN of/IN the/AT destructive/JJ power/NN we/PPSS hold/VB in/IN our/PPg hands/NNS today/NR ./pct

@@ -1,5 +1,5 @@
-Up/IN to/IN date/NN ,/pct however/RB ,/pct his/PPg garden/NN was/BEDZ still/RB more/AP or/CC less/AP of/IN a/AT mess/NN ,/pct he/PPS hadn't /None even/RB started/VBN his/PPg workshop/NN and/CC if/CS there/EX was/BEDZ a/AT meadow/NN pond/NN in/IN the/AT neighborhood/NN he/PPS hadn't /None found/VBN it/PPO ./pct
-It/PPS wasn't /None his/PPg fault/NN that/CS these/DTS things/NNS were/BED so/RB ./pct
+Up/IN to/IN date/NN ,/pct however/RB ,/pct his/PPg garden/NN was/BEDZ still/RB more/AP or/CC less/AP of/IN a/AT mess/NN ,/pct he/PPS hadn't/HVD* even/RB started/VBN his/PPg workshop/NN and/CC if/CS there/EX was/BEDZ a/AT meadow/NN pond/NN in/IN the/AT neighborhood/NN he/PPS hadn't/HVD* found/VBN it/PPO ./pct
+It/PPS wasn't/BEDZ* his/PPg fault/NN that/CS these/DTS things/NNS were/BED so/RB ./pct
 The/AT difficulty/NN was/BEDZ that/CS each/DT day/NN seemed/VBD to/TO produce/VB its/PPg quota/NN of/IN details/NNS which/WDT must/MD be/BE cleaned/VBN up/RP immediately/RB ./pct
 As/CS a/AT result/NN ,/pct life/NN had/HVD become/VBN a/AT kind/NN of/IN continuous/JJ make-ready/NN ./pct
 Once/CS he/PPS disposed/VBD of/IN these/DTS items/NNS which/WDT screamed/VBD so/QL harshly/RB for/IN attention/NN ,/pct he/PPS could/MD undertake/VB the/AT things/NNS which/WDT really/RB counted/VBD ./pct
@@ -12,8 +12,8 @@ They/PPSS were/BED constantly/RB assuring/VBG you/PPO that/CS you/PPSS were/BED 
 Regardless/RB of/IN how/WRB much/AP of/IN a/AT slob/NN you/PPSS knew/VBD yourself/PPL to/TO be/BE ,/pct you/PPSS could/MD be/BE certain/JJ they/PPSS would/MD never/RB find/VB out/RP --/pct and/CC even/RB if/CS they/PPSS did/DOD it/PPS would/MD make/VB no/AT difference/NN ./pct
 Now/RB it/PPS became/VBD increasingly/QL apparent/JJ that/CS there/EX were/BED to/TO be/BE no/AT dogs/NNS in/IN the/AT picture/NN ./pct
 What/WDT in/IN the/AT world/NN were/BED you/PPSS going/VBG to/TO do/DO with/IN a/AT lot/NN of/IN dogs/NNS when/WRB you/PPSS left/VBD for/IN town/NN on/IN Monday/NR afternoons/NNS ?/pct ?/pct
-You/PPSS certainly/RB couldn't /None take/VB them/PPO into/IN the/AT little/AP apartment/NN and/CC if/CS you/PPSS tried/VBD to/TO farm/VB them/PPO out/RP for/IN two/CD or/CC three/CD days/NNS every/AT week/NN they/PPSS would/MD become/VB so/QL confused/VBN that/CS they/PPSS would/MD have/HV nervous/JJ breakdowns/NNS ./pct
-Why/WRB in/IN the/AT world/NN couldn't /None he/PPS live/VB in/IN one/CD place/NN the/AT way/NN everyone/PN else/RB seemed/VBD to/TO ?/pct ?/pct
+You/PPSS certainly/RB couldn't/MD* take/VB them/PPO into/IN the/AT little/AP apartment/NN and/CC if/CS you/PPSS tried/VBD to/TO farm/VB them/PPO out/RP for/IN two/CD or/CC three/CD days/NNS every/AT week/NN they/PPSS would/MD become/VB so/QL confused/VBN that/CS they/PPSS would/MD have/HV nervous/JJ breakdowns/NNS ./pct
+Why/WRB in/IN the/AT world/NN couldn't/MD* he/PPS live/VB in/IN one/CD place/NN the/AT way/NN everyone/PN else/RB seemed/VBD to/TO ?/pct ?/pct
 It/PPS worried/VBD him/PPO ,/pct this/DT inability/NN to/TO get/VB the/AT simplest/JJT things/NNS done/VBN in/IN the/AT course/NN of/IN a/AT day/NN ./pct
 He/PPS would/MD wake/VB up/RP in/IN the/AT middle/NN of/IN the/AT night/NN and/CC fret/VB about/IN it/PPO ./pct
 How/WRB in/IN the/AT world/NN had/HVD he/PPS formerly/RB found/VBN time/NN to/TO build/VB up/RP a/AT business/NN ,/pct raise/VB a/AT family/NN ,/pct be/BE on/IN half/ABN a/AT dozen/NN boards/NNS ,/pct work/VB actively/RB on/IN committees/NNS and/CC either/CC go/VB out/RP in/IN the/AT evening/NN or/CC plow/VB through/IN the/AT contents/NNS of/IN a/AT bulging/VBG brief/NN case/NN ?/pct ?/pct
@@ -25,7 +25,7 @@ Did/DOD it/PPS take/VB a/AT man/NN of/IN sixty-five/CD longer/JJR to/TO write/VB
 Did/DOD men/NNS become/VB perfectionists/NNS as/CS they/PPSS grew/VBD older/JJR ,/pct polishing/VBG ,/pct polishing/VBG ,/pct reluctant/JJ to/TO let/VB go/VB ?/pct ?/pct
 It/PPS might/MD be/BE that/CS certain/JJ people/NNS were/BED born/VBN with/IN a/AT compulsion/NN to/TO complicate/VB their/PPg lives/NNS ,/pct while/CS others/NNS could/MD live/VB blissfully/RB motionless/JJ almost/RB indefinitely/RB ,/pct like/CS lizards/NNS in/IN the/AT sun/NN ,/pct too/QL indolent/JJ to/TO blink/VB their/PPg eyes/NNS ./pct
 Perhaps/RB it/PPS was/BEDZ his/PPg misfortune/NN ,/pct or/CC good/JJ fortune/NN ,/pct whichever/WDT way/NN one/PN looked/VBD at/IN it/PPO ,/pct to/TO belong/VB to/IN the/AT former/AP group/NN ,/pct and/CC he/PPS was/BEDZ struggling/VBG unconsciously/RB to/TO build/VB up/RP pressure/NN in/IN a/AT world/NN which/WDT demanded/VBD none/PN ,/pct which/WDT was/BEDZ positively/RB antagonistic/JJ to/IN it/PPO ./pct
-And/CC then/RB again/RB perhaps/RB the/AT reason/NN why/WRB he/PPS couldn't /None find/VB time/NN to/TO do/DO any/DTI of/IN the/AT things/NNS he/PPS had/HVD planned/VBN to/TO do/DO after/IN retirement/NN :/pct reading/VBG ,/pct roaming/VBG ,/pct gardening/VBG ,/pct lying/VBG on/IN his/PPg back/NN and/CC watching/VBG the/AT clouds/NNS go/VB by/RB ,/pct was/BEDZ because/CS he/PPS didn't /None want/VB to/TO do/DO them/PPO ./pct
+And/CC then/RB again/RB perhaps/RB the/AT reason/NN why/WRB he/PPS couldn't/MD* find/VB time/NN to/TO do/DO any/DTI of/IN the/AT things/NNS he/PPS had/HVD planned/VBN to/TO do/DO after/IN retirement/NN :/pct reading/VBG ,/pct roaming/VBG ,/pct gardening/VBG ,/pct lying/VBG on/IN his/PPg back/NN and/CC watching/VBG the/AT clouds/NNS go/VB by/RB ,/pct was/BEDZ because/CS he/PPS didn't/DOD* want/VB to/TO do/DO them/PPO ./pct
 There/EX was/BEDZ no/AT compulsion/NN behind/IN them/PPO ./pct
 They/PPSS could/MD be/BE done/VBN or/CC left/VBN undone/VBN and/CC nobody/PN really/RB gave/VBD a/AT damn/NN ./pct
 During/IN all/ABN his/PPg busy/JJ life/NN he/PPS had/HVD only/RB done/VBN things/NNS which/WDT had/HVD to/TO be/BE done/VBN ./pct
@@ -39,10 +39,10 @@ Thus/RB committed/VBN ,/pct action/NN might/MD follow/VB ./pct
 He/PPS went/VBD down/RP to/IN Mills/NP and/CC Bradley's/NPg Hardware/NN Store/NN and/CC bought/VBD a/AT full/JJ set/NN of/IN carpenter's/NNg tools/NNS ,/pct including/IN a/AT rotary/JJ power/NN saw/NN and/CC several/AP other/AP pieces/NNS of/IN power/NN machinery/NN that/WPS Mr./NP Mills/NP said/VBD were/BED essential/JJ for/IN babbiting/VBG and/CC doweling/VBG ,/pct whatever/WDT they/PPSS were/BED ./pct
 He/PPS also/RB bought/VBD a/AT huge/JJ square/NN of/IN pegboard/NN for/IN hanging/VBG up/RP his/PPg tools/NNS ,/pct and/CC lumber/NN for/IN his/PPg workbench/NN ,/pct sandpaper/NN and/CC glue/NN and/CC assorted/VBN nails/NNS ,/pct levels/NNS and/CC T/NP squares/NNS and/CC plumb/NN lines/NNS and/CC several/AP gadgets/NNS that/CS he/PPS had/HVD no/AT idea/NN how/WRB to/TO use/VB or/CC what/WDT they/PPSS were/BED for/IN ./pct
 ``/pct There/RB ''/pct ,/pct said/VBD Mr./NP Mills/NP ./pct
-``/pct That'll /None get/VB you/PPO started/VBN ./pct
+``/pct That'll/WPSMD get/VB you/PPO started/VBN ./pct
 Best/JJT not/NEG to/TO get/VB everything/PN at/IN once/RB ./pct
 Add/VB things/NNS as/CS you/PPSS find/VB you/PPO need/VB 'em/PPO ''/pct ./pct
-He/PPS didn't /None even/RB ask/VB the/AT cost/NN of/IN this/DT collection/NN ./pct
+He/PPS didn't/DOD* even/RB ask/VB the/AT cost/NN of/IN this/DT collection/NN ./pct
 After/IN all/ABN ,/pct if/CS you/PPSS were/BED going/VBG to/TO set/VB up/RP a/AT workshop/NN you/PPSS had/HVD to/TO have/HV the/AT proper/JJ equipment/NN and/CC that/DT was/BEDZ that/DT ./pct
 When/WRB he/PPS returned/VBD home/NR ,/pct the/AT station/NN wagon/NN loaded/VBN with/IN tools/NNS ,/pct Jinny/NP had/HVD gone/VBN with/IN a/AT friend/NN to/IN some/DTI meeting/NN in/IN the/AT village/NN ,/pct using/VBG the/AT recently/RB purchased/VBN second/OD car/NN ./pct
 He/PPS was/BEDZ glad/JJ ./pct
@@ -51,17 +51,17 @@ He/PPS had/HVD made/VBN such/ABL a/AT fuss/NN about/IN buying/VBG that/DT second
 He/PPS piled/VBD everything/PN neatly/RB in/IN a/AT corner/NN of/IN the/AT cellar/NN and/CC turned/VBD to/TO stare/VB at/IN the/AT blank/NN stone/NN wall/NN ./pct
 That/DT was/BEDZ where/WRB the/AT pegboard/NN would/MD go/VB on/IN which/WDT he/PPS would/MD hang/VB his/PPg hand/NN tools/NNS ./pct
 In/IN front/NN of/IN it/PPO would/MD be/BE his/PPg workbench/NN ./pct
-The/AT old/JJ nightmare/NN which/WDT had/HVD caused/VBN him/PPO so/QL many/AP wakeful/JJ hours/NNS came/VBD charging/VBG in/RP on/IN him/PPO once/RB more/RBR ,/pct only/RB this/DT time/NN he/PPS couldn't /None pacify/VB it/PPO with/IN a/AT sleeping/VBG pill/NN and/CC send/VB it/PPO away/RB ./pct
+The/AT old/JJ nightmare/NN which/WDT had/HVD caused/VBN him/PPO so/QL many/AP wakeful/JJ hours/NNS came/VBD charging/VBG in/RP on/IN him/PPO once/RB more/RBR ,/pct only/RB this/DT time/NN he/PPS couldn't/MD* pacify/VB it/PPO with/IN a/AT sleeping/VBG pill/NN and/CC send/VB it/PPO away/RB ./pct
 How/WRB in/IN the/AT world/NN did/DOD one/PN attach/VB a/AT pegboard/NN to/IN a/AT stone/NN wall/NN ?/pct ?/pct
 How/WRB did/DOD one/PN attach/VB anything/PN to/IN a/AT stone/NN wall/NN ,/pct for/IN that/DT matter/NN ?/pct ?/pct
 After/IN the/AT pegboard/NN there/EX would/MD be/BE the/AT paneling/NN ./pct
 He/PPS sat/VBD down/RP on/IN an/AT old/JJ box/NN and/CC focused/VBD on/IN the/AT problem/NN ./pct
 Perhaps/RB one/PN bored/VBD holes/NNS in/IN the/AT stone/NN with/IN some/DTI kind/NN of/IN an/AT electric/JJ gadget/NN ./pct
-But/CC then/RB ,/pct when/WRB you/PPSS stuck/VBD things/NNS into/IN the/AT holes/NNS ,/pct why/WRB didn't /None they/PPSS come/VB right/QL out/RP again/RB ?/pct ?/pct
+But/CC then/RB ,/pct when/WRB you/PPSS stuck/VBD things/NNS into/IN the/AT holes/NNS ,/pct why/WRB didn't/DOD* they/PPSS come/VB right/QL out/RP again/RB ?/pct ?/pct
 It/PPS all/ABN seemed/VBD rather/QL hopeless/JJ ./pct
 He/PPS turned/VBD his/PPg attention/NN to/IN the/AT workbench/NN ./pct
 Perhaps/RB that/DT was/BEDZ the/AT first/OD thing/NN to/TO do/DO ./pct
-A/AT workbench/NN had/HVD a/AT heavy/JJ top/NN and/CC sturdy/JJ legs/NNS ,/pct but/CC how/WRB did/DOD you/PPSS attach/VB sturdy/JJ legs/NNS to/IN a/AT heavy/JJ top/NN so/CS that/CS the/AT whole/JJ thing/NN didn't /None wobble/VB like/CS a/AT newborn/JJ calf/NN and/CC ultimately/RB collapse/VB when/WRB you/PPSS leaned/VBD on/IN it/PPO ?/pct ?/pct
+A/AT workbench/NN had/HVD a/AT heavy/JJ top/NN and/CC sturdy/JJ legs/NNS ,/pct but/CC how/WRB did/DOD you/PPSS attach/VB sturdy/JJ legs/NNS to/IN a/AT heavy/JJ top/NN so/CS that/CS the/AT whole/JJ thing/NN didn't/DOD* wobble/VB like/CS a/AT newborn/JJ calf/NN and/CC ultimately/RB collapse/VB when/WRB you/PPSS leaned/VBD on/IN it/PPO ?/pct ?/pct
 Mr./NP Mills/NP had/HVD done/VBN some/DTI figuring/NN on/IN a/AT scrap/NN of/IN paper/NN and/CC given/VBN him/PPO the/AT various/JJ kinds/NNS of/IN boards/NNS and/CC two-by-fours/NNS which/WDT ,/pct properly/RB handled/VBN ,/pct would/MD ,/pct he/PPS had/HVD assured/VBN him/PPO ,/pct turn/VB into/IN a/AT workbench/NN ./pct
 They/PPSS lay/VBD on/IN the/AT cellar/NN floor/NN in/IN a/AT disorderly/JJ pile/NN ./pct
 Mr./NP Crombie/NP poked/VBD at/IN it/PPO gingerly/RB with/IN his/PPg foot/NN ./pct
@@ -72,47 +72,47 @@ After/IN that/DT everything/PN should/MD be/BE simpler/JJR ./pct
 He/PPS went/VBD upstairs/RB to/TO phone/VB Crumb/NP ./pct
 To/IN his/PPg amazement/NN he/PPS reached/VBD him/PPO ./pct
 Mr./NP Crumb/NP was/BEDZ laid/VBN up/RP with/IN a/AT bad/JJ cold/NN ./pct
-He/PPS didn't /None seem/VB to/TO think/VB that/CS attaching/VBG a/AT pegboard/NN to/IN a/AT stone/NN wall/NN was/BEDZ much/AP of/IN a/AT problem/NN and/CC he/PPS tossed/VBD off/RP the/AT building/NN of/IN the/AT worktable/NN equally/RB lightly/RB ./pct
+He/PPS didn't/DOD* seem/VB to/TO think/VB that/CS attaching/VBG a/AT pegboard/NN to/IN a/AT stone/NN wall/NN was/BEDZ much/AP of/IN a/AT problem/NN and/CC he/PPS tossed/VBD off/RP the/AT building/NN of/IN the/AT worktable/NN equally/RB lightly/RB ./pct
 The/AT only/AP trouble/NN was/BEDZ that/CS he/PPS himself/PPL was/BEDZ tied/VBN up/RP on/IN the/AT school/NN job/NN ./pct
-That/DT was/BEDZ why/WRB he/PPS hadn't /None been/BEN able/JJ to/TO finish/VB the/AT porch/NN ./pct
-No/RB ,/pct he/PPS didn't /None know/VB of/IN any/DTI handyman-carpenter/NN ./pct
-There/EX wasn't /None any/DTI such/JJ thing/NN any/DTI more/RBR ./pct
+That/DT was/BEDZ why/WRB he/PPS hadn't/HVD* been/BEN able/JJ to/TO finish/VB the/AT porch/NN ./pct
+No/RB ,/pct he/PPS didn't/DOD* know/VB of/IN any/DTI handyman-carpenter/NN ./pct
+There/EX wasn't/BEDZ* any/DTI such/JJ thing/NN any/DTI more/RBR ./pct
 Carpenters/NNS all/ABN wanted/VBD steady/JJ work/NN and/CC at/IN the/AT moment/NN every/AT mother's/NNg son/NN for/IN twenty/CD miles/NNS around/RB that/WPS could/MD hammer/VB nails/NNS for/IN twenty-five/CD dollars/NNS a/AT day/NN was/BEDZ working/VBG on/IN the/AT school/NN job/NN ./pct
 There/EX was/BEDZ a/AT fellow/NN named/VBN Blatz/NP over/IN Smithtown/NP way/NN ./pct
 Nobody/PN liked/VBD to/TO hire/VB him/PPO because/CS you/PPSS never/RB could/MD tell/VB when/WRB he/PPS was/BEDZ going/VBG to/TO be/BE taken/VBN drunk/JJ ./pct
 Mr./NP Crumb/NP would/MD probably/RB see/VB him/PPO at/IN Lodge/NN Meeting/NN the/AT next/AP night/NN ./pct
-If/CS he/PPS was/BEDZ sober/JJ ,/pct which/WDT was/BEDZ doubtful/JJ ,/pct he'd /None have/HV him/PPO get/VB in/IN touch/NN with/IN Mr./NP Crombie/NP ./pct
-Mr./NP Blatz/NP had/HVD been/BEN at/IN least/AP sober/JJ enough/QLP to/TO remember/VB to/TO telephone/VB and/CC he/PPS turned/VBD out/RP to/TO be/BE the/AT greatest/JJT boon/NN that/WPS had/HVD come/VBN into/IN Mr./NP Crombie's/NPg life/NN since/CS he/PPS moved/VBD to/IN Highfield/NP ,/pct in/IN spite/IN of/IN the/AT fact/NN that/CS he/PPS didn't /None work/VB very/QL fast/JJ or/CC very/QL long/JJ at/IN a/AT time/NN ,/pct and/CC he/PPS didn't /None like/VB to/TO work/VB at/IN all/ABN unless/CS Mr./NP Crombie/NP hung/VBD around/RB and/CC talked/VBD to/IN him/PPO ./pct
-He/PPS said/VBD he/PPS was/BEDZ the/AT lonely/JJ type/NN and/CC working/VBG in/IN a/AT cellar/NN you/PPSS saw/VBD funny/JJ things/NNS coming/VBG out/IN of/IN the/AT cracks/NNS in/IN the/AT wall/NN if/CS they/PPSS wasn't /None nobody/PN with/IN you/PPO ./pct
+If/CS he/PPS was/BEDZ sober/JJ ,/pct which/WDT was/BEDZ doubtful/JJ ,/pct he'd/PPSMD have/HV him/PPO get/VB in/IN touch/NN with/IN Mr./NP Crombie/NP ./pct
+Mr./NP Blatz/NP had/HVD been/BEN at/IN least/AP sober/JJ enough/QLP to/TO remember/VB to/TO telephone/VB and/CC he/PPS turned/VBD out/RP to/TO be/BE the/AT greatest/JJT boon/NN that/WPS had/HVD come/VBN into/IN Mr./NP Crombie's/NPg life/NN since/CS he/PPS moved/VBD to/IN Highfield/NP ,/pct in/IN spite/IN of/IN the/AT fact/NN that/CS he/PPS didn't/DOD* work/VB very/QL fast/JJ or/CC very/QL long/JJ at/IN a/AT time/NN ,/pct and/CC he/PPS didn't/DOD* like/VB to/TO work/VB at/IN all/ABN unless/CS Mr./NP Crombie/NP hung/VBD around/RB and/CC talked/VBD to/IN him/PPO ./pct
+He/PPS said/VBD he/PPS was/BEDZ the/AT lonely/JJ type/NN and/CC working/VBG in/IN a/AT cellar/NN you/PPSS saw/VBD funny/JJ things/NNS coming/VBG out/IN of/IN the/AT cracks/NNS in/IN the/AT wall/NN if/CS they/PPSS wasn't/BEDZ* nobody/PN with/IN you/PPO ./pct
 So/CS Mr./NP Crombie/NP sat/VBD on/IN a/AT wooden/JJ box/NN and/CC talked/VBD in/IN order/NN to/TO keep/VB Mr./NP Blatz's/NPg mind/NN from/IN funny/JJ things/NNS ./pct
-At/IN the/AT same/AP time/NN he/PPS watched/VBD carefully/RB to/TO see/VB how/WRB one/PN attached/VBD pegboards/NNS to/IN stone/NN walls/NNS ,/pct but/CC Mr./NP Blatz/NP was/BEDZ usually/RB standing/VBG in/IN his/PPg line/NN of/IN vision/NN and/CC it/PPS all/ABN seemed/VBD so/QL simple/JJ that/CS he/PPS didn't /None like/VB to/TO disclose/VB his/PPg ignorance/NN ./pct
+At/IN the/AT same/AP time/NN he/PPS watched/VBD carefully/RB to/TO see/VB how/WRB one/PN attached/VBD pegboards/NNS to/IN stone/NN walls/NNS ,/pct but/CC Mr./NP Blatz/NP was/BEDZ usually/RB standing/VBG in/IN his/PPg line/NN of/IN vision/NN and/CC it/PPS all/ABN seemed/VBD so/QL simple/JJ that/CS he/PPS didn't/DOD* like/VB to/TO disclose/VB his/PPg ignorance/NN ./pct
 While/CS Mr./NP Blatz/NP was/BEDZ putting/VBG up/RP the/AT pegboards/NNS and/CC starting/VBG the/AT workbench/NN ,/pct Mr./NP Crombie/NP told/VBD him/PPO of/IN this/DT idea/NN about/IN paneling/NN the/AT whole/JJ end/NN of/IN the/AT cellar/NN ./pct
 Mr./NP Blatz/NP agreed/VBD that/CS this/DT would/MD be/BE pretty/JJ ./pct
 Without/IN further/JJR discussion/NN he/PPS appeared/VBD the/AT next/AP morning/NN with/IN a/AT pile/NN of/IN boards/NNS sticking/VBG over/IN the/AT end/NN of/IN his/PPg light/NN truck/NN and/CC proceeded/VBD with/IN the/AT paneling/NN ,/pct which/WDT he/PPS then/RB stained/VBD and/CC waxed/VBD according/IN to/IN his/PPg taste/NN ./pct
 ``/pct Now/RB ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct we/PPSS got/VBD to/TO put/VB in/RP some/DTI outlets/NNS for/IN them/DTS power/NN tools/NNS ;/pct ;/pct
-then/RB a/AT couple/NN of/IN fluorescent/JJ lamps/NNS over/IN the/AT workbench/NN an'/CC I/PPSS guess/VB we're /None about/RB through/RP down/RP here/RB ''/pct ./pct
+then/RB a/AT couple/NN of/IN fluorescent/JJ lamps/NNS over/IN the/AT workbench/NN an'/CC I/PPSS guess/VB we're/PPSSBER about/RB through/RP down/RP here/RB ''/pct ./pct
 It/PPS all/ABN did/DOD look/VB very/QL efficient/JJ and/CC shipshape/JJ ./pct
 There/EX was/BEDZ no/AT question/NN of/IN that/DT ./pct
 ``/pct By/IN the/AT way/NN ''/pct ,/pct said/VBD Mr./NP Blatz/NP ,/pct packing/VBG his/PPg tools/NNS into/IN a/AT battered/VBN carrier/NN ,/pct ``/pct them/DTS power/NN tools/NNS needs/VBZ extra/JJ voltage/NN ./pct
 I/PPSS guess/VB you/PPO know/VB about/IN that/DT ./pct
-Before/CS you/PPSS use/VB 'em/PPO the/AT light/NN company's /None got/VBN to/TO run/VB in/RP a/AT heavy/JJ line/NN and/CC you'll /None need/VB a/AT new/JJ fuse/NN box/NN for/IN the/AT extra/JJ circuits/NNS ./pct
-That/WPS ain't /None too/QL bad/JJ 'ceptin'/IN the/AT light/NN company's /None so/QL busy/JJ you/PPSS can't /None ever/RB get/VB 'em/PPO to/TO do/DO nothin'/PN ''/pct ./pct
+Before/CS you/PPSS use/VB 'em/PPO the/AT light/NN company's/NNHVZ got/VBN to/TO run/VB in/RP a/AT heavy/JJ line/NN and/CC you'll/PPSSMD need/VB a/AT new/JJ fuse/NN box/NN for/IN the/AT extra/JJ circuits/NNS ./pct
+That/WPS ain't/BEZ* too/QL bad/JJ 'ceptin'/IN the/AT light/NN company's/NNBEZ so/QL busy/JJ you/PPSS can't/MD* ever/RB get/VB 'em/PPO to/TO do/DO nothin'/PN ''/pct ./pct
 Instead/RB of/IN being/BEG depressed/VBN by/IN this/DT news/NN ,/pct Mr./NP Crombie/NP was/BEDZ actually/RB relieved/VBN ./pct
 At/IN least/AP the/AT moment/NN was/BEDZ postponed/VBN when/WRB he/PPS had/HVD to/TO face/VB the/AT mystery/NN of/IN the/AT power/NN tools/NNS ./pct
 He/PPS followed/VBD Mr./NP Blatz/NP up/IN the/AT cellar/NN stairs/NNS ./pct
 As/QL usual/JJ ,/pct Mrs./NP Crombie/NP was/BEDZ standing/VBG in/IN the/AT midst/NN of/IN a/AT confusion/NN of/IN cooking/VBG utensils/NNS ./pct
 Mr./NP Blatz/NP sat/VBD down/RP in/IN the/AT only/RB unoccupied/JJ kitchen/NN chair/NN ./pct
 ``/pct Well/UH ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct got/VBD your/PPg man/NN fixed/VBN up/RP nice/RB down/RP there/RB ./pct
-He/PPS oughta /None be/BE able/JJ to/TO build/VB a/AT new/JJ house/NN with/IN all/ABN them/DTS contraptions/NNS ''/pct ./pct
+He/PPS oughta/MDTO be/BE able/JJ to/TO build/VB a/AT new/JJ house/NN with/IN all/ABN them/DTS contraptions/NNS ''/pct ./pct
 Mr./NP Crombie/NP watched/VBD his/PPg wife/NN with/IN an/AT anxious/JJ expression/NN ./pct
-``/pct I/PPSS was/BEDZ just/RB sayin'/VBG to/IN him/PPO that/CS I'm /None all/QL ready/JJ now/RB for/IN anything/PN else/RB you/PPSS want/VB done/VBN ''/pct ./pct
-Mr./NP Crombie/NP couldn't /None remember/VB his/PPg saying/VBG any/DTI such/JJ thing/NN ./pct
-``/pct Oh/UH ,/pct that's /None wonderful/JJ ''/pct ,/pct cried/VBD Mrs./NP Crombie/NP ./pct
+``/pct I/PPSS was/BEDZ just/RB sayin'/VBG to/IN him/PPO that/CS I'm/PPSSBEM all/QL ready/JJ now/RB for/IN anything/PN else/RB you/PPSS want/VB done/VBN ''/pct ./pct
+Mr./NP Crombie/NP couldn't/MD* remember/VB his/PPg saying/VBG any/DTI such/JJ thing/NN ./pct
+``/pct Oh/UH ,/pct that's/DTBEZ wonderful/JJ ''/pct ,/pct cried/VBD Mrs./NP Crombie/NP ./pct
 ``/pct I/PPSS have/HV a/AT thousand/CD things/NNS for/IN you/PPO to/TO do/DO ./pct
-Doors/NNS that/DT won't /None open/VB ,/pct and/CC doors/NNS that/DT won't /None close/VB and/CC shelves/NNS and/CC broken/VBN --/pct ''/pct
+Doors/NNS that/DT won't/MD* open/VB ,/pct and/CC doors/NNS that/DT won't/MD* close/VB and/CC shelves/NNS and/CC broken/VBN --/pct ''/pct
 ``/pct But/CC those/DTS are/BER the/AT things/NNS I/PPSS built/VBD the/AT workshop/NN for/IN ''/pct ,/pct protested/VBD Mr./NP Crombie/NP ./pct
-``/pct Those/DTS are/BER the/AT things/NNS I/PPSS can/MD do/DO ,/pct now/RB that/CS I'm /None set/VBN up/RP ''/pct ./pct
-``/pct I've /None been/BEN waiting/VBG to/TO get/VB these/DTS things/NNS done/VBN for/IN months/NNS ''/pct ,/pct she/PPS said/VBD ./pct
-``/pct We/PPSS won't /None live/VB long/JJ enough/QLP if/CS I/PPSS wait/VB for/IN you/PPO ,/pct besides/RB which/WDT you/PPSS don't /None need/VB to/TO worry/VB --/pct there'll /None be/BE plenty/NN more/AP ''/pct ./pct
+``/pct Those/DTS are/BER the/AT things/NNS I/PPSS can/MD do/DO ,/pct now/RB that/CS I'm/PPSSBEM set/VBN up/RP ''/pct ./pct
+``/pct I've/PPSSHV been/BEN waiting/VBG to/TO get/VB these/DTS things/NNS done/VBN for/IN months/NNS ''/pct ,/pct she/PPS said/VBD ./pct
+``/pct We/PPSS won't/MD* live/VB long/JJ enough/QLP if/CS I/PPSS wait/VB for/IN you/PPO ,/pct besides/RB which/WDT you/PPSS don't/DO* need/VB to/TO worry/VB --/pct there'll/EXMD be/BE plenty/NN more/AP ''/pct ./pct
 But/CC the/AT discussion/NN was/BEDZ academic/JJ ./pct
 Mr./NP Blatz/NP was/BEDZ already/RB taking/VBG measurements/NNS for/IN a/AT shelf/NN above/IN the/AT kitchen/NN sink/NN ./pct

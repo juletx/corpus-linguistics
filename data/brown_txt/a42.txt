@@ -36,9 +36,9 @@ But/CC last/AP week's/NNg pirates/NNS ,/pct like/CS the/AT Cuban-American/NP who
 Stalling/VBG :/pct
 ``/pct Tell/VB your/PPg company/NN there/EX are/BER four/CD of/IN us/PPO here/RB with/IN guns/NNS ''/pct ,/pct the/AT elder/JJR man/NN told/VBD Rickards/NP ./pct
 The/AT pilot/NN radioed/VBD El/NP Paso/NP International/JJ Airport/NN with/IN just/RB that/DT message/NN ./pct
-But/CC ,/pct he/PPS told/VBD the/AT ``/pct skyjackers/NNS ''/pct ,/pct the/AT 707/CD didn't /None carry/VB enough/AP fuel/NN to/TO reach/VB Havana/NP ;/pct ;/pct
+But/CC ,/pct he/PPS told/VBD the/AT ``/pct skyjackers/NNS ''/pct ,/pct the/AT 707/CD didn't/DOD* carry/VB enough/AP fuel/NN to/TO reach/VB Havana/NP ;/pct ;/pct
 they/PPSS would/MD have/HV to/TO refuel/VB at/IN El/NP Paso/NP ./pct
-Most/AP passengers/NNS didn't /None know/VB what/WDT had/HVD happened/VBN until/CS they/PPSS got/VBD on/IN the/AT ground/NN ./pct
+Most/AP passengers/NNS didn't/DOD* know/VB what/WDT had/HVD happened/VBN until/CS they/PPSS got/VBD on/IN the/AT ground/NN ./pct
 Jerry/NP McCauley/NP of/IN Sacramento/NP ,/pct Calif./NP ,/pct one/CD of/IN some/DTI twenty/CD Air/NN Force/NN recruits/NNS on/IN board/NN ,/pct awoke/VBD from/IN a/AT nap/NN in/IN confusion/NN ./pct
 ``/pct The/AT old/JJ man/NN came/VBD from/IN the/AT front/NN of/IN the/AT plane/NN and/CC said/VBD he/PPS wanted/VBD four/CD volunteers/NNS to/TO go/VB to/IN Cuba/NP ''/pct ,/pct McCauley/NP said/VBD ,/pct ``/pct and/CC like/CS a/AT nut/NN I/PPSS raised/VBD my/PPg hand/NN ./pct
 I/PPSS thought/VBD he/PPS was/BEDZ the/AT Air/NN Force/NN recruiter/NN ''/pct ./pct
@@ -101,4 +101,4 @@ As/CS a/AT result/NN ,/pct ever/RB since/IN 1851/CD when/WRB the/AT Senate/NN re
 Over/IN the/AT years/NNS ,/pct enlivened/VBN chiefly/RB by/IN disputes/NNS about/IN the/AT relative/JJ merits/NNS of/IN Maine/NP and/CC Idaho/NP potatoes/NNS ,/pct the/AT menu/NN has/HVZ pursued/VBN its/PPg drab/JJ all-American/JJ course/NN ./pct
 Individual/JJ senators/NNS ,/pct with/IN an/AT eye/NN to/IN the/AT voters/NNS back/RB home/NR ,/pct occasionally/RB introduced/VBD smelts/NNS from/IN Michigan/NP ,/pct soft-shell/NN crabs/NNS from/IN Maryland/NP ,/pct oysters/NNS from/IN Washington/NP ,/pct grapefruit/NN from/IN Florida/NP ./pct
 But/CC plain/JJ old/JJ bean/NN soup/NN ,/pct served/VBN daily/RB since/IN the/AT turn/NN of/IN the/AT century/NN (/pct at/IN the/AT insistence/NN of/IN the/AT late/JJ Sen./NN Fred/NP Dubois/NP of/IN Idaho/NP )/pct ,/pct made/VBD clear/JJ to/IN the/AT citizenry/NN that/CS the/AT Senate's/NPg stomach/NN was/BEDZ in/IN the/AT right/JJ place/NN ./pct
-In/IN a/AT daring/VBG stroke/NN ,/pct the/AT Senate/NN ventured/VBD forth/RB last/AP week/NN into/IN the/AT world/NN of/IN haute/JJ cuisine/NN and/CC hired/VBD a/AT $10,000-per-year/NNS French-born/JJ maitre/NN d'hotel /None ./pct
+In/IN a/AT daring/VBG stroke/NN ,/pct the/AT Senate/NN ventured/VBD forth/RB last/AP week/NN into/IN the/AT world/NN of/IN haute/JJ cuisine/NN and/CC hired/VBD a/AT $10,000-per-year/NNS French-born/JJ maitre/NN d'hotel/INNN ./pct

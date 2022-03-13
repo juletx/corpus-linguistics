@@ -1,7 +1,7 @@
 Gavin/NP paused/VBD wearily/RB ./pct
-``/pct You/PPSS can't /None stay/VB here/RB with/IN me/PPO ./pct
-It's /None late/RB and/CC you/PPSS said/VBD they'd /None be/BE here/RB by/IN dawn/NN ''/pct ./pct
-``/pct You/PPSS can't /None make/VB me/PPO go/VB ''/pct ./pct
+``/pct You/PPSS can't/MD* stay/VB here/RB with/IN me/PPO ./pct
+It's/PPSBEZ late/RB and/CC you/PPSS said/VBD they'd/PPSSMD be/BE here/RB by/IN dawn/NN ''/pct ./pct
+``/pct You/PPSS can't/MD* make/VB me/PPO go/VB ''/pct ./pct
 Gavin/NP sank/VBD down/RP again/RB into/IN his/PPg chair/NN and/CC began/VBD to/TO rock/VB ./pct
 He/PPS was/BEDZ thinking/VBG of/IN Rittenhouse/NP and/CC how/WRB he/PPS had/HVD left/VBN him/PPO there/RB ,/pct to/TO rock/VB to/IN death/NN on/IN the/AT porch/NN of/IN the/AT Splendide/NP ./pct
 It/PPS was/BEDZ the/AT only/AP thing/NN in/IN his/PPg life/NN for/IN which/WDT he/PPS felt/VBD guilt/NN ./pct
@@ -20,13 +20,13 @@ I/PPSS believed/VBD him/PPO ./pct
 They/PPSS killed/VBD Big/JJ Charlie/NP ,/pct dumped/VBD his/PPg body/NN in/IN my/PPg rose/NN garden/NN two/CD nights/NNS ago/RB ./pct
 My/PPg men/NNS ,/pct they/PPSS all/ABN left/VBD me/PPO ./pct
 Just/RB cleared/VBD out/RP ./pct
-I/PPSS didn't /None understand/VB why/WRB ,/pct Clay/NP ./pct
+I/PPSS didn't/DOD* understand/VB why/WRB ,/pct Clay/NP ./pct
 They/PPSS just/RB all/ABN cleared/VBD out/RP ./pct
 I/PPSS treated/VBD them/PPO fair/RB ''/pct
 He/PPS wiped/VBD his/PPg lips/NNS with/IN a/AT sleeve/NN ,/pct then/RB stared/VBD at/IN Clayton/NP in/IN a/AT childish/JJ kind/NN of/IN wonder/NN ./pct
-``/pct Do/DO you/PPSS mean/VB ''/pct --/pct he/PPS asked/VBD almost/RB shyly/RB --/pct ``/pct you/PPSS want/VB me/PPO to/TO go/VB with/IN you/PPO ,/pct wherever/WRB you're /None goin/VBG ''/pct ?/pct ?/pct
+``/pct Do/DO you/PPSS mean/VB ''/pct --/pct he/PPS asked/VBD almost/RB shyly/RB --/pct ``/pct you/PPSS want/VB me/PPO to/TO go/VB with/IN you/PPO ,/pct wherever/WRB you're/PPSSBER goin/VBG ''/pct ?/pct ?/pct
 ``/pct Yes/RB ''/pct ./pct
-``/pct You/PPSS don't /None hate/VB me/PPO any/DTI more/AP ''/pct ?/pct ?/pct
+``/pct You/PPSS don't/DO* hate/VB me/PPO any/DTI more/AP ''/pct ?/pct ?/pct
 Clayton/NP choked/VBD ,/pct shook/VBD his/PPg head/NN ,/pct murmuring/VBG ,/pct ``/pct No/RB ''/pct ./pct
 ``/pct Come/VB here/RB ''/pct ./pct
 The/AT old/JJ man/NN beckoned/VBD with/IN one/CD finger/NN and/CC Clayton/NP went/VBD forward/RB to/IN him/PPO ./pct
@@ -35,18 +35,18 @@ Gavin/NP slipped/VBD his/PPg arms/NNS around/IN his/PPg chest/NN and/CC hugged/V
 I/PPSS tried/VBD ./pct
 I/PPSS saw/VBD you/PPO driftin/VBG away/RB --/pct but/CC I/PPSS tried/VBD ./pct
 And/CC you/PPSS wanted/VBD no/AT part/NN of/IN me/PPO when/WRB I/PPSS had/HVD so/QL much/AP to/TO give/VB ./pct
-Now/RB there's /None nothin/PN left/VBN of/IN me/PPO ./pct
+Now/RB there's/EXBEZ nothin/PN left/VBN of/IN me/PPO ./pct
 Laurel/NN is/BEZ gone/VBN ,/pct my/PPg men/NNS are/BER gone/VBN ,/pct Ed/NP is/BEZ dead/JJ --/pct and/CC you/PPSS come/VB to/IN me/PPO ,/pct to/TO help/VB me/PPO ./pct
 Oh/UH !/pct !/pct
-God/NP in/IN Heaven/NN ,/pct I/PPSS can't /None refuse/VB you/PPO now/RB ./pct
+God/NP in/IN Heaven/NN ,/pct I/PPSS can't/MD* refuse/VB you/PPO now/RB ./pct
 That/DT would/MD mock/VB me/PPO too/QL much/RB !/pct !/pct
-Can't /None let/VB you/PPO go/VB way/RB from/IN me/PPO again/RB ''/pct He/PPS closed/VBD his/PPg eyes/NNS ,/pct ashamed/JJ of/IN his/PPg tears/NNS ./pct
-``/pct I'll /None go/VB ,/pct Clay/NP ''/pct ./pct
+Can't/MD* let/VB you/PPO go/VB way/RB from/IN me/PPO again/RB ''/pct He/PPS closed/VBD his/PPg eyes/NNS ,/pct ashamed/JJ of/IN his/PPg tears/NNS ./pct
+``/pct I'll/PPSSMD go/VB ,/pct Clay/NP ''/pct ./pct
 Clayton/NP freed/VBD himself/PPL from/IN the/AT embrace/NN and/CC stepped/VBD back/RB ./pct
 The/AT eyes/NNS followed/VBD him/PPO fearfully/RB ./pct
 ``/pct The/AT horses/NNS ./pct
-There/EX isn't /None much/AP time/NN ./pct
-I'll /None saddle/VB the/AT horses/NNS and/CC bring/VB them/PPO round/RB ./pct
+There/EX isn't/BEZ* much/AP time/NN ./pct
+I'll/PPSSMD saddle/VB the/AT horses/NNS and/CC bring/VB them/PPO round/RB ./pct
 You/PPSS get/VB ready/JJ ''/pct
 He/PPS burst/VBD from/IN the/AT hot/JJ confinement/NN of/IN the/AT room/NN into/IN the/AT cold/JJ night/NN air/NN ./pct
 Gavin's/NPg stallion/NN was/BEDZ in/IN the/AT barn/NN and/CC he/PPS tightened/VBD the/AT cinches/NNS over/IN the/AT saddle/NN blanket/NN ,/pct working/VBG by/IN touch/NN in/IN the/AT darkness/NN ,/pct comforting/VBG the/AT animal/NN with/IN easy/JJ words/NNS ./pct
@@ -55,23 +55,23 @@ The/AT stallion/NN had/HVD smelled/VBN the/AT mare/NN coming/VBG into/IN heat/NN
 Clayton/NP looped/VBD the/AT reins/NNS in/IN a/AT knot/NN over/IN the/AT veranda/NN post/NN and/CC patted/VBD the/AT warm/JJ flesh/NN of/IN his/PPg neck/NN ./pct
 The/AT mare/NN had/HVD backed/VBN away/RB ./pct
 ``/pct You/PPSS take/VB it/PPO easy/RB ,/pct boy/NN ''/pct ,/pct Clayton/NP whispered/VBD ./pct
-``/pct She/PPS doesn't /None want/VB you/PPO now/RB ./pct
+``/pct She/PPS doesn't/DOZ* want/VB you/PPO now/RB ./pct
 You/PPSS take/VB it/PPO easy/RB ,/pct your/PPg time/NN will/MD come/VB ''/pct ./pct
 Gavin/NP stood/VBD on/IN the/AT porch/NN ,/pct a/AT thin/JJ figure/NN ./pct
 He/PPS had/HVD taken/VBN a/AT carbine/NN down/RP from/IN the/AT wall/NN and/CC it/PPS trailed/VBD from/IN his/PPg hand/NN ,/pct the/AT stock/NN bumping/VBG on/IN the/AT wood/NN floor/NN ./pct
 Clayton/NP called/VBD to/IN him/PPO and/CC he/PPS came/VBD slowly/RB down/IN the/AT steps/NNS ./pct
 ``/pct Clay/NP ''/pct ,/pct he/PPS said/VBD ,/pct ``/pct where/WRB are/BER we/PPSS goin/VBG ''/pct ?/pct ?/pct
 ``/pct To/IN a/AT ranch/NN in/IN the/AT valley/NN ./pct
-There's /None someone/PN there/RB I/PPSS have/HV to/TO see/VB ./pct
+There's/EXBEZ someone/PN there/RB I/PPSS have/HV to/TO see/VB ./pct
 We/PPSS may/MD take/VB her/PPO with/IN us/PPO --/pct to/IN California/NP ./pct
-I/PPSS don't /None know/VB yet/RB ,/pct it's /None crazy/JJ ;/pct ;/pct
+I/PPSS don't/DO* know/VB yet/RB ,/pct it's/PPSBEZ crazy/JJ ;/pct ;/pct
 I/PPSS have/HV to/TO think/VB about/IN it/PPO ./pct
-But/CC California/NP is/BEZ where/WRB we're /None goin/VBG ''/pct ./pct
+But/CC California/NP is/BEZ where/WRB we're/PPSSBER goin/VBG ''/pct ./pct
 ``/pct California/NP ''/pct ./pct
 Gavin/NP began/VBD to/TO nod/VB ./pct
-``/pct That's /None a/AT new/JJ land/NN ./pct
+``/pct That's/DTBEZ a/AT new/JJ land/NN ./pct
 A/AT man/NN could/MD make/VB a/AT mark/NN there/RB ./pct
-Two/CD men/NNS ,/pct together/RB like/CS us/PPO ,/pct we/PPSS could/MD do/DO somethin/PN fine/JJ out/RP there/RB ,/pct maybe/RB find/VB a/AT place/NN where/WRB no/AT one's /None ever/RB been/BEN ./pct
+Two/CD men/NNS ,/pct together/RB like/CS us/PPO ,/pct we/PPSS could/MD do/DO somethin/PN fine/JJ out/RP there/RB ,/pct maybe/RB find/VB a/AT place/NN where/WRB no/AT one's/PNHVZ ever/RB been/BEN ./pct
 Start/VB out/RP fresh/JJ ,/pct the/AT two/CD of/IN us/PPO ,/pct like/CS nothin/PN had/HVD ever/RB happened/VBN ''/pct ./pct
 ``/pct Yes/RB ,/pct like/CS a/AT father/NN and/CC son/NN ''/pct ./pct
 ``/pct I/PPSS made/VBD you/PPO what/WDT you/PPSS are/BER ''/pct ,/pct Gavin/NP whispered/VBD ./pct
@@ -83,7 +83,7 @@ He/PPS approached/VBD the/AT horse/NN and/CC laid/VBD a/AT hand/NN on/IN the/AT 
 Help/VB me/PPO up/RP ,/pct I/PPSS feel/VB kind/NN of/IN stiff/JJ ''/pct ./pct
 Clayton/NP lifted/VBD him/PPO gently/RB into/IN the/AT saddle/NN ,/pct like/CS a/AT child/NN ./pct
 ``/pct I/PPSS hate/VB to/TO leave/VB my/PPg garden/NN ''/pct ,/pct Gavin/NP said/VBD ./pct
-``/pct They'll /None trample/VB it/PPO down/RP ./pct
+``/pct They'll/PPSSMD trample/VB it/PPO down/RP ./pct
 I/PPSS loved/VBD my/PPg garden/NN ''/pct ./pct
 ``/pct It/PPS will/MD grow/VB again/RB --/pct in/IN California/NP ''/pct ./pct
 ``/pct I/PPSS loved/VBD this/DT valley/NN ''/pct ,/pct he/PPS whispered/VBD huskily/RB ./pct
@@ -91,7 +91,7 @@ I/PPSS loved/VBD my/PPg garden/NN ''/pct ./pct
 Lived/VBN alone/RB by/IN the/AT river/NN ./pct
 It/PPS was/BEDZ nice/JJ then/RB ,/pct so/QL peaceful/JJ and/CC quiet/JJ ./pct
 There/EX was/BEDZ no/AT one/PN but/CC me/PPO ./pct
-I/PPSS don't /None want/VB to/TO leave/VB it/PPO ''/pct ./pct
+I/PPSS don't/DO* want/VB to/TO leave/VB it/PPO ''/pct ./pct
 Clayton/NP swung/VBD into/IN the/AT saddle/NN and/CC whacked/VBD the/AT stallion's/NNg rump/NN ./pct
 The/AT two/CD horses/NNS broke/VBD from/IN the/AT yard/NN ,/pct from/IN the/AT circle/NN of/IN light/NN cast/VBN by/IN the/AT lamp/NN still/RB burning/VBG in/IN the/AT house/NN ,/pct into/IN the/AT darkness/NN ./pct
 Thirty-five/CD
@@ -115,32 +115,32 @@ But/CC the/AT liquor/NN had/HVD flushed/VBN their/PPg courage/NN ./pct
 They/PPSS greeted/VBD the/AT news/NN angrily/RB ,/pct as/CS though/CS they/PPSS had/HVD been/BEN cheated/VBN of/IN purpose/NN ./pct
 Lester/NP heard/VBD their/PPg muttering/NN ,/pct saw/VBD their/PPg eyes/NNS reveal/VB their/PPg desire/NN ./pct
 He/PPS worked/VBD his/PPg tongue/NN round/RB and/CC round/RB in/IN the/AT hollow/NN of/IN his/PPg cheek/NN and/CC his/PPg voice/NN came/VBD out/IN of/IN his/PPg throat/NN ,/pct dry/JJ and/CC cracked/VBN ./pct
-``/pct He's /None leavin/VBG ./pct
-That's /None what/WDT you/PPSS wanted/VBD ,/pct isn't /None it/PPS ?/pct ?/pct
+``/pct He's/PPSBEZ leavin/VBG ./pct
+That's/DTBEZ what/WDT you/PPSS wanted/VBD ,/pct isn't/BEZ* it/PPS ?/pct ?/pct
 Clayton/NP is/BEZ with/IN him/PPO ,/pct takin/VBG him/PPO out/IN of/IN the/AT valley/NN ./pct
-You/PPSS can't /None ''/pct --/pct
+You/PPSS can't/MD* ''/pct --/pct
 ``/pct Keep/VB out/RP of/IN this/DT ''/pct ,/pct Purvis/NP snarled/VBD ./pct
-``/pct He's /None not/NEG your/PPg brother/NN ,/pct he's /None Gavin's/NPg son/NN ./pct
+``/pct He's/PPSBEZ not/NEG your/PPg brother/NN ,/pct he's/PPSBEZ Gavin's/NPg son/NN ./pct
 You/PPSS see/VB ,/pct he/PPS lied/VBD to/IN us/PPO when/WRB he/PPS said/VBD he/PPS was/BEDZ leavin/VBG alone/RB ''/pct ./pct
 Joe/NP Purvis/NP was/BEDZ thinking/VBG back/RB many/AP years/NNS ./pct
 First/RB he/PPS thought/VBD of/IN the/AT time/NN he/PPS had/HVD ridden/VBN to/IN Gavin/NP and/CC told/VBD him/PPO how/WRB his/PPg cattle/NNS were/BED being/BEG rustled/VBD at/IN the/AT far/JJ end/NN of/IN the/AT valley/NN ./pct
 He/PPS remembered/VBD Gavin's/NPg smirk/NN ,/pct his/PPg own/JJ cringing/VBG feeling/NN ,/pct his/PPg impotence/NN ./pct
 Then/RB he/PPS thought/VBD of/IN a/AT time/NN when/WRB Clayton's/NPg horse/NN had/HVD fallen/VBN lame/JJ in/IN the/AT Gap/NN ./pct
 His/PPg wife/NN had/HVD said/VBN to/IN him/PPO :/pct ``/pct Nellie/NP is/BEZ in/IN love/NN with/IN Clayton/NP Roy/NP ./pct
-He/PPS wouldn't /None even/VB dance/VB with/IN her/PPO at/IN Gavin's/NPg party/NN ./pct
+He/PPS wouldn't/MD* even/VB dance/VB with/IN her/PPO at/IN Gavin's/NPg party/NN ./pct
 He/PPS treats/VBZ her/PPO like/CS she/PPS was/BEDZ dirt/NN ./pct
 And/CC you/PPSS stand/VB by/RB like/IN a/AT fool/NN and/CC let/VB him/PPO do/DO it/PPO ''/pct
 He/PPS remembered/VBD Clayton's/NPg mocking/VBG smile/NN in/IN the/AT saloon/NN when/WRB he/PPS had/HVD asked/VBN him/PPO what/WDT he/PPS would/MD do/DO if/CS they/PPSS brought/VBD their/PPg cattle/NNS to/IN water/NN ./pct
 It/PPS was/BEDZ the/AT night/NN Clayton/NP had/HVD tricked/VBN them/PPO in/IN the/AT poker/NN game/NN ./pct
-``/pct You're /None Gavin's/NPg son/NN ''/pct ,/pct Joe/NP Purvis/NP had/HVD said/VBN ./pct
+``/pct You're/PPSSBER Gavin's/NPg son/NN ''/pct ,/pct Joe/NP Purvis/NP had/HVD said/VBN ./pct
 He/PPS turned/VBD to/IN Lester/NP ./pct
 ``/pct You/PPSS brought/VBD him/PPO back/RB to/IN this/DT valley/NN thinkin/VBG he/PPS would/MD help/VB you/PPO find/VB your/PPg boy/NN ./pct
 He/PPS meant/VBD to/TO help/VB Gavin/NP all/ABN the/AT time/NN ./pct
 He/PPS made/VBD a/AT fool/NN of/IN you/PPO ,/pct Lester/NP ''/pct ./pct
 He/PPS swung/VBD round/RB to/IN the/AT other/AP men/NNS --/pct ``/pct We/PPSS can/MD catch/VB him/PPO easy/RB !/pct !/pct
 There/EX are/BER plenty/RB of/IN fresh/JJ horses/NNS halfway/RB at/IN my/PPg place/NN ./pct
-If/CS we/PPSS let/VB them/PPO go/VB ,/pct they/PPSS won't /None stay/VB away/RB ,/pct they'll /None find/VB men/NNS to/TO ride/VB with/IN them/PPO and/CC they'll /None be/BE back/RB ./pct
-There's /None only/RB one/CD way/NN they/PPSS can/MD get/VB out/RP now/RB and/CC that's /None through/IN the/AT Gap/NN --/pct if/CS we/PPSS ride/VB hard/RB we/PPSS can/MD take/VB them/PPO ''/pct ./pct
+If/CS we/PPSS let/VB them/PPO go/VB ,/pct they/PPSS won't/MD* stay/VB away/RB ,/pct they'll/PPSSMD find/VB men/NNS to/TO ride/VB with/IN them/PPO and/CC they'll/PPSSMD be/BE back/RB ./pct
+There's/EXBEZ only/RB one/CD way/NN they/PPSS can/MD get/VB out/RP now/RB and/CC that's/DTBEZ through/IN the/AT Gap/NN --/pct if/CS we/PPSS ride/VB hard/RB we/PPSS can/MD take/VB them/PPO ''/pct ./pct
 Lester's/NPg hand/NN fluttered/VBD to/IN Cabot's/NPg shoulder/NN ./pct
 The/AT boy/NN jerked/VBD away/RB ./pct
 ``/pct He/PPS killed/VBD Tom/NP --/pct do/DO you/PPO understand/VB that/DT ''/pct ?/pct ?/pct

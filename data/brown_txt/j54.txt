@@ -31,7 +31,7 @@ By/IN 800/CD B.C./NP the/AT Aegean/NP was/BEDZ an/AT area/NN of/IN common/JJ ton
 On/IN these/DTS pillars/NNS rested/VBD that/DT solid/JJ basis/NN for/IN life/NN and/CC thought/NN which/WDT was/BEDZ soon/RB to/TO be/BE manifested/VBN in/IN the/AT remarkably/RB unlimited/JJ ken/NN of/IN the/AT Iliad/NP ./pct
 Everywhere/RB within/IN the/AT common/JJ pattern/NN ,/pct however/RB ,/pct one/PN finds/VBZ local/JJ diversity/NN ;/pct ;/pct
 Greek/JJ history/NN and/CC culture/NN were/BED enduringly/RB fertilized/VBN ,/pct and/CC plagued/VBN ,/pct by/IN the/AT interplay/NN of/IN these/DTS conjoined/VBN yet/CC opposed/VBN factors/NNS ./pct
-Further/RBR we/PPSS cannot /None go/VB ,/pct for/CS the/AT Dark/JJ ages/NNS deserve/VB their/PPg name/NN ./pct
+Further/RBR we/PPSS cannot/MD* go/VB ,/pct for/CS the/AT Dark/JJ ages/NNS deserve/VB their/PPg name/NN ./pct
 Many/AP aspects/NNS of/IN civilization/NN were/BED not/NEG yet/RB sufficiently/RB crystallized/VBN to/TO find/VB expression/NN ,/pct nor/CC could/MD the/AT simple/JJ economic/JJ and/CC social/JJ foundations/NNS of/IN this/DT world/NN support/VB a/AT lofty/JJ structure/NN ./pct
 The/AT epic/JJ poems/NNS ,/pct the/AT consolidation/NN of/IN the/AT Greek/JJ pantheon/NN ,/pct the/AT rise/NN of/IN firm/JJ political/JJ units/NNS ,/pct the/AT self-awareness/NN which/WDT could/MD permit/VB painted/VBN and/CC sculptured/VBN representations/NNS of/IN men/NNS --/pct all/ABN these/DTS had/HVD to/TO await/VB the/AT progress/NN of/IN following/VBG decades/NNS ./pct
 What/WDT we/PPSS have/HV seen/VBN in/IN this/DT chapter/NN ,/pct we/PPSS have/HV seen/VBN only/RB dimly/RB ,/pct and/CC yet/RB the/AT results/NNS ,/pct however/WQL general/JJ ,/pct are/BER worth/JJ the/AT search/NN ./pct
@@ -43,7 +43,7 @@ Throughout/IN the/AT Dark/JJ ages/NNS ,/pct it/PPS is/BEZ clear/JJ ,/pct the/AT 
 The/AT pace/NN could/MD now/RB be/BE accelerated/VBN ,/pct for/CS the/AT inhabitants/NNS of/IN the/AT Aegean/NP stood/VBD on/IN firm/JJ ground/NN ./pct
 Chapter/NN 5/CD the/AT early/JJ eighth/OD century/NN
 the/AT landscape/NN of/IN Greek/JJ history/NN broadens/VBZ widely/RB ,/pct and/CC rather/QL abruptly/RB ,/pct in/IN the/AT eighth/OD century/NN B.C./NP ,/pct the/AT age/NN of/IN Homer's/NPg ``/pct rosy-fingered/JJ Dawn/NN ''/pct ./pct
-The/AT first/OD slanting/VBG rays/NNS of/IN the/AT new/JJ day/NN cannot /None yet/RB dispel/VB all/ABN the/AT dark/JJ shadows/NNS which/WDT lie/VB across/IN the/AT Aegean/NP world/NN ;/pct ;/pct
+The/AT first/OD slanting/VBG rays/NNS of/IN the/AT new/JJ day/NN cannot/MD* yet/RB dispel/VB all/ABN the/AT dark/JJ shadows/NNS which/WDT lie/VB across/IN the/AT Aegean/NP world/NN ;/pct ;/pct
 but/CC our/PPg evidence/NN grows/VBZ considerably/RB in/IN variety/NN and/CC shows/VBZ more/QL unmistakably/RB some/DTI of/IN the/AT lines/NNS of/IN change/NN ./pct
 For/IN this/DT period/NN ,/pct as/CS for/IN earlier/JJR centuries/NNS ,/pct pottery/NN remains/VBZ the/AT most/QL secure/JJ source/NN ;/pct ;/pct
 the/AT ceramic/JJ material/NN of/IN the/AT age/NN is/BEZ more/QL abundant/JJ ,/pct more/QL diversified/VBN ,/pct and/CC more/QL indicative/JJ of/IN the/AT hopes/NNS and/CC fears/NNS of/IN its/PPg makers/NNS ,/pct who/WPS begin/VB to/TO show/VB scenes/NNS of/IN human/JJ life/NN and/CC death/NN ./pct

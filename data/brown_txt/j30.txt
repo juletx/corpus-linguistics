@@ -63,10 +63,10 @@ In/IN any/DTI case/NN ,/pct he/PPS refused/VBD to/TO accept/VB the/AT implicatio
 Another/DT case/NN may/MD be/BE given/VBN in/IN illustration/NN of/IN a/AT successful/JJ use/NN of/IN analysis/NN ,/pct and/CC also/RB of/IN the/AT employment/NN of/IN a/AT procedure/NN for/IN intensive/JJ analysis/NN ./pct
 In/IN a/AT course/NN for/IN supermarket/NN operators/NNS ,/pct a/AT district/NN manager/NN who/WPS had/HVD been/BEN recently/RB appointed/VBN to/IN his/PPg position/NN after/CS being/BEG outstandingly/QL successful/JJ as/CS a/AT store/NN manager/NN ,/pct found/VBD that/CS in/IN supervising/VBG other/AP managers/NNS he/PPS was/BEDZ having/HVG a/AT difficult/JJ time/NN ./pct
 On/IN playing/VBG some/DTI typical/JJ situations/NNS before/IN a/AT jury/NN of/IN his/PPg peers/NNS he/PPS showed/VBD some/DTI characteristics/NNS rated/VBN as/CS unsatisfactory/JJ ./pct
-He/PPS was/BEDZ told/VBN he/PPS displayed/VBD ,/pct for/IN example/NN ,/pct a/AT sense/NN of/IN superiority/NN --/pct and/CC he/PPS answered/VBD :/pct ``/pct Well/UH ,/pct I/PPSS am/BEM supposed/VBN to/TO know/VB all/ABN the/AT answers/NNS ,/pct aren't /None I/PPSS ''/pct ?/pct ?/pct
+He/PPS was/BEDZ told/VBN he/PPS displayed/VBD ,/pct for/IN example/NN ,/pct a/AT sense/NN of/IN superiority/NN --/pct and/CC he/PPS answered/VBD :/pct ``/pct Well/UH ,/pct I/PPSS am/BEM supposed/VBN to/TO know/VB all/ABN the/AT answers/NNS ,/pct aren't/BER* I/PPSS ''/pct ?/pct ?/pct
 He/PPS was/BEDZ criticized/VBN for/IN his/PPg curtness/NN and/CC abruptness/NN --/pct and/CC he/PPS answered/VBD :/pct ``/pct I/PPSS am/BEM not/NEG working/VBG to/TO become/VB popular/JJ ''/pct ./pct
 On/IN being/BEG criticized/VBN for/IN his/PPg arbitrary/JJ behavior/NN --/pct he/PPS answered/VBD :/pct ``/pct I/PPSS have/HV to/TO make/VB decisions/NNS ./pct
-That's /None my/PPg job/NN ''/pct ./pct
+That's/DTBEZ my/PPg job/NN ''/pct ./pct
 In/IN short/JJ ,/pct as/CS frequently/RB happens/VBZ in/IN analyses/NNS ,/pct the/AT individual/NN feels/VBZ threatened/VBN and/CC defends/VBZ himself/PPL ./pct
 However/RB ,/pct in/IN this/DT case/NN the/AT district/NN manager/NN was/BEDZ led/VBN to/TO see/VB the/AT errors/NNS of/IN his/PPg ways/NNS ./pct
 The/AT necessary/JJ step/NN between/IN diagnosis/NN and/CC training/NN is/BEZ acceptance/NN of/IN the/AT validity/NN of/IN the/AT criticisms/NNS ./pct
@@ -75,7 +75,7 @@ The/AT director/NN helped/VBD tailor-make/VB a/AT check/NN list/NN of/IN the/AT 
 These/DTS errors/NNS were/BED then/RB collected/VBN and/CC written/VBN on/IN a/AT blackboard/NN ,/pct condensing/VBG similar/JJ ideas/NNS ./pct
 Eighteen/CD errors/NNS were/BED located/VBN ,/pct and/CC then/RB the/AT director/NN asked/VBD each/DT individual/NN to/TO vote/VB whether/CS or/CC not/NEG they/PPSS felt/VBD that/CS this/DT manager/NN had/HVD made/VBN the/AT particular/JJ errors/NNS ./pct
 They/PPSS were/BED asked/VBN to/TO vote/VB ``/pct true/JJ ''/pct if/CS they/PPSS thought/VBD they/PPSS had/HVD seen/VBN him/PPO make/VB the/AT error/NN ,/pct ``/pct false/JJ ''/pct if/CS they/PPSS thought/VBD he/PPS had/HVD not/NEG ;/pct ;/pct
-and/CC ``/pct cannot /None say/VB ''/pct if/CS they/PPSS were/BED not/NEG certain/JJ ./pct
+and/CC ``/pct cannot/MD* say/VB ''/pct if/CS they/PPSS were/BED not/NEG certain/JJ ./pct
 The/AT manager/NN sat/VBD behind/IN the/AT group/NN so/CS he/PPS could/MD see/VB and/CC count/VB the/AT hands/NNS that/WPS went/VBD up/RP ,/pct and/CC the/AT director/NN wrote/VBD the/AT numbers/NNS on/IN the/AT blackboard/NN ./pct
 No/AT comments/NNS were/BED made/VBN during/IN the/AT voting/NN ./pct
 The/AT results/NNS looked/VBD as/CS follows/VBZ :/pct Af/NN ./pct

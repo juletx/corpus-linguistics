@@ -1,14 +1,14 @@
 While/CS no/RB larger/JJR than/CS Dutch/JJ Springs/NNS ,/pct this/DT mining/VBG supply/NN town/NN had/HVD the/AT appearance/NN of/IN being/BEG far/QL busier/JJR and/CC more/QL prosperous/JJ ./pct
 Men/NNS crowded/VBD the/AT streets/NNS and/CC freight/NN rigs/NNS and/CC teams/NNS were/BED moving/VBG about/RB ./pct
 Although/CS they/PPSS were/BED forced/VBN to/TO maintain/VB a/AT sharper/JJR watch/NN ,/pct this/DT activity/NN enabled/VBD them/PPO to/TO ride/VB in/RP and/CC rack/VB their/PPg broncs/NNS without/IN any/DTI particular/JJ attention/NN being/BEG paid/VBN them/PPO ./pct
-``/pct Gyp'll /None be/BE holdin'/VBG forth/RB in/IN some/DTI bar/NN if/CS he's /None here/RB at/IN all/ABN ''/pct ,/pct Cobb/NP declared/VBD ,/pct glancing/VBG along/IN the/AT street/NN as/CS they/PPSS stretched/VBD their/PPg legs/NNS ./pct
+``/pct Gyp'll/NPMD be/BE holdin'/VBG forth/RB in/IN some/DTI bar/NN if/CS he's/PPSBEZ here/RB at/IN all/ABN ''/pct ,/pct Cobb/NP declared/VBD ,/pct glancing/VBG along/IN the/AT street/NN as/CS they/PPSS stretched/VBD their/PPg legs/NNS ./pct
 There/EX were/BED no/AT less/AP than/CS six/CD or/CC seven/CD saloons/NNS in/IN Ganado/NP ,/pct not/NEG counting/VBG the/AT lower/JJR class/NN dives/NNS ,/pct all/ABN vying/VBG for/IN the/AT trade/NN of/IN celebrating/VBG miners/NNS and/CC teamsters/NNS ./pct
 Pat/NP only/RB nodded/VBD ./pct
-``/pct Take/VB one/CD side/NN of/IN the/AT street/NN ,/pct and/CC I'll /None take/VB the/AT other/AP ''/pct ,/pct he/PPS proposed/VBD ./pct
+``/pct Take/VB one/CD side/NN of/IN the/AT street/NN ,/pct and/CC I'll/PPSSMD take/VB the/AT other/AP ''/pct ,/pct he/PPS proposed/VBD ./pct
 ``/pct If/CS you/PPSS spot/VB Carmer/NP give/VB a/AT yell/NN before/CS you/PPSS move/VB in/RP ''/pct ./pct
 Cobb's/NPg assent/NN was/BEDZ tight/JJ ./pct
 ``/pct You/PPSS do/DO the/AT same/AP ./pct
-It's /None all/ABN I/PPSS ask/VB ,/pct Stevens/NP ''/pct ./pct
+It's/PPSBEZ all/ABN I/PPSS ask/VB ,/pct Stevens/NP ''/pct ./pct
 Separating/VBG ,/pct they/PPSS took/VBD different/JJ sides/NNS of/IN the/AT main/NN drag/NN and/CC systematically/RB combed/VBD the/AT bars/NNS ./pct
 Russ/NP visited/VBD two/CD places/NNS without/IN result/NN and/CC his/PPg blood/NN pressure/NN was/BEDZ down/RP to/IN zero/NN ./pct
 Suddenly/RB it/PPS seemed/VBD to/IN him/PPO insane/JJ that/CS they/PPSS might/MD hope/VB to/TO locate/VB Gyp/NP Carmer/NP so/QL casually/RB ,/pct even/RB were/BED he/PPS to/TO prove/VB the/AT thief/NN ./pct
@@ -29,7 +29,7 @@ As/CS luck/NN had/HVD it/PPO ,/pct he/PPS had/HVD not/NEG gone/VBN twenty/CD fee
 ``/pct What/WDT luck/NN ,/pct Cobb/NP ''/pct ?/pct ?/pct
 He/PPS said/VBD swiftly/RB ./pct
 Russ/NP pointed/VBD upward/RB ./pct
-``/pct He's /None there/RB ''/pct ,/pct he/PPS got/VBD out/RP tersely/RB ,/pct curbing/VBG his/PPg rising/VBG excitement/NN ./pct
+``/pct He's/PPSBEZ there/RB ''/pct ,/pct he/PPS got/VBD out/RP tersely/RB ,/pct curbing/VBG his/PPg rising/VBG excitement/NN ./pct
 Hitching/VBG his/PPg cartridge/NN belt/NN around/RB ,/pct Pat/NP glanced/VBD upward/RB briefly/RB at/IN the/AT Palace/NN and/CC started/VBD that/DT way/NN with/IN Cobb/NP at/IN his/PPg side/NN ./pct
 Climbing/VBG the/AT steps/NNS steadily/RB ,/pct they/PPSS reached/VBD the/AT top/NN and/CC headed/VBD for/IN the/AT door/NN ./pct
 Pat/NP pushed/VBD through/RP first/RB ./pct
@@ -62,9 +62,9 @@ He/PPS started/VBD to/TO struggle/VB up/RP ,/pct heaving/VBG desperately/RB ./pc
 Russ/NP gave/VBD him/PPO a/AT brutal/JJ thrust/NN that/WPS tumbled/VBD him/PPO over/RP flat/JJ on/IN his/PPg stomach/NN ./pct
 Kneeling/VBG ,/pct Cobb/NP planted/VBD a/AT sturdy/JJ knee/NN in/IN the/AT small/NN of/IN his/PPg back/NN ,/pct holding/VBG him/PPO pinned/VBN ./pct
 ``/pct Okay/UH ,/pct Stevens/NP ./pct
-I've /None drawn/VBN his/PPg fangs/NNS ''/pct ,/pct he/PPS snapped/VBD ./pct
+I've/PPSSHV drawn/VBN his/PPg fangs/NNS ''/pct ,/pct he/PPS snapped/VBD ./pct
 ``/pct Go/VB through/IN his/PPg pockets/NNS ,/pct will/MD you/PPO ?/pct ?/pct
-If/CS we/PPSS have/HV to/IN we'll /None take/VB him/PPO apart/RB and/CC see/VB what/WDT he's /None made/VBN of/IN ''/pct !/pct !/pct
+If/CS we/PPSS have/HV to/IN we'll/PPSSMD take/VB him/PPO apart/RB and/CC see/VB what/WDT he's/PPSBEZ made/VBN of/IN ''/pct !/pct !/pct
 Complying/VBG methodically/RB ,/pct Pat/NP pulled/VBD pocket/NN after/IN pocket/NN inside/RB out/RP without/IN finding/VBG a/AT thing/NN ./pct
 Cobb/NP watched/VBD this/DT with/IN hunted/VBN eyes/NNS ,/pct his/PPg desperate/JJ hope/NN waning/VBG by/IN the/AT moment/NN ./pct
 Stevens/NP was/BEDZ grunting/VBG over/IN the/AT last/AP empty/JJ pocket/NN when/WRB Russ/NP abruptly/RB rose/VBD and/CC lunged/VBD toward/IN Carmer's/NPg hat/NN ,/pct which/WDT had/HVD tumbled/VBN half-a-dozen/NN feet/NNS away/RB when/WRB he/PPS first/RB fell/VBD ./pct
@@ -78,11 +78,11 @@ You/PPSS were/BED right/JJ ''/pct ,/pct Russ/NP exclaimed/VBD ,/pct tearing/VBG 
 ``/pct That/DT is/BEZ ,/pct if/CS we/PPSS can/MD be/BE sure/JJ this/DT is/BEZ Colcord's/NPg money/NN ''/pct --/pct
 Pat/NP grunted/VBD ./pct
 ``/pct Where/WRB else/RB would/MD he/PPS get/VB it/PPO ?/pct ?/pct
-Count/VB what/WDT you've /None got/VBN there/RB ,/pct Cobb/NP ./pct
+Count/VB what/WDT you've/PPSSHV got/VBN there/RB ,/pct Cobb/NP ./pct
 We/PPSS can/MD soon/RB tell/VB ''/pct ./pct
 Russ/NP ran/VBD through/IN the/AT bills/NNS and/CC named/VBD an/AT amount/VB it/PPS was/BEDZ highly/QL unlikely/JJ any/DTI cowpuncher/NN would/MD come/VB by/RB honestly/RB ./pct
 Pat/NP nodded/VBD ./pct
-``/pct It's /None within/IN a/AT hundred/CD of/IN what/WDT Crip/NP had/HVD ''/pct ,/pct he/PPS declared/VBD ./pct
+``/pct It's/PPSBEZ within/IN a/AT hundred/CD of/IN what/WDT Crip/NP had/HVD ''/pct ,/pct he/PPS declared/VBD ./pct
 ``/pct We/PPSS know/VB Penny/NP spent/VBD some/DTI --/pct and/CC Carmer/NP must/MD have/HV dropped/VBN a/AT few/AP dollars/NNS getting/VBG that/DT load/NN on/RP ''/pct ./pct
 Handing/VBG the/AT money/NN over/RP ,/pct Russ/NP wiped/VBD his/PPg hands/NNS on/IN his/PPg pants-legs/NNS as/CS if/CS ridding/VBG himself/PPL of/IN something/PN unclean/JJ ./pct
 His/PPg glance/NN at/IN Gyp/NP Carmer/NP was/BEDZ disdainful/JJ ./pct
@@ -93,34 +93,34 @@ Pausing/VBG in/IN the/AT outside/JJ door/NN to/TO glance/VB behind/IN him/PPO ,/
 He/PPS and/CC Cobb/NP clattered/VBD down/IN the/AT high/JJ steps/NNS to/IN the/AT street/NN ./pct
 Neither/DTX spoke/VBD till/CS they/PPSS reached/VBD their/PPg horses/NNS ./pct
 Pat/NP paused/VBD there/RB ,/pct looking/VBG across/RB at/IN the/AT young/JJ fellow/NN ./pct
-It'll /None be/BE a/AT pleasure/NN for/IN you/PPO to/TO return/VB this/DT money/NN to/IN Colcord/NP and/CC tell/VB him/PPO about/IN it/PPO ,/pct Russ/NP ''/pct ./pct
+It'll/PPSMD be/BE a/AT pleasure/NN for/IN you/PPO to/TO return/VB this/DT money/NN to/IN Colcord/NP and/CC tell/VB him/PPO about/IN it/PPO ,/pct Russ/NP ''/pct ./pct
 He/PPS started/VBD to/TO return/VB it/PPO ./pct
 To/IN his/PPg faint/JJ surprise/NN Russ/NP held/VBD up/RP his/PPg hand/NN ./pct
 ``/pct Not/NEG me/PPO ''/pct ,/pct he/PPS ruled/VBD decidedly/RB ./pct
-I've /None had/HVN enough/AP ./pct
+I've/PPSSHV had/HVN enough/AP ./pct
 It/PPS was/BEDZ you/PPSS that/WPS tracked/VBD it/PPO down/RP anyway/RB ,/pct Stevens/NP ''/pct ,/pct he/PPS pursued/VBD strictly/RB ./pct
-``/pct I'll /None shove/VB along/RB home/NR ''/pct ./pct
+``/pct I'll/PPSSMD shove/VB along/RB home/NR ''/pct ./pct
 ``/pct Whatever/WDT you/PPSS say/VB ''/pct ./pct
 Pat/NP swung/VBD into/IN the/AT saddle/NN ,/pct yet/RB still/RB he/PPS delayed/VBD ,/pct his/PPg brows/NNS puckered/VBN ./pct
 ``/pct You/PPSS owe/VB it/PPO to/IN Penny/NP to/TO give/VB her/PPO a/AT chance/NN to/TO explain/VB that/CS she/PPS was/BEDZ defending/VBG you/PPO ,/pct really/RB ''/pct ,/pct he/PPS observed/VBD mildly/RB ./pct
-``/pct Old/JJ Crip/NP wasn't /None ''/pct ,/pct retorted/VBD Cobb/NP tartly/RB ./pct
-``/pct He'll /None know/VB when/WRB you/PPSS tell/VB him/PPO ./pct
+``/pct Old/JJ Crip/NP wasn't/BEDZ* ''/pct ,/pct retorted/VBD Cobb/NP tartly/RB ./pct
+``/pct He'll/PPSMD know/VB when/WRB you/PPSS tell/VB him/PPO ./pct
 But/CC I/PPSS want/VB this/DT to/TO sink/VB in/RP awhile/RB ./pct
-Then/RB maybe/RB next/AP time/NN he/PPS won't /None be/BE so/QL quick/JJ on/IN the/AT trigger/NN ''/pct ./pct
+Then/RB maybe/RB next/AP time/NN he/PPS won't/MD* be/BE so/QL quick/JJ on/IN the/AT trigger/NN ''/pct ./pct
 ``/pct Pat/NP had/HVD never/RB pretended/VBN to/TO give/VB advice/NN in/IN such/JJ affairs/NNS ./pct
-``/pct You're /None the/AT doctor/NN ''/pct ,/pct he/PPS returned/VBD with/IN a/AT smile/NN ./pct
-``/pct But/CC I/PPSS still/RB think/VB Penny's /None an/AT awful/QL nice/JJ girl/NN ,/pct Russ/NP ''/pct --/pct
-``/pct You/PPSS don't /None have/HV to/TO tell/VB me/PPO ''/pct ,/pct flashed/VBD Cobb/NP ./pct
+``/pct You're/PPSSBER the/AT doctor/NN ''/pct ,/pct he/PPS returned/VBD with/IN a/AT smile/NN ./pct
+``/pct But/CC I/PPSS still/RB think/VB Penny's/NPBEZ an/AT awful/QL nice/JJ girl/NN ,/pct Russ/NP ''/pct --/pct
+``/pct You/PPSS don't/DO* have/HV to/TO tell/VB me/PPO ''/pct ,/pct flashed/VBD Cobb/NP ./pct
 Giving/VBG the/AT other/AP a/AT dark/JJ look/NN ,/pct he/PPS hauled/VBD his/PPg bronc/NN around/RB and/CC trotted/VBD down/RP off/IN the/AT street/NN ./pct
 Pat/NP let/VBD him/PPO go/VB ,/pct following/VBG more/QL leisurely/RB ./pct
 At/IN the/AT first/OD restaurant/NN he/PPS sensibly/RB pulled/VBD up/RP to/TO go/VB in/RP for/IN his/PPg dinner/NN ,/pct and/CC as/CS a/AT consequence/NN did/DOD not/NEG see/VB Cobb/NP strike/VB the/AT open/JJ range/NN at/IN the/AT mouth/NN of/IN the/AT canyon/NN and/CC head/VB straight/RB across/IN the/AT swells/NNS for/IN Antler/NP ./pct
 The/AT truth/NN was/BEDZ ,/pct the/AT puncher/NN was/BEDZ both/ABX bewildered/VBN and/CC dismayed/VBN by/IN his/PPg own/JJ mixed/VBN luck/NN ./pct
-``/pct Penny's /None always/RB glad/JJ to/TO see/VB me/PPO over/IN there/RB ''/pct ,/pct he/PPS mused/VBD bleakly/RB ./pct
+``/pct Penny's/NPBEZ always/RB glad/JJ to/TO see/VB me/PPO over/IN there/RB ''/pct ,/pct he/PPS mused/VBD bleakly/RB ./pct
 Yet/RB had/HVD he/PPS not/NEG visited/VBN the/AT girl/NN at/IN Saw/NN Buck/NN he/PPS would/MD never/RB have/HV been/BEN involved/VBN in/IN this/DT latest/JJT tangle/NN ./pct
 Over/IN and/CC above/IN that/DT ,/pct however/WRB ,/pct was/BEDZ his/PPg growing/VBG suspicion/NN of/IN Chuck/NP Stober's/NPg part/NN in/IN recent/JJ events/NNS ./pct
-``/pct Gyp/NP Carmer/NP couldn't /None have/HV known/VBN about/IN Colcord's/NPg money/NN unless/CS he/PPS was/BEDZ told/VBN --/pct and/CC who/WPS else/RB would/MD have/HV told/VBN him/PPO ''/pct ?/pct ?/pct
+``/pct Gyp/NP Carmer/NP couldn't/MD* have/HV known/VBN about/IN Colcord's/NPg money/NN unless/CS he/PPS was/BEDZ told/VBN --/pct and/CC who/WPS else/RB would/MD have/HV told/VBN him/PPO ''/pct ?/pct ?/pct
 He/PPS asked/VBD himself/PPL ./pct
-``/pct It's /None the/AT second/OD time/NN War/NN Ax/NN hands/NNS made/VBD a/AT play/NN for/IN that/DT money/NN ./pct
+``/pct It's/PPSBEZ the/AT second/OD time/NN War/NN Ax/NN hands/NNS made/VBD a/AT play/NN for/IN that/DT money/NN ./pct
 How/WRB much/AP of/IN an/AT accident/NN could/MD that/DT be/BE ''/pct ?/pct ?/pct
 Nearing/VBG home/NR ,/pct he/PPS jerked/VBD to/IN attention/NN at/IN the/AT distant/JJ crack/NN of/IN a/AT gun/NN ./pct
 In/IN town/NN no/AT one/PN paid/VBD much/AP attention/NN to/IN an/AT occasional/JJ shot/NN ;/pct ;/pct
@@ -141,7 +141,7 @@ Whoever/WPS was/BEDZ out/RP there/RB hiding/VBG in/IN the/AT brushy/JJ cover/NN 
 Cursing/VBG himself/PPL for/IN having/HVG ridden/VBN out/RP the/AT last/AP few/AP days/NNS without/IN a/AT rifle/NN in/IN his/PPg saddle/NN boot/NN ,/pct Russ/NP drew/VBD his/PPg Colt/NP and/CC examined/VBD it/PPO briefly/RB ./pct
 If/CS he/PPS wondered/VBD whether/CS the/AT attackers/NNS would/MD allow/VB him/PPO to/TO pull/VB away/RB unmolested/JJ ,/pct he/PPS had/HVD his/PPg answer/NN a/AT moment/NN later/RBR ./pct
 ``/pct Over/IN this/DT way/NN !/pct !/pct
-He/PPS ain't /None gone/VBN far/RB ''/pct !/pct !/pct
+He/PPS ain't/HVZ* gone/VBN far/RB ''/pct !/pct !/pct
 A/AT harsh/JJ cry/NN floated/VBD to/IN him/PPO across/IN the/AT brush/NN ./pct
 A/AT carbine/NN cracked/VBD more/QL loudly/RB ,/pct and/CC a/AT slug/NN clipped/VBD fragments/NNS from/IN the/AT brush/NN off/IN at/IN one/CD side/NN ./pct
 The/AT would-be/JJ assassin/NN had/HVD his/PPg position/NN figured/VBN pretty/QL close/RB ./pct
@@ -156,7 +156,7 @@ A/AT slug/NN had/HVD torn/VBN half/ABN of/IN his/PPg stirrup-guard/NN away/RB ./
 A/AT second/OD twitched/VBD his/PPg shirtsleeve/NN ,/pct and/CC he/PPS felt/VBD a/AT brief/JJ burn/NN on/IN his/PPg upper/JJ arm/NN ./pct
 Another/DT snarled/VBD close/RB overhead/RB ./pct
 ``/pct Jumping/UH Jerusalem/UH !/pct !/pct
-Let's /None get/VB out/IN of/IN here/RB ''/pct !/pct !/pct
+Let's/VBPPO get/VB out/IN of/IN here/RB ''/pct !/pct !/pct
 At/IN the/AT first/OD shot/NN Russ/NP had/HVD hurled/VBN his/PPg mount/NN to/IN the/AT left/NR toward/IN the/AT side/NN of/IN the/AT winding/VBG draw/NN ./pct
 The/AT long/JJ minute/NN before/CS he/PPS reached/VBD effective/JJ cover/NN seemed/VBD endless/JJ ./pct
 Sweeping/VBG a/AT look/NN around/RB ,/pct he/PPS saw/VBD that/CS he/PPS was/BEDZ safe/JJ for/IN the/AT moment/NN ./pct

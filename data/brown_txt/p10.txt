@@ -6,18 +6,18 @@ I/PPSS did/DOD book/NN jackets/NNS and/CC covers/NNS for/IN paperback/NN reprint
 The/AT book/NN could/MD be/BE The/AT Brothers/NNS Karamazov/NP ,/pct but/CC it/PPS would/MD still/RB have/HV the/AT same/AP jacket/NN illustration/NN ./pct
 I/PPSS remember/VB once/CS I/PPSS did/DOD a/AT jacket/NN for/IN Magpie/NP Press/NN ;/pct ;/pct
 the/AT book/NN was/BEDZ a/AT fine/JJ historical/JJ novel/NN about/IN Edward/NP 3/CD ,/pct ,/pct and/CC I/PPSS did/DOD a/AT week/NN of/IN research/NN to/TO get/VB the/AT details/NNS just/QL right/JJ :/pct the/AT fifteenth-century/NN armor/NN ,/pct furnishings/NNS ,/pct clothes/NNS ./pct
-I/PPSS even/RB ferreted/VBD out/RP the/AT materials/NNS from/IN which/WDT shields/NNS were/BED made/VBN --/pct linden/NN wood/NN covered/VBN with/IN leather/NN --/pct so/CS I'd /None get/VB the/AT light/NN reflections/NNS accurate/JJ ./pct
+I/PPSS even/RB ferreted/VBD out/RP the/AT materials/NNS from/IN which/WDT shields/NNS were/BED made/VBN --/pct linden/NN wood/NN covered/VBN with/IN leather/NN --/pct so/CS I'd/PPSSMD get/VB the/AT light/NN reflections/NNS accurate/JJ ./pct
 McKenzie/NP ,/pct the/AT art/NN editor/NN ,/pct took/VBD one/CD look/NN at/IN my/PPg finished/VBN sketch/NN and/CC said/VBD ,/pct ``/pct Nothing/PN doing/VBG ,/pct Rufus/NP ./pct
-In/IN the/AT first/OD place/NN ,/pct it's /None static/JJ ;/pct ;/pct
-in/IN the/AT second/OD place/NN ,/pct it/PPS doesn't /None look/VB authentic/JJ ;/pct ;/pct
-and/CC in/IN the/AT third/OD place/NN ,/pct it/PPS would/MD cost/VB a/AT fortune/NN to/TO reproduce/VB in/IN the/AT first/OD place/NN --/pct you've /None got/VBN six/CD colors/NNS there/RB including/IN gold/NN ''/pct ./pct
+In/IN the/AT first/OD place/NN ,/pct it's/PPSBEZ static/JJ ;/pct ;/pct
+in/IN the/AT second/OD place/NN ,/pct it/PPS doesn't/DOZ* look/VB authentic/JJ ;/pct ;/pct
+and/CC in/IN the/AT third/OD place/NN ,/pct it/PPS would/MD cost/VB a/AT fortune/NN to/TO reproduce/VB in/IN the/AT first/OD place/NN --/pct you've/PPSSHV got/VBN six/CD colors/NNS there/RB including/IN gold/NN ''/pct ./pct
 I/PPSS said/VBD ,/pct ``/pct Mr./NP McKenzie/NP ,/pct it/PPS is/BEZ as/CS authentic/JJ as/CS careful/JJ research/NN can/MD make/VB it/PPO ''/pct ./pct
-He/PPS said/VBD ,/pct ``/pct That/WPS may/MD be/BE ,/pct but/CC it/PPS isn't /None authentic/JJ the/AT way/NN readers/NNS think/VB ./pct
+He/PPS said/VBD ,/pct ``/pct That/WPS may/MD be/BE ,/pct but/CC it/PPS isn't/BEZ* authentic/JJ the/AT way/NN readers/NNS think/VB ./pct
 They/PPSS know/VB from/IN their/PPg researches/NNS into/IN television/NN and/CC the/AT movies/NNS that/CS knights/NNS in/IN the/AT middle/JJ ages/NNS had/HVD beautiful/JJ flowing/VBG haircuts/NNS like/CS Little/JJ Lord/NN Fauntleroy/NP ,/pct and/CC only/AP the/AT villains/NNS had/HVD beards/NNS ./pct
-And/CC girls/NNS couldn't /None have/HV dressed/VBN like/CS that/DT --/pct it/PPS isn't /None transparent/JJ enough/QLP ''/pct ./pct
+And/CC girls/NNS couldn't/MD* have/HV dressed/VBN like/CS that/DT --/pct it/PPS isn't/BEZ* transparent/JJ enough/QLP ''/pct ./pct
 In/IN the/AT end/NN ,/pct I/PPSS did/DOD the/AT same/AP old/JJ picture/NN ,/pct the/AT naked/JJ girl/NN and/CC the/AT guy/NN in/IN the/AT doorway/NN ,/pct only/RB I/PPSS put/VBD a/AT Lord/NN Byron/NP shirt/NN on/IN the/AT guy/NN ,/pct gave/VBD him/PPO a/AT sword/NN instead/RB of/IN a/AT pistol/NN ,/pct and/CC painted/VBN in/RP furniture/NN from/IN the/AT stills/NNS of/IN a/AT costume/NN movie/NN ./pct
 McKenzie/NP was/BEDZ as/CS happy/JJ as/CS a/AT clam/NN ./pct
-``/pct That's /None authenticity/NN ''/pct ,/pct he/PPS said/VBD ./pct
+``/pct That's/DTBEZ authenticity/NN ''/pct ,/pct he/PPS said/VBD ./pct
 As/IN for/IN Donald/NP ,/pct he/PPS actually/RB sold/VBD paintings/NNS ./pct
 We/PPSS all/ABN painted/VBD in/IN our/PPg spare/JJ time/NN ,/pct and/CC we/PPSS had/HVD all/ABN started/VBN as/CS easel/NN painters/NNS with/IN scholarships/NNS ,/pct but/CC he/PPS was/BEDZ the/AT only/AP one/PN of/IN us/PPO who/WPS made/VBD any/DTI regular/JJ money/NN at/IN it/PPO ./pct
 Not/NEG much/AP ;/pct ;/pct
@@ -26,17 +26,17 @@ He/PPS had/HVD style/NN ,/pct a/AT real/JJ inner/JJ vision/NN of/IN his/PPg very
 It/PPS was/BEDZ strange/JJ stuff/NN --/pct it/PPS reminded/VBD me/PPO of/IN the/AT pictures/NNS of/IN a/AT child/NN ,/pct but/CC a/AT child/NN who/WPS has/HVZ never/RB played/VBN with/IN other/AP kids/NNS and/CC has/HVZ lived/VBN all/ABN its/PPg life/NN with/IN adults/NNS ./pct
 There/EX was/BEDZ the/AT freshness/NN of/IN color/NN ,/pct the/AT freedom/NN of/IN perception/NN ,/pct the/AT lack/NN of/IN self-consciousness/NN ,/pct but/CC with/IN a/AT twist/NN that/CS made/VBD the/AT forms/NNS leap/VB from/IN the/AT page/NN and/CC smack/VB you/PPO in/IN the/AT eye/NN ./pct
 We/PPSS used/VBD to/TO kid/VB him/PPO by/IN saying/VBG he/PPS only/RB painted/VBD that/DT way/NN because/CS he/PPS was/BEDZ so/QL nearsighted/JJ ./pct
-It/PPS may/MD have/HV been/BEN true/JJ for/IN all/ABN I/PPSS know/VB ,/pct because/CS his/PPg glasses/NNS were/BED like/CS the/AT bottoms/NNS of/IN milk/NN bottles/NNS ,/pct but/CC it/PPS didn't /None prevent/VB the/AT paintings/NNS from/IN being/BEG exciting/JJ ./pct
+It/PPS may/MD have/HV been/BEN true/JJ for/IN all/ABN I/PPSS know/VB ,/pct because/CS his/PPg glasses/NNS were/BED like/CS the/AT bottoms/NNS of/IN milk/NN bottles/NNS ,/pct but/CC it/PPS didn't/DOD* prevent/VB the/AT paintings/NNS from/IN being/BEG exciting/JJ ./pct
 He/PPS also/RB had/HVD ,/pct at/IN times/NNS ,/pct an/AT uncanny/JJ absent-minded/JJ air/NN like/CS a/AT sleepwalker/NN ;/pct ;/pct
-he/PPS would/MD look/VB right/QL through/IN you/PPO while/CS you/PPSS were/BED talking/VBG to/IN him/PPO ,/pct and/CC if/CS you/PPSS said/VBD ,/pct ``/pct For/IN Christ's/NPg sake/NN ,/pct Donald/NP ,/pct you've /None got/VBN Prussian/JJ blue/JJ all/ABN over/IN your/PPg shirt/NN ''/pct ,/pct he/PPS would/MD smile/VB ,/pct and/CC nod/VB ,/pct and/CC an/AT hour/NN later/RBR the/AT paint/NN would/MD be/BE all/ABN over/IN his/PPg pants/NNS as/QL well/RB ./pct
+he/PPS would/MD look/VB right/QL through/IN you/PPO while/CS you/PPSS were/BED talking/VBG to/IN him/PPO ,/pct and/CC if/CS you/PPSS said/VBD ,/pct ``/pct For/IN Christ's/NPg sake/NN ,/pct Donald/NP ,/pct you've/PPSSHV got/VBN Prussian/JJ blue/JJ all/ABN over/IN your/PPg shirt/NN ''/pct ,/pct he/PPS would/MD smile/VB ,/pct and/CC nod/VB ,/pct and/CC an/AT hour/NN later/RBR the/AT paint/NN would/MD be/BE all/ABN over/IN his/PPg pants/NNS as/QL well/RB ./pct
 Mrs./NP Monmouth/NP thought/VBD of/IN him/PPO as/CS her/PPg discovery/NN ,/pct and/CC she/PPS paid/VBD two/CD to/IN three/CD hundred/CD dollars/NNS for/IN a/AT painting/NN ./pct
-It/PPS was/BEDZ all/ABN gravy/NN ,/pct and/CC Donald/NP didn't /None need/VB much/AP to/TO live/VB on/IN ;/pct ;/pct
+It/PPS was/BEDZ all/ABN gravy/NN ,/pct and/CC Donald/NP didn't/DOD* need/VB much/AP to/TO live/VB on/IN ;/pct ;/pct
 none/PN of/IN us/PPO did/DOD ./pct
 We/PPSS shared/VBD the/AT expenses/NNS of/IN the/AT studio/NN ,/pct and/CC we/PPSS all/ABN lived/VBD within/IN walking/VBG distance/NN of/IN it/PPO ,/pct in/IN cheap/JJ lodgings/NNS of/IN one/CD kind/NN or/CC another/DT ./pct
-Attending/VBG the/AT life/NN class/NN was/BEDZ my/PPg idea/NN --/pct or/CC rather/RB ,/pct Askington's/NPg idea/NN ,/pct but/CC I/PPSS was/BEDZ ripe/JJ for/IN it/PPO ,/pct and/CC the/AT other/AP two/CD wouldn't /None have/HV gone/VBN if/CS I/PPSS hadn't /None talked/VBN them/PPO into/IN it/PPO ./pct
+Attending/VBG the/AT life/NN class/NN was/BEDZ my/PPg idea/NN --/pct or/CC rather/RB ,/pct Askington's/NPg idea/NN ,/pct but/CC I/PPSS was/BEDZ ripe/JJ for/IN it/PPO ,/pct and/CC the/AT other/AP two/CD wouldn't/MD* have/HV gone/VBN if/CS I/PPSS hadn't/HVD* talked/VBN them/PPO into/IN it/PPO ./pct
 I/PPSS wanted/VBD to/TO paint/VB again/RB ./pct
-I/PPSS hadn't /None done/VBN a/AT serious/JJ picture/NN in/IN almost/RB a/AT year/NN ./pct
-It/PPS wasn't /None just/RB the/AT pressure/NN of/IN work/NN ,/pct although/CS that/DT was/BEDZ the/AT excuse/NN I/PPSS often/RB used/VBD ,/pct even/RB to/IN myself/PPL ./pct
+I/PPSS hadn't/HVD* done/VBN a/AT serious/JJ picture/NN in/IN almost/RB a/AT year/NN ./pct
+It/PPS wasn't/BEDZ* just/RB the/AT pressure/NN of/IN work/NN ,/pct although/CS that/DT was/BEDZ the/AT excuse/NN I/PPSS often/RB used/VBD ,/pct even/RB to/IN myself/PPL ./pct
 It/PPS was/BEDZ the/AT kind/NN of/IN work/NN I/PPSS was/BEDZ doing/VBG ,/pct the/AT quality/NN of/IN the/AT ambition/NN it/PPS awoke/VBD in/IN me/PPO ,/pct that/WPS kept/VBD me/PPO from/IN painting/VBG ./pct
 I/PPSS kept/VBD saying/VBG ,/pct ``/pct If/CS I/PPSS could/MD just/RB build/VB up/RP a/AT reputation/NN for/IN myself/PPL ,/pct make/VB some/DTI real/JJ money/NN ,/pct get/VB to/TO be/BE well/RB known/VBN as/CS an/AT illustrator/NN --/pct like/CS Peter/NP Askington/NP ,/pct for/IN instance/NN --/pct then/RB I/PPSS could/MD take/VB some/DTI time/NN off/RP and/CC paint/VB ''/pct ./pct
 Askington/NP was/BEDZ a/AT kind/NN of/IN goal/NN I/PPSS set/VBD myself/PPL ;/pct ;/pct
@@ -46,7 +46,7 @@ The/AT night/NN we/PPSS first/OD met/VBD ,/pct at/IN one/PN of/IN Mrs./NP Monmou
 instead/RB of/IN a/AT necktie/NN he/PPS wore/VBD a/AT leather/NN bolo/NN drawn/VBN through/IN a/AT golden/JJ ring/NN in/IN which/WDT was/BEDZ set/VBN a/AT lump/NN of/IN pale/JJ pure/JJ jade/NN ./pct
 This/DT set/VBD his/PPg tone/NN :/pct richness/NN of/IN texture/NN and/CC color/NN ,/pct and/CC another/DT kind/NN of/IN richness/NN as/QL well/RB ,/pct for/CS his/PPg clothing/NN and/CC decorations/NNS would/MD have/HV paid/VBN the/AT Brush-off's/NPg rent/NN for/IN a/AT year/NN ./pct
 He/PPS was/BEDZ fifteen/CD years/NNS older/JJR than/CS I/PPSS --/pct forty-four/CD --/pct but/CC full/JJ of/IN spring/NN and/CC sparkle/NN ./pct
-He/PPS didn't /None look/VB like/CS what/WDT I/PPSS thought/VBD of/IN as/CS an/AT old/JJ man/NN ,/pct and/CC his/PPg lively/RB and/CC erudite/JJ speech/NN made/VBD him/PPO seem/VB even/RB younger/JJR ./pct
+He/PPS didn't/DOD* look/VB like/CS what/WDT I/PPSS thought/VBD of/IN as/CS an/AT old/JJ man/NN ,/pct and/CC his/PPg lively/RB and/CC erudite/JJ speech/NN made/VBD him/PPO seem/VB even/RB younger/JJR ./pct
 He/PPS was/BEDZ one/PN of/IN the/AT most/QL prominent/JJ magazine/NN illustrators/NNS in/IN America/NP ;/pct ;/pct
 you/PPSS saw/VBD one/PN of/IN his/PPg paintings/NNS on/IN the/AT cover/NN of/IN one/PN or/CC another/DT of/IN the/AT slick/JJ national/JJ magazines/NNS every/AT month/NN ./pct
 Life/NN had/HVD included/VBN him/PPO in/IN its/PPg ``/pct Modern/JJ American/JJ Artists/NNS ''/pct series/NN and/CC had/HVD photographed/VBN him/PPO at/IN his/PPg studio/NN in/IN the/AT East/JJ Sixties/NNS ;/pct ;/pct
@@ -59,28 +59,28 @@ In/IN the/AT course/NN of/IN our/PPg talk/NN ,/pct Askington/NP mentioned/VBD th
 ``/pct By/IN yourself/PPL ''/pct ?/pct ?/pct
 I/PPSS asked/VBD ./pct
 ``/pct No/RB ,/pct I/PPSS take/VB classes/NNS with/IN different/JJ people/NNS ''/pct ,/pct he/PPS said/VBD ./pct
-``/pct I/PPSS don't /None think/VB I've /None reached/VBN the/AT point/NN ,/pct yet/RB ,/pct where/WRB I/PPSS can/MD say/VB I/PPSS know/VB everything/PN I/PPSS ought/MD to/TO know/VB about/IN the/AT craft/NN ./pct
-Besides/RB ,/pct it's /None important/JJ to/IN the/AT way/NN a/AT painter/NN thinks/VBZ that/CS he/PPS should/MD move/VB in/IN a/AT certain/JJ atmosphere/NN ,/pct an/AT atmosphere/NN in/IN which/WDT he/PPS may/MD absorb/VB the/AT ideas/NNS of/IN other/AP masters/NNS ,/pct as/CS Durer/NP went/VBD to/IN Italy/NP to/TO meet/VB Bellini/NP and/CC Mantegna/NP ''/pct ./pct
+``/pct I/PPSS don't/DO* think/VB I've/PPSSHV reached/VBN the/AT point/NN ,/pct yet/RB ,/pct where/WRB I/PPSS can/MD say/VB I/PPSS know/VB everything/PN I/PPSS ought/MD to/TO know/VB about/IN the/AT craft/NN ./pct
+Besides/RB ,/pct it's/PPSBEZ important/JJ to/IN the/AT way/NN a/AT painter/NN thinks/VBZ that/CS he/PPS should/MD move/VB in/IN a/AT certain/JJ atmosphere/NN ,/pct an/AT atmosphere/NN in/IN which/WDT he/PPS may/MD absorb/VB the/AT ideas/NNS of/IN other/AP masters/NNS ,/pct as/CS Durer/NP went/VBD to/IN Italy/NP to/TO meet/VB Bellini/NP and/CC Mantegna/NP ''/pct ./pct
 He/PPS made/VBD a/AT circle/NN with/IN his/PPg thumb/NN and/CC fingers/NNS ./pct
-``/pct Painting/VBG isn't /None this/DT big/JJ ,/pct you/PPSS know/VB ./pct
-It/PPS doesn't /None embrace/VB only/RB the/AT artist/NN ,/pct alone/RB before/IN his/PPg easel/NN ./pct
+``/pct Painting/VBG isn't/BEZ* this/DT big/JJ ,/pct you/PPSS know/VB ./pct
+It/PPS doesn't/DOZ* embrace/VB only/RB the/AT artist/NN ,/pct alone/RB before/IN his/PPg easel/NN ./pct
 It/PPS is/BEZ as/QL large/JJ as/CS all/ABN of/IN art/NN ,/pct interdependent/JJ ,/pct varied/VBN ,/pct multitudinous/JJ ''/pct ./pct
 He/PPS threw/VBD his/PPg arms/NNS wide/JJ ,/pct his/PPg face/NN shining/VBG ./pct
 ``/pct The/AT artist/NN is/BEZ like/CS a/AT fragment/NN of/IN a/AT mosaic/NN --/pct no/RB ,/pct he/PPS is/BEZ more/AP than/IN that/DT ,/pct a/AT virtuoso/NN performer/NN in/IN some/DTI vast/JJ philharmonic/NN ./pct
-One/PN of/IN these/DTS days/NNS ,/pct I'm /None going/VBG to/TO organize/VB a/AT gigantic/JJ exhibition/NN that/WPS will/MD span/VB everything/PN that's /None being/BEG painted/VBN these/DTS days/NNS ,/pct from/IN extreme/JJ abstract/JJ expressionism/NN to/IN extreme/JJ photorealism/NN ,/pct and/CC then/RB you'll /None be/BE able/JJ to/TO see/VB at/IN a/AT glance/NN how/WRB much/AP artists/NNS have/HV in/IN common/JJ with/IN each/DT other/AP ./pct
+One/PN of/IN these/DTS days/NNS ,/pct I'm/PPSSBEM going/VBG to/TO organize/VB a/AT gigantic/JJ exhibition/NN that/WPS will/MD span/VB everything/PN that's/WPSBEZ being/BEG painted/VBN these/DTS days/NNS ,/pct from/IN extreme/JJ abstract/JJ expressionism/NN to/IN extreme/JJ photorealism/NN ,/pct and/CC then/RB you'll/PPSSMD be/BE able/JJ to/TO see/VB at/IN a/AT glance/NN how/WRB much/AP artists/NNS have/HV in/IN common/JJ with/IN each/DT other/AP ./pct
 The/AT eye/NN is/BEZ all/ABN ,/pct inward/RB or/CC outward/RB ./pct
 Ah/UH ,/pct what/WDT a/AT title/NN for/IN the/AT exhibition/NN :/pct The/AT Eye/NN is/BEZ All/ABN ''/pct !/pct !/pct
 ``/pct What/WDT do/DO you/PPSS study/VB ''/pct ?/pct ?/pct
 I/PPSS asked/VBD ./pct
 I/PPSS was/BEDZ fascinated/VBN ;/pct ;/pct
 just/RB listening/VBG to/IN him/PPO made/VBN me/PPO feel/VB intelligent/JJ ./pct
-``/pct I'm /None studying/VBG anatomy/NN with/IN Burns/NP ''/pct ,/pct he/PPS replied/VBD ./pct
+``/pct I'm/PPSSBEM studying/VBG anatomy/NN with/IN Burns/NP ''/pct ,/pct he/PPS replied/VBD ./pct
 ``/pct Maybe/RB you/PPSS know/VB him/PPO ./pct
 He/PPS teaches/VBZ at/IN the/AT Manhattan/NP School/NN of/IN Art/NN ''/pct ./pct
 I/PPSS nodded/VBD ./pct
 I/PPSS had/HVD studied/VBN with/IN Burns/NP ten/CD years/NNS before/RB ,/pct during/IN the/AT scholarship/NN year/NN the/AT Manhattan/NP gave/VBD me/PPO ,/pct along/IN with/IN the/AT five-hundred-dollar/JJ prize/NN for/IN my/PPg paintings/NNS of/IN bums/NNS on/IN Hudson/NP Street/NN ./pct
 Burns/NP and/CC I/PPSS had/HVD not/NEG loved/VBN each/DT other/AP ./pct
-``/pct I'm /None also/RB studying/VBG enameling/VBG with/IN Hajime/NP Iijima/NP ''/pct ,/pct he/PPS went/VBD on/RP ,/pct ``/pct and/CC twice/RB a/AT week/NN I/PPSS go/VB to/IN a/AT life/NN class/NN taught/VBN by/IN Pendleton/NP ''/pct ./pct
+``/pct I'm/PPSSBEM also/RB studying/VBG enameling/VBG with/IN Hajime/NP Iijima/NP ''/pct ,/pct he/PPS went/VBD on/RP ,/pct ``/pct and/CC twice/RB a/AT week/NN I/PPSS go/VB to/IN a/AT life/NN class/NN taught/VBN by/IN Pendleton/NP ''/pct ./pct
 ``/pct Osric/NP Pendleton/NP ''/pct ?/pct ?/pct
 I/PPSS said/VBD ./pct
 ``/pct My/PPg God/NP ,/pct is/BEZ he/PPS still/RB alive/JJ ?/pct ?/pct
@@ -88,36 +88,36 @@ He/PPS must/MD be/BE a/AT million/CD years/NNS old/JJ ./pct
 I/PPSS went/VBD to/IN a/AT retrospective/NN of/IN his/PPg work/NN when/WRB I/PPSS was/BEDZ eighteen/CD ,/pct and/CC I/PPSS thought/VBD he/PPS was/BEDZ a/AT contemporary/NN of/IN Cezanne's/NPg ''/pct ./pct
 ``/pct Not/NEG quite/ABL ''/pct ./pct
 Askington/NP laughed/VBD ./pct
-``/pct He's /None about/IN sixty/CD ,/pct now/RB ./pct
+``/pct He's/PPSBEZ about/IN sixty/CD ,/pct now/RB ./pct
 Still/RB painting/VBG ,/pct still/RB a/AT kind/NN of/IN modern/JJ impressionist/NN ,/pct beautiful/JJ canvases/NNS of/IN mountains/NNS and/CC farms/NNS ./pct
 He/PPS even/RB makes/VBZ the/AT city/NN look/NN like/CS one/PN of/IN Thoreau's/NPg hangouts/NNS ./pct
-I've /None always/RB admired/VBN him/PPO ,/pct and/CC when/WRB I/PPSS heard/VBD he/PPS was/BEDZ taking/VBG a/AT few/AP pupils/NNS ,/pct I/PPSS went/VBD to/IN him/PPO and/CC joined/VBD his/PPg class/NN ''/pct ./pct
-``/pct Yes/RB ,/pct it/PPS sounds/VBZ great/JJ ''/pct ,/pct I/PPSS said/VBD ,/pct ``/pct but/CC suppose/VB you/PPSS don't /None think/VB of/IN yourself/PPL as/CS an/AT impressionist/NN painter/NN ''/pct ?/pct ?/pct
-``/pct You're /None missing/VBG the/AT point/NN ''/pct ,/pct he/PPS said/VBD ./pct
+I've/PPSSHV always/RB admired/VBN him/PPO ,/pct and/CC when/WRB I/PPSS heard/VBD he/PPS was/BEDZ taking/VBG a/AT few/AP pupils/NNS ,/pct I/PPSS went/VBD to/IN him/PPO and/CC joined/VBD his/PPg class/NN ''/pct ./pct
+``/pct Yes/RB ,/pct it/PPS sounds/VBZ great/JJ ''/pct ,/pct I/PPSS said/VBD ,/pct ``/pct but/CC suppose/VB you/PPSS don't/DO* think/VB of/IN yourself/PPL as/CS an/AT impressionist/NN painter/NN ''/pct ?/pct ?/pct
+``/pct You're/PPSSBER missing/VBG the/AT point/NN ''/pct ,/pct he/PPS said/VBD ./pct
 ``/pct He/PPS has/HVZ the/AT magical/JJ eye/NN ./pct
 And/CC he/PPS is/BEZ a/AT great/JJ man/NN ./pct
 Contact/NN with/IN him/PPO is/BEZ stimulating/JJ ./pct
-And/CC that's /None the/AT trouble/NN with/IN so/QL many/AP artists/NNS today/NR ./pct
+And/CC that's/DTBEZ the/AT trouble/NN with/IN so/QL many/AP artists/NNS today/NR ./pct
 They/PPSS lack/VB stimulation/NN ./pct
 They/PPSS sit/VB alone/RB in/IN their/PPg rooms/NNS and/CC try/VB to/TO paint/VB ,/pct and/CC only/RB succeed/VB in/IN isolating/VBG themselves/PPLS still/QL farther/RBR from/IN life/NN ./pct
-That's /None one/PN of/IN the/AT reasons/NNS art/NN is/BEZ becoming/VBG a/AT useless/JJ occupation/NN ./pct
+That's/DTBEZ one/PN of/IN the/AT reasons/NNS art/NN is/BEZ becoming/VBG a/AT useless/JJ occupation/NN ./pct
 In/IN the/AT Middle/JJ Ages/NNS ,/pct in/IN the/AT Renaissance/NP ,/pct right/QL up/RP to/IN the/AT early/JJ nineteenth/OD century/NN ,/pct the/AT painter/NN was/BEDZ a/AT giant/NN in/IN the/AT world/NN ./pct
 He/PPS was/BEDZ an/AT artisan/NN ,/pct a/AT man/NN who/WPS studied/VBD his/PPg trade/NN and/CC developed/VBD his/PPg craftsmanship/NN the/AT way/NN a/AT goldsmith/NN or/CC a/AT wood/NN carver/NN did/DOD ./pct
 He/PPS filled/VBD a/AT real/JJ need/NN ,/pct showing/VBG society/NN what/WDT it/PPS looked/VBD like/CS ,/pct turning/VBG it/PPO inside/RB out/RP ,/pct portraying/VBG its/PPg wars/NNS and/CC its/PPg leaders/NNS ,/pct its/PPg ugliness/NN and/CC its/PPg beauties/NNS ,/pct reflecting/VBG its/PPg profound/JJ religious/JJ impulses/NNS ./pct
-He/PPS was/BEDZ a/AT propagandist/NN --/pct they/PPSS weren't /None afraid/JJ of/IN the/AT word/NN ,/pct then/RB --/pct satirist/NN ,/pct nature/NN lover/NN ,/pct philosopher/NN ,/pct scientist/NN ,/pct what/WDT you/PPSS will/VB ,/pct a/AT member/NN of/IN every/AT party/NN and/CC of/IN no/AT party/NN ./pct
+He/PPS was/BEDZ a/AT propagandist/NN --/pct they/PPSS weren't/BED* afraid/JJ of/IN the/AT word/NN ,/pct then/RB --/pct satirist/NN ,/pct nature/NN lover/NN ,/pct philosopher/NN ,/pct scientist/NN ,/pct what/WDT you/PPSS will/VB ,/pct a/AT member/NN of/IN every/AT party/NN and/CC of/IN no/AT party/NN ./pct
 But/CC look/VB at/IN us/PPO today/NR !/pct !/pct
 We/PPSS hold/VB safe/JJ little/AP jobs/NNS illustrating/VBG tooth-paste/NN ads/NNS or/CC the/AT salacious/JJ incidents/NNS in/IN trivial/JJ novels/NNS ,/pct and/CC most/AP of/IN our/PPg easel/NN painting/NN is/BEZ nothing/PN but/CC picking/VBG the/AT fluff/NN out/IN of/IN the/AT navel/NN so/CS it/PPS can/MD be/BE contemplated/VBN in/IN greater/JJR purity/NN ./pct
 A/AT bunch/NN of/IN amateur/NN dervishes/NNS !/pct !/pct
 What/WDT we/PPSS need/MD is/BEZ to/TO get/VB back/RB to/IN the/AT group/NN ,/pct to/IN learning/VBG and/CC apprenticeship/NN ,/pct to/IN the/AT cafe/NN and/CC the/AT school/NN ''/pct ./pct
 He/PPS could/MD certainly/RB talk/VB ./pct
-The/AT upshot/NN of/IN the/AT evening/NN was/BEDZ that/CS I/PPSS got/VBD the/AT address/NN of/IN Pendleton's/NPg studio/NN --/pct or/CC rather/RB ,/pct of/IN the/AT studio/NN in/IN which/WDT he/PPS gave/VBD his/PPg classes/NNS ,/pct for/CS he/PPS didn't /None work/VB there/RB himself/PPL --/pct and/CC joined/VBD the/AT life/NN class/NN ,/pct which/WDT met/VBD every/AT Tuesday/NR and/CC Thursday/NR from/IN ten/CD to/IN twelve/CD in/IN the/AT morning/NN ./pct
-It/PPS was/BEDZ an/AT awkward/JJ hour/NN ,/pct but/CC I/PPSS didn't /None have/HV to/TO punch/VB any/DTI time/NN clock/NN ,/pct and/CC it/PPS only/RB meant/VBD that/CS sometimes/RB I/PPSS had/HVD to/TO stay/VB a/AT couple/NN of/IN hours/NNS later/RBR at/IN the/AT drawing/VBG board/NN to/TO finish/VB up/RP a/AT job/NN ./pct
-After/IN a/AT short/JJ time/NN ,/pct both/ABX George/NP and/CC Donald/NP joined/VBD the/AT class/NN with/IN me/PPO so/CS they/PPSS wouldn't /None feel/VB lonely/JJ ,/pct and/CC we/PPSS used/VBD to/TO hang/VB a/AT sign/NN on/IN the/AT door/NN of/IN the/AT Brush-off/NP reading/VBG out/RP to/TO work/VB ./pct
+The/AT upshot/NN of/IN the/AT evening/NN was/BEDZ that/CS I/PPSS got/VBD the/AT address/NN of/IN Pendleton's/NPg studio/NN --/pct or/CC rather/RB ,/pct of/IN the/AT studio/NN in/IN which/WDT he/PPS gave/VBD his/PPg classes/NNS ,/pct for/CS he/PPS didn't/DOD* work/VB there/RB himself/PPL --/pct and/CC joined/VBD the/AT life/NN class/NN ,/pct which/WDT met/VBD every/AT Tuesday/NR and/CC Thursday/NR from/IN ten/CD to/IN twelve/CD in/IN the/AT morning/NN ./pct
+It/PPS was/BEDZ an/AT awkward/JJ hour/NN ,/pct but/CC I/PPSS didn't/DOD* have/HV to/TO punch/VB any/DTI time/NN clock/NN ,/pct and/CC it/PPS only/RB meant/VBD that/CS sometimes/RB I/PPSS had/HVD to/TO stay/VB a/AT couple/NN of/IN hours/NNS later/RBR at/IN the/AT drawing/VBG board/NN to/TO finish/VB up/RP a/AT job/NN ./pct
+After/IN a/AT short/JJ time/NN ,/pct both/ABX George/NP and/CC Donald/NP joined/VBD the/AT class/NN with/IN me/PPO so/CS they/PPSS wouldn't/MD* feel/VB lonely/JJ ,/pct and/CC we/PPSS used/VBD to/TO hang/VB a/AT sign/NN on/IN the/AT door/NN of/IN the/AT Brush-off/NP reading/VBG out/RP to/TO work/VB ./pct
 It/PPS was/BEDZ mostly/RB for/IN the/AT benefit/NN of/IN the/AT mailman/NN ,/pct because/CS hardly/RB anybody/PN else/RB ever/RB visited/VBD us/PPO ./pct
 In/IN a/AT way/NN ,/pct Askington/NP was/BEDZ right/JJ ./pct
 ``/pct Stimulating/JJ ''/pct was/BEDZ the/AT word/NN for/IN it/PPO ./pct
-I/PPSS don't /None know/VB that/CS it/PPS was/BEDZ always/RB as/QL rewarding/JJ as/CS I/PPSS had/HVD expected/VBN it/PPO to/TO be/BE ./pct
-Partly/RB ,/pct it/PPS was/BEDZ because/CS Pendleton/NP himself/PPL wasn't /None what/WDT I/PPSS anticipated/VBD ./pct
+I/PPSS don't/DO* know/VB that/CS it/PPS was/BEDZ always/RB as/QL rewarding/JJ as/CS I/PPSS had/HVD expected/VBN it/PPO to/TO be/BE ./pct
+Partly/RB ,/pct it/PPS was/BEDZ because/CS Pendleton/NP himself/PPL wasn't/BEDZ* what/WDT I/PPSS anticipated/VBD ./pct
 I/PPSS had/HVD come/VBN prepared/VBN to/TO worship/VB at/IN the/AT feet/NNS of/IN this/DT classic/NN ,/pct and/CC he/PPS turned/VBD out/RP to/TO be/BE a/AT rather/QL bitter/JJ old/JJ man/NN who/WPS smelled/VBD of/IN dead/JJ cigars/NNS ./pct
-No/RB ,/pct that/DT isn't /None quite/QL fair/JJ ./pct
+No/RB ,/pct that/DT isn't/BEZ* quite/QL fair/JJ ./pct
 Actually/RB ,/pct there/EX was/BEDZ a/AT lot/NN of/IN force/NN in/IN him/PPO ,/pct which/WDT is/BEZ why/WRB I/PPSS kept/VBD on/RP in/IN that/DT class/NN instead/RB of/IN quitting/VBG after/IN a/AT week/NN ./pct
